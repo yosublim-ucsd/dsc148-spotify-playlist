@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1284608,
+  "num_followers": 1284979,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
         }
       ],
-      "duration_ms": 194786,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+      "duration_ms": 336866,
+      "name": "Luv(sic.) pt3 (feat. Shing02)",
+      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -195,6 +199,38 @@
       "duration_ms": 392138,
       "name": "meet the grahams",
       "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -219,42 +255,6 @@
       "duration_ms": 173414,
       "name": "Konbini Wars",
       "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Luv(sic.) pt3 (feat. Shing02)",
-      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -575,6 +575,30 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "The Actual Proof",
+        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -599,30 +623,6 @@
       "duration_ms": 353346,
       "name": "Children Of The Internet - Ezra Collective Remix",
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "The Actual Proof",
-        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -707,6 +707,30 @@
       "duration_ms": 328573,
       "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
       "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Sleep Is the Cousin of Death",
+        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Dephlow",
+          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 154837,
+      "name": "Street Jazz",
+      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -807,30 +831,6 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Sleep Is the Cousin of Death",
-        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Dephlow",
-          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 154837,
-      "name": "Street Jazz",
-      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1067,6 +1067,50 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Everything's Beautiful",
+        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Phonte",
+          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Violets (feat. Phonte)",
+      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -1095,50 +1139,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "What Am I to Do?",
-        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "What Am I to Do?",
-      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Everything's Beautiful",
-        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Phonte",
-          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Violets (feat. Phonte)",
-      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1151,6 +1151,30 @@
       "duration_ms": 200829,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 178554,
+      "name": "aslongas (feat. Wakai & Tommy Richman)",
+      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1231,6 +1255,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
+        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193721,
+      "name": "Menthol (Live) - Spotify Ten Version",
+      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
         "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
       },
@@ -1251,22 +1291,6 @@
       "duration_ms": 253590,
       "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
       "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
-        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 193721,
-      "name": "Menthol (Live) - Spotify Ten Version",
-      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1307,30 +1331,6 @@
       "duration_ms": 186666,
       "name": "Bacc 2 Harlem",
       "url": "https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "mynameisnt",
-        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
-      },
-      "artists": [
-        {
-          "name": "mynameisntjmack",
-          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
-        },
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 178554,
-      "name": "aslongas (feat. Wakai & Tommy Richman)",
-      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "We Do It Remixes",
+        "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "We Do It (Jazz Spastiks Remix)",
+      "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Tulips",
         "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "We Do It Remixes",
-        "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        },
-        {
-          "name": "Jazz Spastiks",
-          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
-        }
-      ],
-      "duration_ms": 187941,
-      "name": "We Do It (Jazz Spastiks Remix)",
-      "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Funkin' Around",
+        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 106933,
+      "name": "Funkin' Around",
+      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
       },
@@ -1747,18 +1763,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Funkin' Around",
-        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o"
       },
       "artists": [
         {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 106933,
-      "name": "Funkin' Around",
-      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
+      "duration_ms": 193362,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1783,26 +1803,6 @@
       "duration_ms": 189418,
       "name": "Anointed Soul",
       "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o"
-      },
-      "artists": [
-        {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 193362,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
     },
     {
       "added_at": "2024-05-31 04:00:00",

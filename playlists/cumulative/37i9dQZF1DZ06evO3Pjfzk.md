@@ -2,9 +2,9 @@
 
 ### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This is Lainey Wilson\. The essential tracks, all in one playlist.
+> This is Lainey Wilson\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-63 songs - 3 hr 37 min
+64 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw) | 3:01 | 2023-09-15 |  |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 | 2023-09-15 |  |
 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 | 2023-09-15 |  |
+| [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 | 2024-06-03 |  |
 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 | 2024-04-21 |  |
 | [Prop Me Up Beside The Jukebox \(If I Die\) \[feat\. The Difftones\]](https://open.spotify.com/track/5X9G3iIyegabYrQQLuzFIs) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [The Difftones](https://open.spotify.com/artist/5MYSJaOAK3vklrmAlD3q5q) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:48 | 2024-03-30 |  |
 | [Refugee](https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Refugee](https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k) | 3:50 | 2024-05-26 |  |

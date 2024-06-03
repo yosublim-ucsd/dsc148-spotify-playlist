@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 150503,
+  "num_followers": 150533,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "By Faith",
         "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 186849,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -595,22 +595,6 @@
       "duration_ms": 198500,
       "name": "Surviving The Wasteland",
       "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -727,6 +711,22 @@
       "duration_ms": 236969,
       "name": "Louder Than a Lion",
       "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+        "name": "Into the Sea",
+        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
       },
       "artists": [
         {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+          "name": "Attalus",
+          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
         }
       ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
+      "duration_ms": 245080,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Into the Sea",
-        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
       },
       "artists": [
         {
-          "name": "Attalus",
-          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
         }
       ],
-      "duration_ms": 245080,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 253740,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
-      },
-      "artists": [
-        {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Blood of the Son",
+        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blood of the Son",
+      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Dark Cold Night",
         "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 257466,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Blood of the Son",
-        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
-      },
-      "artists": [
-        {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Blood of the Son",
-      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Anger",
-        "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 376119,
-      "name": "Anger",
-      "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 201226,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 376119,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Narrow Road",
-      "url": "https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Apology",
         "url": "https://open.spotify.com/album/2yzZZwf1oXZvHwGOY2cgs9"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 260232,
       "name": "Melancholy Machines",
       "url": "https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "No Altars",
-        "url": "https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "No Altars",
-      "url": "https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Think of Me",
         "url": "https://open.spotify.com/album/46NMUaEPuQdNjX3dJPexqt"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl"
+        "name": "No Altars",
+        "url": "https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9"
       },
       "artists": [
         {
-          "name": "Ashes Remain",
-          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
         }
       ],
-      "duration_ms": 223011,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
+      "duration_ms": 209128,
+      "name": "No Altars",
+      "url": "https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1615,22 +1599,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Finish Line (feat. Adam Gontier)",
-        "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+          "name": "Ashes Remain",
+          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
         }
       ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
+      "duration_ms": 223011,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1663,6 +1643,26 @@
       "duration_ms": 164753,
       "name": "On Becoming Willing",
       "url": "https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Finish Line (feat. Adam Gontier)",
+        "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
     }
   ],
   "unique_name": "Top Christian Rock",

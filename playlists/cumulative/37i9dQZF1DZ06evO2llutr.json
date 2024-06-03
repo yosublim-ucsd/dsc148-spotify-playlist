@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
+  "description": "This is Zach Bryan. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
   "name": "This Is Zach Bryan",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 174673,
       "name": "Condemned",
       "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 290892,
       "name": "Dawns (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 209089,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 238624,
       "name": "The Greatest Day of My Life",
       "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"

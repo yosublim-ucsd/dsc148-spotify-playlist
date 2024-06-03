@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: JELEE (\"Jellyfish Can't Swim in the Night\")",
-  "num_followers": 160103,
+  "num_followers": 160211,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "request",
-        "url": "https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I"
-      },
-      "artists": [
-        {
-          "name": "krage",
-          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
-        }
-      ],
-      "duration_ms": 224234,
-      "name": "request",
-      "url": "https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2"
-    },
-    {
-      "added_at": "2024-05-28 15:00:04",
-      "album": {
         "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
         "url": "https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 184243,
       "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
       "url": "https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ"
+    },
+    {
+      "added_at": "2024-05-28 15:00:04",
+      "album": {
+        "name": "request",
+        "url": "https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I"
+      },
+      "artists": [
+        {
+          "name": "krage",
+          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
+        }
+      ],
+      "duration_ms": 224234,
+      "name": "request",
+      "url": "https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
-        "url": "https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 284217,
-      "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
-      "url": "https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9"
-    },
-    {
-      "added_at": "2024-05-28 15:00:04",
-      "album": {
         "name": "\u60aa\u9b54\u306e\u5b50",
         "url": "https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 227679,
       "name": "\u60aa\u9b54\u306e\u5b50",
       "url": "https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp"
+    },
+    {
+      "added_at": "2024-05-28 15:00:04",
+      "album": {
+        "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
+        "url": "https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 284217,
+      "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
+      "url": "https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "\u904b\u547d\u3061\u3083\u3093",
-        "url": "https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "\u904b\u547d\u3061\u3083\u3093",
-      "url": "https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN"
-    },
-    {
-      "added_at": "2024-05-28 15:00:04",
-      "album": {
         "name": "\u6625\u7d1b\u3044",
         "url": "https://open.spotify.com/album/3KMRnceSDKE2YTO92fCq8b"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
+        "name": "\u904b\u547d\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj"
       },
       "artists": [
         {
-          "name": "\u30b7\u30e6\u30a4",
-          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
         }
       ],
-      "duration_ms": 180266,
-      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
+      "duration_ms": 196960,
+      "name": "\u904b\u547d\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -695,18 +679,18 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
+        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
       },
       "artists": [
         {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
         }
       ],
-      "duration_ms": 299255,
-      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
+      "duration_ms": 180266,
+      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 299255,
+      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
+    },
+    {
+      "added_at": "2024-05-28 15:00:04",
+      "album": {
         "name": "\u65c5\u306e\u3086\u304f\u3048",
         "url": "https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 214639,
       "name": "\u65c5\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv"
-    },
-    {
-      "added_at": "2024-05-28 15:00:04",
-      "album": {
-        "name": "\u5287\u5834\u7248\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9"
-      },
-      "artists": [
-        {
-          "name": "See-Saw",
-          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -783,18 +767,18 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
-        "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
+        "name": "\u5287\u5834\u7248\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9"
       },
       "artists": [
         {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
         }
       ],
-      "duration_ms": 216413,
-      "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
-      "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"
+      "duration_ms": 276160,
+      "name": "\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -811,6 +795,22 @@
       "duration_ms": 208635,
       "name": "\u30b9\u30ce\u30fc\u30ce\u30ef\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc"
+    },
+    {
+      "added_at": "2024-05-28 15:00:04",
+      "album": {
+        "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+        "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+      "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -847,18 +847,26 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh"
+        "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx"
       },
       "artists": [
         {
-          "name": "DAZBEE",
-          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        },
+        {
+          "name": "\u5de1\u5de1",
+          "url": "https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Scarlet",
-      "url": "https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS"
+      "duration_ms": 167966,
+      "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75"
     }
   ],
   "unique_name": "EQUAL Anime",

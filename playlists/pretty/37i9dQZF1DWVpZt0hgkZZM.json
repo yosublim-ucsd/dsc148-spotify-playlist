@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 31581,
+  "num_followers": 31609,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 172621,
       "name": "Senta Danada",
       "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
       },
@@ -439,38 +455,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "Cali Aj\u00ed",
-      "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "Cali Aj\u00ed",
+      "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Y Como Se Mata El Gusano?",
         "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 249746,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Grandes de la Cumbia Tropical",
         "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
       },
@@ -699,18 +715,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
       "artists": [
         {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
+      "duration_ms": 292352,
+      "name": "Te Har\u00e9 Cambiar",
+      "url": "https://open.spotify.com/track/7jWjLAC9IBsWWcfpqLU23I"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -767,26 +787,6 @@
       "duration_ms": 264800,
       "name": "Te Voy a Hacer Falta",
       "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 292352,
-      "name": "Te Har\u00e9 Cambiar",
-      "url": "https://open.spotify.com/track/7jWjLAC9IBsWWcfpqLU23I"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
-        }
-      ],
-      "duration_ms": 277636,
-      "name": "Busc\u00e1ndote",
-      "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -1003,18 +983,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de Latin Brothers",
-        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
+        "name": "16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
       },
       "artists": [
         {
           "name": "The Latin Brothers",
           "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
         }
       ],
-      "duration_ms": 286120,
-      "name": "Las Calaveras",
-      "url": "https://open.spotify.com/track/1JpeagoyT9ax1fZlGyXrCR"
+      "duration_ms": 277636,
+      "name": "Busc\u00e1ndote",
+      "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1059,54 +1043,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Como en un Baile",
-        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 364617,
-      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Caliventura",
-      "url": "https://open.spotify.com/track/5P1vcUYy4BxJA1jWpSXPia"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Historia Musical de Latin Brothers",
-        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "Fuma el Barco",
-      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -1127,18 +1063,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "El Baile de la Quebradita",
-        "url": "https://open.spotify.com/album/1vRkuGwrTKgOcSPOGwOTSV"
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Sufro por Este Amor (Baile de la Quebradita)",
-      "url": "https://open.spotify.com/track/50pqdArO9o1AZx4C4eQ0TH"
+      "duration_ms": 364617,
+      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1159,6 +1095,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Caliventura",
+      "url": "https://open.spotify.com/track/5P1vcUYy4BxJA1jWpSXPia"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Historia Musical de el Tropicombo",
         "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
@@ -1175,6 +1127,38 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Historia Musical de Latin Brothers",
+        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        }
+      ],
+      "duration_ms": 286120,
+      "name": "Las Calaveras",
+      "url": "https://open.spotify.com/track/1JpeagoyT9ax1fZlGyXrCR"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "El Baile de la Quebradita",
+        "url": "https://open.spotify.com/album/1vRkuGwrTKgOcSPOGwOTSV"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Sufro por Este Amor (Baile de la Quebradita)",
+      "url": "https://open.spotify.com/track/50pqdArO9o1AZx4C4eQ0TH"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Colecciones de Oro",
         "url": "https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 216711,
       "name": "El Solitario",
       "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 266410,
+      "name": "Usted Es la Culpable",
+      "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Historia Musical de Latin Brothers",
+        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Fuma el Barco",
+      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
         "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 266410,
-      "name": "Usted Es la Culpable",
-      "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Historia Musical de el Tropicombo",
         "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
@@ -1291,6 +1291,26 @@
       "duration_ms": 234231,
       "name": "Qu\u00e9 Lindo Es Quererte",
       "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Si Me Dejaras (Te Necesito)",
+      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1388,29 +1408,13 @@
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
         },
         {
-          "name": "\u00c9der Ortega",
-          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
+          "name": "W\u00edllinton Garc\u00e9s",
+          "url": "https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR"
         }
       ],
-      "duration_ms": 247306,
-      "name": "Si Me Dejaras (Te Necesito)",
-      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
+      "duration_ms": 268811,
+      "name": "Golpes en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Sonido Digital Bailables",
-        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
+        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1467,22 +1467,6 @@
       "duration_ms": 376372,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/5EPQzXqUhEOhLW2aRXxAei"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 295879,
-      "name": "Bebiendo y Llorando",
-      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1510,15 +1494,47 @@
         {
           "name": "Los Ocho De Colombia",
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "W\u00edllinton Garc\u00e9s",
-          "url": "https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR"
         }
       ],
-      "duration_ms": 268811,
-      "name": "Golpes en el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Sonido Digital Bailables",
+        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 295879,
+      "name": "Bebiendo y Llorando",
+      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 248206,
-      "name": "La Marcha del Pato",
-      "url": "https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Historia Musical de los Nemus del Pac\u00edfico",
         "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 271573,
       "name": "El Debilitao",
       "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 248206,
+      "name": "La Marcha del Pato",
+      "url": "https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+        "name": "Historia Musical de Lisandro Meza: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo"
       },
       "artists": [
         {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+      "duration_ms": 149996,
+      "name": "Cumbia Indigena",
+      "url": "https://open.spotify.com/track/6ldMNUXJpdxFcPecYTHNU5"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 148536,
-      "name": "El Eco y el Carretero",
-      "url": "https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Historia Musical de 14 Vallenatos Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U"
       },
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de Lisandro Meza: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo"
+        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
       },
       "artists": [
         {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
         }
       ],
-      "duration_ms": 149996,
-      "name": "Cumbia Indigena",
-      "url": "https://open.spotify.com/track/6ldMNUXJpdxFcPecYTHNU5"
+      "duration_ms": 148536,
+      "name": "El Eco y el Carretero",
+      "url": "https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl"
     },
     {
       "added_at": "2024-04-06 00:31:40",

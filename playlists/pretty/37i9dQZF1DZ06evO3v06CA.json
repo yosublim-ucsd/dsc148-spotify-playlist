@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 193936,
+  "num_followers": 193975,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABc02ZpulULI80iSd2o/sqp",
+  "snapshot_id": "ZlpkgAAAAAA+K9CD2vUjCIdsWyFysDhs",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Sober (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 230033,
-      "name": "California Sober (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -595,34 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+        "name": "California Sober (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
       },
       "artists": [
         {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 167213,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+      "duration_ms": 230033,
+      "name": "California Sober (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
     },
     {
       "added_at": null,
@@ -807,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
-        "url": "https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 218878,
-      "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
-      "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -855,6 +803,66 @@
       "duration_ms": 305520,
       "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+        "url": "https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 218878,
+      "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+      "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life on a Rock",
+        "url": "https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Coconut Tree (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/3UJZ4VcHfSWyrMky8vobzv"
     },
     {
       "added_at": null,
@@ -903,26 +911,6 @@
       "duration_ms": 190560,
       "name": "The Last Cowboy Song",
       "url": "https://open.spotify.com/track/2zfK1yLW1HzHGbmYx6X9F8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life on a Rock",
-        "url": "https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Coconut Tree (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/3UJZ4VcHfSWyrMky8vobzv"
     },
     {
       "added_at": null,
@@ -1207,26 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 29843,
-      "name": "SMOKE HOUR II",
-      "url": "https://open.spotify.com/track/5tInFhbFRLTM4rFu6yVSJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
@@ -1247,8 +1215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
       "artists": [
         {
@@ -1256,9 +1224,29 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 228560,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+      "duration_ms": 185409,
+      "name": "Funny How Time Slips Away",
+      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 29843,
+      "name": "SMOKE HOUR II",
+      "url": "https://open.spotify.com/track/5tInFhbFRLTM4rFu6yVSJA"
     },
     {
       "added_at": null,
@@ -1279,6 +1267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Border",
         "url": "https://open.spotify.com/album/4Vke6DZ0NVfnxwovu5os0R"
       },
@@ -1291,26 +1295,6 @@
       "duration_ms": 309680,
       "name": "The Border",
       "url": "https://open.spotify.com/track/0WJlUu11GrZqqgrRQHeGsM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's What Makes the World Go Around",
-        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 197861,
-      "name": "That's What Makes The World Go Around",
-      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "added_at": null,
@@ -1343,22 +1327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+        "name": "That's What Makes the World Go Around",
+        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 270573,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+      "duration_ms": 197861,
+      "name": "That's What Makes The World Go Around",
+      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     }
   ],
   "unique_name": "This Is Willie Nelson",

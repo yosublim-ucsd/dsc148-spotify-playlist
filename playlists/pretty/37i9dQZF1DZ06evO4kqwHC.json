@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1062762,
+  "num_followers": 1062879,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAAC8xWSE77fvrI9fm6AMyeKa",
+  "snapshot_id": "ZlpkgAAAAADldBx+4Ah+2UK18jVQf+Qj",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 83800,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+      "duration_ms": 248266,
+      "name": "Hey, Johnny Park!",
+      "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 248266,
-      "name": "Hey, Johnny Park!",
-      "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
+      "duration_ms": 83800,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
     },
     {
       "added_at": null,

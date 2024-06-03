@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Situationship",
+        "url": "https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M"
+    },
+    {
+      "album": {
         "name": "Yours <3",
         "url": "https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr"
       },
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 183238,
       "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
       "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"

@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
-241 songs - 12 hr 49 min
+244 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Do It Again](https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:44 | 2023-06-22 | 2023-12-08 |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2024-02-09 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-06-09 |
+| [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 | 2024-06-03 |  |
 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 | 2023-07-11 | 2023-11-24 |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-06 | 2023-06-23 |
 | [Eufury](https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Eufury](https://open.spotify.com/album/6SOAaopbpAVjiUE80HA1X5) | 2:34 | 2022-12-26 | 2023-01-20 |
@@ -121,6 +122,7 @@
 | [Lawal \(3reft Trap\)](https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:44 | 2022-11-14 | 2022-11-18 |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-11-14 | 2022-12-13 |
 | [Lbaroud](https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX) | 2:56 | 2023-04-07 | 2023-12-08 |
+| [Lewandoski](https://open.spotify.com/track/5MVAnYGimyRpWDkTD6qvRB) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:29 | 2024-06-03 |  |
 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 | 2023-05-20 |  |
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-11-14 | 2023-01-06 |
 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 | 2023-09-30 | 2023-12-10 |
@@ -174,6 +176,7 @@
 | [QUI JE SUIS](https://open.spotify.com/track/296koeCGH32O1BhWxfIAdT) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [QUI JE SUIS](https://open.spotify.com/album/4Qws6G66bCX0T7jq96oUE0) | 3:16 | 2024-01-05 | 2024-02-16 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-12 | 2023-07-14 |
 | [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 | 2023-06-22 | 2024-02-09 |
+| [RABAT CITY JAZZ](https://open.spotify.com/track/766cFs4xFfSYwQrd8mL9qR) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RABAT CITY JAZZ](https://open.spotify.com/album/7ETrE6QoExiN4sBkfW429E) | 3:29 | 2024-06-03 |  |
 | [RADAR](https://open.spotify.com/track/7D1oLt3qqyjnxwOHUeqyNS) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7) | [RADAR](https://open.spotify.com/album/2NZGsUTyxOcGml7jPRweZQ) | 3:07 | 2023-03-02 | 2023-03-16 |
 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 | 2024-02-14 | 2024-05-18 |
 | [RALLY DAKAR](https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:25 | 2024-02-09 | 2024-05-26 |
@@ -198,7 +201,7 @@
 | [Sparadra](https://open.spotify.com/track/1ybqgwCcCt5kztLdVFFGlC) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/1Gd7I1x7td1pLFS0p8IIG1) | 2:13 | 2023-03-29 | 2023-06-16 |
 | [Sparadra](https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:13 | 2022-11-14 | 2023-04-01 |
 | [Sparta](https://open.spotify.com/track/3JrQYOR2x3TL9IyqHxjNCB) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Dj Mouss](https://open.spotify.com/artist/3HC41EHTcYGT6gOCgKa6on) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 2:25 | 2022-11-21 | 2022-11-26 |
-| [Stafit](https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:47 | 2024-05-10 |  |
+| [Stafit](https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:47 | 2024-05-10 | 2024-06-03 |
 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 | 2023-05-12 | 2023-08-27 |
 | [Started from the bottom](https://open.spotify.com/track/0EAA24o0ORdGsMnFPRPq9e) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 4:01 | 2022-11-14 | 2023-01-06 |
 | [Stephen Curry](https://open.spotify.com/track/07ywsLQdDF0lhOc6jjkccp) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Stephen Curry](https://open.spotify.com/album/4ieY1qa75WDQfK1wib55Ww) | 3:07 | 2023-11-13 | 2023-12-16 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
+> This is: Miel San Marcos\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,775 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,785 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 49 | [Shekina \(En Vivo\)](https://open.spotify.com/track/08xvwy9R89yO8WS0P6DaT2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 4:41 |
 | 50 | [Me Basta Tu Palabra](https://open.spotify.com/track/057pumBKYToozI7AF5bNwP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Me Basta Tu Palabra](https://open.spotify.com/album/13tqIx3kOoxaS0GR7byC9z) | 5:57 |
 
-Snapshot ID: `ZlkTAAAAAABegqWq/2JmLKVeIP8z9+RO`
+Snapshot ID: `ZlpkgAAAAAARsIBfD043LVoRX56KabD2`

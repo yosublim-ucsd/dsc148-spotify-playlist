@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-353 songs - 1 day 9 hr 24 min
+354 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 | 2022-12-08 | 2023-01-20 |
 | [Give Me Oil](https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [Give Me Oil](https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId) | 11:33 | 2024-04-05 |  |
 | [God of Miracles](https://open.spotify.com/track/0pILKxYDI5oilUN52AebIu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 5:20 | 2022-06-30 | 2023-09-03 |
-| [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2022-10-21 |  |
+| [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2022-10-21 | 2024-06-03 |
 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 | 2024-02-16 |  |
 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-16 |  |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 | 2024-03-22 |
@@ -220,6 +220,7 @@
 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 | 2023-12-05 | 2023-12-10 |
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 | 2023-06-29 |
 | [Never Leave Me](https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Never Leave Me](https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG) | 2:40 | 2022-06-30 | 2023-09-01 |
+| [Never Run Dry](https://open.spotify.com/track/6LBRgYzpd1uDeDVy7U1kn5) | [Ted Slaughter](https://open.spotify.com/artist/00rM1EYNcPPD1mBL3R7mDn) | [Never Run Dry](https://open.spotify.com/album/4iW6dI8EQqx7D3cPuSk4Jb) | 4:15 | 2024-06-02 |  |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-01-19 |  |
 | [New Heart](https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [New Heart](https://open.spotify.com/album/3c2ryFUaPcq9Gr1cZtKR6Z) | 3:22 | 2024-02-16 | 2024-03-12 |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2023-09-15 | 2023-11-14 |

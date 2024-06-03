@@ -954,8 +954,8 @@
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX"
         },
         {
           "name": "Kevin Abstract",
@@ -1430,8 +1430,8 @@
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX"
         }
       ],
       "date_added": "2024-05-01",
@@ -1520,8 +1520,8 @@
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX"
         }
       ],
       "date_added": "2024-05-01",
@@ -2294,8 +2294,8 @@
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX"
         }
       ],
       "date_added": "2024-05-01",
@@ -2312,8 +2312,8 @@
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX"
         }
       ],
       "date_added": "2024-05-01",
@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "album": {
         "name": "If Only + No One Noticed",
         "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
@@ -3480,8 +3498,8 @@
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX"
         }
       ],
       "date_added": "2024-05-01",

@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Imagine Dragons
 
-784 songs - 1 day 16 hr 29 min
+785 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 | 2023-08-11 | 2023-11-18 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-03-17 | 2022-07-29 |
 | [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 | 2023-09-08 | 2024-04-19 |
-| [Caught It \(with Chrissy Costanza & Against the Current\)](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against the Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 | 2024-05-31 |  |
+| [Caught It](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against The Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 | 2024-05-31 |  |
 | [Caution \- Radio Edit](https://open.spotify.com/track/4cI2rd2D44mBjwUVFxTkUZ) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Caution \(Radio Edit\)](https://open.spotify.com/album/6XnLSCbiS4TzjTFL2W9979) | 3:48 | 2022-03-24 | 2022-04-21 |
 | [celebrate](https://open.spotify.com/track/7nlvjuAdtKroFHdgqwCBKC) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [celebrate](https://open.spotify.com/album/3vnCUC9qSrGMalNNrV2Fj8) | 3:15 | 2022-03-24 | 2022-07-28 |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2022-03-24 | 2022-04-21 |
@@ -324,6 +324,7 @@
 | [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-02-20 | 2024-06-01 |
 | [Happy Again](https://open.spotify.com/track/6wSXqExVRDg4BgJf7zooC4) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Happy Again](https://open.spotify.com/album/0hcoDAsIEi5LIVe5AKNJ6b) | 3:17 | 2023-03-24 | 2024-04-21 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-03-24 | 2022-04-18 |
+| [Hazy](https://open.spotify.com/track/55ZGLH13fxQ5vyTLwd9AuG) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Hazy](https://open.spotify.com/album/0VAy378vBLuRUFlRaqVv7Q) | 3:21 | 2024-05-31 |  |
 | [He Can't Control You](https://open.spotify.com/track/7gfwdRTbXpDYBvwzJ8ZRWP) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [BANG](https://open.spotify.com/album/082FexUZSPr5QLnP9ZNkYk) | 3:42 | 2022-03-24 | 2022-04-12 |
 | [he loves me, he loves me not](https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [petals](https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb) | 2:37 | 2024-01-17 |  |
 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 | 2023-05-05 |  |
@@ -570,7 +571,7 @@
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-17 | 2023-10-07 |
 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-05-17 |  |
 | [Pretend](https://open.spotify.com/track/6L0CV2dKwROWygdfPUXKI2) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Let's Go Camping](https://open.spotify.com/album/4hKEjXh28wr4AcWB2FBZ6Q) | 3:02 | 2022-03-24 | 2022-04-16 |
-| [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 | 2024-02-20 |  |
+| [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 | 2024-02-20 | 2024-06-03 |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-03-24 |  |
 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-24 | 2024-04-20 |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-03-24 | 2023-11-18 |

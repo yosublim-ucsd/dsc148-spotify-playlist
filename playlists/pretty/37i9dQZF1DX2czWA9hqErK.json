@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1363824,
+  "num_followers": 1363855,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -419,54 +419,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Please Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -479,6 +431,22 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Please Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -527,6 +495,38 @@
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 196752,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
         "name": "clouds",
         "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
       },
@@ -671,6 +687,22 @@
       "duration_ms": 162615,
       "name": "clouds",
       "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 206218,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -695,22 +727,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 206218,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 196752,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -755,22 +771,6 @@
       "duration_ms": 149605,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 156358,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156358,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "The Mountain Is You",
-        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "The Mountain Is You",
-      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "The Last Bit Of Us",
         "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "Sweet Moment",
-        "url": "https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL"
+        "name": "The Mountain Is You",
+        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
       },
       "artists": [
         {
-          "name": "Mackenzy Mackay",
-          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 127204,
-      "name": "Sweet Moment",
-      "url": "https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX"
+      "duration_ms": 196210,
+      "name": "The Mountain Is You",
+      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -1007,6 +991,22 @@
       "duration_ms": 155761,
       "name": "Betting on Us",
       "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "Sweet Moment",
+        "url": "https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "duration_ms": 127204,
+      "name": "Sweet Moment",
+      "url": "https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "I've told the trees everything",
         "url": "https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 181925,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 236012,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
         "name": "Head Underwater",
         "url": "https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz"
       },
@@ -1187,22 +1207,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "end game",
-        "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146413,
-      "name": "end game",
-      "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "Still Yours (From The Doc)",
         "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
       },
@@ -1219,6 +1223,22 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
+        "name": "end game",
+        "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "end game",
+      "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
         "name": "In The Cards",
         "url": "https://open.spotify.com/album/5e3ZkbTHw3BtPoVI9VYXTS"
       },
@@ -1231,6 +1251,22 @@
       "duration_ms": 180493,
       "name": "In The Cards",
       "url": "https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 189966,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -1267,38 +1303,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Benny",
-      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "Somewhere Between",
         "url": "https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej"
       },
@@ -1311,6 +1315,22 @@
       "duration_ms": 220691,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Benny",
+      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 236012,
-      "name": "My Fault (feat. Noah Cyrus)",
-      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 191963,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "live more & love more",
+        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 158259,
+      "name": "live more & love more",
+      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -1395,22 +1411,6 @@
       "duration_ms": 202193,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 189966,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "added_at": "2024-05-31 12:14:22",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-05-31 12:14:22",
       "album": {
-        "name": "Some Type Of Skin",
-        "url": "https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Some Type Of Skin",
-      "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
-    },
-    {
-      "added_at": "2024-05-31 12:14:22",
-      "album": {
         "name": "Hell & Never Back",
         "url": "https://open.spotify.com/album/6CDmWmaobbfgAwtspuSvkp"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 164217,
       "name": "Hell & Never Back",
       "url": "https://open.spotify.com/track/2EdKKrPr5CUrb8oIUtZ7j9"
+    },
+    {
+      "added_at": "2024-05-31 12:14:22",
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Some Type Of Skin",
+      "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
     },
     {
       "added_at": "2024-05-31 12:14:22",

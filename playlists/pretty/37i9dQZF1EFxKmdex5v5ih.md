@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,041 likes - 286 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043 likes - 287 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 187 | [Brad Pitt](https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:01 |
 | 188 | [Any Day Now](https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:13 |
 | 189 | [Sorry For Myself](https://open.spotify.com/track/3gnijR68ZgnTEIrwFQsdfQ) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Sorry For Myself](https://open.spotify.com/album/2jJkAYn7UHtG47tv33mOdr) | 2:54 |
-| 190 | [Odds \- Bonus Track](https://open.spotify.com/track/0ci6bL4OULrhspWhWcgwE3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:13 |
-| 191 | [Maybe I Am](https://open.spotify.com/track/44nX7Y9AgkHyinw8RSXOgP) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:44 |
+| 190 | [Maybe I Am](https://open.spotify.com/track/44nX7Y9AgkHyinw8RSXOgP) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:44 |
+| 191 | [Odds \- Bonus Track](https://open.spotify.com/track/0ci6bL4OULrhspWhWcgwE3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:13 |
 | 192 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
 | 193 | [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 |
 | 194 | [Cross Your Mind](https://open.spotify.com/track/34m8N2AMqMZZsFOt5m9ffN) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Cross Your Mind](https://open.spotify.com/album/6UxDQJ8QaC9nRxNytyfYtH) | 3:35 |
@@ -287,12 +287,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 277 | [Thanks to U](https://open.spotify.com/track/0fJwGPIvrNpl02dk3lrwx4) | [Vog](https://open.spotify.com/artist/5ukt8aeApkMyluGHRS7oqy) | [Thanks to U](https://open.spotify.com/album/7L1WhX14BK3JG07HDRKTc9) | 4:57 |
 | 278 | [Hype](https://open.spotify.com/track/5iUJXEKoWeojgxraF6QBbD) | [Ry\-Ry](https://open.spotify.com/artist/0oWQWUVcmgdSvWmlc9vDEt) | [Hype](https://open.spotify.com/album/69kppV0ehy5Ae0fXW3XPUe) | 2:03 |
 | 279 | [While We Are](https://open.spotify.com/track/1qmo10n1v2uEjQwDZpWppF) | [25 Yard Screamer](https://open.spotify.com/artist/0rrJ9YYFiq3KPgI72gfQfD) | [Natural Satellite](https://open.spotify.com/album/0cLlvKL8BB8gHoQTRUist9) | 6:28 |
-| 280 | [Let's Talk About It](https://open.spotify.com/track/4jAXmvknvDTGcefIwnCJbt) | [Michael Blueyez](https://open.spotify.com/artist/3Tz8JNPrC4VApSRAw2gUwi) | [Long Road Home](https://open.spotify.com/album/6nc5um8r6reCXppFTl0z0L) | 3:33 |
-| 281 | [Nicotine](https://open.spotify.com/track/4UPVIRJm2VOEmxEOphMCrB) | [Lil Rockyy](https://open.spotify.com/artist/7D5IGXR8YfePpnkPeFyL7r) | [Ghost Boy](https://open.spotify.com/album/0bt0Ton29Z46CRu8uqNa6Y) | 2:27 |
-| 282 | [It Ain't Love](https://open.spotify.com/track/0fBYQIDK2lGqjv67AHju5F) | [Star Candy](https://open.spotify.com/artist/0ypSAR9wFSMZxJzDdbJzM0) | [Up Close](https://open.spotify.com/album/2Atzg6ScJm9y7EO2xR3hPV) | 5:09 |
-| 283 | [Need You Now \(Originally Performed by Armin van Buuren & Jake Reese\) \[Instrumental Version\]](https://open.spotify.com/track/2tjidqayLnhGjFZNKq7ZXt) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 24](https://open.spotify.com/album/2S8LNqG6yLCjLbXTbuKIFN) | 2:58 |
-| 284 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
-| 285 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
-| 286 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
+| 280 | [Up On A Hill](https://open.spotify.com/track/5MEeXlgf7c1GBpV2ffNFe4) | [Denny Chew](https://open.spotify.com/artist/0Zrt6s9H5XvxGsSf99zn9E) | [Relaxation Piano & Nature](https://open.spotify.com/album/46jcUfBnvetv6WWyMUTgd6) | 3:18 |
+| 281 | [Let's Talk About It](https://open.spotify.com/track/4jAXmvknvDTGcefIwnCJbt) | [Michael Blueyez](https://open.spotify.com/artist/3Tz8JNPrC4VApSRAw2gUwi) | [Long Road Home](https://open.spotify.com/album/6nc5um8r6reCXppFTl0z0L) | 3:33 |
+| 282 | [Nicotine](https://open.spotify.com/track/4UPVIRJm2VOEmxEOphMCrB) | [Lil Rockyy](https://open.spotify.com/artist/7D5IGXR8YfePpnkPeFyL7r) | [Ghost Boy](https://open.spotify.com/album/0bt0Ton29Z46CRu8uqNa6Y) | 2:27 |
+| 283 | [It Ain't Love](https://open.spotify.com/track/0fBYQIDK2lGqjv67AHju5F) | [Star Candy](https://open.spotify.com/artist/0ypSAR9wFSMZxJzDdbJzM0) | [Up Close](https://open.spotify.com/album/2Atzg6ScJm9y7EO2xR3hPV) | 5:09 |
+| 284 | [Dancehall](https://open.spotify.com/track/4GpqmcUvJcY5XJcwLSxMOi) | [Xternal](https://open.spotify.com/artist/1ddhUGauGANGPAmaUpgfvY) | [Old Fan Riddim](https://open.spotify.com/album/3egAD2whk3pAz5jMj13XyU) | 3:16 |
+| 285 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
+| 286 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
+| 287 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 
-Snapshot ID: `AbS7AgAAAABH/WDhbBuJObIkfvTmPUFN`
+Snapshot ID: `AbTAogAAAAAon392qUaNw6whZPvuD64G`

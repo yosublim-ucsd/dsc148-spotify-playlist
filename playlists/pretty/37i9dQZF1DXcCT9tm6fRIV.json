@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 238323,
+  "num_followers": 238358,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,26 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
+        "name": "El Tango Lo Siento As\u00ed",
+        "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        },
+        {
+          "name": "Leopoldo Federico y su Orquesta",
+          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Mano a Mano (with Leopoldo Federico y Su Orquesta)",
+      "url": "https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/4bk560hRfrAuBCHOpitRcp"
       },
@@ -135,22 +155,6 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 140032,
-      "name": "El Dia Que Me Quieras",
-      "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
         "name": "Los Lobos del Recuerdo",
         "url": "https://open.spotify.com/album/17BgcItk2ixHXDenSIdA4T"
       },
@@ -183,22 +187,34 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "El Tango Lo Siento As\u00ed",
-        "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
       "artists": [
         {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        },
-        {
-          "name": "Leopoldo Federico y su Orquesta",
-          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Mano a Mano (with Leopoldo Federico y Su Orquesta)",
-      "url": "https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw"
+      "duration_ms": 140032,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "Milonga de mis amores",
+        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
+      },
+      "artists": [
+        {
+          "name": "SEXTETO VISCERAL",
+          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
+      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -251,18 +267,22 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "Milonga de mis amores",
-        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
+        "name": "El Firulete",
+        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
       },
       "artists": [
         {
-          "name": "SEXTETO VISCERAL",
-          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        },
+        {
+          "name": "Leopoldo Federico y su Orquesta",
+          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
-      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
+      "duration_ms": 185626,
+      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
+      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -283,26 +303,6 @@
       "duration_ms": 240306,
       "name": "El Gordo Triste - En Vivo Teatro Regina 1982",
       "url": "https://open.spotify.com/track/4NCwFtSg0LkfOvqZ0pLIco"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
-        "name": "El Firulete",
-        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
-      },
-      "artists": [
-        {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        },
-        {
-          "name": "Leopoldo Federico y su Orquesta",
-          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
-      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Gallo Ciego - Instrumental",
-      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
         "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
         "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 154794,
       "name": "Por una Cabeza",
       "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Gallo Ciego - Instrumental",
+      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -471,6 +471,30 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        },
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Manu Sacco",
+          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
         "name": "A Pedido",
         "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 183560,
       "name": "Tinta Roja",
       "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        },
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        },
-        {
-          "name": "Manu Sacco",
-          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
-        }
-      ],
-      "duration_ms": 202240,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "La Luz de un F\u00f3sforo - En Vivo",
+      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
         "name": "Rescatados",
         "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 175003,
       "name": "Un Gui\u00f1o",
       "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La Luz de un F\u00f3sforo - En Vivo",
-      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
         "name": "Mi Version de los Hechos",
         "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
       },
@@ -1003,6 +987,42 @@
       "duration_ms": 233732,
       "name": "Cualquiera de Estas Noches",
       "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "Intimos, Vol. 1 en vivo en Bebop",
+        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Andr\u00e9s Linetzky",
+          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+        }
+      ],
+      "duration_ms": 320922,
+      "name": "Fuimos - En Vivo",
+      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -1043,42 +1063,6 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
-        "name": "Intimos, Vol. 1 en vivo en Bebop",
-        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Andr\u00e9s Linetzky",
-          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
-        }
-      ],
-      "duration_ms": 320922,
-      "name": "Fuimos - En Vivo",
-      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -1103,6 +1087,42 @@
       "duration_ms": 163333,
       "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
       "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        }
+      ],
+      "duration_ms": 287184,
+      "name": "Sue\u00f1o de Barrilete",
+      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
     },
     {
       "added_at": "2024-05-31 15:27:44",
@@ -1179,58 +1199,6 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        }
-      ],
-      "duration_ms": 287184,
-      "name": "Sue\u00f1o de Barrilete",
-      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
-        "name": "Detr\u00e1s de los Cerros",
-        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Los Crayones",
-          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
-        "name": "Todo Es Amor",
-        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
-      },
-      "artists": [
-        {
-          "name": "Cristian Chinellato",
-          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "Todo Es Amor",
-      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
-    },
-    {
-      "added_at": "2024-05-31 15:27:44",
-      "album": {
         "name": "Piazzolla & Amelita Baltar",
         "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
       },
@@ -1267,6 +1235,22 @@
     {
       "added_at": "2024-05-31 15:27:44",
       "album": {
+        "name": "Detr\u00e1s de los Cerros",
+        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Los Crayones",
+          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
         "name": "Tango Cosmopolita (with Gran Orquesta T\u00edpica OTRA)",
         "url": "https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 230160,
       "name": "Mimi Pinson (with Gran Orquesta T\u00edpica OTRA)",
       "url": "https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp"
+    },
+    {
+      "added_at": "2024-05-31 15:27:44",
+      "album": {
+        "name": "Todo Es Amor",
+        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
+      },
+      "artists": [
+        {
+          "name": "Cristian Chinellato",
+          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Todo Es Amor",
+      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
     },
     {
       "added_at": "2024-05-31 15:27:44",

@@ -1,13 +1,37 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 37525,
+  "num_followers": 37529,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAACIDZQTbit1UN3ebF7cF29d",
+  "snapshot_id": "ZlpkgAAAAABgJT9oFtNMftD2Uj//kBWO",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 225502,
+      "name": "Ex For A Reason (with JT from City Girls)",
+      "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
+    },
     {
       "added_at": null,
       "album": {
@@ -50,11 +74,15 @@
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 158332,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
     },
     {
       "added_at": null,
@@ -203,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 173752,
-      "name": "Female Goat",
-      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
@@ -259,26 +267,6 @@
       "duration_ms": 214468,
       "name": "Gorgeous Remix (feat. City Girls)",
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Love (feat. Usher)",
-        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 232787,
-      "name": "Good Love (feat. Usher)",
-      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
       "added_at": null,
@@ -399,22 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+        "name": "Wiggle It (feat. City Girls)",
+        "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Flashy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
+      "duration_ms": 172048,
+      "name": "Wiggle It (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
     },
     {
       "added_at": null,
@@ -435,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wiggle It (feat. City Girls)",
-        "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 172048,
-      "name": "Wiggle It (feat. City Girls)",
-      "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
+      "duration_ms": 165517,
+      "name": "Flashy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
     },
     {
       "added_at": null,
@@ -775,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Notch (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 169737,
-      "name": "Top Notch (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
       },
@@ -1003,6 +971,42 @@
       "duration_ms": 182813,
       "name": "She A Winner",
       "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 202942,
+      "name": "Season (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Tried It",
+        "url": "https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 126870,
+      "name": "You Tried It",
+      "url": "https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb"
     }
   ],
   "unique_name": "This Is City Girls",

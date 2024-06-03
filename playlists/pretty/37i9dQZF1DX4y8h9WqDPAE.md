@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751,483 likes - 160 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,751,454 likes - 160 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

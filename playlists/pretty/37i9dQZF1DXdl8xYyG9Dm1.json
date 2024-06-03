@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=-ZumlwK-Q4qpEoZjcUfCVw\"> Sarkodie</a>",
-  "num_followers": 152460,
+  "num_followers": 152491,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "DREAMS II",
         "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
@@ -463,26 +479,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -503,18 +499,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
       "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
         {
           "name": "Black Sherif",
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -559,6 +559,22 @@
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -623,26 +639,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Fly Girl",
-        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
-      },
-      "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
-        }
-      ],
-      "duration_ms": 194100,
-      "name": "Fly Girl",
-      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Ahol\u00e9",
         "url": "https://open.spotify.com/album/5GKcIxZeCqFlyak5bJV7ju"
       },
@@ -663,34 +659,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
-      },
-      "artists": [
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
         }
       ],
-      "duration_ms": 153893,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
+      "duration_ms": 194100,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -739,6 +723,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Take Care of Yourself Blacko",
+        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "YAYA",
+      "url": "https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "M.I.A",
         "url": "https://open.spotify.com/album/6lYbhvnxGcwRnCVGJkUspX"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 164000,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/1ErW8aGbAd4QK8NSnFQf1c"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Take Care of Yourself Blacko",
-        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 193381,
-      "name": "YAYA",
-      "url": "https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "coMPRess",
-        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 194811,
-      "name": "coMPRess",
-      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -963,6 +947,22 @@
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "coMPRess",
+        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 194811,
+      "name": "coMPRess",
+      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1079,26 +1083,6 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "FYN",
         "url": "https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH"
       },
@@ -1163,38 +1163,6 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1219,22 +1187,18 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1259,6 +1223,26 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
@@ -1279,22 +1263,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Crazy Crazy",
-        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 152368,
-      "name": "Crazy Crazy",
-      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Advice",
         "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
       },
@@ -1311,6 +1279,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru"
       },
@@ -1323,6 +1307,26 @@
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Chocobantis",
+          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1351,26 +1355,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "SHUT IT DOWN",
-        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Chocobantis",
-          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SHUT IT DOWN",
-      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Rich And Wacko",
         "url": "https://open.spotify.com/album/6No6i6W4UOm0oJw0PCKs8c"
       },
@@ -1387,6 +1371,26 @@
       "duration_ms": 280058,
       "name": "Change My Gear",
       "url": "https://open.spotify.com/track/42GXRc2VxjLAzuHmbLcaDP"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "BAD TILL ETERNITY (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "BAD TILL ETERNITY (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
     }
   ],
   "unique_name": "Afro Bars ",

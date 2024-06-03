@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > if you could see 'em now, you'd be proud
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,453 likes - 124 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,918 likes - 124 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

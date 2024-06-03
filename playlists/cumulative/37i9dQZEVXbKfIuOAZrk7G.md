@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,658 songs - 5 day 21 hr 2 min
+2,659 songs - 5 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 | 2023-09-06 | 2023-09-07 |
 | [Bat Out of Hell](https://open.spotify.com/track/0VafPclbphrwh36WraHWws) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 9:50 | 2022-01-23 | 2022-01-30 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-12-12 | 2023-12-30 |
-| [Bbl Drizzy](https://open.spotify.com/track/39zWzcFnV4yVcl8fH3MZbe) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Bbl Drizzy](https://open.spotify.com/album/45TZUBfcxnAdvZWVAHfeO2) | 3:24 | 2024-05-31 |  |
+| [Bbl Drizzy](https://open.spotify.com/track/39zWzcFnV4yVcl8fH3MZbe) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Bbl Drizzy](https://open.spotify.com/album/45TZUBfcxnAdvZWVAHfeO2) | 3:24 | 2024-05-31 | 2024-06-03 |
 | [BBL Drizzy](https://open.spotify.com/track/3oPMkgBRDSRt83Y9kFLiej) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [BBL Drizzy](https://open.spotify.com/album/1SlDK8vlcV39jfhC2fK5vY) | 3:34 | 2024-05-31 |  |
 | [Bbl Drizzy](https://open.spotify.com/track/7pSsX2zIEgNQ7bZLpZPgqL) | [TokenAngel](https://open.spotify.com/artist/4PA15r7220fuPRFk5hVumj) | [Bbl Drizzy](https://open.spotify.com/album/1NrONKqPMpofuPdoQdU4IU) | 3:24 | 2024-05-21 | 2024-06-01 |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2023-05-16 | 2023-05-27 |
@@ -990,7 +990,7 @@
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-03-14 | 2023-04-09 |
 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 | 2022-06-21 | 2022-07-06 |
 | [Hopelessly Devoted To You](https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:06 | 2022-08-10 | 2022-08-18 |
-| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-03-31 | 2024-05-29 |
+| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-03-31 |  |
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-07-13 | 2022-08-24 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-10-11 | 2022-10-20 |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-06-14 | 2022-07-06 |
@@ -1254,6 +1254,7 @@
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-05 | 2022-09-21 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-03-12 | 2023-03-27 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-11 | 2023-06-07 |
+| [La chaîne de mon tracteur](https://open.spotify.com/track/61F4Rp4Kh9jQZxO9B5KDDJ) | [Cayouche](https://open.spotify.com/artist/1BK4rRbvgkgYoOpPweuSJS) | [Un vieux hippy](https://open.spotify.com/album/4q0YDBc93g5K6WgP1Ovf6P) | 2:24 | 2024-06-02 |  |
 | [La Danse À St\-Dilon](https://open.spotify.com/track/1o7fCXSFzxdTpaMkpHm1Ns) | [Train D'enfer](https://open.spotify.com/artist/2zWtPB5y1uuwTB0PLapim1) | [Granit S'a Galerie](https://open.spotify.com/album/63coALIuFpvVmBRlKTbpBY) | 3:05 | 2024-01-02 | 2024-01-09 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-20 | 2024-02-05 |
 | [La Espada](https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [La Espada](https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R) | 2:57 | 2021-12-31 | 2022-01-15 |
@@ -1818,7 +1819,7 @@
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-04-11 | 2023-04-26 |
 | [PRICE OF FAME](https://open.spotify.com/track/4xKQtLZn8m2d2KJy13ZujE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 6:19 | 2022-07-19 | 2022-07-22 |
 | [prince of egypt](https://open.spotify.com/track/44U5sw3AvxKI0Sy0tYakll) | [Mofe.](https://open.spotify.com/artist/1KM7CSGxtFgMF8NmNuRGXa) | [prince of egypt](https://open.spotify.com/album/1EHDh2uYW1hJkziTZywt2k) | 2:04 | 2024-03-30 | 2024-04-03 |
-| [Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [City Of Doves](https://open.spotify.com/album/0Xm2sldIIZvDvcAOsgtIXo) | 3:13 | 2024-05-22 |  |
+| [Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [City Of Doves](https://open.spotify.com/album/0Xm2sldIIZvDvcAOsgtIXo) | 3:13 | 2024-05-22 | 2024-06-03 |
 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-02-14 | 2023-02-17 |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-05-09 | 2023-05-24 |
 | [Private Dancer \- 2015 Remaster](https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 7:14 | 2023-05-26 | 2023-06-02 |

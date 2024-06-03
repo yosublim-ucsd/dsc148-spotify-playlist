@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 105432,
+  "num_followers": 105476,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 289493,
-      "name": "Agolo",
-      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Guz Hits",
@@ -71,6 +55,22 @@
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 289493,
+      "name": "Agolo",
+      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -177,22 +177,6 @@
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Shinamania",
@@ -223,6 +207,22 @@
       "duration_ms": 428800,
       "name": "Ja Funmi",
       "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -275,6 +275,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Ma Jaiye Oni",
+      "url": "https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "The Best Of Victor Uwaifo, Vol. 1",
         "url": "https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 353106,
       "name": "Guitar Boy",
       "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Juju Music",
-        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Ma Jaiye Oni",
-      "url": "https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -359,22 +359,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "This Is Eddy Grant",
-        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 235799,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 265573,
       "name": "Baby Kilode",
       "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "This Is Eddy Grant",
+        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 235799,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -569,6 +569,26 @@
       "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
     },
     {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Neria",
@@ -605,58 +625,6 @@
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
-      },
-      "artists": [
-        {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Pennywhistle",
-      "url": "https://open.spotify.com/track/31TjeXsbZmwBbJqhwn6YG7"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Life Stories",
-        "url": "https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 365693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Horizon Unlimted",
@@ -671,6 +639,38 @@
       "duration_ms": 256306,
       "name": "Orere-Elejigbo",
       "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "XX - Celebrating 20 Years Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/2tOX9Qfl3lZcc8JlWEiokT"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/2OCDwRtjbmAVZaiF93pDn3"
     }
   ],
   "unique_name": "Classic Afropop",

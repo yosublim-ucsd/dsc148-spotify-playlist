@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "name": "This Is Black Eyed Peas",
+  "description": "This is \u30d6\u30e9\u30c3\u30af\u30fb\u30a2\u30a4\u30c9\u30fb\u30d4\u30fc\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30d6\u30e9\u30c3\u30af\u30fb\u30a2\u30a4\u30c9\u30fb\u30d4\u30fc\u30ba",
   "tracks": [
     {
       "album": {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 251440,
       "name": "Boom Boom Pow",
       "url": "https://open.spotify.com/track/3oDFtOhcN08qeDPAK6MEQG"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 278759,
       "name": "DOPENESS (feat. CL)",
       "url": "https://open.spotify.com/track/1LYuXxdooUiWRNMPEPleqX"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 219426,
       "name": "Just Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 217733,
       "name": "Let's Get It Started - Spike Mix",
       "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 158571,
       "name": "Pump It Louder",
       "url": "https://open.spotify.com/track/4PNKy9P3xrzqMwVzRjxBKt"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 312160,
       "name": "The Boogie That Be",
       "url": "https://open.spotify.com/track/12bZwKgVax8ibhwfiPgkQT"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 234374,
       "name": "VIDA LOCA",
       "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 287240,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/444PDY0AH99Pgnq6B9T4pZ"

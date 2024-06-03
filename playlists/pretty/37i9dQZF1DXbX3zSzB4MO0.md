@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,787 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,860 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 44 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 |
 | 45 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 |
 | 46 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 |
-| 47 | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6) | 3:07 |
-| 48 | [Atmosphere](https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX) | 3:02 |
+| 47 | [Atmosphere](https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX) | 3:02 |
+| 48 | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6) | 3:07 |
 | 49 | [My Addiction](https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL) | [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [My Addiction](https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l) | 2:37 |
 | 50 | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/track/51mycpP5uFInLw300nestX) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb) | 3:08 |
 | 51 | [Feels Like \(La La La\)](https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Feels Like \(La La La\)](https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn) | 2:48 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 72 | [Lennon](https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Lennon](https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI) | 3:25 |
 | 73 | [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 |
 | 74 | [RIDE OR DIE](https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [RIDE OR DIE](https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj) | 3:09 |
-| 75 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 |
+| 75 | [One Of A Kind](https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [One Of A Kind](https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0) | 2:18 |
 
 Snapshot ID: `ZhA++AAAAABiuWuzFtUlyJFoxZmjiMCW`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAACyG7wZ/gjVzt6SrJ3ctXf4",
+  "snapshot_id": "ZlpkgAAAAADdiWIjfr0AigTO85abcoaI",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+        "name": "ROLLERCOASTER",
+        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
         },
         {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 224593,
-      "name": "Better (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
+      "duration_ms": 207238,
+      "name": "tl;dr",
+      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
     },
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROLLERCOASTER",
-        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
-      },
-      "artists": [
-        {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 207238,
-      "name": "tl;dr",
-      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
@@ -260,25 +240,9 @@
           "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 175464,
-      "name": "Atmosphere (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 91580,
-      "name": "7PM",
-      "url": "https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq"
+      "duration_ms": 224593,
+      "name": "Better (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
     },
     {
       "added_at": null,
@@ -303,6 +267,22 @@
       "duration_ms": 201210,
       "name": "Holding Up The World (feat. Harrison & Albin Myers)",
       "url": "https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 91580,
+      "name": "7PM",
+      "url": "https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq"
     },
     {
       "added_at": null,
@@ -336,29 +316,13 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         },
         {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 182907,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 120745,
-      "name": "Like When We Were Kids",
-      "url": "https://open.spotify.com/track/7z20eGxDtGRcsbjABomnsp"
+      "duration_ms": 175464,
+      "name": "Atmosphere (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
     },
     {
       "added_at": null,
@@ -379,6 +343,22 @@
       "duration_ms": 215741,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 120745,
+      "name": "Like When We Were Kids",
+      "url": "https://open.spotify.com/track/7z20eGxDtGRcsbjABomnsp"
     },
     {
       "added_at": null,
@@ -410,11 +390,31 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
         }
       ],
-      "duration_ms": 93437,
-      "name": "In The Dark (Interlude)",
-      "url": "https://open.spotify.com/track/0i7YGVzXLSH2jyEWuIiufc"
+      "duration_ms": 182907,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
       "duration_ms": 165544,
       "name": "Outta This World",
       "url": "https://open.spotify.com/track/6nC4bYoL9hTcwRV4kqVjzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 224327,
-      "name": "Wavestation",
-      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
+      "duration_ms": 93437,
+      "name": "In The Dark (Interlude)",
+      "url": "https://open.spotify.com/track/0i7YGVzXLSH2jyEWuIiufc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
       "duration_ms": 240000,
       "name": "How Can It Be (feat. Maddee)",
       "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -551,28 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parallel World (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50"
-      },
-      "artists": [
-        {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 145811,
-      "name": "Play No Games (Harrison Remix)",
-      "url": "https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
       "artists": [
         {
@@ -580,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Ashe Maree",
-      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
+      "duration_ms": 224327,
+      "name": "Wavestation",
+      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
     },
     {
       "added_at": null,
@@ -594,35 +558,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tasty Raps, Vol. 1",
-        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 152472,
-      "name": "New Harrison Again",
-      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,
@@ -647,6 +587,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parallel World (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 145811,
+      "name": "Play No Games (Harrison Remix)",
+      "url": "https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tasty Raps, Vol. 1",
+        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 152472,
+      "name": "New Harrison Again",
+      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -654,11 +634,31 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 142500,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Ashe Maree",
+      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
     },
     {
       "added_at": null,

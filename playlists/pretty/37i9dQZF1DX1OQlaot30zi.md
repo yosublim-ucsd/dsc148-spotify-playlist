@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di MadMan, Tony Boy, ANNA, Icy Subzero, Diss Gacha e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,592 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,605 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 15 | [GAS](https://open.spotify.com/track/1vm8Lzx4Hd6vOKF5Q6GCXa) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [GAS](https://open.spotify.com/album/272OajDwr17InniWwa7BHj) | 2:36 |
 | 16 | [Maluna](https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Neza](https://open.spotify.com/artist/5P0yIpO0Chwcsh46xx4rWZ) | [Maluna](https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo) | 3:16 |
 | 17 | [Vita Diversa](https://open.spotify.com/track/2X7jLMQn3bfT3KvsrsrLiO) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Vita Diversa](https://open.spotify.com/album/7pDRCUQSkFfpvE1blKelXX) | 2:29 |
-| 18 | [OKOK](https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [OKOK](https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6) | 1:56 |
+| 18 | [OKOK](https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [OKOK](https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6) | 1:54 |
 | 19 | [Landing \(feat\. Low\-Red\)](https://open.spotify.com/track/5BAGDRm7iSlnMCgbMFJm0C) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 |
 | 20 | [Plenilunio](https://open.spotify.com/track/03QMANutV0NfUiEGHRQBdo) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Plenilunio](https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy) | 3:31 |
 | 21 | [Mare Calmo](https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:27 |

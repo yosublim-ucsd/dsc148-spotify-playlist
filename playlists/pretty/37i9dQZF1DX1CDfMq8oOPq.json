@@ -1,6 +1,6 @@
 {
   "description": "Big D e varias pretona braba",
-  "num_followers": 51961,
+  "num_followers": 52013,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 124500,
       "name": "Gostosa Posturada",
       "url": "https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Negona",
-        "url": "https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP"
-      },
-      "artists": [
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 186950,
-      "name": "Negona",
-      "url": "https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
@@ -319,6 +299,26 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Negona",
+        "url": "https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 186950,
+      "name": "Negona",
+      "url": "https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Sou + As Negras",
         "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
       },
@@ -335,30 +335,6 @@
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Len\u00e7ol",
-        "url": "https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Len\u00e7ol",
-      "url": "https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -419,6 +395,30 @@
       "duration_ms": 196165,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Len\u00e7ol",
+        "url": "https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Len\u00e7ol",
+      "url": "https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Eu amo ser negona",
-        "url": "https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG"
-      },
-      "artists": [
-        {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
-        },
-        {
-          "name": "G.a.B.o",
-          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
-        }
-      ],
-      "duration_ms": 157013,
-      "name": "Eu amo ser negona",
-      "url": "https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/4SWhKicqhmRaAICmYGfzsM"
       },
@@ -527,50 +507,6 @@
       "duration_ms": 168979,
       "name": "Splash",
       "url": "https://open.spotify.com/track/0MiKYMb1Xl8IKdPhX7FY42"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -595,22 +531,42 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Nega Doce",
-        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
       "artists": [
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 136888,
-      "name": "Nega Doce",
-      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Eu amo ser negona",
+        "url": "https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Eu amo ser negona",
+      "url": "https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -639,70 +595,66 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Verdinha Criminosa",
-        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
       "artists": [
         {
-          "name": "MC KTRINE",
-          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Hug\u00e3o",
-          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
         },
         {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
         }
       ],
-      "duration_ms": 159516,
-      "name": "Verdinha Criminosa",
-      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+        "name": "TAURUS/ \u00daNICA",
+        "url": "https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3"
       },
       "artists": [
         {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
         }
       ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+      "duration_ms": 126226,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
     },
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Perfil #89 - Sapi\u00eancia",
-        "url": "https://open.spotify.com/album/0WSNvJv1ZQqqwa8CISl1tQ"
+        "name": "Nega Doce",
+        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
         },
         {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
         }
       ],
-      "duration_ms": 232746,
-      "name": "Perfil #89 - Sapi\u00eancia",
-      "url": "https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z"
+      "duration_ms": 136888,
+      "name": "Nega Doce",
+      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -727,26 +679,70 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 158884,
-      "name": "+18",
-      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Verdinha Criminosa",
+        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
+      },
+      "artists": [
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Hug\u00e3o",
+          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "duration_ms": 159516,
+      "name": "Verdinha Criminosa",
+      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Perfil #89 - Sapi\u00eancia",
+        "url": "https://open.spotify.com/album/0WSNvJv1ZQqqwa8CISl1tQ"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Perfil #89 - Sapi\u00eancia",
+      "url": "https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -799,22 +795,26 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "TAURUS/ \u00daNICA",
-        "url": "https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3"
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 126226,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -831,26 +831,6 @@
       "duration_ms": 208264,
       "name": "Ashley Banks",
       "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -879,6 +859,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Regras",
         "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
       },
@@ -895,22 +891,6 @@
       "duration_ms": 122500,
       "name": "Regras",
       "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Glossy",
-        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 151596,
-      "name": "Glossy",
-      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -955,6 +935,66 @@
       "duration_ms": 145210,
       "name": "Muito Calma",
       "url": "https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "8KG",
+        "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "8KG",
+      "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Jogo de Cintura",
+        "url": "https://open.spotify.com/album/2JtXykA4JWLnJmMWenZpag"
+      },
+      "artists": [
+        {
+          "name": "Bell Pu\u00e3",
+          "url": "https://open.spotify.com/artist/6epqSiuqjXpK1cFKGDrm2n"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "Cigana Drill",
+      "url": "https://open.spotify.com/track/7xekeh1GgxyMxmM0K7Q11n"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -1039,46 +1079,6 @@
       "duration_ms": 307500,
       "name": "Sesh Delas",
       "url": "https://open.spotify.com/track/3RPBeD4ruUIc0Vy7DiOQFz"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "8KG",
-        "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "8KG",
-      "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Jogo de Cintura",
-        "url": "https://open.spotify.com/album/2JtXykA4JWLnJmMWenZpag"
-      },
-      "artists": [
-        {
-          "name": "Bell Pu\u00e3",
-          "url": "https://open.spotify.com/artist/6epqSiuqjXpK1cFKGDrm2n"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "Cigana Drill",
-      "url": "https://open.spotify.com/track/7xekeh1GgxyMxmM0K7Q11n"
     },
     {
       "added_at": "2024-05-31 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2308860,
+  "num_followers": 2309271,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAACwAtQk4sBriS82YAmgVCg7",
+  "snapshot_id": "ZlpkgAAAAAB/RriZuFcGCZ52P6diEmum",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 272826,
-      "name": "Tengo Todo Excepto a Ti",
-      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Concierto",
         "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 152173,
       "name": "Si Nos Dejan - En Vivo",
       "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 233840,
-      "name": "Si t\u00fa te atreves",
-      "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
+      "duration_ms": 184626,
+      "name": "Soy lo prohibido",
+      "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
       "duration_ms": 211440,
       "name": "No Me Platiques M\u00e1s",
       "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Soy lo prohibido",
-      "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
     },
     {
       "added_at": null,
@@ -555,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257573,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 251760,
       "name": "Voy a Apagar La Luz / Contigo Aprend\u00ed",
       "url": "https://open.spotify.com/track/4BCiucu42W0U9Y1eqPaQDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257573,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu"
     },
     {
       "added_at": null,
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
-      "url": "https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i"
+      "duration_ms": 204533,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
+      "duration_ms": 249000,
+      "name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
+      "url": "https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 324040,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/3llKUN9le04V1enu8MHudF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 324040,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/3llKUN9le04V1enu8MHudF"
+      "duration_ms": 245133,
+      "name": "M\u00e1s All\u00e1 De Todo",
+      "url": "https://open.spotify.com/track/7CbgafOaqArpdlZVlTpNeA"
     }
   ],
   "unique_name": "This Is Luis Miguel",

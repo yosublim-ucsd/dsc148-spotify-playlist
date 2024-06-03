@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 297181,
+  "num_followers": 297214,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+      "duration_ms": 258733,
+      "name": "Coward Of The County",
+      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 258733,
-      "name": "Coward Of The County",
-      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -499,18 +499,22 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -535,22 +539,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+    },
+    {
+      "added_at": "2024-03-05 19:38:43",
+      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 171653,
       "name": "Every Which Way but Loose - 2009 Remaster",
       "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2024-03-05 19:38:43",
-      "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+        "name": "I'm Jessi Colter",
+        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
         }
       ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+      "duration_ms": 203106,
+      "name": "I'm Not Lisa",
+      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "I'm Jessi Colter",
-        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
       "artists": [
         {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 203106,
-      "name": "I'm Not Lisa",
-      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 139760,
-      "name": "Amos Moses",
-      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
         }
       ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
+      "duration_ms": 139760,
+      "name": "Amos Moses",
+      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
+        "name": "Ramblin' Fever",
+        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If We're Not Back In Love By Monday",
+      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
+    },
+    {
+      "added_at": "2024-03-05 19:38:43",
+      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 145946,
       "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
       "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
-    },
-    {
-      "added_at": "2024-03-05 19:38:43",
-      "album": {
-        "name": "Ramblin' Fever",
-        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If We're Not Back In Love By Monday",
-      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
         }
       ],
-      "duration_ms": 179586,
-      "name": "Southern Nights",
-      "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
+      "duration_ms": 167706,
+      "name": "East Bound and Down",
+      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
-        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
       },
       "artists": [
         {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Paper Roses",
-      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
+      "duration_ms": 179586,
+      "name": "Southern Nights",
+      "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
     },
     {
       "added_at": "2024-03-05 19:38:43",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-03-05 19:38:43",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
+        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
+        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
         }
       ],
-      "duration_ms": 167706,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
+      "duration_ms": 158973,
+      "name": "Paper Roses",
+      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
     },
     {
       "added_at": "2024-03-05 19:38:43",

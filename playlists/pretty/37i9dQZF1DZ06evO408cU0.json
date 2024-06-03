@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 55859,
+  "num_followers": 55872,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABt5CiEWONJlELkT2OKiKyw",
+  "snapshot_id": "ZlpkgAAAAACa9chwzY7PORzZCYFbpOaW",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Esta Vez Soy Yo",
-      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
       "artists": [
         {
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Me Perd\u00ed De Un Amor",
-      "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
+      "duration_ms": 180200,
+      "name": "As\u00ed Te Necesito",
+      "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
     },
     {
       "added_at": null,
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 180200,
-      "name": "As\u00ed Te Necesito",
-      "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
+      "duration_ms": 157906,
+      "name": "Me Perd\u00ed De Un Amor",
+      "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
     },
     {
       "added_at": null,
@@ -655,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabes Que Lo Hago",
-        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Sabes Que Lo Hago",
-      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
         "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
       },
@@ -687,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabes Que Lo Hago",
+        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Sabes Que Lo Hago",
+      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -699,22 +683,6 @@
       "duration_ms": 199440,
       "name": "Ya Me Sirvi\u00f3 De Experiencia",
       "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Volver\u00e1s A Ser Feliz",
-      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
     },
     {
       "added_at": null,
@@ -739,6 +707,22 @@
       "duration_ms": 219093,
       "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Volver\u00e1s A Ser Feliz",
+      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
     },
     {
       "added_at": null,
@@ -939,6 +923,26 @@
       "duration_ms": 221893,
       "name": "El Cajoncito - En Vivo",
       "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos De Nuevo",
+        "url": "https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs"
     },
     {
       "added_at": null,

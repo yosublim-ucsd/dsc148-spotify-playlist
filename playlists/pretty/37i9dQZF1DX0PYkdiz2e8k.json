@@ -1,6 +1,6 @@
 {
   "description": "POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon",
-  "num_followers": 112811,
+  "num_followers": 112803,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,66 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "CONCRETE JUNGLE [THE OST]",
+        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 235092,
+      "name": "ANYTHING > HUMAN",
+      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -171,46 +231,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 300213,
-      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "Hayloft II (SMASHUP)",
         "url": "https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 223509,
       "name": "Hayloft II (SMASHUP)",
       "url": "https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "CONCRETE JUNGLE [THE OST]",
-        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 235092,
-      "name": "ANYTHING > HUMAN",
-      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -275,22 +275,6 @@
       "duration_ms": 199240,
       "name": "blindfolded",
       "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -331,6 +315,54 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Swing At Me",
+        "url": "https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "duration_ms": 205197,
+      "name": "Swing At Me",
+      "url": "https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -367,38 +399,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "ur just horny",
         "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Swing At Me",
-        "url": "https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN"
-      },
-      "artists": [
-        {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        }
-      ],
-      "duration_ms": 205197,
-      "name": "Swing At Me",
-      "url": "https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -483,22 +467,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "OFF MY FACE",
-      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -511,6 +479,22 @@
       "duration_ms": 197320,
       "name": "Take Me With You",
       "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -547,6 +531,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "leave me for dead",
+        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 176399,
+      "name": "leave me for dead",
+      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
         "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "leave me for dead",
-        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "leave me for dead",
-      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "SANCTUARY",
         "url": "https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "OFF MY FACE",
+      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Lindo, Gostoso!",
         "url": "https://open.spotify.com/album/75vK4bi7lvuhuEhcGKlXFc"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 133998,
       "name": "Lindo, Gostoso!",
       "url": "https://open.spotify.com/track/4iuNOEUMAaXlhAAcBgGPDP"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "you're not special",
         "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
       },
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "indieedgycool",
+        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "maybe (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "indieedgycool",
-        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
     }
   ],
   "unique_name": "do rockeeee",

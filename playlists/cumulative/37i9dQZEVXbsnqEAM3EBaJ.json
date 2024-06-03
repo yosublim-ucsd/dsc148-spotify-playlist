@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Furthermore",
+        "url": "https://open.spotify.com/album/5zgcqdr1BIAdEkLVQLpGJf"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359293,
+      "name": "Being boring - New version",
+      "url": "https://open.spotify.com/track/4SJ1F5TMLVo23DT29acZla"
+    },
+    {
+      "album": {
         "name": "Besar",
         "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
       },
@@ -13206,7 +13224,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 277360,
       "name": "It\u2019s a sin - New version",
       "url": "https://open.spotify.com/track/2qwltsFNa7BlujYKaZGrjC"
@@ -15706,7 +15724,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 267240,
       "name": "Love Me Madly (Live)",
       "url": "https://open.spotify.com/track/2heuRG3URpTd5ZX4xSv2Iz"
@@ -21512,7 +21530,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 269688,
       "name": "Run Run Se Fue pa'l Norte",
       "url": "https://open.spotify.com/track/5d7L6rZ5jEjPuC19aaFXjm"
@@ -21534,7 +21552,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 269688,
       "name": "Run Run Se Fue pal Norte",
       "url": "https://open.spotify.com/track/635eytTKxoTemLjS91q5mN"
@@ -25674,6 +25692,24 @@
       "duration_ms": 286167,
       "name": "The Last Remnant",
       "url": "https://open.spotify.com/track/4KPoIuoi3CGWeDcHv290mg"
+    },
+    {
+      "album": {
+        "name": "Sound of the Crowd - Greatest Hits Live in Concert",
+        "url": "https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263573,
+      "name": "The Lebanon (Live)",
+      "url": "https://open.spotify.com/track/5lbf0gy6mqpC7NeXeaCeAk"
     },
     {
       "album": {

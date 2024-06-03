@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,735 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,775 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 46 | [Gimme Shelter](https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Gimme Shelter](https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg) | 3:58 |
 | 47 | [Wrecking Ball](https://open.spotify.com/track/1dHklWqi0PRH51Xb7WiiYu) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 4:13 |
 | 48 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
-| 49 | [Get Lucky](https://open.spotify.com/track/4vByc3cAAtDeY1IsenYxze) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Get Lucky](https://open.spotify.com/album/2Eoaduo9ZMLpHLgPu0TYOF) | 3:08 |
-| 50 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 |
+| 49 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 |
+| 50 | [Get Lucky](https://open.spotify.com/track/4vByc3cAAtDeY1IsenYxze) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Get Lucky](https://open.spotify.com/album/2Eoaduo9ZMLpHLgPu0TYOF) | 3:08 |
 
 Snapshot ID: `ZgsWkgAAAABNwPSnzai+UW+TaT/vMa+2`

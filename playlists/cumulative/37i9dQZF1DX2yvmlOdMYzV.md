@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-719 songs - 1 day 15 hr 18 min
+720 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Again](https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Again](https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI) | 2:15 | 2023-03-04 | 2023-08-26 |
 | [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 | 2023-09-22 | 2023-12-18 |
 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 | 2021-12-15 | 2022-07-29 |
+| [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 |  |
 | [All A Dream](https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 2:28 | 2024-04-05 |  |
 | [All Bad](https://open.spotify.com/track/0G6ExlA2fcJIDGoayswUNT) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:51 | 2021-12-15 | 2022-04-05 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-14 |  |
@@ -358,7 +359,7 @@
 | [Let It Go](https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:22 | 2023-02-10 |  |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-26 |  |
 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 | 2024-02-17 |  |
-| [Let Me Know](https://open.spotify.com/track/6ThpQpPBewDQv65CJBmD0J) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Let Me Know](https://open.spotify.com/album/7KvAGVlZvGAB0qGYcjoazV) | 3:56 | 2023-03-10 |  |
+| [Let Me Know](https://open.spotify.com/track/6ThpQpPBewDQv65CJBmD0J) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Let Me Know](https://open.spotify.com/album/7KvAGVlZvGAB0qGYcjoazV) | 3:56 | 2023-03-10 | 2024-06-03 |
 | [Let This Go](https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Let This Go](https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V) | 2:57 | 2023-10-27 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 | 2023-04-15 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-06-23 |  |

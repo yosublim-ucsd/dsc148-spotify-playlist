@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 
 > 
 
-[ssamt](https://open.spotify.com/user/ssamt) - 0 like - 12 songs - 55 min 41 sec
+[ssamt](https://open.spotify.com/user/ssamt) - 0 like - 12 songs - 57 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 | 7 | [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 |
 | 8 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
 | 9 | [HUMBLE.](https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 2:57 |
-| 10 | [Darkness And Trees \- Reprise](https://open.spotify.com/track/45kgznK2dCoCfhIXhanR1y) | ['Come From Away' Company](https://open.spotify.com/artist/3yVB4N2PhQy60dAxzCoNdQ) | [Come From Away \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6SisHkIpxo4JN5kRcBEv9Z) | 1:44 |
-| 11 | [The Mariner's Revenge Song](https://open.spotify.com/track/3GDIZO71jiE1FEcHEJh3RH) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 8:45 |
-| 12 | [River Flows In You](https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(The Original & the Very First Recording\)](https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh) | 3:08 |
+| 10 | [The Mariner's Revenge Song](https://open.spotify.com/track/3GDIZO71jiE1FEcHEJh3RH) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 8:45 |
+| 11 | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO) | 2:51 |
+| 12 | [Outro](https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:07 |
 
-Snapshot ID: `AAAAS4RCVJnnfu0ixafy6urlxLXEDaj6`
+Snapshot ID: `AAAAT34LAXIMs3Eneg1y6Qakb92Nn3Yq`

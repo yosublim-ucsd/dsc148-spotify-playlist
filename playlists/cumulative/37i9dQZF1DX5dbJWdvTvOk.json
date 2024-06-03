@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Come to Me in the Silence of the Night",
+        "url": "https://open.spotify.com/album/0yOTmHU1sMWDhOoHi7TCdE"
+      },
+      "artists": [
+        {
+          "name": "Dominic Ruiz",
+          "url": "https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188623,
+      "name": "Come to Me in the Silence of the Night",
+      "url": "https://open.spotify.com/track/1V7vKOUi1FNJ2Ytl2ERakv"
+    },
+    {
+      "album": {
         "name": "Comfort Me",
         "url": "https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2"
       },
@@ -7288,7 +7306,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 146710,
       "name": "Morgensonne",
       "url": "https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq"

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 56788,
+  "num_followers": 56804,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAACQIq1v1HK2tcjdurz0WgQi",
+  "snapshot_id": "ZlpkgAAAAAD77H/3yDmiAYZ5+XFP5Pu5",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visi\u00f3n 20.20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 175560,
-      "name": "Bonita - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
       },
       "artists": [
         {
@@ -420,9 +420,25 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+      "duration_ms": 175560,
+      "name": "Bonita - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
     },
     {
       "added_at": null,
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+      "duration_ms": 161840,
+      "name": "Trono Ca\u00eddo",
+      "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Trono Ca\u00eddo",
-      "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/1fGux6tD9bRqucPsd1MJGi"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 196906,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/3gpI8YBhKnhngpL7GaE08B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X Aniversario",
         "url": "https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 196385,
       "name": "Se Vale Llorar",
       "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/1fGux6tD9bRqucPsd1MJGi"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 196906,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/3gpI8YBhKnhngpL7GaE08B"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Flor de Dalia",
-      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 20 \u00c9xitos Con Banda",
         "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+        "name": "15 Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
       },
       "artists": [
         {
@@ -684,25 +668,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Los Sauces Llorones",
-      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
-      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
+      "duration_ms": 163013,
+      "name": "Flor de Dalia",
+      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
     },
     {
       "added_at": null,
@@ -723,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
-        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
       "artists": [
         {
@@ -732,9 +700,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 168773,
-      "name": "Bajo Mil Llaves - En Vivo",
-      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
+      "duration_ms": 162360,
+      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
+      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
     },
     {
       "added_at": null,
@@ -748,9 +716,25 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Con el Brazo Derecho",
-      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
+      "duration_ms": 199706,
+      "name": "Los Sauces Llorones",
+      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
+        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "Bajo Mil Llaves - En Vivo",
+      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
     },
     {
       "added_at": null,
@@ -771,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 154880,
-      "name": "Mi Caballo El Invasor",
-      "url": "https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "12 Corridos",
         "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
       },
@@ -803,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
       "artists": [
         {
@@ -812,9 +780,25 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 154880,
+      "name": "Mi Caballo El Invasor",
+      "url": "https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 198280,
       "name": "Entre La Vida Y La Muerte",
       "url": "https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     }
   ],
   "unique_name": "This Is Lalo Mora",

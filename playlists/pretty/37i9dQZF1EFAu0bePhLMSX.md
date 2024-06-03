@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 155 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 155 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 86 | [Give And Take](https://open.spotify.com/track/33exaNQmkBIgcDh8hlYmHk) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:52 |
 | 87 | [New York City Lights](https://open.spotify.com/track/4axKdZZxEJ82NuhAtCTfLu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:52 |
 | 88 | [Starlite](https://open.spotify.com/track/50FsLjyg3LAjEyaw3IWt7R) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Prismophonic](https://open.spotify.com/album/5dx4v0NMzf2O6TCgfGrt0r) | 3:32 |
-| 89 | [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 |
-| 90 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
+| 89 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
+| 90 | [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 |
 | 91 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
 | 92 | [Battlestar](https://open.spotify.com/track/4WU919gMaUvTlR7xXQHjgN) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 4:07 |
 | 93 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 154 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 | 155 | [Automatic](https://open.spotify.com/track/71f96Tzf5I7uUokpF9qLG9) | [Sarah Whatmore](https://open.spotify.com/artist/6PJ4B6JfIQb05waZMBC8kQ) | [Automatic](https://open.spotify.com/album/4WQ0xzkKQi7Qrvl36XQlXk) | 3:12 |
 
-Snapshot ID: `AbS7AgAAAAALOuxivH/WjpTY+UoQeZf3`
+Snapshot ID: `AbTAogAAAAC6HojxIoDXdJYxPlS42H0V`

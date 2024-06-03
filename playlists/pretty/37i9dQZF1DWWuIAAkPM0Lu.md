@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Sommeren rammer med <a href="spotify:track:3CDYrDINLxRhjvvqbS">Lamin's</a> <a href="spotify:album:3Q4XiWwBXMxMlz9LZ2cZYo">EP</a> 🥵 tjek story og bli' solbrændt 🌅
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,891 likes - 107 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,000 likes - 107 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

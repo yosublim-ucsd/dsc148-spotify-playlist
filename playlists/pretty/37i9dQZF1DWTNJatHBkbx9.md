@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Y'AKOTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 399 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 49 | [Pew \(feat\. KwakuBs, KiddBlack, RJZ\)](https://open.spotify.com/track/4r1z8Rx2ycUDtdAwEqhQV3) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:00 |
 | 50 | [Tides](https://open.spotify.com/track/4y4rdAhUNDCTA69A7ssyiV) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [REMEMBER](https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q) | 4:32 |
 | 51 | [Lactose](https://open.spotify.com/track/0e3qyt6xOYv3KdyfWkHUgm) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Lactose](https://open.spotify.com/album/08uLn2YYWmcy7B9u5rxeoj) | 2:53 |
-| 52 | [PAIN DIARIES](https://open.spotify.com/track/7xvfAfqdSPrTkz8zWGKvkR) | [ACE ILLY](https://open.spotify.com/artist/4WgGQaorBvGbsZqOKXk9Wj), [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55) | [PAIN DAIRIES](https://open.spotify.com/album/4oYjflAodhMmzXXBCbxFU2) | 2:59 |
+| 52 | [PAIN DAIRIES](https://open.spotify.com/track/7xvfAfqdSPrTkz8zWGKvkR) | [ACE ILLY](https://open.spotify.com/artist/4WgGQaorBvGbsZqOKXk9Wj), [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55) | [PAIN DAIRIES](https://open.spotify.com/album/4oYjflAodhMmzXXBCbxFU2) | 2:59 |
 | 53 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 |
 | 54 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 |
 | 55 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |

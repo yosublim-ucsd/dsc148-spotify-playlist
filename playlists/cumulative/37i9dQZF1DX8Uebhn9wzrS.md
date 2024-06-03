@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,950 songs - 3 day 2 hr 15 min
+1,951 songs - 3 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [After Dawn](https://open.spotify.com/track/73JQim3QLhAAtlx0FJTdBp) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [No\. 18](https://open.spotify.com/artist/1p6OSG0rFg8ISBQXjWsfgm) | [After Dawn](https://open.spotify.com/album/16AdTgxCsPsA9TSuGtXsGf) | 2:50 | 2022-04-15 | 2022-07-08 |
 | [After Dawn](https://open.spotify.com/track/6nsqP8L7fscN3mUHM6dATz) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [After Dawn](https://open.spotify.com/album/4QZ6EWECTo82WXegipi6T3) | 2:26 | 2022-04-15 | 2023-08-18 |
 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 | 2023-10-13 |  |
-| [After Midnight](https://open.spotify.com/track/519Th4DzEIwqRFFM7Ipmfv) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [After Midnight](https://open.spotify.com/album/1FJzb5UKVaulznvHHJzgYL) | 2:17 | 2023-07-13 |  |
+| [After Midnight](https://open.spotify.com/track/519Th4DzEIwqRFFM7Ipmfv) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [After Midnight](https://open.spotify.com/album/1FJzb5UKVaulznvHHJzgYL) | 2:17 | 2023-07-13 | 2024-06-03 |
 | [After Prom](https://open.spotify.com/track/0mhVER3CT8gugVu2TDnWpf) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [After Prom](https://open.spotify.com/album/3k3Mc2XsfCt5qrFMC5pFmV) | 1:51 | 2022-08-19 | 2023-03-09 |
 | [after school](https://open.spotify.com/track/3TyjuHEE7JVQZWGurwxe61) | [Erin Bee](https://open.spotify.com/artist/5FX1lx52oWCDgiap5Q1QAu) | [after school](https://open.spotify.com/album/3wYUUZ0DZfAr6XmfKrg3bO) | 2:12 | 2022-04-15 | 2022-11-12 |
 | [After School Sunset](https://open.spotify.com/track/6WVt9GeG7x4VktA9rOlFg7) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [After School Sunset](https://open.spotify.com/album/7m5Q3hBMxbvoTupx4IoHyR) | 2:59 | 2023-04-11 |  |
@@ -583,6 +583,7 @@
 | [Fireworks \- New Beginnings](https://open.spotify.com/track/1ig7KupWNnSAWOhy0PIcH2) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Through The Seasons](https://open.spotify.com/album/0AKA4bhqvJ2nbJyoWELkGf) | 1:32 | 2023-07-13 |  |
 | [First Stop//Sao Paolo](https://open.spotify.com/track/3JkLMtATPlszhCNmWFHUzs) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [First Stop//Sao Paolo](https://open.spotify.com/album/6JAlxiE9wthnE9MajvWpqc) | 1:59 | 2023-08-17 | 2023-10-13 |
 | [first things first](https://open.spotify.com/track/1wEpA0CBRytqdJQcNT4UZB) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [first things first](https://open.spotify.com/album/1eox4CtQHP36x9RuByM2kW) | 2:11 | 2022-05-27 | 2024-05-14 |
+| [Fishizens](https://open.spotify.com/track/56YpXPDyWRzgElEKvTGTif) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Fishizens](https://open.spotify.com/album/1USqajnim2xRLIXKsNZKBc) | 1:39 | 2024-05-31 |  |
 | [five more days](https://open.spotify.com/track/2EuCUU8jBSglt5fgKC0g6r) | [R\. Kei](https://open.spotify.com/artist/4sQLc1Xp2p3ij01ApmgQdr) | [five more days](https://open.spotify.com/album/3oLQEhMZDidCCd8loSHFvX) | 2:53 | 2024-04-12 |  |
 | [flame fluids](https://open.spotify.com/track/3rlLUdQ1eaCFl0OCjThlKU) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [flame fluids](https://open.spotify.com/album/0UAmG41uG6Tg8TebPKzO8c) | 2:30 | 2023-02-06 | 2023-09-29 |
 | [Flash](https://open.spotify.com/track/4YzZwV3CsUsT2orcj9yTUg) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Flash](https://open.spotify.com/album/41rT3vekyBdqRumuZrpwuX) | 2:01 | 2024-02-02 |  |
@@ -1073,7 +1074,7 @@
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
-| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 | 2024-06-02 |
+| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 |  |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2023-03-01 |  |
 | [Miss lavii](https://open.spotify.com/track/4UpMl0ADAnyeLBM1TGbqtu) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:42 | 2022-04-15 | 2023-03-09 |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |
@@ -1427,7 +1428,7 @@
 | [Rooftop](https://open.spotify.com/track/2Fc4CqCia3MvJeWULkzW9o) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 2:06 | 2022-04-15 | 2022-11-12 |
 | [Roots of the Green](https://open.spotify.com/track/1b8U66FM9AsyPEc3fX7sai) | [Variantations](https://open.spotify.com/artist/0T9rN6QQTpCjTgS0lnxjp4) | [Nothing Nothing Nothing](https://open.spotify.com/album/1G8bOuwfnLfVelPOCCz2Mv) | 3:13 | 2022-04-15 | 2022-08-19 |
 | [rose quartz](https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [rose quartz](https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky) | 2:04 | 2024-01-12 |  |
-| [Roses](https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Roses](https://open.spotify.com/album/55goHQ2i5lKMDGiC7IDCLr) | 2:57 | 2023-07-13 |  |
+| [Roses](https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Roses](https://open.spotify.com/album/55goHQ2i5lKMDGiC7IDCLr) | 2:57 | 2023-07-13 | 2024-06-03 |
 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 | 2022-07-22 |  |
 | [Rouge](https://open.spotify.com/track/22bYbDsgnaER8slX9gY3Zl) | [Glader](https://open.spotify.com/artist/0yyL8zG1tfZVT8ID1syuNH) | [Rouge](https://open.spotify.com/album/1g5mZLj0mIyQ4uC5LhdqON) | 1:17 | 2022-04-15 | 2022-05-27 |
 | [Round & Round](https://open.spotify.com/track/1GRCZ3L8NGgr7kfQcWRnKH) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Round & Round](https://open.spotify.com/album/6zNSgXNh03UlRxw63KAbNA) | 2:32 | 2023-07-13 | 2023-10-27 |

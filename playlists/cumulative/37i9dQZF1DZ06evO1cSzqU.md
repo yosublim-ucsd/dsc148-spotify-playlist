@@ -2,7 +2,7 @@
 
 ### [This Is Scorpions](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
 
-> This is Scorpions\. The essential tracks, all in one playlist.
+> This Is Scorpions\. Los temas esenciales, todos en una lista.
 
 85 songs - 6 hr 28 min
 
@@ -54,7 +54,7 @@
 | [Maybe I Maybe You](https://open.spotify.com/track/1W95JRlpnOqFdEhPm3ja1h) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/6A7yMNb49roe3ENbpKDu4j) | 3:30 | 2023-12-13 |  |
 | [Maybe I Maybe You](https://open.spotify.com/track/6uQtaWpr6Z1gjFDfsZKXjl) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/2O3fcesMwLORDJZ8usRZuJ) | 3:30 | 2022-09-17 | 2023-12-14 |
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-09-17 |  |
-| [No Pain No Gain](https://open.spotify.com/track/1sVtCOmdRKyXQZmoS5psN7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 3:54 | 2022-09-17 |  |
+| [No Pain No Gain](https://open.spotify.com/track/1sVtCOmdRKyXQZmoS5psN7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 3:54 | 2022-09-17 | 2024-06-03 |
 | [Out Go The Lights \- Japan Bonus Track](https://open.spotify.com/track/6xzsakuDEPnxppCtArUP4O) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Out Go The Lights \(Japan Bonus Track\)](https://open.spotify.com/album/6M7HhWsikfG3YKqrS4pB4e) | 3:39 | 2022-10-07 | 2023-01-01 |
 | [Peacemaker](https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 2:56 | 2022-09-19 | 2024-03-28 |
 | [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 | 2022-09-17 |  |
@@ -64,7 +64,7 @@
 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 | 2022-09-17 |  |
 | [Roots In My Boots](https://open.spotify.com/track/4LWxZ4E5BPimogTZdi5CrB) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:17 | 2022-09-18 | 2022-10-13 |
 | [Ruby Tuesday](https://open.spotify.com/track/7utyUj2Clh0t5M77IA78u0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:55 | 2022-10-20 |  |
-| [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 | 2022-09-17 | 2024-06-02 |
+| [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 | 2022-09-17 |  |
 | [Seventh Sun](https://open.spotify.com/track/5RN6lrv6esmnuN9F62VQ2F) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 5:30 | 2022-10-12 |  |
 | [Shining Of Your Soul](https://open.spotify.com/track/3D0JskXs8rv4NGAO6nhkI3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 | 2022-09-18 | 2023-12-25 |
 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 | 2022-09-17 |  |
@@ -77,7 +77,7 @@
 | [The Language Of My Heart \- France Bonus Track](https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [The Language Of My Heart \(France Bonus Track\)](https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW) | 3:53 | 2022-09-17 | 2023-11-11 |
 | [The Sails of Charon \(2015 \- Remaster\)](https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S) | 5:11 | 2023-12-13 |  |
 | [The Sails of Charon \- 2015 \- Remaster](https://open.spotify.com/track/0KmJAc7tRRI3hWM7A0Ejtk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 5:11 | 2022-09-17 | 2023-12-14 |
-| [The Zoo](https://open.spotify.com/track/0YpmF3aZXOIuyi8itZbpkp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:30 | 2022-09-17 |  |
+| [The Zoo](https://open.spotify.com/track/0YpmF3aZXOIuyi8itZbpkp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:30 | 2022-09-17 | 2024-06-03 |
 | [To Be With You In Heaven](https://open.spotify.com/track/6gJmEEJOvfiVUmMOGxkGtu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:49 | 2024-01-03 | 2024-01-05 |
 | [Under The Same Sun](https://open.spotify.com/track/0NHBt8bp6tloebOWV3U3fN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 4:53 | 2022-09-17 |  |
 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 | 2022-09-17 |  |
@@ -91,7 +91,7 @@
 | [Where the River Flows \(feat\. Ina Müller\) \- Studio Edit](https://open.spotify.com/track/0uAaH1DhDFg2rumxVT2X1q) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY), [Ina Müller](https://open.spotify.com/artist/4sX5aHE7Jnbl4bTrah2aDu) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:53 | 2022-09-17 | 2022-10-09 |
 | [White Dove](https://open.spotify.com/track/3C5OACv4JfvLAmUdxVugrk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Live Bites](https://open.spotify.com/album/7CJ59CBDycdjun1rBbSKlK) | 4:20 | 2022-10-12 |  |
 | [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 | 2022-09-17 |  |
-| [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2022-09-17 | 2024-06-02 |
+| [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2022-09-17 |  |
 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 | 2022-09-17 |  |
 
 \*This playlist was first scraped on 2022-09-18. Prior content cannot be recovered.

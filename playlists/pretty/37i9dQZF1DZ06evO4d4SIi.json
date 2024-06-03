@@ -1,12 +1,12 @@
 {
-  "description": "This is Jordan Davis. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 33225,
+  "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
+  "num_followers": 33283,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABXYhKGPJF9dMbA4AwoBBdA",
+  "snapshot_id": "ZlpkgAAAAACz35q9nWMyJoR0ev5OvgiL",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 186790,
       "name": "What My World Spins Around",
       "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
       "added_at": null,
@@ -59,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/1BVzLiBS3MWmXzqcxBFJDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jordan Davis",
         "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
@@ -87,6 +91,22 @@
       "duration_ms": 159997,
       "name": "A Little Lime",
       "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179186,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/1BVzLiBS3MWmXzqcxBFJDt"
     },
     {
       "added_at": null,
@@ -123,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Drink Had Me",
-      "url": "https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good News Sold",
         "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
       },
@@ -151,6 +155,22 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Drink Had Me",
+      "url": "https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt"
     },
     {
       "added_at": null,
@@ -187,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country Gold",
         "url": "https://open.spotify.com/album/4O4Ivcxj7nW28W1cM4tl2y"
       },
@@ -219,6 +223,22 @@
       "duration_ms": 196733,
       "name": "Country Gold",
       "url": "https://open.spotify.com/track/6xevQf91nZicZCkdUVObU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP"
     },
     {
       "added_at": null,
@@ -255,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 161553,
+      "name": "Ruin My Weekend",
+      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
@@ -267,6 +303,22 @@
       "duration_ms": 176866,
       "name": "Trying",
       "url": "https://open.spotify.com/track/2mWp5olnLmpzAReIGK18dA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "Short Fuse",
+      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
     },
     {
       "added_at": null,
@@ -287,22 +339,6 @@
       "duration_ms": 174111,
       "name": "Good Beer",
       "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "Short Fuse",
-      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
     },
     {
       "added_at": null,
@@ -339,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Whiskey Weak",
+      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detours",
         "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
       },
@@ -355,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
@@ -364,9 +416,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 165146,
-      "name": "Whiskey Weak",
-      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
+      "duration_ms": 213689,
+      "name": "Going 'Round",
+      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
     },
     {
       "added_at": null,
@@ -391,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 213689,
-      "name": "Going 'Round",
-      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trouble Town",
         "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
       },
@@ -419,22 +455,6 @@
       "duration_ms": 184174,
       "name": "Trouble Town",
       "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "I Still Smoked",
-      "url": "https://open.spotify.com/track/2SMzVQE4Y1k0idunVh6R2R"
     },
     {
       "added_at": null,

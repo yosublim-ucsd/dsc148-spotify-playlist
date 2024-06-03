@@ -2,7 +2,7 @@
 
 ### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This Is Phil Wickham\. Los temas esenciales, todos en una lista.
+> This is Phil Wickham\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 51 songs - 4 hr 0 min
 
@@ -47,7 +47,7 @@
 | [THE JESUS WAY • HOMETOWN VERSION](https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:56 | 2024-05-29 |  |
 | [THE JESUS WAY • HOMETOWN VERSION](https://open.spotify.com/track/4olA4p06lJ29ubNfyN4996) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [THE JESUS WAY • HOMETOWN VERSION](https://open.spotify.com/album/0iAb2yRukMtuQb913isdMu) | 3:56 | 2024-05-24 | 2024-05-29 |
 | [The Secret Place \- Acoustic](https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:43 | 2024-05-24 |  |
-| [The Victory](https://open.spotify.com/track/35JEkFRFgRerZwkuNe5vJ3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 4:57 | 2024-05-24 |  |
+| [The Victory](https://open.spotify.com/track/35JEkFRFgRerZwkuNe5vJ3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 4:57 | 2024-05-24 | 2024-06-03 |
 | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ) | 3:55 | 2024-05-24 |  |
 | [This Is Amazing Grace](https://open.spotify.com/track/0RW1xWSPxmbXf012RN3yWl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Ascension](https://open.spotify.com/album/2VAnZv1lS7kfPHiwPO3JyE) | 4:39 | 2024-05-24 |  |
 | [This Is Our God](https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [This Is Our God](https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5) | 4:25 | 2024-05-24 |  |
@@ -57,7 +57,7 @@
 | [Where I'm Standing Now \(feat\. Brandon Lake\)](https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:30 | 2024-05-24 |  |
 | [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 | 2024-05-24 |  |
 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 | 2024-05-24 |  |
-| [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 | 2024-05-24 | 2024-06-01 |
+| [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 | 2024-05-24 |  |
 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 | 2024-05-24 |  |
 
 \*This playlist was first scraped on 2024-05-24. Prior content cannot be recovered.

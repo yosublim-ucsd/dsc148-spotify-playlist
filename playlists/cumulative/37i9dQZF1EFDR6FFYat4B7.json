@@ -522,10 +522,28 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 254407,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
+    },
+    {
+      "album": {
+        "name": "Honeymind",
+        "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254407,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/4SzzmN0KAH1qHbwQs4ssU7"
     },
     {
       "album": {

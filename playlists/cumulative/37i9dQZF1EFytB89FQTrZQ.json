@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/6NysRdnw6s1e8v4WfjcdDg"
+    },
+    {
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/2HhX8FC1y861CrSLMYwQLC"
       },
@@ -7095,6 +7113,28 @@
     },
     {
       "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/2l3WaRRp8nKatWZDVysMUR"
+    },
+    {
+      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
       },
@@ -7110,7 +7150,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
@@ -8160,10 +8200,32 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 231684,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9"
+    },
+    {
+      "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231684,
+      "name": "True Colours (feat. Self Esteem)",
+      "url": "https://open.spotify.com/track/6RtoIjw4BISeXqbju6b64E"
     },
     {
       "album": {

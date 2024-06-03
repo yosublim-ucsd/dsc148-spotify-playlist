@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 58894,
+  "num_followers": 58965,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAAC8q/EYsHSzIK2yB9Xc1MEo",
+  "snapshot_id": "ZlpkgAAAAABJChrW1iLW+Kcd8YJRlv0d",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/1HruIuiCO9N3UsDnypp4QT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solitario (En Vivo)",
         "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/1HruIuiCO9N3UsDnypp4QT"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 156252,
       "name": "Me Quiero Casar",
       "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "Sorry Pa\u2019 Los Gabachos",
-      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 177949,
       "name": "Sin Evidencias",
       "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "Sorry Pa\u2019 Los Gabachos",
+      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 154318,
-      "name": "Como No Quererte",
-      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 151498,
       "name": "El 10 De Mayo",
       "url": "https://open.spotify.com/track/5fcAzaH0WkUbSWjNfDdEnM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 154318,
+      "name": "Como No Quererte",
+      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Ismael Pa\u2019 Servirle",
-      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 164416,
       "name": "El G\u00fcicho",
       "url": "https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Ismael Pa\u2019 Servirle",
+      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 184739,
-      "name": "Suerte He Tenido",
-      "url": "https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 130143,
       "name": "Regreso Del Mayito Gordo (con Los Del Sombrero)",
       "url": "https://open.spotify.com/track/2FzJuV1z2BcreeROrKclAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 184739,
+      "name": "Suerte He Tenido",
+      "url": "https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 139856,
-      "name": "Agasajaba La Noche",
-      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Division del Terror",
         "url": "https://open.spotify.com/album/50IBkx5CBHsoge1jLv3z6L"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 157646,
       "name": "Pa' Morir Nacimos",
       "url": "https://open.spotify.com/track/2Fm2gfDFrrCMamS2pvOILQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 139856,
+      "name": "Agasajaba La Noche",
+      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 194452,
+      "name": "Te Presento A Mi Amante",
+      "url": "https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Buena Cepa",
         "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
@@ -715,6 +731,86 @@
       "duration_ms": 180638,
       "name": "Casi se les hizo (En Vivo)",
       "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 203632,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 132637,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/0yRpco279sej0ajW7c7RZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 240366,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/6L6TzXnjMEsMMbBdQJAha1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 194590,
+      "name": "Tristes Recuerdos",
+      "url": "https://open.spotify.com/track/48nNPyh2n8qKXpqAUPpbBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 174422,
+      "name": "La Ley Del Monte",
+      "url": "https://open.spotify.com/track/5EPXydzAN5pEXarJiqX4hn"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

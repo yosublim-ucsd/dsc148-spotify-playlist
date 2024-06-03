@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 280220,
+  "num_followers": 280383,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAACPoI80xFYW2akZimz1MME+",
+  "snapshot_id": "ZlpkgAAAAAAZwJBSCK6aYMrLW4nIqJu0",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 195875,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/2cJq3u0BRlsGFOYqP9KidJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Conspiracy",
         "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 195875,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2cJq3u0BRlsGFOYqP9KidJ"
     },
     {
       "added_at": null,
@@ -722,11 +722,15 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 197558,
-      "name": "Collateral Damage",
-      "url": "https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz"
+      "duration_ms": 195073,
+      "name": "Gum Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
     },
     {
       "added_at": null,
@@ -792,21 +796,17 @@
       "added_at": null,
       "album": {
         "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
       "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 195073,
-      "name": "Gum Body (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
+      "duration_ms": 225407,
+      "name": "Dangote",
+      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
     },
     {
       "added_at": null,
@@ -872,7 +872,7 @@
       "added_at": null,
       "album": {
         "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 225407,
-      "name": "Dangote",
-      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
+      "duration_ms": 147143,
+      "name": "Omo",
+      "url": "https://open.spotify.com/track/4FtuDjqmTPP9mjxygLKzEm"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+        "name": "On A Spaceship",
+        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
       },
       "artists": [
         {
@@ -916,9 +916,33 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 147143,
-      "name": "Omo",
-      "url": "https://open.spotify.com/track/4FtuDjqmTPP9mjxygLKzEm"
+      "duration_ms": 218866,
+      "name": "Soke",
+      "url": "https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Serani",
+          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
+        }
+      ],
+      "duration_ms": 203537,
+      "name": "Secret (feat. Jeremih & Serani)",
+      "url": "https://open.spotify.com/track/3KSnA0j67IFkiwmEotMGin"
     }
   ],
   "unique_name": "This Is Burna Boy",

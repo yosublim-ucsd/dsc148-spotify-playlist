@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-444 songs - 23 hr 19 min
+445 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/7BhDnbKnRvTUcgzFMJ5aok) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/6SraspRZ2caOJx8V7AIjFr) | 3:33 | 2022-04-14 | 2022-07-08 |
 | [Arabian Nights](https://open.spotify.com/track/3e9lh8yGoVFBfOWt9e3imb) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Diètro](https://open.spotify.com/artist/5qH3F8PeTa9G7XNNHxIDhW) | [Arabian Nights](https://open.spotify.com/album/3q7V5PK3x35jEic1tkeyqM) | 3:04 | 2022-04-21 | 2022-09-05 |
 | [Armageddon](https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [Armageddon](https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ) | 2:44 | 2023-01-12 | 2023-03-14 |
-| [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 | 2024-02-01 |  |
+| [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 | 2024-02-01 | 2024-06-03 |
 | [Attention](https://open.spotify.com/track/33PrROTmibJVlLYO5CZg0E) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Attention](https://open.spotify.com/album/4khR8sOn7QVzXrADwEWKwO) | 2:48 | 2022-12-27 | 2023-01-03 |
 | [Away](https://open.spotify.com/track/0jlOSE3AQyktZ1syrahVxq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Away](https://open.spotify.com/album/7p0C05QUXFD5TaJjA029Gn) | 3:05 | 2022-04-14 | 2022-06-24 |
 | [Baby, We Go Fast](https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec) | [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Baby, We Go Fast](https://open.spotify.com/album/6SodAOzVREjC27qIMnPlTB) | 3:30 | 2024-01-25 | 2024-02-16 |
@@ -86,6 +86,7 @@
 | [CRESCENDO](https://open.spotify.com/track/3jVmXFC8HWaCGsXDvsD7Ic) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/1LPhoR8nlHZ5EuDhwd7go0) | 3:38 | 2023-07-20 | 2023-08-17 |
 | [Criminal Minds](https://open.spotify.com/track/2rGv08UOtSl44xt7SC17zR) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Criminal Minds](https://open.spotify.com/album/6sdJwA6KueRhCENEa7ocEe) | 3:05 | 2022-06-30 | 2022-07-29 |
 | [Criminal Minds](https://open.spotify.com/track/661SaL85Dv0NV0wGhClHeq) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Criminal Minds](https://open.spotify.com/album/7IQ56ZSM0RjCz7gZVTFuZF) | 3:05 | 2022-07-28 | 2022-08-19 |
+| [Dance Therapy](https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN) | [Dance Therapy](https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa) | 2:05 | 2024-05-30 |  |
 | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4), [Hi\-Gate](https://open.spotify.com/artist/3b2xWHAlRoTooJKEnhc2cv) | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ) | 2:41 | 2024-05-30 |  |
 | [Dance Tonight](https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Dance Tonight](https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV) | 2:57 | 2022-04-14 | 2023-09-15 |
 | [Dance with Me](https://open.spotify.com/track/4AonDN7yeOZbMI2rIOYQHa) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Dance with Me](https://open.spotify.com/album/5DRaA5nqX3g0t3Yd8Hye3l) | 3:40 | 2022-12-27 | 2023-01-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 33308,
+  "num_followers": 33322,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABygeCp5w4bHHxeTWZEAvC7",
+  "snapshot_id": "ZlpkgAAAAACNgmyntUrAK5JKzwACO4md",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 358440,
-      "name": "Fill Me Up - Live",
-      "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Maverick Way - EP",
         "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
       },
@@ -151,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/0Hpaq689DaUrlEcAYso6vd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -171,28 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Song",
-        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 350480,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
@@ -200,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Overflow - Live",
-      "url": "https://open.spotify.com/track/0Hpaq689DaUrlEcAYso6vd"
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": null,
@@ -223,6 +203,34 @@
       "duration_ms": 438000,
       "name": "RATTLE!",
       "url": "https://open.spotify.com/track/6ENppsFuukhrhe3V8puNo1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 397216,
+      "name": "What He's Done - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
     },
     {
       "added_at": null,
@@ -363,30 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/19yNOXDt9RzLmAU2j9YnML"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 225623,
-      "name": "Awake My Soul",
-      "url": "https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -499,22 +483,6 @@
       "duration_ms": 85568,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
     },
     {
       "added_at": null,
@@ -655,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
+      "duration_ms": 326346,
+      "name": "Jesus Saves - Live",
+      "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
     },
     {
       "added_at": null,
@@ -735,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel According To PJ",
         "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 236352,
       "name": "Never Be The Same (feat. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene)",
       "url": "https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
     },
     {
       "added_at": null,
@@ -823,6 +807,26 @@
       "duration_ms": 111003,
       "name": "Our Eyes Are On You - Reprise",
       "url": "https://open.spotify.com/track/4f4ejAedbb54TevowKBgS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 346765,
+      "name": "In Spite Of Me",
+      "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
     },
     {
       "added_at": null,
@@ -891,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
       "artists": [
         {
@@ -900,9 +904,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+      "duration_ms": 131333,
+      "name": "God's About To Do It - Live",
+      "url": "https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6"
     },
     {
       "added_at": null,
@@ -939,26 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        },
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
         }
       ],
-      "duration_ms": 426733,
-      "name": "It Is Well - Live",
-      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
     },
     {
       "added_at": null,

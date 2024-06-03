@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-907 songs - 2 day 6 hr 56 min
+908 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Asylum](https://open.spotify.com/track/2Pgv52gjPdbW0Qbqe9AOsi) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [MRKTS](https://open.spotify.com/artist/2z2CemzRxlas1jnSzVmHhw) | [Asylum](https://open.spotify.com/album/3Y5WwpUzstiC4cevyz6Kgr) | 2:39 | 2021-12-17 | 2022-05-28 |
 | [At Large Depths](https://open.spotify.com/track/2d9Uauk7uCRYsmwlV24ojP) | [Eximinds](https://open.spotify.com/artist/2rDzllD1jSxxJCcRX2l55K) | [At Large Depths](https://open.spotify.com/album/2ZSMhTLbGCZB0OIMXIuDpg) | 3:25 | 2022-02-04 | 2023-02-25 |
 | [Athanasia](https://open.spotify.com/track/4EozhiAsKLnLBpxeLgwD4M) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Temple One](https://open.spotify.com/artist/04d81XptQA11pLPxMXLxC9) | [Athanasia](https://open.spotify.com/album/2q93kwnKjsR1QrqeTUDVux) | 3:20 | 2023-07-21 | 2023-12-09 |
+| [Atlantis](https://open.spotify.com/track/1WP9NNeq3EDXIg46aqFD9v) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Eximinds](https://open.spotify.com/artist/2rDzllD1jSxxJCcRX2l55K) | [Atlantis](https://open.spotify.com/album/3C4nf5smqMOaSLf3XuQtGH) | 3:10 | 2024-05-31 |  |
 | [Atlantis](https://open.spotify.com/track/2Q6crgCiZsT5cSbCOn5snz) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Atlantis](https://open.spotify.com/album/2Jc6QLBZHVicHidjCASyBf) | 3:28 | 2022-03-04 | 2022-07-07 |
 | [Atom \- 138 Mix](https://open.spotify.com/track/3d2580DKGk2tH3XrTFiRZf) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Atom \(138 Mix\)](https://open.spotify.com/album/5dFn5Dz7VfyViSJWujZaUC) | 3:26 | 2022-10-14 | 2023-12-09 |
 | [Au79](https://open.spotify.com/track/6ZCDcrD8fetYcBmQOrhLfI) | [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd), [Leonard A](https://open.spotify.com/artist/5B96LwVo1fnVehzyyxCzYC) | [Au79](https://open.spotify.com/album/55MZcCAnI1bSM9lE4DWV1v) | 3:41 | 2021-12-17 | 2022-07-13 |
@@ -854,7 +855,7 @@
 | [Unreal](https://open.spotify.com/track/0lshe5VyHv6KqY4dY8y8I0) | [C\-Systems](https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp) | [Unreal](https://open.spotify.com/album/3zKc2kd8cR0l46l7dLPRid) | 3:52 | 2023-10-27 |  |
 | [Unseen](https://open.spotify.com/track/35w8wgWeqY7SuORIxySxrl) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Unseen](https://open.spotify.com/album/0FRl1ZOXWv8AnkGkVAUwlm) | 3:04 | 2023-03-31 | 2023-05-20 |
 | [Until the End](https://open.spotify.com/track/2S86ckLswsCH7P2FAlWqhI) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Nic Toms](https://open.spotify.com/artist/6qhQ81RYYMZfBgPE0f5bkD) | [Until the End](https://open.spotify.com/album/7GTIR7KG6CV1tIDa4CvBaI) | 3:38 | 2023-05-19 | 2024-01-28 |
-| [Until We Meet Again](https://open.spotify.com/track/0KoR1AcgviYrHK78mIyuYu) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Until We Meet Again](https://open.spotify.com/album/3L2WmaK64sDqllHJL14mkO) | 3:41 | 2024-03-08 |  |
+| [Until We Meet Again](https://open.spotify.com/track/0KoR1AcgviYrHK78mIyuYu) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Until We Meet Again](https://open.spotify.com/album/3L2WmaK64sDqllHJL14mkO) | 3:41 | 2024-03-08 | 2024-06-03 |
 | [Upon The Horizon](https://open.spotify.com/track/6UCpR17pbWqO88Xf7TwZq6) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Upon The Horizon](https://open.spotify.com/album/3kZS8yRn2teo9i1wrxJ1lc) | 4:08 | 2022-09-23 | 2022-11-19 |
 | [Urban Shakedown \- Bryan Kearney Remix](https://open.spotify.com/track/6Uk7rJ7HJubo1U4BjLh44v) | [Solar Factor](https://open.spotify.com/artist/2MnlwaudwiNCvyeYlZw89k), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Urban Return EP](https://open.spotify.com/album/7tS96ajHv3Dtq4VLD0kic0) | 7:09 | 2022-03-25 | 2022-04-16 |
 | [Velvet Morning 22](https://open.spotify.com/track/6WP0pXmMVycJwQk6L7xesG) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [25 Years, Pt\. 4](https://open.spotify.com/album/32PBafVEACtSgbTsno4e8p) | 2:58 | 2022-10-14 | 2023-06-10 |

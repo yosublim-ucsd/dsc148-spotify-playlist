@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 132205,
+  "num_followers": 132231,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "NEVER WALK AWAY",
-        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200017,
-      "name": "NEVER WALK AWAY",
-      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/3qCRd5R6usAqUMpRYzJPFx"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 200840,
       "name": "Everything",
       "url": "https://open.spotify.com/track/452Q2BzTFo0st9C4oXgtmi"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "NEVER WALK AWAY",
+        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200017,
+      "name": "NEVER WALK AWAY",
+      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "SIMPLE (feat. Joe L Barnes)",
-        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 152769,
-      "name": "SIMPLE (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
       },
@@ -335,6 +315,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/67cB4bGLUNvrhwUeRWlr7S"
       },
@@ -355,18 +351,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+        "name": "SIMPLE (feat. Joe L Barnes)",
+        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+      "duration_ms": 152769,
+      "name": "SIMPLE (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+        "name": "Motion Worship",
+        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+      "duration_ms": 226568,
+      "name": "Freedom Wild",
+      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Motion Worship",
-        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
       "artists": [
         {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 226568,
-      "name": "Freedom Wild",
-      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -631,6 +631,26 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Eyes On You (Live)",
+        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 233947,
+      "name": "Eyes On You - Live",
+      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Louder",
         "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
       },
@@ -663,22 +683,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Eyes On You (Live)",
-        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 233947,
-      "name": "Eyes On You - Live",
-      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+      "duration_ms": 194556,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 194556,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "You Tell Me",
         "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 180600,
       "name": "You Tell Me",
       "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
       },
       "artists": [
         {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+      "duration_ms": 184264,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -847,18 +847,34 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 184264,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -875,22 +891,6 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "The Free World, Vol. 1",
+        "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Jesus Is The Key",
         "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
@@ -1063,18 +1079,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "The Free World, Vol. 1",
-        "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Rolling Hills Worship",
+          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
+        },
+        {
+          "name": "Jennifer Akers",
+          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Heartache",
-      "url": "https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5"
+      "duration_ms": 235580,
+      "name": "Break Out - Studio Single",
+      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1099,26 +1119,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
-      },
-      "artists": [
-        {
-          "name": "Rolling Hills Worship",
-          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
-        },
-        {
-          "name": "Jennifer Akers",
-          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
-        }
-      ],
-      "duration_ms": 235580,
-      "name": "Break Out - Studio Single",
-      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Through People Like Me",
-        "url": "https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr"
-      },
-      "artists": [
-        {
-          "name": "Mass Anthem",
-          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "To Get To Me",
-      "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 306398,
       "name": "More",
       "url": "https://open.spotify.com/track/0qaN2WzhuKAARHaeNjLUW0"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Through People Like Me",
+        "url": "https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr"
+      },
+      "artists": [
+        {
+          "name": "Mass Anthem",
+          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "To Get To Me",
+      "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"
     },
     {
       "added_at": "2023-02-18 04:35:24",

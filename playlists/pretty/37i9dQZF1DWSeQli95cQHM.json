@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11596,
+  "num_followers": 11602,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rita Lee & Roberto - Classix Remix Vol. III",
-        "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "L_cio",
-          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
-        },
-        {
-          "name": "Tessuto",
-          "url": "https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 421463,
-      "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
-      "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -155,38 +147,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Favela Garage Beats",
-        "url": "https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx"
-      },
-      "artists": [
-        {
-          "name": "Brunoso",
-          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
-        }
-      ],
-      "duration_ms": 187857,
-      "name": "Vavapo",
-      "url": "https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kengaral Eletrohits, Vol. 2",
         "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
       },
@@ -203,6 +163,46 @@
       "duration_ms": 665738,
       "name": "Espinheira Santa",
       "url": "https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Rita Lee & Roberto - Classix Remix Vol. III",
+        "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        },
+        {
+          "name": "Tessuto",
+          "url": "https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk"
+        }
+      ],
+      "duration_ms": 421463,
+      "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
+      "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Favela Garage Beats",
+        "url": "https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx"
+      },
+      "artists": [
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+        }
+      ],
+      "duration_ms": 187857,
+      "name": "Vavapo",
+      "url": "https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Na Lagoa",
-        "url": "https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 409185,
-      "name": "Senhor Carangeju",
-      "url": "https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "mate & morra",
         "url": "https://open.spotify.com/album/2sAvfIryVuCAbCIcewxEOq"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 349250,
       "name": "Geleia de Morango",
       "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Na Lagoa",
+        "url": "https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 409185,
+      "name": "Senhor Carangeju",
+      "url": "https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Benzine EP",
-        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
-      },
-      "artists": [
-        {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
-        }
-      ],
-      "duration_ms": 406138,
-      "name": "Benzine",
-      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Movimento Paralelo, Vol.1",
         "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 248062,
       "name": "Sarrafando Em Voc\u00ea",
       "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Benzine EP",
+        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
+      },
+      "artists": [
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "duration_ms": 406138,
+      "name": "Benzine",
+      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -615,18 +615,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Maelstro\u0308m",
-        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+        "name": "Ch\u00e1 de trombeta",
+        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
       "artists": [
         {
-          "name": "Wielki",
-          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        },
+        {
+          "name": "Fel C",
+          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
+        },
+        {
+          "name": "Bica",
+          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
         }
       ],
-      "duration_ms": 487073,
-      "name": "Maelstro\u0308m",
-      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+      "duration_ms": 420000,
+      "name": "Ch\u00e1 de trombeta",
+      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -647,6 +655,22 @@
       "duration_ms": 304098,
       "name": "Baile do Tai Tai",
       "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Maelstro\u0308m",
+        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+      },
+      "artists": [
+        {
+          "name": "Wielki",
+          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+        }
+      ],
+      "duration_ms": 487073,
+      "name": "Maelstro\u0308m",
+      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -699,30 +723,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Ch\u00e1 de trombeta",
-        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        },
-        {
-          "name": "Fel C",
-          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
-        },
-        {
-          "name": "Bica",
-          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Ch\u00e1 de trombeta",
-      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kengaral Eletrohits, Vol. 1",
         "url": "https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk"
       },
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Our Spacial Place",
+        "url": "https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3"
+      },
+      "artists": [
+        {
+          "name": "n\u00f8rus",
+          "url": "https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz"
+        }
+      ],
+      "duration_ms": 440000,
+      "name": "If I Never See U Again",
+      "url": "https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Quando o Tempo d\u00e1 um Tempo",
         "url": "https://open.spotify.com/album/394surSicOxNpbQV6tMSDC"
       },
@@ -803,54 +819,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Our Spacial Place",
-        "url": "https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3"
-      },
-      "artists": [
-        {
-          "name": "n\u00f8rus",
-          "url": "https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz"
-        }
-      ],
-      "duration_ms": 440000,
-      "name": "If I Never See U Again",
-      "url": "https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
-      },
-      "artists": [
-        {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Shine - Dance Version",
-      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Easytiiger__001",
-        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
-      },
-      "artists": [
-        {
-          "name": "Mootron",
-          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "No Rave",
-      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Incarne",
         "url": "https://open.spotify.com/album/4Zg2HeCfAX1Yb6arpZxv3s"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 483006,
       "name": "Incarne",
       "url": "https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Easytiiger__001",
+        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
+      },
+      "artists": [
+        {
+          "name": "Mootron",
+          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "No Rave",
+      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Shine - Dance Version",
+      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
     },
     {
       "added_at": "2023-11-10 03:03:00",

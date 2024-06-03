@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 82793,
+  "num_followers": 82847,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Amor a Primeira Vista",
-        "url": "https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        }
-      ],
-      "duration_ms": 177831,
-      "name": "Amor a Primeira Vista",
-      "url": "https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Quem Era Eu",
         "url": "https://open.spotify.com/album/7JBQKYned5Tt40QkhLoDf6"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 186486,
       "name": "Quem Era Eu",
       "url": "https://open.spotify.com/track/3YSTY0yjV7ShECDHRZAF6G"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Amor a Primeira Vista",
+        "url": "https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        }
+      ],
+      "duration_ms": 177831,
+      "name": "Amor a Primeira Vista",
+      "url": "https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -255,26 +255,6 @@
       "duration_ms": 272695,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
-        "name": "Dependente",
-        "url": "https://open.spotify.com/album/0YrY5IiNF8hXfIUXTNmdzs"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 194856,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/3BwhWUP9w1I3GAEBxdlkw7"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -343,18 +323,38 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Estou Contigo",
-        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
+        "name": "Dependente",
+        "url": "https://open.spotify.com/album/0YrY5IiNF8hXfIUXTNmdzs"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 249344,
-      "name": "Estou Contigo",
-      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+      "duration_ms": 194856,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/3BwhWUP9w1I3GAEBxdlkw7"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+        "name": "Estou Contigo",
+        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+      "duration_ms": 249344,
+      "name": "Estou Contigo",
+      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7"
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
       },
       "artists": [
         {
-          "name": "Ednan Rufino",
-          "url": "https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 371370,
-      "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX"
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
+        "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7"
+      },
+      "artists": [
+        {
+          "name": "Ednan Rufino",
+          "url": "https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a"
+        }
+      ],
+      "duration_ms": 371370,
+      "name": "Joelho no Ch\u00e3o e Boca no P\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
         "name": "Valor de uma Alma",
         "url": "https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
+        "name": "Louvor Ra\u00edz",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -543,38 +559,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
-        "name": "Louvor Ra\u00edz",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Situa\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
       },
@@ -591,18 +575,34 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "De Volta \u00e0 Inoc\u00eancia",
-        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
+        "name": "Volta pra Casa",
+        "url": "https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC"
       },
       "artists": [
         {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 288012,
-      "name": "De Volta \u00e0 Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
+      "duration_ms": 289411,
+      "name": "Volta pra Casa",
+      "url": "https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
+        "name": "De Volta \u00e0 Inoc\u00eancia",
+        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
+      },
+      "artists": [
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 288012,
+      "name": "De Volta \u00e0 Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
@@ -643,34 +659,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Volta pra Casa",
-        "url": "https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC"
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
         }
       ],
-      "duration_ms": 289411,
-      "name": "Volta pra Casa",
-      "url": "https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
-        "name": "O Melhor de Deus",
-        "url": "https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5"
-      },
-      "artists": [
-        {
-          "name": "Adriana Aguiar",
-          "url": "https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6"
-        }
-      ],
-      "duration_ms": 156343,
-      "name": "O Melhor de Deus",
-      "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
+        "name": "O Melhor de Deus",
+        "url": "https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5"
       },
       "artists": [
         {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+          "name": "Adriana Aguiar",
+          "url": "https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6"
         }
       ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
+      "duration_ms": 156343,
+      "name": "O Melhor de Deus",
+      "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Quem Foi Que Me Tocou",
-        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Quem Foi Que Me Tocou",
-      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "A Terra e o Lavrador",
         "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 182520,
       "name": "Achei um Bom Amigo",
       "url": "https://open.spotify.com/track/4TZCYmMj0wSelrac8rUC03"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Quem Foi Que Me Tocou",
+        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Quem Foi Que Me Tocou",
+      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
+        "name": "Aquele Que Morreu na Cruz",
+        "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        },
+        {
+          "name": "Rayssa Peres",
+          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+        }
+      ],
+      "duration_ms": 203769,
+      "name": "Aquele Que Morreu na Cruz",
+      "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
         "name": "A Resposta \u00c9 Deus",
         "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
       },
@@ -955,26 +975,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Aquele Que Morreu na Cruz",
-        "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        },
-        {
-          "name": "Rayssa Peres",
-          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
-        }
-      ],
-      "duration_ms": 203769,
-      "name": "Aquele Que Morreu na Cruz",
-      "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Arma Forjada",
         "url": "https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Al\u00e9m da Medicina",
-        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 286133,
-      "name": "Al\u00e9m da Medicina",
-      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "No Tempo Certo",
         "url": "https://open.spotify.com/album/1Dop7lWX9iu0TFl4DvbzWr"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 236692,
       "name": "Tem Milagre Vindo A\u00ed",
       "url": "https://open.spotify.com/track/61SLxYHFHwlwiEZp5rI0iU"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Al\u00e9m da Medicina",
+        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 286133,
+      "name": "Al\u00e9m da Medicina",
+      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
     }
   ],
   "unique_name": "Sertanejo Religioso",

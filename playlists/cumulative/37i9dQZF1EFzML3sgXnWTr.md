@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 3 hr 37 min
+71 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 | 2022-09-16 |  |
 | [cadere volare](https://open.spotify.com/track/77kA6Y1DBIjD1x77WLhxgg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:14 | 2022-09-16 |  |
 | [Cero](https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:21 | 2023-12-13 |  |
-| [che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2024-01-04 |  |
+| [che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2024-01-04 | 2024-06-03 |
+| [che t'o dico a fa'](https://open.spotify.com/track/29BLybpYHhOcDGWfkvKNTu) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 3:07 | 2024-06-02 |  |
 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 | 2023-12-13 | 2024-01-05 |
 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 | 2023-06-14 | 2023-12-14 |
 | [Ci pensiamo domani](https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP) | 3:00 | 2023-12-13 |  |

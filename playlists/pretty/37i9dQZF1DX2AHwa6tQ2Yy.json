@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 47749,
+  "num_followers": 47760,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 231448,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         }
       ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+      "duration_ms": 165933,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -699,38 +715,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 203214,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 203214,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "High Off You",
+        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
+      },
+      "artists": [
+        {
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "High Off You",
+      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "My Phone Can Die",
         "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 179508,
       "name": "My Phone Can Die",
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "High Off You",
-        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
-      },
-      "artists": [
-        {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "High Off You",
-      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Til My Song Is Done",
-        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
-      },
-      "artists": [
-        {
-          "name": "Emma Donovan",
-          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
-        }
-      ],
-      "duration_ms": 274600,
-      "name": "Til My Song is Done",
-      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 222203,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Til My Song Is Done",
+        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
+      },
+      "artists": [
+        {
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Til My Song is Done",
+      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Unapologetically",
-        "url": "https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU"
-      },
-      "artists": [
-        {
-          "name": "Sharin Attamimi",
-          "url": "https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX"
-        }
-      ],
-      "duration_ms": 180841,
-      "name": "Unapologetically",
-      "url": "https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Evil In Your Eyes",
         "url": "https://open.spotify.com/album/3D2q615OjU1YPeJjBcqubI"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 144995,
       "name": "Evil In Your Eyes",
       "url": "https://open.spotify.com/track/6AEYrk9VWfrcHDZqGlD2IA"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU"
+      },
+      "artists": [
+        {
+          "name": "Sharin Attamimi",
+          "url": "https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX"
+        }
+      ],
+      "duration_ms": 180841,
+      "name": "Unapologetically",
+      "url": "https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+        "name": "Cure (Acoustic)",
+        "url": "https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
         }
       ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+      "duration_ms": 261927,
+      "name": "Cure (Acoustic)",
+      "url": "https://open.spotify.com/track/5TX18to7ocePDq2vztymUC"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1163,18 +1179,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Cure (Acoustic)",
-        "url": "https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ"
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
       "artists": [
         {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 261927,
-      "name": "Cure (Acoustic)",
-      "url": "https://open.spotify.com/track/5TX18to7ocePDq2vztymUC"
+      "duration_ms": 252616,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1203,26 +1223,6 @@
       "duration_ms": 180923,
       "name": "SEE YOU TRY...",
       "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 252616,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
     }
   ],
   "unique_name": "Soulful",

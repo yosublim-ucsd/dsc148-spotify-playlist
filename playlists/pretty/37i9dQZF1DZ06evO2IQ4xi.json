@@ -1,29 +1,13 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 9565,
+  "num_followers": 9571,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAAC5Fz30jxMHDYcPo27Kq1px",
+  "snapshot_id": "ZlpkgAAAAADqeWaDhbD9Hif6GbQerjig",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
     {
       "added_at": null,
       "album": {
@@ -91,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Booty Drop",
-        "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Booty Drop",
-      "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bitch I'm Nice",
         "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
       },
@@ -119,6 +87,22 @@
       "duration_ms": 87037,
       "name": "Bitch I'm Nice",
       "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Booty Drop",
+        "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Booty Drop",
+      "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
     },
     {
       "added_at": null,
@@ -247,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
       },
       "artists": [
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 180076,
-      "name": "Swamp Bitches (with Rico Nasty)",
-      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
+      "duration_ms": 120058,
+      "name": "Shit",
+      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
     },
     {
       "added_at": null,
@@ -299,38 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stressed",
-        "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 183687,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Shit",
-      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
       },
@@ -359,6 +307,26 @@
       "duration_ms": 144796,
       "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
       "url": "https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": null,

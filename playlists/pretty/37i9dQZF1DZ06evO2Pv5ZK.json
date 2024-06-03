@@ -1,12 +1,12 @@
 {
-  "description": "This is: Vangelis. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 104940,
+  "description": "This is Vangelis. The essential tracks, all in one playlist.",
+  "num_followers": 104955,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAAD3o/HXPjUuNvO/lW9t1DwI",
+  "snapshot_id": "ZlpkgAAAAABallKVI/CL0f2l2rhgI/Ut",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta",
-        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 151408,
-      "name": "Celestial Whispers",
-      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 401933,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 151408,
+      "name": "Celestial Whispers",
+      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
@@ -671,6 +655,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peaceful Piano Moods",
+        "url": "https://open.spotify.com/album/58offraDl2HW0WWh4WCzUZ"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 331920,
+      "name": "Main Theme - From \"Chariots of Fire\"",
+      "url": "https://open.spotify.com/track/7pROUkMe7OJAQ9iGZqcik7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
       },
@@ -683,6 +699,22 @@
       "duration_ms": 331426,
       "name": "12 O'Clock",
       "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Titans",
+      "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
     }
   ],
   "unique_name": "This Is Vangelis",

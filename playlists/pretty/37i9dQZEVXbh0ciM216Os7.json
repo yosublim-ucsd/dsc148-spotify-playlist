@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACSAjTLf4iMkCW198fQm0KZ",
+  "snapshot_id": "AAAAAAAAAADiSuKb2PHwP7fDd1RstPir",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -79,6 +79,30 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Nourish a Thug",
         "url": "https://open.spotify.com/album/0pWoAGpfVZgxORd9lsCmeI"
       },
@@ -91,26 +115,6 @@
       "duration_ms": 165225,
       "name": "Nourish a Thug",
       "url": "https://open.spotify.com/track/3a3IVG5G7EH6w2mAyxNIOV"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "What You Need (Cold Cut Mix)",
-        "url": "https://open.spotify.com/album/7Dh1yUVdjE97evqSoSqGlF"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
-        }
-      ],
-      "duration_ms": 392746,
-      "name": "What You Need - Cold Cut Mix",
-      "url": "https://open.spotify.com/track/0iOxcC26oaeYkWk0FqGEim"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -139,114 +143,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "places to be",
-        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+        "name": "What You Need (Cold Cut Mix)",
+        "url": "https://open.spotify.com/album/7Dh1yUVdjE97evqSoSqGlF"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
         }
       ],
-      "duration_ms": 226677,
-      "name": "places to be",
-      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "And Yet Still",
-        "url": "https://open.spotify.com/album/2Btpzgvr0nAfQpoPnsr17C"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 182056,
-      "name": "Had To Improve",
-      "url": "https://open.spotify.com/track/4nfaVOhJqGl2E9CgDVeJU2"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "WU-HA",
-        "url": "https://open.spotify.com/album/4BzHVDOjaw0BVPjpxHErYK"
-      },
-      "artists": [
-        {
-          "name": "Optimystic",
-          "url": "https://open.spotify.com/artist/0TWuCOdiUkECiQ0G6zz44M"
-        },
-        {
-          "name": "Lord Vladagus",
-          "url": "https://open.spotify.com/artist/1o7CTDdfnKYRbs6MRt9MvT"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "SickFlo",
-          "url": "https://open.spotify.com/artist/7yJZJPQyv1jin7c81fVa4z"
-        },
-        {
-          "name": "Strictly D.T",
-          "url": "https://open.spotify.com/artist/0N7FuEALzJCIF7tGQkrttf"
-        }
-      ],
-      "duration_ms": 272727,
-      "name": "WU-HA",
-      "url": "https://open.spotify.com/track/46LHAZEgO7cimtGsFtRBJH"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Mississippi Half-Step Uptown Toodeloo (Live at University of Nevada, Reno, NV, 5/12/74)",
-        "url": "https://open.spotify.com/album/6rtaawoZtYmEPI4IUrjGkT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 478471,
-      "name": "Mississippi Half-Step Uptown Toodeloo - Live at University of Nevada, Reno, NV, 5/12/74",
-      "url": "https://open.spotify.com/track/7vVfk9d94hKWjIKuyTxEHO"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Talk Is Cheap",
-        "url": "https://open.spotify.com/album/6CU3JMOQpcV38Wi2ajZZZE"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/1uq28uGTtw8EiOJbXR64qf"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Mike Squires",
-          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
-        }
-      ],
-      "duration_ms": 112546,
-      "name": "Talk Is Cheap",
-      "url": "https://open.spotify.com/track/5VoKHZaGCkkbnSvwM0plA9"
+      "duration_ms": 392746,
+      "name": "What You Need - Cold Cut Mix",
+      "url": "https://open.spotify.com/track/0iOxcC26oaeYkWk0FqGEim"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -287,6 +199,82 @@
       "duration_ms": 176551,
       "name": "Fight For Love",
       "url": "https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Unlimited Sets",
+        "url": "https://open.spotify.com/album/55Q6l7wKcqIlwWiVIAJz5A"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 292054,
+      "name": "Unlimited Sets",
+      "url": "https://open.spotify.com/track/63c7LnOSg8uWfe06V14gfA"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Talk Is Cheap",
+        "url": "https://open.spotify.com/album/6CU3JMOQpcV38Wi2ajZZZE"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/1uq28uGTtw8EiOJbXR64qf"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Mike Squires",
+          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/5VoKHZaGCkkbnSvwM0plA9"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "And Yet Still",
+        "url": "https://open.spotify.com/album/2Btpzgvr0nAfQpoPnsr17C"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 182056,
+      "name": "Had To Improve",
+      "url": "https://open.spotify.com/track/4nfaVOhJqGl2E9CgDVeJU2"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Mississippi Half-Step Uptown Toodeloo (Live at University of Nevada, Reno, NV, 5/12/74)",
+        "url": "https://open.spotify.com/album/6rtaawoZtYmEPI4IUrjGkT"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 478471,
+      "name": "Mississippi Half-Step Uptown Toodeloo - Live at University of Nevada, Reno, NV, 5/12/74",
+      "url": "https://open.spotify.com/track/7vVfk9d94hKWjIKuyTxEHO"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -404,7 +392,7 @@
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "North Vol. 2",
-        "url": "https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG"
+        "url": "https://open.spotify.com/album/2Z61tp4ZUgz1yWrstgqmJM"
       },
       "artists": [
         {
@@ -416,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 159166,
+      "duration_ms": 159159,
       "name": "Peace",
-      "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
+      "url": "https://open.spotify.com/track/4kdPe5uJLR6UHalCpdX7Ug"
     },
     {
       "added_at": "2024-05-31 04:00:00",

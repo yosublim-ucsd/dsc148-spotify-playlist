@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 69411,
+  "num_followers": 69459,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,34 @@
     {
       "added_at": "2024-05-31 01:51:10",
       "album": {
+        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
+      },
+      "artists": [
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 350309,
+      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
+    },
+    {
+      "added_at": "2024-05-31 01:51:10",
+      "album": {
         "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
         "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
       },
@@ -531,34 +559,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2024-05-31 01:51:10",
-      "album": {
-        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
-      },
-      "artists": [
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 350309,
-      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
     },
     {
       "added_at": "2024-05-31 01:51:10",
@@ -615,6 +615,30 @@
     {
       "added_at": "2024-05-31 01:51:10",
       "album": {
+        "name": "I Feel Nice",
+        "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Group Chat",
+          "url": "https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 160375,
+      "name": "I Feel Nice",
+      "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
+    },
+    {
+      "added_at": "2024-05-31 01:51:10",
+      "album": {
         "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
         "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 381768,
       "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
       "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
-    },
-    {
-      "added_at": "2024-05-31 01:51:10",
-      "album": {
-        "name": "I Feel Nice",
-        "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Group Chat",
-          "url": "https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 160375,
-      "name": "I Feel Nice",
-      "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
     },
     {
       "added_at": "2024-05-31 01:51:10",
@@ -1135,6 +1135,34 @@
     {
       "added_at": "2024-05-31 01:51:10",
       "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
+      },
+      "artists": [
+        {
+          "name": "Ordio O2",
+          "url": "https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok"
+        },
+        {
+          "name": "M00tion",
+          "url": "https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j"
+        },
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y"
+        },
+        {
+          "name": "Kukzer wadi piano_012",
+          "url": "https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh"
+        }
+      ],
+      "duration_ms": 351450,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
+    },
+    {
+      "added_at": "2024-05-31 01:51:10",
+      "album": {
         "name": "Khekheleza (Dlala Dlala)",
         "url": "https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80"
       },
@@ -1187,54 +1215,6 @@
     {
       "added_at": "2024-05-31 01:51:10",
       "album": {
-        "name": "Nkao Tempela",
-        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
-      },
-      "artists": [
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 361528,
-      "name": "Nkao Tempela",
-      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
-    },
-    {
-      "added_at": "2024-05-31 01:51:10",
-      "album": {
-        "name": "Groove",
-        "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
-      },
-      "artists": [
-        {
-          "name": "Ordio O2",
-          "url": "https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok"
-        },
-        {
-          "name": "M00tion",
-          "url": "https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j"
-        },
-        {
-          "name": "Ross",
-          "url": "https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y"
-        },
-        {
-          "name": "Kukzer wadi piano_012",
-          "url": "https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh"
-        }
-      ],
-      "duration_ms": 351450,
-      "name": "Groove",
-      "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
-    },
-    {
-      "added_at": "2024-05-31 01:51:10",
-      "album": {
         "name": "QOBA (DJ Cleo Remix)",
         "url": "https://open.spotify.com/album/5RfxrbrKA8NtEDv6JHN0DB"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 279871,
       "name": "QOBA - DJ Cleo Remix",
       "url": "https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN"
+    },
+    {
+      "added_at": "2024-05-31 01:51:10",
+      "album": {
+        "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
     },
     {
       "added_at": "2024-05-31 01:51:10",

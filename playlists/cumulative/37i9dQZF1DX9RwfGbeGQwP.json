@@ -6535,6 +6535,24 @@
     },
     {
       "album": {
+        "name": "emerald",
+        "url": "https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt"
+      },
+      "artists": [
+        {
+          "name": "eze east",
+          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116666,
+      "name": "emerald",
+      "url": "https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp"
+    },
+    {
+      "album": {
         "name": "Emotional Avocado Toast",
         "url": "https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz"
       },
@@ -19852,7 +19870,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 96623,
       "name": "Scrapbooks + Memoirs",
       "url": "https://open.spotify.com/track/6XzdmeK5fxxBnTwb4qhsCl"

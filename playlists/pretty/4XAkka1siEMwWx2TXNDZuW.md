@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 38,001 likes - 110 songs - 5 hr 42 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 37,992 likes - 111 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,6 +117,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 107 | [Mindtrap](https://open.spotify.com/track/2Qe71atbPn2gsp7onYa9ti) | [fortaliax](https://open.spotify.com/artist/4kG4UmmOfM7uwKIwLs42XH) | [Mindtrap](https://open.spotify.com/album/5biwYJmVPoPfzwAsDBfLbC) | 3:01 |
 | 108 | [myloveilove](https://open.spotify.com/track/43mQOs2HsT3tCIcOLCZT6m) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [myloveilove](https://open.spotify.com/album/6y14NIgQfyw7hiIcjv3CHW) | 1:49 |
 | 109 | [MyLoveILove](https://open.spotify.com/track/5IpsQfU48SK621NrxWZ2p0) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/4jFIqtkmFs5gRCKW3aNuit) | 2:01 |
-| 110 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
+| 110 | [Blank Shell](https://open.spotify.com/track/2CzJql1at7pyK46iQfDUbf) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [BUCKSHOT ROULETTE](https://open.spotify.com/album/7fPcdqIB6qZNsDPeYiEg4Y) | 2:08 |
+| 111 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
 
-Snapshot ID: `AAADMxaIrCeUE0/WZJMRg4ffjAtdNbbu`
+Snapshot ID: `AAADNTaGHhhDnNM3NiCFeOB8QCR1+Pft`

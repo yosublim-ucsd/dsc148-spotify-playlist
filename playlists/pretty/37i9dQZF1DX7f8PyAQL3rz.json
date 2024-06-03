@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea quer um gelado ou um cara ocupado? fala pra elas igor guilherme",
-  "num_followers": 1385544,
+  "num_followers": 1385686,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -911,62 +911,6 @@
     {
       "added_at": "2024-05-31 15:34:58",
       "album": {
-        "name": "Tropa Do Pisa",
-        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
-      },
-      "artists": [
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tropa Do Pisa",
-      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
-        "name": "442",
-        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 125760,
-      "name": "Vida Rasa",
-      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
         "name": "Fala na Cara",
         "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
       },
@@ -987,6 +931,30 @@
       "duration_ms": 171707,
       "name": "Fala na Cara",
       "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
     },
     {
       "added_at": "2024-05-31 15:34:58",
@@ -1043,6 +1011,38 @@
       "duration_ms": 130375,
       "name": "Preferida",
       "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
+        "name": "442",
+        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Vida Rasa",
+      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
     },
     {
       "added_at": "2024-05-31 15:34:58",
@@ -1379,82 +1379,6 @@
     {
       "added_at": "2024-05-31 15:34:58",
       "album": {
-        "name": "RICKNELSO",
-        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Leozin",
-          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "Dj Win",
-          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "L\u00e1 no PPG",
-      "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
-        "name": "ECL\u00c9TICO - LADO A",
-        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Giro Louco",
-      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
-        "name": "Disposi\u00e7\u00e3o e Atividade",
-        "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 164874,
-      "name": "Disposi\u00e7\u00e3o e Atividade",
-      "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1487,6 +1411,54 @@
     {
       "added_at": "2024-05-31 15:34:58",
       "album": {
+        "name": "ECL\u00c9TICO - LADO A",
+        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Giro Louco",
+      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
+        "name": "RICKNELSO",
+        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "L\u00e1 no PPG",
+      "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
         "name": "RELATOS",
         "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
       },
@@ -1511,6 +1483,66 @@
       "duration_ms": 166091,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/6OeFHH7a0WE6fdpfD1PVPD"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
+        "name": "Disposi\u00e7\u00e3o e Atividade",
+        "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "duration_ms": 164874,
+      "name": "Disposi\u00e7\u00e3o e Atividade",
+      "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
+        "name": "Ballena",
+        "url": "https://open.spotify.com/album/6mAOToMxK4q1TfcJlqIJlz"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ballena",
+      "url": "https://open.spotify.com/track/0NkOJBVzL0MaU3JgqJRtkv"
     },
     {
       "added_at": "2024-05-31 15:34:58",
@@ -1643,6 +1675,38 @@
     {
       "added_at": "2024-05-31 15:34:58",
       "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5QIm991tugltv2J9IEF27o"
       },
@@ -1695,6 +1759,30 @@
     {
       "added_at": "2024-05-31 15:34:58",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 124236,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH"
+    },
+    {
+      "added_at": "2024-05-31 15:34:58",
+      "album": {
         "name": "Clickbait",
         "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
@@ -1723,94 +1811,6 @@
       "duration_ms": 161344,
       "name": "Clickbait",
       "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
-        "name": "Ballena",
-        "url": "https://open.spotify.com/album/6mAOToMxK4q1TfcJlqIJlz"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Ballena",
-      "url": "https://open.spotify.com/track/0NkOJBVzL0MaU3JgqJRtkv"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 124236,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH"
-    },
-    {
-      "added_at": "2024-05-31 15:34:58",
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "2023",
-      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
     },
     {
       "added_at": "2024-05-31 15:34:58",

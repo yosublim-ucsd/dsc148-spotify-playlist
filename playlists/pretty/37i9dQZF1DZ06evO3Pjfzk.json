@@ -1,12 +1,12 @@
 {
-  "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 62775,
+  "description": "This is Lainey Wilson. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 62882,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAADgWzqn7JDsquWgljGWQQsQ",
+  "snapshot_id": "ZlpkgAAAAAAZhVBJKfiUIf5O4uLTJoI+",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 174891,
+      "name": "Microphone",
+      "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiness Bastards",
         "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 306706,
       "name": "Wilted Rose (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 174891,
-      "name": "Microphone",
-      "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
       "duration_ms": 230630,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terri Clark: Take Two",
+        "url": "https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v"
+      },
+      "artists": [
+        {
+          "name": "Terri Clark",
+          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 195302,
+      "name": "Poor, Poor Pitiful Me",
+      "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
     },
     {
       "added_at": null,

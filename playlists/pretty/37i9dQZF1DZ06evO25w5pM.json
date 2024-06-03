@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 17779,
+  "num_followers": 17784,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAAAvpnogjpWb/ERCtYeDuboa",
+  "snapshot_id": "ZlpkgAAAAADlhow5ObVBqNP975qxxqrO",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bamboo Forest",
-        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Kyoto Garden",
-      "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Love",
         "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 321786,
       "name": "Morning Light Silhouettes 2",
       "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bamboo Forest",
+        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 349133,
+      "name": "Kyoto Garden",
+      "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 535946,
-      "name": "Traveling the Stars",
-      "url": "https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Love",
         "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 349306,
       "name": "Unknown Doors",
       "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 535946,
+      "name": "Traveling the Stars",
+      "url": "https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Love",
         "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 297333,
       "name": "Deeper than the Sky",
       "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tibet Nada Himalaya 2",
-        "url": "https://open.spotify.com/album/4iPs5HUdRml1LOnNw8aL73"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 545440,
-      "name": "Khumbe",
-      "url": "https://open.spotify.com/track/1LUL3P83KWBsfZFoypbJAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mystery of Light",
         "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 305226,
       "name": "Celestial Meadows",
       "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 433706,
+      "name": "Love's Winged Messenger",
+      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+        "name": "Tibet Nada Himalaya 2",
+        "url": "https://open.spotify.com/album/4iPs5HUdRml1LOnNw8aL73"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 433706,
-      "name": "Love's Winged Messenger",
-      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
+      "duration_ms": 545440,
+      "name": "Khumbe",
+      "url": "https://open.spotify.com/track/1LUL3P83KWBsfZFoypbJAH"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bamboo Forest",
+        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Mist in a Temple Cave",
+      "url": "https://open.spotify.com/track/2LxuJmLecSL0sPd6K0d2wy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mystery of Light",
         "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 420160,
       "name": "Black Velvet Flirt",
       "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bamboo Forest",
-        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Mist in a Temple Cave",
-      "url": "https://open.spotify.com/track/2LxuJmLecSL0sPd6K0d2wy"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Blue",
-        "url": "https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 381066,
-      "name": "The Source",
-      "url": "https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 625760,
       "name": "Seashell",
       "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earth Blue",
+        "url": "https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 381066,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC"
     }
   ],
   "unique_name": "This Is Deuter",

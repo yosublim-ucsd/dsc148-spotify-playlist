@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 420169,
+  "num_followers": 420585,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "Les yeux ouverts (dream a little dream of me)",
-      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 168000,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Le Paris De ... Montand",
+        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -207,38 +207,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Le Paris De ... Montand",
-        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -251,6 +219,22 @@
       "duration_ms": 140826,
       "name": "Un jour comme un autre",
       "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "Les yeux ouverts (dream a little dream of me)",
+      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -271,38 +255,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
-        "name": "All the Way (feat. Jordan Officer)",
-        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        },
-        {
-          "name": "Jordan Officer",
-          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "Un jour de diff\u00e9rence",
-      "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -335,6 +299,42 @@
       "duration_ms": 224016,
       "name": "Samba saravah",
       "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "All the Way (feat. Jordan Officer)",
+        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        },
+        {
+          "name": "Jordan Officer",
+          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "Un jour de diff\u00e9rence",
+      "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Paris Combo",
         "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 208826,
       "name": "Chanson triste",
       "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
         "name": "Um Rio",
         "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "10 chansons pour l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "Quand on s'balade",
-      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
         "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
-        "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
+        "name": "10 chansons pour l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "L'Orchestre Paul Mauriat",
-          "url": "https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 219204,
-      "name": "Tu t'laissez aller",
-      "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
+      "duration_ms": 169143,
+      "name": "Quand on s'balade",
+      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1163,6 +1143,26 @@
       "duration_ms": 185133,
       "name": "J'ai 18 Ans",
       "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
+        "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "L'Orchestre Paul Mauriat",
+          "url": "https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy"
+        }
+      ],
+      "duration_ms": 219204,
+      "name": "Tu t'laissez aller",
+      "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Gainsbourg percussions",
-        "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 125200,
-      "name": "Ces petits riens",
-      "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Comme Un Manouche Sans Guitare",
         "url": "https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 130186,
       "name": "J'suis pas d'ici",
       "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Gainsbourg percussions",
+        "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 125200,
+      "name": "Ces petits riens",
+      "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
     },
     {
       "added_at": "2024-03-20 07:39:51",

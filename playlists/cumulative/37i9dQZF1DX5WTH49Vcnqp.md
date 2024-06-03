@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Clairo
 
-1,385 songs - 3 day 6 hr 32 min
+1,386 songs - 3 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-29 | 2022-10-13 |
 | [daydream](https://open.spotify.com/track/00QssnWjPr673yUTv18Rth) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [daydream](https://open.spotify.com/album/29zx5mG7UmY2D6azEQ3OIJ) | 3:01 | 2023-11-30 | 2024-02-16 |
 | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/album/0GGqUvHTZgiXPDnIsed3Gz) | 3:12 | 2022-04-07 | 2022-06-17 |
-| [Days Of The Week](https://open.spotify.com/track/1tR8TOA5oiAQZ89N3kiRzV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Days Of The Week](https://open.spotify.com/album/3Mxp2vbDYmA1vtoQ5lAkwB) | 3:32 | 2024-05-02 |  |
+| [Days Of The Week](https://open.spotify.com/track/1tR8TOA5oiAQZ89N3kiRzV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Days Of The Week](https://open.spotify.com/album/3Mxp2vbDYmA1vtoQ5lAkwB) | 3:32 | 2024-05-02 | 2024-06-03 |
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-03-30 | 2023-05-19 |
 | [dead end kids](https://open.spotify.com/track/54w5kOv00WeffHtdNs6Ut4) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [dead end kids](https://open.spotify.com/album/1teNbZLz3PUefD4NXLocTl) | 3:17 | 2023-10-26 | 2024-01-26 |
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-05-26 | 2022-07-08 |
@@ -725,6 +725,7 @@
 | [Like That](https://open.spotify.com/track/5zDo9mZyUdCZ1tVj515SZS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Like That](https://open.spotify.com/album/5ZL7YD2z03z5DGj1Z132ua) | 2:46 | 2022-02-03 | 2022-03-18 |
 | [Like That](https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Like That](https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER) | 2:30 | 2022-07-14 | 2022-10-28 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-21 | 2023-12-22 |
+| [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [SiriusXM Session](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-03 |  |
 | [Liquid Gold](https://open.spotify.com/track/6U3I3ewbSwfQJYJVdotOOa) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Liquid Gold](https://open.spotify.com/album/3dQeHKIbPUWd4qvL8ofWPw) | 2:57 | 2024-03-01 | 2024-04-05 |
 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 | 2022-01-13 | 2022-03-25 |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2023-10-05 | 2024-01-26 |

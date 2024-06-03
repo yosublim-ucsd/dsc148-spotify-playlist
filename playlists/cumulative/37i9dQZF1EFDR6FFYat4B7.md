@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 8 hr 16 min
+146 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/2s00kIWrL8TIsYWz67P7ff) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [The Martin Garrix Experience](https://open.spotify.com/album/3UwcZ5menPSCTvdxyYgxZj) | 3:20 | 2024-02-27 |  |
 | [Catch Fire](https://open.spotify.com/track/5gLLJl41ykuWqu47RWlXhX) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:45 | 2024-02-27 |  |
 | [Cattitude \(feat\. RuPaul\)](https://open.spotify.com/track/7s4xQU7Tz9vyxD5a3golZc) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:09 | 2024-02-27 |  |
-| [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-05-18 |  |
+| [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-05-18 | 2024-06-03 |
+| [Cherry On Top](https://open.spotify.com/track/4SzzmN0KAH1qHbwQs4ssU7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:14 | 2024-06-02 |  |
 | [D.R.E.A.M\. \(feat\. Ghostface Killah\)](https://open.spotify.com/track/5tykM1AFEOrm51CkDPOxPC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 2:48 | 2024-02-27 |  |
 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 | 2024-02-27 |  |
 | [Day Drinking \(feat\. Heymous Molly\)](https://open.spotify.com/track/3GfuzCkO8ufIvEA56DVV52) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Heymous Molly](https://open.spotify.com/artist/5M2gxYpF3uzcsyifR9WEgE) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:08 | 2024-02-27 |  |

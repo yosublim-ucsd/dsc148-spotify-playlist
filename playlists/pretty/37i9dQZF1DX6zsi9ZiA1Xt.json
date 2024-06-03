@@ -1,6 +1,6 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 32984,
+  "num_followers": 32997,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "Creativo",
+        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
         }
       ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+      "duration_ms": 305057,
+      "name": "Zumbale",
+      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -143,18 +139,22 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Creativo",
-        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
       "artists": [
         {
-          "name": "Henry Fiol",
-          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 305057,
-      "name": "Zumbale",
-      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -207,22 +207,6 @@
       "duration_ms": 238413,
       "name": "La negra Tomasa",
       "url": "https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -299,22 +283,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Azuquita Pa'l Cafe",
-      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "Velvet Salsa All Stars",
         "url": "https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON"
       },
@@ -339,6 +307,22 @@
       "duration_ms": 254866,
       "name": "Sandra Mora",
       "url": "https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -455,6 +439,22 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "Azuquita Pa'l Cafe",
+      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
         "name": "The Very Best Of Beny More Vol. 1",
         "url": "https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 194720,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 381160,
+      "name": "Como Mi Salsa Ninguna",
+      "url": "https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -487,18 +503,22 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+        "name": "Fruko el Patillero",
+        "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
       },
       "artists": [
         {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Wilson \"Saoko\" Manyoma",
+          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
         }
       ],
-      "duration_ms": 381160,
-      "name": "Como Mi Salsa Ninguna",
-      "url": "https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui"
+      "duration_ms": 207533,
+      "name": "Patillero",
+      "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -535,26 +555,6 @@
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "Fruko el Patillero",
-        "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Wilson \"Saoko\" Manyoma",
-          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Patillero",
-      "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 407373,
-      "name": "Periodico De Ayer",
-      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "Ismael Rivera - Greatest Hits",
         "url": "https://open.spotify.com/album/5YbhaAh0G06ElvNWvLvRor"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 246813,
       "name": "Las Tumbas",
       "url": "https://open.spotify.com/track/3bnNDCQbLHvo7xPItA7jeG"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 407373,
+      "name": "Periodico De Ayer",
+      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 326880,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/6Ac89NtfMzmvVKRNkvQiQ6"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "La Rockola Salsa, Vol. 1",
         "url": "https://open.spotify.com/album/5Mm4NtnQ4QyM2VuGvbEnHn"
       },
@@ -875,6 +855,22 @@
       "duration_ms": 288066,
       "name": "Estamos en Salsa",
       "url": "https://open.spotify.com/track/0M1R4sg4ANP9lsTeAszqQH"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "Desde Puerto Rico A Nueva York",
+        "url": "https://open.spotify.com/album/73dwCka3MfRXBaghcp0ZrY"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 312386,
+      "name": "Prende El Fogon",
+      "url": "https://open.spotify.com/track/2QnlcaEHb6krAZ1UJ8G9eb"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Salsa!",

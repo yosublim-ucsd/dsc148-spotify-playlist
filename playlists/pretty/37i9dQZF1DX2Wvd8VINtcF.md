@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Stuzzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,729 likes - 112 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,827 likes - 112 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

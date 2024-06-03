@@ -1475,6 +1475,28 @@
     },
     {
       "album": {
+        "name": "Voksen Mann Uten Slips",
+        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132609,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
+    },
+    {
+      "album": {
         "name": "Best\u00e4mda Kliv",
         "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
@@ -3564,7 +3586,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 159251,
       "name": "Vinger",
       "url": "https://open.spotify.com/track/7BkyoFdsGMAnQV5vqkWZMO"

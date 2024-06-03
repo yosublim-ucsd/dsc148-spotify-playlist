@@ -1,12 +1,12 @@
 {
-  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 79785,
+  "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
+  "num_followers": 79801,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAAByhDjjXwQyDbv+NkpZsNaQ",
+  "snapshot_id": "ZlpkgAAAAACn8UIZaeVKMoJNeMlX/VqI",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Mi error, mi fantas\u00eda",
-      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Por hablarle de ti",
+      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tributo a",
         "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 161960,
       "name": "Un Viejo Amor (feat. Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Por hablarle de ti",
-      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
     },
     {
       "added_at": null,
@@ -675,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
       },
@@ -707,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 219933,
       "name": "Pero Me Fui",
       "url": "https://open.spotify.com/track/2bvEzKkRkUl7SOvrGQglzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos del coraz\u00f3n (USA)",
+        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "T\u00f3mame o d\u00e9jame",
+      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
       "duration_ms": 233000,
       "name": "C\u00f3mo Fui a Enamorarme de Ti",
       "url": "https://open.spotify.com/track/44MQKjd4d2SOV3INfboy0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos del coraz\u00f3n (USA)",
-        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "T\u00f3mame o d\u00e9jame",
-      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
     },
     {
       "added_at": null,
@@ -935,6 +919,22 @@
       "duration_ms": 228786,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olv\u00eddalo",
+        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

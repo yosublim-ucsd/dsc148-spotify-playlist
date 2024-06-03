@@ -2,7 +2,7 @@
 
 ### [This Is El Potro De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iB3OE)
 
-> This Is El Potro De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
 97 songs - 6 hr 17 min
 
@@ -85,7 +85,7 @@
 | [Lagrimas De Sangre \(En Vivo\)](https://open.spotify.com/track/41krtGYlUjufT47u5jTYGg) | [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Lagrimas De Sangre \(En Vivo\)](https://open.spotify.com/album/0R0TNN50Cj3N5pGWIHqjxU) | 2:46 | 2022-10-12 | 2023-09-11 |
 | [Lamberto Verdugo \- En Vivo Desde Las Tapias](https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [En Vivo Desde Las Tapias](https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW) | 3:09 | 2023-12-16 | 2024-03-25 |
 | [Las Tempestades](https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre de 14 Años](https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy) | 3:59 | 2022-06-03 |  |
-| [Linda Princesa](https://open.spotify.com/track/2hALctzTAdTgRsdUbE3Jwu) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Mi Corazon Ya Te Olvido](https://open.spotify.com/album/3l8xnffFtNk5UOMlt7Ye5v) | 2:38 | 2024-04-26 |  |
+| [Linda Princesa](https://open.spotify.com/track/2hALctzTAdTgRsdUbE3Jwu) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Mi Corazon Ya Te Olvido](https://open.spotify.com/album/3l8xnffFtNk5UOMlt7Ye5v) | 2:38 | 2024-04-26 | 2024-06-03 |
 | [Los 3 Gallos \- En Vivo](https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:20 | 2022-06-01 |  |
 | [Los Dos Jefes](https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:05 | 2022-06-01 | 2023-12-14 |
 | [Los Juniors De Culiacán](https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:52 | 2022-06-01 |  |
@@ -100,7 +100,7 @@
 | [Quiéreme \- En Vivo](https://open.spotify.com/track/4oDxtA4tXtw5gsVqM3twSu) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 2:15 | 2023-10-10 |  |
 | [Raizes de Amaculi](https://open.spotify.com/track/68ORNYqV9HvpSeuecGtShG) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Corridos Que Huelen a Monte!](https://open.spotify.com/album/5k30lEXULrhHbfxmCcMvz1) | 3:10 | 2024-03-24 | 2024-04-08 |
 | [Renunciación \- En Vivo](https://open.spotify.com/track/5QeX0Wp11Fmu4jsJhAOGcR) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 4:09 | 2022-06-16 | 2022-10-11 |
-| [Se Equivocó El Pistolero](https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 2:42 | 2022-06-02 | 2024-05-29 |
+| [Se Equivocó El Pistolero](https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 2:42 | 2022-06-02 |  |
 | [Tiro de Gracia](https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:32 | 2022-06-01 |  |
 | [Yo Fui el Señor de los Llanos](https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:18 | 2022-06-01 |  |
 | [Yo No Se Mañana](https://open.spotify.com/track/5mSq2IwckbahgZBQcQCBCk) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Sin Fronteras](https://open.spotify.com/album/0ohV6f8KKKniel0VDKaMQ8) | 3:44 | 2022-06-01 | 2022-10-13 |

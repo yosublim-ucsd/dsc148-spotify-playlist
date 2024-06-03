@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 209553,
+  "num_followers": 209572,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 239960,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Being With You",
         "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 246960,
       "name": "Being With You",
       "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Too Hot - Single Version",
-      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 292733,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Too Hot - Single Version",
+      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Back to your Place",
-        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Back to your Place",
-      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Let Me In Your Life",
         "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 208466,
       "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
       "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Circle Of One",
         "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
         "name": "Jewels In The Crown",
         "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
       },
@@ -919,18 +919,34 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+      "duration_ms": 195866,
+      "name": "I've Got Dreams to Remember",
+      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -947,22 +963,6 @@
       "duration_ms": 192600,
       "name": "Work to Do",
       "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "I've Got Dreams to Remember",
-      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
+        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
+        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Almaz",
+      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
         "name": "The Essentials: Ambrosia",
         "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 301000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
-        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
-        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "Almaz",
-      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
+        "name": "Sparkle",
+        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 381826,
+      "name": "Something He Can Feel",
+      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
         "name": "So Glad I Found You",
         "url": "https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Sparkle",
-        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "Something He Can Feel",
-      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Love Oh Love",
         "url": "https://open.spotify.com/album/63QvEGahoi8TbcSNp0dT3e"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 178933,
       "name": "So in Love with You",
       "url": "https://open.spotify.com/track/7yLQMOBHYEkFkFQcEoNEpR"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -1503,6 +1487,22 @@
       "duration_ms": 235733,
       "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
       "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Smooth Soul",
-        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 204055,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "The Essential Johnny Mathis 3.0",
         "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 178626,
       "name": "Too Much, Too Little, Too Late (with Deniece Williams)",
       "url": "https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Smooth Soul",
+        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 204055,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u"
     },
     {
       "added_at": "2024-04-11 12:37:11",

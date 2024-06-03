@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGA+v3AhzOe4Ve2odKSznBWcrImJwp",
+  "snapshot_id": "AAAGBCMabK3clfIreMeStcN9z4vkT3pa",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8283,6 +8283,30 @@
       "duration_ms": 361013,
       "name": "Arithmophobia",
       "url": "https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI"
+    },
+    {
+      "added_at": "2024-06-02 17:12:29",
+      "album": {
+        "name": "Burd",
+        "url": "https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05"
+      },
+      "artists": [
+        {
+          "name": "Wilma Vritra",
+          "url": "https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT"
+        },
+        {
+          "name": "Wilma Archer",
+          "url": "https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx"
+        },
+        {
+          "name": "VRITRA",
+          "url": "https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7"
+        }
+      ],
+      "duration_ms": 252122,
+      "name": "Harness",
+      "url": "https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf"
     }
   ],
   "unique_name": "Zacklog",

@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj?si=2lCWVecURV2QKJ6ZYYzMEQ>Uche Agu</a>
 
-2,763 songs - 8 day 8 hr 8 min
+2,764 songs - 8 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1698,6 +1698,7 @@
 | [Never Late](https://open.spotify.com/track/5hjmjT8hSCkX6NoduqAQay) | [De\-Ola](https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy) | [Never Late](https://open.spotify.com/album/4JRU7wu4HT7e0TAqyzdz6v) | 3:31 | 2024-03-08 | 2024-03-22 |
 | [Never Leave Me](https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Never Leave Me](https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0) | 3:18 | 2024-02-09 | 2024-02-23 |
 | [Never Let You Go](https://open.spotify.com/track/72PQX6cWw8bjuCaVz64j1g) | [Miracle V](https://open.spotify.com/artist/2KkZT2Y0mlbVL1DuF18AdQ) | [Never Let You Go](https://open.spotify.com/album/1f0WdQarNCBAqT3EFMc3Jl) | 7:30 | 2024-02-16 | 2024-02-23 |
+| [Never Run Dry](https://open.spotify.com/track/6LBRgYzpd1uDeDVy7U1kn5) | [Ted Slaughter](https://open.spotify.com/artist/00rM1EYNcPPD1mBL3R7mDn) | [Never Run Dry](https://open.spotify.com/album/4iW6dI8EQqx7D3cPuSk4Jb) | 4:15 | 2024-06-02 |  |
 | [Never say never](https://open.spotify.com/track/1HwY28LXJMpBfT4e256Vbq) | [Oristarr](https://open.spotify.com/artist/4vaom7Wxs1WVUebRwBodWY) | [From me to you](https://open.spotify.com/album/53S1e7WWrm71bL3DToMZZk) | 3:06 | 2023-12-01 | 2023-12-15 |
 | [Never seen](https://open.spotify.com/track/2X309SJQVTXYET0I3xKKlo) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 2:54 | 2023-07-28 | 2023-08-11 |
 | [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-01-05 | 2024-01-19 |

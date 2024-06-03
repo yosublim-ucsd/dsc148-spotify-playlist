@@ -1,12 +1,12 @@
 {
   "description": "Crossing over like Allen I. Cover: Tommy Richman",
-  "num_followers": 2057801,
+  "num_followers": 2058002,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAAAvaMq0b0lEsTn83VnZpmvD",
+  "snapshot_id": "ZlyzPAAAAAAPch5vJD0TJa20Utj7QBy7",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -95,6 +95,22 @@
       "duration_ms": 231106,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -411,22 +427,6 @@
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
     },
     {
       "added_at": "2024-05-31 04:00:00",

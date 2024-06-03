@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 13 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moments](https://open.spotify.com/track/5ZA9IFvOTvAhAhyTIlZ6ML) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Moments](https://open.spotify.com/album/2OxY7YomhRLZKtKGkm6Fv3) | 3:22 |
-| 2 | [Gnars Attacks \- Instrumental Version](https://open.spotify.com/track/3gkfftVtnaEMTSUzpAepZv) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Digital Renegade \[Instrumental Version\]](https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M) | 3:29 |
-| 3 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
-| 4 | [Clavicula Nox \- Live in Miskolc](https://open.spotify.com/track/2prH7BkugViD0w24369o0C) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [The Miskolc Experience](https://open.spotify.com/album/1CjyR7YoMo091UFrNzcShZ) | 10:34 |
-| 5 | [Revelations \- 1998 Remastered Version](https://open.spotify.com/track/2grN8N2uw9lLOJ0RSJiusp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece Of Mind \(1998 Remastered Edition\)](https://open.spotify.com/album/3dFAfH33aNku65qm8IPS54) | 6:48 |
-| 6 | [LUNA](https://open.spotify.com/track/1Z9yDCWUObVHRLgtuLGyVU) | [Twin Seas](https://open.spotify.com/artist/7iMfIbYzWN2r9FJSzSiVHE) | [LUNA](https://open.spotify.com/album/6TqhxfUtpLc0tulhRZo4DX) | 3:13 |
-| 7 | [Genocide](https://open.spotify.com/track/025JvigsGoSYBEo6JgjyOf) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [No Time To Bleed](https://open.spotify.com/album/0HfrZ8ZtUL9ncyt3c5sfMh) | 2:17 |
-| 8 | [In the Unblind](https://open.spotify.com/track/2CrCcnUyOANNERVzO7nEtj) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Alive or Just Breathing \(Topshelf Edition\)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7) | 2:48 |
-| 9 | [What Can I Say](https://open.spotify.com/track/42CWOvqqZF3JzWJHldoSKE) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dead by April \(Bonus Version\)](https://open.spotify.com/album/56vEKlPffEVZC1m436T8Sc) | 3:08 |
-| 10 | [Drown](https://open.spotify.com/track/1RgPtXc8AmD8XlmP0IuBr4) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit \(Track by Track Commentary\)](https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh) | 3:42 |
-| 11 | [Playing With Fire](https://open.spotify.com/track/5eXmilqeEJZwYIxFNMLeCR) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Ashes To Ashes](https://open.spotify.com/album/4DoE1Dn71AX9K2QQaqnRdb) | 3:55 |
-| 12 | [ROADS UNTRAVELED \- Acapella](https://open.spotify.com/track/3Beexlj6IkS2CnvPoxgLMR) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS: Acapellas and Instrumentals](https://open.spotify.com/album/7qRKpkP0jSOlBMLYZhAMCh) | 3:11 |
+| 1 | [We Are the Champions \- Live At Wembley Stadium / July 1986](https://open.spotify.com/track/5XGggdzWtLwIqFOzVxcVYp) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Live At Wembley Stadium](https://open.spotify.com/album/0pipZo4jBQ2hA4HphdFccg) | 4:04 |
+| 2 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
+| 3 | [Loner](https://open.spotify.com/track/6PPs4wEwrTQrVTNypvHa3L) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13 \(Deluxe Version\)](https://open.spotify.com/album/7GnnFI0WmAx9O9hccqVDGl) | 4:59 |
+| 4 | [Tread the Floods](https://open.spotify.com/track/3RmN7tFegiYqrzGHmNUxIM) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade \(Special Edition\)](https://open.spotify.com/album/0xfsWTrOdJ5SeROGwx981O) | 3:33 |
+| 5 | [Mountains and Miller](https://open.spotify.com/track/1loMULvlhcSYhgJsptoCOz) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Mountains and Miller](https://open.spotify.com/album/6dcqQU5Ej1sb3eAYLchncx) | 4:00 |
+| 6 | [Where The River Flows](https://open.spotify.com/track/5c3K5Lwh6vcHi98qNYSNx8) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 3:35 |
+| 7 | [Wake Up](https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine](https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul) | 6:04 |
+| 8 | [Losing Faith](https://open.spotify.com/track/0U4eaZF51GQyOA931j9KYu) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 3:04 |
+| 9 | [Tema de la Pantera Rosa](https://open.spotify.com/track/4VjMrJCMBamtbPtLBimf2k) | [Polo Solís](https://open.spotify.com/artist/417lbCPlrYt9ZUTDRNSsrj) | [Clásicos](https://open.spotify.com/album/5iSkCLIc3RFVkYconnkX0v) | 3:19 |
+| 10 | [Beneath the Sun](https://open.spotify.com/track/0UIcjWPYmCAY8DapwEjm7G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:56 |
+| 11 | [Inner Light \(From "Hajime No Ippo"\)](https://open.spotify.com/track/5q9gEHMWOCNFdl3Is3Lau9) | [Miura Jam](https://open.spotify.com/artist/5ZcXM1KFH6hhLoBIdgCnap) | [Inner Light \(From "Hajime No Ippo"\)](https://open.spotify.com/album/2zbkEjeACYRZyRiao4yHbj) | 5:04 |
+| 12 | [Erase / Rewind](https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:38 |
 
-Snapshot ID: `AAAAhSIFNJjJK3WyyoQOrai3B59i51GL`
+Snapshot ID: `AAAAhgM357FqPi6ScAkb/liobSl6lbUx`

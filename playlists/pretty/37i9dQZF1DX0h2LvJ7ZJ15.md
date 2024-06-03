@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321,492 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322,239 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 43 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
 | 44 | [Hands up! \- Slowed](https://open.spotify.com/track/1cbDFtFwFk3iyYOgnuxNT4) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(The Remix\)](https://open.spotify.com/album/07YCL9cU3GuKxXQucJsKap) | 2:38 |
 | 45 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |
-| 46 | [Sahara \- Slowed](https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara \(Slowed\)](https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw) | 3:34 |
+| 46 | [BASSLINE \- SLOWED](https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [Shadow \- Plus](https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc) | [BASSLINE](https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK) | 2:10 |
 | 47 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
-| 48 | [BASSLINE \- SLOWED](https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [Shadow \- Plus](https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc) | [BASSLINE](https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK) | 2:10 |
+| 48 | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1) | 2:21 |
 | 49 | [Limbo \- Ghost Slowed](https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- Ghost Slowed](https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2) | 3:03 |
-| 50 | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1) | 2:21 |
+| 50 | [Sahara \- Slowed](https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara \(Slowed\)](https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw) | 3:34 |
 
 Snapshot ID: `ZlAZ0AAAAAB6INx9V4+zTAZyrjiTP2Cr`

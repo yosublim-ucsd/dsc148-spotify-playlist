@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1208815,
+  "num_followers": 1208944,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABLcqM1LUhFytUfgHvFqQxm",
+  "snapshot_id": "ZlpkgAAAAAC9wHIbpT9GCUcUYHZ2c6oB",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 184543,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 337505,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
+      "duration_ms": 184543,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
       "duration_ms": 179360,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 337505,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
     },
     {
       "added_at": null,
@@ -275,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Every Breaking Wave",
-      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
         "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 171546,
       "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
       "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Every Breaking Wave",
+      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 292845,
-      "name": "Red Hill Mining Town",
-      "url": "https://open.spotify.com/track/2G4F5Fc0DUFkkODwhWnbmt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of 1990-2000",
         "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 274120,
-      "name": "Original Of The Species",
-      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 274120,
+      "name": "Original Of The Species",
+      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Night On Earth",
         "url": "https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 255942,
       "name": "Last Night On Earth - Single Version / Remastered 2024",
       "url": "https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Your Song Saved My Life - From Sing 2",
-      "url": "https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 202413,
       "name": "The Saints Are Coming",
       "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Your Song Saved My Life - From Sing 2",
+      "url": "https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a"
     },
     {
       "added_at": null,

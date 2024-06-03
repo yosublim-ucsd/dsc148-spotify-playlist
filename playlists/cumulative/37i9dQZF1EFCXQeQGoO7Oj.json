@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219073,
+      "name": "Everything but You",
+      "url": "https://open.spotify.com/track/0Ev9jxRhaY7YzxSh2fhMWj"
+    },
+    {
+      "album": {
         "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg"
       },

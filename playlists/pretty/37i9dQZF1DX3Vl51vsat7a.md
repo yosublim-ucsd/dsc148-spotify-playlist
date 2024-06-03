@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,771 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,777 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 |
+| 1 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 |
 | 2 | [2004](https://open.spotify.com/track/70mnNt3wqV6MYIAR9vvixQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [2004](https://open.spotify.com/album/25Gu3kn7qyTJ4zt5CSpbeQ) | 2:40 |
 | 3 | [It's A Problem](https://open.spotify.com/track/1xBKpJTibQ2GD23ZIw47Yx) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [It's A Problem](https://open.spotify.com/album/2KY2vz3NYHLHXvX6A0cjDL) | 2:30 |
 | 4 | [Hiatus](https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Hiatus](https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2) | 2:48 |

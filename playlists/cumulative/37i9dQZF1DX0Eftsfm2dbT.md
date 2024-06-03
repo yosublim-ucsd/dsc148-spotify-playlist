@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: VaVa
 
-768 songs - 1 day 15 hr 42 min
+769 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [High\-End](https://open.spotify.com/track/1PVggRrXFcfrK99IzMPXe4) | [KID PENSEUR](https://open.spotify.com/artist/68ea2WqkkypaKoakuoNbbl), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [Street Kid](https://open.spotify.com/album/0lDNVwHtUoRaXmPVcaLS8S) | 2:38 | 2024-03-20 | 2024-04-17 |
 | [Higher \- Remix](https://open.spotify.com/track/3sIRVjhHx7tlf6ofHUJvDF) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [Higher \(Remix\)](https://open.spotify.com/album/1E17r8w0lmF6xzfYMuHDAQ) | 3:56 | 2023-10-19 | 2023-10-21 |
 | [Higher \- Remix](https://open.spotify.com/track/5ziiPlHiZWgexfYDWaMfMS) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [Higher \(Remix\)](https://open.spotify.com/album/6egmg7oo4uDNKDYDUXSkR2) | 3:56 | 2023-10-19 | 2024-02-14 |
+| [HIKARI](https://open.spotify.com/track/099gm7kqxIKZsRIrAb1lw4) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [CHOUJI](https://open.spotify.com/artist/2wudBehSTmgh0pDockAtnn) | [HIKARI](https://open.spotify.com/album/7by8KGMlj1ZWhwsaPGsI1o) | 3:02 | 2024-06-03 |  |
 | [HIT MAKER !!!](https://open.spotify.com/track/7wwrSDeyJcfV5RGvFEnTSn) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 3:48 | 2023-09-21 | 2023-12-06 |
 | [Hope](https://open.spotify.com/track/3pA9teCcxI6k42jaWQPmxn) | [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe) | [Hope](https://open.spotify.com/album/1VLFfDuuqsC3xYyeKtzQnW) | 2:52 | 2023-10-24 | 2023-11-01 |
 | [Hope](https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP) | [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe) | [Hope](https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc) | 2:52 | 2023-10-24 | 2023-10-26 |

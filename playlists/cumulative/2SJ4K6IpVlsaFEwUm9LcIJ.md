@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-179 songs - 9 hr 3 min
+181 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [mahou no hiroba](https://open.spotify.com/track/7N3FBdEMvKhzL0qhADdt2N) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 9:04 | 2024-03-09 | 2024-05-16 |
 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 | 2024-03-20 | 2024-05-16 |
 | [March 8](https://open.spotify.com/track/4jRcB4wbhwhYVLYQr6fB8Y) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Ya Chaika](https://open.spotify.com/album/4tVFs4nSvfiD2TubHFYR0B) | 1:21 | 2024-01-31 | 2024-03-10 |
+| [Mario's Cafe](https://open.spotify.com/track/0DphBni42F0bpa2E7ptWjV) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [So Tough](https://open.spotify.com/album/2FTeecYAHUqD087fRHHuNF) | 4:37 | 2024-06-02 |  |
 | [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2024-04-18 | 2024-05-16 |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Moon Like a Pearl](https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Wonder What It's Like](https://open.spotify.com/album/4iIEtjfL8Xdyt0MglEJFTD) | 2:06 | 2024-03-09 | 2024-05-16 |
@@ -136,6 +137,7 @@
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2024-01-24 | 2024-03-10 |
 | [Only People Can Save the World](https://open.spotify.com/track/7uGt9uDMoSaXFAHPKvGbJn) | [The Whatnauts](https://open.spotify.com/artist/2SFOkFzbmtkUJ5A6LcYPWB) | [On the Rocks](https://open.spotify.com/album/6QCGoXCij8HCBI4DwMGjZ6) | 4:44 | 2024-03-09 | 2024-05-16 |
 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 | 2024-04-10 | 2024-05-16 |
+| [People Get Real](https://open.spotify.com/track/2OPLyjw4pDQremg5IVfkSv) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:44 | 2024-06-02 |  |
 | [Plans Get Complex](https://open.spotify.com/track/5FEzARoBNBiXHMc0zIwVGY) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:41 | 2024-05-30 |  |
 | [POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 4:04 | 2024-01-24 | 2024-03-10 |
 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 | 2024-02-28 | 2024-03-05 |
@@ -172,7 +174,7 @@
 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 | 2024-05-16 |  |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
-| [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 |  |
+| [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 |  |
 | [Today Or Tomorrow](https://open.spotify.com/track/1XqvZaj7UvnR8SFGwAZmFh) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [In Place Of Real Insight](https://open.spotify.com/album/3Zlq4jLSKwaPekmVFR7BcD) | 1:58 | 2024-03-09 | 2024-05-16 |
 | [Top of Morning](https://open.spotify.com/track/0UfIarGCDsKojnn6p4LvTx) | [The Hang\-Ups](https://open.spotify.com/artist/16YEyKB4T5ayo9Ss0QvI9V) | [So We Go](https://open.spotify.com/album/70t2UqAkgVrD68eEPq4q7V) | 2:41 | 2024-04-01 | 2024-05-16 |

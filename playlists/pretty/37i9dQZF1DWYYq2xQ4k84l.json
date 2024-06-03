@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 36633,
+  "num_followers": 36646,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+    },
+    {
+      "added_at": "2024-04-06 00:38:25",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2024-04-06 00:38:25",
-      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -175,22 +175,6 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
-    },
-    {
-      "added_at": "2024-04-06 00:38:25",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -211,22 +195,6 @@
       "duration_ms": 248000,
       "name": "Si la Ves (feat. Sin Bandera)",
       "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
-    },
-    {
-      "added_at": "2024-04-06 00:38:25",
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "\u00c9chame a Mi La Culpa",
-      "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -259,6 +227,54 @@
       "duration_ms": 266493,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+    },
+    {
+      "added_at": "2024-04-06 00:38:25",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2024-04-06 00:38:25",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "\u00c9chame a Mi La Culpa",
+      "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
+    },
+    {
+      "added_at": "2024-04-06 00:38:25",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 289466,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -311,22 +327,6 @@
       "duration_ms": 204382,
       "name": "Al Natural (feat. Yandel)",
       "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
-    },
-    {
-      "added_at": "2024-04-06 00:38:25",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
-        "name": "Pafuera Telara\u00f1as",
-        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
-      },
-      "artists": [
-        {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Siempre me quedar\u00e1",
-      "url": "https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs"
-    },
-    {
-      "added_at": "2024-04-06 00:38:25",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 266133,
       "name": "A Veces Vuelvo",
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+    },
+    {
+      "added_at": "2024-04-06 00:38:25",
+      "album": {
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
+      },
+      "artists": [
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Siempre me quedar\u00e1",
+      "url": "https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
-    },
-    {
-      "added_at": "2024-04-06 00:38:25",
-      "album": {
         "name": "Reyli En La Luna",
         "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 203906,
       "name": "La Descarada",
       "url": "https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5"
+    },
+    {
+      "added_at": "2024-04-06 00:38:25",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
-      },
-      "artists": [
-        {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Ya Nada Queda",
-      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
-    },
-    {
-      "added_at": "2024-04-06 00:38:25",
-      "album": {
         "name": "1989-2009",
         "url": "https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
-        "name": "La Camisa Negra",
-        "url": "https://open.spotify.com/album/4XQoT3nVi6XGIy5NiB7uIC"
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
         }
       ],
-      "duration_ms": 214506,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/0sUWZTmLTZj21G6dmlsJlj"
+      "duration_ms": 224000,
+      "name": "Ya Nada Queda",
+      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -735,6 +719,22 @@
       "duration_ms": 232093,
       "name": "Llenos De Magia",
       "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
+    },
+    {
+      "added_at": "2024-04-06 00:38:25",
+      "album": {
+        "name": "La Camisa Negra",
+        "url": "https://open.spotify.com/album/4XQoT3nVi6XGIy5NiB7uIC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/0sUWZTmLTZj21G6dmlsJlj"
     },
     {
       "added_at": "2024-04-06 00:38:25",

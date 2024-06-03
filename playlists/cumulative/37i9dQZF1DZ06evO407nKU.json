@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Perdidos en el Alcohol (En Vivo)",
+        "url": "https://open.spotify.com/album/61fghf49dcy5C3Bi6BO5Qu"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199815,
+      "name": "Por Tu Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/2aC8d54n2KG7S7lYaSO3qj"
+    },
+    {
+      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg"
       },

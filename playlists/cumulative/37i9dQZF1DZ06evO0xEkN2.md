@@ -2,7 +2,7 @@
 
 ### [This Is Panteon Rococo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xEkN2)
 
-> This Is Panteon Rococo\. Los temas esenciales, todos en una lista.
+> This is Panteon Rococo\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 56 min
 

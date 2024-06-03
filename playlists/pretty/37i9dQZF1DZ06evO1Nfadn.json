@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 25717,
+  "num_followers": 25738,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABf0S2sF6S0UPR8VvfKpWXe",
+  "snapshot_id": "ZlpkgAAAAABGoT+nAzKS904ZTpynOPIM",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 181519,
-      "name": "Como La Luna",
-      "url": "https://open.spotify.com/track/2wLlLduOwyxNUCR8AnLPJr"
+      "duration_ms": 176889,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 176889,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
+      "duration_ms": 181519,
+      "name": "Como La Luna",
+      "url": "https://open.spotify.com/track/2wLlLduOwyxNUCR8AnLPJr"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed Quebraditas: Tumbando Ca\u00f1a / Como la Luna / Eva Mar\u00eda (30 Aniversario)",
-        "url": "https://open.spotify.com/album/4NpEVKlOcYVwkVZsCEgoJE"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 321910,
-      "name": "Popurr\u00ed Quebraditas: Tumbando Ca\u00f1a / Como la Luna / Eva Mar\u00eda - 30 Aniversario",
-      "url": "https://open.spotify.com/track/54YlyNUYMtrQzzU0vQyK60"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 15 para Coleccionar",
         "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 136226,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popurr\u00ed Quebraditas: Tumbando Ca\u00f1a / Como la Luna / Eva Mar\u00eda (30 Aniversario)",
+        "url": "https://open.spotify.com/album/4NpEVKlOcYVwkVZsCEgoJE"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 321910,
+      "name": "Popurr\u00ed Quebraditas: Tumbando Ca\u00f1a / Como la Luna / Eva Mar\u00eda - 30 Aniversario",
+      "url": "https://open.spotify.com/track/54YlyNUYMtrQzzU0vQyK60"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Para Que No Me Olvides",
-      "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 148188,
       "name": "Ay Amigo",
       "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Para Que No Me Olvides",
+      "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
     },
     {
       "added_at": null,

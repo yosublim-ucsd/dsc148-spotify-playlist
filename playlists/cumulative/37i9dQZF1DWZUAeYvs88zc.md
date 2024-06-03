@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-529 songs - 1 day 5 hr 44 min
+530 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bitch](https://open.spotify.com/track/2PjGWkumFMNIrdgJ8tA5BI) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Bitch](https://open.spotify.com/album/5FYMZSGSXsQDRUljl5nvnQ) | 3:14 | 2021-06-27 | 2021-09-26 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2023-01-06 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-14 |  |
-| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 |  |
+| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 | 2024-06-03 |
 | [Break Up Song](https://open.spotify.com/track/3fEoJxnPpfIHwFHKiFtqbA) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Break Up Song](https://open.spotify.com/album/0JFTISfgRQyeH5kSAFPgtq) | 3:20 | 2020-03-29 | 2021-08-13 |
 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 | 2019-06-21 | 2019-08-10 |
 | [Broken](https://open.spotify.com/track/3Xf1QayETh9YgdW0FzMJEl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:38 | 2019-05-26\* | 2020-04-22 |
@@ -342,6 +342,7 @@
 | [Not Sad Anymore](https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Not Sad Anymore](https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN) | 3:15 | 2021-06-19 |  |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 | 2023-01-18 |  |
 | [Nothing but a Heartbeat](https://open.spotify.com/track/7lwYGjS8XQnReH8D73zlnu) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Lucid Dreaming \(Deluxe Edition\)](https://open.spotify.com/album/2yCHRv9UcB0C2HSWNGmUXo) | 3:40 | 2019-07-28 | 2019-08-10 |
+| [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 | 2024-06-02 |  |
 | [Nothing Fails](https://open.spotify.com/track/6ZUDEcfkOP6R9g6noBrIW4) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:48 | 2019-07-30 | 2019-08-10 |
 | [Nothing in My Head](https://open.spotify.com/track/1xkHYUMslytkzMxjuOPtrh) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Nothing in My Head](https://open.spotify.com/album/6IBXpvqp0tIDHPKUbOMYzF) | 3:01 | 2019-05-26\* | 2021-05-28 |
 | [Nothing Is Over](https://open.spotify.com/track/16OLYusth4IBXT8lrWK7Rr) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Earth Sick](https://open.spotify.com/album/2OM8AFHd7Tdgop6sfDGIWT) | 3:07 | 2019-07-29 | 2019-08-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,096 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,108 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 4 | [Roller Girl](https://open.spotify.com/track/7fxZpBlviGbIQ3MdWr2Nch) | [Anna Karina](https://open.spotify.com/artist/5Hdnj4ih6VtuvwwNFUAMEC) | [BOF Anna](https://open.spotify.com/album/7lamDMJGneBZtJBtfwas9v) | 2:23 |
 | 5 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
 | 6 | [El Gran Tomás \(Norman\)](https://open.spotify.com/track/7b94Oh1p69ue3mCdXsngrh) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Mayté...](https://open.spotify.com/album/4bRUoxWothLJaJpXI03MrX) | 2:12 |
-| 7 | [Topless Party](https://open.spotify.com/track/7lCzY3lj586QbvglU8TCtU) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 3:04 |
-| 8 | [Romeo y Julieta](https://open.spotify.com/track/5G16h0fFvNuQmwA6y78QM6) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Colores](https://open.spotify.com/album/1Scgivd40jqSf5QybT3Itq) | 2:34 |
+| 7 | [Romeo y Julieta](https://open.spotify.com/track/5G16h0fFvNuQmwA6y78QM6) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Colores](https://open.spotify.com/album/1Scgivd40jqSf5QybT3Itq) | 2:34 |
+| 8 | [Topless Party](https://open.spotify.com/track/7lCzY3lj586QbvglU8TCtU) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 3:04 |
 | 9 | [](https://open.spotify.com/track/1NV2n81StzrL8svv01aZaA) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4NmjPjTRWoQa33BLUyYPv5) | 0:00 |
 | 10 | [Moi je joue](https://open.spotify.com/track/3UodijH4fESPUiVz7t8TJC) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [The Best Of Bardot](https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID) | 1:38 |
 | 11 | [Más Bonita Que Ninguna](https://open.spotify.com/track/5xfYIP4HzT80lBrSoS2aQT) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Más Bonita Que Ninguna](https://open.spotify.com/album/4fEnuulMQMw7nPgt1X6DdK) | 2:55 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 27 | [Snob Ye Ye](https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX) | [Maleni Castro](https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt) | [Una Guitarra Española](https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp) | 2:05 |
 | 28 | [Let's Shake Baby](https://open.spotify.com/track/4YxycWQkXTmhxFmlCzeVjg) | [Zoe and the Stormies](https://open.spotify.com/artist/13Ocf5aEBC9rxxx8zEiWf6), [Nikos Mastorakis](https://open.spotify.com/artist/5epd50kg8EHEdO4xIggASf) | [Sixties' Best Greek Pop Songs Vol\. 3](https://open.spotify.com/album/1aK1LgKJJ6lezxkF3eI7Ej) | 2:04 |
 | 29 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
-| 30 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 |
-| 31 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 |
+| 30 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 |
+| 31 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 |
 | 32 | [Tengo 17 Años](https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal \- Canciones De Juventud Los Años Prodigiosos De Una Artista Inolvidable 1962\- 1972](https://open.spotify.com/album/13lSObYUJPdxDePasnJxYh) | 3:01 |
 | 33 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 |
 | 34 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |

@@ -1,6 +1,6 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 132939,
+  "num_followers": 132930,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+      "duration_ms": 300683,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 300683,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
         "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 289560,
       "name": "Rosyln",
       "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Call It Fate, Call It Karma",
-      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Call It Fate, Call It Karma",
+      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
         "name": "Being So Normal",
         "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 315333,
       "name": "Age of Consent - 2015 Remaster",
       "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Savage Daughter",
         "url": "https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 178168,
       "name": "Savage Daughter",
       "url": "https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Colour Green",
-        "url": "https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB"
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
       "artists": [
         {
-          "name": "Sibylle Baier",
-          "url": "https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 146626,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw"
+      "duration_ms": 311626,
+      "name": "Rivers In Your Mouth",
+      "url": "https://open.spotify.com/track/4Uru57SoQpHBacQVhfcpdC"
     },
     {
       "added_at": "2024-06-01 16:41:32",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 311626,
-      "name": "Rivers In Your Mouth",
-      "url": "https://open.spotify.com/track/4Uru57SoQpHBacQVhfcpdC"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 231700,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Colour Green",
+        "url": "https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB"
+      },
+      "artists": [
+        {
+          "name": "Sibylle Baier",
+          "url": "https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw"
     },
     {
       "added_at": "2024-03-22 15:04:56",

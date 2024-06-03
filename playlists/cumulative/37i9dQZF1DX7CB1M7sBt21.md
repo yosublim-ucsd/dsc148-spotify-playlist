@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-291 songs - 14 hr 1 min
+292 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Dance For The Hell Of It](https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:15 | 2022-07-28 | 2023-11-10 |
 | [Dance For The Hell Of It](https://open.spotify.com/track/4dogRj7ByfvFBgVsYJcwA4) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/6xpbC5OEQZxIt922KKd12q) | 3:15 | 2021-11-19 | 2022-07-29 |
 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 | 2024-01-11 |  |
-| [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 | 2023-07-13 |  |
+| [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 | 2023-07-13 | 2024-06-03 |
 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 | 2023-09-14 |  |
 | [Dive](https://open.spotify.com/track/0Npijoc6ZcUe1devUugKvI) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Dive](https://open.spotify.com/album/2DUrw9sLe99AbZ8cRbsXk8) | 2:44 | 2021-11-19 | 2022-07-29 |
 | [Dive](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Dive](https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce) | 2:44 | 2022-07-28 | 2024-04-19 |
@@ -161,6 +161,7 @@
 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 | 2024-01-11 |  |
 | [Love Me Now](https://open.spotify.com/track/5pgwmLQHdWJlx3u5X15HXF) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Love Me Now](https://open.spotify.com/album/5llcK6YgjwFK0ladOHjbDu) | 2:52 | 2021-11-19 | 2022-07-28 |
 | [Love On Repeat](https://open.spotify.com/track/6JBfByv9Um8aeC8nHKnC0O) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Love On Repeat](https://open.spotify.com/album/5Q61Eji3KCqpc0xnVizPEd) | 2:19 | 2024-05-16 |  |
+| [MAGNET \(with MAX\)](https://open.spotify.com/track/7yaU5ku53ZS7bmivN9ZYzg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [MAGNET \(with MAX\)](https://open.spotify.com/album/27RxJ1eplbfpUmIX529vcu) | 3:22 | 2024-05-30 |  |
 | [Make It Count](https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Make It Count](https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi) | 3:33 | 2023-12-08 | 2024-01-28 |
 | [ME](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [ME](https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq) | 3:34 | 2024-01-18 | 2024-05-13 |
 | [Me Provocas](https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x) | 2:27 | 2022-07-28 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 576302,
+  "num_followers": 576534,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Netzwerk",
+        "url": "https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Will Heard",
+          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Sonnentanz - Sun Don't Shine",
+      "url": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Netzwerk",
-        "url": "https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Will Heard",
-          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Sonnentanz - Sun Don't Shine",
-      "url": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Seve (Radio Edit)",
-        "url": "https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4"
-      },
-      "artists": [
-        {
-          "name": "Tez Cadey",
-          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Seve - Radio Edit",
-      "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Seve (Radio Edit)",
+        "url": "https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4"
+      },
+      "artists": [
+        {
+          "name": "Tez Cadey",
+          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Seve - Radio Edit",
+      "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Stargazing - EP",
-        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -807,6 +787,26 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
+      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -835,22 +835,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
-        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
+        "name": "Stargazing - EP",
+        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
         }
       ],
-      "duration_ms": 195210,
-      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
-      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+      "duration_ms": 236853,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        }
-      ],
-      "duration_ms": 209208,
-      "name": "Headlights (feat. Ilsey)",
-      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "duration_ms": 209208,
+      "name": "Headlights (feat. Ilsey)",
+      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Strongest (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk"
-      },
-      "artists": [
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Strongest (Alan Walker Remix)",
-      "url": "https://open.spotify.com/track/2r9hCNjupNy2C2g3r6SNz6"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Catch & Release",
         "url": "https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 196198,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Strongest (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Strongest (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/2r9hCNjupNy2C2g3r6SNz6"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Caracal (Deluxe)",
-        "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
+        "name": "Settle (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
       },
       "artists": [
         {
@@ -1036,13 +1036,13 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 199245,
-      "name": "Magnets",
-      "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+      "duration_ms": 244174,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Caracal (Deluxe)",
+        "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 199245,
+      "name": "Magnets",
+      "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Settle (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
         },
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
         }
       ],
-      "duration_ms": 244174,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Music Is My Best Friend",
+        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Bad Ideas",
+      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Little Planets - Remix",
         "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
       },
@@ -1599,42 +1615,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "AV\u012aCI (01)",
-        "url": "https://open.spotify.com/album/0XV4cXBFmXIhQnQMYUX9u6"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Lonely Together (feat. Rita Ora)",
-      "url": "https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Music Is My Best Friend",
-        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Bad Ideas",
-      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "I Was Wrong (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 220677,
       "name": "I Was Wrong - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "AV\u012aCI (01)",
+        "url": "https://open.spotify.com/album/0XV4cXBFmXIhQnQMYUX9u6"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Lonely Together (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s"
       },
@@ -1775,38 +1791,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 228514,
-      "name": "Is U",
-      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "What Do You Love",
         "url": "https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 211875,
       "name": "What Do You Love",
       "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2024-03-19 13:37:55",

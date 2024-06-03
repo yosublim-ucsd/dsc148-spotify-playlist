@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-352 songs - 19 hr 19 min
+353 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Cheatcode](https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Cheatcode](https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI) | 3:07 | 2022-01-07 |  |
 | [Chicane](https://open.spotify.com/track/4OV56yPi9j1HiMXddhz2js) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Chicane](https://open.spotify.com/album/65IRxbQXISoNnz6XKH5FW8) | 2:41 | 2021-11-19 | 2022-01-08 |
 | [Chicane \- Kumarion Remix](https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Chicane Remixes](https://open.spotify.com/album/3Ka3FCtudWgJhRLnxTq3xw) | 3:04 | 2021-11-19 | 2022-01-08 |
-| [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 | 2024-04-12 |  |
+| [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 | 2024-04-12 | 2024-06-03 |
 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 | 2021-11-19 | 2022-01-08 |
 | [Control](https://open.spotify.com/track/1YVPBX1nfpWOlp6rSrg0C4) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Control](https://open.spotify.com/album/6UDJu02Yx57vyNTqAfEMr7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Crazy in the Head](https://open.spotify.com/track/4qfkszBr0DlyeXYL0yyvdY) | [FOCUSS](https://open.spotify.com/artist/1zF6ztWzJmC3kmyvUsLbqX) | [Crazy in the Head EP](https://open.spotify.com/album/6jKmTWnMw3VYIS9R52wion) | 3:00 | 2023-08-18 | 2023-09-10 |
@@ -300,6 +300,7 @@
 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 |  |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-01-08 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2021-11-19 | 2022-10-21 |
+| [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 | 2024-05-31 |  |
 | [STEREOPLEIN \- Yellow Claw Remix](https://open.spotify.com/track/00Dk3QJ4P8EfNxgZRa4eQZ) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [MX2](https://open.spotify.com/artist/7dZxYHTZtPPrExuIkf6IvJ), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [STEREOPLEIN \(Yellow Claw Remix\)](https://open.spotify.com/album/5Ef276bu8Pt9ZWeJT4nNS1) | 3:05 | 2021-11-19 | 2022-01-08 |
 | [STFU](https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [STFU](https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB) | 2:36 | 2023-09-22 |  |
 | [STFU](https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA) | [G\-Buck](https://open.spotify.com/artist/4Oxbc00K1336zJYgpR01Aw), [Sam King](https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL) | [STFU](https://open.spotify.com/album/1nCOqWGL5YHttCIQURnmmY) | 3:00 | 2021-11-19 | 2022-07-26 |

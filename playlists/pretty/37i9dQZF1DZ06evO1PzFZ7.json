@@ -1,12 +1,12 @@
 {
-  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 148223,
+  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
+  "num_followers": 148249,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABWeyC7CgGXIT2TfEJ5GNdS",
+  "snapshot_id": "ZlpkgAAAAADLLKjVsuoR1iYdw5P34lO+",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Troca",
-        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
       "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 147235,
-      "name": "Troca",
-      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -479,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+        "name": "Troca",
+        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
       },
       "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 147235,
+      "name": "Troca",
+      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
       "duration_ms": 220000,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
       },
@@ -575,6 +575,30 @@
       "duration_ms": 113619,
       "name": "Amor, Amor de Mis Amores",
       "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        },
+        {
+          "name": "Amadito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
+        }
+      ],
+      "duration_ms": 151720,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
     },
     {
       "added_at": null,
@@ -607,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 183817,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
@@ -634,31 +674,11 @@
         {
           "name": "Trio Los Panchos",
           "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        },
-        {
-          "name": "Amadito Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
         }
       ],
-      "duration_ms": 151720,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 183817,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
+      "duration_ms": 162480,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
     },
     {
       "added_at": null,
@@ -699,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -739,6 +739,42 @@
       "duration_ms": 462000,
       "name": "La Chancla / el Chivo / Pu\u00f1o de Tierra (En Vivo)",
       "url": "https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 168504,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
     },
     {
       "added_at": null,
@@ -783,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nueva Tradici\u00f3n",
         "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 213030,
       "name": "La Chancla",
       "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 168504,
-      "name": "Si una Vez",
-      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
     },
     {
       "added_at": null,

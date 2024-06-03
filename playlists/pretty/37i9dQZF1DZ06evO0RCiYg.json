@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 482489,
-  "original_name": "This Is Black Eyed Peas",
+  "description": "This is \u30d6\u30e9\u30c3\u30af\u30fb\u30a2\u30a4\u30c9\u30fb\u30d4\u30fc\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 482591,
+  "original_name": "This Is \u30d6\u30e9\u30c3\u30af\u30fb\u30a2\u30a4\u30c9\u30fb\u30d4\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAABCaFFOMqEohdyFqG2wInVF",
+  "snapshot_id": "ZlpkgAAAAACimf/kDet1rcclhDSMlZWJ",
   "tracks": [
     {
       "added_at": null,
@@ -71,8 +71,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
       },
       "artists": [
         {
@@ -80,9 +80,9 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+      "duration_ms": 219426,
+      "name": "Just Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
     },
     {
       "added_at": null,
@@ -99,6 +99,22 @@
       "duration_ms": 213066,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
     },
     {
       "added_at": null,
@@ -127,28 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/4PNKy9P3xrzqMwVzRjxBKt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
       },
       "artists": [
         {
@@ -156,9 +152,9 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Meet Me Halfway",
-      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
+      "duration_ms": 217733,
+      "name": "Let's Get It Started - Spike Mix",
+      "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
       },
       "artists": [
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 296186,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monkey Business",
         "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
       },
@@ -227,6 +243,22 @@
       "duration_ms": 219000,
       "name": "Don't Lie",
       "url": "https://open.spotify.com/track/6tp27J7xy18DQiQXut3GsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Boom Boom Pow",
+      "url": "https://open.spotify.com/track/3oDFtOhcN08qeDPAK6MEQG"
     },
     {
       "added_at": null,
@@ -275,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monkey Business",
         "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
       },
@@ -303,6 +319,22 @@
       "duration_ms": 326960,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE"
     },
     {
       "added_at": null,
@@ -339,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 239773,
+      "name": "Don't Phunk With My Heart",
+      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SIMPLY THE BEST",
         "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
       },
@@ -359,22 +407,6 @@
       "duration_ms": 236190,
       "name": "SIMPLY THE BEST",
       "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 239773,
-      "name": "Don't Phunk With My Heart",
-      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
     },
     {
       "added_at": null,
@@ -435,6 +467,30 @@
       "duration_ms": 235428,
       "name": "HIT IT (feat. Saweetie & Lele Pons)",
       "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "VIDA LOCA",
+      "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"
     },
     {
       "added_at": null,
@@ -611,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 312160,
-      "name": "The Boogie That Be",
-      "url": "https://open.spotify.com/track/12bZwKgVax8ibhwfiPgkQT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump It",
         "url": "https://open.spotify.com/album/1NkUiJ3j8F1BogXijapysS"
       },
@@ -639,6 +679,26 @@
       "duration_ms": 216026,
       "name": "Pump It - Travis Barker Remix Version",
       "url": "https://open.spotify.com/track/4ozSTxfmp1qTZ8DzaZtY97"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "eXplosion",
+        "url": "https://open.spotify.com/album/2oeDPXbXqgrYYXAJj9Iz3X"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "eXplosion",
+      "url": "https://open.spotify.com/track/6UkSkUIBJZaAiuAbflLa9j"
     },
     {
       "added_at": null,
@@ -671,26 +731,6 @@
       "duration_ms": 274546,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4pLMepQdJY7IXkrgRAubSx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "eXplosion",
-        "url": "https://open.spotify.com/album/2oeDPXbXqgrYYXAJj9Iz3X"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "eXplosion",
-      "url": "https://open.spotify.com/track/6UkSkUIBJZaAiuAbflLa9j"
     },
     {
       "added_at": null,
@@ -931,48 +971,8 @@
       "duration_ms": 200191,
       "name": "DOUBLE D'Z",
       "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bridging The Gap",
-        "url": "https://open.spotify.com/album/2haqnus2tl9nBATTVyXvCW"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Esthero",
-          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
-        }
-      ],
-      "duration_ms": 287240,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/444PDY0AH99Pgnq6B9T4pZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MASTERS OF THE SUN VOL. 1",
-        "url": "https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 278759,
-      "name": "DOPENESS (feat. CL)",
-      "url": "https://open.spotify.com/track/1LYuXxdooUiWRNMPEPleqX"
     }
   ],
-  "unique_name": "This Is Black Eyed Peas",
+  "unique_name": "This Is \u30d6\u30e9\u30c3\u30af\u30fb\u30a2\u30a4\u30c9\u30fb\u30d4\u30fc\u30ba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg"
 }

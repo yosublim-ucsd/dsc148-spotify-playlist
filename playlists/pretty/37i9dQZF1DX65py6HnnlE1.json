@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 698248,
+  "num_followers": 698434,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZiqhwwAAAABaVJRMZjczsiVjs4LZyVKy",
   "tracks": [
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Propuesta Indecente",
-      "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
-    },
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Propuesta Indecente",
+      "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Hoja en Blanco",
         "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
       },
@@ -111,6 +127,22 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Xtreme",
         "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
       },
@@ -123,22 +155,6 @@
       "duration_ms": 212973,
       "name": "Te Extra\u00f1o - Bachata Version",
       "url": "https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -175,22 +191,6 @@
       "duration_ms": 238143,
       "name": "El verdadero amor perdona - dueto con Prince Royce",
       "url": "https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 259959,
       "name": "Te Quiero Igual Que Ayer - Bachata",
       "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Rechazame",
+      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -339,38 +339,6 @@
       "duration_ms": 234560,
       "name": "Si Estuvieras Aqu\u00ed",
       "url": "https://open.spotify.com/track/5LaOePNL1J2kjhmj98xKif"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Dime Que Falto",
-        "url": "https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 251386,
-      "name": "Es Tan Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Shorty, Shorty",
-      "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -411,34 +379,18 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+        "name": "Dime Que Falto",
+        "url": "https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Rechazame",
-      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
+      "duration_ms": 251386,
+      "name": "Es Tan Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -459,82 +411,18 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Cuando Se Quiere Se Puede",
-        "url": "https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
         }
       ],
-      "duration_ms": 262586,
-      "name": "Qui\u00e9n Eres Tu",
-      "url": "https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Morire Bebiendo",
-      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Con Mas Amor",
-        "url": "https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 238453,
-      "name": "Se Te Nota",
-      "url": "https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Creiste",
-        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
+      "duration_ms": 174573,
+      "name": "Shorty, Shorty",
+      "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -559,6 +447,102 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Cuando Se Quiere Se Puede",
+        "url": "https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 262586,
+      "name": "Qui\u00e9n Eres Tu",
+      "url": "https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Morire Bebiendo",
+      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Con Mas Amor",
+        "url": "https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 238453,
+      "name": "Se Te Nota",
+      "url": "https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Prince Royce",
         "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Dosis De Amor",
-        "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
+        "name": "Creiste",
+        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9"
+      "duration_ms": 257488,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -619,6 +603,22 @@
       "duration_ms": 221080,
       "name": "Bailando Con El",
       "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Dosis De Amor",
+        "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -707,54 +707,6 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Dosis De Amor",
-        "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "El Alchohol",
-      "url": "https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Ad\u00f3nde Se Fue ?",
-      "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
         "name": "Regresa Amor",
         "url": "https://open.spotify.com/album/64PLhfXkELD6htYvIBb4gv"
       },
@@ -767,6 +719,22 @@
       "duration_ms": 295760,
       "name": "Nereyda",
       "url": "https://open.spotify.com/track/4GqF1OeM18jaUiCs56JR5s"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -803,6 +771,38 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "Dosis De Amor",
+        "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "El Alchohol",
+      "url": "https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Ad\u00f3nde Se Fue ?",
+      "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
       },
@@ -835,38 +835,6 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Y Los Claveles Mios",
-        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "El Verde de Tus Ojos",
-      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Se Acabo Lo Bonito",
-      "url": "https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
         "name": "Llora Alma Mia",
         "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
       },
@@ -879,6 +847,22 @@
       "duration_ms": 261519,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Y Los Claveles Mios",
+        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "El Verde de Tus Ojos",
+      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -899,6 +883,22 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Se Acabo Lo Bonito",
+      "url": "https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Bacha - Rengue: Lo Mejor De Los Toros Band",
         "url": "https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe"
       },
@@ -911,38 +911,6 @@
       "duration_ms": 272680,
       "name": "Quizas Si, Quizas No - Bachata Remix",
       "url": "https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Loco De Amor",
-        "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Ceniza fria",
-      "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "20/4 Bachata Vol.3",
-        "url": "https://open.spotify.com/album/1L0dpFrmLr0D7CDfi48pv9"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "La Avispa",
-      "url": "https://open.spotify.com/track/2qU17itEaJatg5saBg4lm2"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -963,18 +931,18 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Xtreme",
-        "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
+        "name": "Loco De Amor",
+        "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
       },
       "artists": [
         {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 227173,
-      "name": "Ahora Vete",
-      "url": "https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b"
+      "duration_ms": 252173,
+      "name": "Ceniza fria",
+      "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -995,6 +963,54 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "20/4 Bachata Vol.3",
+        "url": "https://open.spotify.com/album/1L0dpFrmLr0D7CDfi48pv9"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "La Avispa",
+      "url": "https://open.spotify.com/track/2qU17itEaJatg5saBg4lm2"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Xtreme",
+        "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Ahora Vete",
+      "url": "https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "Antolog\u00eda De Caricias",
+      "url": "https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Bachata A Su Tiempo",
         "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
       },
@@ -1007,6 +1023,22 @@
       "duration_ms": 254240,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/3CWgv82JBVeL9KX48BNLmb"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "En Persona",
+        "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Yo Mismo La Vi",
+      "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -1039,38 +1071,6 @@
       "duration_ms": 302960,
       "name": "Ay hombe",
       "url": "https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "En Persona",
-        "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Yo Mismo La Vi",
-      "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Antolog\u00eda De Caricias",
-      "url": "https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Dobletazo",
-        "url": "https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "No Le Pare",
-      "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
+        "name": "Dobletazo",
+        "url": "https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
+      "duration_ms": 179680,
+      "name": "No Le Pare",
+      "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "MerenHits '99",
-        "url": "https://open.spotify.com/album/1D26pHdjepPM7MGQln6in3"
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 298640,
-      "name": "Me Dejaste Abandonado",
-      "url": "https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS"
+      "duration_ms": 239906,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -1267,6 +1251,38 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "MerenHits '99",
+        "url": "https://open.spotify.com/album/1D26pHdjepPM7MGQln6in3"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Me Dejaste Abandonado",
+      "url": "https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Exitos de Luis Vargas",
+        "url": "https://open.spotify.com/album/1s9eT7dhLZqwoqhxhEwGQO"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "Volvi\u00f3 El Dolor",
+      "url": "https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
         "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
       },
@@ -1315,70 +1331,6 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Con Mas Amor",
-        "url": "https://open.spotify.com/album/3O05GLVwJEFvC6OgEdV9dl"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 293537,
-      "name": "El Hombre de Tu Vida",
-      "url": "https://open.spotify.com/track/561XJqsY39pBtn7clW30PM"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Exitos de Luis Vargas",
-        "url": "https://open.spotify.com/album/1s9eT7dhLZqwoqhxhEwGQO"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "Volvi\u00f3 El Dolor",
-      "url": "https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Edici\u00f3n De Lujo",
-        "url": "https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 270576,
-      "name": "Donde Estan Esos Amigos",
-      "url": "https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "El Duque de la Bachata",
-        "url": "https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi"
-      },
-      "artists": [
-        {
-          "name": "Joan Soriano",
-          "url": "https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry"
-        }
-      ],
-      "duration_ms": 310613,
-      "name": "Vocales de amor",
-      "url": "https://open.spotify.com/track/5guZMseET21n74ZIIOoXD2"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
@@ -1391,6 +1343,22 @@
       "duration_ms": 266320,
       "name": "Estrellitas y Duendes",
       "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Con Mas Amor",
+        "url": "https://open.spotify.com/album/3O05GLVwJEFvC6OgEdV9dl"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 293537,
+      "name": "El Hombre de Tu Vida",
+      "url": "https://open.spotify.com/track/561XJqsY39pBtn7clW30PM"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -1411,6 +1379,22 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "Edici\u00f3n De Lujo",
+        "url": "https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 270576,
+      "name": "Donde Estan Esos Amigos",
+      "url": "https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Exitos de Ayer y Hoy",
         "url": "https://open.spotify.com/album/7AOS7R8vOlAwifUgX1WpM5"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 170000,
       "name": "Si Tu Me Dices Ven",
       "url": "https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "El Duque de la Bachata",
+        "url": "https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi"
+      },
+      "artists": [
+        {
+          "name": "Joan Soriano",
+          "url": "https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry"
+        }
+      ],
+      "duration_ms": 310613,
+      "name": "Vocales de amor",
+      "url": "https://open.spotify.com/track/5guZMseET21n74ZIIOoXD2"
     },
     {
       "added_at": "2024-04-25 18:32:35",
@@ -1443,38 +1443,6 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
-        "name": "Old School Bachata",
-        "url": "https://open.spotify.com/album/5atPwcttstCkSkPGT6s9vT"
-      },
-      "artists": [
-        {
-          "name": "Ramon Cordero",
-          "url": "https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Amor del Bueno",
-      "url": "https://open.spotify.com/track/782ucUaVl6HFE5vtb6tizp"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
-        "name": "Pura Bachata",
-        "url": "https://open.spotify.com/album/5Ay43wmi8TkeMPIgF3jUIp"
-      },
-      "artists": [
-        {
-          "name": "Marino Perez",
-          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
-        }
-      ],
-      "duration_ms": 184579,
-      "name": "No la Quiero Ver Con Otro",
-      "url": "https://open.spotify.com/track/4IFtTcUDafDN2ZjlH3rISG"
-    },
-    {
-      "added_at": "2024-04-25 18:32:35",
-      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
@@ -1491,6 +1459,22 @@
     {
       "added_at": "2024-04-25 18:32:35",
       "album": {
+        "name": "Old School Bachata",
+        "url": "https://open.spotify.com/album/5atPwcttstCkSkPGT6s9vT"
+      },
+      "artists": [
+        {
+          "name": "Ramon Cordero",
+          "url": "https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/782ucUaVl6HFE5vtb6tizp"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
         "name": "Bachateando 2",
         "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 250106,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
+    },
+    {
+      "added_at": "2024-04-25 18:32:35",
+      "album": {
+        "name": "Pura Bachata",
+        "url": "https://open.spotify.com/album/5Ay43wmi8TkeMPIgF3jUIp"
+      },
+      "artists": [
+        {
+          "name": "Marino Perez",
+          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
+        }
+      ],
+      "duration_ms": 184579,
+      "name": "No la Quiero Ver Con Otro",
+      "url": "https://open.spotify.com/track/4IFtTcUDafDN2ZjlH3rISG"
     },
     {
       "added_at": "2024-04-25 18:32:35",

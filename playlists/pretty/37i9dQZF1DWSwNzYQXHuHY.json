@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9800,
+  "num_followers": 9795,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
+        "name": "Magnetic (Remixes)",
+        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Magnetic (R&B Remix)",
+      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
         "name": "Your BGM Vol.1",
         "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Magnetic (Remixes)",
-        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Magnetic (R&B Remix)",
-      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -175,6 +175,22 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -195,22 +211,6 @@
       "duration_ms": 196373,
       "name": "Nerdy Love",
       "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Someday (feat. Ha Hyun Sang)",
-        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Someday (feat. Ha Hyun Sang)",
-      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 181266,
       "name": "Losing Sleep Over You",
       "url": "https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "Someday (feat. Ha Hyun Sang)",
+        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Someday (feat. Ha Hyun Sang)",
+      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
+        "name": "\uc774\ub807\uac8c \uc88b\uc544\ud574 \ubcf8 \uc801\uc774 \uc5c6\uc5b4\uc694 (From \u201c\uc18c\ub140\uc758 \uc138\uacc4\u201d [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/1gEeOzKCnjiQ9GSR7s0KlS"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 259346,
+      "name": "\uc774\ub807\uac8c \uc88b\uc544\ud574 \ubcf8 \uc801\uc774 \uc5c6\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/7ybpezfufTBZvcMWf4iuT0"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
-        "name": "\uc774\ub807\uac8c \uc88b\uc544\ud574 \ubcf8 \uc801\uc774 \uc5c6\uc5b4\uc694 (From \u201c\uc18c\ub140\uc758 \uc138\uacc4\u201d [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/1gEeOzKCnjiQ9GSR7s0KlS"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 259346,
-      "name": "\uc774\ub807\uac8c \uc88b\uc544\ud574 \ubcf8 \uc801\uc774 \uc5c6\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/7ybpezfufTBZvcMWf4iuT0"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "izzana (Feat. OLNL)",
-        "url": "https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N"
-      },
-      "artists": [
-        {
-          "name": "b!ni",
-          "url": "https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU"
-        },
-        {
-          "name": "OLNL",
-          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "izzana (Feat. OLNL)",
-      "url": "https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "HESITATING",
         "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 178706,
       "name": "JUST RIGHT (feat. SOLE)",
       "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "izzana (Feat. OLNL)",
+        "url": "https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N"
+      },
+      "artists": [
+        {
+          "name": "b!ni",
+          "url": "https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "izzana (Feat. OLNL)",
+      "url": "https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b"
     },
     {
       "added_at": "2024-05-14 13:50:25",

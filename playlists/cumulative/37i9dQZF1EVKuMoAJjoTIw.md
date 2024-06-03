@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVKuMoAJjoTIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVKuMoAJjoTIw)
 
-### [ميكس موسيقى حزينة](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
+### [Mix melancólico](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> و<a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> و<a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> والمزيد
+> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> e mais
 
 607 songs - 1 day 11 hr 13 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DABOYWAY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,303 likes - 121 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,341 likes - 121 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

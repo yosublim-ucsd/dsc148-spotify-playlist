@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 430164,
+  "num_followers": 430216,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Tiene Sabor",
-        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Valent\u00edn Puentes",
-          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
-        }
-      ],
-      "duration_ms": 240562,
-      "name": "Tiene Sabor",
-      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Morena m\u00eda",
         "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 188543,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Tiene Sabor",
+        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Valent\u00edn Puentes",
+          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
+        }
+      ],
+      "duration_ms": 240562,
+      "name": "Tiene Sabor",
+      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Treinta D\u00edas",
+        "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Monedita",
+      "url": "https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 302000,
       "name": "Danz\u00f3n Para La Espera",
       "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Treinta D\u00edas",
-        "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Monedita",
-      "url": "https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        }
-      ],
-      "duration_ms": 138151,
-      "name": "sweet nothings",
-      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "duration_ms": 138151,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Si estuvieras aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 302962,
-      "name": "Si estuvieras aqu\u00ed",
-      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 183702,
       "name": "No S\u00e9 Que Hacer",
       "url": "https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Si estuvieras aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 302962,
+      "name": "Si estuvieras aqu\u00ed",
+      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "El Caudal",
-        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 237619,
-      "name": "El Caudal",
-      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Las Flores",
         "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
       },
@@ -1031,26 +1011,6 @@
       "duration_ms": 355019,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Mar Y Cielo",
-      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1087,6 +1047,46 @@
       "duration_ms": 239800,
       "name": "Quien Sabe",
       "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Mar Y Cielo",
+      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 227736,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "No Pasa Na",
         "url": "https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 230556,
       "name": "No Pasa Na",
       "url": "https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 227736,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Desde Lejos",
-        "url": "https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Desde Lejos",
-      "url": "https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 153208,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Desde Lejos",
+        "url": "https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Desde Lejos",
+      "url": "https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Estrella Matutina",
-        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        }
-      ],
-      "duration_ms": 200184,
-      "name": "Estrella Matutina",
-      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 223649,
       "name": "Together",
       "url": "https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Estrella Matutina",
+        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        }
+      ],
+      "duration_ms": 200184,
+      "name": "Estrella Matutina",
+      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
     },
     {
       "added_at": "2024-05-31 04:00:00",

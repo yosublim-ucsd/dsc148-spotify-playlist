@@ -4,7 +4,7 @@
 
 > Music from "The Irregular at Magic High School"! /音楽で辿る「魔法科高校の劣等生」の世界。©2023 佐島 勤/KADOKAWA/魔法科高校3製作委員会
 
-49 songs - 2 hr 38 min
+50 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [ミレナリオ](https://open.spotify.com/track/7plmMqYGjvBLv3AQvzmFmd) | [ELISA](https://open.spotify.com/artist/3Oe9PeZLoQuF3ysW6UjJgn) | [ミレナリオ](https://open.spotify.com/album/6poGPqIlTlOE86B8HKkxBO) | 4:57 | 2024-04-05 |  |
 | [名もない花](https://open.spotify.com/track/10sCOZbhdi3YmqOlb1B6Yd) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [名もない花](https://open.spotify.com/album/2kHbVp3UKa1vSYduTfdyaj) | 4:26 | 2024-04-05 |  |
 | [命ノ証](https://open.spotify.com/track/2siPX9kyOPMaMUZAGtCfPK) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [命ノ証](https://open.spotify.com/album/2ycCJObN5Df1kYvEnGAATW) | 3:18 | 2024-04-05 |  |
+| [紫苑の花束を](https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [紫苑の花束を](https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6) | 4:05 | 2024-06-03 |  |
 | [Ｔatsuya2](https://open.spotify.com/track/4nNQRPKX1nt7vSC59x0t0z) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生　オリジナルサウンドトラック　2](https://open.spotify.com/album/4vOTV64OsmSYWSxL7a1dRE) | 3:46 | 2024-04-05 |  |
 
 \*This playlist was first scraped on 2024-04-10. Prior content cannot be recovered.

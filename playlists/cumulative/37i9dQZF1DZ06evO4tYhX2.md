@@ -2,7 +2,7 @@
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
+> This is: Miel San Marcos\. Alle wichtigen Tracks in einer Playlist.
 
 90 songs - 7 hr 51 min
 

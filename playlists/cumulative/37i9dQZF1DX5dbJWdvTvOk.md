@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-696 songs - 1 day 5 hr 37 min
+697 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-31 | 2023-04-22 |
 | [Coma Pedrosa](https://open.spotify.com/track/51cywj6ZBciJT6xKDm9wyV) | [Victor Alvida](https://open.spotify.com/artist/6Fw6K0ReXC3BS6IrmJU96R) | [Coma Pedrosa](https://open.spotify.com/album/0Eo35G5FqMSC4T1hKVnLw4) | 2:18 | 2022-07-15 | 2023-04-22 |
 | [Come Join Me For A Coffee](https://open.spotify.com/track/6VnnTqt2OpuS0UtAJnBPcU) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Come Join Me For A Coffee](https://open.spotify.com/album/4nGG1PsFoQrDM1qR5x0md4) | 3:04 | 2022-07-15 | 2024-04-06 |
+| [Come to Me in the Silence of the Night](https://open.spotify.com/track/1V7vKOUi1FNJ2Ytl2ERakv) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Come to Me in the Silence of the Night](https://open.spotify.com/album/0yOTmHU1sMWDhOoHi7TCdE) | 3:08 | 2024-05-24 |  |
 | [Comfort Me](https://open.spotify.com/track/3VR78tnaSa1owd7xP9hA2K) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Comfort Me](https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2) | 2:12 | 2024-02-02 |  |
 | [Coming Home](https://open.spotify.com/track/1kkmwiOPQhmqpJZblOk9F5) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [Coming Home](https://open.spotify.com/album/6oRenHQmo5VcWhM1rKkyTg) | 3:10 | 2023-04-21 | 2023-05-13 |
 | [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 | 2022-07-15 | 2023-04-22 |
@@ -410,7 +411,7 @@
 | [Monteverde](https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Monteverde](https://open.spotify.com/album/0fYsEA210VvjfSWxQbgLNb) | 2:11 | 2023-04-21 |  |
 | [Moon Hearts](https://open.spotify.com/track/6iC68UqmwcLfceDrhFdE69) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Moon Hearts](https://open.spotify.com/album/4m6Vz7DuJL1u4ezzqHZbOt) | 2:48 | 2023-04-21 | 2023-09-01 |
 | [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
-| [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-07-15 |  |
+| [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-07-15 | 2024-06-03 |
 | [Morgensonne](https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Morgensonne](https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer) | 3:03 | 2022-07-15 | 2023-03-31 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-06-02 | 2023-08-26 |
 | [Morongo Basin](https://open.spotify.com/track/2PDKauWWq2aICXQ4jlzA53) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Morongo Basin](https://open.spotify.com/album/50yIELzJpSucPRD1OEoDbX) | 2:37 | 2023-08-10 |  |

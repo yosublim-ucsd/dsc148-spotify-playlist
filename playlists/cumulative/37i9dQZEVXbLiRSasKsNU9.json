@@ -5691,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "BBL Drizzy",
+        "url": "https://open.spotify.com/album/1SlDK8vlcV39jfhC2fK5vY"
+      },
+      "artists": [
+        {
+          "name": "Santea2",
+          "url": "https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "BBL Drizzy",
+      "url": "https://open.spotify.com/track/3oPMkgBRDSRt83Y9kFLiej"
+    },
+    {
+      "album": {
         "name": "Bbl Drizzy",
         "url": "https://open.spotify.com/album/1NrONKqPMpofuPdoQdU4IU"
       },
@@ -8122,6 +8140,28 @@
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204090,
+      "name": "B\u00eabada Favorita",
+      "url": "https://open.spotify.com/track/2Kuf7IkhGSFLHVRNojyxV2"
     },
     {
       "album": {
@@ -14912,7 +14952,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -46870,7 +46910,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"

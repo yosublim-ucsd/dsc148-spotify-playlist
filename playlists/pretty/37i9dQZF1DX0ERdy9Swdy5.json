@@ -1,6 +1,6 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 720162,
+  "num_followers": 720301,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 296026,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Una Aventura...La Historia",
         "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Exitos y M\u00e1s",
-        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
       },
       "artists": [
         {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 324466,
-      "name": "Siempre Ser\u00e9",
-      "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
+      "duration_ms": 296026,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -279,6 +263,54 @@
       "duration_ms": 289586,
       "name": "No Me Acostumbro",
       "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Inconfundible",
+        "url": "https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Exitos y M\u00e1s",
+        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 324466,
+      "name": "Siempre Ser\u00e9",
+      "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -303,38 +335,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Inconfundible",
-        "url": "https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Un poquito de' to (Salsa - Merengue - Bachata & Reggaeton)",
         "url": "https://open.spotify.com/album/2b4nbJCVka7rbb5B7D4QON"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 305293,
       "name": "Amores como el nuestro (Salsa)",
       "url": "https://open.spotify.com/track/0r8RjrJjZ9U3OxZpGsn3v8"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -383,6 +367,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Por Derecho Propio",
         "url": "https://open.spotify.com/album/519dNSSpFOivv1krsuQnC2"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 343200,
       "name": "Usted",
       "url": "https://open.spotify.com/track/217OiircokozWB5frngZOs"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 316106,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -447,6 +431,38 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316106,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "El Sonero Quel El Pueblo Prefiere",
         "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
@@ -459,6 +475,22 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Pal Pueblo",
+        "url": "https://open.spotify.com/album/07JdIFh18naO244frEGUqi"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Es Mi Mujer",
+      "url": "https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -495,22 +527,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Uno Mismo",
         "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 316226,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Pal Pueblo",
-        "url": "https://open.spotify.com/album/07JdIFh18naO244frEGUqi"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Es Mi Mujer",
-      "url": "https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 281773,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -607,6 +607,38 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Exitos y M\u00e1s",
+        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Ella se Hizo Deseo",
+      "url": "https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Agradecimiento",
         "url": "https://open.spotify.com/album/5lxFeS4lOHmN40iv7LsCWr"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 320800,
       "name": "Pagina de Amor",
       "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 228906,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q"
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -683,22 +699,6 @@
       "duration_ms": 286693,
       "name": "Cuando Parar\u00e1 La Lluvia",
       "url": "https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Exitos y M\u00e1s",
-        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Ella se Hizo Deseo",
-      "url": "https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Voy A Conquistar Tu Amor",
-      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 307200,
       "name": "Mirandote",
       "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 302733,
+      "name": "Voy A Conquistar Tu Amor",
+      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Muy Agradecido",
-        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
+        "name": "Para Ti...",
+        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Anthony Cruz",
+          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
         }
       ],
-      "duration_ms": 273746,
-      "name": "La Salsa Vive",
-      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
+      "duration_ms": 326040,
+      "name": "Dile A El",
+      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Para Ti...",
-        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
-      },
-      "artists": [
-        {
-          "name": "Anthony Cruz",
-          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Dile A El",
-      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Lo Mio Es Amor",
         "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 309826,
       "name": "Lo M\u00edo Es Amor",
       "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Muy Agradecido",
+        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "La Salsa Vive",
+      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1103,26 +1103,6 @@
       "duration_ms": 279840,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Una Historia Musical",
-        "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        }
-      ],
-      "duration_ms": 231306,
-      "name": "Cuando Te Miro",
-      "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Una Historia Musical",
+        "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "duration_ms": 231306,
+      "name": "Cuando Te Miro",
+      "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 286626,
       "name": "Date un Chance",
       "url": "https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/7hsC2wLaYgeKabMr6JGRzE"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/7hsC2wLaYgeKabMr6JGRzE"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 279200,
       "name": "Si Me Preguntan Por Ti",
       "url": "https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Vuelvo A Nacer",
+      "url": "https://open.spotify.com/track/2TBq7TNK5LaNcwUNAhP90E"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Con Amor Se Gana",
-        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
-      },
-      "artists": [
-        {
-          "name": "Frankie Negr\u00f3n",
-          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Hoy Me He Vuelto a Enamorar",
-      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Esencia",
         "url": "https://open.spotify.com/album/7elaoChLnXM4QN2O6pT47w"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 293066,
       "name": "Yo No Te Pido",
       "url": "https://open.spotify.com/track/6fmiVPcmN2tBw5gi2gBY5o"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Con Amor Se Gana",
+        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
+      },
+      "artists": [
+        {
+          "name": "Frankie Negr\u00f3n",
+          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Hoy Me He Vuelto a Enamorar",
+      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1483,22 +1499,6 @@
       "duration_ms": 277506,
       "name": "Mascarada",
       "url": "https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Vuelvo A Nacer",
-      "url": "https://open.spotify.com/track/2TBq7TNK5LaNcwUNAhP90E"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Sue\u00f1o Contigo",
+        "url": "https://open.spotify.com/album/127Z5jLS1wkkfTgPPLWDci"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Hoy Quiero Confesar",
+      "url": "https://open.spotify.com/track/5I3skDSMEYBLhKQBBkGIyF"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Lo Que Llevo Por Dentro",
         "url": "https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 293240,
       "name": "Remolino",
       "url": "https://open.spotify.com/track/00bGrgNvhYh3zt5PC0co3K"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Sue\u00f1o Contigo",
-        "url": "https://open.spotify.com/album/127Z5jLS1wkkfTgPPLWDci"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "Hoy Quiero Confesar",
-      "url": "https://open.spotify.com/track/5I3skDSMEYBLhKQBBkGIyF"
     },
     {
       "added_at": "2023-10-19 19:33:14",

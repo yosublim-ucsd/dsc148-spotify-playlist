@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SCH au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,195 likes - 79 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,208 likes - 79 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

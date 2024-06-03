@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ice Prince",
-  "num_followers": 49383,
+  "num_followers": 49400,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Naija Funk",
-        "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
-      },
-      "artists": [
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 126213,
-      "name": "Naija Funk",
-      "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "R2 Sept 12",
         "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 162336,
       "name": "1999",
       "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Naija Funk",
+        "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
+      },
+      "artists": [
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 126213,
+      "name": "Naija Funk",
+      "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Do I",
         "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
       },
@@ -767,6 +783,22 @@
       "duration_ms": 155044,
       "name": "Do I",
       "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -795,38 +827,6 @@
       "duration_ms": 166615,
       "name": "Jangrova (feat. Tribal Mark)",
       "url": "https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -875,6 +875,26 @@
       "duration_ms": 237647,
       "name": "DREAMS II",
       "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 174038,
+      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -935,30 +955,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
-        "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
-      },
-      "artists": [
-        {
-          "name": "larrylanes",
-          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 147192,
-      "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
       },
@@ -983,6 +979,30 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 147192,
+      "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -992,13 +1012,13 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 174038,
-      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1019,6 +1039,26 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1083,46 +1123,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Left Right",
         "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
       },
@@ -1135,6 +1135,26 @@
       "duration_ms": 160169,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1187,22 +1207,18 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+        "name": "Egberi",
+        "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         }
       ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
+      "duration_ms": 139714,
+      "name": "Egberi",
+      "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Egberi",
-        "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Egberi",
-      "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Pop Sermon",
         "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
       },
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Accidentally (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Ebelebe",
         "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 172631,
       "name": "Ebelebe",
       "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Accidentally (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
     },
     {
       "added_at": "2024-05-24 00:01:00",

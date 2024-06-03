@@ -199,6 +199,24 @@
     },
     {
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK"
       },
@@ -700,7 +718,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 180000,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 214020,
       "name": "Corte Caco - Remix",
       "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
@@ -2854,7 +2872,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "GAFITA Y CHOMBA",
       "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
@@ -3160,7 +3178,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 223626,
       "name": "Himno Nacional Argentino",
       "url": "https://open.spotify.com/track/1Xm9G0H8dtDyRvcqlDvugI"

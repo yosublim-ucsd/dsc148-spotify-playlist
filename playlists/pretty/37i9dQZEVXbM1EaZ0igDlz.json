@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Austria.",
-  "num_followers": 9158,
+  "num_followers": 9162,
   "original_name": "Top Songs - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Le6HmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Le/ZGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-05-31 16:25:50",
@@ -262,6 +262,10 @@
         {
           "name": "Ski Aggu",
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
       "duration_ms": 131773,

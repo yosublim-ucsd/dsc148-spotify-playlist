@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 244680,
       "name": "1984",
       "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 190693,
       "name": "94 Hours",
       "url": "https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 193200,
       "name": "A Banquet For Traitors",
       "url": "https://open.spotify.com/track/6Ampu27DQCqG7e2pPWwFKc"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 228600,
       "name": "Broken Hands",
       "url": "https://open.spotify.com/track/45WrPEJtSAaC3UIecmg4ES"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 191173,
       "name": "Collision",
       "url": "https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 268880,
       "name": "Hush Yael",
       "url": "https://open.spotify.com/track/6YdznQRWvWTAHGv5hDGkA8"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 189560,
       "name": "In The Wake Of Pigs",
       "url": "https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 203066,
       "name": "Losing Sight",
       "url": "https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 191625,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 252973,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 223880,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 176053,
       "name": "The Marriage Of Steel And Skin",
       "url": "https://open.spotify.com/track/3sDJ4E593mzxMIxPYe30zi"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 228133,
       "name": "The New Breed",
       "url": "https://open.spotify.com/track/6XduH1ZBD6sQUB9inVjulh"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 123080,
       "name": "Thin Black Lines",
       "url": "https://open.spotify.com/track/5BkhnNgh3uyVrHrDw023Xp"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 205006,
       "name": "Thirty One & Sevens",
       "url": "https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 227106,
       "name": "We Stand",
       "url": "https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 251320,
       "name": "When Everything Falls",
       "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 145813,
       "name": "World Without A Sun",
       "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"

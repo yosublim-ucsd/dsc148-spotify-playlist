@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 68920,
+  "num_followers": 68949,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "F o r C e r t a i n",
-      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
         "name": "Under The Canopy",
         "url": "https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t"
       },
@@ -219,6 +219,42 @@
       "duration_ms": 171428,
       "name": "Under The Canopy",
       "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "O.U.A.T",
+        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 141052,
+      "name": "O.U.A.T",
+      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -243,22 +279,6 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "O.U.A.T",
-        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 141052,
-      "name": "O.U.A.T",
-      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
         "name": "Adenuga x Concerning",
         "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 160000,
       "name": "Adenuga (feat. Qing Madi)",
       "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "Stubborn (with Asake)",
-        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Stubborn (with Asake)",
-      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -527,6 +527,30 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
+        "name": "OHEMA (with Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "OHEMA (with Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 134482,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "OHEMA (with Crayon & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "OHEMA (with Crayon & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -759,26 +759,18 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+        "name": "Rodo",
+        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 207454,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+      "duration_ms": 143756,
+      "name": "Rodo",
+      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -803,18 +795,42 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "Rodo",
-        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 143756,
-      "name": "Rodo",
-      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 207454,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -871,22 +887,6 @@
       "duration_ms": 218657,
       "name": "Pidgin & English",
       "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "by now",
-      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 156212,
       "name": "NO COMPETITION (feat. Asake)",
       "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "by now",
+      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -1067,6 +1067,26 @@
       "duration_ms": 180530,
       "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -1195,22 +1215,18 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "Puff & Pass (Remix)",
-        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+        "name": "Danger Zee",
+        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
       },
       "artists": [
         {
           "name": "Zerrydl",
           "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 161515,
-      "name": "Puff & Pass (Remix)",
-      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
+      "duration_ms": 153756,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -1235,26 +1251,6 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Masculine (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
         "name": "Rave & Roses (Ultra)",
         "url": "https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6"
       },
@@ -1267,58 +1263,6 @@
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "Small Money",
-        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Small Money",
-      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "Danger Zee",
-        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -1339,6 +1283,42 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "Small Money",
+        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Small Money",
+      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -1375,6 +1355,26 @@
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
+        "name": "Puff & Pass (Remix)",
+        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 161515,
+      "name": "Puff & Pass (Remix)",
+      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
     },
     {
       "added_at": "2024-05-31 06:40:52",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -1455,6 +1471,22 @@
     {
       "added_at": "2024-05-31 06:40:52",
       "album": {
+        "name": "Wayo",
+        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "Wayo",
+      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
+    },
+    {
+      "added_at": "2024-05-31 06:40:52",
+      "album": {
         "name": "Pick Up",
         "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
       },
@@ -1467,42 +1499,6 @@
       "duration_ms": 156550,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "100 MILLION",
-        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "100 MILLION (feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
-    },
-    {
-      "added_at": "2024-05-31 06:40:52",
-      "album": {
-        "name": "Bodija / Folake",
-        "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Folake",
-      "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

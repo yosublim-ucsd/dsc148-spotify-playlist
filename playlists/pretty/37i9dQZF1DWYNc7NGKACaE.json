@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 80495,
+  "num_followers": 80505,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -775,30 +775,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 168615,
-      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Se a Saudade Bater (Workout Version)",
         "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 127011,
       "name": "Virgulado - Speed",
       "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 168615,
+      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
         "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/2yKXzrfGw6nNYE4tX9cal0"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",

@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 171801,
       "name": "Boku Wa Chotto",
       "url": "https://open.spotify.com/track/1RMnWyL9KlDgmAhirqNxin"
@@ -4772,6 +4772,24 @@
       "duration_ms": 243213,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
+    },
+    {
+      "album": {
+        "name": "SiriusXM Session",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "album": {

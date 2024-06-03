@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24010,
+  "num_followers": 24016,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Anestesia",
         "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 286424,
       "name": "No Van a Parar",
       "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -251,22 +251,6 @@
       "duration_ms": 167420,
       "name": "Cicatriz #23",
       "url": "https://open.spotify.com/track/34u0T0mr5tTAOG8olordHY"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -339,22 +323,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "El incre\u00edble cool",
-        "url": "https://open.spotify.com/album/711mtlJlzuMoyMjU10JXpf"
-      },
-      "artists": [
-        {
-          "name": "Mike Amigorena",
-          "url": "https://open.spotify.com/artist/5u3Tm9K02qnBGQ5QZjU2LA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Antifaz",
-      "url": "https://open.spotify.com/track/58sfWnDD2m6v9jj3Bfkrfx"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
       },
@@ -375,6 +343,38 @@
       "duration_ms": 160149,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "El incre\u00edble cool",
+        "url": "https://open.spotify.com/album/711mtlJlzuMoyMjU10JXpf"
+      },
+      "artists": [
+        {
+          "name": "Mike Amigorena",
+          "url": "https://open.spotify.com/artist/5u3Tm9K02qnBGQ5QZjU2LA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Antifaz",
+      "url": "https://open.spotify.com/track/58sfWnDD2m6v9jj3Bfkrfx"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
-      },
-      "artists": [
-        {
-          "name": "Lara Project",
-          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 160677,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0H6YdUU7vTO69drCvWkdyr"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Bye Bye (Juan Hansen Remix)",
         "url": "https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 367131,
       "name": "Bye Bye - Juan Hansen Remix",
       "url": "https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "duration_ms": 160677,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0H6YdUU7vTO69drCvWkdyr"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 301120,
-      "name": "La Casa del Amor Nocturno",
-      "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Dejarte Estar (Pyura Remix)",
         "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 175804,
       "name": "Dejarte Estar (Pyura Remix)",
       "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 301120,
+      "name": "La Casa del Amor Nocturno",
+      "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Emocionalmente Tuya",
+        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 250475,
+      "name": "Emocionalmente Tuya",
+      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "MUY MUCHO",
         "url": "https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A"
       },
@@ -1067,26 +1083,6 @@
       "duration_ms": 154893,
       "name": "PARACETAMOL (perd\u00f3n x ser bella)",
       "url": "https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Un Dia de Verano",
-        "url": "https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy"
-      },
-      "artists": [
-        {
-          "name": "Milagros",
-          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
-        },
-        {
-          "name": "YOGAROCK",
-          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
-        }
-      ],
-      "duration_ms": 215046,
-      "name": "Un Dia de Verano",
-      "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Emocionalmente Tuya",
-        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+        "name": "Un Dia de Verano",
+        "url": "https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy"
       },
       "artists": [
         {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
         }
       ],
-      "duration_ms": 250475,
-      "name": "Emocionalmente Tuya",
-      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
+      "duration_ms": 215046,
+      "name": "Un Dia de Verano",
+      "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "MAL NECESARIO",
+        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "MAL NECESARIO",
+      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Regresar\u00e1s \u2606",
         "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "MAL NECESARIO",
-        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
       },
       "artists": [
         {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
         }
       ],
-      "duration_ms": 174826,
-      "name": "MAL NECESARIO",
-      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1287,22 +1303,6 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Cuando Se Apague Todo",
+        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "Cuando Se Apague Todo",
+      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "El Im\u00e1n (Remix)",
         "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 192786,
       "name": "Voces",
       "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Cuando Se Apague Todo",
-        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 228443,
-      "name": "Cuando Se Apague Todo",
-      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 289333,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1671,6 +1671,22 @@
       "duration_ms": 214871,
       "name": "\u00c1ngel Malo",
       "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1747,22 +1763,6 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2024-05-31 12:45:40",

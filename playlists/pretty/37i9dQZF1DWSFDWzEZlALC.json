@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Felix Herbst, Carla Ahad",
-  "num_followers": 424646,
+  "num_followers": 424765,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlj4DAAAAAA/A51RvieI0BsdZCtl+ald",
+  "snapshot_id": "ZlyUvQAAAADDat4/bSEQfLMBEN6y4Jvt",
   "tracks": [
     {
       "added_at": "2024-05-30 22:05:00",
@@ -22,6 +22,10 @@
         {
           "name": "Ski Aggu",
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
       "duration_ms": 131773,
@@ -123,22 +127,6 @@
     {
       "added_at": "2024-05-30 22:05:00",
       "album": {
-        "name": "wenn ich ehrlich bin",
-        "url": "https://open.spotify.com/album/7CriOieMAca2t2jHm96tJP"
-      },
-      "artists": [
-        {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
-        }
-      ],
-      "duration_ms": 146866,
-      "name": "wenn ich ehrlich bin",
-      "url": "https://open.spotify.com/track/3SsYcfMxfWyRem3lXvbD3R"
-    },
-    {
-      "added_at": "2024-05-30 22:05:00",
-      "album": {
         "name": "carcassonne",
         "url": "https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku"
       },
@@ -155,6 +143,22 @@
     {
       "added_at": "2024-05-30 22:05:00",
       "album": {
+        "name": "wenn ich ehrlich bin",
+        "url": "https://open.spotify.com/album/7CriOieMAca2t2jHm96tJP"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "wenn ich ehrlich bin",
+      "url": "https://open.spotify.com/track/3SsYcfMxfWyRem3lXvbD3R"
+    },
+    {
+      "added_at": "2024-05-30 22:05:00",
+      "album": {
         "name": "Liebesbriefe",
         "url": "https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a"
       },
@@ -167,6 +171,26 @@
       "duration_ms": 141600,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
+    },
+    {
+      "added_at": "2024-05-30 22:05:00",
+      "album": {
+        "name": "dein lieblingstrack",
+        "url": "https://open.spotify.com/album/27YAl1nce5BTysZsqw8x4M"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "duration_ms": 144773,
+      "name": "dein lieblingstrack",
+      "url": "https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL"
     },
     {
       "added_at": "2024-05-30 22:05:00",
@@ -203,26 +227,6 @@
     {
       "added_at": "2024-05-30 22:05:00",
       "album": {
-        "name": "dein lieblingstrack",
-        "url": "https://open.spotify.com/album/27YAl1nce5BTysZsqw8x4M"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        },
-        {
-          "name": "antonius",
-          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
-        }
-      ],
-      "duration_ms": 144773,
-      "name": "dein lieblingstrack",
-      "url": "https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL"
-    },
-    {
-      "added_at": "2024-05-30 22:05:00",
-      "album": {
         "name": "Tanz",
         "url": "https://open.spotify.com/album/4KuFPRX0QIIDDkAhr2J2nr"
       },
@@ -239,38 +243,6 @@
     {
       "added_at": "2024-05-30 22:05:00",
       "album": {
-        "name": "10 vor 10",
-        "url": "https://open.spotify.com/album/5fEamjUSG4mSuaCXPbCBfe"
-      },
-      "artists": [
-        {
-          "name": "fiio",
-          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "10 vor 10",
-      "url": "https://open.spotify.com/track/37TJfrw9teASpsQeoWupq5"
-    },
-    {
-      "added_at": "2024-05-30 22:05:00",
-      "album": {
-        "name": "Was Bleibt",
-        "url": "https://open.spotify.com/album/6tfUiF9NQw81aLKVnMdhI4"
-      },
-      "artists": [
-        {
-          "name": "SIND",
-          "url": "https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi"
-        }
-      ],
-      "duration_ms": 186111,
-      "name": "Was Bleibt",
-      "url": "https://open.spotify.com/track/49DZRUXxxRObftT4MMRPem"
-    },
-    {
-      "added_at": "2024-05-30 22:05:00",
-      "album": {
         "name": "lauf",
         "url": "https://open.spotify.com/album/7qVoIKsmBemsKvxDitsvWr"
       },
@@ -283,22 +255,6 @@
       "duration_ms": 212600,
       "name": "lauf",
       "url": "https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok"
-    },
-    {
-      "added_at": "2024-05-30 22:05:00",
-      "album": {
-        "name": "dunkelblau",
-        "url": "https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm"
-      },
-      "artists": [
-        {
-          "name": "ELA",
-          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "dunkelblau",
-      "url": "https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H"
     },
     {
       "added_at": "2024-05-30 22:05:00",
@@ -379,6 +335,54 @@
       "duration_ms": 143722,
       "name": "Leergetanzt",
       "url": "https://open.spotify.com/track/19XTfACt5ydlm3pF2g0F7h"
+    },
+    {
+      "added_at": "2024-05-30 22:05:00",
+      "album": {
+        "name": "Was Bleibt",
+        "url": "https://open.spotify.com/album/6tfUiF9NQw81aLKVnMdhI4"
+      },
+      "artists": [
+        {
+          "name": "SIND",
+          "url": "https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi"
+        }
+      ],
+      "duration_ms": 186111,
+      "name": "Was Bleibt",
+      "url": "https://open.spotify.com/track/49DZRUXxxRObftT4MMRPem"
+    },
+    {
+      "added_at": "2024-05-30 22:05:00",
+      "album": {
+        "name": "10 vor 10",
+        "url": "https://open.spotify.com/album/5fEamjUSG4mSuaCXPbCBfe"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "10 vor 10",
+      "url": "https://open.spotify.com/track/37TJfrw9teASpsQeoWupq5"
+    },
+    {
+      "added_at": "2024-05-30 22:05:00",
+      "album": {
+        "name": "dunkelblau",
+        "url": "https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm"
+      },
+      "artists": [
+        {
+          "name": "ELA",
+          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "dunkelblau",
+      "url": "https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H"
     },
     {
       "added_at": "2024-05-30 22:05:00",

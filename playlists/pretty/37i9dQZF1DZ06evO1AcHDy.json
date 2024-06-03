@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37499,
+  "num_followers": 37502,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAAD1AMfhkQdyMUgg0e5DgFXD",
+  "snapshot_id": "ZlpkgAAAAAAKsg/VkCMnTqo86jZ0REbM",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,26 @@
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Beg for You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
     },
     {
       "added_at": null,
@@ -251,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold The Girl (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/0oPgQ81SV8i0UU7AOw1b0L"
       },
       "artists": [
+        {
+          "name": "Melinda Ademi",
+          "url": "https://open.spotify.com/artist/0OZsbo7wbfOuKCmHUNBUHz"
+        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Flavour Of The Month",
-      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
+      "duration_ms": 166200,
+      "name": "TORNADO",
+      "url": "https://open.spotify.com/track/1zDVXeNWlq8Gvf1XgahLQg"
     },
     {
       "added_at": null,
@@ -315,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TORNADO",
-        "url": "https://open.spotify.com/album/0oPgQ81SV8i0UU7AOw1b0L"
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
       },
       "artists": [
-        {
-          "name": "Melinda Ademi",
-          "url": "https://open.spotify.com/artist/0OZsbo7wbfOuKCmHUNBUHz"
-        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 166200,
-      "name": "TORNADO",
-      "url": "https://open.spotify.com/track/1zDVXeNWlq8Gvf1XgahLQg"
+      "duration_ms": 153466,
+      "name": "Flavour Of The Month",
+      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
     },
     {
       "added_at": null,
@@ -544,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,
@@ -612,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,

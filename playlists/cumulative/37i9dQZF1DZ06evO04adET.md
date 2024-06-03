@@ -2,7 +2,7 @@
 
 ### [This Is Natanael Cano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04adET)
 
-> This Is Natanael Cano\. Sus mejores éxitos, todos en una playlist.
+> This Is Natanael Cano\. Los temas esenciales, todos en una lista.
 
 81 songs - 4 hr 5 min
 

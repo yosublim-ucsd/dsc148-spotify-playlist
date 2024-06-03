@@ -4,7 +4,7 @@
 
 > Ocean sounds and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-117 songs - 5 hr 38 min
+118 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hacienda](https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Hacienda](https://open.spotify.com/album/2TqivOnFGVlV4Lg9U6giFP) | 3:23 | 2023-10-23 |  |
 | [Hammock Life](https://open.spotify.com/track/3p0ITpxIkPIbgKIH7t3JLw) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Hammock Life](https://open.spotify.com/album/1rMazcyTVAwOIV8lAllCNZ) | 3:22 | 2023-10-26 |  |
 | [Healing Vibrations](https://open.spotify.com/track/63DqInT6u5XnSNTBxi9KdK) | [Restful Minds](https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D) | [Healing Vibrations](https://open.spotify.com/album/4fdCupr10MhDYHQHr7NMgp) | 3:48 | 2023-11-24 |  |
+| [heart wave](https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [heart wave](https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC) | 2:54 | 2024-05-01 |  |
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-23 |  |
 | [Highest Peaks](https://open.spotify.com/track/57cEl0th5hS43eAXY7krXh) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Highest Peaks](https://open.spotify.com/album/5bqLjmTyXSVGls4ocSft2F) | 3:07 | 2024-02-06 | 2024-02-11 |
 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 | 2023-10-26 | 2024-05-08 |
@@ -83,7 +84,7 @@
 | [Ondas](https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Ondas](https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv) | 2:53 | 2023-10-23 |  |
 | [Osdale Air](https://open.spotify.com/track/2IFvIXlGNFaVqg7gaDkJZa) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Osdale Air](https://open.spotify.com/album/4erw5sMPYXrWjyaSyHqEV0) | 2:46 | 2023-10-26 |  |
 | [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 | 2023-10-23 |  |
-| [Over\-By The Sea](https://open.spotify.com/track/2n7ywqxa37GiHhKIiAqPaj) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Over\-By The Sea](https://open.spotify.com/album/3OLJio2N5cMvg0m2TtVryk) | 3:37 | 2023-10-26 |  |
+| [Over\-By The Sea](https://open.spotify.com/track/2n7ywqxa37GiHhKIiAqPaj) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Over\-By The Sea](https://open.spotify.com/album/3OLJio2N5cMvg0m2TtVryk) | 3:37 | 2023-10-26 | 2024-06-03 |
 | [Paessagio Naturale](https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Paessagio Naturale](https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd) | 2:43 | 2023-10-23 |  |
 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 | 2023-10-26 | 2024-04-26 |
 | [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 | 2024-03-01 |  |

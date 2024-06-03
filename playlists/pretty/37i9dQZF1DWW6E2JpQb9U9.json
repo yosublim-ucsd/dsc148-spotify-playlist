@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 111649,
+  "num_followers": 111690,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,22 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         },
         {
-          "name": "Catalina Garc\u00eda de Monsieur Perin\u00e9, Flor de Toloache",
-          "url": "https://open.spotify.com/artist/02cfFgG5C1GSyRYBwY6WYp"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 289154,
-      "name": "Al Vac\u00edo",
-      "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
+      "duration_ms": 296120,
+      "name": "Casi Nunca Lo Ves (En Vivo) (feat. Ciro y Los Persas)",
+      "url": "https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 364493,
+      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
         "name": "Spinetta y Las Bandas Eternas",
         "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
       },
@@ -243,38 +259,22 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 364493,
-      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         },
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Catalina Garc\u00eda de Monsieur Perin\u00e9, Flor de Toloache",
+          "url": "https://open.spotify.com/artist/02cfFgG5C1GSyRYBwY6WYp"
         }
       ],
-      "duration_ms": 296120,
-      "name": "Casi Nunca Lo Ves (En Vivo) (feat. Ciro y Los Persas)",
-      "url": "https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ"
+      "duration_ms": 289154,
+      "name": "Al Vac\u00edo",
+      "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -311,6 +311,38 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
+        "name": "En El Opera",
+        "url": "https://open.spotify.com/album/0bjaDXdUk6kiaYvqtFlX6a"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Costumbres Argentinas - En Vivo",
+      "url": "https://open.spotify.com/track/5kRFlfWSTdQXl6AATz3xn8"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "Toro y Pampa - En Vivo",
+      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
         "name": "Don Lucero",
         "url": "https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY"
       },
@@ -343,22 +375,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "En El Opera",
-        "url": "https://open.spotify.com/album/0bjaDXdUk6kiaYvqtFlX6a"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Costumbres Argentinas - En Vivo",
-      "url": "https://open.spotify.com/track/5kRFlfWSTdQXl6AATz3xn8"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Gira Me Ver\u00e1s Volver",
         "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+        "name": "El Cintur\u00f3n Gris (En Vivo)",
+        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
       },
       "artists": [
         {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 228144,
-      "name": "Toro y Pampa - En Vivo",
-      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
+      "duration_ms": 237037,
+      "name": "El Cintur\u00f3n Gris - En Vivo",
+      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -403,6 +419,22 @@
       "duration_ms": 275845,
       "name": "Adonde Est\u00e1n",
       "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 432680,
+      "name": "Al Lado Del Camino",
+      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -435,54 +467,6 @@
       "duration_ms": 294784,
       "name": "Savia - Vivo en Luna Park",
       "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
-        "name": "El Cintur\u00f3n Gris (En Vivo)",
-        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "El Cintur\u00f3n Gris - En Vivo",
-      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 432680,
-      "name": "Al Lado Del Camino",
-      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -547,6 +531,22 @@
       "duration_ms": 259200,
       "name": "Homero - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "En Vivo-Vol.2",
-        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Me Puedo Programar (En Vivo",
-      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
@@ -931,22 +915,6 @@
       "duration_ms": 383040,
       "name": "Espejismo - En Vivo",
       "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -991,18 +959,34 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+        "name": "En Vivo-Vol.2",
+        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
       },
       "artists": [
         {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 331453,
-      "name": "Sacrificio y Rock and Roll",
-      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+      "duration_ms": 201293,
+      "name": "Me Puedo Programar (En Vivo",
+      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1019,6 +1003,46 @@
       "duration_ms": 230528,
       "name": "Se Fue al Cielo - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "Sacrificio y Rock and Roll",
+      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
+        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        },
+        {
+          "name": "Fabi\u00e1n Von Quintiero",
+          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
+        }
+      ],
+      "duration_ms": 298263,
+      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1103,46 +1127,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
-        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
-        },
-        {
-          "name": "Fabi\u00e1n Von Quintiero",
-          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
-        }
-      ],
-      "duration_ms": 298263,
-      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Vivo Paranoico",
         "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "La Fuente (Vivo en Obras 11/06/2022)",
-        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 251434,
-      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
-      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1383,22 +1367,18 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+        "name": "La Fuente (Vivo en Obras 11/06/2022)",
+        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+      "duration_ms": 251434,
+      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
+      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1471,6 +1451,26 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
+        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
         "name": "Ni Mierda (Vivo En Obras)",
         "url": "https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "XV A\u00f1os - En Vivo Estadio Obras",
-        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 377832,
-      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Botella (En Vivo)",
         "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 145712,
       "name": "Una Persona Especial (En Vivo)",
       "url": "https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "XV A\u00f1os - En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 377832,
+      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     },
     {
       "added_at": "2024-04-18 21:14:50",

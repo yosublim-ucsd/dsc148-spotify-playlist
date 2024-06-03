@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4N1opFQTdaOiLpF0mOS9tA?si=PKkuhd0PT3u7lvYPapnB7A">Anke Rothmann</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,859 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,885 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

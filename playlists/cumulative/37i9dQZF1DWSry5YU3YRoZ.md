@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-80 songs - 5 hr 12 min
+81 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 | 2024-03-08 |  |
 | [Down](https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [MY ONLY 1 \(Original Soundtrack from the WEBTOON\)](https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx) | 3:53 | 2024-03-08 |  |
 | [Dreams in summer night](https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:57 | 2023-11-03 |  |
-| [Eternal Love](https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ) | [Kwon Byul](https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe) | [Eternal Love](https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO) | 2:29 | 2024-03-08 |  |
+| [Eternal Love](https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ) | [Kwon Byul](https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe) | [Eternal Love](https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO) | 2:29 | 2024-03-08 | 2024-06-03 |
 | [Eternal return](https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Eternal return](https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt) | 3:43 | 2023-11-03 | 2024-04-19 |
 | [Excuse](https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:07 | 2023-11-03 |  |
 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 | 2023-11-03 | 2024-04-19 |
@@ -36,6 +36,7 @@
 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 | 2024-01-08 | 2024-04-19 |
 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2023-11-03 | 2024-02-04 |
 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 | 2023-11-03 |  |
+| [Haze](https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx) | [kimpomme](https://open.spotify.com/artist/0jQQ9dAK1bMW7UW9zYdUc4) | [Haze](https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm) | 3:57 | 2024-03-08 |  |
 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 | 2024-01-08 |  |
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2023-11-03 |  |
 | [I don't know](https://open.spotify.com/track/1izlxYnH96m4nsGXiSUit6) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 4:08 | 2023-11-03 | 2024-04-19 |

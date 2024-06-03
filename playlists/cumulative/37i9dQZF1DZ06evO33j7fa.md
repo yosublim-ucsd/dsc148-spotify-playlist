@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 | 2022-09-16 | 2024-06-02 |
+| [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 | 2022-09-16 |  |
 | [All My Trials](https://open.spotify.com/track/0pkVXg95DxLPdmz027lPZ1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 1:55 | 2022-09-16 | 2022-12-10 |
 | [All My Trials](https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:55 | 2023-11-10 |  |
 | [All My Trials](https://open.spotify.com/track/7nTkGz7kHuDZ6frHXk2HEQ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 1:55 | 2023-03-19 | 2023-11-11 |
@@ -66,7 +66,7 @@
 | [Rider On The Wheel](https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:37 | 2022-09-16 |  |
 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 | 2022-09-16 |  |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2022-09-16 |  |
-| [Saturday Sun](https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:05 | 2022-09-16 |  |
+| [Saturday Sun](https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:05 | 2022-09-16 | 2024-06-03 |
 | [Sketch 1](https://open.spotify.com/track/0d33pGwcSqRPZszpIIJEnQ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 1:00 | 2023-02-28 | 2023-03-02 |
 | [Sketch 1](https://open.spotify.com/track/4ioMdV2VHZme6Qs6ecGyPo) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 1:00 | 2023-03-01 | 2023-03-18 |
 | [Sketch 1](https://open.spotify.com/track/5pevwwP5GLIcF63DkYFBl7) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 1:00 | 2023-03-17 | 2023-11-11 |

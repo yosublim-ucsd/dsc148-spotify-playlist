@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Kizz Daniel",
-  "num_followers": 108793,
+  "num_followers": 108905,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
         "name": "OHEMA (with Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 205714,
       "name": "OHEMA (with Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
+        "name": "Rodo",
+        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 143756,
+      "name": "Rodo",
+      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
         "name": "Romeo Must Die (RMD)",
         "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Rodo",
-        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 143756,
-      "name": "Rodo",
-      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 114419,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
         "name": "Aquafina",
         "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
       },
@@ -1223,22 +1203,6 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
         "name": "Too Busy To Be Bae",
         "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
       },
@@ -1251,6 +1215,26 @@
       "duration_ms": 177203,
       "name": "Too Busy To Be Bae",
       "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 114419,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 187368,
       "name": "NO SLEEP $$$ (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "NYEM EGO (feat. Jeriq)",
-      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 144447,
       "name": "The Life I Chose",
       "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
     },
     {
       "added_at": "2024-05-31 00:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 326868,
+  "num_followers": 326903,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Tanto (Edici\u00f3n Premium)",
         "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -231,34 +247,18 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "3 A.M.",
-        "url": "https://open.spotify.com/album/6HS9TsSBYFKwALTeRPvcdI"
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 232253,
-      "name": "Yo Te Esperar\u00e9",
-      "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -275,6 +275,38 @@
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "3 A.M.",
+        "url": "https://open.spotify.com/album/6HS9TsSBYFKwALTeRPvcdI"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Yo Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -315,22 +347,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -387,22 +403,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -471,18 +471,34 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+        "name": "La Vida Es Un Ratico",
+        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+      "duration_ms": 192613,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -519,18 +535,38 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "La Vida Es Un Ratico",
-        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Me Enamora",
-      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+      "duration_ms": 299626,
+      "name": "Ser\u00e1 Mejor Que Te Vayas",
+      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -555,18 +591,18 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "Entre t\u00fa y mil mares",
+        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+      "duration_ms": 228493,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -587,22 +623,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Entre t\u00fa y mil mares",
-        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Todo Historias",
         "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 299626,
-      "name": "Ser\u00e1 Mejor Que Te Vayas",
-      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "La Vida Es Un Ratico",
-        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Gotas De Agua Dulce",
-      "url": "https://open.spotify.com/track/0Xn1VqBjoL4PAGxyatEO0Z"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 288946,
       "name": "Yo Te Amo",
       "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "La Vida Es Un Ratico",
+        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Gotas De Agua Dulce",
+      "url": "https://open.spotify.com/track/0Xn1VqBjoL4PAGxyatEO0Z"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Cosas De La Vida",
-      "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 279000,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 288986,
+      "name": "Cosas De La Vida",
+      "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Kany Garc\u00eda",
         "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 183600,
       "name": "Alguien",
       "url": "https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
+      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -919,18 +935,18 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 298293,
-      "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
-      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
+      "duration_ms": 251186,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Aquello que me diste",
-      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Secuencia",
         "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 218520,
       "name": "Estoy Hecho De Pedacitos De Ti",
       "url": "https://open.spotify.com/track/476qF2YsjlF2pBNgbn0Q4E"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 285520,
+      "name": "Aquello que me diste",
+      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Solo Importas Tu",
-      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Solo Importas Tu",
+      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
         "name": "Ida y Vuelta",
         "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 247786,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "S\u00f3lo Para Mujeres",
-        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 301906,
-      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
-      "url": "https://open.spotify.com/track/2JvYDGWN21QQOdtUlRdg7w"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Amar es Combatir",
-        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292120,
-      "name": "El Rey Tibur\u00f3n",
-      "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1391,6 +1359,38 @@
       "duration_ms": 245133,
       "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
       "url": "https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "S\u00f3lo Para Mujeres",
+        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 301906,
+      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
+      "url": "https://open.spotify.com/track/2JvYDGWN21QQOdtUlRdg7w"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Amar es Combatir",
+        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 292120,
+      "name": "El Rey Tibur\u00f3n",
+      "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1411,6 +1411,22 @@
       "duration_ms": 226848,
       "name": "Dime quien ama de verdad",
       "url": "https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Mentiras sinceras",
-        "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 206366,
-      "name": "Ella vive en m\u00ed",
-      "url": "https://open.spotify.com/track/4HiJPtkFafo2IYx2kM0eDY"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Besame",
         "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
       },
@@ -1475,54 +1475,6 @@
       "duration_ms": 236080,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "Tanto (Nueva edici\u00f3n)",
-        "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "Desde mi barrio",
-        "url": "https://open.spotify.com/album/0EbhhaDDfuXXz2lkUHDcxP"
-      },
-      "artists": [
-        {
-          "name": "Andy & Lucas",
-          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/0NYWDlaBz5ejU8N8g8GRFV"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1543,18 +1495,50 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Desde Siempre",
-        "url": "https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX"
+        "name": "Mentiras sinceras",
+        "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         }
       ],
-      "duration_ms": 278826,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW"
+      "duration_ms": 206366,
+      "name": "Ella vive en m\u00ed",
+      "url": "https://open.spotify.com/track/4HiJPtkFafo2IYx2kM0eDY"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Tanto (Nueva edici\u00f3n)",
+        "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Desde mi barrio",
+        "url": "https://open.spotify.com/album/0EbhhaDDfuXXz2lkUHDcxP"
+      },
+      "artists": [
+        {
+          "name": "Andy & Lucas",
+          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0NYWDlaBz5ejU8N8g8GRFV"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
+        "name": "Desde Siempre",
+        "url": "https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
         "name": "CoverKM Recopilatorio",
         "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
       },
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279480,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7dfcQMlkSp40GntNwX98Z6"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 183000,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/4Dv7hWzxfG1KEyPHcGnRfe"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn"
     }
   ],
   "unique_name": "Amor y Desamor",

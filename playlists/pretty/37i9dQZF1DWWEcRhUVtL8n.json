@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: ROLE MODEL",
-  "num_followers": 1679520,
+  "num_followers": 1679487,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
-      "added_at": "2024-05-17 04:01:10",
+      "added_at": "2024-04-19 15:07:49",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+      "duration_ms": 228800,
+      "name": "So High School",
+      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/6R8Y7KP9l1wmD5TLnXIrDJ"
     },
     {
-      "added_at": "2024-04-19 15:07:49",
+      "added_at": "2024-05-17 04:01:10",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 228800,
-      "name": "So High School",
-      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
       "added_at": "2024-05-17 04:01:10",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -563,34 +547,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -607,6 +575,22 @@
       "duration_ms": 205520,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -641,20 +625,20 @@
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-05-17 04:01:10",
@@ -671,6 +655,22 @@
       "duration_ms": 196516,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -753,38 +753,6 @@
       "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
     },
     {
-      "added_at": "2024-04-05 15:15:26",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Disco Man",
-      "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Again",
@@ -803,18 +771,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Touching Yourself",
-      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
+      "duration_ms": 192000,
+      "name": "Disco Man",
+      "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -831,6 +799,38 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2024-04-05 15:15:26",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Touching Yourself",
+      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "You (Show Me Where My Days Went)",
-        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
-    },
-    {
       "added_at": "2024-05-10 16:58:05",
       "album": {
         "name": "boys, bugs and men",
@@ -1059,6 +1043,22 @@
       "duration_ms": 186763,
       "name": "boys, bugs and men",
       "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "You (Show Me Where My Days Went)",
+        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "React",
-        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
+        "name": "stick of gum",
+        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
         }
       ],
-      "duration_ms": 161034,
-      "name": "React",
-      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
+      "duration_ms": 148400,
+      "name": "stick of gum",
+      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1155,6 +1155,22 @@
       "duration_ms": 192573,
       "name": "Some Type Of Skin",
       "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "React",
+      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1241,22 +1257,6 @@
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "stick of gum",
-        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "stick of gum",
-      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Rumors",
@@ -1275,22 +1275,6 @@
       "duration_ms": 202736,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2024-04-26 04:34:58",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Eyes on my baby",
         "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
       },
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
-    },
-    {
       "added_at": "2024-05-17 04:01:10",
       "album": {
         "name": "Confusion Song",
@@ -1393,20 +1377,20 @@
       "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 172007,
-      "name": "New Love",
-      "url": "https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO"
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 172007,
+      "name": "New Love",
+      "url": "https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "distance",
         "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
       },
@@ -1521,20 +1505,20 @@
       "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Hello Lonely",
-        "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
       "artists": [
         {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 211120,
-      "name": "Hello Lonely",
-      "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1551,6 +1535,38 @@
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Hello Lonely",
+        "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Hello Lonely",
+      "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
+    },
+    {
+      "added_at": "2024-05-17 04:01:10",
+      "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145742,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1573,20 +1589,20 @@
       "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
     },
     {
-      "added_at": "2024-05-17 04:01:10",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "BOYS",
-        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
+        "name": "No Problems",
+        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
         }
       ],
-      "duration_ms": 145742,
-      "name": "BOYS",
-      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
+      "duration_ms": 224888,
+      "name": "No Problems",
+      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
     },
     {
       "added_at": "2024-04-12 19:42:47",
@@ -1605,36 +1621,20 @@
       "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "No Problems",
-        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
+        "name": "Big Brown Eyes",
+        "url": "https://open.spotify.com/album/0rez0kptEcS4h9NMKlHsl0"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 224888,
-      "name": "No Problems",
-      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 224234,
-      "name": "Robbed",
-      "url": "https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF"
+      "duration_ms": 218469,
+      "name": "Big Brown Eyes",
+      "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE"
     }
   ],
   "unique_name": "Indie Pop",

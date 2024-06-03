@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 24715,
+  "num_followers": 24733,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,22 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 143529,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -323,22 +327,18 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Romeo Must Die (RMD)",
-        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
+        "name": "Jambazz",
+        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 139573,
+      "name": "Jambazz",
+      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -511,26 +527,6 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
-        "name": "Vision Remix (feat. Chl\u00f6e)",
-        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Vision Remix (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Jambazz",
-        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
+        "name": "Vision Remix (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
       "artists": [
         {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 139573,
-      "name": "Jambazz",
-      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
+      "duration_ms": 166000,
+      "name": "Vision Remix (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 149170,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Angelus",
+      "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -991,6 +1007,22 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
         "name": "Men Are Crazy",
         "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
       },
@@ -1007,38 +1039,6 @@
       "duration_ms": 186666,
       "name": "Men Are Crazy",
       "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Angelus",
-      "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
-        "name": "January 9th",
-        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 222881,
-      "name": "January 9th",
-      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
         "name": "808 Rhapsody",
         "url": "https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 149387,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
         "name": "Honey & Spice (Remix)",
         "url": "https://open.spotify.com/album/2I7Z3i5s8Ukwl7MRshNquA"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 152319,
       "name": "Honey & Spice - Remix",
       "url": "https://open.spotify.com/track/4oADK0NfY8u1RlW7IKFTFz"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     }
   ],
   "unique_name": "Afro Chill",

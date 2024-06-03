@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 51946,
+  "num_followers": 51980,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-05-24 12:39:41",
       "album": {
+        "name": "Bach, J.S.: From the W.F. Bach Notebook / 5 Little Preludes",
+        "url": "https://open.spotify.com/album/19gnuK981Yc1UZd8lCQbqy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 67573,
+      "name": "Clavier-B\u00fcchlein vor W.F. Bach: Prelude in C Major, BWV 924",
+      "url": "https://open.spotify.com/track/19oVMQO42RtwyLaNGaiL5Y"
+    },
+    {
+      "added_at": "2024-05-24 12:39:41",
+      "album": {
         "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
         "url": "https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 285466,
       "name": "Concerto for 2 Keyboards in C Minor, BWV 1060: I. Allegro",
       "url": "https://open.spotify.com/track/3vdM9Ob6K2hFoYBD2vikkl"
-    },
-    {
-      "added_at": "2024-05-24 12:39:41",
-      "album": {
-        "name": "Bach, J.S.: From the W.F. Bach Notebook / 5 Little Preludes",
-        "url": "https://open.spotify.com/album/19gnuK981Yc1UZd8lCQbqy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 67573,
-      "name": "Clavier-B\u00fcchlein vor W.F. Bach: Prelude in C Major, BWV 924",
-      "url": "https://open.spotify.com/track/19oVMQO42RtwyLaNGaiL5Y"
     }
   ],
   "unique_name": "Bach Piano",

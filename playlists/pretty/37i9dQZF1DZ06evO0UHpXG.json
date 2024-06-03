@@ -1,12 +1,12 @@
 {
   "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 189708,
+  "num_followers": 189745,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAADu/5xnL3hDUfjNiZnTxXTt",
+  "snapshot_id": "ZlpkgAAAAADpDfjc6sOp536ARGXTPVsd",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remorse? No!",
-        "url": "https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Jailbait - Alternate Version",
-      "url": "https://open.spotify.com/track/115fUjg8giH0dg58hNGvbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remorse? No!",
+        "url": "https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Jailbait - Alternate Version",
+      "url": "https://open.spotify.com/track/115fUjg8giH0dg58hNGvbO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "March Or Die",
         "url": "https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remorse? No!",
-        "url": "https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Poison - Demo",
-      "url": "https://open.spotify.com/track/6xrcOs22BVv4VK8ukRytQz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bomber (Deluxe Edition)",
         "url": "https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 291840,
       "name": "Stone Dead Forever",
       "url": "https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 199499,
+      "name": "God Save The Queen",
+      "url": "https://open.spotify.com/track/0ZuyXUQM2yAFIbmTOTXAbi"
     }
   ],
   "unique_name": "This Is Mot\u00f6rhead",

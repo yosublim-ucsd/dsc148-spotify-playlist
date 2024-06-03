@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 460853,
+  "num_followers": 460857,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Boots Of Spanish Leather",
-        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 282173,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Boots Of Spanish Leather",
+        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 282173,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Anti-Hero (Country Version)",
         "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190470,
       "name": "Anti-Hero - Country Version",
       "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Lennon Bermuda",
         "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 278611,
+      "name": "Hannah Hunt",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 197540,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Coming Around Again",
         "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 214625,
       "name": "Coming Around Again",
       "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1523,42 +1523,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -1575,6 +1539,22 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1631,6 +1611,42 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Alynda Segarra",
+          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
+        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Remembering Mountains",
+      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Little Hands",
         "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
-        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Remembering Mountains",
-      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 215589,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
       },
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "We Don't Eat",
-        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 215589,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "A Long December",
         "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
       },
@@ -1847,22 +1847,6 @@
       "duration_ms": 260812,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 168968,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1883,6 +1867,22 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 168968,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Wednesday (Extended Edition)",
-        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+        "name": "Sings Kacey Musgraves",
+        "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
         }
       ],
-      "duration_ms": 336222,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
+      "duration_ms": 217524,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
     }
   ],
   "unique_name": "Folksy Covers",

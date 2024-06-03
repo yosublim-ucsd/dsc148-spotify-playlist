@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,068 songs - 2 day 20 hr 58 min
+1,069 songs - 2 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Canadian Trees](https://open.spotify.com/track/1N0XuJdOccAkBjWl37BxKh) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Canadian Trees](https://open.spotify.com/album/60d8GQmsHc8SQIzGedDClG) | 3:14 | 2023-02-23 | 2024-05-11 |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-19 | 2024-06-01 |
 | [Carroll Street](https://open.spotify.com/track/6HBI2vdAPRno5vMqhZ1x69) | [Berliner Luft Quartet](https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl) | [Carroll Street](https://open.spotify.com/album/1kRBPxA2VoHjh2tDjmgc62) | 4:43 | 2024-03-08 |  |
+| [Cave of the Crystals](https://open.spotify.com/track/7xy39H1NbRO6LZzeQ9Kjur) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Cave of the Crystals](https://open.spotify.com/album/6OTMyelIkd8rnNrR7bgzBB) | 4:09 | 2024-05-31 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-10 |  |
 | [Changes](https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Changes](https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee) | 3:45 | 2023-05-04 |  |
 | [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 | 2021-12-03 |  |
@@ -499,7 +500,7 @@
 | [Land For My Love](https://open.spotify.com/track/3WG7pwf5FqUfERgKQgupuo) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Land For My Love](https://open.spotify.com/album/4FmatmMODomKGq8cFwlO7v) | 3:14 | 2023-06-15 | 2024-01-28 |
 | [Largo](https://open.spotify.com/track/33TmnZLYZnX5zdY29lUkvi) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Largo](https://open.spotify.com/album/3X8HJ1U5is918lfD248uwD) | 3:00 | 2023-11-17 | 2024-05-11 |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
-| [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2023-02-09 |  |
+| [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2023-02-09 | 2024-06-03 |
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-08 |  |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-12-08 |  |
 | [Late At Night](https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Late At Night](https://open.spotify.com/album/5TuHXCf4FxpKGBtrdibi9m) | 3:50 | 2023-08-10 |  |

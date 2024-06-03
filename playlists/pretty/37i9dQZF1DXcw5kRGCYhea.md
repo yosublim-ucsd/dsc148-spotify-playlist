@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,282 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,315 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 49 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
 | 50 | [DAMIRI](https://open.spotify.com/track/6hHjWLmwwZhXc50vdyPGN9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [DAMIRI](https://open.spotify.com/album/6kyrZ4AE8kkJ4wTPRWg6uA) | 3:58 |
 
-Snapshot ID: `Zlr/GgAAAABPeyuJSKqIrGkRznQoXVZY`
+Snapshot ID: `ZlwRcgAAAAAXevmKB7yuxIdlfZrK/CUD`

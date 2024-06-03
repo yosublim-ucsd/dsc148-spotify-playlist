@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 54 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 54 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 32 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
 | 33 | [VAN A VER](https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Town Shit Vol\. 3](https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA) | 2:24 |
 | 34 | [Agradecido](https://open.spotify.com/track/0ZHiVXwpcteAbqEJmFYBdy) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Agradecido](https://open.spotify.com/album/58g9KaWSWjKq81CVyIsv9z) | 2:41 |
-| 35 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
-| 36 | [Donde Se Fue el Sol](https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Donde Se Fue el Sol](https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ) | 3:39 |
+| 35 | [Donde Se Fue el Sol](https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Donde Se Fue el Sol](https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ) | 3:39 |
+| 36 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
 | 37 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 | 38 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
 | 39 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 156985,
+  "num_followers": 156999,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAAD9JnWdabnIYKYkrgXSfNTl",
+  "snapshot_id": "ZlpkgAAAAADdZvKCR5ZCbYQX6wYIRkKy",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Polyghost",
-      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
@@ -163,18 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+      "duration_ms": 108800,
+      "name": "Polyghost",
+      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
     },
     {
       "added_at": null,
@@ -195,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
@@ -204,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": null,
@@ -223,6 +207,38 @@
       "duration_ms": 230306,
       "name": "Kiara",
       "url": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
     },
     {
       "added_at": null,
@@ -247,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
       "artists": [
         {
@@ -256,9 +272,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
+      "duration_ms": 212356,
+      "name": "Antenna",
+      "url": "https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 212356,
-      "name": "Antenna",
-      "url": "https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
@@ -327,26 +327,6 @@
       "duration_ms": 318600,
       "name": "The Plug",
       "url": "https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
     },
     {
       "added_at": null,
@@ -367,6 +347,26 @@
       "duration_ms": 302428,
       "name": "Bambro Koyo Ganda",
       "url": "https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
       "duration_ms": 78266,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/4cwDC2Yk2zqOp6NMX6v750"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
     },
     {
       "added_at": null,
@@ -443,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 259839,
+      "name": "We Could Forever",
+      "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
@@ -455,22 +487,6 @@
       "duration_ms": 71253,
       "name": "Something for Windy",
       "url": "https://open.spotify.com/track/48ppHBSOoD5Iz1gV3pjfOC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6bwcWOibIUyOJQ2FgMbeIH"
     },
     {
       "added_at": null,
@@ -507,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6bwcWOibIUyOJQ2FgMbeIH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
@@ -519,22 +551,6 @@
       "duration_ms": 322373,
       "name": "Noctuary",
       "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 259839,
-      "name": "We Could Forever",
-      "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
     },
     {
       "added_at": null,
@@ -578,15 +594,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Bajka",
-          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
         }
       ],
-      "duration_ms": 274893,
-      "name": "Walk In The Sky",
-      "url": "https://open.spotify.com/track/3fsQsL36PH1G8mn68lsFRK"
+      "duration_ms": 306666,
+      "name": "Recurring",
+      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
     },
     {
       "added_at": null,
@@ -646,11 +658,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
         }
       ],
-      "duration_ms": 306666,
-      "name": "Recurring",
-      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+      "duration_ms": 274893,
+      "name": "Walk In The Sky",
+      "url": "https://open.spotify.com/track/3fsQsL36PH1G8mn68lsFRK"
     },
     {
       "added_at": null,
@@ -739,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nick Murphy",
-          "url": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
-        }
-      ],
-      "duration_ms": 448983,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
@@ -795,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 324693,
-      "name": "Kota",
-      "url": "https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fold",
         "url": "https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx"
       },
@@ -827,6 +807,22 @@
       "duration_ms": 335383,
       "name": "Fold",
       "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 324693,
+      "name": "Kota",
+      "url": "https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs"
     }
   ],
   "unique_name": "This Is Bonobo",

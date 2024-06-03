@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3130,
+  "num_followers": 3132,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABUnBL+MoIGtOwhSVbs4c0e",
+  "snapshot_id": "ZlpkgAAAAABlgmkMrFeot4hhu0UCcrTa",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 253213,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live To Tape: Volume II",
-        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 202319,
-      "name": "Be My Witness (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neighbor Song (ft. Madison Cunningham)",
         "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 220230,
       "name": "Neighbor Song [Feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live To Tape: Volume II",
+        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 202319,
+      "name": "Be My Witness (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Man",
-        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 184445,
-      "name": "Modern Man (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -403,34 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
       },
       "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+      "duration_ms": 184445,
+      "name": "Modern Man (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 275662,
       "name": "Life According To Raechel - Spotify Single",
       "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": null,
@@ -655,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Sake Of The Rhyme",
-        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "So Long, Frank Lloyd Wright",
-      "url": "https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Dry As Sand",
-      "url": "https://open.spotify.com/track/3IJzE46O8hpo05HM9D7k44"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are Olympians",
         "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
       },
@@ -707,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Dry As Sand",
+      "url": "https://open.spotify.com/track/3IJzE46O8hpo05HM9D7k44"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love, Lose, Remember",
         "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
       },
@@ -716,15 +700,15 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 239120,
-      "name": "I Close My Eyes",
-      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
+      "duration_ms": 270746,
+      "name": "When Love Loves Alone",
+      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 268053,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+      "duration_ms": 183973,
+      "name": "So Long, Frank Lloyd Wright",
+      "url": "https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7"
     },
     {
       "added_at": null,
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Sake Of The Rhyme",
-        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 263066,
-      "name": "All At Once",
-      "url": "https://open.spotify.com/track/59x97Muk1DvBUhyX8xcxJo"
+      "duration_ms": 268053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
     },
     {
       "added_at": null,
@@ -780,9 +764,25 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 201653,
-      "name": "To Another Land",
-      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 263066,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/59x97Muk1DvBUhyX8xcxJo"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "To Another Land",
+      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glory Song",
         "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 270746,
-      "name": "When Love Loves Alone",
-      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
+      "duration_ms": 268266,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6gOIKwnnUBcpwRfEpYHBxI"
     },
     {
       "added_at": null,

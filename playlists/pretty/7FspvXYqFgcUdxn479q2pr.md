@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Tiësto x Hedex x Basslayerz
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,491 likes - 12 songs - 38 min 48 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,490 likes - 12 songs - 38 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

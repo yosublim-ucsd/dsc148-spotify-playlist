@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 74322,
+  "num_followers": 74343,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,34 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "S\u00f8vnlaus",
-        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
+        "name": "Varme Ut Av Is",
+        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
       "artists": [
         {
-          "name": "Hellbillies",
-          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
+          "name": "J\u00f8rn Hoel",
+          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
         }
       ],
-      "duration_ms": 246626,
-      "name": "20 \u00e5r p\u00e5 vegen",
-      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
+      "duration_ms": 234466,
+      "name": "Har En Dr\u00f8m",
+      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "Kj\u00e6rlighetsvisa",
+      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -223,34 +239,38 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Varme Ut Av Is",
-        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
+        "name": "S\u00f8vnlaus",
+        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
       },
       "artists": [
         {
-          "name": "J\u00f8rn Hoel",
-          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
+          "name": "Hellbillies",
+          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Har En Dr\u00f8m",
-      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+      "duration_ms": 246626,
+      "name": "20 \u00e5r p\u00e5 vegen",
+      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+        "name": "Underlig Frihet",
+        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Bestevenn",
-      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
+      "duration_ms": 265400,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -275,18 +295,34 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
       },
       "artists": [
         {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 219088,
-      "name": "Kj\u00e6rlighetsvisa",
-      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
+      "duration_ms": 244120,
+      "name": "Bestevenn",
+      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Berre meg",
+        "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Ingen som du",
+      "url": "https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -311,26 +347,6 @@
       "duration_ms": 203937,
       "name": "\u00c5 Kunne \u00c6 Skrive",
       "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Underlig Frihet",
-        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
-      },
-      "artists": [
-        {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        }
-      ],
-      "duration_ms": 265400,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -379,22 +395,6 @@
       "duration_ms": 223706,
       "name": "Jeg Vet",
       "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Berre meg",
-        "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Ingen som du",
-      "url": "https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Under deg",
-        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Under deg",
-      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Linedans",
         "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 230973,
       "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Under deg",
+        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Under deg",
+      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
-        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
+        "name": "Kom ut kom fram",
+        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
       "artists": [
         {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
         }
       ],
-      "duration_ms": 213386,
-      "name": "Til alle tider",
-      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
+      "duration_ms": 226760,
+      "name": "Lilla vackra Anna",
+      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Kom ut kom fram",
-        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
+        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
       },
       "artists": [
         {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Lilla vackra Anna",
-      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+      "duration_ms": 213386,
+      "name": "Til alle tider",
+      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Stille Vann",
+      "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Hildringstimer - 14 velvalgte viser",
         "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 260778,
       "name": "Club 7",
       "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Stille Vann",
-      "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
     },
     {
       "added_at": "2024-05-23 22:00:00",

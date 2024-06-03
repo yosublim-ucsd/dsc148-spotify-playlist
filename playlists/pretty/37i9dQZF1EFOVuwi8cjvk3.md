@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 229 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 229 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 70 | [All These Years](https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:44 |
 | 71 | [Motorcycle Patches](https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:11 |
 | 72 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
-| 73 | [Cold](https://open.spotify.com/track/1QWmKmqhv5zcsS3v45FNl0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:28 |
-| 74 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 |
+| 73 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 |
+| 74 | [Cold](https://open.spotify.com/track/1QWmKmqhv5zcsS3v45FNl0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:28 |
 | 75 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
 | 76 | [Midnight](https://open.spotify.com/track/1GtVGc1UYin3zpMUdNSSpM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino II](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) | 4:01 |
 | 77 | [lose](https://open.spotify.com/track/2AGUFka8kBWCM47h5uTlDb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:20 |
@@ -227,7 +227,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 217 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 |
 | 218 | [Love Me Back](https://open.spotify.com/track/3TkWlPbDAl2LbYIQMgHT3B) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 2:49 |
 | 219 | [The Archer](https://open.spotify.com/track/3Mf6TqIKVALxZ2oUsd7EYp) | [Killa Sin](https://open.spotify.com/artist/67XIntxIqJFHkWpewJcrOb) | [The Man With The Iron Fists](https://open.spotify.com/album/6uMBoMl43IIKHoCj8iVd7X) | 2:55 |
-| 220 | [GOATED](https://open.spotify.com/track/3Z4RvoEgCtreDHrk4i4S0F) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [GOATED](https://open.spotify.com/album/0eYW7vog7TmXgeJ4QndHfX) | 3:02 |
+| 220 | [GOATED](https://open.spotify.com/track/5YRuPUlYE3OnQPZxS8VbY4) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 3:02 |
 | 221 | [Checkin For You](https://open.spotify.com/track/769mylV0XZHGL3r0rItmGF) | [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq) | [Free Agent](https://open.spotify.com/album/4oJJmlHoxfiolh4d72XyIM) | 3:56 |
 | 222 | [When I'm Gone](https://open.spotify.com/track/6MoXyN1f2odNFscreDfaE1) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 5:02 |
 | 223 | [A Reason](https://open.spotify.com/track/6mtdVuzzafCbk6WXonxjm6) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:04 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 228 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 229 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbS7NAAAAACfqSdKNzLDi3DVG4wlDggk`
+Snapshot ID: `AbTA1AAAAADwm1dF0QN20oQuw4e33ou9`

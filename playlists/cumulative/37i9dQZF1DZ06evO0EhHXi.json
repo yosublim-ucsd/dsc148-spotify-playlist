@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-11",
-  "description": "This Is Ramones. Los temas esenciales, todos en una lista.",
+  "description": "This is Ramones. The essential tracks, all in one playlist.",
   "name": "This Is Ramones",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 190520,
       "name": "Censorshit",
       "url": "https://open.spotify.com/track/0hfsk5X8VPsaxip5cptvn1"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 229466,
       "name": "Do You Remember Rock 'n' Roll Radio? - 2002 Remaster",
       "url": "https://open.spotify.com/track/2Ck23L2znrPAFiyopqzWUj"

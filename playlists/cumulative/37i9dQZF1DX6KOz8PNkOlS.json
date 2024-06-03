@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 331746,
       "name": "I'm Dancing",
       "url": "https://open.spotify.com/track/7gGObhepvI410Fys1avsdp"
@@ -3136,6 +3136,28 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/12ONVrWPwgsAbM7UHggx62"
+      },
+      "artists": [
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Srigala",
+          "url": "https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6qfYwrC2Z155eoPO4BQltH"
     },
     {
       "album": {

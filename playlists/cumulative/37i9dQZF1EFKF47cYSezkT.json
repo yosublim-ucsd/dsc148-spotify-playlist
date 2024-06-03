@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL"
+      },
+      "artists": [
+        {
+          "name": "PHIA",
+          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215307,
+      "name": "French Riviera",
+      "url": "https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv"
+    },
+    {
+      "album": {
         "name": "Friends Don\u2019t Kiss",
         "url": "https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU"
       },
@@ -782,10 +800,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 159240,
       "name": "Straitjacket",
       "url": "https://open.spotify.com/track/5kqQcwZieOTZKDAg3jSUTf"
+    },
+    {
+      "album": {
+        "name": "Loyal to myself",
+        "url": "https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160133,
+      "name": "Straitjacket - Bonus Track",
+      "url": "https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC"
     },
     {
       "album": {

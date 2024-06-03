@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 71 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,13 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 61 | [Goodbye](https://open.spotify.com/track/3hyhiK6GT3I5e2pJBOT2yc) | [Riza Santos](https://open.spotify.com/artist/59Te7oL1Jq1iafbEiYIjdF) | [Goodbye](https://open.spotify.com/album/5Ot1evmXCckrToeHdqslPG) | 3:35 |
 | 62 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
 | 63 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 64 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
-| 65 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
-| 66 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
-| 67 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 |
-| 68 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
-| 69 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 |
-| 70 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
-| 71 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
+| 64 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
+| 65 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 66 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
+| 67 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
+| 68 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 |
+| 69 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
+| 70 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 |
+| 71 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
+| 72 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `AbS7AgAAAADa32NrS/ix2mqzwzEj+XL/`
+Snapshot ID: `AbTAogAAAAAXZwA0l3sf7WLHITt2KB6T`

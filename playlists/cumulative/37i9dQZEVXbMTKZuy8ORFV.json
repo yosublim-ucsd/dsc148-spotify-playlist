@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 214020,
       "name": "Corte Caco - Remix",
       "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -2920,6 +2920,28 @@
       "duration_ms": 177000,
       "name": "Hala Madrid ...y nada m\u00e1s",
       "url": "https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC"
+    },
+    {
+      "album": {
+        "name": "Hala Madrid ...y nada m\u00e1s",
+        "url": "https://open.spotify.com/album/1yk9VTzQ0NWy1kDIOsxaLw"
+      },
+      "artists": [
+        {
+          "name": "Real Madrid",
+          "url": "https://open.spotify.com/artist/52tiVHeB0x2XvFAyajG1BZ"
+        },
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Hala Madrid ...y nada m\u00e1s",
+      "url": "https://open.spotify.com/track/5pIy4qzGJmEElPppFxSN8W"
     },
     {
       "album": {
@@ -4022,7 +4044,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 174700,
       "name": "lo que un d\u00eda fue",
       "url": "https://open.spotify.com/track/1cuO9s59NdTpSnG5HGB8KD"
@@ -4850,7 +4872,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 166973,
       "name": "Mil Preguntas",
       "url": "https://open.spotify.com/track/42mrOMjkQb7jRKatu0bqg4"
@@ -5218,6 +5240,28 @@
       "duration_ms": 130069,
       "name": "No Cap - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G"
+    },
+    {
+      "album": {
+        "name": "Set The Tone (Guns & Roses)",
+        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
     },
     {
       "album": {
@@ -6342,7 +6386,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
@@ -6774,7 +6818,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 113233,
       "name": "Sonho Dela (Cowboy)",
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"

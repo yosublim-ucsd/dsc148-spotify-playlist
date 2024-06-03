@@ -4,7 +4,7 @@
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-110 songs - 5 hr 42 min
+111 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Birthday Piano Theme \(Out of Tune\)](https://open.spotify.com/track/7MIAzEvS5Q7Gd8UKlNNla6) | [Victor Butzelaar](https://open.spotify.com/artist/3cTpN2wXm41MGA4pPxBTRL) | [Cube Escape: Birthday](https://open.spotify.com/album/5edCjsWL4jn8gg2IH7GnDw) | 1:36 | 2023-10-01 |  |
 | [Birthweek](https://open.spotify.com/track/5kxpnWg9ddzgk1gZhY2hEC) | [Locust Toybox](https://open.spotify.com/artist/3nUeb5dKLlisR9dvt7qbaZ) | [Stringland](https://open.spotify.com/album/1nZ3YOvzjonwo69zehuq5B) | 2:08 | 2023-04-03 |  |
 | [Blank Fairy](https://open.spotify.com/track/2CmGDsT4GgbJgcXTRUEpeE) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:12 | 2023-05-25 |  |
+| [Blank Shell](https://open.spotify.com/track/2CzJql1at7pyK46iQfDUbf) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [BUCKSHOT ROULETTE](https://open.spotify.com/album/7fPcdqIB6qZNsDPeYiEg4Y) | 2:08 | 2024-06-02 |  |
 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 | 2023-12-15 |  |
 | [Catalysts for Her Awakening](https://open.spotify.com/track/7AteX4WzChxpgW8VCWhLen) | [Avith Ortega](https://open.spotify.com/artist/68wR5LpuIPZVBPciG4ILlD) | [Sinergy](https://open.spotify.com/album/2d9oblrwk9xME5lfuVeoyw) | 2:12 | 2022-03-15 |  |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-04-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ve a formarte en la fila para votar mientras escuchas las rolitas más nuevas! 🗳️ Kenia OS y El Malilla en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,052 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,256 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

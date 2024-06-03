@@ -1,28 +1,44 @@
 {
   "description": "Catz 'n Dogz celebrate pride month with their guest curation takeover of Club Resistance!",
-  "num_followers": 241578,
+  "num_followers": 241714,
   "original_name": "Club Resistance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZluuYwAAAACj9g9jx+EG5bj0OqkYP4/1",
+  "snapshot_id": "ZlzTLgAAAABZZ5zo8wXaZDE8Uboj+j6/",
   "tracks": [
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Return It / Hypnotic Dance",
-        "url": "https://open.spotify.com/album/2r68tOaqzyrG52xdXSv60P"
+        "name": "ABOUT US.",
+        "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
       },
       "artists": [
         {
-          "name": "Kim Ann Foxman",
-          "url": "https://open.spotify.com/artist/5G9mybyLYAE00Mhd3tTVNS"
+          "name": "Cougar",
+          "url": "https://open.spotify.com/artist/75DcASVacTXkCzbP0eWUZ2"
         }
       ],
-      "duration_ms": 440326,
-      "name": "Return It - Steffi's ND Likes Acid Games Mix",
-      "url": "https://open.spotify.com/track/6ahHuDxXJ0seZfsYXnrEff"
+      "duration_ms": 217509,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Don't Bother Me EP",
+        "url": "https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE"
+      },
+      "artists": [
+        {
+          "name": "SYREETA",
+          "url": "https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ"
+        }
+      ],
+      "duration_ms": 210822,
+      "name": "Don't Bother Me",
+      "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
     },
     {
       "added_at": "2024-06-01 04:00:00",
@@ -47,74 +63,6 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/4UhjBwS7SsAA9Wh9iyhU2I"
-      },
-      "artists": [
-        {
-          "name": "Alinka",
-          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
-        }
-      ],
-      "duration_ms": 402080,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/3fEft7Ezhzt2ESDNqs6u1A"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/2eBtSI9usuwADxfrMMwzDq"
-      },
-      "artists": [
-        {
-          "name": "Josh Caffe",
-          "url": "https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2"
-        },
-        {
-          "name": "Erol Alkan",
-          "url": "https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5"
-        }
-      ],
-      "duration_ms": 434120,
-      "name": "You - Erol Alkan Rework",
-      "url": "https://open.spotify.com/track/0OnwuVNnFRx7P7NiC1eBbB"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Ritmo EP",
-        "url": "https://open.spotify.com/album/6q4X0yzQWbPQWBiAsbtSk1"
-      },
-      "artists": [
-        {
-          "name": "GIDE\u00d6N",
-          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
-        }
-      ],
-      "duration_ms": 339380,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/7aVdRjY6O5nZQ3lYXfhVm4"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Berlin Sunrise",
-        "url": "https://open.spotify.com/album/6MtZDaz12Fh0y9c2vsgO0H"
-      },
-      "artists": [
-        {
-          "name": "Daniel Wang",
-          "url": "https://open.spotify.com/artist/1qvo6CbTD4Itart3ZR4JUh"
-        }
-      ],
-      "duration_ms": 461234,
-      "name": "Berlin Sunrise - die Nacht",
-      "url": "https://open.spotify.com/track/2imLJSg5VjfxPiebPv25YH"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
         "name": "Black Girl Magic",
         "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
       },
@@ -135,54 +83,34 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Sabor a Disco EP",
-        "url": "https://open.spotify.com/album/1iS9OMb0rKSTzofKta7zvY"
+        "name": "Late Night People",
+        "url": "https://open.spotify.com/album/2b970bvbXGO47YGGNmAauW"
       },
       "artists": [
         {
-          "name": "Fernanda Arrau",
-          "url": "https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6"
-        },
-        {
-          "name": "Balam",
-          "url": "https://open.spotify.com/artist/0dqcQcbpMnfEvu72FFLmjL"
+          "name": "Ketiov",
+          "url": "https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR"
         }
       ],
-      "duration_ms": 370293,
-      "name": "Sabor a Disco",
-      "url": "https://open.spotify.com/track/6Cex0sfMMYwarQWCx2Hrip"
+      "duration_ms": 348660,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/2XGheeMVX62YkXOwhlqPPx"
     },
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "ABOUT US.",
-        "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/4UhjBwS7SsAA9Wh9iyhU2I"
       },
       "artists": [
         {
-          "name": "Cougar",
-          "url": "https://open.spotify.com/artist/75DcASVacTXkCzbP0eWUZ2"
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
         }
       ],
-      "duration_ms": 217509,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Noc",
-        "url": "https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 252113,
-      "name": "Miasto",
-      "url": "https://open.spotify.com/track/0weYBSmvIBpSgwfNECBjzn"
+      "duration_ms": 402080,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/3fEft7Ezhzt2ESDNqs6u1A"
     },
     {
       "added_at": "2024-06-01 04:00:00",
@@ -223,18 +151,158 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Late Night People",
-        "url": "https://open.spotify.com/album/2b970bvbXGO47YGGNmAauW"
+        "name": "Cavaricci (The Remixes)",
+        "url": "https://open.spotify.com/album/6V0TXQ5OK1GXtFgDprhT8V"
       },
       "artists": [
         {
-          "name": "Ketiov",
-          "url": "https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR"
+          "name": "Redance",
+          "url": "https://open.spotify.com/artist/6jRvEvhiZzlfsrcIyuYWN5"
+        },
+        {
+          "name": "The Carry Nation",
+          "url": "https://open.spotify.com/artist/0PDEs0724hDGxKb5vD5hj1"
         }
       ],
-      "duration_ms": 348660,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/2XGheeMVX62YkXOwhlqPPx"
+      "duration_ms": 481889,
+      "name": "Cavaricci - The Carry Nation Remix",
+      "url": "https://open.spotify.com/track/7gaVGyaCs6zIvL368Yzkqd"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Ritmo EP",
+        "url": "https://open.spotify.com/album/6q4X0yzQWbPQWBiAsbtSk1"
+      },
+      "artists": [
+        {
+          "name": "GIDE\u00d6N",
+          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
+        }
+      ],
+      "duration_ms": 339380,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/7aVdRjY6O5nZQ3lYXfhVm4"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Mangomouse",
+        "url": "https://open.spotify.com/album/6MZ3ICdaxM4XzqkcCh41Cf"
+      },
+      "artists": [
+        {
+          "name": "Saoirse",
+          "url": "https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX"
+        }
+      ],
+      "duration_ms": 397040,
+      "name": "Mangomouse",
+      "url": "https://open.spotify.com/track/1p5DGRh6RIjRLGOHLTec46"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Berlin Sunrise",
+        "url": "https://open.spotify.com/album/6MtZDaz12Fh0y9c2vsgO0H"
+      },
+      "artists": [
+        {
+          "name": "Daniel Wang",
+          "url": "https://open.spotify.com/artist/1qvo6CbTD4Itart3ZR4JUh"
+        }
+      ],
+      "duration_ms": 461234,
+      "name": "Berlin Sunrise - die Nacht",
+      "url": "https://open.spotify.com/track/2imLJSg5VjfxPiebPv25YH"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Sabor a Disco EP",
+        "url": "https://open.spotify.com/album/1iS9OMb0rKSTzofKta7zvY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Arrau",
+          "url": "https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6"
+        },
+        {
+          "name": "Balam",
+          "url": "https://open.spotify.com/artist/0dqcQcbpMnfEvu72FFLmjL"
+        }
+      ],
+      "duration_ms": 370293,
+      "name": "Sabor a Disco",
+      "url": "https://open.spotify.com/track/6Cex0sfMMYwarQWCx2Hrip"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/2eBtSI9usuwADxfrMMwzDq"
+      },
+      "artists": [
+        {
+          "name": "Josh Caffe",
+          "url": "https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2"
+        },
+        {
+          "name": "Erol Alkan",
+          "url": "https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5"
+        }
+      ],
+      "duration_ms": 434120,
+      "name": "You - Erol Alkan Rework",
+      "url": "https://open.spotify.com/track/0OnwuVNnFRx7P7NiC1eBbB"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "PERSONALIDAD CONTROL (A Tribute to Leiomy)",
+        "url": "https://open.spotify.com/album/7MY2S7wlIWsuRSpPe9BYAS"
+      },
+      "artists": [
+        {
+          "name": "G\u00ffe",
+          "url": "https://open.spotify.com/artist/1ffsfWPOpRQYNB80asmZv6"
+        }
+      ],
+      "duration_ms": 225940,
+      "name": "PERSONALIDAD CONTROL (A Tribute to Leiomy)",
+      "url": "https://open.spotify.com/track/1DXhcFfChBHkwcaVsb15ih"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Noc",
+        "url": "https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 252113,
+      "name": "Miasto",
+      "url": "https://open.spotify.com/track/0weYBSmvIBpSgwfNECBjzn"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Return It / Hypnotic Dance",
+        "url": "https://open.spotify.com/album/2r68tOaqzyrG52xdXSv60P"
+      },
+      "artists": [
+        {
+          "name": "Kim Ann Foxman",
+          "url": "https://open.spotify.com/artist/5G9mybyLYAE00Mhd3tTVNS"
+        }
+      ],
+      "duration_ms": 440326,
+      "name": "Return It - Steffi's ND Likes Acid Games Mix",
+      "url": "https://open.spotify.com/track/6ahHuDxXJ0seZfsYXnrEff"
     },
     {
       "added_at": "2024-06-01 04:00:00",
@@ -283,38 +351,6 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Don't Bother Me EP",
-        "url": "https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE"
-      },
-      "artists": [
-        {
-          "name": "SYREETA",
-          "url": "https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ"
-        }
-      ],
-      "duration_ms": 210822,
-      "name": "Don't Bother Me",
-      "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Mangomouse",
-        "url": "https://open.spotify.com/album/6MZ3ICdaxM4XzqkcCh41Cf"
-      },
-      "artists": [
-        {
-          "name": "Saoirse",
-          "url": "https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX"
-        }
-      ],
-      "duration_ms": 397040,
-      "name": "Mangomouse",
-      "url": "https://open.spotify.com/track/1p5DGRh6RIjRLGOHLTec46"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
         "name": "Magic (Is In The Tempo) EP",
         "url": "https://open.spotify.com/album/77hJtqyIi1c9Ny0uJLHbXc"
       },
@@ -355,22 +391,6 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "PERSONALIDAD CONTROL (A Tribute to Leiomy)",
-        "url": "https://open.spotify.com/album/7MY2S7wlIWsuRSpPe9BYAS"
-      },
-      "artists": [
-        {
-          "name": "G\u00ffe",
-          "url": "https://open.spotify.com/artist/1ffsfWPOpRQYNB80asmZv6"
-        }
-      ],
-      "duration_ms": 225940,
-      "name": "PERSONALIDAD CONTROL (A Tribute to Leiomy)",
-      "url": "https://open.spotify.com/track/1DXhcFfChBHkwcaVsb15ih"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
         "name": "Let It All Out EP",
         "url": "https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 533645,
       "name": "The Ha Dub Rewerk'd",
       "url": "https://open.spotify.com/track/72AfmRd9QD6qmPeuVBAfZP"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Cavaricci (The Remixes)",
-        "url": "https://open.spotify.com/album/6V0TXQ5OK1GXtFgDprhT8V"
-      },
-      "artists": [
-        {
-          "name": "Redance",
-          "url": "https://open.spotify.com/artist/6jRvEvhiZzlfsrcIyuYWN5"
-        },
-        {
-          "name": "The Carry Nation",
-          "url": "https://open.spotify.com/artist/0PDEs0724hDGxKb5vD5hj1"
-        }
-      ],
-      "duration_ms": 481889,
-      "name": "Cavaricci - The Carry Nation Remix",
-      "url": "https://open.spotify.com/track/7gaVGyaCs6zIvL368Yzkqd"
     },
     {
       "added_at": "2024-06-01 04:00:00",

@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 204936,
       "name": "Bbl Drizzy",
       "url": "https://open.spotify.com/track/39zWzcFnV4yVcl8fH3MZbe"
@@ -19596,7 +19596,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -24690,6 +24690,24 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "album": {
+        "name": "Un vieux hippy",
+        "url": "https://open.spotify.com/album/4q0YDBc93g5K6WgP1Ovf6P"
+      },
+      "artists": [
+        {
+          "name": "Cayouche",
+          "url": "https://open.spotify.com/artist/1BK4rRbvgkgYoOpPweuSJS"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144240,
+      "name": "La cha\u00eene de mon tracteur",
+      "url": "https://open.spotify.com/track/61F4Rp4Kh9jQZxO9B5KDDJ"
     },
     {
       "album": {
@@ -35988,7 +36006,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 193000,
       "name": "Princess Cuts My Wrist",
       "url": "https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b"

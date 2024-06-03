@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from  Ricky Tyler \(pictured\), Gunna, Kendrick Lamar, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,379 likes - 63 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,400 likes - 63 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,031 likes - 151 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,073 likes - 151 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Angela Autumn
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,213 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,296 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

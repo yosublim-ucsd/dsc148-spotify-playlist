@@ -1,6 +1,6 @@
 {
   "description": "Symphonic metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 766853,
+  "num_followers": 766946,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The War to End All Wars",
-        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stormtroopers",
-      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "The War to End All Wars",
+        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 259048,
-      "name": "We Go To War",
-      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
+      "duration_ms": 236000,
+      "name": "Stormtroopers",
+      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -343,6 +327,22 @@
       "duration_ms": 227796,
       "name": "What Else Is There?",
       "url": "https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 259048,
+      "name": "We Go To War",
+      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -395,38 +395,6 @@
       "duration_ms": 252893,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The Unkillable Soldier",
-        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Unkillable Soldier",
-      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Forsaken (The Aftermath)",
-        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 298634,
-      "name": "Forsaken - The Aftermath",
-      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -487,6 +455,38 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "The Unkillable Soldier",
+        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Unkillable Soldier",
+      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Forsaken (The Aftermath)",
+        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 298634,
+      "name": "Forsaken - The Aftermath",
+      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "We Shall Remain",
         "url": "https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
+        "name": "The Unforgiven II",
+        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 261480,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
+      "duration_ms": 245274,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -567,6 +567,22 @@
       "duration_ms": 185266,
       "name": "Outer Dimensions",
       "url": "https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 261480,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -603,22 +619,6 @@
       "duration_ms": 205826,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The Unforgiven II",
-        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 245274,
-      "name": "The Unforgiven II",
-      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "A Brave New Hope",
         "url": "https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 280557,
       "name": "A Brave New Hope",
       "url": "https://open.spotify.com/track/7CTZgDqC7vcSsTumTmxz0D"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -891,6 +891,22 @@
       "duration_ms": 206520,
       "name": "Fight the Tide",
       "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Walborg",
+        "url": "https://open.spotify.com/album/7tgt7BhR3dGVsj5AHopGAK"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "Walborg",
+      "url": "https://open.spotify.com/track/44gQ6qYCNVksivDoFwHnZ8"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Walborg",
-        "url": "https://open.spotify.com/album/7tgt7BhR3dGVsj5AHopGAK"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "Walborg",
-      "url": "https://open.spotify.com/track/44gQ6qYCNVksivDoFwHnZ8"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
@@ -975,22 +975,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Interrogativa Cantilena",
-        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
+        "name": "Winter Is Coming",
+        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
       },
       "artists": [
         {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        },
-        {
-          "name": "Kevin Ridley",
-          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Interrogativa Cantilena",
-      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+      "duration_ms": 277493,
+      "name": "Winter Is Coming",
+      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Winter Is Coming",
-        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+        "name": "Interrogativa Cantilena",
+        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        },
+        {
+          "name": "Kevin Ridley",
+          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
         }
       ],
-      "duration_ms": 277493,
-      "name": "Winter Is Coming",
-      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
+      "duration_ms": 228000,
+      "name": "Interrogativa Cantilena",
+      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1079,6 +1079,22 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Axes",
         "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
       },
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Architect of Creation",
-        "url": "https://open.spotify.com/album/5f4ReNCL3YtnSSRs5HIbeS"
+        "name": "Almosttown",
+        "url": "https://open.spotify.com/album/2ucY8ZkajTe4LMQBYdoaFg"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
         }
       ],
-      "duration_ms": 332360,
-      "name": "Architect of Creation",
-      "url": "https://open.spotify.com/track/5hyPrA15cGzcjOPyhSGuAC"
+      "duration_ms": 302040,
+      "name": "Almosttown",
+      "url": "https://open.spotify.com/track/25cW3WuUYMBi2gXVBYAVWN"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Architect of Creation",
+        "url": "https://open.spotify.com/album/5f4ReNCL3YtnSSRs5HIbeS"
+      },
+      "artists": [
+        {
+          "name": "Seven Spires",
+          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+        }
+      ],
+      "duration_ms": 332360,
+      "name": "Architect of Creation",
+      "url": "https://open.spotify.com/track/5hyPrA15cGzcjOPyhSGuAC"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "New Horizons",
         "url": "https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 221720,
       "name": "We Are Legion",
       "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Almosttown",
-        "url": "https://open.spotify.com/album/2ucY8ZkajTe4LMQBYdoaFg"
-      },
-      "artists": [
-        {
-          "name": "Seven Spires",
-          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
-        }
-      ],
-      "duration_ms": 302040,
-      "name": "Almosttown",
-      "url": "https://open.spotify.com/track/25cW3WuUYMBi2gXVBYAVWN"
     },
     {
       "added_at": "2024-05-24 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Bryan Behr",
-  "num_followers": 433449,
+  "num_followers": 433450,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Vento",
-        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
       },
       "artists": [
         {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 172329,
-      "name": "Vento",
-      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -239,18 +235,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
+      "duration_ms": 172329,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -383,6 +367,38 @@
       "duration_ms": 165543,
       "name": "estranha vontade louca",
       "url": "https://open.spotify.com/track/6OaT6IKxwpGv5K62axdX74"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -415,22 +431,6 @@
       "duration_ms": 157708,
       "name": "que mal que tem?",
       "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -495,6 +495,26 @@
       "duration_ms": 144000,
       "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
       "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -571,26 +591,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Breve",
         "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 213103,
       "name": "Breve",
       "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Rom\u00e3",
-        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Rom\u00e3",
-      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Vida Normal",
         "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 173804,
       "name": "Vida Normal",
       "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Rom\u00e3",
+        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Rom\u00e3",
+      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -731,38 +747,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Dan\u00e7ando na Beira",
         "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163298,
       "name": "Dan\u00e7ando na Beira",
       "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Te Encontrar",
-        "url": "https://open.spotify.com/album/1aTqCkWeRFEngYnG3xj9xq"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        }
-      ],
-      "duration_ms": 182482,
-      "name": "Te Encontrar",
-      "url": "https://open.spotify.com/track/4FMR4rG8hQINwhL3pwNqoX"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Beijos de artif\u00edcio",
         "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 174339,
       "name": "Tudo Vai Ser Como Deve Ser",
       "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Te Encontrar",
+        "url": "https://open.spotify.com/album/1aTqCkWeRFEngYnG3xj9xq"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "duration_ms": 182482,
+      "name": "Te Encontrar",
+      "url": "https://open.spotify.com/track/4FMR4rG8hQINwhL3pwNqoX"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/4KvxHv4e93jbIEUrjWzrh0"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 182780,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1175,22 +1175,34 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "\u00danica Op\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3vB743HwA5YsvyRLfnhjSH"
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
       "artists": [
         {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        },
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 130272,
-      "name": "\u00danica Op\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5rpodz6JCSBZi07wn3OxRU"
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1211,18 +1223,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+        "name": "\u00danica Op\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3vB743HwA5YsvyRLfnhjSH"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        },
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+      "duration_ms": 130272,
+      "name": "\u00danica Op\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5rpodz6JCSBZi07wn3OxRU"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1259,22 +1275,6 @@
       "duration_ms": 166698,
       "name": "desacostumar",
       "url": "https://open.spotify.com/track/5RrmeusRde00J2jHjXKtyj"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-05-31 03:00:00",

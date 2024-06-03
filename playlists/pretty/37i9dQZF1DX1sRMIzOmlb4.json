@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 41790,
+  "num_followers": 41818,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-04-06 00:39:38",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios",
-        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "C\u00f3mo Te Atreves",
-      "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
-    },
-    {
-      "added_at": "2024-04-06 00:39:38",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 205906,
       "name": "El Perd\u00f3n (with Enrique Iglesias)",
       "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+    },
+    {
+      "added_at": "2024-04-06 00:39:38",
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "C\u00f3mo Te Atreves",
+      "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
     },
     {
       "added_at": "2024-04-06 00:39:38",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-04-06 00:39:38",
       "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
+    },
+    {
+      "added_at": "2024-04-06 00:39:38",
+      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
-    },
-    {
-      "added_at": "2024-04-06 00:39:38",
-      "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
     },
     {
       "added_at": "2024-04-06 00:39:38",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-06 00:39:38",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
-    },
-    {
-      "added_at": "2024-04-06 00:39:38",
-      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2024-04-06 00:39:38",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 256948,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+      "duration_ms": 211946,
+      "name": "\u00bfC\u00f3mo Pagarte?",
+      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     },
     {
       "added_at": "2024-04-06 00:39:38",
@@ -391,6 +375,22 @@
       "duration_ms": 232373,
       "name": "Nota de Amor (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1"
+    },
+    {
+      "added_at": "2024-04-06 00:39:38",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 256948,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
     },
     {
       "added_at": "2024-04-06 00:39:38",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-04-06 00:39:38",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "No soy una de esas (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N"
-    },
-    {
-      "added_at": "2024-04-06 00:39:38",
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -547,34 +527,22 @@
     {
       "added_at": "2024-04-06 00:39:38",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Si No Te Quiere",
-      "url": "https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga"
-    },
-    {
-      "added_at": "2024-04-06 00:39:38",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 241986,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef"
+      "duration_ms": 210733,
+      "name": "No soy una de esas (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N"
     },
     {
       "added_at": "2024-04-06 00:39:38",
@@ -619,6 +587,38 @@
       "duration_ms": 315440,
       "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
       "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
+    },
+    {
+      "added_at": "2024-04-06 00:39:38",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef"
+    },
+    {
+      "added_at": "2024-04-06 00:39:38",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Si No Te Quiere",
+      "url": "https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga"
     },
     {
       "added_at": "2024-04-06 00:39:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-04-06 00:39:38",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
-    },
-    {
-      "added_at": "2024-04-06 00:39:38",
-      "album": {
         "name": "Sube",
         "url": "https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 177640,
       "name": "M\u00e1s Que Amigos",
       "url": "https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0"
+    },
+    {
+      "added_at": "2024-04-06 00:39:38",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
     },
     {
       "added_at": "2024-04-06 00:39:38",

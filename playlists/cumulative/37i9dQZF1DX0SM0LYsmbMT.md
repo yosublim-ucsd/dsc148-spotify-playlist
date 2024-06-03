@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,140 songs - 6 day 14 hr 7 min
+4,141 songs - 6 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1169,6 +1169,7 @@
 | [First Class](https://open.spotify.com/track/3oLfSKfdFHldXDDiW9bwns) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [First Class](https://open.spotify.com/album/4he85wIZa4bceShHIJtTc0) | 2:11 | 2023-08-24 | 2023-09-15 |
 | [First Date](https://open.spotify.com/track/7oHE4lQulc9fvVbOoGT5Np) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [First Date](https://open.spotify.com/album/7ufpwvaPyIOSnkiw7RFoQN) | 1:52 | 2022-03-24 | 2024-04-26 |
 | [First Kiss at That Bridge](https://open.spotify.com/track/5NHLyPfsFus9tffkQfNRBp) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [First Kiss at That Bridge](https://open.spotify.com/album/6DczeJH1wnjhO2LusrxvEY) | 1:44 | 2021-05-29 | 2021-07-16 |
+| [Fishizens](https://open.spotify.com/track/56YpXPDyWRzgElEKvTGTif) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Fishizens](https://open.spotify.com/album/1USqajnim2xRLIXKsNZKBc) | 1:39 | 2024-05-30 |  |
 | [Five Pants](https://open.spotify.com/track/0yBYOuWJ0ZvkKiYzq95otA) | [Bezzix](https://open.spotify.com/artist/7wHZfDkun9PmNEJuh9wh69), [Fonsey](https://open.spotify.com/artist/5rHzvi8pBFTMdWhVbeisRR) | [DAY 1](https://open.spotify.com/album/0FMKiC9HnUqHX56cUvEnC3) | 2:18 | 2022-08-18 | 2022-11-20 |
 | [Five Pants](https://open.spotify.com/track/2uEoDYyEG9LiR43vsnaoPm) | [Bezzix](https://open.spotify.com/artist/7wHZfDkun9PmNEJuh9wh69), [Fonsey](https://open.spotify.com/artist/5rHzvi8pBFTMdWhVbeisRR) | [DAY 1](https://open.spotify.com/album/5do6d6vP7D1hXkh4SaCeLj) | 2:18 | 2022-11-17 | 2023-11-14 |
 | [Flakes](https://open.spotify.com/track/0MgmmYnlrjM5UXsYKIRsbV) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Flakes](https://open.spotify.com/album/4aE8kXASUeG9wiH7Gx7xLz) | 1:54 | 2022-01-27 | 2022-07-15 |
@@ -1786,7 +1787,7 @@
 | [Joyful Tears](https://open.spotify.com/track/6eFHssRnf7lUs1HcZ0x5v2) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Joyful Tears](https://open.spotify.com/album/1NIPZYQDe2EivDPQ4ll14t) | 2:55 | 2022-12-01 | 2022-12-24 |
 | [Joyride](https://open.spotify.com/track/4BT3cWxIubxCawVeiXxo5B) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Joyride](https://open.spotify.com/album/5dxiJhr2AHKR7jYXq39o4k) | 2:15 | 2020-08-07 | 2021-04-02 |
 | [Juego de Olas](https://open.spotify.com/track/03vsJIe8ryh9Yv9YOp3J3Y) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Juego de Olas](https://open.spotify.com/album/5YuCxPvs6aU0SEFE2yI4T5) | 2:08 | 2021-05-14 | 2021-07-09 |
-| [Jugallo](https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD) | [Am Froggo](https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW) | [Jugallo](https://open.spotify.com/album/5YEA3xmOgqs8QpEkBhOTJY) | 1:29 | 2024-05-09 |  |
+| [Jugallo](https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD) | [Am Froggo](https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW) | [Jugallo](https://open.spotify.com/album/5YEA3xmOgqs8QpEkBhOTJY) | 1:29 | 2024-05-09 | 2024-06-03 |
 | [Juicy](https://open.spotify.com/track/1RjL9QOgM1ICg846yLzgvd) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Juicy](https://open.spotify.com/album/1tAVDFg0Rjmau3YbpvpMOg) | 2:02 | 2022-05-20 | 2022-11-20 |
 | [Juicy](https://open.spotify.com/track/33YYeNVd3MilBCq9GzBdrc) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Juicy](https://open.spotify.com/album/3ocmwtu15NdO0srxQmlWNc) | 2:02 | 2022-11-17 | 2023-11-17 |
 | [Juicy Season](https://open.spotify.com/track/1gLtUr8YdAPvKfRyCWWHxH) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Juicy Season](https://open.spotify.com/album/3TD7iWLllNJg0QgrUFrbvO) | 2:32 | 2021-01-27 | 2021-06-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,509 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,507 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 43 | [Caramelo Lifetime](https://open.spotify.com/track/2cpf3gZca030i93ztomTtF) | [Los Rogelios](https://open.spotify.com/artist/3Iq3cJnSTLqSEg7IFzsers), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Caramelo Lifetime](https://open.spotify.com/album/2dgrEqrcuM2chak2JoNuyd) | 3:46 |
 | 44 | [Obvio Bien](https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Obvio Bien](https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM) | 4:14 |
 | 45 | [Tan Bonita](https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz Nunca Me Fui](https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf) | 3:17 |
-| 46 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 |
+| 46 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ovidio Granados](https://open.spotify.com/artist/7291PPngS2iCpyTpC6Kw5C) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 |
 | 47 | [Traición](https://open.spotify.com/track/7dRD7eBLIglu0VkXBhy1Nm) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Desengaños](https://open.spotify.com/album/4jJOwvSGnBDyU7rQtGhbet) | 3:35 |
 | 48 | [Ser Tu Amiga](https://open.spotify.com/track/489AQ5Y1a1M4UqwcswCjuW) | [Pirou](https://open.spotify.com/artist/5Exv6RVCMfy0dbc175j4aJ) | [Ser Tu Amiga](https://open.spotify.com/album/1FZroqNkOW534MPJJlDgyL) | 3:12 |
 | 49 | [Nunca más](https://open.spotify.com/track/7hLtRT8WAKGpBqyVzrvIce) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Nunca más](https://open.spotify.com/album/32NNl62aeCLDfofg4NX8kY) | 2:57 |

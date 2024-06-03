@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 21 | [For Andrea](https://open.spotify.com/track/7oBquJ552fIdR2wVknQH1e) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:38 |
 | 22 | [late night thoughts](https://open.spotify.com/track/7EU53emZ1UfKMLULJmWr1J) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:25 |
 | 23 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 |
-| 24 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 |
-| 25 | [RESET](https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 2:41 |
+| 24 | [RESET](https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 2:41 |
+| 25 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 |
 | 26 | [APK](https://open.spotify.com/track/0GyDIFvLpmszVijNCSapvH) | [Södra Station](https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr) | [Bastugatan \- EP](https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ) | 3:17 |
 | 27 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 |
 | 28 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 93 | [White Horses \(feat\. Crooked Bangs\)](https://open.spotify.com/track/5un6PotHxYF298PlqoYqPI) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:56 |
 | 94 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AbS7NAAAAACNZdZwkSFT9RytT9wmT8+b`
+Snapshot ID: `AbTA1AAAAAD1uYuG6/6mBYtB+fZat+Pb`

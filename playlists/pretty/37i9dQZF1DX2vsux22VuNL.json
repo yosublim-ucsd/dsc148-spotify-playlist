@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289345,
+  "num_followers": 289329,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Carolina / Levemente",
-        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -171,6 +151,50 @@
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Carolina / Levemente",
+        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -211,30 +235,6 @@
       "duration_ms": 154374,
       "name": "Aladdin",
       "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -299,6 +299,30 @@
       "duration_ms": 212000,
       "name": "Uma Linda Mulher - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -411,30 +435,6 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -711,18 +711,38 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Fico Bem",
-        "url": "https://open.spotify.com/album/1SNQV9at6GikGl11XRMUtR"
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw"
       },
       "artists": [
         {
           "name": "Projota",
           "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 184075,
-      "name": "Fico Bem",
-      "url": "https://open.spotify.com/track/5huAwkSNnxPsQQVdaXMwJQ"
+      "duration_ms": 161706,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -763,6 +783,26 @@
       "duration_ms": 169868,
       "name": "FOME",
       "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -891,42 +931,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw"
+        "name": "Fico Bem",
+        "url": "https://open.spotify.com/album/1SNQV9at6GikGl11XRMUtR"
       },
       "artists": [
         {
           "name": "Projota",
           "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 161706,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
+      "duration_ms": 184075,
+      "name": "Fico Bem",
+      "url": "https://open.spotify.com/track/5huAwkSNnxPsQQVdaXMwJQ"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 167478,
       "name": "Desliga",
       "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1071,26 +1071,6 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Aquariana",
         "url": "https://open.spotify.com/album/5nOjg27AnUcrvTv7qOic0F"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1543,22 +1543,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
       },
       "artists": [
         {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
         },
         {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         }
       ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1583,26 +1583,6 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1647,6 +1627,26 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2024-05-31 03:00:00",

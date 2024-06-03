@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,205 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,420 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 5 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 6 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 7 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
-| 8 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
-| 9 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 |
+| 8 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 |
+| 9 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
 | 10 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
 | 11 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |
 | 12 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 23 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/1kMqjfsBgTzhGU4CNDxOD8) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [No.1 \(feat\. Tems\)](https://open.spotify.com/album/0wV2KnE6FBQcNMhPInA7xq) | 2:27 |
 | 24 | [Llévame](https://open.spotify.com/track/5fDaVlO4UbfxPro5AlYtfM) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 2:59 |
 | 25 | [she's so cool](https://open.spotify.com/track/6ZfAbCwtXiZekia2vBXb27) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [she's so cool](https://open.spotify.com/album/6nODLxFnID6dwFspd4mpgN) | 2:36 |
-| 26 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
-| 27 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 |
+| 26 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 |
+| 27 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
 | 28 | [Saath Tere](https://open.spotify.com/track/4NUMMY9FHZZ66mPHdcoASO) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Saath Tere](https://open.spotify.com/album/1h8upXtYhz5JIKnQcIUAw0) | 3:10 |
 | 29 | [Mainstream](https://open.spotify.com/track/4NlDnuMvtVNnFLqZWxsOwq) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mainstream](https://open.spotify.com/album/5VRlcJS4bpvoNdLBB6V7ew) | 3:10 |
 | 30 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
-| 31 | [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 |
-| 32 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
+| 31 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
+| 32 | [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 |
 | 33 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/album/2WZOiUyx2FeSnmzdXWFhPs) | 3:14 |
 | 34 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 | 35 | [最美的光芒](https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [最美的光芒](https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i) | 3:14 |

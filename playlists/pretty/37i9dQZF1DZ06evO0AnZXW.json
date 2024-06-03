@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2920043,
+  "num_followers": 2920314,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAACn8b0bXxVSAvaKO+7vQRPJ",
+  "snapshot_id": "ZlpkgAAAAACHJi3lDxE+RSWiQqaPOcjz",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 135090,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
+      "duration_ms": 110886,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 99658,
-      "name": "before I close my eyes",
-      "url": "https://open.spotify.com/track/16x9bQHw8TBNaGDyULvwad"
+      "duration_ms": 186267,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
     },
     {
       "added_at": null,
@@ -462,11 +462,15 @@
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 186267,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
+      "duration_ms": 176590,
+      "name": "infinity (888) - feat. Joey Bada$$",
+      "url": "https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q"
     },
     {
       "added_at": null,
@@ -847,6 +851,30 @@
       "duration_ms": 219560,
       "name": "King Of The Dead",
       "url": "https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Kin$oul",
+          "url": "https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge"
+        },
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "duration_ms": 209107,
+      "name": "Slipknot",
+      "url": "https://open.spotify.com/track/2NaIkDKuKrAcHoj8moeIQV"
     },
     {
       "added_at": null,

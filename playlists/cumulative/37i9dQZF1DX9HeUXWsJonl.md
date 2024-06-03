@@ -4,7 +4,7 @@
 
 > Les hits tunisiens du moment\. Cover: Samara
 
-204 songs - 12 hr 29 min
+205 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,9 +120,10 @@
 | [Mani Nassi \- مانى ناسى](https://open.spotify.com/track/3GdU3rvO5odP2AIGSmm24z) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Mani Nassi \(مانى ناسى\)](https://open.spotify.com/album/6k0QEgsFV320r0Sr16RJVM) | 3:29 | 2023-03-22 | 2023-04-21 |
 | [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 | 2021-12-10 | 2022-10-05 |
 | [Mathi](https://open.spotify.com/track/2BUzhyKaCLs3uqeN5HUWHE) | [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY) | [Mathi](https://open.spotify.com/album/7F5Iqxhgk9qNwuMNtoBgdb) | 3:24 | 2022-02-03 | 2022-11-27 |
+| [Mazelt sghir](https://open.spotify.com/track/6VITZeXhpy0zUSolcl0u92) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mazelt sghir](https://open.spotify.com/album/5IZagv0nBNCgIZHt0TF0PZ) | 3:52 | 2024-06-02 |  |
 | [MCHEW !](https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [MCHEW !](https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK) | 3:28 | 2022-12-27 |  |
 | [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 | 2022-05-14 |
-| [Melli sar](https://open.spotify.com/track/2TTAGfy6UxbU7ZKeMcIv5S) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Melli sar](https://open.spotify.com/album/5KOkPO2cWQzNk6mvrPOazN) | 4:08 | 2024-05-16 |  |
+| [Melli sar](https://open.spotify.com/track/2TTAGfy6UxbU7ZKeMcIv5S) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Melli sar](https://open.spotify.com/album/5KOkPO2cWQzNk6mvrPOazN) | 4:08 | 2024-05-16 | 2024-06-03 |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2023-03-22 | 2023-08-06 |
 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2023-11-21 | 2024-02-15 |
 | [MESTWI](https://open.spotify.com/track/0mMcpkFCjggJilJZOZUkAj) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [DON PAC](https://open.spotify.com/artist/4pHDepQgiozHdmlY65PJDZ) | [MESTWI](https://open.spotify.com/album/0XGaToEjWwqHU9O2xDdDKt) | 4:13 | 2023-08-19 |  |
@@ -196,7 +197,7 @@
 | [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 | 2023-01-10 | 2023-03-15 |
 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 | 2023-02-20 |  |
 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 | 2022-08-31 | 2023-02-24 |
-| [Yamma](https://open.spotify.com/track/2rPfXfRD6eAVSiJBY2x1Ne) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Yamma](https://open.spotify.com/album/3a5o2trBcQBLmPWOfmPTTf) | 4:11 | 2023-06-27 |  |
+| [Yamma](https://open.spotify.com/track/2rPfXfRD6eAVSiJBY2x1Ne) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Yamma](https://open.spotify.com/album/3a5o2trBcQBLmPWOfmPTTf) | 4:11 | 2023-06-27 | 2024-06-03 |
 | [Yammi](https://open.spotify.com/track/4kMMvrtAPcSRax1kZg49eg) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Yammi](https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb) | 3:41 | 2021-12-10 | 2022-06-19 |
 | [Youm Wara Youm](https://open.spotify.com/track/5qicaloS3NlXFjw9HupZa6) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Youm Wara Youm](https://open.spotify.com/album/12rqCKonJMpJeawjO5zHT9) | 4:05 | 2023-02-08 | 2023-06-28 |
 | [Zidni Bal3a \- زيدني بلعة](https://open.spotify.com/track/0GIDZOCNCYzFZm6ISFPDgA) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Zidni Bal3a \(زيدني بلعة\)](https://open.spotify.com/album/6inZ22BdbOv5k2Fg4dwQjh) | 3:30 | 2022-11-24 | 2023-08-20 |

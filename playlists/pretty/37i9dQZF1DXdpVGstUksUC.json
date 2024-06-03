@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 540570,
+  "num_followers": 540590,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -235,54 +235,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Mars Red Sky",
         "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
       },
@@ -295,6 +247,22 @@
       "duration_ms": 329626,
       "name": "Strong Reflection",
       "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -315,6 +283,38 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Ugo",
         "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 358740,
       "name": "Ugo",
       "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu"
       },
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
       "artists": [
         {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+          "name": "King Buffalo",
+          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
         }
       ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+      "duration_ms": 356824,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Repeater",
-        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
       },
       "artists": [
         {
-          "name": "King Buffalo",
-          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
         }
       ],
-      "duration_ms": 356824,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -535,22 +535,6 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -631,6 +615,22 @@
       "duration_ms": 314656,
       "name": "The Last Leaf",
       "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
-      },
-      "artists": [
-        {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
-        }
-      ],
-      "duration_ms": 233599,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Groovy",
         "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 257093,
       "name": "Drowning on Empty",
       "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "duration_ms": 233599,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Thornwyck Hymn",
         "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 407783,
       "name": "Thornwyck Hymn",
       "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "In Search Of",
         "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 306973,
       "name": "Neptune's Convoy",
       "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1579,34 +1579,34 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+        "name": "Jim's Whiskers",
+        "url": "https://open.spotify.com/album/5a8f0Sc9PktiUNmsRNjnj4"
       },
       "artists": [
         {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+          "name": "John Garcia",
+          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
         }
       ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+      "duration_ms": 222169,
+      "name": "Jim's Whiskers",
+      "url": "https://open.spotify.com/track/4IhSrCg1QzLtYiu3B50WOQ"
     },
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Ilion",
-        "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
+        "name": "Wilderness Heart",
+        "url": "https://open.spotify.com/album/7HiIz7nui3LtGVY62ORP3b"
       },
       "artists": [
         {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+          "name": "Black Mountain",
+          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
         }
       ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
+      "duration_ms": 315626,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/6cJhk7H8SQj4rzZmRVnK0A"
     }
   ],
   "unique_name": "Stoner Rock",

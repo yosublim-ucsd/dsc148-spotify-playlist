@@ -2,7 +2,7 @@
 
 ### [This Is Bruna Karla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vKEsk)
 
-> This is Bruna Karla\. The essential tracks, all in one playlist.
+> This is Bruna Karla\. Todos os maiores hits em uma só playlist.
 
 71 songs - 6 hr 1 min
 
@@ -40,7 +40,7 @@
 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 | 2023-07-09 |  |
 | [Identidade](https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 4:27 | 2023-07-09 |  |
 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 | 2023-07-09 |  |
-| [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 | 2023-07-09 | 2024-04-23 |
+| [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 | 2023-07-09 |  |
 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 | 2024-01-15 |  |
 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 | 2024-05-14 |  |
 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 | 2023-07-09 |  |
@@ -69,7 +69,7 @@
 | [Se o Vento Soprar](https://open.spotify.com/track/1KqHoFhNjT3HmiTJGiIjk7) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Creio \(Ao Vivo\)](https://open.spotify.com/album/4FOGQicy3wsOra4zxwxsVQ) | 5:31 | 2023-07-09 | 2023-10-11 |
 | [Sou Humano](https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Sou Humano](https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ) | 4:30 | 2023-07-09 |  |
 | [Sou Humano](https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:48 | 2023-07-09 |  |
-| [Te Entrego Minhas Fraquezas](https://open.spotify.com/track/3SmcPR2zOv0nt1gho6sSBR) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Te Entrego Minhas Fraquezas](https://open.spotify.com/album/30c9YEnEROq0P3eWK5puxI) | 4:44 | 2023-07-09 |  |
+| [Te Entrego Minhas Fraquezas](https://open.spotify.com/track/3SmcPR2zOv0nt1gho6sSBR) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Te Entrego Minhas Fraquezas](https://open.spotify.com/album/30c9YEnEROq0P3eWK5puxI) | 4:44 | 2023-07-09 | 2024-06-03 |
 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 | 2023-07-09 |  |
 | [Todavia me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 5:52 | 2023-07-09 |  |
 | [Tu Estás Aqui](https://open.spotify.com/track/2J8BKv8H29tNQ8cR9XBnJ9) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Tu Estás Aqui](https://open.spotify.com/album/1ZlRA8N9XFIhokgUS2dWOs) | 5:05 | 2023-07-09 | 2024-04-07 |

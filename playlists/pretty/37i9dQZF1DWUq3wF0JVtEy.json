@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 931750,
+  "num_followers": 931774,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Movin",
-        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Movin",
-      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "The Drop (Ownboss Remix)",
         "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Movin",
+        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Movin",
+      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -1375,26 +1359,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Mind Awake, Body Asleep",
-        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
         }
       ],
-      "duration_ms": 150447,
-      "name": "Mind Awake, Body Asleep",
-      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+      "duration_ms": 161250,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1447,6 +1423,30 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Mind Awake, Body Asleep",
+        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Party Crashers",
         "url": "https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l"
       },
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "2HEARTs dlux",
-        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "my luv - bonus track",
-      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1539,6 +1539,22 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/59QXS5Z11bRhJOHGVoCNGm"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/5xgWuXVvSZfRh71fa0L4fM"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 176190,
       "name": "Break It",
       "url": "https://open.spotify.com/track/0TCa6Fxfk2eht9jKeeqfiq"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/59QXS5Z11bRhJOHGVoCNGm"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/5xgWuXVvSZfRh71fa0L4fM"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Losing My Head",
+        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Losing My Head",
+      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "U & Me (Vincent Remix)",
         "url": "https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 238806,
       "name": "U & Me - Vincent Remix",
       "url": "https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Losing My Head",
-        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Losing My Head",
-      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2Zu0jZHHt8xYws9Ct96qci"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "JKATZ",
-          "url": "https://open.spotify.com/artist/30tRnXvnAGLdXFTVond1S7"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3PwhytWfZi2IFkL2EltgKf"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 230625,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2Zu0jZHHt8xYws9Ct96qci"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "JKATZ",
+          "url": "https://open.spotify.com/artist/30tRnXvnAGLdXFTVond1S7"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3PwhytWfZi2IFkL2EltgKf"
     }
   ],
   "unique_name": "Shuffle Syndrome",

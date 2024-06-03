@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 194453,
+  "num_followers": 194526,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "The Head On The Door (Remastered)",
         "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2023-11-10 17:08:25",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "Bizarre Love Triangle",
-      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Head On The Door",
         "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 177986,
       "name": "Inbetween Days",
       "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 263573,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/7Fyk2UVvhtjsQOyentgLzQ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 236333,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0WnVjkW8k8Zo37JAI7K8zF"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "All Four One (Remastered 1999)",
         "url": "https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 196200,
       "name": "Only The Lonely - Remastered 1999",
       "url": "https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
       },
@@ -1013,20 +997,20 @@
       "url": "https://open.spotify.com/track/16LYB0chkPiblx33djiNTt"
     },
     {
-      "added_at": "2024-04-16 00:45:21",
+      "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Pink Opaque",
-        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 250800,
-      "name": "Pearly-Dewdrops' Drops - 7\" Version",
-      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+      "duration_ms": 253800,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1077,6 +1061,22 @@
       "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
     },
     {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "The Pink Opaque",
+        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Pearly-Dewdrops' Drops - 7\" Version",
+      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+    },
+    {
       "added_at": "2021-09-28 03:14:02",
       "album": {
         "name": "The B-52's",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Carved In Sand",
-        "url": "https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC"
-      },
-      "artists": [
-        {
-          "name": "The Mission",
-          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
-        }
-      ],
-      "duration_ms": 340800,
-      "name": "Butterfly On A Wheel",
-      "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Carved In Sand",
+        "url": "https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "duration_ms": 340800,
+      "name": "Butterfly On A Wheel",
+      "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Lap Of Luxury",
         "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 187200,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/6A1MJbqxcHvNcT0u9qMqEP"
-    },
-    {
-      "added_at": "2024-04-16 00:45:21",
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Sugar Hiccup",
-      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1207,18 +1191,42 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Symphonicities",
-        "url": "https://open.spotify.com/album/1dpyonY9ev2z5a7rwfERZh"
+        "name": "Revenge - Savage - Peace",
+        "url": "https://open.spotify.com/album/3WftDc3BthlPgQQcj85E7F"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
         }
       ],
-      "duration_ms": 217546,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/6AyMKzLmlnAfsti79lLwth"
+      "duration_ms": 293466,
+      "name": "I Saved the World Today",
+      "url": "https://open.spotify.com/track/5B7LhS5QS3KvttcR165Dgv"
+    },
+    {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Sugar Hiccup",
+      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
     }
   ],
   "unique_name": "Oscuros 80",

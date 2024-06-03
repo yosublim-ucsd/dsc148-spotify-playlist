@@ -4585,6 +4585,32 @@
     },
     {
       "album": {
+        "name": "Burd",
+        "url": "https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05"
+      },
+      "artists": [
+        {
+          "name": "Wilma Vritra",
+          "url": "https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT"
+        },
+        {
+          "name": "Wilma Archer",
+          "url": "https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx"
+        },
+        {
+          "name": "VRITRA",
+          "url": "https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252122,
+      "name": "Harness",
+      "url": "https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf"
+    },
+    {
+      "album": {
         "name": "HORSESHIT ON ROUTE 66",
         "url": "https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF"
       },

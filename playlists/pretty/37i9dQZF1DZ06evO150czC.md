@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 ### [This Is Midian Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO150czC)
 
-> This is Midian Lima\. The essential tracks, all in one playlist.
+> This is Midian Lima\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,580 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,585 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 24 | [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 |
 | 25 | [Eu Vim Te Adorar](https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:37 |
 | 26 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 |
-| 27 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 |
-| 28 | [Deus Proverá](https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B) | [Casa do Oleiro Adoração](https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Proverá](https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC) | 5:10 |
+| 27 | [Deus Proverá](https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B) | [Casa do Oleiro Adoração](https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Proverá](https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC) | 5:10 |
+| 28 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 |
 | 29 | [Grande Dia](https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:35 |
 | 30 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 |
 | 31 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 |
 | 50 | [Nasci Pra Deus](https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Deus](https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg) | 3:26 |
 
-Snapshot ID: `ZlfBgAAAAACTAEM/3v6SqbbjzT9wHfCG`
+Snapshot ID: `ZlpkgAAAAACBVL17PgurFrIcRRoGV4xz`

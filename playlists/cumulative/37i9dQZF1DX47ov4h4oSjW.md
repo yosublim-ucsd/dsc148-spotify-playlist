@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-151 songs - 7 hr 3 min
+152 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,11 @@
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2023-01-26 | 2023-11-24 |
 | [Hold Me Tight](https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Landscapes](https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x) | 4:31 | 2023-01-26 |  |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2023-01-26 |  |
+| [Hymn](https://open.spotify.com/track/68MFyn8QAEd9DknwOj4E9n) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Hymn](https://open.spotify.com/album/2LMgrkLAH33GhIH5EQd6bq) | 2:05 | 2023-03-12 |  |
 | [I Loves You Porgy](https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 5:44 | 2023-01-26 | 2024-04-19 |
 | [In a Bar in Buenos Aires](https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In a Bar in Buenos Aires](https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ) | 2:46 | 2023-03-12 |  |
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2023-03-12 |  |
-| [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 | 2023-03-12 |  |
+| [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 | 2023-03-12 | 2024-06-03 |
 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 | 2023-03-12 |  |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2023-01-26 |  |
 | [Kjæreste](https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Kjæreste](https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm) | 2:23 | 2023-03-12 |  |

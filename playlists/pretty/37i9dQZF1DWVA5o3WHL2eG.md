@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,144 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,147 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
 | 18 | [Nikes](https://open.spotify.com/track/2fKA1WxKe21pQ5o9sh5DKM) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Nikes](https://open.spotify.com/album/5HdAHnEZK7KpND5QeFkm22) | 2:15 |
 | 19 | [hello sunshine](https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [hello sunshine](https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ) | 3:10 |
-| 20 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 |
-| 21 | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/track/2UD1csihq8aPrpM69C2XrW) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/album/7KvmaGO2mmsSHnPLZLUQUw) | 2:44 |
+| 20 | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/track/2UD1csihq8aPrpM69C2XrW) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/album/7KvmaGO2mmsSHnPLZLUQUw) | 2:44 |
+| 21 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 |
 | 22 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
 | 23 | [Fühl](https://open.spotify.com/track/479s4TFZOPLHaxU48yLQS3) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Hush Hush / Hamburg](https://open.spotify.com/album/3K1F9IVCnkC5PvEqTldm2t) | 3:41 |
 | 24 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
 | 30 | [Erste große Freiheit](https://open.spotify.com/track/6V61cAkuLWBbCgUfInCafm) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Erste große Freiheit](https://open.spotify.com/album/7jXxuBaJyejbo3mawvLTex) | 2:21 |
 | 31 | [ich hoff du brichst mir das herz](https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb) | 2:40 |
-| 32 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
-| 33 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
+| 32 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
+| 33 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
 | 34 | [Nicht Ich](https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nicht Ich](https://open.spotify.com/album/7watQnItLt86vUTFSf7259) | 3:41 |
-| 35 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 |
-| 36 | [Neuröschen](https://open.spotify.com/track/2SMLU8tjyEWHPWzML0radC) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Neuröschen](https://open.spotify.com/album/1OZ88NMxxpwQs8PZIfeqZb) | 3:35 |
+| 35 | [Neuröschen](https://open.spotify.com/track/2SMLU8tjyEWHPWzML0radC) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Neuröschen](https://open.spotify.com/album/1OZ88NMxxpwQs8PZIfeqZb) | 3:35 |
+| 36 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 |
 | 37 | [Entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
 | 38 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 |
 | 39 | [MOMENT](https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [MOMENT](https://open.spotify.com/album/4Ufp8bp3X5MZpqmrZ7YSkP) | 4:08 |

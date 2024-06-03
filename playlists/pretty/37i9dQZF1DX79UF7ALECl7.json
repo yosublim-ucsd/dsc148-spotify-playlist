@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121620,
+  "num_followers": 121625,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Gotta Dance",
         "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 197796,
       "name": "Gotta Dance",
       "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Pro's & Con's (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/2tRojFBP52p93DUFiSZ9Lv"
       },
@@ -555,6 +555,26 @@
       "duration_ms": 304440,
       "name": "Pro\u2019s & Con\u2019s - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/17BrcbqJAd1VT7rZHZEGyU"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -627,26 +647,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Electric Visions",
         "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
-      },
-      "artists": [
-        {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 415903,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -731,6 +731,26 @@
       "duration_ms": 182407,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Forms / Objects",
+        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
+      },
+      "artists": [
+        {
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 386508,
+      "name": "Objects",
+      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -783,26 +803,6 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) - Instrumental Version",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Forms / Objects",
-        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
-      },
-      "artists": [
-        {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 386508,
-      "name": "Objects",
-      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Mr. Magic",
         "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
@@ -959,6 +943,38 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
         "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
       },
       "artists": [
         {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
         }
       ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+      "duration_ms": 156774,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 518086,
       "name": "100 Miles",
       "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 280888,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 231593,
       "name": "Do This",
       "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 280888,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Ngoni",
         "url": "https://open.spotify.com/album/0k28lJS2jFSG5xa8rL8vr8"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "I Lost My Way",
         "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 197727,
       "name": "I Lost My Way",
       "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 175711,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
     },
     {
       "added_at": "2024-04-25 22:00:00",

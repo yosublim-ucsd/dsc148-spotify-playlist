@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-189 songs - 8 hr 12 min
+190 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 | 2023-09-21 |  |
 | [Glemt \(100%\)](https://open.spotify.com/track/0zWfkF1N4cV5f76Kqetv7s) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3) | [Glemt \(100%\)](https://open.spotify.com/album/0LeksokzLEyDZQA5szGB9R) | 3:00 | 2024-05-30 | 2024-06-02 |
 | [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 |  |
+| [Goodbye](https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Voksen Mann Uten Slips](https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk) | 2:12 | 2024-05-30 |  |
 | [Hanterar](https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:25 | 2024-02-08 | 2024-03-22 |
 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 | 2023-09-21 | 2024-06-01 |
 | [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 | 2024-06-01 |
@@ -186,7 +187,7 @@
 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 | 2024-01-11 |  |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-09-21 | 2024-06-01 |
 | [Ville Dyr](https://open.spotify.com/track/6bdcLY8p5bhQEzrhSPerO5) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Kris Winther](https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Ville Dyr](https://open.spotify.com/album/5cjuG3dO5EoojY1X8Oyf1K) | 2:11 | 2024-03-28 |  |
-| [Vinger](https://open.spotify.com/track/7BkyoFdsGMAnQV5vqkWZMO) | [Klovner I Kamp](https://open.spotify.com/artist/4CSD8L9KIPNIYFaUQPgENh) | [Vinger](https://open.spotify.com/album/53v8emy0eFizz1cfE8KM48) | 2:39 | 2024-05-30 |  |
+| [Vinger](https://open.spotify.com/track/7BkyoFdsGMAnQV5vqkWZMO) | [Klovner I Kamp](https://open.spotify.com/artist/4CSD8L9KIPNIYFaUQPgENh) | [Vinger](https://open.spotify.com/album/53v8emy0eFizz1cfE8KM48) | 2:39 | 2024-05-30 | 2024-06-03 |
 | [WAKA WAKA](https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 | 2023-09-21 | 2024-06-01 |
 | [We Lit](https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Kod Röd](https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH) | 2:33 | 2024-01-11 | 2024-02-09 |
 | [Welou \(Better Days\)](https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Bland Sagor & Vapen: Del 1](https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu) | 2:35 | 2024-05-30 |  |

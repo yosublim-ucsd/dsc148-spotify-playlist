@@ -1,6 +1,6 @@
 {
   "description": "Stripped back recordings like nothing you\u2019ve heard before.  Cover: FINNEAS. ",
-  "num_followers": 162971,
+  "num_followers": 162998,
   "original_name": "Spotify Singles: Stripped",
   "owner": {
     "name": "Spotify",
@@ -260,6 +260,22 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228460,
+      "name": "Delicate - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
       "artists": [
@@ -307,22 +323,6 @@
       "duration_ms": 273506,
       "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228460,
-      "name": "Delicate - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -444,22 +444,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 111050,
-      "name": "Nothing from Nothing - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
       },
       "artists": [
@@ -471,6 +455,22 @@
       "duration_ms": 228506,
       "name": "Love Me Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 111050,
+      "name": "Nothing from Nothing - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -672,22 +672,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "2002 - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
       },
       "artists": [
@@ -699,6 +683,22 @@
       "duration_ms": 346397,
       "name": "Hallelujah - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 192146,
+      "name": "2002 - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1412,22 +1412,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "Normal - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL"
       },
       "artists": [
@@ -1443,6 +1427,22 @@
       "duration_ms": 199617,
       "name": "Need Your Love (feat. Noah Kahan) - Recorded at Electric Lady Studios, NYC",
       "url": "https://open.spotify.com/track/5ViQpaAk3MlvdGPctEUNTw"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 211879,
+      "name": "Normal - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1596,26 +1596,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Love Is Here To Stay - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
@@ -1643,6 +1623,26 @@
       "duration_ms": 277113,
       "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Love Is Here To Stay - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla"
     }
   ],
   "unique_name": "Spotify Singles: Stripped",

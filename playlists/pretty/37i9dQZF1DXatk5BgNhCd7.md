@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Luck Ra, Maluma y KHEA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,273 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,294 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 6 | [Morenita](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Paradise Inc.](https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka) | [Morenita](https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr) | 2:58 |
 | 7 | [No Le Cuentes](https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Le Cuentes](https://open.spotify.com/album/6c7vDgCjz0dGtefj7j3Lw1) | 3:43 |
 | 8 | [Latidos](https://open.spotify.com/track/5DtNvoodq0pZB9gSKJpS4k) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Latidos](https://open.spotify.com/album/45oMswDzOSdZDxhkGjKZ2n) | 4:01 |
-| 9 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 |
+| 9 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ovidio Granados](https://open.spotify.com/artist/7291PPngS2iCpyTpC6Kw5C) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 |
 | 10 | [Primera Cita](https://open.spotify.com/track/1i3JiF39TkZNZ9qQJSjGB8) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Primera Cita](https://open.spotify.com/album/7mNw8iT6zKXf1s1NFGC4Bc) | 2:52 |
 | 11 | [Todo Comenzo Bailando \- En Vivo](https://open.spotify.com/track/45mfsCdX1JSyRF1MXetIhk) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [En Vivo en el Antel Arena](https://open.spotify.com/album/0DR7WNLYFXVX4Is57J1JSd) | 3:17 |
 | 12 | [Traición](https://open.spotify.com/track/7dRD7eBLIglu0VkXBhy1Nm) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Desengaños](https://open.spotify.com/album/4jJOwvSGnBDyU7rQtGhbet) | 3:35 |

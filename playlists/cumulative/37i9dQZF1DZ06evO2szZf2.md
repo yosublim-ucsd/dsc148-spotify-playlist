@@ -2,9 +2,9 @@
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. The essential tracks, all in one playlist.
+> This Is Mc Dricka\. Los temas esenciales, todos en una lista.
 
-69 songs - 4 hr 16 min
+70 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Soca Com Pressão](https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG) | [Mc Troia](https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV), [Mc Terror](https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Soca Com Pressão](https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3) | 2:20 | 2023-12-30 |  |
 | [Soca na ßucetinhα](https://open.spotify.com/track/6J43L6MUDnYGczwT6FZ0tk) | [Radar Phonk](https://open.spotify.com/artist/5Ao9A6BPmZOba67uGkcFpE), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Lon do Pantanal](https://open.spotify.com/artist/285tlYw4FEmJiMODTzNrb2) | [Soca na ßucetinhα](https://open.spotify.com/album/35InzOxcUrwCoaU8yEQ52B) | 2:15 | 2023-12-30 | 2024-03-06 |
 | [Só Socando Dentro](https://open.spotify.com/track/1Nf8QP9ecfeV0szrZljTH1) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o) | [Só Socando Dentro](https://open.spotify.com/album/1AA2FXHuJpyGP2LccwWzhX) | 2:16 | 2023-12-30 | 2024-03-17 |
+| [Ta Enganando A Cliente](https://open.spotify.com/track/4YPYDrccRMnTZXF4jg7C8u) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Ta Enganando A Cliente](https://open.spotify.com/album/7k5mdqVpws1Jh2Fz5fIYxI) | 2:38 | 2024-06-03 |  |
 | [To Solteira, É Só Bailão](https://open.spotify.com/track/742BRDNTf72lH6GSdJocW0) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ LC MARTINS](https://open.spotify.com/artist/2M1LWSbBSx7g1SkZQnmk35) | [To Solteira, É Só Bailão](https://open.spotify.com/album/7v0IJOaRrAi2XU5szVyqDj) | 1:54 | 2023-12-30 | 2024-02-01 |
 | [Tropa do BL](https://open.spotify.com/track/6MWdJAwbIv6OmynH3BJqRn) | [Mc Binn](https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE), [Mc 7 Belo](https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD) | [Tropa do BL](https://open.spotify.com/album/02PGdzDAXYzsOzp9ucTwqv) | 2:44 | 2024-02-03 | 2024-05-17 |
 | [Tô Solteiro É Só Bailão](https://open.spotify.com/track/5xN9BzkEmwEXGRfBc4UnRv) | [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Julho](https://open.spotify.com/album/2U11n8cKDtqAPX9vwexbHk) | 2:30 | 2023-12-30 | 2024-04-05 |

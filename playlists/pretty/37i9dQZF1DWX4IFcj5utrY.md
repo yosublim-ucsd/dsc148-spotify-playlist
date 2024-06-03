@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX?si=Oz5Qj\_hrQQynmCH8c7sGrQ">Shimza</a>, <a href="https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP?si=xVUBPoEhR1a74PeQTVed\_A">Rachel Chinouriri</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,579 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,585 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

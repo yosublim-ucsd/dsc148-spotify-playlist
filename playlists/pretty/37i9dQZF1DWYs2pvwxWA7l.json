@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Ayra Starr",
-  "num_followers": 568360,
+  "num_followers": 568618,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -235,42 +235,6 @@
     {
       "added_at": "2024-05-31 05:04:39",
       "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
-    },
-    {
-      "added_at": "2024-05-31 05:04:39",
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": "2024-05-31 05:04:39",
-      "album": {
         "name": "Yimmy Yimmy",
         "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
@@ -299,6 +263,26 @@
     {
       "added_at": "2024-05-31 05:04:39",
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2024-05-31 05:04:39",
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2024-05-31 05:04:39",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "added_at": "2024-05-31 05:04:39",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-05-31 05:04:39",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
+    },
+    {
+      "added_at": "2024-05-31 05:04:39",
+      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2024-05-31 05:04:39",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 140166,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
-    },
-    {
-      "added_at": "2024-05-31 05:04:39",
-      "album": {
         "name": "Big FU",
         "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
       },
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-05-31 05:04:39",
       "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/6dqt5Ig79hptlp4yPQAv9M"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
-        }
-      ],
-      "duration_ms": 147857,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
-    },
-    {
-      "added_at": "2024-05-31 05:04:39",
-      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 231213,
       "name": "Le contrat",
       "url": "https://open.spotify.com/track/3WJ8cQFEBFBUbU1yl3lVMA"
+    },
+    {
+      "added_at": "2024-05-31 05:04:39",
+      "album": {
+        "name": "Element",
+        "url": "https://open.spotify.com/album/6dqt5Ig79hptlp4yPQAv9M"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 147857,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
     },
     {
       "added_at": "2024-05-31 05:04:39",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-05-31 05:04:39",
       "album": {
-        "name": "KATIGORI/PIANO",
-        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "KATIGORI",
-      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
-    },
-    {
-      "added_at": "2024-05-31 05:04:39",
-      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 231151,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
+    },
+    {
+      "added_at": "2024-05-31 05:04:39",
+      "album": {
+        "name": "KATIGORI/PIANO",
+        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "KATIGORI",
+      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
     },
     {
       "added_at": "2024-05-31 05:04:39",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-05-31 05:04:39",
       "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "added_at": "2024-05-31 05:04:39",
+      "album": {
         "name": "Men Are Crazy",
         "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 167755,
       "name": "Dalilah",
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
-    },
-    {
-      "added_at": "2024-05-31 05:04:39",
-      "album": {
-        "name": "January 9th",
-        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 222881,
-      "name": "January 9th",
-      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
     },
     {
       "added_at": "2024-05-31 05:04:39",

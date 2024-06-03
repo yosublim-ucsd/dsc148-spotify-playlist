@@ -1,12 +1,12 @@
 {
   "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
-  "num_followers": 259009,
+  "num_followers": 259259,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABhBOWZu95D+Dkc5/zx7yQi",
+  "snapshot_id": "ZlpkgAAAAACjVu1HNDsnrq5A/A1C7fmK",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3zcccQe4KhGXRqRBUwGU3G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -111,24 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3zcccQe4KhGXRqRBUwGU3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5",
-        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 257733,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get You Off My Mind",
-      "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -191,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
       "artists": [
         {
@@ -200,25 +184,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lenny",
-        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Stillness Of Heart",
-      "url": "https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92"
+      "duration_ms": 274000,
+      "name": "Can't Get You Off My Mind",
+      "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
     },
     {
       "added_at": null,
@@ -239,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
@@ -251,22 +235,6 @@
       "duration_ms": 297301,
       "name": "The Chamber",
       "url": "https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TK421",
-        "url": "https://open.spotify.com/album/61cdO9Uj40jzlDGuzrO7Lv"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "TK421 - Single Version",
-      "url": "https://open.spotify.com/track/1yrk5j7MegvbBqXnsQgw1I"
     },
     {
       "added_at": null,
@@ -307,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Stand By My Woman",
+      "url": "https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 327378,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Is Time For A Love Revolution",
         "url": "https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb"
       },
@@ -355,38 +355,6 @@
       "duration_ms": 259186,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 215983,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/1M0uguPWc1ncUhV6iZOoXS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
     },
     {
       "added_at": null,
@@ -407,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
@@ -416,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+      "duration_ms": 294693,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
     },
     {
       "added_at": null,
@@ -432,9 +400,25 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 306378,
-      "name": "Bundle of Joy",
-      "url": "https://open.spotify.com/track/4dNqV9k2uMEccSRlrjSjzh"
+      "duration_ms": 215983,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/1M0uguPWc1ncUhV6iZOoXS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 306378,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/4dNqV9k2uMEccSRlrjSjzh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lenny",
         "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 280973,
       "name": "Believe In Me",
       "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 273790,
-      "name": "Spirit in My Heart",
-      "url": "https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 273790,
+      "name": "Spirit in My Heart",
+      "url": "https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 156866,
       "name": "California",
       "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 227833,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/6WCecolVt0VmyXdXKNP4tT"
     },
     {
       "added_at": null,
@@ -827,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
       },
       "artists": [
         {
@@ -836,9 +820,25 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 255573,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "We Can Get It All Together",
+      "url": "https://open.spotify.com/track/4VCvcqaN8JZUtArycNezHm"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

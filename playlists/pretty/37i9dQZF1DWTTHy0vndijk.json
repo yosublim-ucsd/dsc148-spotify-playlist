@@ -1,6 +1,6 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: NewJeans (\ub274\uc9c4\uc2a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 522068,
+  "num_followers": 522071,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -175,54 +191,6 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 166384,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 140021,
-      "name": "Lucky Girl Syndrome",
-      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
         "name": "Russian Roulette - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
       },
@@ -251,6 +219,70 @@
       "duration_ms": 214253,
       "name": "LILAC",
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 140021,
+      "name": "Lucky Girl Syndrome",
+      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -287,22 +319,6 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "I GOT YOU",
-        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 173240,
-      "name": "I GOT YOU",
-      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+      "duration_ms": 191139,
+      "name": "Red Flavor",
+      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -363,22 +379,6 @@
       "duration_ms": 205373,
       "name": "After School",
       "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 191139,
-      "name": "Red Flavor",
-      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -427,6 +427,22 @@
       "duration_ms": 107463,
       "name": "My World",
       "url": "https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -495,22 +511,6 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
         "name": "Roller Coaster",
         "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "STEREOTYPE",
-        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 191695,
-      "name": "STEREOTYPE",
-      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
         "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
         "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 191695,
+      "name": "STEREOTYPE",
+      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "YOUNG-LUV.COM",
-        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 213426,
-      "name": "RUN2U",
-      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+      "duration_ms": 194600,
+      "name": "SCIENTIST",
+      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -667,22 +667,6 @@
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "SCIENTIST",
-      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -723,18 +707,18 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
-        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
       },
       "artists": [
         {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
         }
       ],
-      "duration_ms": 220745,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
+      "duration_ms": 213426,
+      "name": "RUN2U",
+      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -759,6 +743,22 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
+        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
+        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 220745,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
         "name": "Hello - Special Album",
         "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
       },
@@ -771,54 +771,6 @@
       "duration_ms": 218880,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
-        "name": "<Pre 3 : Candy Crush>",
-        "url": "https://open.spotify.com/album/4CDFBhhclanfS0KglX7MWX"
-      },
-      "artists": [
-        {
-          "name": "ARTMS",
-          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Candy Crush",
-      "url": "https://open.spotify.com/track/13ykJ1EkyTbiUIpj9WVaNe"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
-        "name": "Fun to The World",
-        "url": "https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        }
-      ],
-      "duration_ms": 208474,
-      "name": "BAAM",
-      "url": "https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW"
-    },
-    {
-      "added_at": "2024-05-27 12:54:05",
-      "album": {
-        "name": "Fancy - Spotify Singles",
-        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 193277,
-      "name": "Fancy - Spotify Singles",
-      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -839,6 +791,22 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
+        "name": "<Pre 3 : Candy Crush>",
+        "url": "https://open.spotify.com/album/4CDFBhhclanfS0KglX7MWX"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Candy Crush",
+      "url": "https://open.spotify.com/track/13ykJ1EkyTbiUIpj9WVaNe"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
         "name": "With YOU-th",
         "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
       },
@@ -855,6 +823,22 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
+        "name": "Fun to The World",
+        "url": "https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 208474,
+      "name": "BAAM",
+      "url": "https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
         "name": "Could It Be",
         "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 189786,
       "name": "Could It Be",
       "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
+    },
+    {
+      "added_at": "2024-05-27 12:54:05",
+      "album": {
+        "name": "Fancy - Spotify Singles",
+        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Fancy - Spotify Singles",
+      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
       "added_at": "2024-05-27 12:54:05",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-05-27 12:54:05",
       "album": {
-        "name": "TEENFRESH",
-        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+        "name": "<Pre 4 : Air>",
+        "url": "https://open.spotify.com/album/6LuU1ePuYgNV6Rltq4OAcf"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
         }
       ],
-      "duration_ms": 179275,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
+      "duration_ms": 147360,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/0E2NCsPqw2jMpBuui126Uo"
     }
   ],
   "unique_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",

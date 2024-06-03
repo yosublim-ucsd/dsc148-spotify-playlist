@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Siickbrain
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,444 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,489 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 40 | [Life In America](https://open.spotify.com/track/0oclccMyKK9yhQdwZbEfrO) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Life In America](https://open.spotify.com/album/13N2gLTqITkQE3VHReLngI) | 2:41 |
 | 41 | [Let You Go](https://open.spotify.com/track/6XJuT9HkJxm4Sgg4ydp8vQ) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [Let You Go](https://open.spotify.com/album/4WVjm5vdpllOEpBm841rIs) | 3:35 |
 | 42 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |
-| 43 | [Caught It \(with Chrissy Costanza & Against the Current\)](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against the Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 |
+| 43 | [Caught It](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against The Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 |
 | 44 | [Raincoat](https://open.spotify.com/track/3rINJNnwaopXb1Y9TWhxCD) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Raincoat](https://open.spotify.com/album/3uA7y6MSBtMh16QFaMw43H) | 2:34 |
 | 45 | [LOVE U ANYWAY](https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [LOVE U ANYWAY](https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf) | 2:56 |
 | 46 | [Sungazer](https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Sungazer](https://open.spotify.com/album/33m5p7mMPChIrI8GPwcpoA) | 3:00 |

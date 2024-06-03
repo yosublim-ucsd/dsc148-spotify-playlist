@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8152,
+  "num_followers": 8150,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Primeiro Natal",
-        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "O Primeiro Natal",
-      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Natal",
         "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 193000,
       "name": "Vem Chegando o Natal",
       "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Primeiro Natal",
+        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "O Primeiro Natal",
+      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
     }
   ],
   "unique_name": "Louvores de Natal",

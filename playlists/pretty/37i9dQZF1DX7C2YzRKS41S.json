@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 119185,
+  "num_followers": 119241,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
-    },
-    {
-      "added_at": "2024-05-30 22:04:32",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2024-05-30 22:04:32",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
     },
     {
       "added_at": "2024-05-30 22:04:32",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 252960,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2024-05-30 22:04:32",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "Mr. Forgettable",
-        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Mr. Forgettable",
-      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
-    },
-    {
-      "added_at": "2024-05-30 22:04:32",
-      "album": {
         "name": "Mariana Nolasco Sessions 2",
         "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
+        "name": "Mr. Forgettable",
+        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Mr. Forgettable",
+      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
+    },
+    {
+      "added_at": "2024-05-30 22:04:32",
+      "album": {
         "name": "Eu Feat. Voc\u00ea",
         "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
       },
@@ -495,6 +495,26 @@
       "duration_ms": 214249,
       "name": "Cabelo De Anjo",
       "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
+    },
+    {
+      "added_at": "2024-05-30 22:04:32",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Who You Love (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
     },
     {
       "added_at": "2024-05-30 22:04:32",
@@ -547,26 +567,6 @@
       "duration_ms": 186125,
       "name": "Good People",
       "url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK"
-    },
-    {
-      "added_at": "2024-05-30 22:04:32",
-      "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Who You Love (feat. Katy Perry)",
-      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
     },
     {
       "added_at": "2024-05-30 22:04:32",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"
+    },
+    {
+      "added_at": "2024-05-30 22:04:32",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
       },
@@ -719,38 +735,6 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
-    },
-    {
-      "added_at": "2024-05-30 22:04:32",
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Shot in the Dark",
-      "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"
-    },
-    {
-      "added_at": "2024-05-30 22:04:32",
-      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 200000,
       "name": "Some Type Of Skin - Acoustic",
       "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
+    },
+    {
+      "added_at": "2024-05-30 22:04:32",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2024-05-30 22:04:32",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-05-30 22:04:32",
       "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+        "name": "Did You Hear the Rain?",
+        "url": "https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 202813,
-      "name": "Roll it on Home",
-      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
+      "duration_ms": 202120,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

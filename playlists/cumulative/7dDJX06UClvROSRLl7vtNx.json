@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 148200,
       "name": "All We Need Is Us",
       "url": "https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn"
@@ -1225,6 +1225,32 @@
     },
     {
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/3gXHjpxAOIY7S3BczNKDeq"
+      },
+      "artists": [
+        {
+          "name": "Tripton",
+          "url": "https://open.spotify.com/artist/3vIZaGKxTpq9QyknvvpIH1"
+        },
+        {
+          "name": "JAIKO",
+          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
+        },
+        {
+          "name": "Namt\u00e9",
+          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175797,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/0ONuv4rQSS2Td8tZh9gSfF"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1tmjTej23PLm4d9zJQvMNj"
       },
@@ -1652,7 +1678,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 171250,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/0iWBKHMLAhoUfSDXVnBKt4"
@@ -3268,7 +3294,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 154500,
       "name": "I Could Be The One",
       "url": "https://open.spotify.com/track/2bjAXkuz5CGTcoIRnifM0x"
@@ -5564,6 +5590,36 @@
       "duration_ms": 201929,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1mkTvuWn9G1M38zsem7gKC"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/7vYdJ6DbdAzm2yCSx8MztG"
+      },
+      "artists": [
+        {
+          "name": "Embl\u00e8",
+          "url": "https://open.spotify.com/artist/7BmOUNMC8ZJhZEBmdFiqMC"
+        },
+        {
+          "name": "Sander W.",
+          "url": "https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj"
+        },
+        {
+          "name": "Freddie George",
+          "url": "https://open.spotify.com/artist/0tsLxQb8GcU6RJbz7diSzY"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162120,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6mJtwYbdx6zmMxpvLndhBA"
     },
     {
       "album": {
@@ -8218,6 +8274,24 @@
       "duration_ms": 136111,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Bh9yee1RRVyksKctBm0F6"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/2OMqtcnZWFytJDuPZcQMpW"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131439,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5BSkWQR6E7Cl1XXM6bqQeF"
     },
     {
       "album": {

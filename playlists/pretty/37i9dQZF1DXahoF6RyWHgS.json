@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica tradicional y deliciosa! \ud83c\udf45\ud83c\udf36\ufe0f\ud83c\udf72\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udf73",
-  "num_followers": 43507,
+  "num_followers": 43513,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "Floricanto",
-      "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Sympathique",
         "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
       },
@@ -267,22 +251,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8"
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
       "artists": [
         {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
         }
       ],
-      "duration_ms": 257786,
-      "name": "Regi Bugal\u00fa",
-      "url": "https://open.spotify.com/track/6d6HIp4JZDSSgd3u2ilHqy"
+      "duration_ms": 250360,
+      "name": "Floricanto",
+      "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -299,6 +279,26 @@
       "duration_ms": 146680,
       "name": "La Danza de los Simpsons",
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Regi Bugal\u00fa",
+      "url": "https://open.spotify.com/track/6d6HIp4JZDSSgd3u2ilHqy"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Mongo Santamaria's Greatest Hits",
@@ -639,6 +623,22 @@
       "duration_ms": 194466,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "La Reina de Veracruz",
+        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 165982,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Luaka Bop Remix",
         "url": "https://open.spotify.com/album/7uNWWbWA8GKZBky6KYxIvT"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 166813,
       "name": "Afro Blue - Koop Remix",
       "url": "https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "La Reina de Veracruz",
-        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 165982,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Mar\u00eda Cristina (Remastered)",
+        "url": "https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ico Saquito",
+          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
+        }
+      ],
+      "duration_ms": 158467,
+      "name": "Maria Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "The Power of the Latin Music",
         "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 283973,
       "name": "Mambo Los Quantic",
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Mar\u00eda Cristina (Remastered)",
-        "url": "https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ico Saquito",
-          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
-        }
-      ],
-      "duration_ms": 158467,
-      "name": "Maria Cristina - Remastered",
-      "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Los Originales Vol. 3",
-        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz y La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
-        }
-      ],
-      "duration_ms": 157352,
-      "name": "Caramelos",
-      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Guapapasea!",
         "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 331293,
       "name": "Limon En La Cabeza",
       "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Los Originales Vol. 3",
+        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz y La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
+        }
+      ],
+      "duration_ms": 157352,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "The Complete 78s Volume IV",
         "url": "https://open.spotify.com/album/6qCccqKzNPWnQwP0jTGgYK"
       },
@@ -1585,22 +1601,6 @@
       "url": "https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Serie De Colecci\u00f3n 15 Aut\u00e9nticos \u00c9xitos",
-        "url": "https://open.spotify.com/album/4RN5IHsk0sNkUpG8ELO633"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Por Las Calles De M\u00e9xico",
-      "url": "https://open.spotify.com/track/3GKrRfIER0czGwKHuTSnMD"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Cuba",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Serie De Colecci\u00f3n 15 Aut\u00e9nticos \u00c9xitos",
+        "url": "https://open.spotify.com/album/4RN5IHsk0sNkUpG8ELO633"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Por Las Calles De M\u00e9xico",
+      "url": "https://open.spotify.com/track/3GKrRfIER0czGwKHuTSnMD"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "March of the Zapotec & Realpeople: Holland",
         "url": "https://open.spotify.com/album/7Kub5Byrb3ZLkcCmfODDfy"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 216413,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/6wLJjaPujX9AXNvq6OZdDj"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
     },
     {
       "added_at": "2020-05-28 20:45:13",

@@ -2,7 +2,7 @@
 
 ### [This Is Ramin Djawadi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
 
-> This Is Ramin Djawadi\. Los temas esenciales, todos en una lista.
+> This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 55 min
 
@@ -14,7 +14,7 @@
 | [An Impossible Choice](https://open.spotify.com/track/793D3U2TMPyTgwWlY2cDup) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:34 | 2024-04-04 |  |
 | [Blood of My Blood](https://open.spotify.com/track/7kMr7gQm5lzvwlc5VZHgMO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:35 | 2024-04-04 |  |
 | [Blood of the Dragon](https://open.spotify.com/track/0Y7n1RE7g1kkPc6CQCdfuO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ) | 1:33 | 2024-04-04 | 2024-05-29 |
-| [Brotherhood of Steel \(Full Version\)](https://open.spotify.com/track/1llOaeeKxiCra9QvwXCJNf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout \(Original Amazon Series Soundtrack\)](https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr) | 6:27 | 2024-05-02 |  |
+| [Brotherhood of Steel \(Full Version\)](https://open.spotify.com/track/1llOaeeKxiCra9QvwXCJNf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout \(Original Amazon Series Soundtrack\)](https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr) | 6:27 | 2024-05-02 | 2024-06-03 |
 | [Bulletproof](https://open.spotify.com/track/0yySiTbX2RhrPnqWYyrPC1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [3 Body Problem \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6VhG7xEPrBO3YjmQj9OcUn) | 3:15 | 2024-04-04 | 2024-04-14 |
 | [Dark Wings, Dark Words](https://open.spotify.com/track/2YZy9wVrWyWIGJK7LsJbgZ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:47 | 2024-04-04 |  |
 | [Dr\. Ford](https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:30 | 2024-04-04 |  |
@@ -57,7 +57,7 @@
 | [The Winds of Winter](https://open.spotify.com/track/0wXNnmvuTP0jPMpAXakSs8) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:29 | 2024-04-04 |  |
 | [This World](https://open.spotify.com/track/0gXXLzNzgXK8WkgVDKG3Kw) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 2:29 | 2024-04-04 |  |
 | [Truth](https://open.spotify.com/track/5QKK7785dSYrutocW7lGub) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 3:31 | 2024-04-04 |  |
-| [Two Swords](https://open.spotify.com/track/4195MldSyGNuWsI6zb2qrv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl) | 1:49 | 2024-04-04 | 2024-06-01 |
+| [Two Swords](https://open.spotify.com/track/4195MldSyGNuWsI6zb2qrv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl) | 1:49 | 2024-04-04 |  |
 | [Warcraft](https://open.spotify.com/track/3EGMNVARma3sKEkFpxHOcy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Warcraft \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CAWtwdA53h3WxCk1sdt0r) | 1:58 | 2024-04-04 |  |
 | [Winter Has Come](https://open.spotify.com/track/4Idmj8R6EpEmAJ3YMP3Lut) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:14 | 2024-04-04 |  |
 | [Winter Is Here](https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:54 | 2024-04-04 |  |

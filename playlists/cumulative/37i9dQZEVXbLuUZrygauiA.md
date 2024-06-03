@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,971 songs - 4 day 10 hr 16 min
+1,972 songs - 4 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,7 +1187,7 @@
 | [no es q no te quiera](https://open.spotify.com/track/2e5J7PKRE7cOfoQRRQh89B) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [no es q no te quiera](https://open.spotify.com/album/0XLGCrKjffEeavrYgGYm7Q) | 2:47 | 2023-02-05 | 2023-02-17 |
 | [No Es Que Me Quiera Ir](https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Es Que Me Quiera Ir](https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl) | 4:04 | 2023-06-13 | 2023-06-21 |
 | [No Hay Ley Parte 2 \(with Rauw Alejandro\)](https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:08 | 2024-01-30 | 2024-02-01 |
-| [No Mastico Culebras](https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [No Mastico Culebras](https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW) | 2:14 | 2024-05-28 |  |
+| [No Mastico Culebras](https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [No Mastico Culebras](https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW) | 2:14 | 2024-05-28 | 2024-06-03 |
 | [No Me Conformo](https://open.spotify.com/track/6t8OjozDxyWUprWqIB58IT) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt) | [No Me Conformo](https://open.spotify.com/album/60qMDnkh443HxIVbZRImIu) | 4:41 | 2022-08-31 | 2022-10-05 |
 | [No Me Importa \(feat\. Lucía Méndez, Laura Zapata, Sylvia Pasquel & Lorena Herrera\)](https://open.spotify.com/track/0GNS4001wZN2GDL78JHN9l) | [Siempre Reinas](https://open.spotify.com/artist/0En2HhuY3WkC8OrYqLxnZR), [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN), [Laura Zapata](https://open.spotify.com/artist/6mrYMZ47BCXUn61bCYc9Ng), [Sylvia Pasquel](https://open.spotify.com/artist/5fBzR1eqlQZp88aKMcjm94), [Lorena Herrera](https://open.spotify.com/artist/29RE8ZVb7M2uOGLDtxCR57) | [No Me Importa \(feat\. Lucía Méndez, Laura Zapata, Sylvia Pasquel & Lorena Herrera\)](https://open.spotify.com/album/4juQp66mm3Z76zfTeAtK9f) | 3:06 | 2022-11-01 | 2022-11-16 |
 | [no me siento mejor](https://open.spotify.com/track/0cmqX0poMxkZKzEFTafA5o) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [no me siento mejor](https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr) | 3:03 | 2024-03-12 | 2024-04-07 |
@@ -1328,6 +1328,7 @@
 | [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-11 | 2022-10-30 |
 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 | 2023-08-01 | 2023-08-07 |
 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 | 2022-10-25 | 2022-11-02 |
+| [Pidete una miche](https://open.spotify.com/track/6krHxbyXhsPxQzZt5KkPP8) | [TRP MUSIC](https://open.spotify.com/artist/6Zl1wLmYB9zHu3fVpdsMqy) | [Pidete una miche](https://open.spotify.com/album/6q3Lfuc0a5nwVfkJGyyerM) | 1:35 | 2024-06-02 |  |
 | [Pieces](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Pieces](https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj) | 3:16 | 2023-04-16 | 2023-04-23 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-03-16 | 2024-04-22 |
 | [Piensa en Mi](https://open.spotify.com/track/4Y0C95WSGxcuNVCbealJvw) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Piensa en Mi](https://open.spotify.com/album/1YC7xdhB97jSwGkHllnBsn) | 3:12 | 2023-02-07 | 2023-02-15 |

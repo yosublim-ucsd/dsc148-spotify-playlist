@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+        "url": "https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245019,
+      "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc"
+    },
+    {
+      "album": {
         "name": "\u9b54\u6cd5\u79d1\u9ad8\u6821\u306e\u52a3\u7b49\u751f\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u30002",
         "url": "https://open.spotify.com/album/4vOTV64OsmSYWSxL7a1dRE"
       },

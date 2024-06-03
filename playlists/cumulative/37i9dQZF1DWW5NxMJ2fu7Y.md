@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-71 songs - 4 hr 1 min
+72 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 | 2024-02-29 |  |
 | [Pay No Mind](https://open.spotify.com/track/0pi2GFDC2vil6vNBnrAfIs) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Pay No Mind](https://open.spotify.com/album/1ifgTPxQGemh21M0crASb2) | 3:28 | 2024-02-29 |  |
 | [Pique](https://open.spotify.com/track/5Vjltk6vzyv7TIy7efAYUe) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Pique](https://open.spotify.com/album/1qbpzPEsfyjdAdpvK1hEbm) | 2:24 | 2024-02-29 |  |
+| [RABAT CITY JAZZ](https://open.spotify.com/track/766cFs4xFfSYwQrd8mL9qR) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RABAT CITY JAZZ](https://open.spotify.com/album/7ETrE6QoExiN4sBkfW429E) | 3:29 | 2024-06-02 |  |
 | [ROUTINE](https://open.spotify.com/track/3eIJC1PibL9VQHOMGpf9Ut) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:27 | 2024-02-29 |  |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2024-02-29 |  |
 | [Sac](https://open.spotify.com/track/6x8BmqYKINbm7GFyVABsFH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0XXLHVehTykkYO9z1Ool7o) | 3:16 | 2024-02-29 | 2024-04-19 |

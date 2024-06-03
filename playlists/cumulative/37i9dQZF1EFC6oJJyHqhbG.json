@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/4ktEalgq8mxTvvWcgZdG58"
+    },
+    {
+      "album": {
         "name": "American Girl",
         "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
       },
@@ -78,7 +96,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 224106,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
@@ -509,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205928,
+      "name": "Electric Heaven",
+      "url": "https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq"
+    },
+    {
+      "album": {
         "name": "Erase",
         "url": "https://open.spotify.com/album/6ZB0iifdGX1JzZhwoujZIv"
       },
@@ -528,6 +564,24 @@
       "duration_ms": 204466,
       "name": "Erase",
       "url": "https://open.spotify.com/track/7qiLJPzgKNFAM7WsSSOffu"
+    },
+    {
+      "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219073,
+      "name": "Everything but You",
+      "url": "https://open.spotify.com/track/0Ev9jxRhaY7YzxSh2fhMWj"
     },
     {
       "album": {
@@ -858,6 +912,24 @@
     {
       "album": {
         "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219508,
+      "name": "Hot City",
+      "url": "https://open.spotify.com/track/4DIvT0zt7SZV8IrR1kgIaE"
+    },
+    {
+      "album": {
+        "name": "Hot City",
         "url": "https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a"
       },
       "artists": [
@@ -868,7 +940,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 221769,
       "name": "Hot City",
       "url": "https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX"
@@ -1075,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Jenny's Got a Boyfriend",
+      "url": "https://open.spotify.com/track/2LFs5g1oRjTihMarELyONl"
+    },
+    {
+      "album": {
         "name": "Jenny's Got a Boyfriend",
         "url": "https://open.spotify.com/album/0A2n5x2LuzK2wX8YvO0JaA"
       },
@@ -1086,7 +1176,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 193333,
       "name": "Jenny's Got a Boyfriend",
       "url": "https://open.spotify.com/track/7Eo5lYaWdWryD6uhZT7aZb"
@@ -1748,10 +1838,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 219464,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak"
+    },
+    {
+      "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219464,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/7Hp2t5OemFEaAErohHYo4t"
     },
     {
       "album": {
@@ -1784,10 +1892,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 241904,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/0XjudwHx3iUrMlw52Lty59"
+    },
+    {
+      "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244761,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1bYhaTsQXQq7uTjQ1pIPFa"
     },
     {
       "album": {
@@ -1831,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287988,
+      "name": "Stars in Your Heart",
+      "url": "https://open.spotify.com/track/2sY3vFxiV9EQfVopuo7iwZ"
+    },
+    {
+      "album": {
         "name": "Stars in Your Heart",
         "url": "https://open.spotify.com/album/3QmZ6o9hTaFq8bo2HaBUX4"
       },
@@ -1842,7 +1986,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 288279,
       "name": "Stars in Your Heart",
       "url": "https://open.spotify.com/track/5eRBVwiHcwWVaibGQRxj8T"
@@ -2352,6 +2496,24 @@
       "duration_ms": 216160,
       "name": "Wish U Were Here - Acoustic",
       "url": "https://open.spotify.com/track/4812NLW48dCoABairmUF0p"
+    },
+    {
+      "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222223,
+      "name": "Worst in Me",
+      "url": "https://open.spotify.com/track/4trfqZ3V0XpLvPL6h6Wr2s"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 60317,
+  "num_followers": 60343,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -951,50 +951,6 @@
     {
       "added_at": "2024-05-10 15:07:48",
       "album": {
-        "name": "Confliction",
-        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
-      },
-      "artists": [
-        {
-          "name": "CrossBreed",
-          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
-        },
-        {
-          "name": "MTD",
-          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Confliction",
-      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
-    },
-    {
-      "added_at": "2024-05-10 15:07:48",
-      "album": {
-        "name": "OH SHIT",
-        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Dreps",
-          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "OH SHIT",
-      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
-    },
-    {
-      "added_at": "2024-05-10 15:07:48",
-      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -1027,6 +983,30 @@
     {
       "added_at": "2024-05-10 15:07:48",
       "album": {
+        "name": "Confliction",
+        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
+      },
+      "artists": [
+        {
+          "name": "CrossBreed",
+          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
+        },
+        {
+          "name": "MTD",
+          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Confliction",
+      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
+    },
+    {
+      "added_at": "2024-05-10 15:07:48",
+      "album": {
         "name": "Forever Changes",
         "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 184065,
       "name": "Forever Changes",
       "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
+    },
+    {
+      "added_at": "2024-05-10 15:07:48",
+      "album": {
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Dreps",
+          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
     },
     {
       "added_at": "2024-05-10 15:07:48",

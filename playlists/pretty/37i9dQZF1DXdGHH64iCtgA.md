@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,026 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,050 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 44 | [PFW \(Paris Fashion Week\)](https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [PFW \(Paris Fashion Week\)](https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ) | 3:30 |
 | 45 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 |
 | 46 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
-| 47 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
-| 48 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
+| 47 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
+| 48 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
 | 49 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
 | 50 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
 | 51 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |

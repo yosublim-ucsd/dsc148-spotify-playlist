@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 10459,
+  "num_followers": 10469,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "ADN (Cap\u00edtulo N)",
-        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
       },
       "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
         {
           "name": "Systema Solar",
           "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 182233,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -271,18 +267,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
       },
       "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
         {
           "name": "Systema Solar",
           "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "B\u00faho",
         "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
-      },
-      "artists": [
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
-        }
-      ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Besos Ricos",
         "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 187715,
       "name": "Besos Ricos",
       "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -711,6 +695,38 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Supernatural Love",
+        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
+      },
+      "artists": [
+        {
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Fuego Que Te Llama",
+      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -735,22 +751,6 @@
       "duration_ms": 299416,
       "name": "V\u00e1yanse Todos A Mam\u00e1",
       "url": "https://open.spotify.com/track/05r3MeRsOjqOymPj6KDzoC"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Supernatural Love",
-        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
-      },
-      "artists": [
-        {
-          "name": "Sidestepper",
-          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Fuego Que Te Llama",
-      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "ALL-YOU-CAN-EAT VOL.1",
-        "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
-      },
-      "artists": [
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
-        },
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        }
-      ],
-      "duration_ms": 219341,
-      "name": "Que Te Vaya Mal",
-      "url": "https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 189333,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "ALL-YOU-CAN-EAT VOL.1",
+        "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 219341,
+      "name": "Que Te Vaya Mal",
+      "url": "https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Un D\u00eda a la Vez",
-        "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Un D\u00eda a la Vez",
-      "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Corolla 94",
         "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 137996,
       "name": "Est\u00e1s Escuchando (with El David Aguilar) - Single Edit",
       "url": "https://open.spotify.com/track/2khOYj1vDGhmS84m4Wm7cc"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Un D\u00eda a la Vez",
+        "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Un D\u00eda a la Vez",
+      "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
     },
     {
       "added_at": "2023-09-22 05:25:00",

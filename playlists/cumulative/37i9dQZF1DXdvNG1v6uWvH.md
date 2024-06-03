@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-670 songs - 1 day 11 hr 19 min
+671 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-03 | 2024-05-10 |
 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-10 | 2024-05-17 |
 | [MIA](https://open.spotify.com/track/435hrvKro7Lgs60sxE1Ps5) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [MIA](https://open.spotify.com/album/3TTs73XPopNMV7Sw7OWIGi) | 2:45 | 2024-05-31 |  |
-| [Miami \(Sax in the City\)](https://open.spotify.com/track/427Xdb0p1jZ5mHtU4FEheH) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [WENZL](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Miami \(Sax in the City\)](https://open.spotify.com/album/3pYulTEnsvoylOJo3Eqqur) | 2:16 | 2024-05-31 |  |
+| [Miami \(Sax in the City\)](https://open.spotify.com/track/427Xdb0p1jZ5mHtU4FEheH) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [WENZL](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Miami \(Sax in the City\)](https://open.spotify.com/album/3pYulTEnsvoylOJo3Eqqur) | 2:16 | 2024-05-31 | 2024-06-03 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-03 | 2024-05-10 |
 | [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-05-03 | 2024-05-10 |
 | [Million Years](https://open.spotify.com/track/5Ijn7amK6oPtZsene9g1AY) | [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Million Years](https://open.spotify.com/album/5NWbMarCRoqN3hhgsGo89Y) | 3:50 | 2024-05-24 | 2024-06-01 |
@@ -668,6 +668,7 @@
 | [Workin On Me](https://open.spotify.com/track/4OLpvmygTruvZfH1uyj6sS) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Workin On Me](https://open.spotify.com/album/4htzd8kCbdtovAFvLnHz5f) | 5:00 | 2024-05-17 | 2024-05-24 |
 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 | 2024-05-31 |  |
 | [XXX](https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [XXX](https://open.spotify.com/album/4cFpJm5EasHk1JXLQJlAbL) | 2:38 | 2024-05-10 | 2024-05-17 |
+| [you](https://open.spotify.com/track/7BnRXdSpJ1Nn8bTrOIXrjT) | [julien](https://open.spotify.com/artist/0Er19QHYcwlekKGGUPd3xU), [Saintro P Sax Up](https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v) | [you](https://open.spotify.com/album/0QmmgE8rIxBxkU6L6IM3pa) | 2:26 | 2024-05-31 |  |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-24 | 2024-06-01 |
 | [You'll Never Lose Affection](https://open.spotify.com/track/74QHvED66bGkJ411iWOOTM) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [You'll Never Lose Affection](https://open.spotify.com/album/2Q1Q828W11uLQETgWxmjnF) | 3:11 | 2024-05-24 | 2024-05-25 |
 | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/track/1FgMrAXjFDiTYf9uzoFYLg) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/album/31LNPzSfHfwCyKqSEJr3KP) | 3:01 | 2024-05-10 | 2024-05-17 |

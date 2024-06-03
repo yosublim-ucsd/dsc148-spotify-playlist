@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: System Of A Down",
-  "num_followers": 1273051,
+  "num_followers": 1273035,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "In the End",
-      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 218933,
       "name": "Toxicity",
       "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 216880,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Lateralus",
         "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 308826,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/1a8JpAL3vbAdXYrEABvOtb"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -331,38 +363,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -379,34 +379,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Amerika",
-      "url": "https://open.spotify.com/track/1a8JpAL3vbAdXYrEABvOtb"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 381946,
-      "name": "The Pot",
-      "url": "https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -443,22 +427,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Mezmerize",
-        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "B.Y.O.B.",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -475,34 +443,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
         }
       ],
-      "duration_ms": 215600,
-      "name": "People = Shit",
-      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Unholy Confessions",
-      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
+      "duration_ms": 381946,
+      "name": "The Pot",
+      "url": "https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -539,18 +491,34 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+      "duration_ms": 255466,
+      "name": "B.Y.O.B.",
+      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -567,6 +535,38 @@
       "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "People = Shit",
+      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "The Heretic Anthem",
-      "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Primo Victoria (Re-Armed)",
         "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 426680,
+      "name": "Vicarious",
+      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
       "artists": [
         {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 426680,
-      "name": "Vicarious",
-      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
+      "duration_ms": 254000,
+      "name": "The Heretic Anthem",
+      "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
+        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Ich tu dir weh",
+      "url": "https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Crimson Thunder",
         "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 189960,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "The End of Heartache (Special Edition)",
-        "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "The End of Heartache",
-      "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "St. Anger",
         "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 441132,
       "name": "St. Anger",
       "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The End of Heartache (Special Edition)",
+        "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "The End of Heartache",
+      "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Redneck",
-      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "ObZen",
         "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Ashes of the Wake (15th Anniversary)",
+        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 285962,
+      "name": "Omerta",
+      "url": "https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1063,38 +1079,6 @@
       "duration_ms": 204360,
       "name": "Murmaider",
       "url": "https://open.spotify.com/track/5ghMfHMHakVS0omjj2cBSA"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Ashes of the Wake (15th Anniversary)",
-        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 285962,
-      "name": "Omerta",
-      "url": "https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1159,6 +1143,22 @@
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Redneck",
+      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Fate of Norns",
+        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "The Pursuit Of Vikings",
+      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Saturday Night Wrist",
         "url": "https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Fate of Norns",
-        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
+        "name": "Slania",
+        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
         }
       ],
-      "duration_ms": 270253,
-      "name": "The Pursuit Of Vikings",
-      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
+      "duration_ms": 249240,
+      "name": "Inis Mona",
+      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1303,22 +1319,6 @@
       "duration_ms": 216973,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Slania",
-        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Inis Mona",
-      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+        "name": "Puritanical Euphoric Misanthropia",
+        "url": "https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2"
       },
       "artists": [
         {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Fall Into Sleep",
-      "url": "https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o"
+      "duration_ms": 186488,
+      "name": "Puritania",
+      "url": "https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb"
     }
   ],
   "unique_name": "00s Metal Classics",

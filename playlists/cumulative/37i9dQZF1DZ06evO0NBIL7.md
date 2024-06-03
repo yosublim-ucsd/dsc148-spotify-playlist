@@ -4,7 +4,7 @@
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 50 min
+34 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Kingdumb](https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:11 | 2022-09-28 |  |
 | [Knife](https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 2:35 | 2022-09-16 |  |
 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 | 2022-09-16 |  |
+| [Natural](https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Natural](https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0) | 3:44 | 2024-06-03 |  |
 | [Nightmare](https://open.spotify.com/track/3Li4rMcFQisVPnw7nmfX7N) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:00 | 2022-09-16 |  |
 | [Out Of My Head](https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX) | 2:44 | 2024-05-19 |  |
 | [Out Of My Head](https://open.spotify.com/track/16vbLC2QSm34CsaXDltVbv) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/4rbx06swFc9rEHVZmjjRch) | 2:44 | 2024-04-21 | 2024-05-19 |

@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: OutKast",
-  "num_followers": 538745,
+  "num_followers": 538789,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
-    },
-    {
-      "added_at": "2024-04-26 19:54:57",
-      "album": {
         "name": "Down for Life",
         "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
       },
@@ -427,42 +411,18 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "Rappa Ternt Sanga (Expanded Edition)",
-        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Mike Jones",
-          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
-        }
-      ],
-      "duration_ms": 239413,
-      "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
-      "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
-    },
-    {
-      "added_at": "2024-04-26 19:54:57",
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
       "artists": [
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Goodie Mob",
-          "url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
         }
       ],
-      "duration_ms": 447026,
-      "name": "Git Up, Git Out (feat. Goodie Mob)",
-      "url": "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2024-04-26 19:54:57",
@@ -487,6 +447,46 @@
       "duration_ms": 271053,
       "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
       "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
+    },
+    {
+      "added_at": "2024-04-26 19:54:57",
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Goodie Mob",
+          "url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "Git Up, Git Out (feat. Goodie Mob)",
+      "url": "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
+    },
+    {
+      "added_at": "2024-04-26 19:54:57",
+      "album": {
+        "name": "Rappa Ternt Sanga (Expanded Edition)",
+        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        }
+      ],
+      "duration_ms": 239413,
+      "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
+      "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
     },
     {
       "added_at": "2024-04-26 19:54:57",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "Definition of Real",
-        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
-      },
-      "artists": [
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
-    },
-    {
-      "added_at": "2024-04-26 19:54:57",
-      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2024-04-26 19:54:57",
+      "album": {
+        "name": "Definition of Real",
+        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
     },
     {
       "added_at": "2024-04-26 19:54:57",
@@ -691,6 +691,46 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        },
+        {
+          "name": "I-20",
+          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "Move Bitch",
+      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
+    },
+    {
+      "added_at": "2024-04-26 19:54:57",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
+    },
+    {
+      "added_at": "2024-04-26 19:54:57",
+      "album": {
         "name": "Crime Mob",
         "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
@@ -711,18 +751,22 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 274333,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
+      "duration_ms": 255413,
+      "name": "Shawty (feat. T Pain)",
+      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
     },
     {
       "added_at": "2024-04-26 19:54:57",
@@ -767,8 +811,8 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+        "name": "Chicken - N - Beer",
+        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
       },
       "artists": [
         {
@@ -776,37 +820,13 @@
           "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         },
         {
-          "name": "Mystikal",
-          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
-        },
-        {
-          "name": "I-20",
-          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
         }
       ],
-      "duration_ms": 270866,
-      "name": "Move Bitch",
-      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
-    },
-    {
-      "added_at": "2024-04-26 19:54:57",
-      "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
-      },
-      "artists": [
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Shawty (feat. T Pain)",
-      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
+      "duration_ms": 213760,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
     },
     {
       "added_at": "2024-04-26 19:54:57",
@@ -827,22 +847,6 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
-    },
-    {
-      "added_at": "2024-04-26 19:54:57",
-      "album": {
         "name": "Most Known Unknown (Explicit)",
         "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
@@ -859,18 +863,18 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         }
       ],
-      "duration_ms": 303666,
-      "name": "Hustler Musik",
-      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2024-04-26 19:54:57",
@@ -919,42 +923,34 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
-        "name": "Chicken - N - Beer",
-        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 303666,
+      "name": "Hustler Musik",
+      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
+    },
+    {
+      "added_at": "2024-04-26 19:54:57",
+      "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
       "artists": [
         {
           "name": "Ludacris",
           "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Shawnna",
-          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
-    },
-    {
-      "added_at": "2024-04-26 19:54:57",
-      "album": {
-        "name": "The People's Champ",
-        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sittin' Sidewayz (feat. Big Pokey)",
-      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     }
   ],
   "unique_name": "I Love My Down South Classics",

@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 34 | [Risk It All \(feat\. Ruuth\)](https://open.spotify.com/track/4ds7fLYjpDeDS1l7oe2sjd) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:15 |
 | 35 | [21 Candles](https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:44 |
 | 36 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 |
-| 37 | [All My Friends](https://open.spotify.com/track/4eT4pfmDVBLzW3x3jY6AMx) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/4rZ78okqiuoeLyOTBZE23R) | 2:24 |
-| 38 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 |
+| 37 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 |
+| 38 | [All My Friends](https://open.spotify.com/track/4eT4pfmDVBLzW3x3jY6AMx) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/4rZ78okqiuoeLyOTBZE23R) | 2:24 |
 | 39 | [Her](https://open.spotify.com/track/0IHF1tsTEzsjbHwMtAytt1) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [Her](https://open.spotify.com/album/5IrKSvEtO1UDizncw6i5R7) | 3:03 |
 | 40 | [Weekend Lover](https://open.spotify.com/track/2tmtAG8HUAxAbEN9cJU3Kk) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Weekend Lover](https://open.spotify.com/album/6jeWoIDDJJ5zZXVvWbhnOh) | 3:07 |
 | 41 | [When It's Over](https://open.spotify.com/track/2AgDrwMxljyyeMsJboEY6b) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [When It's Over](https://open.spotify.com/album/2YaSQDrHQ3iIFRqDluoNo7) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 49 | [Lean In \- Interlude](https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:44 |
 | 50 | [Gasoline \- Intro](https://open.spotify.com/track/6T0jiuBv0IMS9ON1MxNIhv) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:15 |
 
-Snapshot ID: `AbS7NAAAAAAhujBNMpz2H9+uKuKPmTXU`
+Snapshot ID: `AbTA1AAAAAAGUX26UXfN29rSCbOorhLK`

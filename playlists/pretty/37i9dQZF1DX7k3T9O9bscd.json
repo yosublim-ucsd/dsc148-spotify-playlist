@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 520145,
+  "num_followers": 520250,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Ananda Shankar (US Internet Release)",
-        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
       "artists": [
         {
-          "name": "Ananda Shankar",
-          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 215866,
-      "name": "Jumpin' Jack Flash",
-      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
       "added_at": "2024-05-03 14:18:04",
@@ -171,50 +171,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "Ananda Shankar (US Internet Release)",
+        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Ananda Shankar",
+          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+      "duration_ms": 215866,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -249,6 +217,38 @@
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
     },
     {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+    },
+    {
       "added_at": "2024-05-03 14:18:04",
       "album": {
         "name": "Setan Dolbon",
@@ -267,6 +267,22 @@
       "duration_ms": 228250,
       "name": "Setan Dolbon",
       "url": "https://open.spotify.com/track/5CJsMppFOvs7NNOZWreNdd"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -323,22 +339,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 285308,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
     },
     {
       "added_at": "2024-02-02 04:34:02",
@@ -385,22 +401,6 @@
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
     },
     {
-      "added_at": "2024-01-30 05:11:10",
-      "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
       "added_at": "2023-11-24 01:15:27",
       "album": {
         "name": "Rose City Band",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
-      "added_at": "2023-11-24 01:15:27",
+      "added_at": "2024-01-30 05:11:10",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
         }
       ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -479,6 +479,22 @@
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -559,22 +575,6 @@
       "duration_ms": 247034,
       "name": "Cap.4: El Sabbath de las Brujas",
       "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
-      },
-      "artists": [
-        {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "The Efferusphere",
         "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
       },
@@ -735,6 +719,38 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+      },
+      "artists": [
+        {
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -783,22 +799,6 @@
       "duration_ms": 195013,
       "name": "Hey Boy Hey Girl - Cover Version",
       "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
-      },
-      "artists": [
-        {
-          "name": "El Goodo",
-          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Feel so Fine",
-      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 235583,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
+      },
+      "artists": [
+        {
+          "name": "El Goodo",
+          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Feel so Fine",
+      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
-      "added_at": "2024-01-30 05:13:54",
-      "album": {
-        "name": "Mourir Demain",
-        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 207922,
-      "name": "Mourir Demain",
-      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
-    },
-    {
       "added_at": "2023-11-24 01:15:27",
       "album": {
         "name": "Everything Was Beautiful",
@@ -1123,6 +1107,22 @@
       "duration_ms": 541122,
       "name": "New Hope For The New Year",
       "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
+    },
+    {
+      "added_at": "2024-01-30 05:13:54",
+      "album": {
+        "name": "Mourir Demain",
+        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 207922,
+      "name": "Mourir Demain",
+      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
     },
     {
       "added_at": "2023-11-24 01:15:27",

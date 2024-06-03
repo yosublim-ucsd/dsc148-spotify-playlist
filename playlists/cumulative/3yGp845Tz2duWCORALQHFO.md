@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-138 songs - 7 hr 29 min
+139 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [I Got All This Love](https://open.spotify.com/track/77cbwMuXdRFSFMZ0pkIOQ2) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [I Got All This Love](https://open.spotify.com/album/5bgCadU3KZO4DCrE3Gi79i) | 3:07 | 2024-05-17 | 2024-05-25 |
 | [I Got Money](https://open.spotify.com/track/3s04xXWWApmFv9P77df7ST) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Trick Daddy / I Got Money](https://open.spotify.com/album/5yHdlP0VgQDJUBGyMDzh2t) | 3:07 | 2024-05-17 | 2024-05-25 |
 | [I Want Your Soul](https://open.spotify.com/track/2kH7xDWYmnEymdYZ2BsQPr) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J), [Sinful Biz](https://open.spotify.com/artist/47pU7lkUDYOPvpcHz1PCPc) | [I Want Your Soul](https://open.spotify.com/album/0AteelMRqmHBUk27NmKy9E) | 3:53 | 2024-05-30 |  |
+| [I won’t leave](https://open.spotify.com/track/35ZBr9f27MwELMIXJdEUVB) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [I won’t leave](https://open.spotify.com/album/76y0rBs3jSzjrJH5ulZIlB) | 4:17 | 2024-06-02 |  |
 | [In My Soul](https://open.spotify.com/track/0DkWdu3IQVFzNxVqLC6iKC) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [In My Soul](https://open.spotify.com/album/1eDkTJGusL0TYZEzxH4vbb) | 2:45 | 2024-05-17 | 2024-05-25 |
 | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2) | 3:52 | 2024-05-17 | 2024-05-25 |
 | [It's Strange](https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [It’s Strange](https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG) | 3:32 | 2024-05-24 | 2024-06-01 |

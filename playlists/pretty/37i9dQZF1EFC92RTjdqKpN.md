@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 997 likes - 176 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 998 likes - 176 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 55 | [No Good](https://open.spotify.com/track/7j2jFc1LlQLNPRwbjrgXuv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [No Good](https://open.spotify.com/album/4roqYaI40M8uIbDJd69ZHj) | 3:11 |
 | 56 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 57 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
-| 58 | [XXL](https://open.spotify.com/track/3l1grOhgJQG4E1E2MjfHWG) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
-| 59 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 |
+| 58 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 |
+| 59 | [XXL](https://open.spotify.com/track/3l1grOhgJQG4E1E2MjfHWG) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
 | 60 | [Better](https://open.spotify.com/track/1uANN3gRrtjSUd4qegchpK) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:25 |
 | 61 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
-| 62 | [Try](https://open.spotify.com/track/2Q3uUxPpTKY4MjY5SRFSHK) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Try](https://open.spotify.com/album/6GPLPBLhIg3iluCRV84Pyj) | 3:05 |
-| 63 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 62 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 63 | [Try](https://open.spotify.com/track/2Q3uUxPpTKY4MjY5SRFSHK) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Try](https://open.spotify.com/album/6GPLPBLhIg3iluCRV84Pyj) | 3:05 |
 | 64 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
 | 65 | [Just Thought You Should Know](https://open.spotify.com/track/5l9jgvqcgFYpbjyecdaNAW) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:23 |
 | 66 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 151 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
 | 152 | [Stay Blessed](https://open.spotify.com/track/06WmKeaY6E4Ud9FQoGEjA3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:50 |
 | 153 | [Go In, Go Hard](https://open.spotify.com/track/4hsxfRX87ev9PJr7Q1r6Vk) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Go In, Go Hard](https://open.spotify.com/album/0q8nigxLnyvnttpDxeaJIR) | 3:43 |
-| 154 | [Happy Birthday Sadness](https://open.spotify.com/track/4a84ine2fh0DOm387eKIf9) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Happy Birthday Sadness](https://open.spotify.com/album/5E9QiRbXT2TKHuirIJdZKa) | 2:59 |
-| 155 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
+| 154 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
+| 155 | [Happy Birthday Sadness](https://open.spotify.com/track/4a84ine2fh0DOm387eKIf9) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Happy Birthday Sadness](https://open.spotify.com/album/5E9QiRbXT2TKHuirIJdZKa) | 2:59 |
 | 156 | [Happy And You Know It](https://open.spotify.com/track/4h2WUyIHeiaJSLk7xnReBT) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Happy And You Know It](https://open.spotify.com/album/2ASwd53DqWKNtHVKoGoUP2) | 3:12 |
 | 157 | [Blink](https://open.spotify.com/track/5HDZMVzjLIZ4Vqonax2qEK) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0poYRqxEk5KDZREbJXv3lL) | 3:15 |
 | 158 | [Ripe](https://open.spotify.com/track/5SsKk94S61JC3AKs6IYPWL) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Ripe](https://open.spotify.com/album/7JtvhnesG9ZYxucVPAIb9y) | 3:50 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 175 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 176 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbS7NAAAAAA5zcNkMSUKMIDzG8TkME/+`
+Snapshot ID: `AbTA1AAAAAAJ6NsbAzJMN6BD8Bn9sHAm`

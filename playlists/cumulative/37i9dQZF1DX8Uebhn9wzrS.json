@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 137599,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/519Th4DzEIwqRFFM7Ipmfv"
@@ -10919,6 +10919,24 @@
     },
     {
       "album": {
+        "name": "Fishizens",
+        "url": "https://open.spotify.com/album/1USqajnim2xRLIXKsNZKBc"
+      },
+      "artists": [
+        {
+          "name": "Josa",
+          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99300,
+      "name": "Fishizens",
+      "url": "https://open.spotify.com/track/56YpXPDyWRzgElEKvTGTif"
+    },
+    {
+      "album": {
         "name": "five more days",
         "url": "https://open.spotify.com/album/3oLQEhMZDidCCd8loSHFvX"
       },
@@ -20190,7 +20208,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 171880,
       "name": "Mir\u00f3",
       "url": "https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1"
@@ -26818,7 +26836,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 177562,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC"

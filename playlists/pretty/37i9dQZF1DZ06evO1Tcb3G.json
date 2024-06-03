@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 472068,
+  "num_followers": 472133,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAACatwvR+AyUZrDYMSDvzi3y",
+  "snapshot_id": "ZlpkgAAAAABG5UiZGQV67HdSDG2zQSAR",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ditmas",
-      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+      "duration_ms": 312626,
+      "name": "Tompkins Square Park",
+      "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 312626,
-      "name": "Tompkins Square Park",
-      "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
+      "duration_ms": 218626,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
     },
     {
       "added_at": null,

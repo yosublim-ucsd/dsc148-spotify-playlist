@@ -4,7 +4,7 @@
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-129 songs - 9 hr 57 min
+130 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Calidad de Vida](https://open.spotify.com/track/1gUn7fbTiX5QJ6xvmWNpi2) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:20 | 2023-02-07 |  |
 | [Ceniza Fria](https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:01 | 2023-02-07 | 2024-04-19 |
 | [Ceniza Fria](https://open.spotify.com/track/1Nvg0fsSlVzDWX5RxsWakm) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Exitos De](https://open.spotify.com/album/3FEcp8czY7hn9D2YAA9vLt) | 4:09 | 2023-02-07 | 2023-03-25 |
-| [Ceniza Fría](https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Historia del Vallenato en el Siglo XX, Vol\. 3](https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB) | 4:01 | 2023-02-07 |  |
+| [Ceniza Fría](https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Historia del Vallenato en el Siglo XX, Vol\. 3](https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB) | 4:01 | 2023-02-07 | 2024-06-03 |
 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 | 2023-02-07 |  |
 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 | 2023-02-07 | 2024-04-19 |
 | [Como Te Olvido](https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:50 | 2023-02-07 | 2024-04-19 |
@@ -53,6 +53,7 @@
 | [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 | 2023-02-07 | 2024-04-19 |
 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 | 2023-02-07 | 2024-04-19 |
 | [Infiel](https://open.spotify.com/track/7l6FdGpTecIdte6pWMdB6K) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/4YTcz59mBzRmkxCyNWB5ND) | 4:06 | 2023-02-07 | 2023-03-25 |
+| [Infiel](https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [Alto Voltaje](https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB) | 4:06 | 2023-02-07 |  |
 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 | 2023-02-07 | 2024-04-19 |
 | [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 | 2023-02-07 |  |
 | [La Gemela](https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [30 Grandes Exitos](https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9) | 4:12 | 2023-02-07 |  |

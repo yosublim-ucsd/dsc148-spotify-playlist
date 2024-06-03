@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 377198,
+  "num_followers": 377214,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 291973,
-      "name": "Siguiendo la Luna - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -183,6 +167,22 @@
       "duration_ms": 247000,
       "name": "Te Para 3 - MTV Unplugged",
       "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 291973,
+      "name": "Siguiendo la Luna - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "Abre",
+        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 326213,
+      "name": "Al lado del camino",
+      "url": "https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "Big Yuyo",
         "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 168133,
       "name": "Waitin'",
       "url": "https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Tratar De Estar Mejor",
-        "url": "https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Tratar de Estar Mejor",
-      "url": "https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Abre",
-        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+        "name": "Tratar De Estar Mejor",
+        "url": "https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 326213,
-      "name": "Al lado del camino",
-      "url": "https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl"
+      "duration_ms": 215360,
+      "name": "Tratar de Estar Mejor",
+      "url": "https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -439,6 +439,22 @@
       "duration_ms": 281933,
       "name": "La pachanga",
       "url": "https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "A rodar mi vida",
+      "url": "https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -515,6 +531,22 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Brillante sobre el mic",
+      "url": "https://open.spotify.com/track/2dxRzFDDv3QcSMQ0vIgqMF"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
@@ -531,18 +563,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+        "name": "La Hija De La Lagrima",
+        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 281520,
-      "name": "A rodar mi vida",
-      "url": "https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV"
+      "duration_ms": 186466,
+      "name": "Chipi-Chipi",
+      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -559,22 +591,6 @@
       "duration_ms": 269760,
       "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
       "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "La Hija De La Lagrima",
-        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Chipi-Chipi",
-      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -659,18 +675,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 343440,
-      "name": "Voy a Vos",
-      "url": "https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i"
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -691,38 +707,6 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Brillante sobre el mic",
-      "url": "https://open.spotify.com/track/2dxRzFDDv3QcSMQ0vIgqMF"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
         "name": "Colecci\u00f3n Suprema",
         "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 206240,
-      "name": "Milonga del marinero y el capit\u00e1n",
-      "url": "https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0"
+      "duration_ms": 343440,
+      "name": "Voy a Vos",
+      "url": "https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -771,34 +755,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Acariciando Lo Aspero",
-        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 354746,
-      "name": "Ala Delta",
-      "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 349506,
-      "name": "Bye bye",
-      "url": "https://open.spotify.com/track/2mBpqtoVKLzgccfvqUVFpO"
+      "duration_ms": 206240,
+      "name": "Milonga del marinero y el capit\u00e1n",
+      "url": "https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -819,18 +787,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+        "name": "Acariciando Lo Aspero",
+        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 364173,
-      "name": "Carnaval Toda la Vida - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/1ymdiBKBQ1BH3lUClFVhOP"
+      "duration_ms": 354746,
+      "name": "Ala Delta",
+      "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -851,18 +819,50 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 215386,
-      "name": "Diez a\u00f1os despu\u00e9s",
-      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+      "duration_ms": 349506,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/2mBpqtoVKLzgccfvqUVFpO"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 364173,
+      "name": "Carnaval Toda la Vida - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1ymdiBKBQ1BH3lUClFVhOP"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 294106,
-      "name": "Pulsar",
-      "url": "https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK"
+      "duration_ms": 215386,
+      "name": "Diez a\u00f1os despu\u00e9s",
+      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
+        "url": "https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Andy Summers",
+          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
+      "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "A 15 Cm De La Realidad",
         "url": "https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX"
       },
@@ -1031,22 +1051,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
-        "url": "https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH"
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        },
-        {
-          "name": "Andy Summers",
-          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 283466,
-      "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
-      "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
+      "duration_ms": 182440,
+      "name": "La Yapa",
+      "url": "https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -1063,22 +1079,6 @@
       "duration_ms": 398800,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "La Yapa",
-      "url": "https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Cosa Peligrosa",
-      "url": "https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
         "name": "Los Reyes de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj"
       },
@@ -1227,6 +1195,54 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "Donde estabas tu... en el 93?",
+        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Cosa Peligrosa",
+      "url": "https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "M\u00e1scaras de Sal",
         "url": "https://open.spotify.com/album/4m2rRkMOGAowNa674LYU3y"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 133493,
       "name": "Hac\u00e9 Lo Que Quieras",
       "url": "https://open.spotify.com/track/7FJ9mYg8SPHUhFMtFJL3Bs"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Donde estabas tu... en el 93?",
-        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
     },
     {
       "added_at": "2024-03-25 13:51:57",

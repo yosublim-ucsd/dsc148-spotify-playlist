@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,076 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,085 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 13 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 |
 | 14 | [Calm Down](https://open.spotify.com/track/6BRtWlr1VmsiPjIFnvg9Qv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:10 |
 | 15 | [Superstar](https://open.spotify.com/track/49mrGrTON4QYZri9gEHSFl) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Superstar](https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa) | 3:24 |
-| 16 | [Goddess](https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Goddess](https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue) | 2:57 |
-| 17 | [New World](https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [New World](https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK) | 2:42 |
+| 16 | [New World](https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [New World](https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK) | 2:42 |
+| 17 | [Goddess](https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Goddess](https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue) | 2:57 |
 | 18 | [Human](https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:15 |
 | 19 | [Alarm \- WE ARE FURY Remix](https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x) | [Lucid \(The Remixes\)](https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ) | 3:07 |
 | 20 | [Lights & Thunder \- Darren Styles Remix](https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Drive: Refueled](https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [zer0](https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:47 |
 | 50 | [Party Monster](https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Krewella \(Hits Japan Special Edition\)](https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT) | 3:34 |
 
-Snapshot ID: `ZlkTAAAAAABP+np+LmKm+ILM+KyyXppW`
+Snapshot ID: `ZlpkgAAAAADtEl3i6/zPUQWlztBkyApO`

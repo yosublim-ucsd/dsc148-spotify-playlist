@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 142 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 142 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 41 | [Bitter Love](https://open.spotify.com/track/4wOXx92SlZWxNtuBytlMsK) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Bitter Love](https://open.spotify.com/album/2PXx08sb29bNbNgC9aLuw8) | 3:37 |
 | 42 | [Dreamer](https://open.spotify.com/track/0wUxh6XMc698xPCfgBaPRV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mike Yung](https://open.spotify.com/artist/4UffC3o3JiLSg7pa5DpQbp) | [Dreamer](https://open.spotify.com/album/4D13M99kn4kSlPt5ZtYy8R) | 3:13 |
 | 43 | [yes girl](https://open.spotify.com/track/7rBJG1BewE3VE7NRbrOhFj) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [yes girl](https://open.spotify.com/album/224GAA4jiisTxmozJpuNRg) | 3:51 |
-| 44 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1IQRnO9lepeHpm9xHwUII9) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Colour Vision \(Deluxe\)](https://open.spotify.com/album/4fbXC8lFSdtcvXX6SM6RO6) | 3:44 |
-| 45 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
+| 44 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
+| 45 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1IQRnO9lepeHpm9xHwUII9) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Colour Vision \(Deluxe\)](https://open.spotify.com/album/4fbXC8lFSdtcvXX6SM6RO6) | 3:44 |
 | 46 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 |
 | 47 | [D.R.E.A.M\. \(feat\. Ghostface Killah\)](https://open.spotify.com/track/5tykM1AFEOrm51CkDPOxPC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 2:48 |
 | 48 | [Bad Karma \(feat\. Joan Jett\)](https://open.spotify.com/track/47KegqqrzpKw0jdHFWqtNb) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:08 |
@@ -131,14 +131,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 121 | [Send Me Your Love \- KDrew Remix](https://open.spotify.com/track/5pYngSQa1LIT2WZ14sTKKD) | [Taryn Manning](https://open.spotify.com/artist/5XuruQMEsXHJZ7AIREr8Yv) | [Send Me Your Love \(KDrew Remix\) \- Single](https://open.spotify.com/album/28NaVVA9vrBQZEac8iIVVM) | 4:54 |
 | 122 | [Brooklyn Apartment \(It’s Louder Than The TV And The Radio\)](https://open.spotify.com/track/6rohsMPgiP6CAvlTejehdE) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Low Blows](https://open.spotify.com/album/6ShsZvRGx3dU6s0WXs7DfT) | 3:19 |
 | 123 | [WW3](https://open.spotify.com/track/21bFJLBdEX2YLpwSW27XYt) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Architect \(Zeitgeist Edition\)](https://open.spotify.com/album/6jXWfehoSTsRDXExVJMeAh) | 3:10 |
-| 124 | [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 |
+| 124 | [Cherry On Top](https://open.spotify.com/track/4SzzmN0KAH1qHbwQs4ssU7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:14 |
 | 125 | [Before The Sun Goes Down](https://open.spotify.com/track/3koztLmMH6DSP8NmI0Mc9f) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Before The Sun Goes Down](https://open.spotify.com/album/0LW7Gi4WOcZ1KaEWY0fY7M) | 2:51 |
 | 126 | [Superhuman](https://open.spotify.com/track/087AijlT1LgtZSXZbisZrg) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:21 |
 | 127 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 | 128 | [Make It Out Alive](https://open.spotify.com/track/1kbfcooO47ftBttfOg5EZG) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:03 |
 | 129 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
-| 130 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
-| 131 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
+| 130 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
+| 131 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
 | 132 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
 | 133 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
 | 134 | [Yellow Roses](https://open.spotify.com/track/2yt43ADauCZ5pvjFEMWcC3) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:46 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 141 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
 | 142 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbS7DAAAAACFxcCpuPz3pyCh3uLsaPsU`
+Snapshot ID: `AbTAogAAAACRBaOMdODTBcpwTTGbQTlg`

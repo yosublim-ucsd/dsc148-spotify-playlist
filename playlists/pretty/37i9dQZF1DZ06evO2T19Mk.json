@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 565174,
+  "num_followers": 565233,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAADDBIr5BvQtHGaMWaIWEnTS",
+  "snapshot_id": "ZlpkgAAAAADXIC4/dwxraOgJ37vO/HrI",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Centuries",
-      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -91,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Immortals",
+      "url": "https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -103,26 +103,6 @@
       "duration_ms": 212040,
       "name": "This Ain't A Scene, It's An Arms Race",
       "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
     },
     {
       "added_at": null,
@@ -155,6 +135,26 @@
       "duration_ms": 244960,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
       "duration_ms": 214493,
       "name": "I Don't Care - Single Version",
       "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": null,
@@ -531,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 171053,
-      "name": "Stay Frosty Royal Milk Tea",
-      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
+      "duration_ms": 204506,
+      "name": "Young Volcanoes",
+      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 204506,
-      "name": "Young Volcanoes",
-      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
+      "duration_ms": 171053,
+      "name": "Stay Frosty Royal Milk Tea",
+      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
     },
     {
       "added_at": null,
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take This to Your Grave",
-        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 216699,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81"
+      "duration_ms": 178863,
+      "name": "So Good Right Now",
+      "url": "https://open.spotify.com/track/7C8n0yWK1VGcMOOORkeTGW"
     },
     {
       "added_at": null,
@@ -727,24 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Disloyal Order Of Water Buffaloes",
-      "url": "https://open.spotify.com/track/4qg2rXtE20scfPhGvG5tqq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
@@ -752,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Miss Missing You",
-      "url": "https://open.spotify.com/track/05Z77MHLPcBA2Wd5eDSJzl"
+      "duration_ms": 243040,
+      "name": "Where Did The Party Go",
+      "url": "https://open.spotify.com/track/3Q7jFW6nxqhwbUctqqthSa"
     },
     {
       "added_at": null,
@@ -768,9 +736,25 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 199840,
-      "name": "Chicago Is So Two Years Ago",
-      "url": "https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO"
+      "duration_ms": 216699,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Disloyal Order Of Water Buffaloes",
+      "url": "https://open.spotify.com/track/4qg2rXtE20scfPhGvG5tqq"
     },
     {
       "added_at": null,
@@ -791,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "27",
-      "url": "https://open.spotify.com/track/6gRgweWPiX1ii33coNlTt8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pavlove (Demo)",
         "url": "https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 213093,
       "name": "Pavlove - Demo",
       "url": "https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "Chicago Is So Two Years Ago",
+      "url": "https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "27",
+      "url": "https://open.spotify.com/track/6gRgweWPiX1ii33coNlTt8"
     },
     {
       "added_at": null,

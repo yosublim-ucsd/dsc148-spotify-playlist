@@ -1,6 +1,6 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 117603,
+  "num_followers": 117712,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 309386,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Najee's Theme",
         "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Dance Of The Soul",
         "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 304000,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Flipside",
         "url": "https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd"
       },
@@ -867,22 +851,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Someone To Love You",
-        "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 290453,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "For The Love",
         "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 280868,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Someone To Love You",
+        "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Nice & Slow",
         "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 288800,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Missin' You",
+      "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "The Collected",
         "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 271880,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Missin' You",
-      "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
     },
     {
       "added_at": "2024-05-28 08:19:13",

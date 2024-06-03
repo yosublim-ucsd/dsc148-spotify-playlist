@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-549 songs - 1 day 9 hr 26 min
+550 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-10-20 | 2022-12-07 |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-20 | 2023-08-04 |
 | [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 | 2023-08-03 | 2024-03-01 |
-| [Boku Wa Chotto](https://open.spotify.com/track/1RMnWyL9KlDgmAhirqNxin) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Boku Wa Chotto](https://open.spotify.com/album/6GAmwk5VqC7XgArdzwPicy) | 2:51 | 2024-02-20 |  |
+| [Boku Wa Chotto](https://open.spotify.com/track/1RMnWyL9KlDgmAhirqNxin) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Boku Wa Chotto](https://open.spotify.com/album/6GAmwk5VqC7XgArdzwPicy) | 2:51 | 2024-02-20 | 2024-06-03 |
 | [Books of Fantasy](https://open.spotify.com/track/6sYTGXJE67xL22ZtkXxV1H) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Books of Fantasy](https://open.spotify.com/album/3L536accWGgnKxWZOaBX1C) | 3:24 | 2023-09-12 | 2023-11-22 |
 | [Borderland](https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Borderland](https://open.spotify.com/album/4Oj5YTqVP7ZyiYnpnY9ntA) | 3:22 | 2022-10-20 | 2023-03-15 |
 | [Borderland \- Lo\-Fi Version](https://open.spotify.com/track/3vIJcUubWGkWjExS3HF6Me) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands \(Lo\-Fi Version\)](https://open.spotify.com/album/0OCulu0g32zpyGrP9woaY1) | 3:20 | 2023-09-07 | 2023-09-18 |
@@ -265,6 +265,7 @@
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-11-08 | 2023-03-18 |
 | [Lights Light Up](https://open.spotify.com/track/3Yf7XyzrjGEmFRL6qVAKj8) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Lights Light Up](https://open.spotify.com/album/5uVxtDT8TaaZracxN1mGTk) | 4:12 | 2023-01-18 | 2023-03-01 |
 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 | 2024-03-24 |  |
+| [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [SiriusXM Session](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-02 |  |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-08 | 2023-01-11 |
 | [Lonely Town](https://open.spotify.com/track/5HpFHYtvhEvHuHs6W9ehWA) | [Galen & Paul](https://open.spotify.com/artist/3odcbVRgKE0GhIqHh7miu4), [Galen Ayers](https://open.spotify.com/artist/7DjUShIwwYG9UeXsnl14NN), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan) | [Lonely Town](https://open.spotify.com/album/0dTjA5EgfqRAAWqX5CORVk) | 2:15 | 2023-02-21 | 2023-03-01 |
 | [Long Long Long \- Acoustic](https://open.spotify.com/track/13ukC82r00OfvNbu7z6A2a) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Long Long Long \(Acoustic\)](https://open.spotify.com/album/29OKnedaN7Zt91PRiM12lV) | 3:46 | 2023-08-01 | 2023-09-22 |

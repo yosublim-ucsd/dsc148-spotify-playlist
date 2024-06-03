@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 604449,
+  "num_followers": 604527,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAADlWUMw1qbR1u/3ikO2GToh",
+  "snapshot_id": "ZlpkgAAAAAC2eSHqO5SHJ4WgtAK0Fs7Q",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 291400,
-      "name": "Greatest Love of All",
-      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+      "duration_ms": 275533,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
         "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "All at Once",
-      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 235293,
       "name": "Could I Have This Kiss Forever",
       "url": "https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "All at Once",
+      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
     },
     {
       "added_at": null,
@@ -847,26 +863,6 @@
       "duration_ms": 259053,
       "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
       "url": "https://open.spotify.com/track/0iDSjpKH1oJdPbvNYjbUmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Jermaine Jackson",
-          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Nobody Loves Me Like You Do (with Jermaine Jackson)",
-      "url": "https://open.spotify.com/track/72NcOvvGdarZaOyKMNHZ1m"
     }
   ],
   "unique_name": "This Is Whitney Houston",

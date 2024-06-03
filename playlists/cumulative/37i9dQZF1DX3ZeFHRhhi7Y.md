@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: aespa\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-500 songs - 1 day 3 hr 12 min
+501 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-12-01 | 2024-04-19 |
 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 | 2022-07-19 | 2022-08-19 |
 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) | 3:55 | 2021-12-20 | 2022-04-15 |
-| [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-11-03 |  |
+| [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-11-03 | 2024-06-03 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-03 | 2022-04-15 |
 | [Coin](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:13 | 2021-12-20 | 2022-07-20 |
 | [Coin Wash](https://open.spotify.com/track/6S8USpSfSRY2Cd2SOBjJLT) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [Jacoby](https://open.spotify.com/artist/7xNGZ0xM6gxBr9og1RE5wF) | [Coin Wash](https://open.spotify.com/album/2Eiiaxoi26LGN4XIQpqwkt) | 3:31 | 2022-03-22 | 2022-04-14 |
@@ -246,6 +246,7 @@
 | [Loca](https://open.spotify.com/track/4IcTZ4u56lvregznRG6tH1) | [FAVORITE](https://open.spotify.com/artist/3o0wQ9s18mlYobc9ZqOs8i) | [LOCA](https://open.spotify.com/album/1G1OxNg6fQgTjVXqXPJu8u) | 3:24 | 2022-03-22 | 2022-04-09 |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-19 | 2024-04-19 |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-20 | 2022-07-29 |
+| [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-05-30 |  |
 | [Lost N Found](https://open.spotify.com/track/675wYf9lAHj6M3rgZDzLvk) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 5th Mini Album \[SANCTUARY\]](https://open.spotify.com/album/14RDHnWprxc97Yuzxtm60I) | 3:01 | 2022-01-03 | 2022-04-14 |
 | [Love 119](https://open.spotify.com/track/4ndxCrtl74lgOdF6Lz7bIq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/4ZPRXMBmjip4Bqgjpd7tqn) | 2:53 | 2024-04-05 |  |
 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-01-08 | 2024-04-19 |

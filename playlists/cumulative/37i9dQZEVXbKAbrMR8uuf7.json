@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/4kQujiq5GIgUuQoqGZvnDA"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 121857,
       "name": "Bailaito Sensual",
       "url": "https://open.spotify.com/track/76Sv5dt6nFhn0syfnPAYr1"
@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 142743,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/64eW3PUKjUbQrlB0KNWBIf"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 164055,
       "name": "Cintureo - Remix",
       "url": "https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4"
@@ -14745,6 +14745,24 @@
     },
     {
       "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
+    },
+    {
+      "album": {
         "name": "EL REY DEL DEMBOW",
         "url": "https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El"
       },
@@ -16140,7 +16158,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -16552,7 +16570,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 167659,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/2WK1iabgyWOS65KFKeMU41"
@@ -19682,7 +19700,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 165168,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/5SaMYroYijYFY2CXQOcRCZ"
@@ -20932,6 +20950,24 @@
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {
@@ -24472,7 +24508,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 204649,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg"
@@ -24918,7 +24954,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 116683,
       "name": "Sobalo",
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
@@ -25042,6 +25078,24 @@
       "duration_ms": 215696,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/6dHShHJWACz0ki6Sf2AgCE"
+    },
+    {
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/4BrGUL0D3eHAvh1Xc3btqP"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
     },
     {
       "album": {
@@ -25674,7 +25728,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 158297,
       "name": "Sustancia X",
       "url": "https://open.spotify.com/track/41fGOe7Sqp7XnL3cwM73eh"
@@ -28498,7 +28552,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 187694,
       "name": "Vamono Lejos",
       "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"

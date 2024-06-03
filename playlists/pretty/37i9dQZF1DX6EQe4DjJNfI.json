@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
-  "num_followers": 168101,
+  "num_followers": 168113,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,26 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "10 Minutos",
+      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
         "name": "Daqui pra Frente - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
       },
@@ -179,26 +199,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "10 Minutos",
-      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "Te Ouvir",
         "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 157772,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -359,22 +375,6 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -699,22 +719,26 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
         },
         {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
         }
       ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -747,30 +771,6 @@
       "duration_ms": 181224,
       "name": "Victoria's Secrets",
       "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
       "artists": [
         {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        },
+        {
+          "name": "Amanda Magno",
+          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
         }
       ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+      "duration_ms": 160000,
+      "name": "PORTAIS",
+      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -867,22 +871,18 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        },
-        {
-          "name": "Amanda Magno",
-          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 160000,
-      "name": "PORTAIS",
-      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
@@ -919,18 +935,22 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+        "name": "SALVE-SE!",
+        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
+        {
+          "name": "Dinho Almeida",
+          "url": "https://open.spotify.com/artist/0dxVV6z6fbd8ZQ7PEhasKc"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+      "duration_ms": 193457,
+      "name": "Recado dado",
+      "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -971,26 +991,6 @@
       "duration_ms": 156000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
-        "name": "SALVE-SE!",
-        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        },
-        {
-          "name": "Dinho Almeida",
-          "url": "https://open.spotify.com/artist/0dxVV6z6fbd8ZQ7PEhasKc"
-        }
-      ],
-      "duration_ms": 193457,
-      "name": "Recado dado",
-      "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "S\u00f3 N\u00f3s Dois",
         "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 141502,
       "name": "S\u00f3 N\u00f3s Dois",
       "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Vai Lembrar de Mim",
-        "url": "https://open.spotify.com/album/0ss50z7yx1Gh4VHH53Ycvj"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        }
-      ],
-      "duration_ms": 185945,
-      "name": "Vai Lembrar de Mim",
-      "url": "https://open.spotify.com/track/6lpSz7JsOocZOfyjCpMm2P"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "O Brilho Que Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/7gzCz9T1qSql7cTZa2IHTU"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 145573,
       "name": "O Brilho Que Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/2WPF0QFIXL3CvjwrTMlqeF"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Vai Lembrar de Mim",
+        "url": "https://open.spotify.com/album/0ss50z7yx1Gh4VHH53Ycvj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        }
+      ],
+      "duration_ms": 185945,
+      "name": "Vai Lembrar de Mim",
+      "url": "https://open.spotify.com/track/6lpSz7JsOocZOfyjCpMm2P"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "O BGLH \u00c9 BLACK",
         "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 177533,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2024-05-28 03:00:00",

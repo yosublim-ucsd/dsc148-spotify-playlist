@@ -4,7 +4,7 @@
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BOWKYLION
 
-492 songs - 1 day 5 hr 16 min
+493 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [SECRETLY LOVE](https://open.spotify.com/track/0v1kDqxBNKnlImkUXyV85w) | [DONUTCHA](https://open.spotify.com/artist/27Ead4OXgt2nRLOLCr3hQU), [KANGSOMKS](https://open.spotify.com/artist/5cygqwPtm1jNE3B311G2hW) | [SECRETLY LOVE](https://open.spotify.com/album/2ZAOjwYzcpuj1TiCmoEWNP) | 2:59 | 2022-06-09 | 2022-06-17 |
 | [Shoot \(Choose\) เลย](https://open.spotify.com/track/6tFi6XNeINiaexPT6UEsr7) | [BOSS.CKM](https://open.spotify.com/artist/2ydSOTHypXPznsmVExy296) | [Shoot \(Choose\) เลย](https://open.spotify.com/album/6x16iACbWCOQ6f5NmMO1Is) | 3:30 | 2024-04-11 | 2024-04-19 |
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
+| [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-02 |  |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
 | [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 | 2024-05-23 |  |
 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 | 2024-04-25 |  |
@@ -149,7 +150,7 @@
 | [ขี้หยอก \(Kidjing\)](https://open.spotify.com/track/7I1n3XD4PbUyS8ZhMz6xhE) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ขี้หยอก \(Kidjing\)](https://open.spotify.com/album/52rV9x3w4aN1BpTRLijUaA) | 3:40 | 2023-06-08 | 2023-07-01 |
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-07-28 | 2022-10-05 |
 | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 | 2024-05-06 |  |
-| [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2022-05-26 |  |
+| [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2022-05-26 | 2024-06-03 |
 | [ข้อสอบ](https://open.spotify.com/track/3djIwknyvdh9STESkxpS62) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [ข้อสอบ](https://open.spotify.com/album/4kavHltvGrYIDk80daVY65) | 2:51 | 2022-09-02 | 2022-09-24 |
 | [ข้างกัน \(City\)](https://open.spotify.com/track/2XDCs8vAubxRe8mO1A0eTa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [ข้างกัน \(City\) \[feat\. ออม TELExTELEXs\]](https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj) | 4:56 | 2022-05-26 | 2022-09-30 |
 | [คงคา](https://open.spotify.com/track/5umkeJySqBIhm2uYGjidMT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [คงคา](https://open.spotify.com/album/4pAuZ51mvoBeEIVSL1tI5n) | 4:17 | 2022-05-26 | 2022-08-26 |

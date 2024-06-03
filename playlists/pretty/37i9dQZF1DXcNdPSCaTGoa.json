@@ -1,6 +1,6 @@
 {
   "description": "Remembering <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX-n7beSCAHzBQ\">Brenda Fassie's</a> incredible legacy, 20 years on.",
-  "num_followers": 60157,
+  "num_followers": 60263,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Homeless (with Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Loliwe",
         "url": "https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0"
       },
@@ -303,26 +323,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Homeless (with Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Durbans Finest",
         "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
       },
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "M'du Or Die",
+        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Siya Jola (Ok'Salayo)",
+      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Sound Revival",
         "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "M'du Or Die",
-        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Siya Jola (Ok'Salayo)",
-      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 180546,
       "name": "Indigo Girl",
       "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -439,6 +423,22 @@
       "duration_ms": 262826,
       "name": "Mambotjie (feat. 2Shot)",
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mkhukhu Funkshen",
-        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
-      },
-      "artists": [
-        {
-          "name": "Skwatta kamp",
-          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Umoya",
-      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+        "name": "Mkhukhu Funkshen",
+        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
       },
       "artists": [
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Skwatta kamp",
+          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
         }
       ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+      "duration_ms": 275360,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 247630,
       "name": "Sbali",
       "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Tsholofelo (Platinum Edition)",
         "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
       },
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "S'bu",
-          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Palafala (feat. S'bu)",
-      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "S'bu",
+          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Palafala (feat. S'bu)",
+      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Grand Masters",
+        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        }
+      ],
+      "duration_ms": 296911,
+      "name": "Ndiredi",
+      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Ma'cheri",
         "url": "https://open.spotify.com/album/19n9b6PD8x6clAdrqEXaWe"
       },
@@ -867,6 +883,22 @@
       "duration_ms": 251920,
       "name": "Pot Belly",
       "url": "https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 269720,
+      "name": "Magesh",
+      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -915,38 +947,6 @@
       "duration_ms": 257253,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Grand Masters",
-        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
-      },
-      "artists": [
-        {
-          "name": "Simphiwe Dana",
-          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
-        }
-      ],
-      "duration_ms": 296911,
-      "name": "Ndiredi",
-      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 269720,
-      "name": "Magesh",
-      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
     },
     {
       "added_at": "2024-05-22 11:00:00",

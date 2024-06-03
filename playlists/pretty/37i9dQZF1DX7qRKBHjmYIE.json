@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con The Mar\u00edas.",
-  "num_followers": 755024,
+  "num_followers": 755006,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Paris, Tal Vez?",
+      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -515,18 +531,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Paris, Tal Vez?",
-      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+      "duration_ms": 198800,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -587,26 +607,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Maldita Distancia",
         "url": "https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "Gaucho",
+      "url": "https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
       },
@@ -679,6 +695,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Tambi\u00e9n de dolor se canta",
+        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "Tambi\u00e9n de dolor se canta",
+      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "SOLA",
         "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
       },
@@ -691,22 +723,6 @@
       "duration_ms": 191818,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Gaucho",
-      "url": "https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Tambi\u00e9n de dolor se canta",
-        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 208057,
-      "name": "Tambi\u00e9n de dolor se canta",
-      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+      "duration_ms": 207750,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -823,6 +839,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "MUY FINITO",
+        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "MUY FINITO",
+      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Mam\u00e1 Flor",
         "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
       },
@@ -863,38 +895,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "MUY FINITO",
-        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 165875,
-      "name": "MUY FINITO",
-      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Aqui?",
-        "url": "https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV"
-      },
-      "artists": [
-        {
-          "name": "deadsoulsociety",
-          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Aqui?",
-      "url": "https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "PALOMINO",
         "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
+        "name": "Aqui?",
+        "url": "https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "deadsoulsociety",
+          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
         }
       ],
-      "duration_ms": 207750,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
+      "duration_ms": 242000,
+      "name": "Aqui?",
+      "url": "https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Picor",
-        "url": "https://open.spotify.com/album/7a6t6jn2rm43eY8FOYXVHW"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Picor",
-      "url": "https://open.spotify.com/track/1CL4KsBWs2vm3xPlrr7flj"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "no llamaste (Remix)",
         "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
       },
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "VUELTIANDO",
-        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
+        "name": "Picor",
+        "url": "https://open.spotify.com/album/7a6t6jn2rm43eY8FOYXVHW"
       },
       "artists": [
         {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
-          "name": "Neverknwn",
-          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 174085,
-      "name": "VUELTIANDO",
-      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
+      "duration_ms": 217560,
+      "name": "Picor",
+      "url": "https://open.spotify.com/track/1CL4KsBWs2vm3xPlrr7flj"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1071,6 +1051,26 @@
       "duration_ms": 223500,
       "name": "Estrellas en la Oscuridad",
       "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "VUELTIANDO",
+        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "Neverknwn",
+          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "VUELTIANDO",
+      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Blockbuster (90's R&B)",
-        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 207204,
-      "name": "Blockbuster (90's R&B)",
-      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Esta vida que eleg\u00ed",
         "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187783,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/2InhKV1mZAkERacOHu7Shb"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Blockbuster (90's R&B)",
+        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 207204,
+      "name": "Blockbuster (90's R&B)",
+      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
     },
     {
       "added_at": "2024-05-31 04:00:00",

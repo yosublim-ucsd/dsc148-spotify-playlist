@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19575,
+  "num_followers": 19597,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKhNuc0DbZnw/E5nRfoUGVqOvgER6j",
+  "snapshot_id": "AAAKicm3tWuRd1kRBRVckh5Oy3HlB3ME",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -609,20 +609,36 @@
       "url": "https://open.spotify.com/track/4inw6roamzcaRD8v15Y0bu"
     },
     {
-      "added_at": "2024-06-02 00:24:25",
+      "added_at": "2024-06-02 15:51:49",
       "album": {
-        "name": "Little BIG Music: Musical Oddities From And Inspired By Little Big Planet",
-        "url": "https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc"
+        "name": "Foxbase Alpha",
+        "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
       },
       "artists": [
         {
-          "name": "The Daniel Pemberton TV Orchestra",
-          "url": "https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc"
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
         }
       ],
-      "duration_ms": 151000,
-      "name": "The Orb Of Dreamers",
-      "url": "https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP"
+      "duration_ms": 284773,
+      "name": "People Get Real",
+      "url": "https://open.spotify.com/track/2OPLyjw4pDQremg5IVfkSv"
+    },
+    {
+      "added_at": "2024-06-02 09:17:25",
+      "album": {
+        "name": "So Tough",
+        "url": "https://open.spotify.com/album/2FTeecYAHUqD087fRHHuNF"
+      },
+      "artists": [
+        {
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "Mario's Cafe",
+      "url": "https://open.spotify.com/track/0DphBni42F0bpa2E7ptWjV"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

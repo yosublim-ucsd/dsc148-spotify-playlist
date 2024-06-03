@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 101970,
+  "num_followers": 102078,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAADd1rJaDDNclSforMmaQNkZ",
+  "snapshot_id": "ZlpkgAAAAADIGylu+JcG9XCOBzXfAIYq",
   "tracks": [
     {
       "added_at": null,
@@ -271,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "R e s e n t m e n t",
-        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
       },
       "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+      "duration_ms": 283285,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
     },
     {
       "added_at": null,
@@ -299,6 +303,22 @@
       "duration_ms": 179971,
       "name": "S t u c k I n M y W a y s",
       "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
       "added_at": null,
@@ -335,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -371,34 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
       "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 295977,
-      "name": "FWU",
-      "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL"
+      "duration_ms": 236973,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
     },
     {
       "added_at": null,
@@ -423,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -439,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 295977,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COLOURS",
         "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 272339,
       "name": "FREAK IN YOU",
       "url": "https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 228602,
-      "name": "fue mejor",
-      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 301895,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 301895,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 303628,
+      "name": "WEST DISTRICT",
+      "url": "https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Got Time (feat. PARTYNEXTDOOR)",
         "url": "https://open.spotify.com/album/2kGUeTGnkLOYlinKRJe47G"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 188490,
       "name": "Still Got Time (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 303628,
-      "name": "WEST DISTRICT",
-      "url": "https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 580126,
+  "num_followers": 580202,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -35,6 +35,22 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 236157,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "HERZ MACHT BAMM",
-        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "HERZ MACHT BAMM",
-      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "Oberteil",
         "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 149976,
       "name": "Oberteil",
       "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "HERZ MACHT BAMM",
+        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "HERZ MACHT BAMM",
+      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
-      },
-      "artists": [
-        {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
-        },
-        {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 153406,
       "name": "King Of My Castle",
       "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "Next!",
         "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 206160,
       "name": "Ding",
       "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK"
-      },
-      "artists": [
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Beats by Luca",
-          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Alle Haben Bock",
+        "url": "https://open.spotify.com/album/5RvApRrz1fSbYEBVgdtKPr"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "PaSt",
+          "url": "https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "duration_ms": 154966,
+      "name": "Alle Haben Bock",
+      "url": "https://open.spotify.com/track/2QUkcBV8t0A2AYH1G76EUB"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "ECHT (Techno Mix)",
         "url": "https://open.spotify.com/album/6EOe0HCjcuiOImjKJ7yAzR"
       },
@@ -1587,46 +1611,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Alle Haben Bock",
-        "url": "https://open.spotify.com/album/5RvApRrz1fSbYEBVgdtKPr"
-      },
-      "artists": [
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        },
-        {
-          "name": "PaSt",
-          "url": "https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w"
-        },
-        {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
-        }
-      ],
-      "duration_ms": 154966,
-      "name": "Alle Haben Bock",
-      "url": "https://open.spotify.com/track/2QUkcBV8t0A2AYH1G76EUB"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "Turn All The Lights On",
-        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 137569,
-      "name": "Turn All The Lights On",
-      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
       },
@@ -1651,22 +1635,18 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+        "name": "Turn All The Lights On",
+        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
       },
       "artists": [
         {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
         }
       ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+      "duration_ms": 137569,
+      "name": "Turn All The Lights On",
+      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1687,6 +1667,26 @@
       "duration_ms": 240761,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
       "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2024-05-10 07:14:44",

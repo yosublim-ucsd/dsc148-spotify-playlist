@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 260156,
+  "num_followers": 260147,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 232837,
       "name": "when the party's over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -316,22 +316,6 @@
       "added_at": "2024-04-05 03:03:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
       "artists": [
@@ -343,6 +327,22 @@
       "duration_ms": 177214,
       "name": "Baby One More Time - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 202482,
-      "name": "Stan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Acoustic In Nashville - Bootleg No. 2",
         "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 269946,
       "name": "How to Save a Life - Live in Nashville, TN - December 2006",
       "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 202482,
+      "name": "Stan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Can't Tame Her (Acoustic)",
-        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can't Tame Her - Acoustic",
-      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Dancing On My Own (triple j Like A Version)",
         "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+        "name": "Can't Tame Her (Acoustic)",
+        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+      "duration_ms": 210000,
+      "name": "Can't Tame Her - Acoustic",
+      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 213934,
       "name": "penhasco. - (ac\u00fastico)",
       "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Burning - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Burning - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "What A Shame",
-        "url": "https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX"
-      },
-      "artists": [
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        }
-      ],
-      "duration_ms": 131830,
-      "name": "What A Shame - Acoustic",
-      "url": "https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Fim Do Mundo (Deluxe)",
         "url": "https://open.spotify.com/album/19z3Qn8hGiaffgpT8mEz6I"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 166771,
       "name": "Tudo Em Seu Lugar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5EfORdSqq61w3qnG52BS4e"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "What A Shame",
+        "url": "https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        }
+      ],
+      "duration_ms": 131830,
+      "name": "What A Shame - Acoustic",
+      "url": "https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

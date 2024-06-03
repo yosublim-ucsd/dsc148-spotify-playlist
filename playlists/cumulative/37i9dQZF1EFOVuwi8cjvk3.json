@@ -1810,10 +1810,32 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 182844,
       "name": "GOATED",
       "url": "https://open.spotify.com/track/3Z4RvoEgCtreDHrk4i4S0F"
+    },
+    {
+      "album": {
+        "name": "ERROR 404",
+        "url": "https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG"
+      },
+      "artists": [
+        {
+          "name": "Nasaan",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182844,
+      "name": "GOATED",
+      "url": "https://open.spotify.com/track/5YRuPUlYE3OnQPZxS8VbY4"
     },
     {
       "album": {

@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 244693,
       "name": "Dirt Off Your Shoulder / Lying From You",
       "url": "https://open.spotify.com/track/7dvd3b2oz7AFgXrPBIIYxR"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 218013,
       "name": "In Pieces",
       "url": "https://open.spotify.com/track/7jeI6EdY0elPSNz80mAKS8"
@@ -960,10 +960,28 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 201341,
       "name": "QWERTY",
       "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
+    },
+    {
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1X472EvsSqH09RyrqbtyXU"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/5njHkFji5oL7cYrbuHZyaC"
     },
     {
       "album": {
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 289906,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "Waiting for the End",
       "url": "https://open.spotify.com/track/5JHNg1hxZFT7TDEphhM4wj"

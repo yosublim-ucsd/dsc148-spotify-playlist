@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,693 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,723 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 44 | [Velicha Poove \(From "Ethir Neechal"\)](https://open.spotify.com/track/0o2S5PKRkpTq8dLx8O7W4j) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Best of Anirudh](https://open.spotify.com/album/66AenW3eBfgkiuBbtJr9wf) | 5:12 |
 | 45 | [Naana Thaana \(From "Thaanaa Serndha Koottam"\)](https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Best of Love : Anirudh Ravichander](https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5) | 4:19 |
 | 46 | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3) | 3:45 |
-| 47 | [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 |
-| 48 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 |
+| 47 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 |
+| 48 | [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 |
 | 49 | [Aathi \(From "Kaththi"\)](https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 5:04 |
 | 50 | [I'm so Cool](https://open.spotify.com/track/1q5HD0cyUCbM0s4hQgbtN0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4cn4bQCAZxOQSzSixRRYGb) | 3:49 |
 

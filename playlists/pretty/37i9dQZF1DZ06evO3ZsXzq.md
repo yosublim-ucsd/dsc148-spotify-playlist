@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZsXzq.md) - [plain]
 
 ### [This Is Harry Styles \(2\)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZsXzq)
 
-> This is Harry Styles\. The essential tracks, all in one playlist.
+> This Is Harry Styles\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,837 likes - 21 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,842 likes - 21 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZsXzq.md) - [plain]
 | 20 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 |
 | 21 | [Meet Me in the Hallway](https://open.spotify.com/track/4u9Y4Z9i9VaAbBK7rW1Rha) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:47 |
 
-Snapshot ID: `ZlkTAAAAAABMUuKxdjQGdKkbzGVEaHYw`
+Snapshot ID: `ZlkTAAAAAABYxMHXKvIE1hkYoFmOnQ8F`

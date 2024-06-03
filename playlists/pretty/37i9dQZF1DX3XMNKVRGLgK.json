@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 21759,
+  "num_followers": 21764,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Rich Slave",
-        "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 310906,
       "name": "All Day",
       "url": "https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Rich Slave",
+        "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
     },
     {
       "added_at": "2022-10-01 16:00:00",

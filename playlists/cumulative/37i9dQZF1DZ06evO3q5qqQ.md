@@ -2,7 +2,7 @@
 
 ### [This Is Grupo Arriesgado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q5qqQ)
 
-> This Is Grupo Arriesgado\. Sus mejores éxitos, todos en una playlist.
+> This Is Grupo Arriesgado\. Los temas esenciales, todos en una lista.
 
 63 songs - 2 hr 57 min
 

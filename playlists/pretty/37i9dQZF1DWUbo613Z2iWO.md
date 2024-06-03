@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Tanerélle
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,923 likes - 120 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,940 likes - 120 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 7 hr 37 min
+149 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,8 +149,9 @@
 | [Waterfall](https://open.spotify.com/track/09EhgVA4blwhSic4hF2TFZ) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Remember Me](https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF) | 2:19 | 2024-01-30 |  |
 | [Weit, weit weg](https://open.spotify.com/track/5vu4A3HVrkf6kJr0Ik5JSt) | [Versengold](https://open.spotify.com/artist/4tGxWZaAkt50t9VZxSxOGZ) | [Nordlicht](https://open.spotify.com/album/7mHYHavA9Jjop81UQ0iZAz) | 3:33 | 2024-01-29 |  |
 | [WENN ICH DU WÄRE](https://open.spotify.com/track/2SGyGwqpuMqEbMv5kr79hW) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [GOOD DAYS & GOODBYES](https://open.spotify.com/album/6YKjcFLdoU8iFfUoZS4qYN) | 2:31 | 2024-01-29 |  |
-| [What I Want](https://open.spotify.com/track/3vXjK5wWAK9sbKsl9OkbuH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [What I Want](https://open.spotify.com/album/6vDRxpxvwxb2HHFsc1TM36) | 2:50 | 2024-01-31 |  |
+| [What I Want](https://open.spotify.com/track/3vXjK5wWAK9sbKsl9OkbuH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [What I Want](https://open.spotify.com/album/6vDRxpxvwxb2HHFsc1TM36) | 2:50 | 2024-01-31 | 2024-06-03 |
 | [What I Want](https://open.spotify.com/track/4wkJyqVVMqbqukgBbnrxOJ) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [What I Want](https://open.spotify.com/album/5EleSz4c26Lq9NneJABLgn) | 2:54 | 2024-01-29 | 2024-02-01 |
+| [What I Want \- Bonus Track](https://open.spotify.com/track/0qOVnMM479jDcUYZMIX9xm) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:50 | 2024-06-02 |  |
 | [Where You Are](https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Where You Are](https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws) | 2:28 | 2024-01-29 |  |
 | [Wie du](https://open.spotify.com/track/4bkpxaHmnLp96IjthFx6Eq) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 4:08 | 2024-05-01 |  |
 | [Wieder 2015](https://open.spotify.com/track/2nrjPUW9lqxEcCr2YKz9AY) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle \(Deluxe Edition\)](https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa) | 3:05 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-145 songs - 10 hr 16 min
+146 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [CMYK](https://open.spotify.com/track/493ZpVleSN7MnPyWc8mzUQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [CMYK EP](https://open.spotify.com/album/0LSInSSnuRkl4G6cQ14dFB) | 3:39 | 2023-05-17 |  |
 | [CMYK](https://open.spotify.com/track/4Bzwd1e5sfxhGuL8tph1zk) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [CMYK](https://open.spotify.com/album/7gcbbflML9B0ayPt11Qina) | 3:39 | 2023-12-08 | 2024-04-19 |
 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 | 2023-05-17 |  |
+| [Could](https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Simmer Down](https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr) | 3:39 | 2023-12-08 |  |
 | [Deadbeat Summer](https://open.spotify.com/track/0oSuRJjTO7DTA1ltDuQUzM) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/6orePWE5tyJN7FGR7jzmik) | 4:02 | 2023-12-08 | 2024-04-19 |
 | [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2023-12-08 | 2024-01-09 |
 | [Dear Miami](https://open.spotify.com/track/1HI2DCMcSu1DaRm1cu3RNK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Overpowered](https://open.spotify.com/album/4VX43pbOazOuTzApLx3ub7) | 3:40 | 2023-05-17 |  |
@@ -149,7 +150,7 @@
 | [Warm Magic](https://open.spotify.com/track/479xhIMpUhIw1cjUXe6OO4) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Wanderflower](https://open.spotify.com/album/4EkqE2JXRncij9Yu4EPtv0) | 3:07 | 2023-05-17 | 2023-06-04 |
 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 | 2023-05-17 |  |
 | [When I'm Small](https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV) | 4:09 | 2023-05-17 |  |
-| [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 | 2023-05-17 |  |
+| [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 | 2023-05-17 | 2024-06-03 |
 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 | 2023-05-17 |  |
 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 | 2023-05-17 |  |
 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 | 2023-05-17 |  |

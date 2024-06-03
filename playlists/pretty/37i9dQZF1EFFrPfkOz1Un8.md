@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2NCa35wfzCEnONKi8FOXmb">Kyle Evans</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 33 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 33 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 4 | [Verdansk](https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:02 |
 | 5 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
 | 6 | [Titanium](https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 2:07 |
-| 7 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 |
-| 8 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
+| 7 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
+| 8 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 |
 | 9 | [Psycho](https://open.spotify.com/track/0FWAIRd9Uz5uNek7cALYNC) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:08 |
 | 10 | [Money Talks \(feat\. Dave\)](https://open.spotify.com/track/31gzwBma4iEppvk8um5ZGx) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/4QonFDxUcxM49sCR7g8ns1) | 4:33 |
 | 11 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:59 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 32 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
 | 33 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `AbS7AgAAAADInelP/K6W9hrkAiCHTzfY`
+Snapshot ID: `AbTAogAAAADdoLepGrZg6FnDO7RD/eRH`

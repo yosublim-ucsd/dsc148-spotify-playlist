@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-49 songs - 2 hr 33 min
+50 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Duress](https://open.spotify.com/track/3uAOCXwvc6LZUPlu3fiXto) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:00 | 2024-03-21 |  |
 | [Dysfunctional](https://open.spotify.com/track/1i8Pue6gQrSOHMVFLzQWom) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Dysfunctional](https://open.spotify.com/album/2Oj40TuVraFTnMAPGCuJwc) | 3:18 | 2024-03-21 |  |
 | [Energy](https://open.spotify.com/track/6T5wFYTKuMntiTXXR5Efbs) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Energy](https://open.spotify.com/album/4AiRfctFktplV3Xdnv8DkQ) | 3:55 | 2024-03-21 |  |
+| [Freak Like Me](https://open.spotify.com/track/2oGdeSXf0cnSPXG8kZiDtB) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Freak Like Me](https://open.spotify.com/album/523xtwqIhtFAZ9ZgBJjxRS) | 1:59 | 2024-06-02 |  |
 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 | 2024-03-21 |  |
 | [God Fearing Men](https://open.spotify.com/track/1gFJknw0BRsI4DWr4vfSXK) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:33 | 2024-03-21 |  |
 | [Happy Hr](https://open.spotify.com/track/0cvySzSQuHpKDSNFc5p1ar) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Happy Hr](https://open.spotify.com/album/32uy6JqdrDCd6sLd1uk3Kb) | 3:28 | 2024-03-21 |  |

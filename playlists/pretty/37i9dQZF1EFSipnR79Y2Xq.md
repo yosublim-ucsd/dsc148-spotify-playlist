@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 36 | [Peor Que Mi Ex](https://open.spotify.com/track/7vJWa0MkrA1Dbc5qCfys9B) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Échale](https://open.spotify.com/album/5NlWnz4YflzjQ84vc8x8mW) | 2:34 |
 | 37 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 |
 | 38 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
-| 39 | [Antes](https://open.spotify.com/track/5h3YMVd2Jg3h7bf0a4RTrA) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 2:53 |
-| 40 | [No Era De Tu Talla](https://open.spotify.com/track/4sHJngV1yusJSmevbZYMrT) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:24 |
+| 39 | [No Era De Tu Talla](https://open.spotify.com/track/4sHJngV1yusJSmevbZYMrT) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:24 |
+| 40 | [Antes](https://open.spotify.com/track/5h3YMVd2Jg3h7bf0a4RTrA) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 2:53 |
 | 41 | [Hazme Un Paro](https://open.spotify.com/track/0KFOwJrwBfWVhUTIYPYps5) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:45 |
 | 42 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
 | 43 | [¿Quién Me Manda?](https://open.spotify.com/track/2GM4yoIPUCghVhCJZ9blmk) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 48 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 49 | [Por Pensar](https://open.spotify.com/track/3g48NQArWTvDtpvBWzpmR6) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [Por Pensar](https://open.spotify.com/album/1XjSCa4R8pGT3rclyzYhw2) | 2:32 |
 
-Snapshot ID: `AbS7NwAAAACuZdg9rRtjJHJbjl2je+1x`
+Snapshot ID: `AbTA1wAAAAAIOPKqdr8NWLn/ZhfVEUio`

@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 36514,
+  "num_followers": 36544,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Club Vibes Part 04",
         "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 396682,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bahr",
-          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1251,18 +1267,34 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+        "name": "You Can Forever Be",
+        "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        },
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        },
+        {
+          "name": "Kevin Kaczynski",
+          "url": "https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr"
+        },
+        {
+          "name": "Denise",
+          "url": "https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2"
         }
       ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+      "duration_ms": 376875,
+      "name": "You Can Forever Be",
+      "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1311,38 +1343,6 @@
       "duration_ms": 178040,
       "name": "Dusty Showbiz",
       "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "You Can Forever Be",
-        "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Deniz Bul",
-          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
-        },
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        },
-        {
-          "name": "Kevin Kaczynski",
-          "url": "https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr"
-        },
-        {
-          "name": "Denise",
-          "url": "https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2"
-        }
-      ],
-      "duration_ms": 376875,
-      "name": "You Can Forever Be",
-      "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        }
-      ],
-      "duration_ms": 443500,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Origins EP",
         "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 236279,
       "name": "Origins - 3AM Tusi Mix",
       "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "duration_ms": 443500,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Get On The Floor EP",
+        "url": "https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Get On The Floor",
+      "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 216000,
       "name": "Vamo",
       "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Get On The Floor EP",
-        "url": "https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Get On The Floor",
-      "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Strictly Ruffneck (Come Again)",
-        "url": "https://open.spotify.com/album/6GP5G8aPWZgBmyOf5Wv7rJ"
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
       },
       "artists": [
         {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
         }
       ],
-      "duration_ms": 344674,
-      "name": "Strictly Ruffneck (Come Again)",
-      "url": "https://open.spotify.com/track/2tMKcXPjZ99DvFYBUd7k1t"
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Strictly Ruffneck (Come Again)",
+        "url": "https://open.spotify.com/album/6GP5G8aPWZgBmyOf5Wv7rJ"
+      },
+      "artists": [
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "duration_ms": 344674,
+      "name": "Strictly Ruffneck (Come Again)",
+      "url": "https://open.spotify.com/track/2tMKcXPjZ99DvFYBUd7k1t"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Step Forward EP",
         "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 335269,
       "name": "Step Forward",
       "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2024-05-31 04:00:00",

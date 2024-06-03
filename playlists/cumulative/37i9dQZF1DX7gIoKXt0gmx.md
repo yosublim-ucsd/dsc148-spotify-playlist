@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-335 songs - 19 hr 41 min
+336 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Mad \(feat\. Lil Wayne\)](https://open.spotify.com/track/22DHmfJa31hKpc2Lg0gVBV) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 3:55 | 2019-05-26\* | 2019-06-19 |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-01-26 |  |
 | [Make It](https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 1:17 | 2024-01-05 |  |
+| [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 | 2024-05-31 |  |
 | [Make Me Stay](https://open.spotify.com/track/3REQkt60mafExNVnJehMdL) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 2:52 | 2022-12-29 |  |
 | [Marvins Room](https://open.spotify.com/track/1GpSXGBCDDHKRrOTqg4jdr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Marvins Room](https://open.spotify.com/album/3mGqeHmVPQvBEJJlyWXI4u) | 5:47 | 2019-06-19\* | 2022-04-16 |
 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 | 2023-10-11 | 2024-05-17 |
@@ -287,7 +288,7 @@
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 | 2022-12-29 |  |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2024-02-02 |  |
 | [The Falls](https://open.spotify.com/track/6E0d534IEAkuYWHPvdh2lC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Falls](https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB) | 2:52 | 2022-05-20 | 2022-07-29 |
-| [The Makeup Song](https://open.spotify.com/track/6M3i2UuZwjK8WH6lZ6yj43) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [The Makeup Song](https://open.spotify.com/album/6y3ijUB7hZt3FMWaWk0vw0) | 2:40 | 2024-05-31 |  |
+| [The Makeup Song](https://open.spotify.com/track/6M3i2UuZwjK8WH6lZ6yj43) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [The Makeup Song](https://open.spotify.com/album/6y3ijUB7hZt3FMWaWk0vw0) | 2:40 | 2024-05-31 | 2024-06-03 |
 | [The Morning](https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:12 | 2019-05-26\* | 2022-04-16 |
 | [The Way \(feat\. Chance the Rapper\)](https://open.spotify.com/track/6mzaCRuLTRiz1caGOum3zT) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [You Should Be Here](https://open.spotify.com/album/34JNly8P6uZRKTGnmmLNAt) | 4:22 | 2019-05-26\* | 2022-05-20 |
 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 | 2023-01-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 李榮浩 x 張惠妹 \(Ronghao Li x A\-Mei\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,125 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,230 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

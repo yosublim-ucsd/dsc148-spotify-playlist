@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg">Year of Dogs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,584 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,591 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 32 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 |
 | 33 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
 | 34 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
-| 35 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
-| 36 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 |
+| 35 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 |
+| 36 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
 | 37 | [Let's Fall in Love Some More](https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv) | [Al Bairre](https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj) | [Experience the Al Bairre Show With Al Bairre Experience](https://open.spotify.com/album/3mH4bT4mKi7nydIqqlrWDP) | 3:18 |
 | 38 | [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 |
-| 39 | [Off the Ground](https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts Part II](https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC) | 2:45 |
-| 40 | [Growing Up](https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [Growing Up](https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw) | 2:37 |
-| 41 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 |
-| 42 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
-| 43 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 39 | [Growing Up](https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [Growing Up](https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw) | 2:37 |
+| 40 | [Off the Ground](https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts Part II](https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC) | 2:45 |
+| 41 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
+| 42 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 43 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 |
 | 44 | [Wishbone](https://open.spotify.com/track/0WAmA2PBpBgb6SR9iXI02C) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Wishbone](https://open.spotify.com/album/6diOY2LpUsnQqlqgr7ApEw) | 2:53 |
 | 45 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 |
 | 46 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
-| 47 | [Come Back Home](https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Come Back Home](https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD) | 2:24 |
-| 48 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
-| 49 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
-| 50 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
+| 47 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
+| 48 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
+| 49 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
+| 50 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
 
 Snapshot ID: `ZllJ7wAAAAAdoaLoXb86KvW0yL+SF2zv`

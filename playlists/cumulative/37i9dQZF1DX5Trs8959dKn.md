@@ -4,7 +4,7 @@
 
 > Knees go down and the prayers go up
 
-95 songs - 11 hr 11 min
+96 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 | 2023-04-14 | 2023-08-30 |
 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 | 2023-04-06 |  |
 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 | 2023-04-06 |  |
+| [Jacob's Ladder](https://open.spotify.com/track/2xC68RwxA5HjltzzR79M1c) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Jacob's Ladder](https://open.spotify.com/album/2hOeUkqxHrMtEsJ0JzjOP7) | 5:47 | 2024-05-22 |  |
 | [Jesus](https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Jesus](https://open.spotify.com/album/21HPnA3qQwwttWJm5vhQOB) | 8:50 | 2023-04-06 | 2023-11-13 |
 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 | 2023-04-06 |  |
 | [Jesus Oh](https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY) | 4:15 | 2023-06-15 | 2023-09-17 |
@@ -84,7 +85,7 @@
 | [See What the Lord Has Done](https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:34 | 2023-04-06 |  |
 | [So Good](https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Fearless Wrshp](https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd) | 6:13 | 2023-04-06 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-04-06 |  |
-| [Take over \(Soaking\)](https://open.spotify.com/track/35ftVLfBb19KBacBlWzAzw) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Take over \(Soaking\)](https://open.spotify.com/album/2iXLwgho6Ld7PQDurpDXNG) | 3:07 | 2024-01-15 |  |
+| [Take over \(Soaking\)](https://open.spotify.com/track/35ftVLfBb19KBacBlWzAzw) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Take over \(Soaking\)](https://open.spotify.com/album/2iXLwgho6Ld7PQDurpDXNG) | 3:07 | 2024-01-15 | 2024-06-03 |
 | [Testimony Worship](https://open.spotify.com/track/7dtW1HbJwH2XFugoTyoB9T) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Testimony Worship](https://open.spotify.com/album/57GsttRZ4CBjyW9Ab5EUPs) | 8:55 | 2023-07-13 | 2024-02-23 |
 | [Testimony Worship Medley](https://open.spotify.com/track/1Z1U6teGq96pTchS4pix5B) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Testimony Worship Medley](https://open.spotify.com/album/2BuAF8tPTeBEuB4Az545gX) | 8:55 | 2023-07-13 | 2023-07-24 |
 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 | 2023-06-22 |  |

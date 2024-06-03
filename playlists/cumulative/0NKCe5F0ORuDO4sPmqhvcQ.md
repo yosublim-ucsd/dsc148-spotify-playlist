@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-609 songs - 1 day 10 hr 11 min
+611 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [NO TIME](https://open.spotify.com/track/3iuznCnL4DnWnElyIqJ5CR) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:04 | 2023-03-03 | 2023-03-25 |
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 |  |
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-07-20 |
+| [Nonchalant](https://open.spotify.com/track/4YFY125VTTBqds1wCsB1W7) | [Noelle Sucks](https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB) | [Nonchalant](https://open.spotify.com/album/0pHCvKwROHNhU1omeB5upG) | 2:54 | 2024-06-02 |  |
 | [NOT YOUR GUY](https://open.spotify.com/track/4oUTs1BJ5YFltx2PnUdD2y) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [NOT YOUR GUY](https://open.spotify.com/album/46EJol667xsMTmS2KotaDy) | 2:10 | 2021-11-08 | 2022-01-08 |
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-15 | 2022-03-10 |
 | [Nothing On Me](https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Nothing On Me](https://open.spotify.com/album/6Fs2nzfKvHQTtUy00L7slL) | 2:34 | 2022-03-17 | 2022-03-31 |
@@ -594,6 +595,7 @@
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-15 | 2022-03-10 |
 | [WHERE2GO](https://open.spotify.com/track/1AymWwYyPX5883XRNnKRnK) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [WHERE2GO](https://open.spotify.com/album/05JpXKWyFLYk3aHOp9tJ5y) | 3:32 | 2023-10-09 | 2024-03-23 |
 | [While My Waves Wonder \- Slow Magic Remix](https://open.spotify.com/track/5D6DcNe4mRDejrA68zyXTH) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [While My Waves Wonder \(Slow Magic Remix\)](https://open.spotify.com/album/2SRBOc1uiyQKVOrWesetuH) | 4:17 | 2022-01-18 | 2022-02-05 |
+| [Whisper](https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Whisper](https://open.spotify.com/album/6tPDyOvDtyeliclGUL6dV9) | 3:56 | 2024-06-02 |  |
 | [White Honda](https://open.spotify.com/track/57uA9JRQxD9BoEx3N6FC8N) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [White Honda](https://open.spotify.com/album/24ihEz3AzFTqxVH2SfGI0u) | 3:15 | 2022-06-24 | 2023-10-06 |
 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 | 2023-11-17 | 2024-03-23 |
 | [Wide Awake](https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Wide Awake](https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B) | 4:08 | 2024-04-29 |  |

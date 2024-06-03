@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 201303,
+  "num_followers": 201507,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "At The Village Vanguard",
         "url": "https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 152531,
       "name": "Back in Your Own Back Yard",
       "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -387,22 +387,18 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 184933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -495,22 +491,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 116280,
-      "name": "When Lights Are Low",
-      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Oscar Peterson's Finest Hour",
         "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
       },
@@ -531,18 +511,18 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+      "duration_ms": 116280,
+      "name": "When Lights Are Low",
+      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -563,18 +543,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+        "name": "Ella And Basie",
+        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+      "duration_ms": 184933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -591,6 +575,22 @@
       "duration_ms": 144973,
       "name": "Just You, Just Me",
       "url": "https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Count Basie Swings - Joe Williams Sings",
-        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Cheek To Cheek: The Complete Duet Recordings",
         "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
       },
@@ -683,18 +663,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "A Boy Named Charlie Brown",
-        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 142680,
-      "name": "Oh, Good Grief",
-      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+      "duration_ms": 182493,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -711,6 +695,22 @@
       "duration_ms": 183693,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "A Boy Named Charlie Brown",
+        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 142680,
+      "name": "Oh, Good Grief",
+      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "The More I See You - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The More I See You - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "Paris In The Rain",
         "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Chris Connor",
         "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 171240,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "Bing With A Beat",
+        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "Gettin' Around",
         "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 254880,
       "name": "The Feeling is Mutual",
       "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
-        "name": "Bing With A Beat",
-        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "I've Told Ev'ry Little Star",
+      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "I've Told Ev'ry Little Star",
-      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 254800,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Surf Ride",
-        "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Holiday Flight",
-      "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Singin' a Melody",
         "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
       },
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "Surf Ride",
+        "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Holiday Flight",
+      "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 141866,
       "name": "I'm Putting All My Eggs In One Basket",
       "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "Score",
+        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
+      },
+      "artists": [
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 211000,
       "name": "What a Little Moonlight Can Do",
       "url": "https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 333826,
-      "name": "Uncle Rough",
-      "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Ramblin'",
         "url": "https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 298013,
       "name": "Ramblin'",
       "url": "https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 333826,
+      "name": "Uncle Rough",
+      "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"
     },
     {
       "added_at": "2024-03-19 14:57:26",

@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310440,
+      "name": "Lyla",
+      "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
+    },
+    {
+      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 151943,
       "name": "Pop Boy (feat. Aitch)",
       "url": "https://open.spotify.com/track/3KcSwX6pyUnfJ0YZlcJE7d"
@@ -2580,8 +2598,8 @@
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX"
         }
       ],
       "date_added": "2022-11-02",

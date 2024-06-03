@@ -1,6 +1,6 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 27589,
+  "num_followers": 27595,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
     },
     {
       "added_at": "2020-10-21 20:41:20",

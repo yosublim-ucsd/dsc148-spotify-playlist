@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Balance and Composure
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,349 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,621 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 16 | [Dancing in the Dust](https://open.spotify.com/track/1VheHd3BepFqVcWG1V3ZxQ) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Dancing in the Dust](https://open.spotify.com/album/5d6s9YjiNEH0eLc82Ovtq6) | 4:11 |
 | 17 | [Swing At Me](https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Swing At Me](https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN) | 3:25 |
 | 18 | [Out Of Style](https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Out Of Style](https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1) | 3:25 |
-| 19 | [Caught It \(with Chrissy Costanza & Against the Current\)](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against the Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 |
+| 19 | [Caught It](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against The Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 |
 | 20 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 |
 | 21 | [JIM BOB](https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JIM BOB](https://open.spotify.com/album/1iaeDfvi0vLhu4uLCC4BLE) | 3:41 |
 | 22 | [The Howl](https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Gravity Stairs](https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua) | 3:26 |

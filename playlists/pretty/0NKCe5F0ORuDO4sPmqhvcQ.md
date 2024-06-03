@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,740 likes - 135 songs - 7 hr 34 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,739 likes - 137 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 133 | [Limosina](https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Limosina](https://open.spotify.com/album/3bgPVDYyNQYmGDCARiVH0O) | 2:03 |
 | 134 | [USE ME](https://open.spotify.com/track/1Bm2rN43nD3zuRZvpyq2vR) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [USE ME](https://open.spotify.com/album/3p1sSOGpCL5G1kDomhAlVi) | 4:00 |
 | 135 | [Without](https://open.spotify.com/track/6cfxLLMqy1bvqY9kq7ov72) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Without](https://open.spotify.com/album/0g9penjadXkiEYfXgKrkyf) | 2:20 |
+| 136 | [Whisper](https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Whisper](https://open.spotify.com/album/6tPDyOvDtyeliclGUL6dV9) | 3:56 |
+| 137 | [Nonchalant](https://open.spotify.com/track/4YFY125VTTBqds1wCsB1W7) | [Noelle Sucks](https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB) | [Nonchalant](https://open.spotify.com/album/0pHCvKwROHNhU1omeB5upG) | 2:54 |
 
-Snapshot ID: `AAApyTOF0usYV0+rRrmdhDs6n2f0K93U`
+Snapshot ID: `AAApy5FoUxO3p8URlEMxlTVcpPbMLNSh`

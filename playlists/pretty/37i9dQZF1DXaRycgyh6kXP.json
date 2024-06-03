@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 219312,
+  "num_followers": 219413,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
       "artists": [
         {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        },
-        {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -503,34 +499,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
         {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 195384,
       "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Burns (Edit)",
         "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Heart - EP",
+        "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Nedja",
+          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Sorry I Make You Lush",
         "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
@@ -935,26 +955,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Lost At Sea (Kelly Moran remix)",
-        "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 296681,
-      "name": "Lost At Sea - Kelly Moran remix",
-      "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "no world",
         "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
       },
@@ -971,22 +971,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Heart - EP",
-        "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
+        "name": "Lost At Sea (Kelly Moran remix)",
+        "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
       "artists": [
         {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         },
         {
-          "name": "Nedja",
-          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
+      "duration_ms": 296681,
+      "name": "Lost At Sea - Kelly Moran remix",
+      "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 299448,
-      "name": "Way Ur Touchin Me",
-      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 596773,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 299448,
+      "name": "Way Ur Touchin Me",
+      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
+      },
+      "artists": [
+        {
+          "name": "Shlohmo",
+          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
+        }
+      ],
+      "duration_ms": 302210,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 196893,
       "name": "Poison Tree",
       "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
-      },
-      "artists": [
-        {
-          "name": "Shlohmo",
-          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
-        }
-      ],
-      "duration_ms": 302210,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
     },
     {
       "added_at": "2024-05-31 04:00:00",

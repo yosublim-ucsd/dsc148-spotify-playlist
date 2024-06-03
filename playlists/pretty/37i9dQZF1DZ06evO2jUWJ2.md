@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,787 likes - 51 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,900 likes - 51 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 50 | [The One You Love](https://open.spotify.com/track/7ssoLXeu8jLn1hLbPgG3TK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 7:57 |
 | 51 | [Gone](https://open.spotify.com/track/2A0GDEZCIvKq38kj2SgENg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 4:10 |
 
-Snapshot ID: `ZlkTAAAAAADSetiHtOXV8CqkrndU66Mn`
+Snapshot ID: `ZlpkgAAAAAC3pdSY+fQdrTckcCREfPwY`

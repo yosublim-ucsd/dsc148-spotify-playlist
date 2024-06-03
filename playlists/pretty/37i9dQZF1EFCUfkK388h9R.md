@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 30 | [Watching Her Heartbreak](https://open.spotify.com/track/0PUUGNXMaLZBH6t6yaXamS) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Watching Her Heartbreak](https://open.spotify.com/album/1WEBLiRsDq6bStgx7fxLG1) | 3:03 |
 | 31 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
 | 32 | [God Fearing Men](https://open.spotify.com/track/1gFJknw0BRsI4DWr4vfSXK) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:33 |
-| 33 | [Hostess \(feat\. MORGAN\)](https://open.spotify.com/track/6bg1ttQQudY6bLj24AakE7) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Ground Control](https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0) | 3:09 |
-| 34 | [Basket](https://open.spotify.com/track/2En7vhcwb15kFzza0prsWm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:08 |
-| 35 | [Pretty Boys](https://open.spotify.com/track/5K5RpOdJ0c8gd5sbDxxcEK) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pretty Boys](https://open.spotify.com/album/0w08DJAH95mbwvAEUc5DUk) | 2:58 |
-| 36 | [Polari](https://open.spotify.com/track/2rLKyCunwwLmJ4SWZR1ou2) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:30 |
-| 37 | [Pity Party](https://open.spotify.com/track/6UQLJGWfnjbezFNQvsQxRh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:32 |
-| 38 | [Snow Angels](https://open.spotify.com/track/1qnElVL3NLrl3u3i4A2DSC) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:28 |
-| 39 | [Snake Boy City](https://open.spotify.com/track/7yczJegu2JdFnVgqc9ddEj) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6Tm4wS4LFg8vTZvnOTIwEB) | 3:39 |
-| 40 | [Me B4 U](https://open.spotify.com/track/0nsfsyK2GvHlHs7VD0Wb4o) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Me B4 U](https://open.spotify.com/album/2nPjPA6wAKt58YoNq5kIbp) | 3:30 |
-| 41 | [Duress](https://open.spotify.com/track/3uAOCXwvc6LZUPlu3fiXto) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:00 |
-| 42 | [Let the Right One In](https://open.spotify.com/track/0yxXrDd1MYIb8LNEQdc4fy) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Let the Right One In](https://open.spotify.com/album/4Vwc3fRso8tmCrlp4Rc1a4) | 3:08 |
-| 43 | [Sweet Nothing](https://open.spotify.com/track/6I3sAb5WqA06NnwkkgVCrm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:48 |
-| 44 | [Love You Less](https://open.spotify.com/track/5PFJuBIybAsfMgnwvkmDPC) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:59 |
-| 45 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 |
-| 46 | [The Very Same](https://open.spotify.com/track/4MCCyE82tkWFg3tA4TKHMe) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:59 |
-| 47 | [Unwind](https://open.spotify.com/track/1S50rRkenPLDU9TARWjxoY) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:11 |
-| 48 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
-| 49 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
+| 33 | [Freak Like Me](https://open.spotify.com/track/2oGdeSXf0cnSPXG8kZiDtB) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Freak Like Me](https://open.spotify.com/album/523xtwqIhtFAZ9ZgBJjxRS) | 1:59 |
+| 34 | [Hostess \(feat\. MORGAN\)](https://open.spotify.com/track/6bg1ttQQudY6bLj24AakE7) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Ground Control](https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0) | 3:09 |
+| 35 | [Basket](https://open.spotify.com/track/2En7vhcwb15kFzza0prsWm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:08 |
+| 36 | [Pretty Boys](https://open.spotify.com/track/5K5RpOdJ0c8gd5sbDxxcEK) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pretty Boys](https://open.spotify.com/album/0w08DJAH95mbwvAEUc5DUk) | 2:58 |
+| 37 | [Polari](https://open.spotify.com/track/2rLKyCunwwLmJ4SWZR1ou2) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:30 |
+| 38 | [Pity Party](https://open.spotify.com/track/6UQLJGWfnjbezFNQvsQxRh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:32 |
+| 39 | [Snow Angels](https://open.spotify.com/track/1qnElVL3NLrl3u3i4A2DSC) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:28 |
+| 40 | [Snake Boy City](https://open.spotify.com/track/7yczJegu2JdFnVgqc9ddEj) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6Tm4wS4LFg8vTZvnOTIwEB) | 3:39 |
+| 41 | [Me B4 U](https://open.spotify.com/track/0nsfsyK2GvHlHs7VD0Wb4o) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Me B4 U](https://open.spotify.com/album/2nPjPA6wAKt58YoNq5kIbp) | 3:30 |
+| 42 | [Duress](https://open.spotify.com/track/3uAOCXwvc6LZUPlu3fiXto) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:00 |
+| 43 | [Let the Right One In](https://open.spotify.com/track/0yxXrDd1MYIb8LNEQdc4fy) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Let the Right One In](https://open.spotify.com/album/4Vwc3fRso8tmCrlp4Rc1a4) | 3:08 |
+| 44 | [Sweet Nothing](https://open.spotify.com/track/6I3sAb5WqA06NnwkkgVCrm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:48 |
+| 45 | [Love You Less](https://open.spotify.com/track/5PFJuBIybAsfMgnwvkmDPC) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:59 |
+| 46 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 |
+| 47 | [The Very Same](https://open.spotify.com/track/4MCCyE82tkWFg3tA4TKHMe) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:59 |
+| 48 | [Unwind](https://open.spotify.com/track/1S50rRkenPLDU9TARWjxoY) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:11 |
+| 49 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
+| 50 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `AbS7NAAAAAAdMnydtwrYhaINk2W1wtq6`
+Snapshot ID: `AbTA1AAAAADwHXay4dSrd+nqQ6RfbnSJ`

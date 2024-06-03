@@ -7657,6 +7657,24 @@
     },
     {
       "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/0pHCvKwROHNhU1omeB5upG"
+      },
+      "artists": [
+        {
+          "name": "Noelle Sucks",
+          "url": "https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/4YFY125VTTBqds1wCsB1W7"
+    },
+    {
+      "album": {
         "name": "NOT YOUR GUY",
         "url": "https://open.spotify.com/album/46EJol667xsMTmS2KotaDy"
       },
@@ -11982,6 +12000,28 @@
       "duration_ms": 257674,
       "name": "While My Waves Wonder - Slow Magic Remix",
       "url": "https://open.spotify.com/track/5D6DcNe4mRDejrA68zyXTH"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6tPDyOvDtyeliclGUL6dV9"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 96115,
+  "num_followers": 96139,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -111,38 +111,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Pensaba en Ti",
-        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Enamorarme Mas",
-        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
-      },
-      "artists": [
-        {
-          "name": "Christian Ray",
-          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
-        }
-      ],
-      "duration_ms": 275426,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Voy a Amarte",
         "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
       },
@@ -159,22 +127,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU"
+        "name": "Pensaba en Ti",
+        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
       },
       "artists": [
         {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 261147,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy"
+      "duration_ms": 219116,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -195,6 +159,42 @@
       "duration_ms": 222506,
       "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
       "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Enamorarme Mas",
+        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+      },
+      "artists": [
+        {
+          "name": "Christian Ray",
+          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 261147,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -327,6 +327,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Eres Merecedor",
         "url": "https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 221393,
       "name": "Eres Merecedor",
       "url": "https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Diez Mil Razones",
-        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
-      },
-      "artists": [
-        {
-          "name": "Zander",
-          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
-        }
-      ],
-      "duration_ms": 180069,
-      "name": "Diez Mil Razones",
-      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Diez Mil Razones",
+        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
+      },
+      "artists": [
+        {
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
+        }
+      ],
+      "duration_ms": 180069,
+      "name": "Diez Mil Razones",
+      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -515,6 +515,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Ven Te Estado Esperando",
+        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 349909,
+      "name": "Hermoso Nombre",
+      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Desde Mi Alma",
         "url": "https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 171000,
       "name": "22",
       "url": "https://open.spotify.com/track/2Tqx4GFD1TfbOwBHZgltwM"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Ven Te Estado Esperando",
-        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 349909,
-      "name": "Hermoso Nombre",
-      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -667,6 +667,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Salsa De Amor Vol. 4",
+        "url": "https://open.spotify.com/album/2thWavVdha911NOv0EB2VQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "El Milagro De Tu Amor",
+      "url": "https://open.spotify.com/track/6QS38Fn4nJfpeQzYnXl9iD"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 198306,
       "name": "De Fiesta (feat. Alex Zurdo)",
       "url": "https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Salsa De Amor Vol. 4",
-        "url": "https://open.spotify.com/album/2thWavVdha911NOv0EB2VQ"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "El Milagro De Tu Amor",
-      "url": "https://open.spotify.com/track/6QS38Fn4nJfpeQzYnXl9iD"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 222458,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
         "url": "https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Quinto Elemento",
         "url": "https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Tu Voz Hablar",
-        "url": "https://open.spotify.com/album/1OxNn74h25cDuGuHkREQzN"
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
       },
       "artists": [
         {
-          "name": "Jah Love",
-          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
         }
       ],
-      "duration_ms": 236874,
-      "name": "Tu Voz Hablar",
-      "url": "https://open.spotify.com/track/4ehRzyVzgGAVbHcK8x6JyM"
+      "duration_ms": 284378,
+      "name": "Hay Un Lugar",
+      "url": "https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

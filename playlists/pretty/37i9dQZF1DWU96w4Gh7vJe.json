@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 574858,
+  "num_followers": 574833,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -243,6 +243,26 @@
       "duration_ms": 326813,
       "name": "Magbalik",
       "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
+        "name": "Pakundangan (feat. Hev Abi)",
+        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Pakundangan (feat. Hev Abi)",
+      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
       "added_at": "2024-05-08 07:36:39",
@@ -283,26 +303,6 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "Pakundangan (feat. Hev Abi)",
-        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
-      },
-      "artists": [
-        {
-          "name": "DEMI",
-          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Pakundangan (feat. Hev Abi)",
-      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
         "name": "Byahe",
         "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
         "name": "o ninanais",
         "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 252214,
       "name": "o ninanais",
       "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 269250,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
       "added_at": "2024-05-08 07:36:39",
@@ -431,6 +415,22 @@
       "duration_ms": 281296,
       "name": "tila tala",
       "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 269250,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
       "added_at": "2024-05-08 07:36:39",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "Don't Know What To Do (Don't Know What To Say)",
-        "url": "https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc"
-      },
-      "artists": [
-        {
-          "name": "Mark Carpio",
-          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
-        }
-      ],
-      "duration_ms": 167086,
-      "name": "Don't Know What To Do (Don't Know What To Say)",
-      "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
         "name": "Pity Ya",
         "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 192052,
       "name": "Pity Ya",
       "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
+        "name": "Don't Know What To Do (Don't Know What To Say)",
+        "url": "https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc"
+      },
+      "artists": [
+        {
+          "name": "Mark Carpio",
+          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
+        }
+      ],
+      "duration_ms": 167086,
+      "name": "Don't Know What To Do (Don't Know What To Say)",
+      "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
     },
     {
       "added_at": "2024-05-08 07:36:39",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "Catriona",
-        "url": "https://open.spotify.com/album/6epJqGK57I0W0PMN2kyTso"
-      },
-      "artists": [
-        {
-          "name": "Matthaios",
-          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
-        }
-      ],
-      "duration_ms": 204512,
-      "name": "Catriona",
-      "url": "https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 273493,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
+        "name": "Catriona",
+        "url": "https://open.spotify.com/album/6epJqGK57I0W0PMN2kyTso"
+      },
+      "artists": [
+        {
+          "name": "Matthaios",
+          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
+        }
+      ],
+      "duration_ms": 204512,
+      "name": "Catriona",
+      "url": "https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2"
     },
     {
       "added_at": "2024-05-08 07:36:39",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "Samahan Mo Ako",
-        "url": "https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL"
-      },
-      "artists": [
-        {
-          "name": "Hey Its Je",
-          "url": "https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Samahan Mo Ako",
-      "url": "https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
         "name": "Balse Ng Gabi",
         "url": "https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC"
       },
@@ -871,18 +855,38 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "CLAPCLAPCLAP!",
-        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
+        "name": "Samahan Mo Ako",
+        "url": "https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL"
       },
       "artists": [
         {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+          "name": "Hey Its Je",
+          "url": "https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O"
         }
       ],
-      "duration_ms": 238571,
-      "name": "Bawat Kaluluwa",
-      "url": "https://open.spotify.com/track/2gnVqlNifLIGvinryubyG4"
+      "duration_ms": 212976,
+      "name": "Samahan Mo Ako",
+      "url": "https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
+        "name": "Sakote",
+        "url": "https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy"
+      },
+      "artists": [
+        {
+          "name": "Awie",
+          "url": "https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm"
+        },
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        }
+      ],
+      "duration_ms": 289083,
+      "name": "Sakote",
+      "url": "https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d"
     }
   ],
   "unique_name": "Relax Tayo",

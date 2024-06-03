@@ -1,6 +1,6 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 323148,
+  "num_followers": 323233,
   "original_name": "Soul Workout",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -187,34 +187,18 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Gettin' Ready (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 156173,
-      "name": "Ain't Too Proud To Beg",
-      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
-    },
-    {
-      "added_at": "2024-01-16 15:12:14",
-      "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -231,6 +215,22 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2024-01-16 15:12:14",
+      "album": {
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 156173,
+      "name": "Ain't Too Proud To Beg",
+      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2024-01-16 15:12:14",
+      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
-    },
-    {
-      "added_at": "2024-01-16 15:12:14",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+      "duration_ms": 163093,
+      "name": "Come See About Me",
+      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2024-01-16 15:12:14",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 291320,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
-    },
-    {
-      "added_at": "2024-01-16 15:12:14",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Come See About Me",
-      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Living In America",
-        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Living in America",
-      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
-    },
-    {
-      "added_at": "2024-01-16 15:12:14",
-      "album": {
         "name": "The Best of Sister Sledge (1973-1985)",
         "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
       },
@@ -679,22 +663,6 @@
       "duration_ms": 287440,
       "name": "Lost in Music - 1995 Remaster",
       "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
-    },
-    {
-      "added_at": "2024-01-16 15:12:14",
-      "album": {
-        "name": "Up-Tight Everything's Alright",
-        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -747,6 +715,22 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
+        "name": "Living In America",
+        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Living in America",
+      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
+    },
+    {
+      "added_at": "2024-01-16 15:12:14",
+      "album": {
         "name": "S/t",
         "url": "https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 149293,
       "name": "Soul Connection",
       "url": "https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH"
+    },
+    {
+      "added_at": "2024-01-16 15:12:14",
+      "album": {
+        "name": "Up-Tight Everything's Alright",
+        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2024-01-16 15:12:14",

@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 75694,
+  "num_followers": 75717,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Meneando Cadera",
-        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Meneando Cadera",
-      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
-    },
-    {
-      "added_at": "2024-05-14 23:51:16",
-      "album": {
         "name": "vaMos",
         "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
-    },
-    {
-      "added_at": "2024-05-14 23:51:16",
-      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz) [Alan Rosales & TBX Remix]",
         "url": "https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ"
       },
@@ -591,6 +559,38 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
+        "name": "Meneando Cadera",
+        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "Meneando Cadera",
+      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
+    },
+    {
+      "added_at": "2024-05-14 23:51:16",
+      "album": {
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+    },
+    {
+      "added_at": "2024-05-14 23:51:16",
+      "album": {
         "name": "El Tabano",
         "url": "https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 142514,
       "name": "El Tabano",
       "url": "https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb"
+    },
+    {
+      "added_at": "2024-05-14 23:51:16",
+      "album": {
+        "name": "Brindemos Por Ellas",
+        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Baby Joss",
+          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Brindemos Por Ellas",
+      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
     },
     {
       "added_at": "2024-05-14 23:51:16",
@@ -639,22 +659,6 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Desma",
-        "url": "https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 158798,
-      "name": "Desma",
-      "url": "https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43"
-    },
-    {
-      "added_at": "2024-05-14 23:51:16",
-      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -671,22 +675,18 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Brindemos Por Ellas",
-        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
+        "name": "Desma",
+        "url": "https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf"
       },
       "artists": [
         {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Baby Joss",
-          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         }
       ],
-      "duration_ms": 208146,
-      "name": "Brindemos Por Ellas",
-      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
+      "duration_ms": 158798,
+      "name": "Desma",
+      "url": "https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43"
     },
     {
       "added_at": "2024-05-14 23:51:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Terror, Ep. 2",
-        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        }
-      ],
-      "duration_ms": 156812,
-      "name": "Gettin' Hype",
-      "url": "https://open.spotify.com/track/61ypk11tHPK6NvkapbYap1"
-    },
-    {
-      "added_at": "2024-05-14 23:51:16",
-      "album": {
         "name": "Que Suene Mexico, Vol. 3",
         "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
+        "name": "Dale Candela Dale Sabor",
+        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
+      },
+      "artists": [
+        {
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+        }
+      ],
+      "duration_ms": 155599,
+      "name": "Dale Candela Dale Sabor",
+      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
+    },
+    {
+      "added_at": "2024-05-14 23:51:16",
+      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Dale Candela Dale Sabor",
-        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
+        "name": "Terror, Ep. 2",
+        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
       },
       "artists": [
         {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
         }
       ],
-      "duration_ms": 155599,
-      "name": "Dale Candela Dale Sabor",
-      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
+      "duration_ms": 156812,
+      "name": "Gettin' Hype",
+      "url": "https://open.spotify.com/track/61ypk11tHPK6NvkapbYap1"
     },
     {
       "added_at": "2024-05-14 23:51:16",

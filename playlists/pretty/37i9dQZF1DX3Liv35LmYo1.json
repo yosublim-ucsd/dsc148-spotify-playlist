@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106233,
+  "num_followers": 106232,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Justine",
+        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Justine",
+      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -451,6 +467,22 @@
       "duration_ms": 282349,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 308623,
+      "name": "by the reservoir",
+      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -483,38 +515,6 @@
       "duration_ms": 211428,
       "name": "Sweet Memory",
       "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 308623,
-      "name": "by the reservoir",
-      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Justine",
-        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Justine",
-      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "CIRCLES",
         "url": "https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD"
       },
@@ -691,22 +675,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "In Response",
-        "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
       },
       "artists": [
         {
-          "name": "Thrupence",
-          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
-        },
-        {
-          "name": "Jack Vanzet",
-          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 214920,
-      "name": "In Response",
-      "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -727,6 +707,26 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "In Response",
+        "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
+      },
+      "artists": [
+        {
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        },
+        {
+          "name": "Jack Vanzet",
+          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "In Response",
+      "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "BOY / if u wanna cry",
         "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 183204,
       "name": "BOY",
       "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Blue Spring",
-        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 238826,
       "name": "Have You Felt Lately? - Brijean Remix",
       "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "'I Wanted More' EP",
+        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 333694,
+      "name": "I Wanted More",
+      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
     },
     {
       "added_at": "2023-08-31 14:00:00",

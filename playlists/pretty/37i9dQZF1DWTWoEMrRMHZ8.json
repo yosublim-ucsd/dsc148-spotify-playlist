@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Melly",
-  "num_followers": 343994,
+  "num_followers": 344030,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Ontem Eu Tinha Certeza (Hoje Eu Tenho Mais)",
         "url": "https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo"
       },
@@ -243,26 +263,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Que Tal Um Samba? (Ao Vivo)",
         "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 160231,
-      "name": "Cremosa",
-      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 160231,
+      "name": "Cremosa",
+      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -487,18 +487,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Golpe Baixo",
-        "url": "https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K"
+        "name": "Mariana e Mestrinho",
+        "url": "https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8"
       },
       "artists": [
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 158749,
-      "name": "Golpe Baixo",
-      "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
+      "duration_ms": 249554,
+      "name": "At\u00e9 o fim",
+      "url": "https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -535,26 +543,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Mariana e Mestrinho",
-        "url": "https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8"
+        "name": "Golpe Baixo",
+        "url": "https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K"
       },
       "artists": [
         {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
         }
       ],
-      "duration_ms": 249554,
-      "name": "At\u00e9 o fim",
-      "url": "https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R"
+      "duration_ms": 158749,
+      "name": "Golpe Baixo",
+      "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -591,6 +591,22 @@
       "duration_ms": 181169,
       "name": "Como Vai Voc\u00ea",
       "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Sons da Lagoa",
+        "url": "https://open.spotify.com/album/02tnPTnWp0MT6UREYoJhbP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Diniz",
+          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "Sons da Lagoa",
+      "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 242000,
       "name": "Apazigua",
       "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Sons da Lagoa",
-        "url": "https://open.spotify.com/album/02tnPTnWp0MT6UREYoJhbP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Diniz",
-          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
-        }
-      ],
-      "duration_ms": 135346,
-      "name": "Sons da Lagoa",
-      "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/6FJnOvFisHuRl54X9wedcP"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Sou Eu Que Vou Trabalhar",
-        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
-      },
-      "artists": [
-        {
-          "name": "TRAGO",
-          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Gustavo Ruiz",
-          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
-        },
-        {
-          "name": "Alexandre Orion",
-          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
-        },
-        {
-          "name": "Rica Amabis",
-          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
-        }
-      ],
-      "duration_ms": 167713,
-      "name": "Sou Eu Que Vou Trabalhar",
-      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Riviera",
         "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 244500,
       "name": "Absurdo",
       "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Sou Eu Que Vou Trabalhar",
+        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        }
+      ],
+      "duration_ms": 167713,
+      "name": "Sou Eu Que Vou Trabalhar",
+      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "ME SURPREENDA",
-        "url": "https://open.spotify.com/album/74YffXxNm2i84YVvc5R4X4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "George Israel",
-          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
-        }
-      ],
-      "duration_ms": 212454,
-      "name": "ME SURPREENDA",
-      "url": "https://open.spotify.com/track/19rG9ASlDA0deMhYyGBb5K"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Vaga-Lumes",
         "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 181226,
       "name": "Vaga-Lumes",
       "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "ME SURPREENDA",
+        "url": "https://open.spotify.com/album/74YffXxNm2i84YVvc5R4X4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "George Israel",
+          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
+        }
+      ],
+      "duration_ms": 212454,
+      "name": "ME SURPREENDA",
+      "url": "https://open.spotify.com/track/19rG9ASlDA0deMhYyGBb5K"
     },
     {
       "added_at": "2024-05-31 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60028,
+  "num_followers": 60032,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Dilo! Homenaje a P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
-      },
-      "artists": [
-        {
-          "name": "Los M\u00fasicos De Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
-    },
-    {
       "added_at": "2023-03-16 20:51:30",
       "album": {
         "name": "Ascendentes",
@@ -257,6 +241,22 @@
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Dilo! Homenaje a P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
+      },
+      "artists": [
+        {
+          "name": "Los M\u00fasicos De Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
+    },
+    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -271,6 +271,22 @@
       "duration_ms": 238000,
       "name": "Jazztepec",
       "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -311,22 +327,6 @@
       "duration_ms": 285386,
       "name": "2 Cartas",
       "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz",
         "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 157586,
       "name": "Tipitipit\u00edn",
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

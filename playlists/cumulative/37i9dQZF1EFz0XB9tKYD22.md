@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-315 songs - 18 hr 45 min
+316 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2024-02-27 |  |
 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 | 2024-02-27 |  |
 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 | 2024-02-27 |  |
-| [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 | 2024-02-27 |  |
+| [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 | 2024-02-27 | 2024-06-03 |
 | [I'm Not Sad Anymore](https://open.spotify.com/track/0Jb6tCbyYQl3WF4wBcfafj) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 | 2024-02-27 |  |
 | [I'm Not so Tough](https://open.spotify.com/track/0QlDzeI31sMoBzGAyB0Olm) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [World Of Hurt](https://open.spotify.com/album/4cfMqW4uICDNhkn58pPH4r) | 4:27 | 2024-02-27 |  |
 | [I've Forgotten You](https://open.spotify.com/track/0dqoJp7npFDTwqinf6TTvY) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Everything And More](https://open.spotify.com/album/3C63y4p2NxDkfLVoUbkdTu) | 3:48 | 2024-02-27 |  |
@@ -176,6 +176,7 @@
 | [Medicine \(feat\. Blake Shelton\)](https://open.spotify.com/track/7vvqns9A9v9CuC8MlUDPnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:18 | 2024-02-27 |  |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2024-02-27 |  |
 | [Mine](https://open.spotify.com/track/6LxvSVIXjn7Qy8vIW5E5S0) | [Swordbelt's Band](https://open.spotify.com/artist/3iB2MxQhPEr7ShkGKH29bk) | [Top Hits\-Country](https://open.spotify.com/album/7wVFWTUWTVIf8Qp4z0ON1w) | 3:56 | 2024-02-27 |  |
+| [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 | 2024-06-02 |  |
 | [My Weakness](https://open.spotify.com/track/5F9sYyKHnLshRcwXOWmY1w) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4) | 3:55 | 2024-02-27 |  |
 | [Need A Boat](https://open.spotify.com/track/5UmCoA8uugbNcVAfKMW3P2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:05 | 2024-02-27 |  |
 | [Never Be Forgotten](https://open.spotify.com/track/5xlweSDmZNhOZVmnkiqwS3) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Now](https://open.spotify.com/album/7DRYIaKhFc7sHNNIS0Erme) | 3:47 | 2024-02-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 8115,
+  "num_followers": 8117,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAAAOjPwbWO3M6/tYxWxzoes2",
+  "snapshot_id": "ZlpkgAAAAABFdflCGmwBgpuceEdH1DOo",
   "tracks": [
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waste of Lime",
-        "url": "https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 188106,
-      "name": "Waste of Lime",
-      "url": "https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO"
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Runnin (with JP Saxe)",
-      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Comeback (Deluxe)",
         "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 193561,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Runnin (with JP Saxe)",
+      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
       "duration_ms": 225977,
       "name": "All The Love",
       "url": "https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 169415,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/52nr0MLyxZwe6zcSo7Jfmr"
     }
   ],
   "unique_name": "This Is Ingrid Andress",

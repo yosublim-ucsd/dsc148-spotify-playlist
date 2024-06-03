@@ -1,6 +1,6 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Zartmann",
-  "num_followers": 25771,
+  "num_followers": 25777,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Ski Aggu",
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
       "duration_ms": 131773,

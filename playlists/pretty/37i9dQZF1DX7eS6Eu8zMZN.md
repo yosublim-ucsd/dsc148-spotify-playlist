@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,751 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,787 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

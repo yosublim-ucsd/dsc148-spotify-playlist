@@ -1,6 +1,6 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 22074,
+  "num_followers": 22078,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
         "name": "Jangrova (feat. Tribal Mark)",
         "url": "https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 166615,
       "name": "Jangrova (feat. Tribal Mark)",
       "url": "https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 152283,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
     },
     {
       "added_at": "2024-05-31 06:45:40",
@@ -539,94 +539,6 @@
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
-        "name": "Maneuver",
-        "url": "https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ"
-      },
-      "artists": [
-        {
-          "name": "Gnewzy",
-          "url": "https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "Maneuver",
-      "url": "https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
         "name": "PICANTO",
         "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
@@ -651,6 +563,110 @@
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
+        "name": "Maneuver",
+        "url": "https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ"
+      },
+      "artists": [
+        {
+          "name": "Gnewzy",
+          "url": "https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "Maneuver",
+      "url": "https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
+        "name": "Egberi",
+        "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Egberi",
+      "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
-        "name": "Egberi",
-        "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 139714,
-      "name": "Egberi",
-      "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2024-05-31 06:45:40",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
         "name": "Oppress",
         "url": "https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
-        "name": "Will Be",
-        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
-      },
-      "artists": [
-        {
-          "name": "Michealz",
-          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Will Be",
-      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
-    },
-    {
-      "added_at": "2024-05-31 06:45:40",
-      "album": {
         "name": "The Prophecy",
         "url": "https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 207882,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0nqRxAaO2AzoEQABbDh6n6"
+    },
+    {
+      "added_at": "2024-05-31 06:45:40",
+      "album": {
+        "name": "Will Be",
+        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
+      },
+      "artists": [
+        {
+          "name": "Michealz",
+          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Will Be",
+      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
     },
     {
       "added_at": "2024-05-31 06:45:40",
@@ -931,50 +931,46 @@
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
-        "name": "Evil Twin",
-        "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 152558,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
+      "duration_ms": 199322,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
     },
     {
       "added_at": "2024-05-31 06:45:40",
       "album": {
-        "name": "Untitled (feat. ODUMODUBLVCK, PsychoYP)",
-        "url": "https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk"
+        "name": "Assignment",
+        "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
       },
       "artists": [
         {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+          "name": "KiddBlack",
+          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "DJ FortuneDJ",
+          "url": "https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Untitled (feat. ODUMODUBLVCK, PsychoYP)",
-      "url": "https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP"
+      "duration_ms": 137472,
+      "name": "Assignment",
+      "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
     }
   ],
   "unique_name": "Pump it Up ",

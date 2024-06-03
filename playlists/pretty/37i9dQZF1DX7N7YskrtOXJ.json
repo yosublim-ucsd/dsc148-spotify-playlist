@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 91223,
+  "num_followers": 91270,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,42 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Entre Beso y Beso",
+        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Entre Beso y Beso",
+      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "El Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
       },
@@ -247,38 +283,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Entre Beso y Beso",
-        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Entre Beso y Beso",
-      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 212754,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Torres Del Paine",
         "url": "https://open.spotify.com/album/3uFl4jYrz03lLruD5N1tkC"
       },
@@ -291,62 +295,6 @@
       "duration_ms": 184917,
       "name": "Torres Del Paine",
       "url": "https://open.spotify.com/track/6El1GAPRHcoP2rxERMz2Jj"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "El Amor de Mi Vida",
-        "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -383,6 +331,42 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 212754,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 218680,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -463,22 +447,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 180912,
-      "name": "Cinco D\u00edas",
-      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "En El Ojo Del Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 193826,
       "name": "EL Gil De Tu Ex",
       "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 180912,
+      "name": "Cinco D\u00edas",
+      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 214120,
       "name": "La resaka",
       "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -639,6 +639,22 @@
       "duration_ms": 190800,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -731,38 +747,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 236448,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
         "url": "https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+        "name": "Somos Parte de Tu Vida",
+        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
         }
       ],
-      "duration_ms": 187546,
-      "name": "Yo Me Enamore",
-      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+      "duration_ms": 264000,
+      "name": "Mujeres y Cerveza",
+      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 236448,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -859,38 +859,6 @@
       "duration_ms": 356938,
       "name": "La Santa Diabla",
       "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Un Hombre No Llora",
-        "url": "https://open.spotify.com/album/5d0LrF2Sr4MTPomdDSglYI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 300068,
-      "name": "Un Hombre No Llora",
-      "url": "https://open.spotify.com/track/3i78S2Cm2V66QGkohxsqBD"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Somos Parte de Tu Vida",
-        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Mujeres y Cerveza",
-      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -927,22 +895,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Feliz Con Verte",
-        "url": "https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
       "artists": [
         {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        },
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 193636,
-      "name": "Feliz Con Verte",
-      "url": "https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM"
+      "duration_ms": 187546,
+      "name": "Yo Me Enamore",
+      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -963,6 +927,42 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Feliz Con Verte",
+        "url": "https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph"
+      },
+      "artists": [
+        {
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Feliz Con Verte",
+      "url": "https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Un Hombre No Llora",
+        "url": "https://open.spotify.com/album/5d0LrF2Sr4MTPomdDSglYI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 300068,
+      "name": "Un Hombre No Llora",
+      "url": "https://open.spotify.com/track/3i78S2Cm2V66QGkohxsqBD"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Sin Remedio",
         "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 299426,
       "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
       "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 220369,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1007,6 +1023,22 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "La Terrible Pulenta",
+        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "La Tortuga Vacilona",
+      "url": "https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1059,6 +1091,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 192073,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -1071,38 +1119,6 @@
       "duration_ms": 202706,
       "name": "Gotitas",
       "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 220369,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "La Terrible Pulenta",
-        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "La Tortuga Vacilona",
-      "url": "https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 192073,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "A Morir",
         "url": "https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 232515,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Vive El Momento",
+        "url": "https://open.spotify.com/album/6HpMKbdPtycogKmuBHerl4"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 223877,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/48oS8fgEqBEZKZwKQUJlIx"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1219,38 +1235,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
-      },
-      "artists": [
-        {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Caprichito",
-      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Vive El Momento",
-        "url": "https://open.spotify.com/album/6HpMKbdPtycogKmuBHerl4"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 223877,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/48oS8fgEqBEZKZwKQUJlIx"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Compa\u00f1eros",
         "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 245581,
       "name": "Compa\u00f1eros",
       "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+      },
+      "artists": [
+        {
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Amada Mia",
-        "url": "https://open.spotify.com/album/7Jau7EOZDzVZakLQXcou2l"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Azul",
-          "url": "https://open.spotify.com/artist/4sqQQ8WmsmEUymIO1OiH6i"
-        }
-      ],
-      "duration_ms": 222499,
-      "name": "Me emborraho",
-      "url": "https://open.spotify.com/track/4H5gKv0rJQCcra0DPzaifq"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Mil Amores",
         "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Amor y Caos",
-        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
+        "name": "Amada Mia",
+        "url": "https://open.spotify.com/album/7Jau7EOZDzVZakLQXcou2l"
       },
       "artists": [
         {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+          "name": "Reflejo Azul",
+          "url": "https://open.spotify.com/artist/4sqQQ8WmsmEUymIO1OiH6i"
         }
       ],
-      "duration_ms": 194895,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
+      "duration_ms": 222499,
+      "name": "Me emborraho",
+      "url": "https://open.spotify.com/track/4H5gKv0rJQCcra0DPzaifq"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Amor y Caos",
+        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Afrorumba Chilenera",
         "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
       },
@@ -1427,42 +1427,6 @@
       "duration_ms": 209173,
       "name": "Callejero",
       "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Me Acord\u00e9 de Ti",
-        "url": "https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Me Acord\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/4uw085GYeRq0JjiVHfEoU4"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "La Terrible Pulenta",
-        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        },
-        {
-          "name": "Pollo Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV"
-        }
-      ],
-      "duration_ms": 147226,
-      "name": "Cumbia de la G\u00fcena",
-      "url": "https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1483,18 +1447,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Saca La Casa Pal Mambo",
-        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
+        "name": "Me Acord\u00e9 de Ti",
+        "url": "https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi"
       },
       "artists": [
         {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 162084,
-      "name": "Saca La Casa Pal Mambo",
-      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
+      "duration_ms": 174333,
+      "name": "Me Acord\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/4uw085GYeRq0JjiVHfEoU4"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1531,6 +1495,26 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "La Terrible Pulenta",
+        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        },
+        {
+          "name": "Pollo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV"
+        }
+      ],
+      "duration_ms": 147226,
+      "name": "Cumbia de la G\u00fcena",
+      "url": "https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Teatro Monumental (En Vivo)",
         "url": "https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 516187,
       "name": "Palomita / Olguita / Enga\u00f1adora / Mi Gran Amor (En Vivo)",
       "url": "https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Saca La Casa Pal Mambo",
+        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        }
+      ],
+      "duration_ms": 162084,
+      "name": "Saca La Casa Pal Mambo",
+      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Grupo Hechizo",
+        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "La Makinita",
         "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
       },
@@ -1643,34 +1659,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Grupo Hechizo",
-        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+        "name": "El Sonido Inconfundible",
+        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+          "name": "D'Latin Sound",
+          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
         }
       ],
-      "duration_ms": 206240,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Amada Mia",
-        "url": "https://open.spotify.com/album/7Jau7EOZDzVZakLQXcou2l"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Azul",
-          "url": "https://open.spotify.com/artist/4sqQQ8WmsmEUymIO1OiH6i"
-        }
-      ],
-      "duration_ms": 245852,
-      "name": "Amargo y Dulce",
-      "url": "https://open.spotify.com/track/2xheF7VmKb66wgiBNETd4L"
+      "duration_ms": 190600,
+      "name": "Ritmo Loco",
+      "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
     },
     {
       "added_at": "2024-03-29 15:00:00",

@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "act n' chill",
+        "url": "https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1"
+      },
+      "artists": [
+        {
+          "name": "HPY DAYZ",
+          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "act n' chill",
+      "url": "https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE"
+    },
+    {
+      "album": {
         "name": "In A Dream There Is No Frame",
         "url": "https://open.spotify.com/album/2FXju1IPiakNGLZ1nbORjK"
       },
@@ -30223,6 +30241,24 @@
     },
     {
       "album": {
+        "name": "Do not forget",
+        "url": "https://open.spotify.com/album/3uPT9OLRvCXlKGTSnviWgd"
+      },
+      "artists": [
+        {
+          "name": "Perry Goldfish",
+          "url": "https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Do not forget",
+      "url": "https://open.spotify.com/track/1rUtzvQGTNYap9gPlEg1Er"
+    },
+    {
+      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/0UdhX7vkiUBr9p9qcatDH3"
       },
@@ -30728,7 +30764,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 133915,
       "name": "done negotiating",
       "url": "https://open.spotify.com/track/0ux3lVcqISx0kFr0cYYbLG"
@@ -43358,7 +43394,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 123066,
       "name": "funk lullaby",
       "url": "https://open.spotify.com/track/10RfgyoekaDTF7I4t7QAvW"
@@ -66868,7 +66904,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 108375,
       "name": "Lost in Space",
       "url": "https://open.spotify.com/track/6uYy46Yaqad9NhwlOlHLpY"
@@ -74824,7 +74860,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 143840,
       "name": "Mooner",
       "url": "https://open.spotify.com/track/7Lp5Gegz0bHQ1S9bIr2X95"
@@ -110291,6 +110327,24 @@
     },
     {
       "album": {
+        "name": "sunbed",
+        "url": "https://open.spotify.com/album/4wwoExOEBwsdlcjYHgXePG"
+      },
+      "artists": [
+        {
+          "name": "Parelo",
+          "url": "https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125875,
+      "name": "sunbed",
+      "url": "https://open.spotify.com/track/2pGDKCGHfj4b4UPOaRtMcq"
+    },
+    {
+      "album": {
         "name": "sunburn",
         "url": "https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ"
       },
@@ -111238,6 +111292,24 @@
       "duration_ms": 173242,
       "name": "Sunny Sad",
       "url": "https://open.spotify.com/track/0jMwQvmoKDxaMaRx0cqsaP"
+    },
+    {
+      "album": {
+        "name": "Sunny Side",
+        "url": "https://open.spotify.com/album/3qhjESGg47HWA4vcRdS8TZ"
+      },
+      "artists": [
+        {
+          "name": "ninetytwo.",
+          "url": "https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118651,
+      "name": "Sunny Side",
+      "url": "https://open.spotify.com/track/50IYpgJ4swioyNFfti9M6l"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Jovem Dionisio",
-  "num_followers": 371335,
+  "num_followers": 371322,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,50 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Joga Pra Lua",
+        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 125108,
+      "name": "Joga Pra Lua",
+      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Sagrado Profano",
+        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 196601,
+      "name": "Sagrado Profano",
+      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -347,70 +391,6 @@
       "duration_ms": 205111,
       "name": "Dano Sarrada",
       "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Joga Pra Lua",
-        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 125108,
-      "name": "Joga Pra Lua",
-      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Raio X - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -455,6 +435,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "PRISCILLA",
         "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
@@ -475,6 +475,30 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Double Team",
+        "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 231628,
+      "name": "Double Team",
+      "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
@@ -487,6 +511,26 @@
       "duration_ms": 175086,
       "name": "Me Lambe",
       "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Raio X - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -531,50 +575,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Sagrado Profano",
-        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 196601,
-      "name": "Sagrado Profano",
-      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Double Team",
-        "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 231628,
-      "name": "Double Team",
-      "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
         "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 155605,
       "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
       "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "A Gente S\u00f3 Conhece Quando Termina",
-        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "A Gente S\u00f3 Conhece Quando Termina",
-      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -631,22 +615,34 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Quase N\u00e3o Namoro",
-        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 135456,
-      "name": "Quase N\u00e3o Namoro",
-      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+      "duration_ms": 201612,
+      "name": "Alinhamento Milenar",
+      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "A Gente S\u00f3 Conhece Quando Termina",
+        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "A Gente S\u00f3 Conhece Quando Termina",
+      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -663,22 +659,6 @@
       "duration_ms": 179820,
       "name": "Quatro Da Manh\u00e3",
       "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 201612,
-      "name": "Alinhamento Milenar",
-      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -723,6 +703,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Quase N\u00e3o Namoro",
+        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 135456,
+      "name": "Quase N\u00e3o Namoro",
+      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Codinome Exagerado",
         "url": "https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh"
       },
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "N\u00e3o Posta",
-        "url": "https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "N\u00e3o Posta",
-      "url": "https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 144683,
       "name": "Voo 1360",
       "url": "https://open.spotify.com/track/6IK3PL5f3VxhG2cKhpqMSF"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "N\u00e3o Posta",
+        "url": "https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "N\u00e3o Posta",
+      "url": "https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 172950,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -871,22 +855,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Chapei",
         "url": "https://open.spotify.com/album/2ApT9YFOhBCy1Ypo1PABJ6"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 126000,
       "name": "Chapei",
       "url": "https://open.spotify.com/track/1hAtlSwwF45JtIBsDEli9X"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Tudo Pra Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Tudo Pra Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Afropaty",
         "url": "https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 142000,
       "name": "Afropaty",
       "url": "https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Tudo Pra Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Tudo Pra Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"
     },
     {
       "added_at": "2024-05-31 03:00:00",

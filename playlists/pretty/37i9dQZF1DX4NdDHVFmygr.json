@@ -1,12 +1,12 @@
 {
   "description": "Manal en t\u00eate des hits populaires au Maroc.",
-  "num_followers": 259218,
+  "num_followers": 259381,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlmBDQAAAADEAd067FImynGcS/HrY/Nh",
+  "snapshot_id": "ZlwOHwAAAACPVw4Ytp/jQm2lPYWStAEw",
   "tracks": [
     {
       "added_at": "2024-05-31 07:49:33",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-05-31 07:49:33",
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
         "name": "C'est pas joli",
         "url": "https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 191229,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ"
-    },
-    {
-      "added_at": "2024-05-31 07:49:33",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
-      },
-      "artists": [
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 165775,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
       "added_at": "2024-05-31 07:49:33",
@@ -291,6 +291,26 @@
       "duration_ms": 145783,
       "name": "Di Mochkila",
       "url": "https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "added_at": "2024-05-31 07:49:33",
@@ -427,26 +447,6 @@
       "duration_ms": 244800,
       "name": "TRAP ROUMI V5",
       "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"
-    },
-    {
-      "added_at": "2024-05-31 07:49:33",
-      "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "added_at": "2024-05-31 07:49:33",

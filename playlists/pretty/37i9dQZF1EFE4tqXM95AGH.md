@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095 likes - 168 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 168 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 62 | [Revelation](https://open.spotify.com/track/7sUJolVaoEBoP4l4qHiQSe) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Boy Erased \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QSiPewI3wL9NU4znGgrw5) | 3:51 |
 | 63 | [Cool](https://open.spotify.com/track/0pJObmIY6LQTvZEuE6MLa2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:34 |
 | 64 | [STUD](https://open.spotify.com/track/1trCZF4aa39AhDCfTBw8Qn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:29 |
-| 65 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
-| 66 | [Honey](https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:26 |
+| 65 | [Honey](https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:26 |
+| 66 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
 | 67 | [Ignore Me](https://open.spotify.com/track/6y1mECFOYFmYSGsRM0pEZR) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:15 |
 | 68 | [U12](https://open.spotify.com/track/6zqO3HXUuZrj9c2VMVaOyu) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:23 |
 | 69 | [Thirsty](https://open.spotify.com/track/7LDzQTet3Z9pjplwHCNv2U) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:19 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 151 | [Horizontal](https://open.spotify.com/track/6Sb9PMrcPxtImC7tli7ubJ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:59 |
 | 152 | [The Way It Felt To Love You](https://open.spotify.com/track/3fiMdp5V5W07qJQs29nZZU) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [To Fall Asleep](https://open.spotify.com/album/4zst0WAtcY1VwixfMox4jB) | 3:18 |
 | 153 | [Dinner](https://open.spotify.com/track/29BqG5QWNQ812jFontF5yJ) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Love, Victor: Season 3 \(Original Soundtrack\)](https://open.spotify.com/album/19xxnBkkYArMHavIT1c2Hr) | 2:53 |
-| 154 | [RUM PUM PUM](https://open.spotify.com/track/3K64KNHsI85rLpAjCpYKGq) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC) | 2:22 |
-| 155 | [This Hot](https://open.spotify.com/track/1rWU7p9FB66Q0p6amgjUJU) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [This Hot](https://open.spotify.com/album/72uQVTelpMHnNG7QnVL7Kb) | 1:59 |
+| 154 | [This Hot](https://open.spotify.com/track/1rWU7p9FB66Q0p6amgjUJU) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [This Hot](https://open.spotify.com/album/72uQVTelpMHnNG7QnVL7Kb) | 1:59 |
+| 155 | [RUM PUM PUM](https://open.spotify.com/track/3K64KNHsI85rLpAjCpYKGq) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC) | 2:22 |
 | 156 | [18](https://open.spotify.com/track/2HRtEshcLcLw0ghe2qxE2I) | [Nyssa Collins](https://open.spotify.com/artist/4aDJtzjSDS5Rl817geLEea) | [18](https://open.spotify.com/album/03iZOdrV6yQo3oaQDzsmFd) | 3:25 |
 | 157 | [Get To Know You](https://open.spotify.com/track/7a9zJFrD6coK0js8mUstZI) | [Timomatic](https://open.spotify.com/artist/3jEg5HvT2cuJQDjwjZxTb0) | [Timomatic](https://open.spotify.com/album/2tbVb2SlU8ovbP2sx7CsSF) | 3:39 |
 | 158 | [Gagging For You](https://open.spotify.com/track/036coFgVsED857VDnMMuRW) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Gagging For You](https://open.spotify.com/album/24WxSNj5eqgQDrKZ9WH8sI) | 2:05 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 167 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 168 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AbS7AgAAAADx1qhWz3MbU4W7psOJfhwA`
+Snapshot ID: `AbTAogAAAACcT5cv1fU/3Ae8kgUXESim`

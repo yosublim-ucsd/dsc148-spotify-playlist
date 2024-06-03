@@ -7628,7 +7628,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 136615,
       "name": "Miami (Sax in the City)",
       "url": "https://open.spotify.com/track/427Xdb0p1jZ5mHtU4FEheH"
@@ -13194,6 +13194,32 @@
       "duration_ms": 158739,
       "name": "XXX",
       "url": "https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf"
+    },
+    {
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/0QmmgE8rIxBxkU6L6IM3pa"
+      },
+      "artists": [
+        {
+          "name": "julien",
+          "url": "https://open.spotify.com/artist/0Er19QHYcwlekKGGUPd3xU"
+        },
+        {
+          "name": "Saintro P Sax Up",
+          "url": "https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y"
+        },
+        {
+          "name": "cloudseven",
+          "url": "https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146776,
+      "name": "you",
+      "url": "https://open.spotify.com/track/7BnRXdSpJ1Nn8bTrOIXrjT"
     },
     {
       "album": {

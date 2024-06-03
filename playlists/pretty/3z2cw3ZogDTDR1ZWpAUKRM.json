@@ -6,7 +6,7 @@
     "name": "ssamt",
     "url": "https://open.spotify.com/user/ssamt"
   },
-  "snapshot_id": "AAAAS4RCVJnnfu0ixafy6urlxLXEDaj6",
+  "snapshot_id": "AAAAT34LAXIMs3Eneg1y6Qakb92Nn3Yq",
   "tracks": [
     {
       "added_at": "2024-05-02 13:52:50",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM"
     },
     {
-      "added_at": "2024-05-16 15:30:08",
-      "album": {
-        "name": "Come From Away (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6SisHkIpxo4JN5kRcBEv9Z"
-      },
-      "artists": [
-        {
-          "name": "'Come From Away' Company",
-          "url": "https://open.spotify.com/artist/3yVB4N2PhQy60dAxzCoNdQ"
-        }
-      ],
-      "duration_ms": 104293,
-      "name": "Darkness And Trees - Reprise",
-      "url": "https://open.spotify.com/track/45kgznK2dCoCfhIXhanR1y"
-    },
-    {
       "added_at": "2024-05-16 15:36:21",
       "album": {
         "name": "Picaresque",
@@ -189,20 +173,40 @@
       "url": "https://open.spotify.com/track/3GDIZO71jiE1FEcHEJh3RH"
     },
     {
-      "added_at": "2024-05-10 11:12:20",
+      "added_at": "2024-06-02 03:44:42",
       "album": {
-        "name": "First Love (The Original & the Very First Recording)",
-        "url": "https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh"
+        "name": "The Parting Glass (feat. Darlingside) (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO"
       },
       "artists": [
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 188786,
-      "name": "River Flows In You",
-      "url": "https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU"
+      "duration_ms": 171499,
+      "name": "The Parting Glass (feat. Darlingside) (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr"
+    },
+    {
+      "added_at": "2024-06-02 03:45:52",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K"
     }
   ],
   "unique_name": "twelve",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pancho Barraza. Los temas esenciales, todos en una lista.",
-  "num_followers": 144178,
+  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
+  "num_followers": 144222,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAACYCvmUo0yKd8T+mjvq6Rqh",
+  "snapshot_id": "ZlpkgAAAAAA5C/wmE4a6BMZQVZ4G9QKB",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polvo Y Nada",
         "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 214505,
       "name": "Polvo Y Nada",
       "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193317,
-      "name": "Adi\u00f3s, Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De Mi Repertorio",
-        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 208399,
-      "name": "Los Amantes",
-      "url": "https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 192992,
       "name": "Mi Amor Sin Ella",
       "url": "https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De Mi Repertorio",
+        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 208399,
+      "name": "Los Amantes",
+      "url": "https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 218012,
       "name": "Pasion de Amor",
       "url": "https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL"
     },
     {
       "added_at": null,
@@ -539,26 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
       },
       "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 168166,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
     },
     {
       "added_at": null,
@@ -583,22 +579,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
       "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
         }
       ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
+      "duration_ms": 168166,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pero La Recuerdo",
         "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 225653,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
     },
     {
       "added_at": null,

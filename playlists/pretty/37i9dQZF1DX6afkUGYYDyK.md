@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,137 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,138 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 32 | [We Give You Thanks](https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 5:35 |
 | 33 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 34 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 |
-| 35 | [Always So Good \- Live](https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Pour Your Spirit Out \(Live\)](https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs) | 5:53 |
-| 36 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
+| 35 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
+| 36 | [Always So Good \- Live](https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Pour Your Spirit Out \(Live\)](https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs) | 5:53 |
 | 37 | [Give Thanks](https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Give Thanks](https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE) | 3:13 |
 | 38 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
 | 39 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 52 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |
 | 53 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
 | 54 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
-| 55 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 |
-| 56 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
+| 55 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
+| 56 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 |
 | 57 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
 | 58 | [Give Thanks to God](https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk) | 5:53 |
 | 59 | [Give Thanks](https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Give Thanks](https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN) | 5:05 |

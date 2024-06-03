@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 184200,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/3yeCINGZ8cCCoIVV5XZfdV"
@@ -1360,6 +1360,32 @@
       "duration_ms": 183413,
       "name": "Vas a Volver",
       "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9 Junto A Ti",
+        "url": "https://open.spotify.com/album/57nBKpVmThXdHnT0r7ZbJq"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "LP Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Volver\u00e9 Junto A Ti",
+      "url": "https://open.spotify.com/track/6xtzNh0lnXsdVBOIC5ZR2w"
     },
     {
       "album": {

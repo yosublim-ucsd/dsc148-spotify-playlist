@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 233066,
       "name": "Always On The Run",
       "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 290826,
       "name": "Black Velveteen",
       "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 257733,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 255573,
       "name": "Lady",
       "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 227833,
       "name": "Love Is My Religion",
       "url": "https://open.spotify.com/track/6WCecolVt0VmyXdXKNP4tT"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 260399,
       "name": "Stand By My Woman",
       "url": "https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 255693,
       "name": "Stillness Of Heart",
       "url": "https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92"
@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327378,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
+    },
+    {
+      "album": {
         "name": "TK421",
         "url": "https://open.spotify.com/album/61cdO9Uj40jzlDGuzrO7Lv"
       },
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 195266,
       "name": "TK421 - Single Version",
       "url": "https://open.spotify.com/track/1yrk5j7MegvbBqXnsQgw1I"
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 280293,
       "name": "We Can Get It All Together",
       "url": "https://open.spotify.com/track/4VCvcqaN8JZUtArycNezHm"

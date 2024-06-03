@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2024 🍉
 
-369 songs - 18 hr 1 min
+370 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Lucky Star](https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4) | [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Lucky Star](https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN) | 3:12 | 2022-06-03 | 2023-05-16 |
 | [Lullaby](https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Lullaby](https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7) | 3:24 | 2022-07-22 | 2023-05-05 |
 | [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 | 2023-03-21 |  |
+| [MAGNET \(with MAX\)](https://open.spotify.com/track/7yaU5ku53ZS7bmivN9ZYzg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [MAGNET \(with MAX\)](https://open.spotify.com/album/27RxJ1eplbfpUmIX529vcu) | 3:22 | 2024-05-31 |  |
 | [Make You Feel Like](https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Make You Feel Like](https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU) | 3:07 | 2022-05-06 | 2023-03-22 |
 | [Malibu](https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Malibu](https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33) | 2:28 | 2022-05-06 | 2023-06-18 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-03-21 |  |
@@ -323,7 +324,7 @@
 | [Sunrise](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/6a65EL0FbTxEZ837CMrtYg) | 2:18 | 2023-10-13 | 2024-03-29 |
 | [Superstars](https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Kid Vincent](https://open.spotify.com/artist/6p2OJnQ2LD6Yp58rUULMle) | [Superstars](https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A) | 2:57 | 2022-07-29 | 2022-09-12 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2022-05-06 | 2023-06-10 |
-| [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-22 |  |
+| [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-22 | 2024-06-03 |
 | [Take Me Higher](https://open.spotify.com/track/1I4gjXM9E0foe5szjxZRFf) | [ASSANDRI](https://open.spotify.com/artist/5q66wQfrI0FBTYvk9URCES) | [Take Me Higher](https://open.spotify.com/album/0GSe5e4ONUe4oN0QKvXrlq) | 3:24 | 2022-05-17 | 2022-07-29 |
 | [Tangerine Skies](https://open.spotify.com/track/0HlKVWqNINphxorvga3cRR) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/28HcOL3JfPW8LbFmHc6WZk) | 3:10 | 2022-05-06 | 2022-07-29 |
 | [Tangerine Skies](https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5) | 3:12 | 2022-07-22 | 2023-05-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 498 songs - 1 day 8 hr 45 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 499 songs - 1 day 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -506,5 +506,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 496 | [Coda](https://open.spotify.com/track/2QlGj7JaBv2jggcK99kPKQ) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 2:35 |
 | 497 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 |
 | 498 | [Arithmophobia](https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Madness Of Many](https://open.spotify.com/album/4Xm2aSISFdqLoJJACkZFUl) | 6:01 |
+| 499 | [Harness](https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf) | [Wilma Vritra](https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT), [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [VRITRA](https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7) | [Burd](https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05) | 4:12 |
 
-Snapshot ID: `AAAGA+v3AhzOe4Ve2odKSznBWcrImJwp`
+Snapshot ID: `AAAGBCMabK3clfIreMeStcN9z4vkT3pa`

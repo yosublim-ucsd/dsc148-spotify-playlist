@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 196819,
+  "num_followers": 196870,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAABoiNDhWqGkJAROAkWkTi7L",
+  "snapshot_id": "ZlpkgAAAAABTZ7Ap5jhIAyPAPqDs3WYx",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 216685,
+      "name": "Tres de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 172501,
       "name": "Aretes",
       "url": "https://open.spotify.com/track/5ItFDgE4V1nq9VkDfZTedg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 216685,
-      "name": "Tres de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
     },
     {
       "added_at": null,

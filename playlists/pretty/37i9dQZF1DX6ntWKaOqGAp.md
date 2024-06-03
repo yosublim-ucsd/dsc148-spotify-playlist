@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\.  Cover: KOTORI
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,433 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,528 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 63 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/02zL4pPPM0Yt4fhkwnN97y) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ファンタジーな祝日を!!!](https://open.spotify.com/album/2DgoQE2Qb3e990SJER3TIG) | 3:18 |
 | 64 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 65 | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ) | 3:16 |
-| 66 | [グッバイノスタルジー, ハローデストロイ](https://open.spotify.com/track/4P3ujjHBly1nESfF0sB0XL) | [黒猫CHELSEA](https://open.spotify.com/artist/3kZaxfzlp0dOHG0WVsTN2u) | [きらーず](https://open.spotify.com/album/1XOAEY9ynyw9acxD0RTuiM) | 3:26 |
+| 66 | [グッバイノスタルジー,ハローデストロイ](https://open.spotify.com/track/4P3ujjHBly1nESfF0sB0XL) | [黒猫CHELSEA](https://open.spotify.com/artist/3kZaxfzlp0dOHG0WVsTN2u) | [きらーず](https://open.spotify.com/album/1XOAEY9ynyw9acxD0RTuiM) | 3:26 |
 | 67 | [新迷宮](https://open.spotify.com/track/5pto8srVXclIjXNlS7tyFB) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [新迷宮 ep](https://open.spotify.com/album/5yPpH5dGq2fpjRaIGqJQYJ) | 3:05 |
 | 68 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
 | 69 | [ブラックボックス](https://open.spotify.com/track/2egU7947vCMEnlJQcQH9WU) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ブラックボックス](https://open.spotify.com/album/0CzObAue2PzRD3cjBW4kNQ) | 2:37 |

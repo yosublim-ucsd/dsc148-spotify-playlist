@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106191,
+  "num_followers": 106204,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Todo Estaba Bien",
         "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "GUIAME",
-        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "GUIAME",
-      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Brujita de la suerte",
         "url": "https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 183828,
       "name": "Brujita de la suerte",
       "url": "https://open.spotify.com/track/15B8rvJwUcBvcANhWzS7ye"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "GUIAME",
+        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 198676,
+      "name": "GUIAME",
+      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Tuami",
+        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
+      },
+      "artists": [
+        {
+          "name": "Soy Emilia",
+          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tuami",
+      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "MIXTO",
         "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 238222,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Tuami",
-        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
-      },
-      "artists": [
-        {
-          "name": "Soy Emilia",
-          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tuami",
-      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "t\u00e1ctica",
         "url": "https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 199047,
       "name": "Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2024-05-17 03:00:00",

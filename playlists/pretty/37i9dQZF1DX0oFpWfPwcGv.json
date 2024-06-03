@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 62269,
+  "num_followers": 62299,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,38 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "It's My House",
+      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -343,38 +375,6 @@
       "duration_ms": 209826,
       "name": "Nights on Broadway",
       "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "It's My House",
-      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 339946,
       "name": "Keep On Jumpin'",
       "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "Love, Luther",
         "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
       },
@@ -839,6 +855,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "The Essential Jean Carn - The PIR Years",
         "url": "https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN"
       },
@@ -851,22 +883,6 @@
       "duration_ms": 389373,
       "name": "Was That All It Was - 12\" Version",
       "url": "https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
-        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
-      },
-      "artists": [
-        {
-          "name": "Elbow Bones And The Racketeers",
-          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "A Night in New York - Remastered",
-      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Twelve Inch Classics from the 70s, Vol. 2",
         "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 407800,
       "name": "Lady America",
       "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
+        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
+      },
+      "artists": [
+        {
+          "name": "Elbow Bones And The Racketeers",
+          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "A Night in New York - Remastered",
+      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1015,22 +1031,6 @@
       "duration_ms": 338973,
       "name": "Sinner Man",
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2024-02-12 15:00:21",

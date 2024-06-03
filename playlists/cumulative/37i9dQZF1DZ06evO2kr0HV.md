@@ -4,7 +4,7 @@
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 36 min
+79 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2023-03-19 | 2024-05-04 |
 | [Besos y Pendientes](https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Besos y Pendientes](https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF) | 2:51 | 2023-07-22 |  |
 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 | 2023-03-19 |  |
-| [Cada paso \(feat\. Esteman\) \- Acústica](https://open.spotify.com/track/7ywq7yAzasSDAt0tbUwO1S) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fin de la primera vida](https://open.spotify.com/album/49r4PlotqmoaXEeEM9j1ku) | 3:02 | 2023-03-19 |  |
+| [Cada paso \(feat\. Esteman\) \- Acústica](https://open.spotify.com/track/7ywq7yAzasSDAt0tbUwO1S) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fin de la primera vida](https://open.spotify.com/album/49r4PlotqmoaXEeEM9j1ku) | 3:02 | 2023-03-19 | 2024-06-03 |
 | [Calma](https://open.spotify.com/track/1fh9WwWRte40WcRUs7RvnB) | [Christian Jean](https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Calma](https://open.spotify.com/album/7GPwM4cF2MgkHVS3aR9M8B) | 3:49 | 2023-03-19 | 2024-05-14 |
 | [Cartagena](https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:07 | 2024-05-12 |  |
 | [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 | 2024-05-10 | 2024-05-12 |
@@ -77,6 +77,7 @@
 | [Solo](https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:43 | 2023-03-19 |  |
 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 | 2023-03-19 |  |
 | [Te Alejas Más De Mí](https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:39 | 2023-03-19 |  |
+| [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 | 2024-06-03 |  |
 | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT) | 4:36 | 2023-03-19 |  |
 | [True Love \(feat\. Monsieur Periné & Juan Pablo Vega\)](https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 5:15 | 2024-03-13 |  |
 | [True Love \(feat\. Monsieur Periné & Juan Pablo Vega\)](https://open.spotify.com/track/6eCWx3wt0NsvGNMRbWGPQT) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 5:15 | 2023-03-19 | 2024-03-14 |

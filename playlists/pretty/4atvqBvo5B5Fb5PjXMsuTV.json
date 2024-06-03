@@ -6,8 +6,40 @@
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIqcmcJ+nAsCQ0DzT2sKdVwxF/O2wy",
+  "snapshot_id": "AAAIqwvnoUbwVI96LB3YFeOVpU65lPn0",
   "tracks": [
+    {
+      "added_at": "2024-06-02 10:02:37",
+      "album": {
+        "name": "Birthday Baby (The Girl with No Smile)",
+        "url": "https://open.spotify.com/album/3qbFUJ1rBSjabLFf4UsnM1"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 230355,
+      "name": "Birthday Baby (The Girl with No Smile)",
+      "url": "https://open.spotify.com/track/1qrFUCI7ozaw5FTmxItnJF"
+    },
+    {
+      "added_at": "2024-06-02 10:02:37",
+      "album": {
+        "name": "Resident Evil",
+        "url": "https://open.spotify.com/album/2sndDzk05g66A8ESliLVJA"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 105306,
+      "name": "Resident Evil",
+      "url": "https://open.spotify.com/track/1KUTerytyTUTyM3yE8YOul"
+    },
     {
       "added_at": "2024-06-01 22:02:37",
       "album": {
@@ -399,50 +431,6 @@
       "duration_ms": 245640,
       "name": "To Be Alright",
       "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
-    },
-    {
-      "added_at": "2024-05-31 10:03:33",
-      "album": {
-        "name": "Why Oh Why",
-        "url": "https://open.spotify.com/album/70I8zxqz8AYpVlJOl2EtzC"
-      },
-      "artists": [
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 162693,
-      "name": "Why Oh Why",
-      "url": "https://open.spotify.com/track/2WCIGoKDaCCtqY4aZqmliQ"
-    },
-    {
-      "added_at": "2024-05-31 10:03:33",
-      "album": {
-        "name": "The 360 remix with robyn and yung lean",
-        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 129761,
-      "name": "The 360 remix with robyn and yung lean",
-      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
     }
   ],
   "unique_name": "NEW SINGLES RELEASES | UPDATED 02 JUN",

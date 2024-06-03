@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
@@ -10374,7 +10374,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 162644,
       "name": "DORA",
       "url": "https://open.spotify.com/track/4ODeRUFrGLtoSdtcSF13eS"
@@ -21349,6 +21349,24 @@
     },
     {
       "album": {
+        "name": "Mas Que Tu Amigo",
+        "url": "https://open.spotify.com/album/1X7ecekc0nFizAruwB94Ad"
+      },
+      "artists": [
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252769,
+      "name": "Mas Que Tu Amigo",
+      "url": "https://open.spotify.com/track/29GresAlpxLeLYUnS7aeuM"
+    },
+    {
+      "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
@@ -24913,6 +24931,28 @@
     },
     {
       "album": {
+        "name": "Set The Tone (Guns & Roses)",
+        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
+    },
+    {
+      "album": {
         "name": "FROM THE HOOD",
         "url": "https://open.spotify.com/album/6zMVrjVWQ4izvK9rS8Xb9N"
       },
@@ -27850,7 +27890,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -31202,6 +31242,24 @@
       "duration_ms": 152067,
       "name": "Rompecorazones",
       "url": "https://open.spotify.com/track/5ZCz2SPCgrxi0ZrqhE2vpT"
+    },
+    {
+      "album": {
+        "name": "Rompecorazones",
+        "url": "https://open.spotify.com/album/33EgZCFzivF5duZZgLDhqQ"
+      },
+      "artists": [
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150593,
+      "name": "Rompecorazones",
+      "url": "https://open.spotify.com/track/1SdM9ci1ZRcZS9Ki3W7hir"
     },
     {
       "album": {

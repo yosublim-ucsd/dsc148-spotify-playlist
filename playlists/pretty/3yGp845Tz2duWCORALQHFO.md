@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,692 likes - 40 songs - 2 hr 11 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,696 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,16 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 28 | [Who Do You Love](https://open.spotify.com/track/7ptycIbhDwLluruvnR2i9W) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Who Do You Love](https://open.spotify.com/album/1nqOQVumgFjpw0z5CVtGq6) | 3:05 |
 | 29 | [Solitaire](https://open.spotify.com/track/61XaE8H0vddL76oXueZZt8) | [Yelow](https://open.spotify.com/artist/0GLDtPfnUd5hQ18yba1xDi), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Solitaire](https://open.spotify.com/album/7AaEg0zYWxtcPhHe5ltEVk) | 3:23 |
 | 30 | [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 |
-| 31 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 |
-| 32 | [You're Gonna Be Ok](https://open.spotify.com/track/5zj9j1K3gxkXsrNMUWdyTR) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [You're Gonna Be Ok](https://open.spotify.com/album/0buWgSBlbHzW6oHHliF6wM) | 5:18 |
-| 33 | [Flashing Lights](https://open.spotify.com/track/2wUUGcbjzfy1oO6Ey6YVMB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Voices In My Head / Flashing Lights](https://open.spotify.com/album/3kNdbvSLi5XZGCyEQ0lCVZ) | 3:52 |
-| 34 | [Kedaar](https://open.spotify.com/track/1dI3GDLlWxNL0eLHRq10N7) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 3:02 |
-| 35 | [Being Human](https://open.spotify.com/track/1ivSTt7Soa73gJWTidMgqM) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [Bodo Kaiser](https://open.spotify.com/artist/0tVlU0W0zqrCGfd9nyXEl7) | [Being Human](https://open.spotify.com/album/7FMlddlpKZtzGqbyW9xwTz) | 3:52 |
-| 36 | [ITS YOU](https://open.spotify.com/track/3DVps8FDEzerZesxZnOHVs) | [jarradcleofé](https://open.spotify.com/artist/3KSx8jFUIL2SzMp4uLeSJQ) | [LOVE HARD](https://open.spotify.com/album/1OlHk6CpatbFwiWnlHcmtX) | 4:15 |
-| 37 | [Kali Yuga](https://open.spotify.com/track/0auNR95YLAdWPXTrmjuspM) | [Wy'zat](https://open.spotify.com/artist/0cFvYEIBv4EN1AjjYStDOD) | [Kali Yuga](https://open.spotify.com/album/0yRFj1NVcnWVpFpFbLVLhN) | 2:20 |
-| 38 | [Sleepover](https://open.spotify.com/track/7iDk7qvTOJxyvcNpm8HqSt) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 1:45 |
-| 39 | [Keep Moving](https://open.spotify.com/track/3yumhQpNemHHC26Q5MAjaR) | [Mark & Marcus](https://open.spotify.com/artist/26WRHtbVQPtq61fBjYDg3z) | [Keep Moving](https://open.spotify.com/album/33pxaLKjZ0NjclpXQMTSru) | 3:04 |
-| 40 | [Multiply](https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 2:28 |
+| 31 | [I won’t leave](https://open.spotify.com/track/35ZBr9f27MwELMIXJdEUVB) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [I won’t leave](https://open.spotify.com/album/76y0rBs3jSzjrJH5ulZIlB) | 4:17 |
+| 32 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 |
+| 33 | [You're Gonna Be Ok](https://open.spotify.com/track/5zj9j1K3gxkXsrNMUWdyTR) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [You're Gonna Be Ok](https://open.spotify.com/album/0buWgSBlbHzW6oHHliF6wM) | 5:18 |
+| 34 | [Flashing Lights](https://open.spotify.com/track/2wUUGcbjzfy1oO6Ey6YVMB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Voices In My Head / Flashing Lights](https://open.spotify.com/album/3kNdbvSLi5XZGCyEQ0lCVZ) | 3:52 |
+| 35 | [Kedaar](https://open.spotify.com/track/1dI3GDLlWxNL0eLHRq10N7) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 3:02 |
+| 36 | [Being Human](https://open.spotify.com/track/1ivSTt7Soa73gJWTidMgqM) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [Bodo Kaiser](https://open.spotify.com/artist/0tVlU0W0zqrCGfd9nyXEl7) | [Being Human](https://open.spotify.com/album/7FMlddlpKZtzGqbyW9xwTz) | 3:52 |
+| 37 | [ITS YOU](https://open.spotify.com/track/3DVps8FDEzerZesxZnOHVs) | [jarradcleofé](https://open.spotify.com/artist/3KSx8jFUIL2SzMp4uLeSJQ) | [LOVE HARD](https://open.spotify.com/album/1OlHk6CpatbFwiWnlHcmtX) | 4:15 |
+| 38 | [Kali Yuga](https://open.spotify.com/track/0auNR95YLAdWPXTrmjuspM) | [Wy'zat](https://open.spotify.com/artist/0cFvYEIBv4EN1AjjYStDOD) | [Kali Yuga](https://open.spotify.com/album/0yRFj1NVcnWVpFpFbLVLhN) | 2:20 |
+| 39 | [Sleepover](https://open.spotify.com/track/7iDk7qvTOJxyvcNpm8HqSt) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 1:45 |
+| 40 | [Keep Moving](https://open.spotify.com/track/3yumhQpNemHHC26Q5MAjaR) | [Mark & Marcus](https://open.spotify.com/artist/26WRHtbVQPtq61fBjYDg3z) | [Keep Moving](https://open.spotify.com/album/33pxaLKjZ0NjclpXQMTSru) | 3:04 |
+| 41 | [Multiply](https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 2:28 |
 
-Snapshot ID: `AABfrqBffYBQ1bvEvLXnfJTSmt8I+8nq`
+Snapshot ID: `AABfr3zZkk924Qsf4ZIMWonNkdYezLrU`

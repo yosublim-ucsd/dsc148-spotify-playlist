@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,207 likes - 90 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,383 likes - 90 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 40 | [Dig My Moves \- Mila Journée Remix](https://open.spotify.com/track/1aqsbfYTNIedRz5nFUBKC2) | [Pole Position](https://open.spotify.com/artist/6VTArO79WpJg6t4vx9QjHF), [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Dig My Moves \(Mila Journée Remix\)](https://open.spotify.com/album/7frn6dZhWaJ4T5SlEs1AtL) | 5:44 |
 | 41 | [All That Was](https://open.spotify.com/track/1GvYf3m6YvrznSYxUrEI3A) | [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl), [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [All That Was](https://open.spotify.com/album/1wFgYe7812n3qCUVVn5Qcb) | 3:37 |
 | 42 | [Dance Of Enjoyment](https://open.spotify.com/track/0ALXs8NUYsMphDPCuYUuUh) | [Gerd](https://open.spotify.com/artist/29IzCNDrWGPFXMmtCY3N83) | [Dance Of Enjoyment](https://open.spotify.com/album/4cWKjF37iUdvyWCgmYEfKH) | 3:58 |
-| 43 | [vermis](https://open.spotify.com/track/7LlnGj6eWF37IaJKOuZmfH) | [westermann](https://open.spotify.com/artist/3hJNpjTH1tVIceFAt7IAk0) | [vermis](https://open.spotify.com/album/4bHNkhRUd2Mu5yc0UxeWlE) | 7:25 |
+| 43 | [vermis](https://open.spotify.com/track/7LlnGj6eWF37IaJKOuZmfH) | [westermann](https://open.spotify.com/artist/3CpxEgAzIvRyjyzRM8pWAc) | [vermis](https://open.spotify.com/album/4bHNkhRUd2Mu5yc0UxeWlE) | 7:25 |
 | 44 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 |
 | 45 | [SIGN](https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [SIGN](https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk) | 3:43 |
 | 46 | [Abracadabra](https://open.spotify.com/track/38iiZkYYXMHRPwUruuYD0X) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Abracadabra](https://open.spotify.com/album/06aF9kSXXoUiuN7nSX4u8o) | 3:21 |

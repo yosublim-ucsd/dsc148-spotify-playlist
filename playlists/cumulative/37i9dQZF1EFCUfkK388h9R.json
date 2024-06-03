@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/523xtwqIhtFAZ9ZgBJjxRS"
+      },
+      "artists": [
+        {
+          "name": "Sadye",
+          "url": "https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119428,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/2oGdeSXf0cnSPXG8kZiDtB"
+    },
+    {
+      "album": {
         "name": "Hot N Saucy",
         "url": "https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1"
       },

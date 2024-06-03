@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,396 songs - 2 day 4 hr 36 min
+1,397 songs - 2 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Elevator Jazz](https://open.spotify.com/track/50sMOSMjts7Bb1spwweTUu) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Elevator Jazz](https://open.spotify.com/album/0EaI5LcG7IunT55ufaDduH) | 2:36 | 2022-11-25 | 2023-09-29 |
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-01-27 | 2022-07-01 |
 | [Emelie](https://open.spotify.com/track/1Bp66dFT8KCbVm6O5eepbT) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Emelie](https://open.spotify.com/album/4PQDbxTg9ZnX4Fus0fTn7L) | 2:34 | 2024-03-22 | 2024-05-14 |
+| [emerald](https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [emerald](https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt) | 1:56 | 2024-05-13 |  |
 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-05-19 | 2023-11-25 |
 | [Endless](https://open.spotify.com/track/5LEb9xW2hBjv2rBZrFgAQa) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Endless](https://open.spotify.com/album/1uI8K2c82bOEfsYB26600K) | 2:42 | 2022-04-08 | 2022-10-15 |
 | [Endless Sunday](https://open.spotify.com/track/07dyGFh2pczE8rWeM6ITXx) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Endless Sunday](https://open.spotify.com/album/0uuy7OctUEaabOwiY87al5) | 2:40 | 2022-12-09 | 2023-09-16 |
@@ -1042,7 +1043,7 @@
 | [Say Nothing](https://open.spotify.com/track/4g4FFVWwDoPfHrVFJrpmxe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Say Nothing](https://open.spotify.com/album/3naAnnLy38EzcEbRk7UZDy) | 2:37 | 2022-12-09 | 2023-08-04 |
 | [Scarlet Sky](https://open.spotify.com/track/5Dion2EQOW0TAUOBpQpZrz) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Scarlet Sky](https://open.spotify.com/album/3FDppEDVawmY49DG2Kf8tz) | 2:29 | 2022-01-27 | 2022-07-15 |
 | [Scientific Magic](https://open.spotify.com/track/1YCfWvnF8t7yubtjAdO7LN) | [Timothy Powers](https://open.spotify.com/artist/3Zt1mZTzihdGr3cBFmKJDB) | [Scientific Magic](https://open.spotify.com/album/69lV3WzDlD1SOc7BGK0lvr) | 2:20 | 2022-08-05 |  |
-| [Scrapbooks + Memoirs](https://open.spotify.com/track/6XzdmeK5fxxBnTwb4qhsCl) | [Julia Bucari](https://open.spotify.com/artist/5dQZfi6c48qUVxdQa2dlvI) | [Scrapbooks + Memoirs](https://open.spotify.com/album/4eI1RfcidpHryL5LHYPHRH) | 1:36 | 2022-09-02 |  |
+| [Scrapbooks + Memoirs](https://open.spotify.com/track/6XzdmeK5fxxBnTwb4qhsCl) | [Julia Bucari](https://open.spotify.com/artist/5dQZfi6c48qUVxdQa2dlvI) | [Scrapbooks + Memoirs](https://open.spotify.com/album/4eI1RfcidpHryL5LHYPHRH) | 1:36 | 2022-09-02 | 2024-06-03 |
 | [Scrolling Memories](https://open.spotify.com/track/2opRnQtOHNy92ftmCJAesg) | [Groove.](https://open.spotify.com/artist/1rnUiXNVWDd67U1519BKnN), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Scrolling Memories](https://open.spotify.com/album/38SWC9ld6DqQddM0kU5iM6) | 2:03 | 2022-10-28 | 2023-09-29 |
 | [Sea Port](https://open.spotify.com/track/2fGypWrNxRC5d4mfRj1dhO) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Sea Port](https://open.spotify.com/album/072aBLfZApsYTpsDpkx4ht) | 2:12 | 2022-12-23 | 2023-10-06 |
 | [searching for santa](https://open.spotify.com/track/52D6IiqbbCsZPIJawLLLNx) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [searching for santa](https://open.spotify.com/album/3yqtcjN3GRsPOW3WwIPFsA) | 1:34 | 2022-11-11 | 2024-05-14 |

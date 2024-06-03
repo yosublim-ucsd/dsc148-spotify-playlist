@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-674 songs - 1 day 20 hr 4 min
+675 songs - 1 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Hangout at the Gallows](https://open.spotify.com/track/45EAxE8XCkBQyKDHOgSUvY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 4:55 | 2023-06-19 | 2023-06-29 |
 | [Hangover Game](https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 2:16 | 2024-01-06 |  |
 | [Hanif Reads Toni](https://open.spotify.com/track/4qTGN4ThY42Zl4N02II7rX) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Hanif](https://open.spotify.com/artist/4XbJPicIyitMdRuYN1gE7K) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:23 | 2023-06-22 |  |
+| [Harness](https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf) | [Wilma Vritra](https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT), [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [VRITRA](https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7) | [Burd](https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05) | 4:12 | 2024-06-02 |  |
 | [Haunted House on Zillow](https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 1:14 | 2023-04-25 |  |
 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 | 2023-10-16 |  |
 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 | 2023-08-06 |

@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 843541,
+  "num_followers": 843896,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "DERNIERE DANCE FUNK",
         "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
       },
@@ -359,6 +343,38 @@
       "duration_ms": 91453,
       "name": "DERNIERE DANCE FUNK",
       "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -395,22 +411,6 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
         "url": "https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 133565,
       "name": "Live Another Day",
       "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "WAKE UP!",
-        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "WAKE UP!",
-      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -659,6 +659,26 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
+        "url": "https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz"
+      },
+      "artists": [
+        {
+          "name": "RXPOSO99",
+          "url": "https://open.spotify.com/artist/5joODcLQTClX0o3q13SOfU"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        }
+      ],
+      "duration_ms": 96461,
+      "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
+      "url": "https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "YUM YUM",
         "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 135000,
       "name": "EMPTY DREAMS",
       "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
-        "url": "https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz"
-      },
-      "artists": [
-        {
-          "name": "RXPOSO99",
-          "url": "https://open.spotify.com/artist/5joODcLQTClX0o3q13SOfU"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
-        }
-      ],
-      "duration_ms": 96461,
-      "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
-      "url": "https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0"
     },
     {
       "added_at": "2024-05-08 15:21:25",

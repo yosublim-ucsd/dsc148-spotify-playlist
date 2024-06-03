@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1170495,
+  "num_followers": 1170643,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Brigade",
         "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
@@ -235,18 +251,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
       },
       "artists": [
         {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 508333,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+      "duration_ms": 230240,
+      "name": "What's Love Got to Do with It - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -311,22 +327,6 @@
       "duration_ms": 308906,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "What's Love Got to Do with It - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Good Acoustics",
-        "url": "https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 261906,
-      "name": "I Live My Life for You",
-      "url": "https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
       },
@@ -559,22 +543,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Firehouse (2024 Remaster)",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 285937,
-      "name": "Love of a Lifetime (2024 Remaster)",
-      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "No End in Sight: The Very Best of Foreigner",
         "url": "https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 301106,
       "name": "I Want to Know What Love Is - 2008 Remaster",
       "url": "https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Good Acoustics",
+        "url": "https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 261906,
+      "name": "I Live My Life for You",
+      "url": "https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -696,9 +680,25 @@
           "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 235125,
-      "name": "Don't Treat Me Bad (2024 Remaster)",
-      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
+      "duration_ms": 285937,
+      "name": "Love of a Lifetime (2024 Remaster)",
+      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
         }
       ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+      "duration_ms": 323360,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Firehouse (2024 Remaster)",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Don't Treat Me Bad (2024 Remaster)",
+      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Vixen",
         "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 326826,
+      "name": "Til Death Do Us Part",
+      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 326826,
-      "name": "Til Death Do Us Part",
-      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Psychotic Supper",
         "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Harem Scarem",
-        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
-      },
-      "artists": [
-        {
-          "name": "Harem Scarem",
-          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 235893,
       "name": "Sleeping (In The Fire)",
       "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Harem Scarem",
+        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
+      },
+      "artists": [
+        {
+          "name": "Harem Scarem",
+          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Vixen",
-        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
-      },
-      "artists": [
-        {
-          "name": "Vixen",
-          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/1Fu3vJJwVKY7c7JnTX3Mvi"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Don't Tread",
         "url": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 279846,
       "name": "Where You Goin' Now",
       "url": "https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Vixen",
+        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/1Fu3vJJwVKY7c7JnTX3Mvi"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bad English",
-        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
-      },
-      "artists": [
-        {
-          "name": "Bad English",
-          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
-        }
-      ],
-      "duration_ms": 308306,
-      "name": "Possession",
-      "url": "https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Angel Down",
         "url": "https://open.spotify.com/album/0FUE5WPWyXBBJfsXRMS4g0"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 308593,
       "name": "Forever Free",
       "url": "https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Bad English",
+        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+      },
+      "artists": [
+        {
+          "name": "Bad English",
+          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+        }
+      ],
+      "duration_ms": 308306,
+      "name": "Possession",
+      "url": "https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult"
     },
     {
       "added_at": "2024-02-02 05:00:00",

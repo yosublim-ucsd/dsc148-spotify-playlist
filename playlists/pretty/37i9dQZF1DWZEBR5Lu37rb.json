@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 62229,
+  "num_followers": 62302,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 208721,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 208721,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mr Serious",
         "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 293613,
       "name": "Mthande",
       "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 320012,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
-      },
-      "artists": [
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 320012,
-      "name": "Olufunmi",
-      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sasa Hivi [Stripped Down]",
         "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
       },
@@ -1407,6 +1407,26 @@
       "duration_ms": 262184,
       "name": "Sasa Hivi [Stripped Down]",
       "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1475,26 +1495,6 @@
       "duration_ms": 254986,
       "name": "Kookoo",
       "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Songs in The Key of Love",
-        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
-      },
-      "artists": [
-        {
-          "name": "Berita",
-          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Ndicel'ikiss",
-      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 249866,
       "name": "Zodwa",
       "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Songs in The Key of Love",
+        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
+      },
+      "artists": [
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Ndicel'ikiss",
+      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Book of Kirya",
         "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 286511,
       "name": "Mfalme Wa Mapenzi",
       "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
     }
   ],
   "unique_name": "100 Best African Love Songs ",

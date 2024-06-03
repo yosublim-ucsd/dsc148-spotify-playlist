@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk?si=vG13OAToSjS0uck\-599WaA">Yanga Chief</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,502 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,550 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 26973,
+  "num_followers": 26987,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Eco (feat. Funky Torinos)",
+        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Xavier",
         "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Needle in the Groove",
-        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
-      },
-      "artists": [
-        {
-          "name": "Papa Grows Funk",
-          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "Do U Want It?",
-      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Semilla",
         "url": "https://open.spotify.com/album/5KB8vJGorzz68q7Ei2xZyk"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Eco (feat. Funky Torinos)",
-        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
+        "name": "Needle in the Groove",
+        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+          "name": "Papa Grows Funk",
+          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
         }
       ],
-      "duration_ms": 286080,
-      "name": "Back to Life",
-      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
+      "duration_ms": 290040,
+      "name": "Do U Want It?",
+      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Groovin' Bohemia",
         "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 445089,
       "name": "Ameba",
       "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        },
-        {
-          "name": "Deborah Dixon",
-          "url": "https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl"
-        }
-      ],
-      "duration_ms": 284213,
-      "name": "The Thrill is Gone",
-      "url": "https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Los Funktasticos Genitales",
         "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
@@ -835,38 +815,6 @@
       "duration_ms": 236858,
       "name": "Alergica",
       "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Chicas on Fire - Single",
-        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
-      },
-      "artists": [
-        {
-          "name": "Shocklenders",
-          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
-        }
-      ],
-      "duration_ms": 240085,
-      "name": "Chicas on Fire",
-      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Env\u00e9s",
-        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
-      },
-      "artists": [
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        }
-      ],
-      "duration_ms": 378213,
-      "name": "Maybe I'm Leo",
-      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -887,6 +835,42 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        },
+        {
+          "name": "Deborah Dixon",
+          "url": "https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl"
+        }
+      ],
+      "duration_ms": 284213,
+      "name": "The Thrill is Gone",
+      "url": "https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Chicas on Fire - Single",
+        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
+      },
+      "artists": [
+        {
+          "name": "Shocklenders",
+          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
+        }
+      ],
+      "duration_ms": 240085,
+      "name": "Chicas on Fire",
+      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 227221,
       "name": "La Buena Vida",
       "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Env\u00e9s",
+        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
+      },
+      "artists": [
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        }
+      ],
+      "duration_ms": 378213,
+      "name": "Maybe I'm Leo",
+      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "De Reviente",
         "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 205374,
       "name": "Pret\u00e9rito Mujer",
       "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Sudamericano",
-        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Sudamericano",
+        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 224864,
       "name": "Back up in Flames",
       "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Nada Ser\u00eda Igual",
-        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
-      },
-      "artists": [
-        {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "Motafonkas",
-          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "Nada Ser\u00eda Igual",
-      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1087,6 +1067,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Nada Ser\u00eda Igual",
+        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        }
+      ],
+      "duration_ms": 203056,
+      "name": "Nada Ser\u00eda Igual",
+      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 216249,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+        }
+      ],
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
-      },
-      "artists": [
-        {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
-        }
-      ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Parasacalapava",
-        "url": "https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ"
-      },
-      "artists": [
-        {
-          "name": "La Kimbo",
-          "url": "https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm"
-        }
-      ],
-      "duration_ms": 206985,
-      "name": "Mangang\u00e1",
-      "url": "https://open.spotify.com/track/23Firc4ap4pJ9oCtWQhX8X"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Que Me Pasa",
         "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 184421,
       "name": "Que Me Pasa",
       "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Parasacalapava",
+        "url": "https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ"
+      },
+      "artists": [
+        {
+          "name": "La Kimbo",
+          "url": "https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm"
+        }
+      ],
+      "duration_ms": 206985,
+      "name": "Mangang\u00e1",
+      "url": "https://open.spotify.com/track/23Firc4ap4pJ9oCtWQhX8X"
     }
   ],
   "unique_name": "Nota Funk",

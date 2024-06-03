@@ -1,12 +1,12 @@
 {
-  "description": "This is: ALI. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 7234,
+  "description": "This is ALI. The essential tracks, all in one playlist.",
+  "num_followers": 7238,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAADVDVFf+xr9IEQUYaRzUcHK",
+  "snapshot_id": "ZlpkgAAAAABFxjyWmsNnjRuA34fId5HY",
   "tracks": [
     {
       "added_at": null,
@@ -298,11 +298,15 @@
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "SARM",
+          "url": "https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP"
         }
       ],
-      "duration_ms": 266133,
-      "name": "MELLOW CRUISE",
-      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
+      "duration_ms": 269106,
+      "name": "IN THE MOOD FOR LOVE",
+      "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
     },
     {
       "added_at": null,
@@ -332,13 +336,17 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "Dos Monos",
-          "url": "https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv"
+          "name": "J-Rexxx",
+          "url": "https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx"
+        },
+        {
+          "name": "RUEED",
+          "url": "https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK"
         }
       ],
-      "duration_ms": 305106,
-      "name": "BETTER DAYS",
-      "url": "https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE"
+      "duration_ms": 241133,
+      "name": "FIGHT DUB CLUB",
+      "url": "https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx"
     },
     {
       "added_at": null,
@@ -374,15 +382,11 @@
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "SARM",
-          "url": "https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP"
         }
       ],
-      "duration_ms": 269106,
-      "name": "IN THE MOOD FOR LOVE",
-      "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
+      "duration_ms": 266133,
+      "name": "MELLOW CRUISE",
+      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
     },
     {
       "added_at": null,
@@ -412,17 +416,13 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "J-Rexxx",
-          "url": "https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx"
-        },
-        {
-          "name": "RUEED",
-          "url": "https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK"
+          "name": "Dos Monos",
+          "url": "https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv"
         }
       ],
-      "duration_ms": 241133,
-      "name": "FIGHT DUB CLUB",
-      "url": "https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx"
+      "duration_ms": 305106,
+      "name": "BETTER DAYS",
+      "url": "https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE"
     },
     {
       "added_at": null,
@@ -459,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6728\u6751\u6634",
+          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
+      "duration_ms": 246839,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
     {
       "added_at": null,
@@ -495,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6728\u6751\u6634",
-          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 246839,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
+      "duration_ms": 189466,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vim",
-        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 314282,
-      "name": "Vim",
-      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+        "name": "Vim",
+        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
+      "duration_ms": 314282,
+      "name": "Vim",
+      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
     },
     {
       "added_at": null,

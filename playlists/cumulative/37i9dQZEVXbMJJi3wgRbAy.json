@@ -7150,7 +7150,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -7628,7 +7628,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -7872,7 +7872,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 260534,
       "name": "LATTE (feat. Maria Becerra)",
       "url": "https://open.spotify.com/track/7irTyPzSyqSbeUXbYsTR5j"
@@ -15484,6 +15484,24 @@
       "duration_ms": 127628,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/673exMTKtkaNosGrNAikth"
+    },
+    {
+      "album": {
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/6xRnX8OHHyd71M3zjC6Ths"
+      },
+      "artists": [
+        {
+          "name": "Thomy DJ",
+          "url": "https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180543,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/4DDmzgsqbZ2qwKbOnV9Bzp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
-  "num_followers": 218926,
+  "num_followers": 218939,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAADDKJzvbNjB0XQ1sYtOUtIw",
+  "snapshot_id": "ZlpkgAAAAAAPCcXmWsxAHGjDAEt0fGBp",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,34 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+        "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        },
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
+      "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
     },
     {
       "added_at": null,
@@ -367,6 +395,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Si Pego",
         "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
       },
@@ -507,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 202241,
-      "name": "Aunque Ya No Est\u00e9s",
-      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Round 7",
         "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
       },
@@ -539,6 +579,22 @@
       "duration_ms": 214864,
       "name": "Round 7",
       "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Aunque Ya No Est\u00e9s",
+      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
     },
     {
       "added_at": null,
@@ -639,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Llamando A Tu Fon",
         "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
       },
@@ -659,24 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las 2 Caras",
-        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
       "artists": [
         {
@@ -684,13 +740,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
         }
       ],
-      "duration_ms": 205568,
-      "name": "Round 3 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+      "duration_ms": 196880,
+      "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
+      "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
     },
     {
       "added_at": null,
@@ -719,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las 2 Caras",
+        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 205568,
+      "name": "Round 3 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Round 4 (feat. C-Kan)",
         "url": "https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD"
       },
@@ -739,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Meny Mendez",
-          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
-      "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Qu\u00e9 Ser\u00e1?",
         "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
       },
@@ -775,6 +831,22 @@
       "duration_ms": 199531,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ya no hay nada",
+      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
     },
     {
       "added_at": null,
@@ -819,54 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Ya no hay nada",
-      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 141904,
-      "name": "Modo Bestia",
-      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Round 6",
         "url": "https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W"
       },
@@ -887,42 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuga Pal Gabacho",
-        "url": "https://open.spotify.com/album/50OWCAQeFQI6hVyRSyiQGU"
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 170946,
-      "name": "Fuga Pal Gabacho",
-      "url": "https://open.spotify.com/track/6QeA0l9V1H682UgiWZlgFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#LQMQ",
-        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "#LQMQ",
-      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
     },
     {
       "added_at": null,
@@ -959,6 +959,46 @@
       "duration_ms": 459413,
       "name": "Cuern\u00fa - Remix",
       "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#LQMQ",
+        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "#LQMQ",
+      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuga Pal Gabacho",
+        "url": "https://open.spotify.com/album/50OWCAQeFQI6hVyRSyiQGU"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 170946,
+      "name": "Fuga Pal Gabacho",
+      "url": "https://open.spotify.com/track/6QeA0l9V1H682UgiWZlgFV"
     },
     {
       "added_at": null,
@@ -1171,34 +1211,6 @@
       "duration_ms": 225978,
       "name": "Vive La Vida",
       "url": "https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANHMATSV",
-        "url": "https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Dave Gars\u00eda",
-          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/5KimPWcMnaqwwghXAxfYRX"
     }
   ],
   "unique_name": "This Is MC Davo",

@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-03",
       "duration_ms": 253053,
       "name": "Esta Vez Soy Yo",
       "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
@@ -1738,6 +1738,28 @@
       "duration_ms": 262533,
       "name": "Vuelve, Vuelve - En Vivo",
       "url": "https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF"
+    },
+    {
+      "album": {
+        "name": "Vamos De Nuevo",
+        "url": "https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs"
     },
     {
       "album": {

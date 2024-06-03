@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 109660,
+  "num_followers": 109676,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Da vi var to",
-        "url": "https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 187790,
-      "name": "Da vi var to",
-      "url": "https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Gamleveien",
         "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
       },
@@ -199,6 +179,46 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Den Samme J\u00e6vla Sangen",
+        "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Den Samme J\u00e6vla Sangen",
+      "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Da vi var to",
+        "url": "https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 187790,
+      "name": "Da vi var to",
+      "url": "https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "5 SHOTS",
         "url": "https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln"
       },
@@ -219,22 +239,18 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Den Samme J\u00e6vla Sangen",
-        "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
       },
       "artists": [
         {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Den Samme J\u00e6vla Sangen",
-      "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -271,34 +287,18 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Ayia Napa 2024",
-        "url": "https://open.spotify.com/album/6VjOZApRj8SshfhTx82HYQ"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 124285,
-      "name": "Ayia Napa 2024",
-      "url": "https://open.spotify.com/track/58vENLCxezWIAANBgyjEsG"
+      "duration_ms": 160868,
+      "name": "Best p\u00e5 fest",
+      "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
+        "name": "Ayia Napa 2024",
+        "url": "https://open.spotify.com/album/6VjOZApRj8SshfhTx82HYQ"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 160868,
-      "name": "Best p\u00e5 fest",
-      "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
+      "duration_ms": 124285,
+      "name": "Ayia Napa 2024",
+      "url": "https://open.spotify.com/track/58vENLCxezWIAANBgyjEsG"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -355,6 +355,38 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Min psykolog",
+        "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 150878,
+      "name": "Min psykolog",
+      "url": "https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "P\u00e5 hytta g\u00e5r det bra",
+        "url": "https://open.spotify.com/album/6Hg5gU51YHaRdBts9GXmqs"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 129485,
+      "name": "P\u00e5 hytta g\u00e5r det bra",
+      "url": "https://open.spotify.com/track/1bmRqWCbN925Pk8A19g1EE"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Polare",
         "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
       },
@@ -367,6 +399,22 @@
       "duration_ms": 205666,
       "name": "Polare",
       "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Hald deg fast",
+        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201178,
+      "name": "Hald deg fast",
+      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -391,74 +439,6 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Min psykolog",
-        "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 150878,
-      "name": "Min psykolog",
-      "url": "https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Hald deg fast",
-        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Hald deg fast",
-      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "P\u00e5 hytta g\u00e5r det bra",
-        "url": "https://open.spotify.com/album/6Hg5gU51YHaRdBts9GXmqs"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 129485,
-      "name": "P\u00e5 hytta g\u00e5r det bra",
-      "url": "https://open.spotify.com/track/1bmRqWCbN925Pk8A19g1EE"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -503,6 +483,26 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Livet Er Herlig",
         "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
       },
@@ -519,6 +519,58 @@
       "duration_ms": 143261,
       "name": "Livet Er Herlig",
       "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Norge rundt med Staysman",
+        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Vakker og vill",
+        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Vakker og vill",
+      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -551,58 +603,6 @@
       "duration_ms": 147785,
       "name": "Har du lyst har du lov",
       "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Norge rundt med Staysman",
-        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Vakker og vill",
-        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Vakker og vill",
-      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
-        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 167229,
-      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
-      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -695,6 +679,38 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Hardanger",
+        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
+      },
+      "artists": [
+        {
+          "name": "Gunslingers",
+          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
+        }
+      ],
+      "duration_ms": 236387,
+      "name": "Hardanger",
+      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
+        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 167229,
+      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
+      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "\u00d8l i kantina",
         "url": "https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 141044,
       "name": "\u00d8l i kantina",
       "url": "https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Hardanger",
-        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
-      },
-      "artists": [
-        {
-          "name": "Gunslingers",
-          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
-        }
-      ],
-      "duration_ms": 236387,
-      "name": "Hardanger",
-      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Naboen har operert kona si",
-        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        }
-      ],
-      "duration_ms": 150624,
-      "name": "Naboen har operert kona si",
-      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Livet p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
       },
@@ -899,22 +883,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -931,6 +899,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
@@ -943,6 +927,38 @@
       "duration_ms": 172613,
       "name": "Kainn \u00c6 F\u00e5 Lov",
       "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Naboen har operert kona si",
+        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+        }
+      ],
+      "duration_ms": 150624,
+      "name": "Naboen har operert kona si",
+      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -983,54 +999,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Her er det liv",
-        "url": "https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv"
-      },
-      "artists": [
-        {
-          "name": "Br\u00e5tabrann",
-          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
-        }
-      ],
-      "duration_ms": 183104,
-      "name": "Her er det liv",
-      "url": "https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
@@ -1051,6 +1019,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Her er det liv",
+        "url": "https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "duration_ms": 183104,
+      "name": "Her er det liv",
+      "url": "https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Siste Kveld",
         "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
       },
@@ -1067,6 +1051,38 @@
       "duration_ms": 159380,
       "name": "Siste Kveld",
       "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Kompis",
+        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Kompis",
+      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
-      },
-      "artists": [
-        {
-          "name": "Rune Rudberg",
-          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "N\u00e5 er det freda'n igjen",
-      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "S\u00e5nn e livet - Live 10 \u00e5r",
         "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
       },
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
       "artists": [
         {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
+      "duration_ms": 170526,
+      "name": "N\u00e5 er det freda'n igjen",
+      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1183,6 +1167,38 @@
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Der Jeg H\u00f8rer Te (Bygda)",
+        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Der Jeg H\u00f8rer Te (Bygda)",
+      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1239,26 +1255,6 @@
       "duration_ms": 170135,
       "name": "Evig vandring",
       "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Jeg fortjener en \u00f8l",
-        "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
-      },
-      "artists": [
-        {
-          "name": "Erik Og Kriss",
-          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 152822,
-      "name": "Jeg fortjener en \u00f8l",
-      "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

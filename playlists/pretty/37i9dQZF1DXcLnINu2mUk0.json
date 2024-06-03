@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Instinto 26",
-  "num_followers": 45881,
+  "num_followers": 45887,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -759,22 +759,6 @@
       "duration_ms": 208119,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
         "name": "Trovador",
         "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
       },
@@ -883,42 +883,6 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "longe.com",
-        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "longe.com",
-      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
         "name": "ORDEM & PROGRESSO",
         "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
@@ -939,6 +903,42 @@
       "duration_ms": 209150,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 213600,
       "name": "Fica Pra Depois",
       "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "Mo Ki Nu Ta Fazi",
-        "url": "https://open.spotify.com/album/5xaOy0KY0SKrRNccDXZua9"
-      },
-      "artists": [
-        {
-          "name": "Rapaz 100 Juiz",
-          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
-        },
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 220217,
-      "name": "Mo Ki Nu Ta Fazi",
-      "url": "https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "Mo Ki Nu Ta Fazi",
+        "url": "https://open.spotify.com/album/5xaOy0KY0SKrRNccDXZua9"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 220217,
+      "name": "Mo Ki Nu Ta Fazi",
+      "url": "https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "Juro",
-        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
-      },
-      "artists": [
-        {
-          "name": "Neko\u2019Rs",
-          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
         "name": "\u00c9 Mentira",
         "url": "https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD"
       },
@@ -1331,34 +1315,18 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "\u00e2ngulo morto",
-        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+        "name": "Juro",
+        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
       },
       "artists": [
         {
-          "name": "E.Se",
-          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+          "name": "Neko\u2019Rs",
+          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
         }
       ],
-      "duration_ms": 148467,
-      "name": "\u00e2ngulo morto",
-      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
-        "name": "O Que N\u00f3s Fomos",
-        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
-      },
-      "artists": [
-        {
-          "name": "Blutab",
-          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "O Que N\u00f3s Fomos",
-      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
+      "duration_ms": 211324,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -1375,6 +1343,42 @@
       "duration_ms": 205862,
       "name": "IN\u00cdCIO",
       "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "\u00e2ngulo morto",
+        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "\u00e2ngulo morto",
+      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "D4",
+        "url": "https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ"
+      },
+      "artists": [
+        {
+          "name": "Don Plako",
+          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
+        },
+        {
+          "name": "DB.",
+          "url": "https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2"
+        }
+      ],
+      "duration_ms": 174717,
+      "name": "D4",
+      "url": "https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon"
     }
   ],
   "unique_name": "Seda",

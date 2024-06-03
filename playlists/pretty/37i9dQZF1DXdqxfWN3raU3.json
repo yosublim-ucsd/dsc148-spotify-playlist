@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Rels B en portada.",
-  "num_followers": 253955,
+  "num_followers": 253958,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 164810,
-      "name": "Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 191849,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -291,18 +291,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -323,22 +327,18 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Pobre Diablo",
-        "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
-      },
-      "artists": [
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        },
-        {
-          "name": "Priscilla D\u00edaz",
-          "url": "https://open.spotify.com/artist/7q7epBvUzDEKbnoMNz4s96"
-        }
-      ],
-      "duration_ms": 218297,
-      "name": "Pobre Diablo",
-      "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Click Clack",
         "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 178461,
       "name": "Click Clack",
       "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Pobre Diablo",
+        "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
+      },
+      "artists": [
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        },
+        {
+          "name": "Priscilla D\u00edaz",
+          "url": "https://open.spotify.com/artist/7q7epBvUzDEKbnoMNz4s96"
+        }
+      ],
+      "duration_ms": 218297,
+      "name": "Pobre Diablo",
+      "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -867,6 +867,38 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "La Ducha Remix (con Becky G, Tini)",
+        "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 274437,
+      "name": "La Ducha Remix (con Becky G, Tini)",
+      "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "Musiquita Triste",
         "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 172308,
       "name": "no me dejes ir",
       "url": "https://open.spotify.com/track/7DSmAiyl2mJU5LAUggNhVB"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "La Ducha Remix (con Becky G, Tini)",
-        "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 274437,
-      "name": "La Ducha Remix (con Becky G, Tini)",
-      "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/72qPBrZO98nSnEXT3AgmIO"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Promesas",
-      "url": "https://open.spotify.com/track/4354fubltNCknagyX8ZirV"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/1HwhsZmxSILukqwFUFKHXZ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 209100,
       "name": "Helado De Vainilla",
       "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/72qPBrZO98nSnEXT3AgmIO"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Promesas",
+      "url": "https://open.spotify.com/track/4354fubltNCknagyX8ZirV"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
       },
@@ -1319,26 +1319,6 @@
       "duration_ms": 204521,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "K NO ME SUELTES",
-        "url": "https://open.spotify.com/album/0suJmL0fyf4I5yBT7geZYB"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Edu Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "K NO ME SUELTES",
-      "url": "https://open.spotify.com/track/2vtBaWSQQSEw0lZv5sKQan"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1391,18 +1371,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "ahora A.K.A NAO",
-        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+        "name": "K NO ME SUELTES",
+        "url": "https://open.spotify.com/album/0suJmL0fyf4I5yBT7geZYB"
       },
       "artists": [
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Edu Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Mi Piscis",
-      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+      "duration_ms": 177666,
+      "name": "K NO ME SUELTES",
+      "url": "https://open.spotify.com/track/2vtBaWSQQSEw0lZv5sKQan"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "ahora A.K.A NAO",
+        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mi Piscis",
+      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "hiErve",
         "url": "https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 150982,
       "name": "hiErve",
       "url": "https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Aguilera",
-        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 150661,
-      "name": "Aguilera",
-      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 186285,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Aguilera",
+        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 150661,
+      "name": "Aguilera",
+      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "A mi manera",
-        "url": "https://open.spotify.com/album/3d6gvExEguHtp0vrNIOB3d"
-      },
-      "artists": [
-        {
-          "name": "Liana Malva",
-          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
-        }
-      ],
-      "duration_ms": 157698,
-      "name": "A mi manera",
-      "url": "https://open.spotify.com/track/7aMFjt1GwfWBTKJfFgATQM"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "A mi manera",
+        "url": "https://open.spotify.com/album/3d6gvExEguHtp0vrNIOB3d"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        }
+      ],
+      "duration_ms": 157698,
+      "name": "A mi manera",
+      "url": "https://open.spotify.com/track/7aMFjt1GwfWBTKJfFgATQM"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "dec\u00eddete",
+        "url": "https://open.spotify.com/album/4gJIXcAlMbC5yagmVTUgMN"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "dec\u00eddete",
+      "url": "https://open.spotify.com/track/33MvQLMWwL0vP55gnBh6L5"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "Me Hipnotizas",
         "url": "https://open.spotify.com/album/3kf3Kvtes1T7ywPIn2oW30"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 155168,
       "name": "Me Hipnotizas",
       "url": "https://open.spotify.com/track/4nCTEteEhAkAGtk9rMSUUe"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
-      },
-      "artists": [
-        {
-          "name": "Kidd Manny",
-          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
-        }
-      ],
-      "duration_ms": 156060,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1819,22 +1819,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "dec\u00eddete",
-        "url": "https://open.spotify.com/album/4gJIXcAlMbC5yagmVTUgMN"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Kidd Manny",
+          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
         },
         {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
         }
       ],
-      "duration_ms": 161311,
-      "name": "dec\u00eddete",
-      "url": "https://open.spotify.com/track/33MvQLMWwL0vP55gnBh6L5"
+      "duration_ms": 156060,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1871,22 +1871,18 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Nico Valdi produciendo a Juli Martorell",
-        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
+        "name": "Kafka",
+        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
       },
       "artists": [
         {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        },
-        {
-          "name": "Juli Martorell",
-          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
         }
       ],
-      "duration_ms": 164854,
-      "name": "Nico Valdi produciendo a Juli Martorell",
-      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
+      "duration_ms": 153600,
+      "name": "Kafka",
+      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
     }
   ],
   "unique_name": "R&B Latino",

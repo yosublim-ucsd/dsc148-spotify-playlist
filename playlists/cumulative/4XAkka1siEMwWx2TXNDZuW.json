@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "BUCKSHOT ROULETTE",
+        "url": "https://open.spotify.com/album/7fPcdqIB6qZNsDPeYiEg4Y"
+      },
+      "artists": [
+        {
+          "name": "Mike Klubnika",
+          "url": "https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128001,
+      "name": "Blank Shell",
+      "url": "https://open.spotify.com/track/2CzJql1at7pyK46iQfDUbf"
+    },
+    {
+      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },

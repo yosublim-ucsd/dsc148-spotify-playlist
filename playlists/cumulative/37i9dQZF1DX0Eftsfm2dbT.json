@@ -6431,6 +6431,28 @@
     },
     {
       "album": {
+        "name": "HIKARI",
+        "url": "https://open.spotify.com/album/7by8KGMlj1ZWhwsaPGsI1o"
+      },
+      "artists": [
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "CHOUJI",
+          "url": "https://open.spotify.com/artist/2wudBehSTmgh0pDockAtnn"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182728,
+      "name": "HIKARI",
+      "url": "https://open.spotify.com/track/099gm7kqxIKZsRIrAb1lw4"
+    },
+    {
+      "album": {
         "name": "MILLION",
         "url": "https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 66289,
+  "num_followers": 66286,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "This Is Our Night",
+        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
+      },
+      "artists": [
+        {
+          "name": "Sakis Rouvas",
+          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "This Is Our Night",
+      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Requiem (Eurovision version)",
         "url": "https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 176213,
       "name": "La det swinge",
       "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "This Is Our Night",
-        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
-      },
-      "artists": [
-        {
-          "name": "Sakis Rouvas",
-          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "This Is Our Night",
-      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
     },
     {
       "added_at": "2023-05-05 17:20:54",

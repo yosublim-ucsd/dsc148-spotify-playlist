@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 880840,
+  "num_followers": 880899,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 174826,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Stand By Me - Remastered 2010",
-      "url": "https://open.spotify.com/track/3ntrdR24dLkKrzSGRv1FlH"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
         "name": "I Walk the Line (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 176533,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Stand By Me - Remastered 2010",
+      "url": "https://open.spotify.com/track/3ntrdR24dLkKrzSGRv1FlH"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Tangled up in Blue",
-      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
         "name": "The Ultimate Collection 1968-2003",
         "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
       },
@@ -583,6 +567,42 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Rust Never Sleeps",
+        "url": "https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 227705,
+      "name": "My My, Hey Hey (Out of the Blue) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -595,6 +615,22 @@
       "duration_ms": 200146,
       "name": "Where You Lead",
       "url": "https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Songs Of Love And Hate",
+        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 310773,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -643,58 +679,6 @@
       "duration_ms": 268706,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
-        "name": "Songs Of Love And Hate",
-        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 310773,
-      "name": "Famous Blue Raincoat",
-      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
-        "name": "Rust Never Sleeps",
-        "url": "https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 227705,
-      "name": "My My, Hey Hey (Out of the Blue) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/0LXljhKMUgoLv8tLwZ1hmf"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -759,6 +743,22 @@
       "duration_ms": 213026,
       "name": "Boulder to Birmingham - 2003 Remaster",
       "url": "https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/0LXljhKMUgoLv8tLwZ1hmf"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 155453,
-      "name": "Crazy Love - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5aN9SeqAtly2NriV7tMjrI"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 200173,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 155453,
+      "name": "Crazy Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5aN9SeqAtly2NriV7tMjrI"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+        "name": "McCartney (Special Edition)",
+        "url": "https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 226866,
-      "name": "All Things Must Pass - Remastered 2014",
-      "url": "https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh"
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm"
     }
   ],
   "unique_name": "70s & 80s Acoustic",

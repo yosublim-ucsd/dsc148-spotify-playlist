@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Angelina Mango in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,114 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,240 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 83 | [Birthday](https://open.spotify.com/track/4t92h5inIkI9qB9WOyzXo0) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Birthday](https://open.spotify.com/album/54uEEFAOGVZZpxHGq7uXDh) | 3:01 |
 | 84 | [flowers on my eyes](https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [flowers on my eyes](https://open.spotify.com/album/033Z9ruvrTmWyEOLd4Iewt) | 2:28 |
 | 85 | [I Do](https://open.spotify.com/track/4lpmTrDLgZeAGinQxRabN1) | [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe) | [I Do](https://open.spotify.com/album/5zEzyahfKKizg2qvUmmn1Z) | 2:35 |
-| 86 | [OKOK](https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [OKOK](https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6) | 1:56 |
+| 86 | [OKOK](https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [OKOK](https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6) | 1:54 |
 | 87 | [FAKE IT](https://open.spotify.com/track/5XsnaiW0xQhfUK1ZgocZsx) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [FAKE IT](https://open.spotify.com/album/6GPKvmmYisqiN88SvYFkqY) | 2:29 |
 | 88 | [Maluna](https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Neza](https://open.spotify.com/artist/5P0yIpO0Chwcsh46xx4rWZ) | [Maluna](https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo) | 3:16 |
 | 89 | [UN'ALTRA NOTTE](https://open.spotify.com/track/2i8ekyE2fOjBcYv7ONy5UY) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [UN'ALTRA NOTTE](https://open.spotify.com/album/2p7i6zg9IXX2pKsTA8GNX1) | 2:45 |

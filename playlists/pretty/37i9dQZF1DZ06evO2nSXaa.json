@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 179316,
+  "num_followers": 179445,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAACEKhklB1ZYjH2Hvd3mePyN",
+  "snapshot_id": "ZlpkgAAAAAAGqHpZlgXG1nYp46x10wWS",
   "tracks": [
     {
       "added_at": null,
@@ -143,18 +143,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
       "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+      "duration_ms": 233386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
       "added_at": null,
@@ -175,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "uh oh",
-        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
       },
       "artists": [
         {
@@ -184,9 +192,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 169721,
-      "name": "uh oh",
-      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": null,
@@ -207,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
       },
       "artists": [
         {
@@ -216,9 +224,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 147253,
-      "name": "rubberband",
-      "url": "https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw"
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
     },
     {
       "added_at": null,
@@ -239,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
       "artists": [
         {
@@ -248,9 +256,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 173826,
-      "name": "stupid",
-      "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
+      "duration_ms": 147253,
+      "name": "rubberband",
+      "url": "https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw"
     },
     {
       "added_at": null,
@@ -271,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
       "artists": [
         {
@@ -280,9 +288,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 142363,
-      "name": "greedy acoustic",
-      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+      "duration_ms": 173826,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
     },
     {
       "added_at": null,
@@ -299,6 +307,38 @@
       "duration_ms": 152049,
       "name": "guilty conscience",
       "url": "https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "greedy acoustic",
+      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
     },
     {
       "added_at": null,
@@ -323,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "don't come back",
-      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 119871,
-      "name": "greedy sped up",
-      "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -371,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
       },
       "artists": [
         {
@@ -380,9 +388,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 187880,
-      "name": "slower",
-      "url": "https://open.spotify.com/track/4X3Br7EVc8oy44zUwU1z5w"
+      "duration_ms": 119871,
+      "name": "greedy sped up",
+      "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
     },
     {
       "added_at": null,
@@ -407,6 +415,22 @@
       "duration_ms": 181442,
       "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "slower",
+      "url": "https://open.spotify.com/track/4X3Br7EVc8oy44zUwU1z5w"
     },
     {
       "added_at": null,
@@ -447,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "r u ok",
-      "url": "https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -475,6 +483,22 @@
       "duration_ms": 146080,
       "name": "i'm so gone",
       "url": "https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "r u ok",
+      "url": "https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv"
     },
     {
       "added_at": null,
@@ -511,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "wish i loved you in the 90s",
-      "url": "https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "vicious",
         "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
       },
@@ -539,6 +547,22 @@
       "duration_ms": 182929,
       "name": "vicious",
       "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "wish i loved you in the 90s",
+      "url": "https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ"
     },
     {
       "added_at": null,
@@ -579,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "bad ones",
-      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hung up on You",
         "url": "https://open.spotify.com/album/1frUP08YTarlaENaJb9bpC"
       },
@@ -607,6 +615,22 @@
       "duration_ms": 201256,
       "name": "Hung up on You",
       "url": "https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "bad ones",
+      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
     },
     {
       "added_at": null,

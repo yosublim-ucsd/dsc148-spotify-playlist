@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,398 songs - 8 day 0 hr 33 min
+3,399 songs - 8 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [Dragon](https://open.spotify.com/track/7xLxdaz63ENJmmOGU6MRL3) | [Aris James](https://open.spotify.com/artist/0Q2bXEEKo1VJ7RFGfKDPhw) | [Dragon](https://open.spotify.com/album/0KAmbCdW0Dkwo2rN07OpuQ) | 3:20 | 2022-09-23 | 2022-10-09 |
 | [Drank Your Shot](https://open.spotify.com/track/3IrBhYOlu2ZuUXptjSLorn) | [August Roads](https://open.spotify.com/artist/53k9djwQ9znUGcpa7zof27) | [Drank Your Shot](https://open.spotify.com/album/7ilOlXtqaPRDV8Cry6cR9X) | 2:55 | 2023-08-05 | 2023-08-28 |
 | [Dream](https://open.spotify.com/track/37CdCdasQ8YPSzs0tAWqeQ) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Dream](https://open.spotify.com/album/5EjNnUjVvOjijI81s37aUh) | 4:23 | 2022-05-31 | 2022-06-18 |
+| [Dream Anthem](https://open.spotify.com/track/2RuY8gcyPushMXOc5mTDec) | [ATELLER](https://open.spotify.com/artist/4Lo6X5XvC17kXkibcqpHNi) | [Dream Anthem](https://open.spotify.com/album/5W0xdULVsNvNflVYo2OarI) | 3:14 | 2024-06-02 |  |
 | [Dream House](https://open.spotify.com/track/1dDWUNpBIgZVc06aU65vGB) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Dream House](https://open.spotify.com/album/5OvVHApc7an0PxgizKaeur) | 2:50 | 2024-01-27 | 2024-02-11 |
 | [Dream Song](https://open.spotify.com/track/7J6bBnnykhiGvw6zjBP423) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Please, Come Home](https://open.spotify.com/album/4NrIGbAQCnlkpA8GtalM5T) | 4:31 | 2021-10-23 | 2021-11-07 |
 | [Dreamers Ball](https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc) | [Rebecca Poole](https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D) | [Dreamers Ball](https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx) | 4:43 | 2024-03-11 | 2024-03-20 |

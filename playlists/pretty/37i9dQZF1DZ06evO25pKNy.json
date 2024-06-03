@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Hijos De Garcia. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
   "num_followers": 4772,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAACMlkmpW7bhcqQGATYws0Bi",
+  "snapshot_id": "ZlpkgAAAAADKYJ5ozuEr4JMZaZ2ioyVi",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "18 Libras",
+      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Pilas",
         "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 165458,
       "name": "Bien Pilas",
       "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "18 Libras",
-      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
     },
     {
       "added_at": null,
@@ -543,38 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 135005,
-      "name": "De Texas A California",
-      "url": "https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Mi Gusto Es - En Vivo",
-      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqui Nada Me Va Mal",
         "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
       },
@@ -595,22 +563,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debajo De La Gorra",
-        "url": "https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw"
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 185511,
-      "name": "Debajo De La Gorra",
-      "url": "https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl"
+      "duration_ms": 226986,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 135005,
+      "name": "De Texas A California",
+      "url": "https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6"
     },
     {
       "added_at": null,
@@ -627,6 +607,26 @@
       "duration_ms": 189789,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debajo De La Gorra",
+        "url": "https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 185511,
+      "name": "Debajo De La Gorra",
+      "url": "https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casa De La Esquina",
-        "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
+        "name": "Nuestro Estilo",
+        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 117760,
-      "name": "La Casa De La Esquina",
-      "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
+      "duration_ms": 216448,
+      "name": "Mundo Desgraciado",
+      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
     },
     {
       "added_at": null,
@@ -691,6 +691,38 @@
       "duration_ms": 187565,
       "name": "Willy Checks",
       "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Casa De La Esquina",
+        "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 117760,
+      "name": "La Casa De La Esquina",
+      "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 175178,
+      "name": "El R De Houston",
+      "url": "https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp"
     },
     {
       "added_at": null,
@@ -715,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 175178,
-      "name": "El R De Houston",
-      "url": "https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
@@ -740,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 216448,
-      "name": "Mundo Desgraciado",
-      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
+      "duration_ms": 190138,
+      "name": "El Recio",
+      "url": "https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn"
     },
     {
       "added_at": null,
@@ -808,25 +824,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 190138,
-      "name": "El Recio",
-      "url": "https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 135711,
-      "name": "Gorra De Tijuana",
-      "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"
+      "duration_ms": 195221,
+      "name": "Por Buen Camino",
+      "url": "https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 135711,
+      "name": "Gorra De Tijuana",
+      "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Gre\u00f1ita",
         "url": "https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 157685,
       "name": "La Gre\u00f1ita",
       "url": "https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuestro Estilo",
-        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 195221,
-      "name": "Por Buen Camino",
-      "url": "https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX"
     },
     {
       "added_at": null,

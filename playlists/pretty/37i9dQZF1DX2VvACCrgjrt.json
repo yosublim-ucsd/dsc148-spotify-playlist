@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house with Julian Jordan",
-  "num_followers": 444353,
+  "num_followers": 444396,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Make U SWEAT!",
         "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -979,6 +979,26 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "FAME?",
+        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 142562,
+      "name": "FAME?",
+      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1079,46 +1099,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "FAME?",
-        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 142562,
-      "name": "FAME?",
-      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Get Hype",
         "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 155437,
       "name": "Get Hype",
       "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1357,6 +1357,26 @@
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Get It Now",
+        "url": "https://open.spotify.com/album/24TWQdus1y6gjYbWzTLja8"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "duration_ms": 168937,
+      "name": "Get It Now",
+      "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Rawthentic",
@@ -1395,26 +1415,6 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/6WAuwYAOQ8BiormDkcZ0pW"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        },
-        {
-          "name": "YAKSA",
-          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
-        }
-      ],
-      "duration_ms": 153705,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1491,6 +1491,26 @@
       "duration_ms": 123241,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6WAuwYAOQ8BiormDkcZ0pW"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        }
+      ],
+      "duration_ms": 153705,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1573,46 +1593,6 @@
       "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Get It Now",
-        "url": "https://open.spotify.com/album/24TWQdus1y6gjYbWzTLja8"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        },
-        {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
-        }
-      ],
-      "duration_ms": 168937,
-      "name": "Get It Now",
-      "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Cheeky Little Club Banger",
-        "url": "https://open.spotify.com/album/3eBUIVfTVE2KjM8nRSbRuk"
-      },
-      "artists": [
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        },
-        {
-          "name": "Kxne",
-          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Cheeky Little Club Banger",
-      "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Chrome",
@@ -1635,46 +1615,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Goons",
-        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+        "name": "Cheeky Little Club Banger",
+        "url": "https://open.spotify.com/album/3eBUIVfTVE2KjM8nRSbRuk"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
         },
         {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Goons",
-      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Haus of Panda",
-          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+      "duration_ms": 134769,
+      "name": "Cheeky Little Club Banger",
+      "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1751,6 +1707,50 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "HABANERO",
         "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
       },
@@ -1781,22 +1781,6 @@
       "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 126720,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Turn Up The Volume",
@@ -1815,6 +1799,22 @@
       "duration_ms": 142445,
       "name": "Turn Up The Volume",
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1853,22 +1853,6 @@
       "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "I Just Wanna",
@@ -1891,46 +1875,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Drinks & Pills",
-        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
       },
       "artists": [
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "GOTT",
-          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Drinks & Pills",
-      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Veni, Vidi, Vici",
-        "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Loge21",
-          "url": "https://open.spotify.com/artist/29DWvZyWy1yvU8jpIePBYi"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/0I6ho71EGsxtEEe3k1RtHT"
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1951,6 +1907,26 @@
       "duration_ms": 193258,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Drinks & Pills",
+        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "GOTT",
+          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Drinks & Pills",
+      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2027,6 +2003,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Loge21",
+          "url": "https://open.spotify.com/artist/29DWvZyWy1yvU8jpIePBYi"
+        }
+      ],
+      "duration_ms": 217941,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/0I6ho71EGsxtEEe3k1RtHT"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Firestarter",
         "url": "https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA"
       },
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Sara Thing EP",
         "url": "https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw"
       },
@@ -2071,26 +2091,6 @@
       "duration_ms": 140624,
       "name": "Sara Tonin feat. James Cole",
       "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Hit It Back",
-        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Hit It Back",
-      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/1KKSoZJYVNx9DCEOtgG8nP"
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod"
       },
       "artists": [
         {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
         }
       ],
-      "duration_ms": 151458,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/1rlSCPVYbtfi2t2dG5VFHU"
+      "duration_ms": 144400,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1KKSoZJYVNx9DCEOtgG8nP"
       },
       "artists": [
         {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
+      "duration_ms": 151458,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/1rlSCPVYbtfi2t2dG5VFHU"
     }
   ],
   "unique_name": "Nasty Bits",

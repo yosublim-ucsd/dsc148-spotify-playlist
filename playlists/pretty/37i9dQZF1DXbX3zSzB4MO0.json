@@ -1,6 +1,6 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 9787,
+  "num_followers": 9860,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Hear Me Now (Alok Remix)",
         "url": "https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 187607,
       "name": "Hear Me Now (Alok Remix)",
       "url": "https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1487,22 +1487,18 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         }
       ],
-      "duration_ms": 230645,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
+      "duration_ms": 138725,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     }
   ],
   "unique_name": "Club Beats",

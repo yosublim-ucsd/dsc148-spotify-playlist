@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Abraham Mateo",
-  "num_followers": 962279,
+  "num_followers": 962274,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-05-28 09:25:47",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2024-05-28 09:25:47",
+      "album": {
         "name": "Los Lugares Donde Ir\u00e1s",
         "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 176000,
       "name": "Los Lugares Donde Ir\u00e1s",
       "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
-    },
-    {
-      "added_at": "2024-05-28 09:25:47",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2024-05-28 09:25:47",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-05-28 09:25:47",
       "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
+    },
+    {
+      "added_at": "2024-05-28 09:25:47",
+      "album": {
         "name": "Falsos Recuerdos",
         "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 176666,
       "name": "amor de verano",
       "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
-    },
-    {
-      "added_at": "2024-05-28 09:25:47",
-      "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
     },
     {
       "added_at": "2024-05-28 09:25:47",
@@ -571,6 +571,26 @@
     {
       "added_at": "2024-05-28 09:25:47",
       "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Santa Marta",
+      "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
+    },
+    {
+      "added_at": "2024-05-28 09:25:47",
+      "album": {
         "name": "Rotos",
         "url": "https://open.spotify.com/album/1OGl64dIotP5N5tIvamqvO"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-05-28 09:25:47",
-      "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Santa Marta",
-      "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
     },
     {
       "added_at": "2024-05-28 09:25:47",
@@ -755,46 +755,6 @@
     {
       "added_at": "2024-05-28 09:25:47",
       "album": {
-        "name": "BODAS DE PLATA",
-        "url": "https://open.spotify.com/album/3uWYbLdNYlteS7pXnd6iSZ"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        },
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 182352,
-      "name": "BODAS DE PLATA",
-      "url": "https://open.spotify.com/track/79nM91nrBh9u316xNWnhw8"
-    },
-    {
-      "added_at": "2024-05-28 09:25:47",
-      "album": {
-        "name": "Lo Dejo Todo",
-        "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 159163,
-      "name": "Lo Dejo Todo",
-      "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
-    },
-    {
-      "added_at": "2024-05-28 09:25:47",
-      "album": {
         "name": "Frenes\u00ed",
         "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
@@ -839,6 +799,26 @@
     {
       "added_at": "2024-05-28 09:25:47",
       "album": {
+        "name": "Lo Dejo Todo",
+        "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 159163,
+      "name": "Lo Dejo Todo",
+      "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
+    },
+    {
+      "added_at": "2024-05-28 09:25:47",
+      "album": {
         "name": "Pirata",
         "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
+    },
+    {
+      "added_at": "2024-05-28 09:25:47",
+      "album": {
+        "name": "BODAS DE PLATA",
+        "url": "https://open.spotify.com/album/3uWYbLdNYlteS7pXnd6iSZ"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "BODAS DE PLATA",
+      "url": "https://open.spotify.com/track/79nM91nrBh9u316xNWnhw8"
     },
     {
       "added_at": "2024-05-28 09:25:47",

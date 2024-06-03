@@ -2,7 +2,7 @@
 
 ### [This Is DZ Deathrays](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bAity)
 
-> This is DZ Deathrays\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is DZ Deathrays\. The essential tracks, all in one playlist.
 
 85 songs - 4 hr 27 min
 
