@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Gunna
 
-420 songs - 21 hr 41 min
+421 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-26 |  |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2022-07-27 | 2022-10-08 |
 | [Put It On Da Floor Again \(Continued\) \(feat\. Cardi B\)](https://open.spotify.com/track/4TYLdoKFwfnFHrgsTH0bit) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(Continued\) \(feat\. Cardi B\)](https://open.spotify.com/album/3SdAsOeEizCDHMZMWGPPMj) | 4:00 | 2023-06-09 | 2023-07-31 |
-| [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3) | 2:01 | 2024-04-05 |  |
+| [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [put yo gun 2 use ontheradar freestyle](https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3) | 2:01 | 2024-04-05 | 2024-06-04 |
 | [Quickie](https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Quickie](https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T) | 3:07 | 2022-12-08 | 2023-02-11 |
 | [Raging Bulls](https://open.spotify.com/track/0spW0YYGlpKWQGIB4jtzBd) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 3:52 | 2024-03-22 | 2024-03-29 |
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-09-29 | 2023-10-13 |
@@ -369,6 +369,7 @@
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 | 2022-10-08 |
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2022-12-05 | 2023-12-14 |
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-06 | 2022-12-07 |
+| [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-05-31 |  |
 | [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 | 2023-03-12 | 2023-03-31 |
 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-05-07 |  |
 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 | 2023-08-03 | 2024-05-17 |

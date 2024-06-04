@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Ed Sheeran",
-  "num_followers": 1469621,
+  "num_followers": 1469644,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Most Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Most Girls - Acoustic",
-      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Jamie Lawson",
         "url": "https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Most Girls (Acoustic)",
+        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Most Girls - Acoustic",
+      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Can't See Straight (Acoustic)",
         "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 188057,
       "name": "Can't See Straight - Acoustic",
       "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 195579,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Por Favor",
         "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 268440,
       "name": "Cassidy",
       "url": "https://open.spotify.com/track/2JR7RCUN6pZIoyNzaqxdUa"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -2925,6 +2925,44 @@
     },
     {
       "album": {
+        "name": "G Low Kitty (Remix)",
+        "url": "https://open.spotify.com/album/5HdE72l91YCqPtlMx7YPHD"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279990,
+      "name": "G Low Kitty - Remix",
+      "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
+    },
+    {
+      "album": {
         "name": "Barrio Fino En Directo",
         "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
       },
@@ -3298,7 +3336,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 219358,
       "name": "GODIVA",
       "url": "https://open.spotify.com/track/3eBTioPtHkBHLiHXEmLtaA"

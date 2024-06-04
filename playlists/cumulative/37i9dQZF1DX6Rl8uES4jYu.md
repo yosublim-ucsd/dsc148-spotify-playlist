@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-450 songs - 1 day 1 hr 3 min
+451 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Everyday](https://open.spotify.com/track/6Oh8HtHL9o5qpDKNv2buNO) | [Louis II](https://open.spotify.com/artist/0i387pRmgJfOoxYD3oDeFW) | [Everyday](https://open.spotify.com/album/1FwN3IGuFUEUQrGsHLkMyS) | 3:22 | 2024-01-12 |  |
 | [Expensive Taste](https://open.spotify.com/track/2GZ7hpra0vcDNXLVQiJsMN) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Expensive Taste](https://open.spotify.com/album/1JYJYA32IjG9AwW6jNvbae) | 2:10 | 2022-01-07 | 2024-04-06 |
 | [Faded](https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Faded](https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM) | 3:30 | 2021-09-21 | 2022-08-27 |
+| [Family Business](https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/4kRZDysdXZ5yeaRFxq84io) | 3:18 | 2024-06-03 |  |
 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 | 2023-03-03 |  |
 | [Faux Fur](https://open.spotify.com/track/4ZFPiD0t1U6bxq5X66zFw2) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Faux Fur](https://open.spotify.com/album/1Jb1ir46ZRst5gDfPRMSvK) | 2:13 | 2024-01-26 |  |
 | [Feel Good](https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Feel Good](https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1) | 3:39 | 2022-11-18 | 2023-04-01 |
@@ -180,7 +181,7 @@
 | [GROW](https://open.spotify.com/track/7woolpK48x0OF0neZScxgo) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N) | [GROW](https://open.spotify.com/album/4X3uGMrO2XLpBaGegC4ldQ) | 5:02 | 2021-09-21 | 2022-04-19 |
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 |  |
 | [GUCCI BAG](https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:14 | 2022-05-06 | 2024-04-19 |
-| [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 |  |
+| [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 | 2024-06-04 |
 | [Happy Days](https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Happy Days](https://open.spotify.com/album/7vOFsagJ42zKDY8mDR0krm) | 3:51 | 2020-11-13 | 2022-03-21 |
 | [head up in the clouds](https://open.spotify.com/track/58ARvD7EyLhMS2kbB1UAXQ) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [head up in the clouds](https://open.spotify.com/album/3U6Xy6GcypfSSm8AOYT3jH) | 4:32 | 2023-09-15 |  |
 | [HELLA BOY CRAZY](https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HELLA BOY CRAZY](https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26) | 2:14 | 2024-05-24 |  |

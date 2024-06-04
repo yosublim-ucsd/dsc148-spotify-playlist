@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: VaVa
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,076 likes - 91 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,082 likes - 91 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,045 likes - 65 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,092 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 40 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 41 | [Motorcycle Emptiness](https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU) | 5:05 |
 | 42 | [A Girl Like You](https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG) | 3:56 |
-| 43 | [Brimful of Asha \(Norman Cook Remix\) \(Single Version\)](https://open.spotify.com/track/29capylmokCeuNAWqGitij) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Brimful of Asha](https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB) | 4:03 |
-| 44 | [Trash](https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 4:05 |
+| 43 | [Trash](https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 4:05 |
+| 44 | [Brimful of Asha \(Norman Cook Remix\) \(Single Version\)](https://open.spotify.com/track/29capylmokCeuNAWqGitij) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Brimful of Asha](https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB) | 4:03 |
 | 45 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
 | 46 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
 | 47 | [No Surprises](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:49 |

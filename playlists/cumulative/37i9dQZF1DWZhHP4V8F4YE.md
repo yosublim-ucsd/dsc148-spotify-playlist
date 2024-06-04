@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-633 songs - 1 day 14 hr 17 min
+634 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/1ZQ99HHidfORTcxmZDVF0o) | 3:05 | 2022-12-12 | 2023-01-17 |
 | [Nkantin](https://open.spotify.com/track/1LsGuqHDEnix95E4ESd8gt) | [MacG](https://open.spotify.com/artist/6qPPkGBICY50eIP0cOiHqf), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Bailey](https://open.spotify.com/artist/2m8moPO8g157pOZoojNZYX), [EmjayKeyz](https://open.spotify.com/artist/1Zb1DKEkNbRh8crK8XjAVQ) | [Nkantin](https://open.spotify.com/album/57aowhD3SzzXyWIv8BGj7n) | 5:49 | 2022-11-01 | 2022-11-30 |
 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 | 2023-03-27 | 2023-06-06 |
+| [No Face](https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [No Face](https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi) | 4:35 | 2024-06-03 |  |
 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-02-07 | 2023-05-09 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-27 |  |
 | [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 | 2023-03-20 | 2023-04-25 |

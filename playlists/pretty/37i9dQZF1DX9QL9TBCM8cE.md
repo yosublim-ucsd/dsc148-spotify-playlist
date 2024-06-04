@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,492 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,504 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 44 | [We can go now!](https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg) | [イルミネーションスターズ](https://open.spotify.com/artist/2Ly8tGTt2wjAOWmXpVfRqS) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 02](https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi) | 3:44 |
 | 45 | [虹の行方](https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 5:14 |
 | 46 | [Secret utopIA](https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld), [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q), [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 |
-| 47 | [愚者の独白](https://open.spotify.com/track/4ThcKDoasWe7p4aPLrXlVJ) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 03](https://open.spotify.com/album/1amhjTEry84P4TaaXupGGl) | 4:37 |
+| 47 | [Happier](https://open.spotify.com/track/1UmHTmrLrkCVCWL7Zd9qYH) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Song for Prism Happier / 枕木の歌【イルミネーションスターズ盤】](https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4) | 3:49 |
 | 48 | [太陽キッス](https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz) | [THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 夢咲きAfter school](https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu) | 4:51 |
 | 49 | [今しかない瞬間を](https://open.spotify.com/track/2LPfClXLGNlyRuXt2Mew89) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS L@YERED WING 07](https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ) | 3:52 |
-| 50 | [あおぞらサイダー](https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl) | [市川雛菜 \(CV.岡咲美保\)](https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:51 |
+| 50 | [愚者の独白](https://open.spotify.com/track/4ThcKDoasWe7p4aPLrXlVJ) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 03](https://open.spotify.com/album/1amhjTEry84P4TaaXupGGl) | 4:37 |
 
 Snapshot ID: `ZlA6iwAAAACheWoDWu6Mo3nMkMO0PhcI`

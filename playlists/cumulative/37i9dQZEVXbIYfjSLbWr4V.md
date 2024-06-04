@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-185 songs - 8 hr 0 min
+186 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,10 +76,11 @@
 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 | 2024-01-29 |  |
 | [АФТЕРПАТИ](https://open.spotify.com/track/2trIptvItNErAkJBJnJ3j9) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 3:18 | 2024-01-29 |  |
 | [БАС](https://open.spotify.com/track/43vEJEFIUdbxNOJehmIMLu) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [БАС](https://open.spotify.com/album/1VLg4eFVRi8mxaSO0i06W9) | 1:52 | 2024-03-28 | 2024-04-05 |
-| [Бассок](https://open.spotify.com/track/4YxRxVKi7IYUOR5p7nsYcp) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 3:17 | 2024-04-06 |  |
+| [Бассок](https://open.spotify.com/track/4YxRxVKi7IYUOR5p7nsYcp) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 3:17 | 2024-04-06 | 2024-06-04 |
 | [Бетховен](https://open.spotify.com/track/6uK4mB7y8JHa87NuYxl3lQ) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 2:36 | 2024-04-06 | 2024-04-13 |
 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 | 2024-05-20 |  |
 | [БРАТ](https://open.spotify.com/track/5998AmqMB04aCyNe92B0I7) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [БРАТ](https://open.spotify.com/album/0D0jRtbsXBdq5lBbgHwox7) | 1:36 | 2024-03-30 | 2024-04-01 |
+| [бэйслайн бизнес](https://open.spotify.com/track/7qndEgoazYMqEb6ooHKT3E) | [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD) | [бэйслайн бизнес](https://open.spotify.com/album/3NlzEnahSTXfCTDkWwQWC9) | 1:52 | 2024-06-03 |  |
 | [В белом платье](https://open.spotify.com/track/6JqlSEjUUmKL29JYvccaJU) | [ZOLOTOV](https://open.spotify.com/artist/5AAZmTf0g3YCsXXDEqPR4B) | [В белом платье](https://open.spotify.com/album/7HGN9wNWTLCgta8DDxJhay) | 2:03 | 2024-05-13 | 2024-05-17 |
 | [В темноте](https://open.spotify.com/track/1VP1jF4lELVIK98xJEY5CV) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 2:49 | 2024-04-06 | 2024-04-08 |
 | [В этой траве](https://open.spotify.com/track/4FC3B2ogUmH7TJVo9gHNZC) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [В этой траве](https://open.spotify.com/album/0LAPvszu3cMDMY4pfbsBFJ) | 2:11 | 2024-03-15 | 2024-04-29 |
@@ -180,10 +181,10 @@
 | [Холод](https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [Холод](https://open.spotify.com/album/2ow8uzDPdwcUgajYFxrylH) | 2:03 | 2024-01-29 |  |
 | [ХОЧУ 18+](https://open.spotify.com/track/5x39VMQPsF1wDgLyhUSZYP) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 2:41 | 2024-01-29 |  |
 | [Художник](https://open.spotify.com/track/67pvnFwqbZ6Bcc3UdOtsvG) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Художник](https://open.spotify.com/album/2T7zv5tviCnIqmQsMwNHIg) | 1:47 | 2024-04-25 | 2024-05-25 |
-| [Царица](https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb) | [ANNA ASTI](https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP) | [Царица](https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP) | 3:35 | 2024-01-29 |  |
+| [Царица](https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb) | [ANNA ASTI](https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP) | [Царица](https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP) | 3:35 | 2024-01-29 | 2024-06-04 |
 | [Целую](https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Целую](https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7) | 1:48 | 2024-04-10 | 2024-05-03 |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-05-13 | 2024-05-27 |
-| [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 | 2024-03-27 | 2024-06-02 |
+| [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 | 2024-03-27 |  |
 | [ЧСВ](https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG) | 3:20 | 2024-02-03 |  |
 | [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2024-01-29 |  |
 | [Это было в России](https://open.spotify.com/track/12NAMTSAP5gphJROLrcT12) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:13 | 2024-05-26 |  |

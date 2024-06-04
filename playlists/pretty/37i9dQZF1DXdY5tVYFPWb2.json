@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 162406,
+  "num_followers": 162441,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-05-28 15:00:00",
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "added_at": "2024-05-28 15:00:00",
+      "album": {
         "name": "Glitter Eyes (feat. mindfreakkk)",
         "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-05-28 15:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2024-05-28 15:00:00",
-      "album": {
         "name": "\u767d\u7121\u57a2",
         "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
       },
@@ -991,38 +991,6 @@
       "duration_ms": 206533,
       "name": "\u767d\u7121\u57a2",
       "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
-    },
-    {
-      "added_at": "2024-05-28 15:00:00",
-      "album": {
-        "name": "\u30a2\u30c0\u30d7\u30c8",
-        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
-      "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
-    },
-    {
-      "added_at": "2024-05-28 15:00:00",
-      "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-05-28 15:00:00",
@@ -1043,6 +1011,38 @@
       "duration_ms": 208981,
       "name": "\u305a\u308b\u304f\u306a\u3044?",
       "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
+    },
+    {
+      "added_at": "2024-05-28 15:00:00",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+    },
+    {
+      "added_at": "2024-05-28 15:00:00",
+      "album": {
+        "name": "\u30a2\u30c0\u30d7\u30c8",
+        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
+      "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
     },
     {
       "added_at": "2024-05-28 15:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-28 15:00:00",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
-      "added_at": "2024-05-28 15:00:00",
-      "album": {
         "name": "Indoor Newtown Collective",
         "url": "https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 196913,
       "name": "\u3060\u308a\u3043",
       "url": "https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx"
+    },
+    {
+      "added_at": "2024-05-28 15:00:00",
+      "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2024-05-28 15:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-05-28 15:00:00",
       "album": {
-        "name": "Play The Game",
-        "url": "https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c"
-      },
-      "artists": [
-        {
-          "name": "CHEMISTRY",
-          "url": "https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE"
-        }
-      ],
-      "duration_ms": 206433,
-      "name": "Play The Game",
-      "url": "https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg"
-    },
-    {
-      "added_at": "2024-05-28 15:00:00",
-      "album": {
         "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
         "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+    },
+    {
+      "added_at": "2024-05-28 15:00:00",
+      "album": {
+        "name": "Play The Game",
+        "url": "https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c"
+      },
+      "artists": [
+        {
+          "name": "CHEMISTRY",
+          "url": "https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE"
+        }
+      ],
+      "duration_ms": 206433,
+      "name": "Play The Game",
+      "url": "https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg"
     },
     {
       "added_at": "2024-05-28 15:00:00",

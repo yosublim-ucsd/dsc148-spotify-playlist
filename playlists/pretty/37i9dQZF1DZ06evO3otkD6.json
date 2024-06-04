@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66279,
+  "num_followers": 66306,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADDJblAMaDXrsBGpAmHYRUG",
+  "snapshot_id": "Zlu2AAAAAAC+9qvo/fBbxCL5xciXMv/7",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The King Is Back (#LatinIBIZAte)",
+        "url": "https://open.spotify.com/album/19hfZem3HWzQsPEUlQSKdC"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Si No Te Quisiera",
+      "url": "https://open.spotify.com/track/56J9sf5j7T8cPg1fOGmBRs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FINAL (Vol.2)",
         "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
@@ -303,30 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Back",
-        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Si No Te Quisiera",
-      "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -343,22 +343,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoterapia",
-        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+        "name": "4.0",
+        "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Snova",
+          "url": "https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj"
+        },
+        {
+          "name": "B-Case",
+          "url": "https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj"
         }
       ],
-      "duration_ms": 202153,
-      "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+      "duration_ms": 233080,
+      "name": "D\u00e9jate Llevar",
+      "url": "https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu"
     },
     {
       "added_at": null,
@@ -1151,18 +1163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+        "name": "Silvana - C\u00f3mplices Al Rescate",
+        "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
       },
       "artists": [
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Laura Flores",
+          "url": "https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/5KgaJoG1aeBAz2zNFJKofQ"
+      "duration_ms": 174626,
+      "name": "Contigo Siempre",
+      "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
     }
   ],
   "unique_name": "This Is Belinda",

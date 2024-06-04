@@ -24223,6 +24223,24 @@
     },
     {
       "album": {
+        "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+        "url": "https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245019,
+      "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc"
+    },
+    {
+      "album": {
         "name": "\u7d42\u7109\u306eDestiny",
         "url": "https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv"
       },
@@ -25216,7 +25234,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 218614,
       "name": "\u96e2\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4FXFXaXfUlIyiNJ04Ocwec"

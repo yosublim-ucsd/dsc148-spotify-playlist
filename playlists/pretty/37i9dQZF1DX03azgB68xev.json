@@ -1,6 +1,6 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 197843,
+  "num_followers": 197846,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
@@ -235,38 +235,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
         "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
       },
@@ -287,6 +255,38 @@
       "duration_ms": 225946,
       "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
       "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Unashamed",
         "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 178928,
       "name": "Unashamed",
       "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "This Love",
-        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -591,18 +591,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+        "name": "This Is Freedom (Ain't No Rock) [Live]",
+        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+      "duration_ms": 344125,
+      "name": "This Is Freedom (Ain't No Rock) - Live",
+      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -627,22 +631,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "This Is Freedom (Ain't No Rock) [Live]",
-        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 344125,
-      "name": "This Is Freedom (Ain't No Rock) - Live",
-      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -855,26 +855,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
       },
       "artists": [
         {
           "name": "Tauren Wells",
           "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
         }
       ],
-      "duration_ms": 137990,
-      "name": "Fake It - Warehouse Mix",
-      "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -895,22 +887,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Covered",
         "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
       },
@@ -923,6 +899,22 @@
       "duration_ms": 196987,
       "name": "Covered",
       "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1003,18 +995,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
       },
       "artists": [
         {
           "name": "Tauren Wells",
           "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
         }
       ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+      "duration_ms": 137990,
+      "name": "Fake It - Warehouse Mix",
+      "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Happy Day - Retain Remix",
         "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 200903,
       "name": "Happy Day - Retain Remix",
       "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "You, Me, The Church, That's Us - Side B",
-        "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "Word - Live",
-      "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "More Than Halfway",
         "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 221453,
       "name": "More Than Halfway",
       "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "You, Me, The Church, That's Us - Side B",
+        "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Word - Live",
+      "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/6MAsgiDIbSMEHUkKoAHx01"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 293706,
       "name": "Praise",
       "url": "https://open.spotify.com/track/4Ot0zyWL4fzzVuduj6GZ9L"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 181661,
       "name": "The Same Jesus - Reyer Remix",
       "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2024-05-24 04:00:00",

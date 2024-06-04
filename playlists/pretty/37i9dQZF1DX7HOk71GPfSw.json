@@ -1,28 +1,36 @@
 {
   "description": "ft. charli",
-  "num_followers": 454756,
+  "num_followers": 454808,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZljyiQAAAABZ3dyQDc+3QBLFMXgcyU2x",
+  "snapshot_id": "Zl4s3AAAAABkpzPi64fw7EwaSDu4fkyE",
   "tracks": [
     {
-      "added_at": "2024-05-14 13:44:13",
+      "added_at": "2024-06-03 20:51:40",
       "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+        "name": "The 360 remix with robyn and yung lean",
+        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
       },
       "artists": [
         {
           "name": "Charli XCX",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
         }
       ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+      "duration_ms": 129761,
+      "name": "The 360 remix with robyn and yung lean",
+      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
     },
     {
       "added_at": "2024-05-30 21:41:29",

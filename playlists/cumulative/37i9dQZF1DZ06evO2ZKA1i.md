@@ -2,7 +2,7 @@
 
 ### [This Is Deep Purple](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZKA1i)
 
-> This is Deep Purple\. The essential tracks, all in one playlist.
+> This is Deep Purple\. Todos os maiores hits em uma só playlist.
 
 90 songs - 7 hr 26 min
 
@@ -46,7 +46,7 @@
 | [Into the Fire \- 1995 Remaster](https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 | 2022-10-12 |  |
 | [Kentucky Woman \- 1998 Remaster](https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 4:43 | 2022-09-17 |  |
 | [King of Dreams](https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 5:26 | 2022-09-17 |  |
-| [Knocking At Your Back Door](https://open.spotify.com/track/1VJBQdDrOblSLmoZMeh1xh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 7:05 | 2022-09-17 | 2024-06-03 |
+| [Knocking At Your Back Door](https://open.spotify.com/track/1VJBQdDrOblSLmoZMeh1xh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 7:05 | 2022-09-17 |  |
 | [Lady Double Dealer \- 2009 Digital Remaster](https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:21 | 2023-01-01 |  |
 | [Lady Luck \- 2010 Digital Remaster](https://open.spotify.com/track/0GTZdFCyqZ0gTItkBaiE3i) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 2:47 | 2022-10-15 |  |
 | [Lalena \- 2000 Remaster](https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 5:05 | 2022-09-17 |  |
@@ -68,7 +68,7 @@
 | [Nothing at All](https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 4:42 | 2022-09-17 | 2023-11-11 |
 | [Oh Well](https://open.spotify.com/track/1EcrjxVZRILxaa4pCkoZvy) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 4:31 | 2022-09-17 | 2023-09-10 |
 | [Paradise Bar](https://open.spotify.com/track/31LJFeE8dgwGEesPZry7DD) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 4:10 | 2022-09-25 | 2022-10-13 |
-| [Perfect Strangers](https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:28 | 2022-09-17 |  |
+| [Perfect Strangers](https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:28 | 2022-09-17 | 2024-06-04 |
 | [Pictures Of Home \- Remastered 2012](https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 5:03 | 2022-09-18 |  |
 | [Portable Door](https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Portable Door](https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc) | 3:48 | 2024-05-03 |  |
 | [Purpendicular Waltz \- Live in 95](https://open.spotify.com/track/2fKgboilteDu7GUkX8fVKX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Bombay Calling \(Live in 95\)](https://open.spotify.com/album/1jtvoaDptF8n966xLCqmvV) | 5:40 | 2022-09-17 | 2022-10-11 |

@@ -4,7 +4,7 @@
 
 > ft\. charli
 
-2,062 songs - 3 day 21 hr 49 min
+2,063 songs - 3 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [3 Bad](https://open.spotify.com/track/17ruwJP3zIcbcXTbnP9qbJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [3 Bad](https://open.spotify.com/album/3xATCnolc2SYhSkmkXn3QU) | 2:50 | 2023-03-17 | 2023-06-01 |
 | [3 Star Reunite](https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Back 2 Life](https://open.spotify.com/album/7A356O065CDhBZCA5tO6u5) | 3:36 | 2022-11-18 | 2023-01-25 |
 | [3310](https://open.spotify.com/track/1vxK7sEWuAqmoAOBfUWz7S) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ess B](https://open.spotify.com/album/7ktAbAO30k59mgWJ9yMKJq) | 4:24 | 2020-10-13\* | 2021-01-08 |
-| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-14 |  |
+| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-14 | 2024-06-04 |
 | [3cheers](https://open.spotify.com/track/3naGCVWfjdtnuznB2AAqIq) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [3cheers](https://open.spotify.com/album/4sh4ddlgBMEdObguYdn5VR) | 1:57 | 2021-07-04 | 2022-02-24 |
 | [4700](https://open.spotify.com/track/5tJ5xSNBjMs4GkeZx3oWzs) | [Body Meat](https://open.spotify.com/artist/4BrSvpXSgT02JhhNULggJk) | [4700](https://open.spotify.com/album/4wyAzYfbiNeDm7qzRGJ6LK) | 2:36 | 2021-03-06 | 2021-09-21 |
 | [480](https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [480](https://open.spotify.com/album/2ZQ6EhBBPUWTRYIWIXxf3L) | 3:32 | 2022-07-08 | 2022-08-13 |
@@ -1811,6 +1811,7 @@
 | [texas](https://open.spotify.com/track/5PbdV7i87rT8kTD2EcAe4F) | [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p), [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [texas](https://open.spotify.com/album/0VBiDYI7RG5acRP1dQ10KG) | 2:53 | 2022-03-25 | 2022-04-29 |
 | [That Girl Is My World](https://open.spotify.com/track/4753UZ9QmTiPQR3PkK91D1) | [recovery girl](https://open.spotify.com/artist/2PiVpr8UjimvqGWBq11Hod), [Shay.](https://open.spotify.com/artist/2EdNg83N1XGsPoymwtZSyw) | [That Girl Is My World](https://open.spotify.com/album/6dnf7VeKFKi8kpVKbjbMEb) | 3:26 | 2021-05-28 | 2021-09-21 |
 | [That's All Me](https://open.spotify.com/track/1Wy3gJSvQtZCYqxxp9wII7) | [Grooverelly](https://open.spotify.com/artist/29ZxQgz5QCDnpaeEGPTMZd), [cøzybøy](https://open.spotify.com/artist/3sWtaNsmsCx0TFaQkP8QAm), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk), [Diskrypt](https://open.spotify.com/artist/7w7eijgAmL7gU2pWAI7PHm) | [That's All Me](https://open.spotify.com/album/5t7avw9KR1CzMgiahojFbp) | 3:21 | 2022-03-18 | 2022-05-14 |
+| [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-06-03 |  |
 | [THE BLAZE \(feat\. SEBii\)](https://open.spotify.com/track/5EBVrGoXd1yJ6l2BvMTNci) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [THE BLAZE \(feat\. SEBii\)](https://open.spotify.com/album/5bDrh2tCkb1xw3oM2WngDl) | 2:24 | 2021-01-08 | 2021-02-10 |
 | [THE COPS](https://open.spotify.com/track/2COHO8K4VuIKSFy7Lhjetx) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [THE COPS](https://open.spotify.com/album/1ADM95xAD5hIHNvfmQ2zru) | 1:42 | 2021-12-10 | 2022-02-26 |
 | [The Darkness \- Remix](https://open.spotify.com/track/606BSzBpRxkKi9qIbSpIbH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Sarah Bonito](https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [The Darkness \(Remix\)](https://open.spotify.com/album/3ZzRwLaCEYwUvxUkT6P43A) | 4:06 | 2021-05-03 | 2021-07-17 |

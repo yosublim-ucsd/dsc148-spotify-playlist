@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,025 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,072 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Coração de Vaqueiro](https://open.spotify.com/track/1BSsJm88q13n15TgJqvqBp) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Coração de Vaqueiro](https://open.spotify.com/album/4Al6Lvg48mCHN0V1nKx358) | 3:42 |
 | 50 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/6vq7r1Pqd3pyI07u63cPZV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/7lLjDECsr4tJUs0BEulGbU) | 2:58 |
 
-Snapshot ID: `Le/ZGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LfEqmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

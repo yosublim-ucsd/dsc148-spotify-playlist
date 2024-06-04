@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43351,
+  "num_followers": 43354,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Chimney's Afire",
-        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
-      },
-      "artists": [
-        {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "The Summer",
-      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 225000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Chimney's Afire",
+        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
+      },
+      "artists": [
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "The Summer",
+      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Running With The Wolves",
-        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
-      },
-      "artists": [
-        {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
-        }
-      ],
-      "duration_ms": 163821,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Mystik",
         "url": "https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 249296,
       "name": "Mystik",
       "url": "https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Running With The Wolves",
+        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
+      },
+      "artists": [
+        {
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        }
+      ],
+      "duration_ms": 163821,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Sponge Cake",
+        "url": "https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 248590,
+      "name": "Be About You",
+      "url": "https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Sponge Cake",
-        "url": "https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i"
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw"
       },
       "artists": [
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 248590,
-      "name": "Be About You",
-      "url": "https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG"
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -899,22 +915,6 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 221870,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 201706,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 221870,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Palo Alto",
-        "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
-      },
-      "artists": [
-        {
-          "name": "Jack River",
-          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
-        }
-      ],
-      "duration_ms": 199584,
-      "name": "Palo Alto",
-      "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Silence/Win",
         "url": "https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 248733,
       "name": "Window to the Sky",
       "url": "https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Palo Alto",
+        "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
+      },
+      "artists": [
+        {
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        }
+      ],
+      "duration_ms": 199584,
+      "name": "Palo Alto",
+      "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "LO LA RU",
-        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "God Forgot",
-      "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Pound For Pound",
         "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "LO LA RU",
+        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "God Forgot",
+      "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Gossip",
         "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "As You Go",
-        "url": "https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "As You Go",
-      "url": "https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Inappropriate Behaviour",
         "url": "https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 253066,
       "name": "Inappropriate Behaviour",
       "url": "https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "As You Go",
+        "url": "https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "As You Go",
+      "url": "https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu"
     }
   ],
   "unique_name": "Coast to Coast",

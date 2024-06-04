@@ -1,12 +1,12 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> e mais",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> and more",
   "num_followers": 0,
-  "original_name": "Mix melanc\u00f3lico",
+  "original_name": "Moody Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABWkmwjqWGnj0Nu+UQjGW+b",
+  "snapshot_id": "AAAAAAAAAAAZ0uSHZ5QWKTKdZn0H4CT/",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
       "added_at": null,
@@ -821,6 +821,6 @@
       "url": "https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY"
     }
   ],
-  "unique_name": "Mix melanc\u00f3lico",
+  "unique_name": "Moody Mix",
   "url": "https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw"
 }

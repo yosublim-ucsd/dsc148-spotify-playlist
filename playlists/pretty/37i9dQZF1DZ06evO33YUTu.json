@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 118492,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 118515,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAZdlzdowUNgStUXo7yb0Nb",
+  "snapshot_id": "Zlu2AAAAAABp4S0oWCcatYCNjKZEijGV",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Est\u00e1s Enamorando de M\u00ed",
-        "url": "https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY"
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
       "artists": [
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 165680,
-      "name": "Te Est\u00e1s Enamorando de M\u00ed",
-      "url": "https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF"
+      "duration_ms": 172852,
+      "name": "Si Superamos Esta Noche",
+      "url": "https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+        "name": "Te Est\u00e1s Enamorando de M\u00ed",
+        "url": "https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 172852,
-      "name": "Si Superamos Esta Noche",
-      "url": "https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X"
+      "duration_ms": 165680,
+      "name": "Te Est\u00e1s Enamorando de M\u00ed",
+      "url": "https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
       "duration_ms": 126293,
       "name": "Lokita",
       "url": "https://open.spotify.com/track/4i0OTkKDtOhSNgVb57mexh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ant\u00eddoto",
+        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
     },
     {
       "added_at": null,

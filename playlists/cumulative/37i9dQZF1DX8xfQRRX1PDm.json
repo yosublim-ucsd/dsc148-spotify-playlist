@@ -999,24 +999,24 @@
       "artists": [
         {
           "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          "url": "https://open.spotify.com/artist/1xhSZgJOFzhEyd1Zn0nTSq"
         },
         {
-          "name": "Romi",
-          "url": "https://open.spotify.com/artist/6YMAzC42MchYYkPbGulfqx"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd"
         },
         {
           "name": "Arun",
-          "url": "https://open.spotify.com/artist/49jEL4469qocI2PxF9oCxP"
+          "url": "https://open.spotify.com/artist/7gWRtSKGQ95UXoYMnOn83L"
         },
         {
           "name": "Ikka",
-          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+          "url": "https://open.spotify.com/artist/2YqdhX6ZdyIM5a5GtnUIlQ"
         }
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 196301,
       "name": "Chamma Chamma",
       "url": "https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 191239,
       "name": "Najaa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v"
@@ -5325,6 +5325,32 @@
     },
     {
       "album": {
+        "name": "Taras (From \"Munjya\")",
+        "url": "https://open.spotify.com/album/0sEowDRNDEVD8T31onRthr"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188814,
+      "name": "Taras - From \"Munjya\"",
+      "url": "https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3"
+    },
+    {
+      "album": {
         "name": "Tattoo Waaliye (From \"Bunty Aur Babli 2\")",
         "url": "https://open.spotify.com/album/3yFd0D9EvrsPZ75HYTQv6O"
       },
@@ -5906,7 +5932,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 313364,
       "name": "Tune Maari Entriyaan",
       "url": "https://open.spotify.com/track/5kg1GacbhgQfLcbgOBRO9c"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 227367,
+  "description": "This is Danna Paola. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 227387,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAC63L0kXv+q00JNBsPz+9WI",
+  "snapshot_id": "Zlu2AAAAAABywYpdTz4zJdYLY5DB1SEb",
   "tracks": [
     {
       "added_at": null,
@@ -151,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A\u00daN TE QUIERO",
-        "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
       },
       "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 205533,
-      "name": "A\u00daN TE QUIERO",
-      "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
+      "duration_ms": 217226,
+      "name": "Veo en ti la luz",
+      "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
     },
     {
       "added_at": null,
@@ -183,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enredados",
-        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+        "name": "A\u00daN TE QUIERO",
+        "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
       },
       "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 217226,
-      "name": "Veo en ti la luz",
-      "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
+      "duration_ms": 205533,
+      "name": "A\u00daN TE QUIERO",
+      "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1TRAGO",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
       },
@@ -375,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "AMANECER",
+      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "tqum",
         "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
       },
@@ -391,22 +423,6 @@
       "duration_ms": 149589,
       "name": "tqum",
       "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "AMANECER",
-      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
     },
     {
       "added_at": null,
@@ -707,6 +723,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Friend De Semana",
+      "url": "https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Un Beso",
         "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
       },
@@ -768,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 185573,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
+      "duration_ms": 172226,
+      "name": "TQ Y YA",
+      "url": "https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z"
     },
     {
       "added_at": null,
@@ -840,9 +880,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 172226,
-      "name": "TQ Y YA",
-      "url": "https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z"
+      "duration_ms": 185573,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
     },
     {
       "added_at": null,
@@ -883,54 +923,6 @@
       "duration_ms": 197550,
       "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
       "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        },
-        {
-          "name": "Trapical",
-          "url": "https://open.spotify.com/artist/1akovilveREPmx1E535jJU"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Polo A Tierra",
-      "url": "https://open.spotify.com/track/5lhrcKbHyhPjlxEzzL9HPm"
     }
   ],
   "unique_name": "This Is Danna Paola",

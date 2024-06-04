@@ -483,6 +483,32 @@
     },
     {
       "album": {
+        "name": "Paper Before Money",
+        "url": "https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Famous Enough",
+      "url": "https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY"
+    },
+    {
+      "album": {
         "name": "Faraar",
         "url": "https://open.spotify.com/album/1HFaZl1hPmSnvdTQxshVQe"
       },
@@ -572,7 +598,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 161357,
       "name": "FRIEND ZONE",
       "url": "https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv"
@@ -722,7 +748,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 161232,
       "name": "In Love",
       "url": "https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H"
@@ -821,6 +847,32 @@
     },
     {
       "album": {
+        "name": "The Hood",
+        "url": "https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        },
+        {
+          "name": "Jhindi",
+          "url": "https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169504,
+      "name": "Khabi Khan",
+      "url": "https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK"
+    },
+    {
+      "album": {
         "name": "Khutti",
         "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
       },
@@ -836,7 +888,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 132771,
       "name": "Khutti",
       "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
@@ -1193,6 +1245,32 @@
     },
     {
       "album": {
+        "name": "RODE COLLEGE (From \"Rode College\")",
+        "url": "https://open.spotify.com/album/1thGIzOKI2h1OLyQLN9RzB"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Matte Ala",
+          "url": "https://open.spotify.com/artist/7kFGiiWwaSc4lu1C22TH7a"
+        },
+        {
+          "name": "Real Sach",
+          "url": "https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "RODE COLLEGE - From \"Rode College\"",
+      "url": "https://open.spotify.com/track/3YacK9PyNjxmYWkTDg4N1R"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq"
       },
@@ -1256,7 +1334,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 152508,
       "name": "Small Circle",
       "url": "https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg"
@@ -1552,7 +1630,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"

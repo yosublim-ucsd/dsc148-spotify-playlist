@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: NewJeans \(뉴진스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Kep1er \(케플러\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-424 songs - 23 hr 28 min
+425 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 | 2022-07-28 | 2023-08-24 |
 | [LOVE BOMB](https://open.spotify.com/track/6FoI3qwCRq0el1RYKeVGSx) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/1txcaw9svQD60PDIjdqrBY) | 3:19 | 2021-11-29 | 2022-07-02 |
 | [Love Bug](https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 6th Mini Album 'Time for the moon night'](https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP) | 3:42 | 2021-11-29 | 2022-07-25 |
-| [love four cuts](https://open.spotify.com/track/0opN1jEHqgRgGTLv8WdjiB) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [love four cuts](https://open.spotify.com/album/4aCo2Oxxql2zalKV1ggnrF) | 3:02 | 2024-05-24 |  |
+| [love four cuts](https://open.spotify.com/track/0opN1jEHqgRgGTLv8WdjiB) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [love four cuts](https://open.spotify.com/album/4aCo2Oxxql2zalKV1ggnrF) | 3:02 | 2024-05-24 | 2024-06-04 |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-04 | 2022-07-28 |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-02 | 2022-08-23 |
 | [LOVE is](https://open.spotify.com/track/5ezx4XG58DNj74FtGLUaNU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:27 | 2021-11-29 | 2022-07-29 |
@@ -226,7 +226,7 @@
 | [Mi\-myo Mi\-myo](https://open.spotify.com/track/3tW9Gbkdgzh1L5UHzpXUiX) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:02 | 2021-11-29 | 2022-07-29 |
 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-03-27 |  |
 | [MIL \(Make it love\)](https://open.spotify.com/track/1rraEPDPhjZT3SEIM0hFAY) | [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8) | [Dream](https://open.spotify.com/album/70SUj1ZtGPnWyL72iQhTyC) | 3:21 | 2021-11-29 | 2022-05-31 |
-| [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 | 2024-05-14 |  |
+| [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 | 2024-05-14 | 2024-06-04 |
 | [Miracle](https://open.spotify.com/track/4vFgYhZDcv3ociO2QI5qAd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:42 | 2021-11-29 | 2022-07-26 |
 | [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 | 2023-04-24 | 2023-05-06 |
 | [Miracle](https://open.spotify.com/track/3nfJEBbHVCJHj1Kn5WIx1r) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:43 | 2022-02-09 | 2022-06-23 |
@@ -244,7 +244,7 @@
 | [My Dear](https://open.spotify.com/track/6s25gIYsBc8oF0VQFK7wzt) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:34 | 2022-04-04 | 2022-04-14 |
 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 | 2021-11-29 | 2022-06-12 |
 | [My World](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 1:47 | 2024-03-27 |  |
-| [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 | 2021-11-29 | 2024-05-28 |
+| [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 | 2021-11-29 |  |
 | [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-04-17 | 2024-05-06 |
 | [NINETEEN](https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g) | 3:03 | 2021-11-29 | 2022-07-29 |
 | [No Oh Oh](https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Nu.Clear](https://open.spotify.com/album/2Izm951aqeQTSHrJW0hZ16) | 3:43 | 2021-11-29 | 2022-04-14 |
@@ -311,6 +311,7 @@
 | [Sensitive](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [Loossemble](https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh) | 3:05 | 2023-09-18 | 2023-12-22 |
 | [Shine](https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:36 | 2022-01-26 | 2022-04-11 |
 | [Shining Bright](https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [DELIGHT](https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6) | 3:28 | 2023-03-30 | 2023-07-18 |
+| [Shooting Star](https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:03 | 2024-06-03 |  |
 | [Shot thru the heart](https://open.spotify.com/track/7ut6KQCuZ2ANbnMsSe7eos) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:25 | 2022-03-29 | 2022-04-13 |
 | [SHOWMEYOURLOVE](https://open.spotify.com/track/5729t1p6g6KCWsp4gWYqvZ) | [Baek Ji](https://open.spotify.com/artist/0xQYsRfBcBJiStVACt3JDV) | [SHOWMEYOURLOVE](https://open.spotify.com/album/6nh26RBW7JikYtfynic5zp) | 3:14 | 2023-12-21 | 2024-01-21 |
 | [SHUT DOWN](https://open.spotify.com/track/55nWobiFbQcUSXSP0ZjkfN) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [CLASS IS OVER](https://open.spotify.com/album/0mToIKyUNLglEM7VXqdCt8) | 3:26 | 2022-05-06 | 2022-11-17 |

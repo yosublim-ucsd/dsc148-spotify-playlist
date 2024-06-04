@@ -4,7 +4,7 @@
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-313 songs - 17 hr 24 min
+314 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 | 2022-06-03 |  |
 | [It's Tricky](https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:03 | 2022-06-03 |  |
 | [JUMPIN](https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [JUMPIN](https://open.spotify.com/album/2Gf3rUMIPtYL29TQx4Xnob) | 2:24 | 2023-04-25 |  |
+| [KING KONG](https://open.spotify.com/track/4ZcAPS5AXNBI6aH8OMjCDF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG](https://open.spotify.com/album/6CtujV9zK1giRw4KuCG1UD) | 3:16 | 2024-06-03 |  |
 | [King of Anything](https://open.spotify.com/track/3VA8T3rNy5V24AXxNK5u9E) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 3:27 | 2022-06-03 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-03 |  |
 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 | 2024-03-29 |  |

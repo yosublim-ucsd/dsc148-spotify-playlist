@@ -3869,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6cmq4aPxeJBH9pCJMjIA4N"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307325,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA"
+    },
+    {
+      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },

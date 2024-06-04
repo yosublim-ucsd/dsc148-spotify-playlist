@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 764103,
+  "num_followers": 764183,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 241225,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "Daughter, Daughter",
         "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 205022,
       "name": "Daughter, Daughter",
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 241225,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
     },
     {
       "added_at": "2024-02-16 19:57:55",

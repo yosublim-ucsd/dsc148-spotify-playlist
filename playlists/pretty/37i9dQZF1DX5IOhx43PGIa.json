@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Dhruv.",
-  "num_followers": 286904,
+  "num_followers": 286910,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "Lobster Telephone (Edit)",
-        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Lobster Telephone - Edit",
-      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
         "name": "the space between us",
         "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 253325,
       "name": "the space between us",
       "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+        "name": "TIED UP",
+        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
       },
       "artists": [
         {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+      "duration_ms": 143102,
+      "name": "TIED UP",
+      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1143,6 +1143,22 @@
       "duration_ms": 224888,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1199,22 +1215,6 @@
       "duration_ms": 122448,
       "name": "Right About Love",
       "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "TIED UP",
-        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 143102,
-      "name": "TIED UP",
-      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "So I Danced",
         "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
+        "name": "all-american bitch!",
+        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
       },
       "artists": [
         {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
         }
       ],
-      "duration_ms": 150000,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+      "duration_ms": 148000,
+      "name": "all-american bitch!",
+      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1463,22 +1479,6 @@
       "duration_ms": 277815,
       "name": "Care",
       "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "all-american bitch!",
-        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "all-american bitch!",
-      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
         "name": "Tell Her",
         "url": "https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 231691,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1939,38 +1939,6 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "Lola Amour",
-        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 158346,
-      "name": "Part II: Bliss",
-      "url": "https://open.spotify.com/track/6ebVuGIfwGSpUpVNZdyryk"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "HUSH",
-        "url": "https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 175221,
-      "name": "HUSH",
-      "url": "https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
         "name": "moviestar",
         "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
       },
@@ -1987,18 +1955,18 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+        "name": "Lola Amour",
+        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
       },
       "artists": [
         {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
         }
       ],
-      "duration_ms": 196075,
-      "name": "Leave With Me",
-      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+      "duration_ms": 158346,
+      "name": "Part II: Bliss",
+      "url": "https://open.spotify.com/track/6ebVuGIfwGSpUpVNZdyryk"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2019,6 +1987,38 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 175221,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "love letters to u (EP)",
         "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
       },
@@ -2031,6 +2031,22 @@
       "duration_ms": 157377,
       "name": "love of my life",
       "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "APESHIT",
+        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2063,22 +2079,6 @@
       "duration_ms": 199136,
       "name": "Shower Song",
       "url": "https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "APESHIT",
-        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2323,6 +2323,26 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "TRIBAL",
+        "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Juws",
+          "url": "https://open.spotify.com/artist/53xeEBZ8oXkA7iSQOT1Bbm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "TRIBAL",
+      "url": "https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/0aSwQqVt9gMkOufw49oqPj"
       },
@@ -2383,26 +2403,6 @@
       "duration_ms": 192317,
       "name": "Birdwatcher",
       "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "TRIBAL",
-        "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
-      },
-      "artists": [
-        {
-          "name": "8RO8",
-          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
-        },
-        {
-          "name": "Juws",
-          "url": "https://open.spotify.com/artist/53xeEBZ8oXkA7iSQOT1Bbm"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "TRIBAL",
-      "url": "https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2491,6 +2491,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "SHYPOP",
         "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP"
     },
     {
       "added_at": "2024-05-31 14:21:50",

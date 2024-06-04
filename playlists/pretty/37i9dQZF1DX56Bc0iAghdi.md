@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,161 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,185 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 50 | [Dear Regret](https://open.spotify.com/track/5wrjoyXqTcLh7XvgukpFDO) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Dear Regret](https://open.spotify.com/album/27MKsRgdDeznExxKezUzjt) | 3:33 |
 | 51 | [Renaissance](https://open.spotify.com/track/5Aq6dhgVsvhy3g2tb0EGn2) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Beats and Pieces: Volume One](https://open.spotify.com/album/5sCH6evfbbnQDq7zUFJD72) | 2:48 |
 | 52 | [Help You Heal](https://open.spotify.com/track/45BXjER0XEofYtOw4oB4lh) | [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY) | [Help You Heal](https://open.spotify.com/album/7uFNH0Tr5Ohb07vfhDbo41) | 3:43 |
-| 53 | [Lazarus](https://open.spotify.com/track/4s3FRxV2vVlAUFHlrXyTUu) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Lazarus](https://open.spotify.com/album/1mYVX6VT8bhVHlu3aUyfTc) | 3:21 |
-| 54 | [Summertime](https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/6Z0UDE7UctY5H0T3oBdHnX) | 3:09 |
+| 53 | [Summertime](https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/6Z0UDE7UctY5H0T3oBdHnX) | 3:09 |
+| 54 | [Lazarus](https://open.spotify.com/track/4s3FRxV2vVlAUFHlrXyTUu) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Lazarus](https://open.spotify.com/album/1mYVX6VT8bhVHlu3aUyfTc) | 3:21 |
 | 55 | [Jaded](https://open.spotify.com/track/1TXs87J1Rxud9mmxSqFlYM) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Jaded](https://open.spotify.com/album/3VvWba6kh5TcCiHhHBfpxP) | 3:15 |
 | 56 | [Love Me](https://open.spotify.com/track/0LcM0Xxr198IB7Ji9EQgwv) | [Westover](https://open.spotify.com/artist/3IUGN5NE9KUwcbbbb057vZ) | [Love Me](https://open.spotify.com/album/5xOBZA3d7Cvs38g9w7Su3g) | 3:31 |
 | 57 | [Out of Sight](https://open.spotify.com/track/7dSMZs32flMZOBlH0ZZEnu) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Looking Up](https://open.spotify.com/album/4rOSSAf4yT22M6N6o6NEGk) | 4:02 |

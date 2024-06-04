@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 72795,
+  "num_followers": 72790,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
+      },
+      "artists": [
+        {
+          "name": "Luca Francis",
+          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 200180,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
-      },
-      "artists": [
-        {
-          "name": "Luca Francis",
-          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
     },
     {
       "added_at": "2023-12-19 12:10:20",

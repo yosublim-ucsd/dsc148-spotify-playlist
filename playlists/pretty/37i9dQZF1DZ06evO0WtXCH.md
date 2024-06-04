@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041 likes - 29 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041 likes - 28 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,6 +36,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 26 | [Multiverse](https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:26 |
 | 27 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 |
 | 28 | [Clean Slate](https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 2:49 |
-| 29 | [Hypno Jam With Dan](https://open.spotify.com/track/05i8S2cGUeh0cIxS8mJfBa) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 1:57 |
 
-Snapshot ID: `ZlpkgAAAAABCSaam64nRxv/rdwnYD+eP`
+Snapshot ID: `Zlu2AAAAAACswQW13LLGZq8dWsm7HCdT`

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 60610,
+  "num_followers": 60664,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
@@ -519,42 +519,6 @@
     {
       "added_at": "2024-04-06 00:43:42",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
-    },
-    {
-      "added_at": "2024-04-06 00:43:42",
-      "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2024-04-06 00:43:42",
-      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -579,6 +543,42 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
+    },
+    {
+      "added_at": "2024-04-06 00:43:42",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+    },
+    {
+      "added_at": "2024-04-06 00:43:42",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
     },
     {
       "added_at": "2024-04-06 00:43:42",
@@ -855,26 +855,22 @@
     {
       "added_at": "2024-04-06 00:43:42",
       "album": {
-        "name": "Soltera (Remix)",
-        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
+        "name": "La Dura Vida del Joven Rapero",
+        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Don Patricio",
+          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
         }
       ],
-      "duration_ms": 266086,
-      "name": "Soltera (Remix)",
-      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
+      "duration_ms": 219666,
+      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
+      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
     },
     {
       "added_at": "2024-04-06 00:43:42",
@@ -919,22 +915,26 @@
     {
       "added_at": "2024-04-06 00:43:42",
       "album": {
-        "name": "La Dura Vida del Joven Rapero",
-        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
+        "name": "Soltera (Remix)",
+        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
       "artists": [
         {
-          "name": "Don Patricio",
-          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
-      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
+      "duration_ms": 266086,
+      "name": "Soltera (Remix)",
+      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
     },
     {
       "added_at": "2024-04-06 00:43:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,234 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,258 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 27 | [Brebaje](https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Esperando Tu Llamada](https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj) | 2:54 |
 | 28 | [Son las Dos de la Mañana](https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:44 |
 | 29 | [Yo Soy de la Sierra](https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:19 |
-| 30 | [Con Mentiras No](https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Corazon Michoacano](https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS) | 3:03 |
-| 31 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
+| 30 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
+| 31 | [Con Mentiras No](https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Corazon Michoacano](https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS) | 3:03 |
 | 32 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 |
 | 33 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 |
 | 34 | [Aunque Estés Lejos De Mí](https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 3:50 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 78 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
 | 79 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
 | 80 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 |
-| 81 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
-| 82 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 |
+| 81 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 |
+| 82 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
 | 83 | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/track/1zhSUSXjhxlJ8WTVnnD8yj) | [Los Hermanos Salgado](https://open.spotify.com/artist/6j5ye5mufTZx40UKVScMvP), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC) | 3:23 |
 | 84 | [Mis Errores Pagando](https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Guerra De Corridos](https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG) | 2:32 |
 | 85 | [Si No Te Tengo](https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Si No Te Tengo](https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq) | 3:43 |

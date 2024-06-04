@@ -2,7 +2,7 @@
 
 ### [This Is Ramin Djawadi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
 
-> This is Ramin Djawadi\. The essential tracks, all in one playlist.
+> This is Ramin Djawadi\. Todos os maiores hits em uma só playlist.
 
 56 songs - 2 hr 55 min
 
@@ -14,7 +14,7 @@
 | [An Impossible Choice](https://open.spotify.com/track/793D3U2TMPyTgwWlY2cDup) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:34 | 2024-04-04 |  |
 | [Blood of My Blood](https://open.spotify.com/track/7kMr7gQm5lzvwlc5VZHgMO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:35 | 2024-04-04 |  |
 | [Blood of the Dragon](https://open.spotify.com/track/0Y7n1RE7g1kkPc6CQCdfuO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ) | 1:33 | 2024-04-04 | 2024-05-29 |
-| [Brotherhood of Steel \(Full Version\)](https://open.spotify.com/track/1llOaeeKxiCra9QvwXCJNf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout \(Original Amazon Series Soundtrack\)](https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr) | 6:27 | 2024-05-02 | 2024-06-03 |
+| [Brotherhood of Steel \(Full Version\)](https://open.spotify.com/track/1llOaeeKxiCra9QvwXCJNf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout \(Original Amazon Series Soundtrack\)](https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr) | 6:27 | 2024-05-02 |  |
 | [Bulletproof](https://open.spotify.com/track/0yySiTbX2RhrPnqWYyrPC1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [3 Body Problem \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6VhG7xEPrBO3YjmQj9OcUn) | 3:15 | 2024-04-04 | 2024-04-14 |
 | [Dark Wings, Dark Words](https://open.spotify.com/track/2YZy9wVrWyWIGJK7LsJbgZ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:47 | 2024-04-04 |  |
 | [Dr\. Ford](https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:30 | 2024-04-04 |  |
@@ -42,7 +42,7 @@
 | [Reign of the Targaryens](https://open.spotify.com/track/3XcPY110hQ07HNWqDZIZgU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:31 | 2024-04-04 |  |
 | [Runaway](https://open.spotify.com/track/4NBYp73qsxFh9yUUnMy6jz) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 2 \(Music From the HBO Series\)](https://open.spotify.com/album/4U6mv2dfPwbp3NQlq2CSaj) | 2:48 | 2024-04-04 |  |
 | [See You for What You Are](https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:09 | 2024-04-04 |  |
-| [Shall We Begin?](https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 1:24 | 2024-04-04 |  |
+| [Shall We Begin?](https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 1:24 | 2024-04-04 | 2024-06-04 |
 | [Sweetwater](https://open.spotify.com/track/6GnihxGXNy1CRiiNrsqYeM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 2:53 | 2024-04-19 | 2024-05-17 |
 | [T\-60](https://open.spotify.com/track/2k7aqEBYFVKKYiELSCp3y0) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout \(Original Amazon Series Soundtrack\)](https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr) | 3:22 | 2024-04-12 | 2024-05-11 |
 | [The Children](https://open.spotify.com/track/7k8DQNQga4UMKFsnVSCPE0) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl) | 2:41 | 2024-04-04 |  |

@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-138 songs - 6 hr 18 min
+139 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2023-11-20 | 2024-04-24 |
 | [Feathers](https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 2:52 | 2023-11-20 |  |
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2024-01-15 |  |
+| [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2024-05-27 |  |
 | [Forest Flower](https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Forest Flower](https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ) | 4:13 | 2024-01-29 |  |
 | [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 | 2023-11-20 |  |
 | [Friendship.](https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Friendship.](https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj) | 1:31 | 2023-11-20 |  |
@@ -55,7 +56,7 @@
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2023-11-20 |  |
 | [Happy Thoughts](https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [Happy Thoughts](https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq) | 1:48 | 2023-11-20 | 2024-04-28 |
 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 | 2023-11-20 |  |
-| [Home](https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 1:47 | 2023-11-20 |  |
+| [Home](https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 1:47 | 2023-11-20 | 2024-06-04 |
 | [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 |  |
 | [I See the Light \- From "Tangled"](https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [I See the Light \- From "Tangled"](https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0) | 3:20 | 2023-11-20 |  |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2023-11-20 |  |

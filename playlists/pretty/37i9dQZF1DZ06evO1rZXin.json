@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Vallarta Show. Los temas esenciales, todos en una lista.",
-  "num_followers": 5979,
+  "num_followers": 5981,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADlUzz2RQnMKZZ4Tkff1i2S",
+  "snapshot_id": "Zlu2AAAAAACaZWU5JjJYSa5ozVjfjcUf",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 159400,
-      "name": "La Negra Colora",
-      "url": "https://open.spotify.com/track/56NnF59xCRGPyP0qfDil0w"
+      "duration_ms": 180600,
+      "name": "Tu Pum Pum",
+      "url": "https://open.spotify.com/track/3QBmioYx33GPY0aixqlGBG"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 180600,
-      "name": "Tu Pum Pum",
-      "url": "https://open.spotify.com/track/3QBmioYx33GPY0aixqlGBG"
+      "duration_ms": 159400,
+      "name": "La Negra Colora",
+      "url": "https://open.spotify.com/track/56NnF59xCRGPyP0qfDil0w"
     },
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Maria Isabel",
-      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
+      "duration_ms": 175533,
+      "name": "Se Suicid\u00f3 Un Asesino",
+      "url": "https://open.spotify.com/track/7rOmlSpOz4c2NGVGmGuGiA"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 144200,
-      "name": "La Vaquilla Prieta",
-      "url": "https://open.spotify.com/track/1vu1ZRj7rkFTtDMEJFOStD"
+      "duration_ms": 217440,
+      "name": "Maria Isabel",
+      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
     },
     {
       "added_at": null,
@@ -423,26 +423,6 @@
       "duration_ms": 171135,
       "name": "Pa'Yo (29 Aniversario)",
       "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "El De La Quebradita",
-      "url": "https://open.spotify.com/track/2WNk8DyPt90Qki3j1ZJGhH"
     },
     {
       "added_at": null,
@@ -479,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 184900,
-      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tirador",
         "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
@@ -511,6 +475,22 @@
       "duration_ms": 168000,
       "name": "Me Esta Esperando Mar\u00eda",
       "url": "https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 184900,
+      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
     },
     {
       "added_at": null,
@@ -547,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/2WNk8DyPt90Qki3j1ZJGhH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
       },
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+      "duration_ms": 195026,
+      "name": "Dicembre Del 63",
+      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 195026,
-      "name": "Dicembre Del 63",
-      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,

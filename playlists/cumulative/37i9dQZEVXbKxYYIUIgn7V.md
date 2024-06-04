@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-479 songs - 23 hr 21 min
+480 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-04-14 |  |
 | [Famax](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 5:35 | 2024-04-26 | 2024-05-01 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-07 | 2024-04-27 |
+| [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 | 2024-06-03 |  |
 | [Fantazija](https://open.spotify.com/track/1wRvvl4diSD8ajCDHWnn1c) | [Grše](https://open.spotify.com/artist/7tcnxMy5DB0GEOOUnlkKyz), [Miach](https://open.spotify.com/artist/2JdSKSsIyKoufxXuuuOVUt) | [Fantazija](https://open.spotify.com/album/3YFrHQo29msSQeqUsP1weC) | 2:24 | 2024-02-20 | 2024-02-27 |
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-19 | 2024-04-05 |
 | [Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Internet Famous](https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6) | 2:03 | 2024-04-04 | 2024-04-24 |
@@ -321,7 +322,7 @@
 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-03-19 | 2024-03-27 |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-30 | 2024-02-01 |
 | [OAED \- Remix](https://open.spotify.com/track/0DRBuH0O3Uh6YqJWMAjHLl) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [OAED \(Remix\)](https://open.spotify.com/album/2Xn4WHhSkE5tPHePPzlxvL) | 3:15 | 2024-01-30 | 2024-02-07 |
-| [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 | 2024-05-19 |  |
+| [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 | 2024-05-19 | 2024-06-04 |
 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 | 2024-02-06 | 2024-03-05 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-22 | 2024-03-01 |
 | [Oktober in Europa](https://open.spotify.com/track/3d40QNJhGHHBNRhEHEXxHl) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Oktober in Europa](https://open.spotify.com/album/3kqDDoLz4aPELnW6kl3cf8) | 3:28 | 2024-04-23 | 2024-04-28 |

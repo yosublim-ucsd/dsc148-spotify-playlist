@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 168925,
+  "num_followers": 168954,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAD9aqQFURlJ7Bafr5/lE1CT",
+  "snapshot_id": "Zlu2AAAAAADlmIMkSRNfxySYYHSULkum",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
         },
         {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 340080,
-      "name": "A Ordem Natural das Coisas / Chiclete com Banana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu"
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": null,
@@ -327,22 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
       "artists": [
         {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
         }
       ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
+      "duration_ms": 340080,
+      "name": "A Ordem Natural das Coisas / Chiclete com Banana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu"
     },
     {
       "added_at": null,
@@ -439,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
       },
       "artists": [
+        {
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     },
     {
       "added_at": null,
@@ -487,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor \u00c9 Tudo de Bom",
-        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
-      },
-      "artists": [
-        {
-          "name": "Mundo Bita",
-          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "O Amor \u00c9 Tudo de Bom",
-      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 Anos de Triunfo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 312680,
       "name": "A Cada Vento (feat. Rael) - Ao Vivo",
       "url": "https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 193954,
-      "name": "Gueto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 Anos de Triunfo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 234840,
       "name": "O\u00e1sis (feat. Rael) - Ao Vivo",
       "url": "https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 193954,
+      "name": "Gueto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "A Chapa \u00e9 Quente - Ao Vivo",
-      "url": "https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Sou a Mar\u00e9 Viva",
         "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 274145,
       "name": "Manifesto (feat. Lenine & Emicida)",
       "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "A Chapa \u00e9 Quente - Ao Vivo",
+      "url": "https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8"
     },
     {
       "added_at": null,
@@ -1019,22 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         },
         {
-          "name": "J. Ghetto",
-          "url": "https://open.spotify.com/artist/6vcFsBBJc4qleLGg6JzT4z"
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Boa Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/2v3FdNAsIe9rh62DOb4ZIz"
+      "duration_ms": 246320,
+      "name": "Oi Compadre - Ao Vivo",
+      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
     }
   ],
   "unique_name": "This Is Emicida",

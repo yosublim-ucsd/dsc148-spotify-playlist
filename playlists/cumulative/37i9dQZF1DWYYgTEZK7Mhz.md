@@ -2,7 +2,7 @@
 
 ### [Sapore di Sale](https://open.spotify.com/playlist/37i9dQZF1DWYYgTEZK7Mhz)
 
-> Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
+> Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
 86 songs - 4 hr 20 min
 

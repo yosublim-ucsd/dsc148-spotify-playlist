@@ -1,6 +1,6 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 430688,
+  "num_followers": 430687,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-05-10 04:59:00",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2024-05-10 04:59:00",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -911,22 +891,42 @@
     {
       "added_at": "2024-05-10 04:59:00",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 174482,
-      "name": "TUS L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2024-05-10 04:59:00",
@@ -963,22 +963,22 @@
     {
       "added_at": "2024-05-10 04:59:00",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
       "added_at": "2024-05-10 04:59:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-05-10 04:59:00",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2024-05-10 04:59:00",
-      "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2024-05-10 04:59:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-05-10 04:59:00",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "CUKI",
-      "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
-    },
-    {
-      "added_at": "2024-05-10 04:59:00",
-      "album": {
         "name": "Dime t\u00fa",
         "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 210302,
       "name": "Dime t\u00fa",
       "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "CUKI",
+      "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
     },
     {
       "added_at": "2024-05-10 04:59:00",
@@ -1927,18 +1927,22 @@
     {
       "added_at": "2024-05-10 04:59:00",
       "album": {
-        "name": "Jeans",
-        "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
+        "name": "Sue\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
         }
       ],
-      "duration_ms": 185840,
-      "name": "Jeans",
-      "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
+      "duration_ms": 256000,
+      "name": "Sue\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12"
     }
   ],
   "unique_name": "Romantiqueo",

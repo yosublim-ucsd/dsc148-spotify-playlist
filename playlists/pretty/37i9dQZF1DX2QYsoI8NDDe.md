@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Designo Celestial
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,898 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,886 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 41 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
 | 42 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
 | 43 | [A Veces](https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [A Veces](https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC) | 2:38 |
-| 44 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
-| 45 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 |
+| 44 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 |
+| 45 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
 | 46 | [La Chacalosa](https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [La Chacalosa](https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT) | 3:33 |
 | 47 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:58 |
 | 48 | [Mentiroso](https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Mentiroso](https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd) | 2:39 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 59 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
 | 60 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 |
 | 61 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
-| 62 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
-| 63 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 62 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 63 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
 | 64 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
 | 65 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 |
 

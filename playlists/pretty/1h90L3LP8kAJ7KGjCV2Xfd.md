@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 297,140 likes - 254 songs - 14 hr 20 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 297,130 likes - 255 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,5 +262,6 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 252 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 |
 | 253 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
 | 254 | [Perfect Day](https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Perfect Day](https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H) | 4:01 |
+| 255 | [KING KONG](https://open.spotify.com/track/4ZcAPS5AXNBI6aH8OMjCDF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG](https://open.spotify.com/album/6CtujV9zK1giRw4KuCG1UD) | 3:16 |
 
-Snapshot ID: `AAAOJI8oCYEX9fyNQO6fBA2PjUzaKvKJ`
+Snapshot ID: `AAAOJf2lWRa3fL9hiGSuWiF1IgrhtD+9`

@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "GLORIA! (Colonna Sonora Originale del Film)",
+        "url": "https://open.spotify.com/album/4AuIJ9fp9AJ3XwpPBVx7Yn"
+      },
+      "artists": [
+        {
+          "name": "Margherita Vicario",
+          "url": "https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162631,
+      "name": "ARIA!",
+      "url": "https://open.spotify.com/track/0LfDmbIEsNmKxwOhLUYap2"
+    },
+    {
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -13996,7 +14014,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 127868,
       "name": "It's A No From Me",
       "url": "https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4"

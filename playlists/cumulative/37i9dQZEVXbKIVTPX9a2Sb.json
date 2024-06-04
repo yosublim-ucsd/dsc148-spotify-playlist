@@ -10342,7 +10342,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -10492,7 +10492,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 117677,
       "name": "FTU",
       "url": "https://open.spotify.com/track/2jJW3lVmk5ruhIBHd9J8BL"
@@ -18112,7 +18112,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -21108,6 +21108,28 @@
       "duration_ms": 182526,
       "name": "Nad r\u00e1nem",
       "url": "https://open.spotify.com/track/4ERjIDbLvQYSxVT3cRu2LK"
+    },
+    {
+      "album": {
+        "name": "Nad Vodou",
+        "url": "https://open.spotify.com/album/5Ak61lhrhh4O61cXwP5WzG"
+      },
+      "artists": [
+        {
+          "name": "Yael",
+          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
+        },
+        {
+          "name": "Tian Moon",
+          "url": "https://open.spotify.com/artist/7acQoGflJFbdXupVAyg8YM"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "Nad Vodou",
+      "url": "https://open.spotify.com/track/3hKMlUWlZpRtC9OVzfDweE"
     },
     {
       "album": {
@@ -34478,7 +34500,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -36290,7 +36312,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 92903,
       "name": "Yalla",
       "url": "https://open.spotify.com/track/5hIOykHCnqboNV0pcYVMjw"

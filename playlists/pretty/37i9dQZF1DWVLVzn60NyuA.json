@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 306572,
+  "num_followers": 307370,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "People (Remixes)",
         "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
-      },
-      "artists": [
-        {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Murder She Wrote",
-      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
-      },
-      "artists": [
-        {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Tigini (Remix)",
         "url": "https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
-      },
-      "artists": [
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Damages",
+        "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Eve Bounce",
         "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Damages",
-        "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -2515,6 +2515,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Victory Rock Riddim",
         "url": "https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -2747,30 +2747,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Bring It",
-        "url": "https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y"
-      },
-      "artists": [
-        {
-          "name": "DJ Ecko",
-          "url": "https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J"
-        },
-        {
-          "name": "Stefario",
-          "url": "https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj"
-        },
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 152232,
-      "name": "Bring It",
-      "url": "https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Keep On Going",
         "url": "https://open.spotify.com/album/49G044qCj857V1GK5M8jhn"
       },
@@ -2791,6 +2767,30 @@
       "duration_ms": 189201,
       "name": "Keep On Going",
       "url": "https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y"
+      },
+      "artists": [
+        {
+          "name": "DJ Ecko",
+          "url": "https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J"
+        },
+        {
+          "name": "Stefario",
+          "url": "https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY"
     },
     {
       "added_at": "2024-05-30 22:00:00",

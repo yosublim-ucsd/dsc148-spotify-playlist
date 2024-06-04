@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,778 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,779 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 195 | [Emotional Fire](https://open.spotify.com/track/74dOVbgf0hlCvsbFRLoSnV) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:54 |
 | 196 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
 | 197 | [No Quiero Estar Solo \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/045UJJgTyiur8Nb43cgHdB) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Tesoros De Colección](https://open.spotify.com/album/4FXrmGk8amalcdXTBy33Il) | 3:50 |
-| 198 | [In the Arms of Love](https://open.spotify.com/track/40agu4uJ6XKbJlETEwDXNU) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 4:47 |
-| 199 | [Domino](https://open.spotify.com/track/1k9DmOy2H10taUtUwLeddI) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:24 |
+| 198 | [Domino](https://open.spotify.com/track/1k9DmOy2H10taUtUwLeddI) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:24 |
+| 199 | [In the Arms of Love](https://open.spotify.com/track/40agu4uJ6XKbJlETEwDXNU) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 4:47 |
 | 200 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
 | 201 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
 | 202 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
@@ -311,8 +311,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 301 | [Desire](https://open.spotify.com/track/1Zhs2crzqQVST3j60dCKhu) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:52 |
 | 302 | [What Are You Doing With a Fool Like Me \- Studio Version](https://open.spotify.com/track/1ADmyvNaireK0kH2xNdVyO) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 4:50 |
 | 303 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 |
-| 304 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
-| 305 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 304 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 305 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
 | 306 | [One Day You Will](https://open.spotify.com/track/40Z7VBIbGq5TBGr8Ueloue) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:13 |
 | 307 | [You Can't Fight Fate](https://open.spotify.com/track/0AHjC8WFFv0jsEqgiW03Ui) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:41 |
 | 308 | [Lonely Beat Of My Heart](https://open.spotify.com/track/71qwV7NMb0cFnH4Z9oahzb) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [Rock Gems](https://open.spotify.com/album/2eyyZaY5wXNQyzzKMWRIqa) | 4:14 |
@@ -357,8 +357,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 347 | [Get Me Over You](https://open.spotify.com/track/7bewAo45qGMKe8sfvTJEoR) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Secada](https://open.spotify.com/album/3PkJHoLbpDhcnMiy2DDq9F) | 3:57 |
 | 348 | [I Know You Too Well](https://open.spotify.com/track/3psObHKM9bzvpBZ3fnOoPt) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 4:55 |
 | 349 | [Private Affair](https://open.spotify.com/track/32CbjmRkWBkTX2bFAgMqG4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [2300 Jackson Street](https://open.spotify.com/album/2XK6MmKEP1jA9EjO5bHpJw) | 4:10 |
-| 350 | [No Fool No More](https://open.spotify.com/track/1RhaF2Eq1Zg1zR1MIaY9I1) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [Best Of](https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2) | 4:17 |
-| 351 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
+| 350 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
+| 351 | [No Fool No More](https://open.spotify.com/track/1RhaF2Eq1Zg1zR1MIaY9I1) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [Best Of](https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2) | 4:17 |
 | 352 | [Feels Like Home](https://open.spotify.com/track/6bYV3JaJuDQX3meBGx5jMe) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Sittin' On Top Of The World](https://open.spotify.com/album/6whu15IpXsztdwhOC43SXX) | 4:32 |
 | 353 | [You're Right, I Was Wrong](https://open.spotify.com/track/3XyvYg1ffmvYJT0YZ334Rj) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [I Couldn´t Have Said It Better Myself](https://open.spotify.com/album/4aIx98BVdGYLJGGftvmGVS) | 3:44 |
 | 354 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbTAogAAAAA4iIeamDFOZlmRRQ6/GLI8`
+Snapshot ID: `AbTGfgAAAADi/xEeAAugX8pi5uvAosR3`

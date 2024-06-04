@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 139008,
+  "num_followers": 139046,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Look Sharp! (Extended Version)",
-        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
+        "name": "Giros",
+        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
+      "duration_ms": 178266,
+      "name": "11 Y 6",
+      "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Giros",
-        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "11 Y 6",
-      "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 195453,
       "name": "Cerrando Ciclos",
       "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Look Sharp! (Extended Version)",
+        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1431,26 +1431,6 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1491,6 +1471,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Voragine",
         "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 260371,
-      "name": "Nunca quise",
-      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 270720,
       "name": "Dancing On The Ceiling",
       "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 260371,
+      "name": "Nunca quise",
+      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Mentira La Verdad",
+        "url": "https://open.spotify.com/album/6GaIpvZKFBFsUj2xcPeajL"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 228541,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/16QAisXL2nWqt59Z0oXfkL"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Mentira La Verdad",
-        "url": "https://open.spotify.com/album/6GaIpvZKFBFsUj2xcPeajL"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 228541,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/16QAisXL2nWqt59Z0oXfkL"
     }
   ],
   "unique_name": "Ruta 2",

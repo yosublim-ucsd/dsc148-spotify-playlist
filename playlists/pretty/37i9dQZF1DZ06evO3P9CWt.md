@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This is Pabllo Vittar\. The essential tracks, all in one playlist.
+> This is Pabllo Vittar\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,814 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,839 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 17 | [Falta Coragem](https://open.spotify.com/track/6lRrel33k5DYgUX3GHBpFs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:37 |
 | 18 | [Derretida \- Brunoso Remix](https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:53 |
 | 19 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
-| 20 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
+| 20 | [Amor de Que](https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
 | 21 | [Me Usa](https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 4:00 |
-| 22 | [Amor de Que](https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
+| 22 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
 | 23 | [Apaixonada](https://open.spotify.com/track/4gqJgiZDOoLrKNN7bmvYKa) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:27 |
 | 24 | [Fun Tonight \- Pabllo Vittar Remix](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:20 |
-| 25 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 |
-| 26 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
+| 25 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
+| 26 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 |
 | 27 | [Ânsia](https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:59 |
 | 28 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:30 |
 | 29 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 47 | [Buzina](https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:17 |
 | 48 | [After \- Filipe Guerra Remix](https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Filipe Guerra](https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:28 |
 | 49 | [I Got It \(feat\. Brooke Candy, CupcakKe and Pabllo Vittar\)](https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:51 |
+| 50 | [Energia \- Parte 2](https://open.spotify.com/track/4LDOAbqOhaAcY5ccwfIlJL) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Energia \(Parte 2\)](https://open.spotify.com/album/1emXHaHaPlW2hTTuYbgFQ9) | 4:29 |
 
-Snapshot ID: `ZlpkgAAAAADvQcNjL9BXKGFv8NrbrYcg`
+Snapshot ID: `Zlu2AAAAAABHfoZQcf6AXTWQhQyCSvMH`

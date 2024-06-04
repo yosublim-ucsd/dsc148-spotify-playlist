@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "200",
+        "url": "https://open.spotify.com/album/1eiYSjWt0mkbZNJPUsZpeG"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "200",
+      "url": "https://open.spotify.com/track/7rx73Y7UB1gy6bOLqJvsRe"
+    },
+    {
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 197763,
       "name": "All Night (feat. Saweetie)",
       "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
@@ -244,10 +262,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
     },
     {
       "album": {
@@ -262,7 +298,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 194080,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
@@ -478,7 +514,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 186471,
       "name": "Devil by the Window",
       "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
@@ -1697,6 +1733,42 @@
     },
     {
       "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "album": {
         "name": "EENIE MEENIE",
         "url": "https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg"
       },
@@ -1712,7 +1784,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 170066,
       "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
       "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
@@ -2025,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "You had me at HELLO",
+        "url": "https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176191,
+      "name": "Feel the POP",
+      "url": "https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG"
+    },
+    {
+      "album": {
         "name": "IN:VITE U",
         "url": "https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek"
       },
@@ -2170,6 +2260,24 @@
       "duration_ms": 195933,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/1XX7qmxpxVj504Q6Iox4ac"
+    },
+    {
+      "album": {
+        "name": "YUQ1",
+        "url": "https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
     },
     {
       "album": {
@@ -2332,6 +2440,24 @@
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "album": {
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
     },
     {
       "album": {
@@ -2610,7 +2736,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 197025,
       "name": "HALAZIA",
       "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
@@ -2808,7 +2934,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
@@ -2956,6 +3082,24 @@
       "duration_ms": 241453,
       "name": "House Party",
       "url": "https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s"
+    },
+    {
+      "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
       "album": {
@@ -3211,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3oELknq4SW9vcfxyQh5sYb"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182332,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/3gPI0DkzvSHc5s21lIU5yv"
+    },
+    {
+      "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
       },
@@ -3406,6 +3568,24 @@
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "album": {
+        "name": "KING KONG",
+        "url": "https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196221,
+      "name": "KING KONG",
+      "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
     },
     {
       "album": {
@@ -3622,6 +3802,28 @@
       "duration_ms": 193146,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/6Jkcg39vqttJezD7nfqrSj"
+    },
+    {
+      "album": {
+        "name": "Lose My Breath (Feat. Charlie Puth)",
+        "url": "https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166913,
+      "name": "Lose My Breath (Feat. Charlie Puth)",
+      "url": "https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca"
     },
     {
       "album": {
@@ -3856,6 +4058,24 @@
       "duration_ms": 192440,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
+        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198906,
+      "name": "MAESTRO",
+      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
     },
     {
       "album": {
@@ -4564,7 +4784,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 207299,
       "name": "Pretty U",
       "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
@@ -5090,7 +5310,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 147961,
       "name": "Siren",
       "url": "https://open.spotify.com/track/3K8OJiXeEYnQ0nUlLDwh4X"
@@ -5382,7 +5602,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
@@ -5418,7 +5638,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
@@ -5494,7 +5714,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 148729,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j"
@@ -5602,7 +5822,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 196170,
       "name": "Tamed-Dashed",
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
@@ -6256,7 +6476,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
@@ -6364,10 +6584,46 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
+    },
+    {
+      "album": {
+        "name": "Wife",
+        "url": "https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121226,
+      "name": "Wife",
+      "url": "https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj"
+    },
+    {
+      "album": {
+        "name": "GOLDEN HOUR : Part.1",
+        "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172381,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
     },
     {
       "album": {
@@ -6657,6 +6913,24 @@
     },
     {
       "album": {
+        "name": "FANTASIA",
+        "url": "https://open.spotify.com/album/4QFXvpvYNDHCfdhebzAu3l"
+      },
+      "artists": [
+        {
+          "name": "Jun Hyo Seong",
+          "url": "https://open.spotify.com/artist/73RRzEpK7IQexOhC0CuTRZ"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214909,
+      "name": "\ubc18\ud574",
+      "url": "https://open.spotify.com/track/71wgol5cRSUMmLWO4Ow5vP"
+    },
+    {
+      "album": {
         "name": "U-Kiss Only One Album",
         "url": "https://open.spotify.com/album/7lsKoouqNG0L1VUWEeoGVY"
       },
@@ -6762,6 +7036,24 @@
       "duration_ms": 193578,
       "name": "\ud558\ub4dc\uce90\ub9ac Hard Carry",
       "url": "https://open.spotify.com/track/1xzCUpXSMnAbckUXDwBTlW"
+    },
+    {
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "\ud574\uc57c (HEYA)",
+      "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSnRSDTCsoPk"

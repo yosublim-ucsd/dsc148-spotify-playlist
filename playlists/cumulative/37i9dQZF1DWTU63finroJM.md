@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Indien.
 
-1,452 songs - 3 day 7 hr 51 min
+1,454 songs - 3 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Aonde Eu Sou Cria](https://open.spotify.com/track/7M7oYTGSDkD1jfv33yWtR0) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Intocável](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw) | 2:34 | 2022-03-24 | 2022-04-20 |
 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2023-05-30 | 2023-10-28 |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-03-24 | 2022-04-15 |
+| [Apprends\-moi](https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Posthume](https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu) | 2:57 | 2024-05-31 |  |
 | [April](https://open.spotify.com/track/7kKHtsQg0WF7u5KxxupNJk) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [April](https://open.spotify.com/album/672CJ3djWeBl22WRpfmhUr) | 3:04 | 2022-04-07 | 2022-08-02 |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-05-03 |  |
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-19 |  |
@@ -312,7 +313,7 @@
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-12 | 2024-03-16 |
 | [Don't Call Me Again](https://open.spotify.com/track/3PObfP8Tm1PkPwo4vsZnaW) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:24 | 2022-09-08 | 2023-05-23 |
 | [Don't Need You](https://open.spotify.com/track/3shtho9vze9NHIz40VF88W) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 3:05 | 2022-03-24 | 2022-04-09 |
-| [Don't Talk To Me](https://open.spotify.com/track/2Z1Lt7J11dSp42X03PWGh5) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Teething](https://open.spotify.com/album/2EuCweXAgt5dcTayQRPoEo) | 3:41 | 2024-04-26 |  |
+| [Don't Talk To Me](https://open.spotify.com/track/2Z1Lt7J11dSp42X03PWGh5) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Teething](https://open.spotify.com/album/2EuCweXAgt5dcTayQRPoEo) | 3:41 | 2024-04-26 | 2024-06-04 |
 | [Don't U Dare](https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Don't U Dare](https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP) | 2:42 | 2022-02-25 | 2022-03-02 |
 | [Doo Doo Doo](https://open.spotify.com/track/37c5GgK7f8QXCwOayKl2Da) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Doo Doo Doo](https://open.spotify.com/album/64pLqJV6zOaBh8jAwBorFV) | 2:46 | 2022-03-21 | 2022-08-02 |
 | [Down For It](https://open.spotify.com/track/5FhOCIqij24XZePzuJIOOp) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/7yL4gfHBtc66pNOA3Khs5y) | 3:15 | 2022-03-24 | 2022-04-20 |
@@ -730,7 +731,7 @@
 | [ME DUELE QUERERTE](https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [ME DUELE QUERERTE](https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ) | 2:26 | 2024-02-09 |  |
 | [Me Encanta\(s\)](https://open.spotify.com/track/3S1lg0ytmvtPRV4qv4iWL4) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Hensito](https://open.spotify.com/album/3cheBjM6yhQedJyjGMBGcN) | 2:35 | 2022-08-04 | 2023-05-31 |
 | [Me Enseñaste](https://open.spotify.com/track/5C8kcTmoswivovtqO0D3RN) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Me Enseñaste](https://open.spotify.com/album/7eAEFmFW99w1Z8ttzXTCcn) | 2:35 | 2022-03-24 | 2022-04-16 |
-| [Me Ter](https://open.spotify.com/track/3wSOnJ6XtkOGlJcKR2vDIw) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH) | [Língua](https://open.spotify.com/album/1G2WJnStYm1BbmCSRuriUN) | 3:07 | 2024-05-10 |  |
+| [Me Ter](https://open.spotify.com/track/3wSOnJ6XtkOGlJcKR2vDIw) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH) | [Língua](https://open.spotify.com/album/1G2WJnStYm1BbmCSRuriUN) | 3:07 | 2024-05-10 | 2024-06-04 |
 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 | 2022-03-24 | 2022-08-02 |
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2022-03-24 | 2022-12-03 |
 | [MELEK MİYİM](https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [MELEK MİYİM](https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb) | 2:31 | 2024-02-02 | 2024-03-16 |
@@ -1111,6 +1112,7 @@
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-08-02 |
 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 | 2024-04-19 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2023-03-07 | 2023-06-10 |
+| [take what i can get](https://open.spotify.com/track/5OyjgGolsgzoqM6DRTlOuI) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [take what i can get](https://open.spotify.com/album/4ogEOFIundyE1VoGLzT13V) | 2:43 | 2024-04-05 |  |
 | [Takut](https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Takut](https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL) | 5:19 | 2022-03-21 | 2022-09-16 |
 | [Talking Box](https://open.spotify.com/track/7fru0rxutpi08K7Q112saF) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [檸檬の日々](https://open.spotify.com/album/2ceMonx7yH4UDjM8jpUxZq) | 2:21 | 2022-02-03 | 2022-08-26 |
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-05-30 | 2023-12-02 |

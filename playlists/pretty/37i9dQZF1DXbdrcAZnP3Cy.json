@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 166944,
+  "num_followers": 166965,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 164205,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Dime C\u00f3mo Quieres",
         "url": "https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 169920,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 164205,
-      "name": "La Dieta",
-      "url": "https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN"
     },
     {
       "added_at": "2023-05-01 21:44:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,797 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,802 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

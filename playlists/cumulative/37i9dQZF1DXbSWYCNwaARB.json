@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: AleXa",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: BADVILLAIN",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
@@ -634,6 +634,24 @@
       "duration_ms": 154360,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
+    },
+    {
+      "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189283,
+      "name": "BADVILLAIN",
+      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
     },
     {
       "album": {
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 197962,
       "name": "FINAL LOVE SONG",
       "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
@@ -3386,7 +3404,7 @@
       ],
       "date_added": "2020-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 205493,
       "name": "I CAN'T STOP ME",
       "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 190941,
       "name": "i'm okay",
       "url": "https://open.spotify.com/track/4lx2hRVHn8tcLFxu5c48Cc"
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 163480,
       "name": "LOOP (feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
@@ -7742,7 +7760,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj"

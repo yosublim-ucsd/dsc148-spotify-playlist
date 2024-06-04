@@ -4,7 +4,7 @@
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-135 songs - 9 hr 22 min
+136 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [FUTURITY SMILE \- 25 colors](https://open.spotify.com/track/17xPuvISrXlEsDtrWYtFJX) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER WING COLLECTION \-A side\-](https://open.spotify.com/album/5YyUeirmIV0Uo1cqf6Wi5x) | 4:48 | 2023-03-07 | 2023-11-08 |
 | [Give me some more...](https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 05](https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV) | 3:46 | 2022-11-29 |  |
 | [Hadashi ja Irarenai](https://open.spotify.com/track/3D4BcgYsmpTDDyxJKf0wbV) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/2wLhH9ELWfeLtPWtAZOApl) | [THE IDOLM@STER SHINY COLORS Song for Prism Hadashi ja Irarenai / Ashita mo Beautiful Day \(HO\-KA\-GO CLIMAX GIRLS Version\)](https://open.spotify.com/album/3F8bO0WuL7eZx3dbHiEBq7) | 3:33 | 2024-01-23 | 2024-04-19 |
+| [Happier](https://open.spotify.com/track/1UmHTmrLrkCVCWL7Zd9qYH) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Song for Prism Happier / 枕木の歌【イルミネーションスターズ盤】](https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4) | 3:49 | 2024-05-24 |  |
 | [Happy Funny Lucky](https://open.spotify.com/track/6VNIjYDc8UN0il9UZNr2R7) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 02](https://open.spotify.com/album/1pewpwUqImQRPBxJlLFXv3) | 4:14 | 2023-11-08 | 2024-01-23 |
 | [HAREBARE!!](https://open.spotify.com/track/2TLTgsOcrS1isAZIxbWB3M) | [八宮めぐる \(CV.峯田茉優\)](https://open.spotify.com/artist/1GZdVDLat5KC60IzjjySDn) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:50 | 2022-11-29 | 2023-03-18 |
 | [Hide & Attack](https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc) | [Straylight](https://open.spotify.com/artist/35dTvgt9RcpnrSbIaUW5SZ) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 06](https://open.spotify.com/album/6pgeXOy8vv6LZ4ten6TKKE) | 3:59 | 2023-03-07 |  |
@@ -71,7 +72,7 @@
 | [VOY@GER](https://open.spotify.com/track/1XpmPaXl4Hct0ZTtTZnEPb) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [VOY@GER](https://open.spotify.com/album/7A4Smsvs75oTc1uHBwzlF4) | 5:39 | 2023-11-07 | 2024-05-22 |
 | [Wandering Dream Chaser](https://open.spotify.com/track/1A7xGSCB67ITNPOIsJ2G1U) | [Straylight](https://open.spotify.com/artist/35dTvgt9RcpnrSbIaUW5SZ) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 06](https://open.spotify.com/album/3AIhLQH8VCwfWRNY8CrwnL) | 3:56 | 2023-03-07 |  |
 | [We can go now!](https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg) | [イルミネーションスターズ](https://open.spotify.com/artist/2Ly8tGTt2wjAOWmXpVfRqS) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 02](https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi) | 3:44 | 2023-10-04 |  |
-| [あおぞらサイダー](https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl) | [市川雛菜 \(CV.岡咲美保\)](https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:51 | 2022-11-29 |  |
+| [あおぞらサイダー](https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl) | [市川雛菜 \(CV.岡咲美保\)](https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:51 | 2022-11-29 | 2024-06-04 |
 | [あの花のように](https://open.spotify.com/track/24r7FW9pYDC8c8mJlVB7lT) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 07](https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh) | 4:07 | 2023-03-07 | 2023-11-08 |
 | [いつか Shiny Days \- 2023 Version](https://open.spotify.com/track/1oAw8Wewcm0SOpHnkVtd8H) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 01 \(2023 Version\)](https://open.spotify.com/album/2IxyJP4X09Ixe5idwVqQky) | 5:14 | 2023-03-07 | 2023-11-08 |
 | [いつだって僕らは](https://open.spotify.com/track/5qz9PmWhmiPeOIgkomZzkG) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 07](https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh) | 3:49 | 2023-03-07 |  |

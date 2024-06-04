@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-141 songs - 7 hr 55 min
+147 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Better](https://open.spotify.com/track/6di5ScYZxyg0zhToZzowol) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 3:35 | 2022-02-03 |  |
 | [Better](https://open.spotify.com/track/16dIxFF6tjoPSWqsNGP5tj) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:36 | 2022-02-03 |  |
 | [Better \- Korean Version](https://open.spotify.com/track/4PyRAVwFRxwPESvpVKZfiJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:34 | 2022-02-03 |  |
+| [Blind](https://open.spotify.com/track/3epcMWxb5Wl7r95sY9s6WO) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 3:18 | 2024-06-04 |  |
 | [Blue Summer](https://open.spotify.com/track/7oLyy8aPrMu6hka0SaUWxz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/1RiuAAiDFvA0sYc4MRWKvK) | 3:31 | 2022-02-03 |  |
 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-06-21 | 2024-04-19 |
 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/7Lhm9BUglm30Q6Fb1Fl2By) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:07 | 2024-03-15 |  |
@@ -48,12 +49,14 @@
 | [Dune](https://open.spotify.com/track/3naizvQHCq8SfQZFJQMW4a) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:15 | 2024-03-15 |  |
 | [EENIE MEENIE \(Feat\. Hongjoong of ATEEZ\)](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 2:50 | 2024-03-15 |  |
 | [Emergency](https://open.spotify.com/track/0dncBD42Ek18rPQw8dZCkH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 2:58 | 2023-12-07 |  |
+| [Empty Box](https://open.spotify.com/track/6PHWnPMFCfg74rnZT6CTsv) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 3:33 | 2024-06-04 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:29 | 2022-02-03 |  |
 | [Everything \(JONGHO\)](https://open.spotify.com/track/5vJr5hBQv8MqgBHOiaMvZA) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:46 | 2023-12-07 |  |
 | [Feeling Like I Do](https://open.spotify.com/track/1lWoDFIoclXSdMF9g8tjPY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:17 | 2022-02-03 |  |
 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 | 2022-02-03 |  |
 | [FIN : WILL](https://open.spotify.com/track/2Nk2AbS02HaI1tgWTApkGJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:03 | 2023-12-07 |  |
 | [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2022-02-03 |  |
+| [Golden Hour](https://open.spotify.com/track/49hiimslmi1UYZd0VOEjt4) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 1:24 | 2024-06-04 |  |
 | [Good Lil Boy](https://open.spotify.com/track/5U8pXQSdhTtQ8bp6K6vb9Y) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:25 | 2022-02-03 |  |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-29 |  |
 | [HALA HALA \(Hearts Awakened, Live Alive\)](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2 : Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:22 | 2022-02-03 |  |
@@ -98,7 +101,9 @@
 | [Say My Name \- Flavor of Latin with Juwon Park](https://open.spotify.com/track/7jPiCapcTtnuCP3keJkjja) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:41 | 2022-02-03 |  |
 | [Say My Name \- Japanese Ver.](https://open.spotify.com/track/4jE309OhIWZqXJUzrpkW0V) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:42 | 2022-02-03 |  |
 | [Sector 1](https://open.spotify.com/track/1V1btvvh0M47BWClDsiCqZ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:03 | 2022-07-29 |  |
+| [Shaboom](https://open.spotify.com/track/1Qw280ocXYS2wSo48wj24O) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 3:31 | 2024-06-04 |  |
 | [Silver Light](https://open.spotify.com/track/7hWW1JxF5ArjPgAsGlwSuz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:50 | 2023-12-07 |  |
+| [Siren](https://open.spotify.com/track/7sfWkb57YF5p0OIzZMLiN1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:44 | 2024-06-04 |  |
 | [Star 1117](https://open.spotify.com/track/0wuGxn6mILf918ZIaeiIG5) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:42 | 2022-02-03 |  |
 | [Star 1117 \- BUDDY'S Melodic Mix](https://open.spotify.com/track/2q43AKtvPAlk4ISyvuNBgg) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Buddy](https://open.spotify.com/artist/74zjHeFm4yooE7SuemoFan) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 4:00 | 2022-02-03 |  |
 | [Stay](https://open.spotify.com/track/2vrasrfR6mxxjcD5v5BuRT) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1 : All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:19 | 2022-02-03 |  |
@@ -148,6 +153,7 @@
 | [WONDERLAND \(Symphony No.9 "From The Wonderland"\)](https://open.spotify.com/track/1JspDSeSVIiegIbk5niXkg) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 4:17 | 2022-02-03 |  |
 | [WONDERLAND \- Japanese Ver.](https://open.spotify.com/track/0Qu9rh4SIrFQBdLQPLkgg9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:20 | 2022-02-03 |  |
 | [WONDERLAND \- SEAN OH's Skrt Mix](https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [SEAN OH](https://open.spotify.com/artist/7lCMxLzay3subrSfwEcZxc) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 3:18 | 2022-02-03 |  |
+| [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 | 2024-06-04 |  |
 | [Youth \(YUNHO, MINGI\)](https://open.spotify.com/track/136oL23K6A6g4PvptBWcS7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:29 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2022-07-11. Prior content cannot be recovered.

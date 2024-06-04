@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85700,
+  "num_followers": 85712,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Nafta",
+        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 253161,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Liit",
         "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 167449,
       "name": "Liit",
       "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Nafta",
-        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 253161,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Hola Precioso",
-        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 206515,
-      "name": "Ir derecho",
-      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Hola Precioso",
+        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 206515,
+      "name": "Ir derecho",
+      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "100PRE YORO",
-        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "atame",
-      "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 191213,
       "name": "EME",
       "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "atame",
+      "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 175669,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 236000,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 175669,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
     },
     {
       "added_at": "2024-05-17 03:00:00",

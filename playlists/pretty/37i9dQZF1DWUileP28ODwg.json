@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a>",
-  "num_followers": 353083,
+  "num_followers": 353220,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Where Can I Go - Psalm 139",
-        "url": "https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1"
+        "name": "Invited",
+        "url": "https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0"
       },
       "artists": [
         {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Where Can I Go - Psalm 139",
-      "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
+      "duration_ms": 223815,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Where Can I Go - Psalm 139",
+        "url": "https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Where Can I Go - Psalm 139",
+      "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Narrow Road",
         "url": "https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 265911,
       "name": "Narrow Road",
       "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 223815,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "My Tribute (To God Be The Glory)",
-        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 341986,
-      "name": "My Tribute (To God Be The Glory)",
-      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
+        "name": "I LOVE YOU TO DEATH",
+        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Vanessa Hill",
-          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
         }
       ],
-      "duration_ms": 193040,
-      "name": "Ark",
-      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
+      "duration_ms": 203832,
+      "name": "I LOVE YOU TO DEATH",
+      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1331,18 +1327,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "I LOVE YOU TO DEATH",
-        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
       },
       "artists": [
         {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Vanessa Hill",
+          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
         }
       ],
-      "duration_ms": 203832,
-      "name": "I LOVE YOU TO DEATH",
-      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+      "duration_ms": 193040,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ"
-      },
-      "artists": [
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
-        },
-        {
-          "name": "Wes King",
-          "url": "https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep"
-        }
-      ],
-      "duration_ms": 191167,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ"
+      },
+      "artists": [
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+        },
+        {
+          "name": "Wes King",
+          "url": "https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep"
+        }
+      ],
+      "duration_ms": 191167,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG"
     },
     {
       "added_at": "2024-05-24 04:00:00",

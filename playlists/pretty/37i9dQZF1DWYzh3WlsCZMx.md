@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,119 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,141 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 3 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
 | 4 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 5 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 |
-| 6 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 |
+| 6 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
 | 7 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
 | 8 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 |
 | 9 | [Preach](https://open.spotify.com/track/6FzjhVjXDoBGfq1sSdNq7S) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Cross Country Trappin](https://open.spotify.com/album/4R64QNV35UNIjVeWjDSIJS) | 3:26 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 12 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 | 13 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 |
 | 14 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:57 |
-| 15 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
+| 15 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 |
 | 16 | [PRESSURE](https://open.spotify.com/track/4VzhdfRpM2sQjhzwYWjd30) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:17 |
 | 17 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 18 | [Hood Bitch](https://open.spotify.com/track/1QncxlVV6UqA10Dh7pCcj9) | [Fam0us.Twinsss](https://open.spotify.com/artist/5Nrl4fJ98iiMiTqhKjy8ZL) | [Hood Bitch](https://open.spotify.com/album/7wkI0tGOfXLdfP16Khkrvt) | 2:13 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 32 | [No Problem](https://open.spotify.com/track/5gasQQR5ZhOvrGpY0vULWL) | [Tokyo Jetz](https://open.spotify.com/artist/3KT0gxRAAb4WbAfOGMq4Lf) | [Bonafide](https://open.spotify.com/album/12yyugwE4MM1KkeIrmppjv) | 2:47 |
 | 33 | [Bad Bitch](https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Bad Bitch](https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3) | 2:15 |
 | 34 | [Spend Sum Cash](https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Talk That Talk](https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh) | 2:34 |
-| 35 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
-| 36 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
+| 35 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
+| 36 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
 | 37 | [Dem Girlz \(feat\. BeatKing & Erica Banks\)](https://open.spotify.com/track/3YewQ5i0OfqgFo2zvVzasw) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 3:09 |
 | 38 | [Pop It 4 Pimp](https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [II Trill](https://open.spotify.com/album/726mitnLPJrg0pftxSne1O) | 3:50 |
 | 39 | [Blow a Check](https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw) | [Zoey Dollaz](https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8) | [Who Don't Like Dollaz](https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ) | 3:13 |

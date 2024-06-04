@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Benjamin Amadeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,443 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,478 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 68 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 69 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
 | 70 | [Para Siempre](https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Para Siempre](https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1) | 3:28 |
-| 71 | [4 Paredes](https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [4 Paredes](https://open.spotify.com/album/4FgQmBHpbdaLUukZNwDpRt) | 2:52 |
-| 72 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 |
+| 71 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 |
+| 72 | [4 Paredes](https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [4 Paredes](https://open.spotify.com/album/4FgQmBHpbdaLUukZNwDpRt) | 2:52 |
 | 73 | [Mecha](https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Camino](https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel) | 3:09 |
 | 74 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 |
 | 75 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |

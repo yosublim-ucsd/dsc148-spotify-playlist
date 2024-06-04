@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
+  "description": "This is Lauren Daigle. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Lauren Daigle",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 235226,
       "name": "Come Alive (Dry Bones)",
       "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 228373,
       "name": "First",
       "url": "https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 375026,
       "name": "Here's My Heart",
       "url": "https://open.spotify.com/track/1m4hUSuv0IlccTAOOBRumJ"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 259293,
       "name": "How Can It Be",
       "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 269253,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/54ucWdOdAcJDWZAGUqQDcW"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 225240,
       "name": "Power to Redeem (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 241640,
       "name": "Salt & Light",
       "url": "https://open.spotify.com/track/2LdbfpQ2gXgD0968RYarlx"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 211600,
       "name": "Trust in You",
       "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 148026,
       "name": "Your Wings",
       "url": "https://open.spotify.com/track/50xNWlzb3BOyCUgjB2nlv8"

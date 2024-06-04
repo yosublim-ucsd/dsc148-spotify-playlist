@@ -1193,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "Piano Duets: Great Times!",
+        "url": "https://open.spotify.com/album/73NLpriWcie3viIgpT8vwc"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "In A Blue Summer Garden",
+      "url": "https://open.spotify.com/track/2SGN3ts85p2XV2NwpBY6qZ"
+    },
+    {
+      "album": {
         "name": "In the Heights (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg"
       },

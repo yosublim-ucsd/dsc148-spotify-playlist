@@ -4,7 +4,7 @@
 
 > Manal en tête des hits populaires au Maroc.
 
-368 songs - 19 hr 44 min
+370 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-12-25 | 2022-03-05 |
 | [Aayane](https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:07 | 2022-08-20 | 2023-02-13 |
 | [Aayane](https://open.spotify.com/track/3MDtvI827zJAWBLqf61bT1) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Aayane](https://open.spotify.com/album/2h4sVIJOUNthoOyxvypci6) | 3:07 | 2022-05-19 | 2022-08-21 |
-| [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-04-17 |  |
+| [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-04-17 | 2024-06-04 |
 | [Abala Ya Bali \- Remix](https://open.spotify.com/track/0YQn9vYwK184bhCyEAtbyu) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Abala Ya Bali \(Remix\)](https://open.spotify.com/album/504SHDQ5T3JW9eJTfXREK2) | 3:32 | 2024-05-09 |  |
 | [Ach Dani Lik](https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ach Dani Lik](https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy) | 2:57 | 2023-02-02 | 2023-05-07 |
 | [Adios](https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Adios](https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5) | 3:06 | 2022-02-17 | 2022-06-10 |
@@ -103,9 +103,10 @@
 | [El 7ob Sa3b](https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [El 7ob Sa3b](https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8) | 2:22 | 2023-12-15 | 2024-05-26 |
 | [El Hala'](https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [El Hala'](https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o) | 2:52 | 2022-09-06 | 2022-11-08 |
 | [Enty Hayaty](https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Enty Hayaty](https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN) | 4:15 | 2021-12-25 | 2022-04-12 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-03 |  |
 | [F'B3ADEK](https://open.spotify.com/track/7qDPLZaZ6gYQ4RU3x66MPR) | [Jamoul](https://open.spotify.com/artist/3exUAiuWlhYuYRG4VjcrTX), [Bilal Africano](https://open.spotify.com/artist/4zmFRtgn99DrWdpZQVHb13) | [F'B3ADEK](https://open.spotify.com/album/0mvKnAGR4DD87qzK59z7iY) | 3:14 | 2022-11-09 | 2022-11-22 |
 | [Fake](https://open.spotify.com/track/53DpbBbpjG9XbjfYX41I6h) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Fake](https://open.spotify.com/album/3pYbxtdmGzydNPWWlOd81Y) | 3:50 | 2024-03-04 | 2024-04-26 |
-| [Fat L'Fout](https://open.spotify.com/track/5mOm6cmu8BAqFFmmOclX8r) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Fat L'Fout](https://open.spotify.com/album/4DLLxADxhGyLs26CIjPaXk) | 2:26 | 2023-08-26 |  |
+| [Fat L'Fout](https://open.spotify.com/track/5mOm6cmu8BAqFFmmOclX8r) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Fat L'Fout](https://open.spotify.com/album/4DLLxADxhGyLs26CIjPaXk) | 2:26 | 2023-08-26 | 2024-06-04 |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-05 | 2024-05-23 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-09 | 2023-06-14 |
@@ -243,6 +244,7 @@
 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 | 2023-08-02 |  |
 | [Massari](https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Massari](https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg) | 3:26 | 2023-02-06 | 2023-04-11 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 | 2022-12-14 |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-06-03 |  |
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-03 |  |
 | [Mmi Lalla](https://open.spotify.com/track/7nsSXzC5emf376CWUkn8Sw) | [Khalifa](https://open.spotify.com/artist/19qkQqETJstZ0IOcVoZhUJ) | [Mmi Lalla](https://open.spotify.com/album/7yIchg5XojEvKS3lYnZd4L) | 3:27 | 2022-01-24 | 2022-04-16 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-16 | 2024-05-26 |

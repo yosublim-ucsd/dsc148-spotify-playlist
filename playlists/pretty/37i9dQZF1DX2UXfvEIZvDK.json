@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 733149,
+  "num_followers": 733191,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-30 19:23:25",
       "album": {
-        "name": "Split Screen",
-        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 303005,
-      "name": "Split Screen",
-      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
-    },
-    {
-      "added_at": "2024-05-30 19:23:25",
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 271186,
       "name": "in the dark",
       "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
+    },
+    {
+      "added_at": "2024-05-30 19:23:25",
+      "album": {
+        "name": "Split Screen",
+        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 303005,
+      "name": "Split Screen",
+      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
     },
     {
       "added_at": "2024-05-30 19:23:25",

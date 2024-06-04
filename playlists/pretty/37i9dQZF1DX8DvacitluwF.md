@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=Wzpokxo0T5KL4lgiOLxYTA>Xenia Manasseh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,631 likes - 97 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,654 likes - 97 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

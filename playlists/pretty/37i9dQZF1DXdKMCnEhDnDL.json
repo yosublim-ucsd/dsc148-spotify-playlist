@@ -1,13 +1,33 @@
 {
-  "description": "De beste Nederlandse liedjes. Cover: FLEMMING, Zo\u00eb Tauran & Ronnie Flex",
-  "num_followers": 486502,
+  "description": "De beste Nederlandse liedjes. Cover: Tino Martin & Anouk",
+  "num_followers": 486543,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlnD4gAAAABzDPiontCrAQOKbXuzhep1",
+  "snapshot_id": "Zl2PXwAAAAB/sJDWsjWH5RDy9TScqYhc",
   "tracks": [
+    {
+      "added_at": "2024-05-31 12:34:42",
+      "album": {
+        "name": "Voor Je \u2018t Weet",
+        "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "duration_ms": 197204,
+      "name": "Voor Je \u2018t Weet",
+      "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
+    },
     {
       "added_at": "2024-05-31 12:34:42",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 169444,
       "name": "Alles Op Gevoel",
       "url": "https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY"
-    },
-    {
-      "added_at": "2024-05-31 12:34:42",
-      "album": {
-        "name": "Voor Je \u2018t Weet",
-        "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
-        }
-      ],
-      "duration_ms": 197204,
-      "name": "Voor Je \u2018t Weet",
-      "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
     },
     {
       "added_at": "2024-05-31 12:34:42",

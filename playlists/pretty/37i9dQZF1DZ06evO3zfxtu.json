@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADSloLdkTvTOHRbTjZs2CPa",
+  "snapshot_id": "Zlu2AAAAAAAgBHMYAVsTA5qy0lLEpvq7",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no excuses.",
-        "url": "https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "TwoTiime",
-          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "no excuses.",
-      "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N2U (feat. Martha Wash)",
         "url": "https://open.spotify.com/album/0TGjVzVuB9IhQERhQCesy1"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 192145,
       "name": "N2U (feat. Martha Wash)",
       "url": "https://open.spotify.com/track/1Mw7M3NtxV1iSB6fHD8592"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no excuses.",
+        "url": "https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "TwoTiime",
+          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "no excuses.",
+      "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
     },
     {
       "added_at": null,
@@ -479,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG MON",
-        "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
       },
       "artists": [
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+          "name": "Hard Rock Sofa",
+          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
         },
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         }
       ],
-      "duration_ms": 140204,
-      "name": "BIG MON",
-      "url": "https://open.spotify.com/track/5gCq2MdyTBUiNjDmEYk3tI"
+      "duration_ms": 345000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
     },
     {
       "added_at": null,
@@ -547,28 +547,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
+        "name": "BIG MON",
+        "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
       },
       "artists": [
         {
-          "name": "Hard Rock Sofa",
-          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
         },
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         }
       ],
-      "duration_ms": 345000,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
+      "duration_ms": 140204,
+      "name": "BIG MON",
+      "url": "https://open.spotify.com/track/5gCq2MdyTBUiNjDmEYk3tI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "U (feat. Mally Mall & Sonny Wilson)",
-        "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
       },
       "artists": [
         {
@@ -576,17 +576,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Mally Mall",
-          "url": "https://open.spotify.com/artist/2F4vlQrJakgfJhEW93DFcZ"
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         },
         {
-          "name": "Sonny Wilson",
-          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+          "name": "Ching",
+          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
         }
       ],
-      "duration_ms": 179748,
-      "name": "U (feat. Mally Mall & Sonny Wilson)",
-      "url": "https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj"
+      "duration_ms": 155452,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STATIC",
-        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
+        "name": "U (feat. Mally Mall & Sonny Wilson)",
+        "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
       },
       "artists": [
         {
@@ -628,17 +628,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "Mally Mall",
+          "url": "https://open.spotify.com/artist/2F4vlQrJakgfJhEW93DFcZ"
         },
         {
-          "name": "Ching",
-          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
         }
       ],
-      "duration_ms": 155452,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
+      "duration_ms": 179748,
+      "name": "U (feat. Mally Mall & Sonny Wilson)",
+      "url": "https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj"
     },
     {
       "added_at": null,
@@ -703,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba Da Da Ding",
-        "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        },
-        {
-          "name": "Aion Clarke",
-          "url": "https://open.spotify.com/artist/2WaflwLvtwtSFFiiK5HcgX"
-        }
-      ],
-      "duration_ms": 175132,
-      "name": "Ba Da Da Ding",
-      "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MIX IT UP",
         "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
       },
@@ -751,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPE HOP 002",
-        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
+        "name": "Ba Da Da Ding",
+        "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
       },
       "artists": [
         {
@@ -760,13 +736,37 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "G Milla",
-          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Aion Clarke",
+          "url": "https://open.spotify.com/artist/2WaflwLvtwtSFFiiK5HcgX"
         }
       ],
-      "duration_ms": 186923,
-      "name": "MOJO - Hype Hop Edit",
-      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
+      "duration_ms": 175132,
+      "name": "Ba Da Da Ding",
+      "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "pisceze",
+          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
+        }
+      ],
+      "duration_ms": 158357,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/6v1axX1firdR05VR9siAGF"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAQX",
-        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
+        "name": "HYPE HOP 002",
+        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
       },
       "artists": [
         {
@@ -804,17 +804,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "BTK Villeion",
-          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
         }
       ],
-      "duration_ms": 154000,
-      "name": "RAQX",
-      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
+      "duration_ms": 186923,
+      "name": "MOJO - Hype Hop Edit",
+      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
     },
     {
       "added_at": null,
@@ -843,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV"
+        "name": "RAQX",
+        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
       },
       "artists": [
         {
@@ -852,33 +848,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "pisceze",
-          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
-        }
-      ],
-      "duration_ms": 158357,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/6v1axX1firdR05VR9siAGF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
         },
         {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+          "name": "BTK Villeion",
+          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
         }
       ],
-      "duration_ms": 60606,
-      "name": "TOWNHOUSES - Interlude",
-      "url": "https://open.spotify.com/track/5F8kMR7DfbnoYcr63PmWKp"
+      "duration_ms": 154000,
+      "name": "RAQX",
+      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
       "duration_ms": 240000,
       "name": "WOKE B Hype Hop Edit",
       "url": "https://open.spotify.com/track/2i5FrnPE6cf7ert9Dzb7DY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 60606,
+      "name": "TOWNHOUSES - Interlude",
+      "url": "https://open.spotify.com/track/5F8kMR7DfbnoYcr63PmWKp"
     },
     {
       "added_at": null,
@@ -995,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "THE CURE",
+      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -1019,22 +1039,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+        "name": "100%",
+        "url": "https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J"
       },
       "artists": [
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 203520,
-      "name": "THE CURE",
-      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
+      "duration_ms": 169173,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5"
     },
     {
       "added_at": null,
@@ -1131,22 +1147,6 @@
       "duration_ms": 221993,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 169173,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5"
     }
   ],
   "unique_name": "This Is Eva Shaw",

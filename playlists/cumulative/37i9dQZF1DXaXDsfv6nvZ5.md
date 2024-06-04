@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-510 songs - 1 day 6 hr 56 min
+511 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-03-03 | 2023-10-07 |
 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 | 2023-03-03 | 2023-05-01 |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2021-12-03 | 2023-08-05 |
+| [All for Love](https://open.spotify.com/track/1uY5hVJoMZjq6bTRhokkjW) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c) | [All for Love](https://open.spotify.com/album/0HsRlNgQyqMG96FaB3DHfT) | 6:12 | 2024-05-31 |  |
 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 | 2023-02-10 | 2023-10-07 |
 | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA) | 3:35 | 2021-12-03 | 2022-07-29 |
 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 | 2024-03-22 |  |
@@ -383,7 +384,7 @@
 | [Samson](https://open.spotify.com/track/48AkypfLAIJVsCSo10HFgW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 5:17 | 2024-02-09 |  |
 | [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 | 2024-01-19 | 2024-05-08 |
 | [Say You Love Me](https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Say You Love Me](https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW) | 4:45 | 2024-02-16 | 2024-04-27 |
-| [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 |  |
+| [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2024-06-04 |
 | [See Me](https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [See Me](https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd) | 3:30 | 2021-12-03 | 2022-07-29 |
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2022-12-16 | 2023-04-16 |
 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 | 2024-01-19 |  |

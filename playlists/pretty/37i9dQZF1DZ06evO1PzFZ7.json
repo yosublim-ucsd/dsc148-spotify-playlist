@@ -1,12 +1,12 @@
 {
   "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 148249,
+  "num_followers": 148257,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADLLKjVsuoR1iYdw5P34lO+",
+  "snapshot_id": "Zlu2AAAAAAAUtObbAFdYEEhjSBv5xfeq",
   "tracks": [
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+        "name": "Nueva Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 178934,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
+      "duration_ms": 213030,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nueva Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 213030,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
+      "duration_ms": 178934,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
     },
     {
       "added_at": null,

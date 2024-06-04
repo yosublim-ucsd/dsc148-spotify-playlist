@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "AMMO",
+        "url": "https://open.spotify.com/album/2eeSi3aA8CFBvzzgE8bN5Z"
+      },
+      "artists": [
+        {
+          "name": "FRIENDLY THUG 52 NGG",
+          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "AMMO",
+      "url": "https://open.spotify.com/track/1ck5jWKV1chAEdtPHZHl9b"
+    },
+    {
+      "album": {
         "name": "Euphories",
         "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
       },
@@ -6284,7 +6302,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 107538,
       "name": "juice",
       "url": "https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h"
@@ -12078,7 +12096,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 154250,
       "name": "Salut papa",
       "url": "https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu"
@@ -21140,7 +21158,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 199567,
       "name": "\u041a\u043e\u0445\u0430\u044e, \u0430\u043b\u0435 \u043d\u0435 \u0437\u043e\u0432\u0441\u0456\u043c",
       "url": "https://open.spotify.com/track/7erP3ICSBISAa9ZH4vyo42"
@@ -21402,7 +21420,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
@@ -22682,7 +22700,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 152184,
       "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
       "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
@@ -24340,7 +24358,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 176727,
       "name": "\u041f\u043e\u0433\u043b\u044f\u0434",
       "url": "https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY"

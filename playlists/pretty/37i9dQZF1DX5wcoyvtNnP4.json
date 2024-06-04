@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 489667,
+  "num_followers": 489640,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/6qg4ulb0Ux2AF4kdJCVEYO"
+      },
+      "artists": [
+        {
+          "name": "Ardo",
+          "url": "https://open.spotify.com/artist/2pRsq9sIRuLua9GATrUlYy"
+        },
+        {
+          "name": "Jake Alva",
+          "url": "https://open.spotify.com/artist/2wlOcE87YJtuiJS6fhOedm"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
         "name": "Coming Home (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 160842,
       "name": "Dirty Dancing",
       "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/6qg4ulb0Ux2AF4kdJCVEYO"
-      },
-      "artists": [
-        {
-          "name": "Ardo",
-          "url": "https://open.spotify.com/artist/2pRsq9sIRuLua9GATrUlYy"
-        },
-        {
-          "name": "Jake Alva",
-          "url": "https://open.spotify.com/artist/2wlOcE87YJtuiJS6fhOedm"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD"
     },
     {
       "added_at": "2024-04-30 09:24:58",

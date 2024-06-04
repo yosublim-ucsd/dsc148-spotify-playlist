@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 197147,
       "name": "Grow with you",
       "url": "https://open.spotify.com/track/1SNWm8MPVoP7Hzews4s22d"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 181249,
       "name": "Letters",
       "url": "https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C"
@@ -3131,6 +3131,24 @@
     },
     {
       "album": {
+        "name": "Slow (live from the van)",
+        "url": "https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172182,
+      "name": "Slow - live from the van",
+      "url": "https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz"
+    },
+    {
+      "album": {
         "name": "2 degrees",
         "url": "https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB"
       },
@@ -3582,6 +3600,24 @@
       "duration_ms": 161400,
       "name": "The Dirt",
       "url": "https://open.spotify.com/track/2NDC19WBHec7k6ov7tbLgD"
+    },
+    {
+      "album": {
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
     },
     {
       "album": {

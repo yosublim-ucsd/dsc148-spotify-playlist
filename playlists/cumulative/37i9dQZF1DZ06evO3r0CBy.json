@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-10",
-  "description": "This is Rodr\u00edguez\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
   "name": "This Is Rodr\u00edguez",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 154240,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 206680,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/1pU1pXG43llTiLi1JXl57c"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 180373,
       "name": "Jane S. Piddy",
       "url": "https://open.spotify.com/track/37AZWn0PzszDMkFjnP97Vx"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 229413,
       "name": "Sugar Man",
       "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"

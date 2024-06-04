@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,520 likes - 85 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,532 likes - 85 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 49958,
+  "num_followers": 49983,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,26 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato - Sehr gem\u00e4chlich - Nie eilen",
+      "url": "https://open.spotify.com/track/0dDjHMJbArRUuK6K4dH9rG"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
         "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 1009173,
       "name": "Mahler: Symphony No. 3 in D Minor: III. Comodo, Scherzando. Ohne Hast",
       "url": "https://open.spotify.com/track/2orh65w2YtrAgTZHVtBEf9"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 2",
-        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 632386,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato - Sehr gem\u00e4chlich - Nie eilen",
-      "url": "https://open.spotify.com/track/0dDjHMJbArRUuK6K4dH9rG"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Orchestral Songs",
-        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
       },
       "artists": [
         {
@@ -1140,21 +1140,13 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
-      "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
+      "duration_ms": 815226,
+      "name": "Symphony No.10 in F-sharp Major: IV. Scherzo II: Kr\u00e4ftig, nicht zu schnell",
+      "url": "https://open.spotify.com/track/56anl3ns0VcBsGy1E2M15Q"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1195,8 +1187,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 10",
-        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
       },
       "artists": [
         {
@@ -1204,13 +1196,21 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         }
       ],
-      "duration_ms": 815226,
-      "name": "Symphony No.10 in F-sharp Major: IV. Scherzo II: Kr\u00e4ftig, nicht zu schnell",
-      "url": "https://open.spotify.com/track/56anl3ns0VcBsGy1E2M15Q"
+      "duration_ms": 183706,
+      "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
+      "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
     },
     {
       "added_at": "2022-06-27 09:16:34",

@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Kat Tracker",
+        "url": "https://open.spotify.com/album/312CLrGUtXpPKmxVJ04AqW"
+      },
+      "artists": [
+        {
+          "name": "Katret",
+          "url": "https://open.spotify.com/artist/251oyBDSa8SSr5QtplJVxq"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "Kat Tracker",
+      "url": "https://open.spotify.com/track/09SowvtFvazAyUZCyKjnSI"
+    },
+    {
+      "album": {
         "name": "keep jumpin",
         "url": "https://open.spotify.com/album/1h5AyAcn7njmqouVzsiJ40"
       },

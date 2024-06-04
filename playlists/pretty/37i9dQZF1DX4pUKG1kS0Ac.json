@@ -1,6 +1,6 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3362973,
+  "num_followers": 3363015,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Pretty Fly (For A White Guy)",
-      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Pretty Fly (For A White Guy)",
+      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+      },
+      "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
         "name": "Hands All Over",
         "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 201160,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 253733,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
-    },
-    {
-      "added_at": "2024-04-06 18:42:42",
-      "album": {
         "name": "Permission to Land",
         "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
       },
@@ -1979,18 +1963,18 @@
     {
       "added_at": "2024-04-06 18:42:42",
       "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
         }
       ],
-      "duration_ms": 264706,
-      "name": "It's Been Awhile",
-      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
+      "duration_ms": 252773,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
     },
     {
       "added_at": "2024-04-06 18:42:42",
@@ -2015,6 +1999,22 @@
       "duration_ms": 216893,
       "name": "Like A G6",
       "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
+    },
+    {
+      "added_at": "2024-04-06 18:42:42",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 264706,
+      "name": "It's Been Awhile",
+      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
     },
     {
       "added_at": "2024-04-06 18:42:42",

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DABOYWAY\)
 
-2,045 songs - 4 day 7 hr 46 min
+2,046 songs - 4 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 | 2022-09-09 |
 | [Hot Tub](https://open.spotify.com/track/0QwtPubre27rt1YnJBKeNb) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Hot Tub](https://open.spotify.com/album/6vX4foju7dMy5UTqjwB6rZ) | 2:39 | 2022-02-03 | 2022-03-04 |
 | [Hot Wings \(Feat\. Hyolyn of Sistar\)](https://open.spotify.com/track/2Mdij6Ap3qeOSzCqg5y7KL) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [LUCKYNUMBERS](https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF) | 4:55 | 2024-03-28 | 2024-04-05 |
+| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-04 |  |
 | [House of Blues \(feat\. Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/track/1AMhPPGhfiTFiJucauyCkA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [House of Blues \(feat\. Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/album/6xjCkh4iZgNvClGhi36WIr) | 3:54 | 2023-05-11 | 2023-06-23 |
 | [Houston Girls](https://open.spotify.com/track/4qUa545emxu38xVRTLSbCk) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Houston Girls](https://open.spotify.com/album/4OumaO3iZmxeuYRE49s2wu) | 2:20 | 2022-07-07 | 2022-08-19 |
 | [How Things Go](https://open.spotify.com/track/43eFhR58E5V6tykPRXjt56) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [How Things Go](https://open.spotify.com/album/0tgeWfDBAcA0Enbdzn3Erg) | 2:35 | 2023-07-06 | 2023-08-04 |

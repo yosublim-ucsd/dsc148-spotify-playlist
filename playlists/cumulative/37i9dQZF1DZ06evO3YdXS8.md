@@ -2,7 +2,7 @@
 
 ### [This Is Selena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YdXS8)
 
-> This Is Selena\. Sus mejores éxitos, todos en una playlist.
+> This Is Selena\. Los temas esenciales, todos en una lista.
 
 86 songs - 5 hr 17 min
 
@@ -21,7 +21,7 @@
 | [Bidi Bidi Bom Bom \- 1994 Version](https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:30 | 2024-02-26 |  |
 | [Bidi Bidi Bom Bom \- 1994 Version](https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:30 | 2022-06-01 | 2024-02-27 |
 | [Buenos Amigos](https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 4:44 | 2022-06-01 |  |
-| [Captive Heart](https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:23 | 2022-06-01 |  |
+| [Captive Heart](https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:23 | 2022-06-01 | 2024-06-04 |
 | [Cariño Mío](https://open.spotify.com/track/59osRZczGRGFMiJmdvuzyl) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:30 | 2022-08-27 | 2022-11-19 |
 | [Cien Años](https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:11 | 2022-06-01 |  |
 | [Cobarde \- Live](https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 1:56 | 2022-08-06 |  |
@@ -36,7 +36,7 @@
 | [Cumbia Medley \- Live](https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 8:38 | 2022-06-01 |  |
 | [Dame Tu Amor \- Regional Mexican Version](https://open.spotify.com/track/3ySQuo1CjjXsnfkOOnJiad) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:19 | 2022-08-27 | 2024-06-03 |
 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 | 2022-06-01 |  |
-| [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 | 2022-06-01 | 2024-06-01 |
+| [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 | 2022-06-01 |  |
 | [Dulce Amor](https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 | 2022-06-01 |  |
 | [El Chico Del Apartamento 512](https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:28 | 2022-06-01 | 2024-03-06 |
 | [El Chico Del Apartamento 512](https://open.spotify.com/track/43q0J3OPQvNq2UPU2Enu9X) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:28 | 2024-03-05 |  |
@@ -47,7 +47,7 @@
 | [Enamorada De Ti](https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 4:07 | 2022-09-18 |  |
 | [Estoy Contigo](https://open.spotify.com/track/3540QsaCUoHcGLPxQAwbzm) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:17 | 2022-06-01 | 2022-10-13 |
 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 | 2022-06-01 | 2024-02-28 |
-| [Fotos Y Recuerdos](https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:37 | 2024-02-27 | 2024-06-03 |
+| [Fotos Y Recuerdos](https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:37 | 2024-02-27 |  |
 | [I Could Fall In Love](https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:50 | 2022-06-01 |  |
 | [I Could Fall In Love](https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:41 | 2022-06-01 |  |
 | [I'm Getting Used To You](https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:03 | 2022-06-01 |  |
@@ -78,7 +78,7 @@
 | [Siempre Hace Frio](https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:13 | 2022-06-03 |  |
 | [Sukiyaki](https://open.spotify.com/track/57EDc5eHTTK1YjYH80jNsP) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Mejores Canciones: 17 Super Exitos](https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95) | 3:01 | 2022-06-05 | 2022-06-07 |
 | [Techno Cumbia](https://open.spotify.com/track/2ZQB09LvHaOuMJBgCfOKHp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:47 | 2022-06-13 | 2024-02-27 |
-| [Techno Cumbia](https://open.spotify.com/track/2tS0iNc2QTb3ADhlAydiDa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:47 | 2024-02-26 |  |
+| [Techno Cumbia](https://open.spotify.com/track/2tS0iNc2QTb3ADhlAydiDa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:47 | 2024-02-26 | 2024-06-04 |
 | [Techno Cumbia 2012](https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:14 | 2024-04-05 |  |
 | [Terco Corazón](https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 2:49 | 2022-06-01 |  |
 | [Tú, Solo Tú](https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:12 | 2022-06-01 |  |

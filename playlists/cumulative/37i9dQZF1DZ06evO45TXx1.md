@@ -2,9 +2,9 @@
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. The essential tracks, all in one playlist.
+> This is Mc Luanna\. Todos os maiores hits em uma só playlist.
 
-67 songs - 3 hr 21 min
+68 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Rotina](https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:16 | 2023-12-30 |  |
 | [Roça na Peça](https://open.spotify.com/track/3FbBLeDmrYdOgJKSiTxzqr) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:16 | 2023-12-30 |  |
 | [Rude](https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Vitin.wav](https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 2:43 | 2023-12-30 |  |
-| [SEM BARULHO](https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [SEM BARULHO](https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh) | 2:42 | 2023-12-30 |  |
+| [SEM BARULHO](https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [REAL R&B](https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j) | 2:42 | 2024-06-04 |  |
+| [SEM BARULHO](https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [SEM BARULHO](https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh) | 2:42 | 2023-12-30 | 2024-06-04 |
 | [Sem Compaixão Bb](https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Sem Compaixão Bb](https://open.spotify.com/album/0TVMU8QT0Pqny3FhhExEOH) | 6:49 | 2024-03-31 |  |
 | [SERENATA](https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:49 | 2024-04-28 |  |
 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 | 2023-12-30 |  |

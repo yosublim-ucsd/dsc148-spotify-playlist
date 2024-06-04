@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-181 songs - 9 hr 12 min
+184 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Spoon](https://open.spotify.com/track/4yGEFWe0tZzYGkNtJRg9bf) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:04 | 2024-01-05 | 2024-03-10 |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2024-03-09 | 2024-05-16 |
 | [Sua Estupidez \- Live From Teatro Tereza Raquel, Brazil/1971](https://open.spotify.com/track/3iSu4JLVjeeCMr7AIxNksR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/2cA8Oru1aDKbFaY6hBIg7X) | 3:49 | 2024-02-20 | 2024-03-10 |
+| [Sunever](https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Sunever](https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg) | 2:40 | 2024-06-03 |  |
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 |  |
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 | 2024-03-10 |
 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 | 2024-02-23 | 2024-03-10 |
@@ -173,6 +174,7 @@
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 | 2024-04-25 |
 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 | 2024-05-16 |  |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
+| [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 | 2024-06-03 |  |
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 |  |
@@ -183,6 +185,7 @@
 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 | 2024-03-25 | 2024-05-16 |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
+| [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 |  |
 | [Where's Bill Grundy Now?](https://open.spotify.com/track/5BuwHy2cxsCEZWrqogTuFr) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [Yes Darling, But Is It Art](https://open.spotify.com/album/4Eoo1HxRn7hPV6BDSNoA9e) | 2:16 | 2024-01-22 | 2024-03-10 |
 | [Why I Cry](https://open.spotify.com/track/63eLvJ4LTI1Q30s0980UT7) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Get Lost](https://open.spotify.com/album/41xkD8HnEZ4ad9DPeL2kY0) | 3:37 | 2024-05-30 |  |
 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 | 2024-05-22 |  |

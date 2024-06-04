@@ -5071,6 +5071,28 @@
     },
     {
       "album": {
+        "name": "Generation Gap",
+        "url": "https://open.spotify.com/album/0IBU5FmPIBkuqZfvdIJZLE"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Generation Gap",
+      "url": "https://open.spotify.com/track/5FQ9dxFbkBO7tGYNnE8gin"
+    },
+    {
+      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/1GsDZlQC18uiWoGvbKuUtB"
       },
@@ -12450,7 +12472,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 187500,
       "name": "still?",
       "url": "https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv"

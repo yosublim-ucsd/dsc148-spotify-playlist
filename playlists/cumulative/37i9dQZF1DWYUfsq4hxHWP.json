@@ -17889,6 +17889,24 @@
     },
     {
       "album": {
+        "name": "How to Not",
+        "url": "https://open.spotify.com/album/43CgasFXUmYN2QBeaeywvd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Acker",
+          "url": "https://open.spotify.com/artist/1NjykoKHbtxJIAOlHiOWlk"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210949,
+      "name": "How to Not",
+      "url": "https://open.spotify.com/track/0cWi57UMVi0thGouOIBq3y"
+    },
+    {
+      "album": {
         "name": "Howdy",
         "url": "https://open.spotify.com/album/6aitm7wmo7r9SXBFO7xM5M"
       },

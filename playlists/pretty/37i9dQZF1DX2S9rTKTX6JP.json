@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 679048,
+  "num_followers": 679118,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "God's Gonna Cut You Down",
-        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 160538,
-      "name": "God's Gonna Cut You Down",
-      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Experience Hendrix: The Best Of Jimi Hendrix",
         "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 238626,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "God's Gonna Cut You Down",
+        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 160538,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 363114,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 363114,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Simple Man",
-        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 162411,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Age Of Ignorance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Disco Loadout (Volume 1)",
         "url": "https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 230293,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Age Of Ignorance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Stairway to Nick John",
-        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 485018,
-      "name": "Stairway to Heaven",
-      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 152377,
       "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
       "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Stairway to Nick John",
+        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 485018,
+      "name": "Stairway to Heaven",
+      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -1891,6 +1875,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -1907,22 +1907,6 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "One Step Closer \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "One Step Closer \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1955,6 +1939,22 @@
       "duration_ms": 330653,
       "name": "No Ordinary Love - 2005 Remaster",
       "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "One Step Closer \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "One Step Closer \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "War Pigs",
-        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 309888,
-      "name": "War Pigs",
-      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 187404,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "War Pigs",
+        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 309888,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/3wzzOrJoohHVNe3rAaA29o"
-      },
-      "artists": [
-        {
-          "name": "Like A Storm",
-          "url": "https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF"
-        }
-      ],
-      "duration_ms": 211956,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/3kBrf6U9QWh4lZ5wBvtE8e"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "The Kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/2GQc28K68aHREbSgRPo7uo"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 248571,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/3wzzOrJoohHVNe3rAaA29o"
+      },
+      "artists": [
+        {
+          "name": "Like A Storm",
+          "url": "https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF"
+        }
+      ],
+      "duration_ms": 211956,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/3kBrf6U9QWh4lZ5wBvtE8e"
     },
     {
       "added_at": "2024-05-24 04:00:00",

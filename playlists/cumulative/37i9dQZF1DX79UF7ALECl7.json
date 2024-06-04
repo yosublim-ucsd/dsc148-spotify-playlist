@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "I Need Ya EP",
+        "url": "https://open.spotify.com/album/54XKFvPS5IImE566X12hpA"
+      },
+      "artists": [
+        {
+          "name": "Duff Disco",
+          "url": "https://open.spotify.com/artist/0sIvRJmAT0KuoU5R6ffeN4"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452586,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/66IW3XfLvm6zvMtVLM6pTS"
+    },
+    {
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0YL77r9ATuZ4wj5dVFSGsl"
       },
@@ -246,6 +264,24 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/7xOuEBWsubmh7Soj9rnJ0d"
+    },
+    {
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390485,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
     },
     {
       "album": {
@@ -565,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Strings Attached EP",
+        "url": "https://open.spotify.com/album/3yTQZYvjA5F0ZuW1HSisAf"
+      },
+      "artists": [
+        {
+          "name": "Junktion",
+          "url": "https://open.spotify.com/artist/0NzYo2g86D4MRi45U9zeli"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318532,
+      "name": "Breakfast at Midnight - Original Mix",
+      "url": "https://open.spotify.com/track/5Bfl6ATr4BPmssOcRiIUCw"
+    },
+    {
+      "album": {
         "name": "Bring On Up Our Love",
         "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
       },
@@ -710,7 +764,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 231593,
       "name": "Do This",
       "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
@@ -874,6 +928,28 @@
       "duration_ms": 200126,
       "name": "Endurance",
       "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
+    },
+    {
+      "album": {
+        "name": "Especiale(Fresh & Low Productions present Fresh Juice II)",
+        "url": "https://open.spotify.com/album/6cTmxKG2mtM54GGlx6dfvE"
+      },
+      "artists": [
+        {
+          "name": "Fresh & Low",
+          "url": "https://open.spotify.com/artist/2W4RGn8br96aceIfOzi8fI"
+        },
+        {
+          "name": "Fresh Juice II",
+          "url": "https://open.spotify.com/artist/6u4I3abi3QBppCjKCA6ERU"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "Especiale - Carnival Mix",
+      "url": "https://open.spotify.com/track/35lgMCRHT2Ehy6r6RTcTmf"
     },
     {
       "album": {
@@ -1098,7 +1174,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 223682,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
@@ -1240,6 +1316,24 @@
       "duration_ms": 174607,
       "name": "Heights",
       "url": "https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8"
+    },
+    {
+      "album": {
+        "name": "Rolling With My Homies",
+        "url": "https://open.spotify.com/album/3WCbihoJQhUOaTGVPfcrCR"
+      },
+      "artists": [
+        {
+          "name": "Funkyloco",
+          "url": "https://open.spotify.com/artist/3knsNwz9SExxVHmRZa8Fec"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357600,
+      "name": "Hello Honey - Original Mix",
+      "url": "https://open.spotify.com/track/0AXTZwJlHujzDEJPGcY4xA"
     },
     {
       "album": {
@@ -1450,7 +1544,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 198500,
       "name": "joycelyn's dance",
       "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
@@ -1574,7 +1668,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ"
@@ -1742,7 +1836,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 277899,
       "name": "Lost in the Streets of NYC - 2020 Remaster",
       "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
@@ -1966,7 +2060,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 233626,
       "name": "Messin' Around - Mogul Remix",
       "url": "https://open.spotify.com/track/7meCNkO5iHaShKYUxFmEHk"
@@ -2006,7 +2100,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 420919,
       "name": "Midnight in Peckham",
       "url": "https://open.spotify.com/track/1CzfZY7lXaysy84x3a2jix"
@@ -2031,6 +2125,28 @@
     },
     {
       "album": {
+        "name": "Ritmo Freak",
+        "url": "https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        },
+        {
+          "name": "Manuel Darquart",
+          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297838,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5tNVWBaMSqFXPT6K4AtaKx"
+    },
+    {
+      "album": {
         "name": "Moraine",
         "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
       },
@@ -2042,7 +2158,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 237947,
       "name": "Moraine",
       "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
@@ -2144,7 +2260,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 158563,
       "name": "No More",
       "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
@@ -2430,7 +2546,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 417391,
       "name": "Pelicanism",
       "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
@@ -2965,6 +3081,42 @@
     },
     {
       "album": {
+        "name": "Tales Of Never EP",
+        "url": "https://open.spotify.com/album/51KTf7v6QLMOV08JenVeru"
+      },
+      "artists": [
+        {
+          "name": "ColorJaxx",
+          "url": "https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313515,
+      "name": "Tales Of Never - Original Mix",
+      "url": "https://open.spotify.com/track/35DTdTJZiPQKOGn5JvQGDw"
+    },
+    {
+      "album": {
+        "name": "D2me / Tell Her You Know / Come on Over",
+        "url": "https://open.spotify.com/album/1lQuHiQ530hBrtdC9A2IrN"
+      },
+      "artists": [
+        {
+          "name": "Andy Hart",
+          "url": "https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373678,
+      "name": "Tell Her You Know",
+      "url": "https://open.spotify.com/track/2pp0lj54npWywOiwxJjLmo"
+    },
+    {
+      "album": {
         "name": "Tell Me Who I Am",
         "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
       },
@@ -2998,6 +3150,24 @@
       "duration_ms": 377060,
       "name": "Tempranillo",
       "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
+    },
+    {
+      "album": {
+        "name": "Love All",
+        "url": "https://open.spotify.com/album/2bB5YYEjB0oifCLVfw9m4U"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/52HDbHT6Lg8gHBR2V8Ed2t"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474166,
+      "name": "The Forgiven",
+      "url": "https://open.spotify.com/track/78fOcEcQQLJ5n8par9KDkt"
     },
     {
       "album": {
@@ -3446,7 +3616,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 165600,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,931 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,005 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 34 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
 | 35 | [New Grass](https://open.spotify.com/track/51Lt2RN3W0u2xI0LiARCRm) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue) | 9:46 |
 | 36 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
-| 37 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
-| 38 | [SILHOUETTE](https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [REMNANT](https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV) | 3:53 |
+| 37 | [SILHOUETTE](https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [REMNANT](https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV) | 3:53 |
+| 38 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
 | 39 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
-| 40 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
-| 41 | [Fear of Flying](https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 5:39 |
-| 42 | [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 |
-| 43 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
+| 40 | [Fear of Flying](https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 5:39 |
+| 41 | [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 |
+| 42 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
+| 43 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
 | 44 | [The Rhythm Of A Dividing Pair](https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Undivided Five](https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl) | 4:52 |
 | 45 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 18:47 |
 | 46 | [Concise](https://open.spotify.com/track/4H0wNqcWYEZBW94oBygF0k) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Lunz 3](https://open.spotify.com/album/4tTZ05DMgT3Y4Mpc72AyLC) | 2:43 |
 | 47 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
-| 48 | [Ode to the blue](https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:53 |
-| 49 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 |
+| 48 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 |
+| 49 | [Ode to the blue](https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:53 |
 | 50 | [Fragile](https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Fragile](https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X) | 4:08 |
 
 Snapshot ID: `ZlfP5wAAAAA/Pu9bXeUHRX+c0CKiyYD/`

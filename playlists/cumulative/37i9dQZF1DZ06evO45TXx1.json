@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Mc Luanna",
   "tracks": [
     {
@@ -1393,6 +1393,32 @@
     },
     {
       "album": {
+        "name": "REAL R&B",
+        "url": "https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j"
+      },
+      "artists": [
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162711,
+      "name": "SEM BARULHO",
+      "url": "https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf"
+    },
+    {
+      "album": {
         "name": "SEM BARULHO",
         "url": "https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh"
       },
@@ -1412,7 +1438,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"

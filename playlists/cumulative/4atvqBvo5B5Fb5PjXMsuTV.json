@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 02 JUN",
+  "name": "NEW SINGLES RELEASES | UPDATED 04 JUN",
   "tracks": [
     {
       "album": {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 210371,
       "name": "5AM IN PHILLY",
       "url": "https://open.spotify.com/track/1RvDnoVGBu0OD4Ljub1rLF"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 162210,
       "name": "Angels In The Sky",
       "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 199626,
       "name": "Ask & You Shall Receive",
       "url": "https://open.spotify.com/track/0ggVVrCbaqhGmz8oI3mSwa"
@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "BLOW",
+        "url": "https://open.spotify.com/album/0Auz28ueaba0300gzFbUVo"
+      },
+      "artists": [
+        {
+          "name": "Big Ocean",
+          "url": "https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "BLOW",
+      "url": "https://open.spotify.com/track/1ezgg2TtgRNUEypmMQT8Ss"
+    },
+    {
+      "album": {
         "name": "Blue Eclipse",
         "url": "https://open.spotify.com/album/27i7l9AUvHWeyNOjahuiFS"
       },
@@ -1229,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Open \u266deta v6.1",
+        "url": "https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194784,
+      "name": "Boy Comics",
+      "url": "https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE"
+    },
+    {
+      "album": {
         "name": "Brave New World",
         "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
       },
@@ -1280,6 +1316,24 @@
       "duration_ms": 95497,
       "name": "breakcore for when im horny",
       "url": "https://open.spotify.com/track/6HZCXwp9Hnpt17Cz9CmTyL"
+    },
+    {
+      "album": {
+        "name": "Broke My Heart",
+        "url": "https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
     },
     {
       "album": {
@@ -1464,7 +1518,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 184170,
       "name": "Can You Feel It?",
       "url": "https://open.spotify.com/track/6qtZfvO7NvBdNWrBNIKhjT"
@@ -3231,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150005,
+      "name": "Gary",
+      "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
+    },
+    {
+      "album": {
         "name": "Gegengift",
         "url": "https://open.spotify.com/album/4DNBrTSJjkXNbZWbbw3Xp5"
       },
@@ -3650,6 +3722,28 @@
       "duration_ms": 137142,
       "name": "HEAT STICK",
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
+    },
+    {
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284456,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7"
     },
     {
       "album": {
@@ -4604,7 +4698,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 86400,
       "name": "la ny",
       "url": "https://open.spotify.com/track/1v9J7a8h7rT4DNVD6DX6Wf"
@@ -4880,7 +4974,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 210909,
       "name": "Lost in Space",
       "url": "https://open.spotify.com/track/28vHfMXcgseUNd90zEL5U3"
@@ -5726,7 +5820,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 161801,
       "name": "Next 2 U",
       "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
@@ -6412,6 +6506,24 @@
       "duration_ms": 236615,
       "name": "plasma",
       "url": "https://open.spotify.com/track/3CCwrQ6AuFq9eHn3LFUOet"
+    },
+    {
+      "album": {
+        "name": "Pop like this Pt. 2",
+        "url": "https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99657,
+      "name": "Pop like this Pt. 2",
+      "url": "https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM"
     },
     {
       "album": {
@@ -8506,7 +8618,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 245640,
       "name": "To Be Alright",
       "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
@@ -8930,6 +9042,24 @@
       "duration_ms": 143267,
       "name": "We Say Goodbye",
       "url": "https://open.spotify.com/track/5YhYzgnAgRj1sKXLqcaM6N"
+    },
+    {
+      "album": {
+        "name": "We're All Losing It",
+        "url": "https://open.spotify.com/album/7kNuKooWEv0GNCN61AOLfc"
+      },
+      "artists": [
+        {
+          "name": "Everyone Asked About You",
+          "url": "https://open.spotify.com/artist/64ATDQsFeDvIJokVA2YVke"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "We're All Losing It",
+      "url": "https://open.spotify.com/track/7wrCb4w96svg3UUjCDZ9NY"
     },
     {
       "album": {
@@ -9462,6 +9592,24 @@
       "duration_ms": 180821,
       "name": "You're Not There",
       "url": "https://open.spotify.com/track/7HIx7mY7R22UrFMWTd75gj"
+    },
+    {
+      "album": {
+        "name": "You're So Impatient",
+        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128880,
+      "name": "You\u2019re So Impatient",
+      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
       "album": {

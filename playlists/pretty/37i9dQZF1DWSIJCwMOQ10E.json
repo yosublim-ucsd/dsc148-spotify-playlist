@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 94726,
+  "num_followers": 94727,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Si T\u00fa Me Quieres",
-        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Si T\u00fa Me Quieres",
-      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "La Hora de la Verdad",
         "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 376533,
       "name": "Vivo en el limbo",
       "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
+        "name": "CANTO A LA VIDA",
+        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "CANTO A LA VIDA",
+      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -475,6 +491,22 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
+        "name": "Suavemente...Los Exitos",
+        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
         "name": "D\u00c9JALO EN VISTO",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
       },
@@ -491,38 +523,6 @@
       "duration_ms": 189918,
       "name": "D\u00c9JALO EN VISTO",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
-        "name": "CANTO A LA VIDA",
-        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CANTO A LA VIDA",
-      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
-        "name": "Suavemente...Los Exitos",
-        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Desde Mi Ventana",
-        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 202299,
-      "name": "Una Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Eso es mondar",
         "url": "https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 233980,
       "name": "Eso es mondar",
       "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Desde Mi Ventana",
+        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 202299,
+      "name": "Una Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69"
     },
     {
       "added_at": "2024-02-06 20:37:45",

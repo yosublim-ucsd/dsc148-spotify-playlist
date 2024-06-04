@@ -2,7 +2,7 @@
 
 ### [This Is Yuridia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ioSFW)
 
-> This Is Yuridia\. Sus mejores éxitos, todos en una playlist.
+> This is Yuridia\. De viktigaste låtarna samlade i en spellista.
 
 60 songs - 3 hr 36 min
 

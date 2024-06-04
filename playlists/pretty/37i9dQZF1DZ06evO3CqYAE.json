@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 9433,
+  "num_followers": 9448,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABnNt0+Uc/aFSRfhNDGuX9q",
+  "snapshot_id": "Zlu2AAAAAACxmki4Vir5NNhlcO7mCvPk",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Lifter",
-      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -531,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amaram Onyewem (Live)",
-        "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Pastor Jerry Eze",
-          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
         }
       ],
-      "duration_ms": 642124,
-      "name": "Amaram Onyewem - Live",
-      "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
+      "duration_ms": 264026,
+      "name": "Lifter",
+      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
     },
     {
       "added_at": null,
@@ -571,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Amaram Onyewem (Live)",
+        "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
         }
       ],
-      "duration_ms": 367158,
-      "name": "Bor Ekom",
-      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
+      "duration_ms": 642124,
+      "name": "Amaram Onyewem - Live",
+      "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 220265,
       "name": "Father",
       "url": "https://open.spotify.com/track/1LLNos2Ev8dPehkESiwNZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 367158,
+      "name": "Bor Ekom",
+      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
     },
     {
       "added_at": null,
@@ -639,6 +639,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oyoyo Chukwu",
+        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        },
+        {
+          "name": "EeZee Tee",
+          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
+        }
+      ],
+      "duration_ms": 317986,
+      "name": "Oyoyo Chukwu",
+      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cross: My Gaze",
         "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 206808,
       "name": "Do Something",
       "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oyoyo Chukwu",
-        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        },
-        {
-          "name": "EeZee Tee",
-          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
-        }
-      ],
-      "duration_ms": 317986,
-      "name": "Oyoyo Chukwu",
-      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Never Fails",
-        "url": "https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj"
-      },
-      "artists": [
-        {
-          "name": "MaryJane Nweke",
-          "url": "https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 328051,
-      "name": "Jesus Never Fails",
-      "url": "https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With our God all things are possible",
         "url": "https://open.spotify.com/album/7G9tmEdtkiXVoOj5h0UFko"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 710500,
       "name": "With our God all things are possible",
       "url": "https://open.spotify.com/track/1xOg39z68YKgYEpbLzdoQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Never Fails",
+        "url": "https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj"
+      },
+      "artists": [
+        {
+          "name": "MaryJane Nweke",
+          "url": "https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 328051,
+      "name": "Jesus Never Fails",
+      "url": "https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I"
     },
     {
       "added_at": null,

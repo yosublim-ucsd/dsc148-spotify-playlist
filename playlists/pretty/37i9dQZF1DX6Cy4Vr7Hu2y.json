@@ -1,6 +1,6 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: BABYMONSTER) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 957521,
+  "num_followers": 957596,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-05-27 12:57:52",
       "album": {
-        "name": "The 4th Mini Album 'VERSUS'",
-        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
-    },
-    {
-      "added_at": "2024-05-27 12:57:52",
-      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 174216,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
+    },
+    {
+      "added_at": "2024-05-27 12:57:52",
+      "album": {
+        "name": "The 4th Mini Album 'VERSUS'",
+        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
     },
     {
       "added_at": "2024-05-27 12:57:52",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-05-27 12:57:52",
       "album": {
-        "name": "Chill Kill - The 3rd Album",
-        "url": "https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Chill Kill",
-      "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
-    },
-    {
-      "added_at": "2024-05-27 12:57:52",
-      "album": {
         "name": "FANCY YOU",
         "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 213885,
       "name": "FANCY",
       "url": "https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA"
+    },
+    {
+      "added_at": "2024-05-27 12:57:52",
+      "album": {
+        "name": "Chill Kill - The 3rd Album",
+        "url": "https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Chill Kill",
+      "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
     },
     {
       "added_at": "2024-05-27 12:57:52",

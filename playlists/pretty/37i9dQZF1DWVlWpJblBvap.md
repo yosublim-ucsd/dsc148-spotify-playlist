@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,345 likes - 80 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,447 likes - 80 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 69 | [Another In The Fire \- Studio](https://open.spotify.com/track/2e7UGyxFACAfwHjmgNNMbS) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/6Ek7aLgG88iYlJLKLvFdPT) | 4:25 |
 | 70 | [The Heart Of Worship](https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Heart Of Worship](https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf) | 5:20 |
 | 71 | [Follow You Anywhere \- Live](https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:00 |
-| 72 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
-| 73 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 |
+| 72 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 |
+| 73 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
 | 74 | [Canvas And Clay \- Live](https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv) | 6:40 |
 | 75 | [My Victory](https://open.spotify.com/track/1aVJCLIbgvlp3e8Znmpkfz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 4:17 |
 | 76 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |

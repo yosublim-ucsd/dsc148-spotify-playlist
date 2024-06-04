@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 142822,
+  "num_followers": 142854,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAogSELuX+ExsVViStdctq4",
+  "snapshot_id": "Zlu2AAAAAAA9F9LD5w2nGmP4tzP/Iwdw",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -303,6 +319,26 @@
       "duration_ms": 271906,
       "name": "Remind Me (with Carrie Underwood)",
       "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 213857,
+      "name": "I Wanna Remember (feat. Carrie Underwood)",
+      "url": "https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V"
     },
     {
       "added_at": null,
@@ -403,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
       },
       "artists": [
         {
@@ -412,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 258293,
-      "name": "Drinking Alone",
-      "url": "https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2"
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
       "added_at": null,
@@ -431,6 +467,22 @@
       "duration_ms": 210840,
       "name": "Nothing But The Blood Of Jesus",
       "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "Drinking Alone",
+      "url": "https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2"
     },
     {
       "added_at": null,
@@ -467,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "So Small",
-      "url": "https://open.spotify.com/track/6xfL1KzGxg48ACVlQE9qXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Savior",
         "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
@@ -515,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
@@ -543,6 +563,22 @@
       "duration_ms": 198333,
       "name": "Smoke Break",
       "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     },
     {
       "added_at": null,
@@ -579,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Crazy Angels",
-      "url": "https://open.spotify.com/track/2Hs036vmX6ywJrGHDTKPEv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -607,6 +627,22 @@
       "duration_ms": 284706,
       "name": "Just a Dream",
       "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Crazy Angels",
+      "url": "https://open.spotify.com/track/2Hs036vmX6ywJrGHDTKPEv"
     },
     {
       "added_at": null,
@@ -659,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Drunk and Hungover",
-      "url": "https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -687,6 +707,22 @@
       "duration_ms": 257893,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Drunk and Hungover",
+      "url": "https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP"
     },
     {
       "added_at": null,
@@ -795,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "Denim & Rhinestones",
-      "url": "https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cry Pretty",
         "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 209226,
       "name": "Choctaw County Affair",
       "url": "https://open.spotify.com/track/31qhbcGwJRQAe8bITyTQAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Look at Me",
-      "url": "https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

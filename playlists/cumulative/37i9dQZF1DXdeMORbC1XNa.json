@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The African & West Indian diaspora united. Cover: Tems",
+  "description": "The African & West Indian diaspora united. Cover: Ayra Starr",
   "name": "ACS",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 180530,
       "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
@@ -3504,6 +3504,28 @@
       "duration_ms": 226377,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
+    },
+    {
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163114,
+      "name": "Goodbye (Warm Up)(feat. Asake)",
+      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
       "album": {
@@ -3804,7 +3826,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 198032,
       "name": "Higher Life",
       "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
@@ -4130,7 +4152,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 136719,
       "name": "If I Be You",
       "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
@@ -4933,6 +4955,28 @@
     },
     {
       "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -5082,6 +5126,24 @@
       "duration_ms": 185257,
       "name": "Life & Money (ft Stormzy)",
       "url": "https://open.spotify.com/track/5qxEcoixu26LM8WuzCgLav"
+    },
+    {
+      "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
     },
     {
       "album": {
@@ -6218,7 +6280,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 198593,
       "name": "Neva Neva",
       "url": "https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv"
@@ -7838,7 +7900,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 178480,
       "name": "Rio Grande",
       "url": "https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi"
@@ -8536,7 +8598,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
@@ -9330,7 +9392,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 172680,
       "name": "Temp\u00e9rature",
       "url": "https://open.spotify.com/track/6Cofg3IAgP5Ck2U13KJC96"
@@ -10306,7 +10368,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 115683,
       "name": "WHO DAT BOY?",
       "url": "https://open.spotify.com/track/7eYzITceGZPFDeCsmtyliU"

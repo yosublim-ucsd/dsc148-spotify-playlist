@@ -4,7 +4,7 @@
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-277 songs - 14 hr 29 min
+278 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/5K3ZT6CPpaPXanq1lKyRuL) | 3:15 | 2024-04-05 |  |
 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/6HTprulGfeFVrLLvfi3t8a) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/35AULnJ3cnpu6VUEfJlypd) | 3:15 | 2024-03-21 | 2024-04-19 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-17 | 2024-02-29 |
-| [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-05-22 |  |
+| [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-05-22 | 2024-06-04 |
 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 | 2022-12-30 | 2023-01-06 |
 | [Mvinline](https://open.spotify.com/track/6bbx7nYlixYuElKMbYCzMm) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Mvinline](https://open.spotify.com/album/5FeNmn9ROaljE00OMnusjS) | 3:19 | 2022-12-30 | 2023-01-06 |
 | [Mwaki](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz) | 3:28 | 2024-02-28 | 2024-05-03 |
@@ -219,6 +219,7 @@
 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 | 2022-12-30 | 2023-02-24 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-02-23 | 2023-05-13 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2023-01-05 | 2023-03-18 |
+| [Samba do Brasil](https://open.spotify.com/track/2yAjjqcHMy6qUI6NNzNoVD) | [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Festival](https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa) | 3:17 | 2024-06-03 |  |
 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 | 2022-07-15 |  |
 | [Settimana Bianca](https://open.spotify.com/track/5BqUbKq9rCMrCkRtAiz8XA) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn) | [Paninaro 2.0](https://open.spotify.com/album/2LEpMzVOh7gvrOrQQBaMSN) | 2:40 | 2022-12-30 | 2023-01-06 |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-12-09 | 2022-12-22 |

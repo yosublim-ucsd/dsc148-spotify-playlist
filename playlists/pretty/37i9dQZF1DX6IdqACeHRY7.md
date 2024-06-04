@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,656 likes - 114 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,658 likes - 114 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 34 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
 | 35 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
 | 36 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
-| 37 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
-| 38 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 |
-| 39 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
-| 40 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
+| 37 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 |
+| 38 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
+| 39 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
+| 40 | [This Morning](https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [This Morning](https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF) | 3:16 |
 | 41 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
-| 42 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
-| 43 | [This Morning](https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [This Morning](https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF) | 3:16 |
+| 42 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
+| 43 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
 | 44 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 |
 | 45 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 | 46 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 85 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 86 | [Sorry \- Live](https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4) | 3:24 |
 | 87 | [Lying To Yourself](https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Not That Special \- EP](https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk) | 3:32 |
-| 88 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 |
-| 89 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
-| 90 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
-| 91 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
+| 88 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
+| 89 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 |
+| 90 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
+| 91 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
 | 92 | [Masquerade](https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:47 |
 | 93 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 |
 | 94 | [Fin Regn](https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Fin Regn](https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 354 songs - 16 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 355 songs - 16 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,8 +270,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 260 | [Se Não For Pra Ser Assim](https://open.spotify.com/track/5GzZvyymoxG5NCwR5qXzyP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [10/10](https://open.spotify.com/album/1vtCgnZBLk7Vio272EhOr4) | 3:07 |
 | 261 | [Ele Não Precisa Saber](https://open.spotify.com/track/3a3wUIb5Ny1PnqmPVkH1Y8) | [Rob Ribeiro](https://open.spotify.com/artist/03tWSQRz3g7woM33uuelUX), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Ele Não Precisa Saber](https://open.spotify.com/album/5Pwe9V4rly6HsNLknPSDeG) | 2:34 |
 | 262 | [Coração de cabaré \(Participação especial de Marcos & Belutti\) \- Ao vivo](https://open.spotify.com/track/44BzDjvtJMLoyzfGCCSkTM) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 3:04 |
-| 263 | [20 Despedidas \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/5ysdbQHTlEtlElmr5Kc4iy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Despertar \- Ensaio \(Ao Vivo Em São Paulo / 2019\)](https://open.spotify.com/album/76oY7Q3fIgkT9wFCXAyH1y) | 2:59 |
-| 264 | [Falta de Mim](https://open.spotify.com/track/05Opgu5ie17D5gAFObnBWP) | [Kaelzinho Ferraz](https://open.spotify.com/artist/3JahlD0vjH94rAAwcSI7ie) | [Só Pancada 2.0](https://open.spotify.com/album/0YuO6UmFTUXi1bfH9Hpi3N) | 2:28 |
+| 263 | [Falta de Mim](https://open.spotify.com/track/05Opgu5ie17D5gAFObnBWP) | [Kaelzinho Ferraz](https://open.spotify.com/artist/3JahlD0vjH94rAAwcSI7ie) | [Só Pancada 2.0](https://open.spotify.com/album/0YuO6UmFTUXi1bfH9Hpi3N) | 2:28 |
+| 264 | [20 Despedidas \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/5ysdbQHTlEtlElmr5Kc4iy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Despertar \- Ensaio \(Ao Vivo Em São Paulo / 2019\)](https://open.spotify.com/album/76oY7Q3fIgkT9wFCXAyH1y) | 2:59 |
 | 265 | [Me Vingar Mozão](https://open.spotify.com/track/1kNLQwVY6iwVeTJGrWN576) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Me Vingar Mozão](https://open.spotify.com/album/2BcSsDXguEJxUaI7N1f7aS) | 2:37 |
 | 266 | [Desapegadim \(Tim Tim\)](https://open.spotify.com/track/6PKsGQCw58kixM8G5FkBUH) | [Ricardo e João Fernando](https://open.spotify.com/artist/150zwD7rTVIEK5wO25gYez) | [Desapegadim \(Tim Tim\)](https://open.spotify.com/album/7v7vg01DqulZ22600B8z3q) | 2:38 |
 | 267 | [Vingativa](https://open.spotify.com/track/3FTh7gH5UVcMeyYVRBxCYK) | [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Vingativa](https://open.spotify.com/album/30JdLyBkxuWujhxWBLNpDp) | 2:44 |
@@ -361,6 +361,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 351 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
 | 352 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
 | 353 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
-| 354 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
+| 354 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
+| 355 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `AbTA1AAAAAAOiMu5QLL4WHPbhpjU5w/2`
+Snapshot ID: `AbTGdAAAAAAOXkyHOeVTjU7zxQ5cJjjQ`

@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 145024,
       "name": "Personagem",
       "url": "https://open.spotify.com/track/4sN879tIJhd7i88yBxQlnH"
@@ -1388,6 +1388,28 @@
       "duration_ms": 236199,
       "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
+    },
+    {
+      "album": {
+        "name": "Inexplic\u00e1vel",
+        "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268626,
+      "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
+      "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
     },
     {
       "album": {

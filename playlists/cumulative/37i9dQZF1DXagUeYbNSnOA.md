@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Liana Malva\. Updates every Wednesday.
 
-2,057 songs - 4 day 15 hr 7 min
+2,058 songs - 4 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Brinquitos Sanjoaquín](https://open.spotify.com/track/5qGjPXsFI3fvbWWoLH7RrS) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Brinquitos Sanjoaquín](https://open.spotify.com/album/46265H4cwQ05bXuK5mOTzW) | 5:10 | 2023-10-18 | 2023-11-10 |
 | [Broken](https://open.spotify.com/track/3jK2YFWNGYLxhftEc8cir5) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Broken](https://open.spotify.com/album/1KtghRkKmOebcAlzxsnzE4) | 2:43 | 2023-04-19 | 2023-05-11 |
 | [Brujeria](https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS) | [Dru Flecha](https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2) | [LINDA](https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6) | 2:26 | 2023-02-15 | 2023-03-16 |
-| [Brujita de la suerte](https://open.spotify.com/track/15B8rvJwUcBvcANhWzS7ye) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh) | [Brujita de la suerte](https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY) | 3:03 | 2024-05-15 |  |
+| [Brujita de la suerte](https://open.spotify.com/track/15B8rvJwUcBvcANhWzS7ye) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh) | [Brujita de la suerte](https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY) | 3:03 | 2024-05-15 | 2024-06-04 |
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-20 | 2023-01-13 |
 | [Bubalu](https://open.spotify.com/track/1gtyJiiPwLQin53n7BKjMC) | [Ryhan](https://open.spotify.com/artist/7ybeozC8yTsxkDEoCqoBIB) | [EXOTIK](https://open.spotify.com/album/3iJg6qhysMNVTnACGMs57R) | 3:21 | 2023-02-23 | 2023-03-16 |
 | [Buen Augurio](https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu) | [Ciudad Mansa](https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2) | [Se Hizo De Noche](https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj) | 4:02 | 2022-11-10 | 2022-12-01 |
@@ -1608,6 +1608,7 @@
 | [Sailor](https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Sailor](https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch) | 4:14 | 2022-03-09 | 2022-03-17 |
 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 | 2023-08-16 | 2023-09-07 |
 | [SALIÓ EL SOL](https://open.spotify.com/track/01MYnmiGiS72uFRJduLSOa) | [PCAS](https://open.spotify.com/artist/7zmFV5etYHA7DYuJYJZXvh) | [SALIÓ EL SOL](https://open.spotify.com/album/1xqfoT3yZvbCcMpgsn2zpD) | 2:30 | 2023-01-12 | 2023-02-09 |
+| [Salut](https://open.spotify.com/track/0Izi0BNcHLDkYmEFaouwl5) | [F\-MACK](https://open.spotify.com/artist/5HsVRV401ljXRVxZAXA0L5) | [RENACIDO](https://open.spotify.com/album/1TkYwzzpHGtWZt2jxsUoy8) | 4:44 | 2024-06-03 |  |
 | [Salvaje](https://open.spotify.com/track/4poJASsAQ5WAi8565dHLOV) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [Salvaje](https://open.spotify.com/album/0IPAKI1Q1PuyGRl5r8bFfX) | 1:36 | 2023-06-07 | 2023-06-29 |
 | [Salvame](https://open.spotify.com/track/0D7fXcEqcnueoe77HKeK3m) | [Alan Rangel](https://open.spotify.com/artist/4WiGheSbbBeESsbPk7Kjkv) | [Salvame](https://open.spotify.com/album/3h2PrbG3MHEJCNHcKQRKmp) | 3:41 | 2024-01-17 | 2024-02-01 |
 | [SALVAVIDA](https://open.spotify.com/track/3lCjQ4ZiJXevvSMokbvr4T) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [SALVAVIDA](https://open.spotify.com/album/7N3eWPDdCgemKdBKmJn4wc) | 2:39 | 2023-06-14 | 2023-06-29 |

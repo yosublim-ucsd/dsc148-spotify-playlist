@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 230675,
       "name": "All My Yesterdays",
       "url": "https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k"
@@ -4219,6 +4219,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s time to learn",
+        "url": "https://open.spotify.com/album/6l4ggKaN1gNfON4eYCCFw4"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221737,
+      "name": "It\u2019s time to learn",
+      "url": "https://open.spotify.com/track/387JZKrukWgWueIRphES29"
+    },
+    {
+      "album": {
         "name": "I\u00b4ll Be Around",
         "url": "https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao"
       },
@@ -4450,6 +4468,24 @@
       "duration_ms": 196625,
       "name": "Kings Waiting in Line",
       "url": "https://open.spotify.com/track/4JNts7V5qSCToMvmq9ij41"
+    },
+    {
+      "album": {
+        "name": "La Libertad",
+        "url": "https://open.spotify.com/album/54L1n3lh5eFzkHvY21bxkl"
+      },
+      "artists": [
+        {
+          "name": "The Vanguard Trio",
+          "url": "https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "La Libertad",
+      "url": "https://open.spotify.com/track/0sg1Dj6iOJenyxjb8lkK7H"
     },
     {
       "album": {
@@ -5587,6 +5623,24 @@
     },
     {
       "album": {
+        "name": "Moonbows",
+        "url": "https://open.spotify.com/album/6yO4FXW3snsEVwoAkMJEIa"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185781,
+      "name": "Moonbows",
+      "url": "https://open.spotify.com/track/3fSSeOXRH2QUynHAUyJu1i"
+    },
+    {
+      "album": {
         "name": "Moonflower Waltz",
         "url": "https://open.spotify.com/album/56dDXhykp3FkI0aOeNDf47"
       },
@@ -5634,7 +5688,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 261894,
       "name": "More Than You Know",
       "url": "https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo"
@@ -9108,7 +9162,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 192803,
       "name": "Time To Ponder",
       "url": "https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT"

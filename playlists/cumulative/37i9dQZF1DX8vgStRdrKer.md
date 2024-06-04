@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>
 
-173 songs - 14 hr 8 min
+174 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Agidigba God](https://open.spotify.com/track/68DQmgvFvO2HlqQ2oZxdpx) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Agidigba God](https://open.spotify.com/album/2iiMwAegfluTEe7ReEdCQA) | 2:50 | 2024-04-19 |  |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-08 |  |
 | [Alagbara](https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR) | [Delight\_Ayobola](https://open.spotify.com/artist/57Ev0C5dLMCDxW5vqvzs8h) | [Alagbara](https://open.spotify.com/album/5VvX52HwMMhtuOjPcILYNP) | 3:14 | 2024-03-08 |  |
+| [Alikho Lelifana Nalo \(Live at Durban Icc\)](https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at Durban Icc\)](https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU) | 11:49 | 2024-05-31 |  |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-09-15 | 2024-03-12 |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 |  |
 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 | 2024-01-26 |  |
@@ -155,7 +156,7 @@
 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-10 |  |
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-09-15 | 2024-03-16 |
-| [This Year Affirmation](https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [This Year Affirmation](https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh) | 2:00 | 2024-01-05 |  |
+| [This Year Affirmation](https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [This Year Affirmation](https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh) | 2:00 | 2024-01-05 | 2024-06-04 |
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 |  |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-09-15 | 2024-03-16 |
 | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 | 2023-12-08 | 2024-04-12 |

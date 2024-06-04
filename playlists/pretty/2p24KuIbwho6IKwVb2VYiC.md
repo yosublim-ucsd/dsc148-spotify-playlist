@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Nelly Furtado, Tove Lo &amp; SG Lewis
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,440 likes - 115 songs - 6 hr 4 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,445 likes - 115 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

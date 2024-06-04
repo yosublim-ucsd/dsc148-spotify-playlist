@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcECZl1cQzi5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcECZl1cQzi5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcECZl1cQzi5)
 
-### [Island of Serenity](https://open.spotify.com/playlist/37i9dQZF1DXcECZl1cQzi5)
+### [Serene Ocean Music](https://open.spotify.com/playlist/37i9dQZF1DXcECZl1cQzi5)
 
-> Ocean sounds and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
+> Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
 118 songs - 5 hr 41 min
 
@@ -83,7 +83,7 @@
 | [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 | 2023-11-24 |  |
 | [Ondas](https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Ondas](https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv) | 2:53 | 2023-10-23 |  |
 | [Osdale Air](https://open.spotify.com/track/2IFvIXlGNFaVqg7gaDkJZa) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Osdale Air](https://open.spotify.com/album/4erw5sMPYXrWjyaSyHqEV0) | 2:46 | 2023-10-26 |  |
-| [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 | 2023-10-23 |  |
+| [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 | 2023-10-23 | 2024-06-04 |
 | [Over\-By The Sea](https://open.spotify.com/track/2n7ywqxa37GiHhKIiAqPaj) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Over\-By The Sea](https://open.spotify.com/album/3OLJio2N5cMvg0m2TtVryk) | 3:37 | 2023-10-26 | 2024-06-03 |
 | [Paessagio Naturale](https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Paessagio Naturale](https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd) | 2:43 | 2023-10-23 |  |
 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 | 2023-10-26 | 2024-04-26 |
@@ -113,7 +113,7 @@
 | [Taigh An Locha](https://open.spotify.com/track/4Fissa3zt57IqW1m5Db7bq) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Taigh An Locha](https://open.spotify.com/album/6f7sk0ebjs0GOJZm6WRse1) | 2:52 | 2023-10-23 |  |
 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-03-01 |  |
 | [The North Sea](https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [The North Sea](https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09) | 1:54 | 2023-10-23 |  |
-| [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 | 2024-05-27 |
+| [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 |  |
 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 | 2023-10-23 |  |
 | [Träumend \(Sound Bath\)](https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo) | [Kaspar Hahn](https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX) | [Träumend \(Sound Bath\)](https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS) | 2:17 | 2023-11-24 |  |
 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 | 2023-10-23 |  |

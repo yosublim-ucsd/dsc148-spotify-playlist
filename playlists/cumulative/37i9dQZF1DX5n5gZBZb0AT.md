@@ -4,7 +4,7 @@
 
 > all gains
 
-122 songs - 4 hr 51 min
+123 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 | 2023-03-09 |  |
 | [Disaster](https://open.spotify.com/track/5Uz9ZPw5u13ngnstN00ZJq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/4pe0uLLtb4nB0G1CzlPbSV) | 1:24 | 2023-03-09 | 2023-03-14 |
 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 | 2023-03-09 | 2023-06-11 |
+| [DRESS!](https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [DRESS!](https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI) | 1:30 | 2024-05-08 |  |
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2023-03-01 | 2023-07-12 |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2023-03-01 | 2023-07-12 |
 | [Ele Te Bota Soca Soca](https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P) | [Ele Te Bota Soca Soca](https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5) | 3:00 | 2023-12-27 | 2023-12-31 |
@@ -90,7 +91,7 @@
 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 | 2023-03-01 | 2023-12-30 |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 | 2023-12-27 | 2024-02-14 |
 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 | 2023-03-01 | 2023-08-10 |
-| [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 | 2024-02-13 |  |
+| [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 | 2024-02-13 | 2024-06-04 |
 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 | 2023-05-23 | 2023-12-30 |
 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 | 2023-03-01 | 2023-07-13 |
 | [Pure Cocaine](https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 2:34 | 2023-03-01 | 2023-07-12 |

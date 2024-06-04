@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 444478,
+  "num_followers": 444538,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
         "name": "My Arms Were Always Around You",
         "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
@@ -487,6 +487,38 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -511,38 +543,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 257426,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 229653,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Steady Now",
         "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 262571,
       "name": "Morning",
       "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
       },
       "artists": [
         {
-          "name": "Sophia James",
-          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 162600,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1171,6 +1155,22 @@
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
+      },
+      "artists": [
+        {
+          "name": "Sophia James",
+          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Young In All The Wrong Ways",
-        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Without A Word",
-      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "If I Could",
         "url": "https://open.spotify.com/album/3w82qCSKOLreaXZEgHnygQ"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 221297,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/21kHCWDfAwBvATkFWOsa47"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Young In All The Wrong Ways",
+        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
     },
     {
       "added_at": "2024-04-19 15:40:59",

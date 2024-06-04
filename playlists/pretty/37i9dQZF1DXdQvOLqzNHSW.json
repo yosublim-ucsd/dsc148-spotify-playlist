@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 982006,
+  "num_followers": 982407,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
     },
     {
-      "added_at": "2024-05-08 17:27:31",
-      "album": {
-        "name": "Sweetness",
-        "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251894,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
-    },
-    {
       "added_at": "2024-04-23 17:40:25",
       "album": {
         "name": "Art Collection",
@@ -331,6 +315,22 @@
       "duration_ms": 150839,
       "name": "Mr. Moon",
       "url": "https://open.spotify.com/track/46gce56bpmcADKw3i00Lju"
+    },
+    {
+      "added_at": "2024-05-08 17:27:31",
+      "album": {
+        "name": "Sweetness",
+        "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251894,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -505,26 +505,6 @@
       "url": "https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik"
     },
     {
-      "added_at": "2024-05-08 17:27:31",
-      "album": {
-        "name": "Saturnine",
-        "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Saturnine",
-      "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
-    },
-    {
       "added_at": "2024-04-23 17:40:25",
       "album": {
         "name": "On The Inside",
@@ -543,6 +523,26 @@
       "duration_ms": 223733,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4"
+    },
+    {
+      "added_at": "2024-05-08 17:27:31",
+      "album": {
+        "name": "Saturnine",
+        "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "LOVE + POP",
         "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Hether Who?",
         "url": "https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 176000,
       "name": "Falling in Loves too Mean",
       "url": "https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 150402,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -919,6 +903,22 @@
       "duration_ms": 188800,
       "name": "All the Good Times Never Die",
       "url": "https://open.spotify.com/track/39MAU8JIcR7ojQA4hnoPDS"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 150402,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Le Soir",
-        "url": "https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 73053,
-      "name": "Mom",
-      "url": "https://open.spotify.com/track/7zeQPFtQPH6Y8Jqz5jXCQg"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210687,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Le Soir",
+        "url": "https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "duration_ms": 73053,
+      "name": "Mom",
+      "url": "https://open.spotify.com/track/7zeQPFtQPH6Y8Jqz5jXCQg"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Iris and I",
-        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Iris and I",
-      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "hurt me enough",
         "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 186032,
       "name": "hurt me enough",
       "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Iris and I",
+        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Iris and I",
+      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Shadowglow (Deluxe)",
-        "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Sad Disco (Pine Studios)",
-      "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Air Con Eden",
         "url": "https://open.spotify.com/album/486QPfqtxMumr35F75fkHU"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 342483,
       "name": "Shadowshow",
       "url": "https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Shadowglow (Deluxe)",
+        "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Sad Disco (Pine Studios)",
+      "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
     },
     {
       "added_at": "2024-04-23 17:40:25",

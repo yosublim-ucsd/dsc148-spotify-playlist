@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADslljGscXez9sNbfuc8upw",
+  "snapshot_id": "Zlu2AAAAAAAF1t/Tiur+bKx9Sa0vopSq",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 173365,
-      "name": "Destino Cruel - En Vivo",
-      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
+      "duration_ms": 186389,
+      "name": "La L\u00e1mpara - En Vivo",
+      "url": "https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 186389,
-      "name": "La L\u00e1mpara - En Vivo",
-      "url": "https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0"
+      "duration_ms": 173365,
+      "name": "Destino Cruel - En Vivo",
+      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+        "name": "Causa Perdida",
+        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 161621,
-      "name": "Coraz\u00f3n De Oropel - En Vivo",
-      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+      "duration_ms": 194047,
+      "name": "Causa Perdida",
+      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy Que Te Vas",
-        "url": "https://open.spotify.com/album/4JfKXEJo0tqcyDTcWRT0Sj"
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Hoy Que Te Vas",
-      "url": "https://open.spotify.com/track/0O6zTZ5GqM9MPNgwXYt6Vb"
+      "duration_ms": 161621,
+      "name": "Coraz\u00f3n De Oropel - En Vivo",
+      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Causa Perdida",
-        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 194047,
-      "name": "Causa Perdida",
-      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
+      "duration_ms": 246917,
+      "name": "Para Morir Iguales - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+        "name": "Hoy Que Te Vas",
+        "url": "https://open.spotify.com/album/4JfKXEJo0tqcyDTcWRT0Sj"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 246917,
-      "name": "Para Morir Iguales - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy"
+      "duration_ms": 186840,
+      "name": "Hoy Que Te Vas",
+      "url": "https://open.spotify.com/track/0O6zTZ5GqM9MPNgwXYt6Vb"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 181796,
-      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
-      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
     },
     {
       "added_at": null,
@@ -668,25 +668,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 196816,
-      "name": "Le\u00f1a De Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 192981,
-      "name": "Carta Jugada - En Vivo",
-      "url": "https://open.spotify.com/track/4x26OTPJNmCKWxQhrgDEep"
+      "duration_ms": 181796,
+      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 175125,
       "name": "Con Rumbo Al Sur - En Vivo",
       "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 192981,
+      "name": "Carta Jugada - En Vivo",
+      "url": "https://open.spotify.com/track/4x26OTPJNmCKWxQhrgDEep"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

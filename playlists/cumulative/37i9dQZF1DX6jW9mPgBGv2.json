@@ -399,6 +399,32 @@
     },
     {
       "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173164,
+      "name": "BALOTELLI",
+      "url": "https://open.spotify.com/track/5yKTrdDTMcQREhIwBikjGI"
+    },
+    {
+      "album": {
         "name": "Bandidos",
         "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
       },
@@ -618,6 +644,28 @@
       "duration_ms": 146106,
       "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
       "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
+    },
+    {
+      "album": {
+        "name": "CLIMA (with Foreign Teck)",
+        "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "CLIMA (with Foreign Teck)",
+      "url": "https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14"
     },
     {
       "album": {
@@ -1770,7 +1818,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 182000,
       "name": "My Name",
       "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
@@ -2746,7 +2794,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 202854,
       "name": "Tiburones",
       "url": "https://open.spotify.com/track/5QacJpuPIKIzsp2GPPt0ew"
@@ -3102,6 +3150,28 @@
       "duration_ms": 159228,
       "name": "\u00bfQuien Tu Eres?",
       "url": "https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Eres T\u00fa?",
+        "url": "https://open.spotify.com/album/0NuMq7DZRdh5n1eULN0i7u"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "\u00bfQui\u00e9n Eres T\u00fa?",
+      "url": "https://open.spotify.com/track/2ydaaI4ICSmCUkT9rk5dao"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2"

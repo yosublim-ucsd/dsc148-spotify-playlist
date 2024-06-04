@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: aespa",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: WayV",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 198365,
       "name": "Crazy Form",
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
@@ -3030,6 +3030,24 @@
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2d8xiUGjUalhOp4t6M2i0w"
+    },
+    {
+      "album": {
+        "name": "Give Me That - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/3umJyIQq0mjtg4eMnOlLbv"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176343,
+      "name": "Give Me That - Korean Version",
+      "url": "https://open.spotify.com/track/4Ta60nUTt3W1JU0AxctPyG"
     },
     {
       "album": {
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"

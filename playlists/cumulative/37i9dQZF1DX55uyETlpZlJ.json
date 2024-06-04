@@ -2611,6 +2611,32 @@
     },
     {
       "album": {
+        "name": "Javaari Hudga",
+        "url": "https://open.spotify.com/album/4Kt7gZ6jpRtVyTm8hD5kgM"
+      },
+      "artists": [
+        {
+          "name": "Bheemasen Hebbalatti",
+          "url": "https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37"
+        },
+        {
+          "name": "Sachin Dodamani",
+          "url": "https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2"
+        },
+        {
+          "name": "Trupti NK",
+          "url": "https://open.spotify.com/artist/5bNXTmycprKmNZP9vdOWBb"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188057,
+      "name": "Javaari Hudga",
+      "url": "https://open.spotify.com/track/1hoRIB6bh6UzcQ1an5opq9"
+    },
+    {
+      "album": {
         "name": "JUST MUSIC",
         "url": "https://open.spotify.com/album/2Sa4QsIx74xhupxw7Ej5Tq"
       },
@@ -5030,7 +5056,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 140987,
       "name": "Nemmadi",
       "url": "https://open.spotify.com/track/0ckIja4c0MDRdUIOrHEg60"

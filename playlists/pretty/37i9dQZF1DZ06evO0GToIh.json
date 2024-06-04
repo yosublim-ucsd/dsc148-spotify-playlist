@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 119659,
+  "num_followers": 230867,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADKwzgdipXTZ/u5XxJgJs0x",
+  "snapshot_id": "Zlu2AAAAAADNf1xA4XyuFRxoi91x6J4l",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sab\u00eda Cu\u00e1nto",
-        "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 165750,
-      "name": "No Sab\u00eda Cu\u00e1nto",
-      "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
+      "duration_ms": 150424,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
     },
     {
       "added_at": null,
@@ -515,22 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "No Sab\u00eda Cu\u00e1nto",
+        "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         }
       ],
-      "duration_ms": 150424,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
+      "duration_ms": 165750,
+      "name": "No Sab\u00eda Cu\u00e1nto",
+      "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
     },
     {
       "added_at": null,

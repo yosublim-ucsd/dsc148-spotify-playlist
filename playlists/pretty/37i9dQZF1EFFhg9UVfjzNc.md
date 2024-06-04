@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 79 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 80 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 77 | [Holy Table](https://open.spotify.com/track/2hu1HijSqMWWLmKBnjGZ7O) | [Liturgical Folk](https://open.spotify.com/artist/5OhGNb4thJQ6YlKt8So8B9) | [Edenland](https://open.spotify.com/album/4PrPfexL3BkYo36X3oh13d) | 6:25 |
 | 78 | [Espontâneo](https://open.spotify.com/track/6kmm2XHqCC0RwFhidwOv8Y) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Lugar Secreto • Vol\. 1](https://open.spotify.com/album/5oyeR5JZwaJZdH4yijAyVn) | 19:07 |
 | 79 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
+| 80 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
 
-Snapshot ID: `AbTArAAAAAAq9z9q0Q4jL0ZydBStkZFB`
+Snapshot ID: `AbTGTAAAAABVcYFt0WAKULvkHM0fBYeK`

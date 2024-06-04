@@ -4,7 +4,7 @@
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-87 songs - 8 hr 12 min
+88 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Baba](https://open.spotify.com/track/2NE2p5hRU0ICJP7tOvbUPN) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:43 | 2021-12-28 | 2024-03-15 |
 | [Baba](https://open.spotify.com/track/4CLtnYlDBvlgPA10boQdxH) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 4:43 | 2024-03-14 |  |
 | [Bah Poulo](https://open.spotify.com/track/2dxoXGCW84TWOP3SDRXYq8) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 5:38 | 2021-12-28 |  |
+| [Bithiéloulé](https://open.spotify.com/track/0MIDNOaei1vflCzmXWX0ez) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Les Ambassadeurs](https://open.spotify.com/artist/3leS0kgfAguTnIEOFZ2vQj) | [Seydou Bathily](https://open.spotify.com/album/1hD7zgdhiDCBDsJIM9oJAw) | 6:34 | 2024-06-04 |  |
 | [Bobo](https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:58 | 2021-12-28 |  |
 | [C'Est Bon, C'Est Bon](https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 5:00 | 2021-12-28 | 2023-03-07 |
 | [Calculer](https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 4:18 | 2023-03-26 |  |
@@ -56,7 +57,7 @@
 | [M'Bemba](https://open.spotify.com/track/4oaahUdtJfsBA8HipvnbSm) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 8:50 | 2021-12-28 |  |
 | [Madan](https://open.spotify.com/track/0EwWOHl3QwywWxBP4wQ59z) | [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Madan](https://open.spotify.com/album/4nVLigE5PNgLsbC7xqf80H) | 2:55 | 2021-12-28 |  |
 | [Madan](https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Far](https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB) | 4:50 | 2021-12-28 | 2023-12-23 |
-| [Madan \- Remix](https://open.spotify.com/track/5h1xmefdnY2Y4zld4jnvoE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 3:13 | 2023-12-22 |  |
+| [Madan \- Remix](https://open.spotify.com/track/5h1xmefdnY2Y4zld4jnvoE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 3:13 | 2023-12-22 | 2024-06-04 |
 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 | 2021-12-28 |  |
 | [Mansa Fo La](https://open.spotify.com/track/5gAw9gpPXg6gCUoeuxfN1C) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 6:43 | 2021-12-28 |  |
 | [Masibambaneni](https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Bamako](https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw) | 5:06 | 2022-10-12 |  |

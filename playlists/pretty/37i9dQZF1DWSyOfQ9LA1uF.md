@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,932 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,936 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 37 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
 | 38 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 6:19 |
 | 39 | [Bad Girls \- Switch Remix](https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Bad Girls \(The Remixes\)](https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW) | 3:23 |
-| 40 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
-| 41 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
+| 40 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
+| 41 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
 | 42 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
 | 43 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
 | 44 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
 | 45 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
-| 46 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
-| 47 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
+| 46 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
+| 47 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 48 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 | 49 | [A Bit Patchy](https://open.spotify.com/track/1wPKUjLrsxEjFvXIo0npn9) | [Switch](https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI) | [A Bit Patchy \(Remixes\)](https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm) | 2:33 |
 | 50 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |

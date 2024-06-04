@@ -7063,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "I am the King",
+        "url": "https://open.spotify.com/album/0MmY7xbuJNiyICbIgJaDrO"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183846,
+      "name": "I am the King",
+      "url": "https://open.spotify.com/track/5BD2sRwZBmAcS649vipoAq"
+    },
+    {
+      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/5G3eeWvTGag67FvGLTCKCx"
       },

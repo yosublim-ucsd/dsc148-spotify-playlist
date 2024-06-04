@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 8669,
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 8689,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABUuCjxEacbjpbWsnIYDcKA",
+  "snapshot_id": "Zlu2AAAAAAA7czFMQBFfu0yMTO8wVAty",
   "tracks": [
     {
       "added_at": null,
@@ -131,30 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -183,6 +159,30 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "added_at": null,
@@ -879,6 +879,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set da Menorzinha 1.0",
+        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
+      },
+      "artists": [
+        {
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        }
+      ],
+      "duration_ms": 324986,
+      "name": "Set da Menorzinha 1.0",
+      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
@@ -1023,30 +1051,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set da Menorzinha 1.0",
-        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
+        "name": "Nativo",
+        "url": "https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k"
       },
       "artists": [
         {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+          "name": "Cassol",
+          "url": "https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "MC Marcelly",
-          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
         }
       ],
-      "duration_ms": 324986,
-      "name": "Set da Menorzinha 1.0",
-      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
+      "duration_ms": 181124,
+      "name": "Podep\u00e1",
+      "url": "https://open.spotify.com/track/6jriETT3aG0EdRVB3bQna7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 124236,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH"
     },
     {
       "added_at": null,
@@ -1071,26 +1115,6 @@
       "duration_ms": 164500,
       "name": "Entre F\u00e3 e a Luana",
       "url": "https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nativo",
-        "url": "https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k"
-      },
-      "artists": [
-        {
-          "name": "Cassol",
-          "url": "https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "Podep\u00e1",
-      "url": "https://open.spotify.com/track/6jriETT3aG0EdRVB3bQna7"
     },
     {
       "added_at": null,
@@ -1131,30 +1155,6 @@
       "duration_ms": 409756,
       "name": "Sem Compaix\u00e3o Bb",
       "url": "https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEM BARULHO",
-        "url": "https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh"
-      },
-      "artists": [
-        {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "SEM BARULHO",
-      "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"
     },
     {
       "added_at": null,
@@ -1235,26 +1235,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN"
+        "name": "REAL R&B",
+        "url": "https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
         }
       ],
-      "duration_ms": 124236,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH"
+      "duration_ms": 162711,
+      "name": "SEM BARULHO",
+      "url": "https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf"
     },
     {
       "added_at": null,

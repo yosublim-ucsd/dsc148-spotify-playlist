@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 161380,
+  "num_followers": 161424,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAyCceugY8jDhgruHNlaxts",
+  "snapshot_id": "Zlu2AAAAAAAkA39iYZ4cg3J2Jf0rtZQf",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Prayer Of The Refugee",
+      "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 170893,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/5O6SumCYk8Ug81UbfXAPJC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Under The Knife",
-      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Under The Knife",
+      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -139,6 +155,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Hero Of War",
+      "url": "https://open.spotify.com/track/00hVU6kDP67JHurfwG2dtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 234786,
+      "name": "Make It Stop (September's Children)",
+      "url": "https://open.spotify.com/track/0wHNrrefyaeVewm4NxjxrX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sufferer & The Witness",
         "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
       },
@@ -151,6 +199,22 @@
       "duration_ms": 195120,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "The Violence",
+      "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
     },
     {
       "added_at": null,
@@ -180,25 +244,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 234786,
-      "name": "Make It Stop (September's Children)",
-      "url": "https://open.spotify.com/track/0wHNrrefyaeVewm4NxjxrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Don\u2019t Want To Be Here Anymore",
-      "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
+      "duration_ms": 222626,
+      "name": "Architects",
+      "url": "https://open.spotify.com/track/1O7oz3f9EuSeeX0J7t5z6J"
     },
     {
       "added_at": null,
@@ -219,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Tragedy + Time",
+      "url": "https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -231,22 +295,6 @@
       "duration_ms": 189080,
       "name": "The Dirt Whispered",
       "url": "https://open.spotify.com/track/5CAaWuGhF4XvUm2liCkThA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Architects",
-      "url": "https://open.spotify.com/track/1O7oz3f9EuSeeX0J7t5z6J"
     },
     {
       "added_at": null,
@@ -283,38 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 245480,
-      "name": "Audience Of One",
-      "url": "https://open.spotify.com/track/1YkozbENeETx2a45JWrr8E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Tragedy + Time",
-      "url": "https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
@@ -327,6 +343,22 @@
       "duration_ms": 194506,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 245480,
+      "name": "Audience Of One",
+      "url": "https://open.spotify.com/track/1YkozbENeETx2a45JWrr8E"
     },
     {
       "added_at": null,
@@ -395,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
       "artists": [
         {
@@ -404,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 207026,
-      "name": "The Strength To Go On",
-      "url": "https://open.spotify.com/track/2gVuP7yxrIsn2s3i68eHjt"
+      "duration_ms": 248986,
+      "name": "People Live Here",
+      "url": "https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN"
     },
     {
       "added_at": null,
@@ -427,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
+        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
       },
       "artists": [
         {
@@ -436,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 248986,
-      "name": "People Live Here",
-      "url": "https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN"
+      "duration_ms": 193453,
+      "name": "Dirt And Roses",
+      "url": "https://open.spotify.com/track/5NfDTmK8fnXgLmUqnFWmbx"
     },
     {
       "added_at": null,
@@ -455,22 +487,6 @@
       "duration_ms": 204160,
       "name": "Talking To Ourselves",
       "url": "https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
-        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Dirt And Roses",
-      "url": "https://open.spotify.com/track/5NfDTmK8fnXgLmUqnFWmbx"
     },
     {
       "added_at": null,
@@ -507,54 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Sudden Urge",
-      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Ready To Fall",
-      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ghost Note Symphonies, Vol.1",
-        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 142892,
-      "name": "Faint Resemblance - Ghost Note Symphonies",
-      "url": "https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
         "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
       },
@@ -580,9 +548,25 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Forfeit",
-      "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
+      "duration_ms": 226960,
+      "name": "Sudden Urge",
+      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 142892,
+      "name": "Faint Resemblance - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Forfeit",
+      "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 217720,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 299946,
-      "name": "The Numbers",
-      "url": "https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 299946,
+      "name": "The Numbers",
+      "url": "https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 183053,
       "name": "Welcome To The Breakdown",
       "url": "https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Monarch",
-      "url": "https://open.spotify.com/track/5G3zN7LhZzHwD6RSLbPAUk"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Monarch",
+      "url": "https://open.spotify.com/track/5G3zN7LhZzHwD6RSLbPAUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nowhere Generation II",
         "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 177440,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/6BHShslmpVCHLvxahvRLf7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/0GIQrSfhrtTD8sR7nXhoRB"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/30X8uXiLDYneS0MuQY2H6n"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc"
     }
   ],
   "unique_name": "This Is Rise Against",

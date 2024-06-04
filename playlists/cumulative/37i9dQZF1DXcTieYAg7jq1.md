@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Lake Street Dive
 
-406 songs - 23 hr 19 min
+407 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Face The River](https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/0ZMHcAWJPzZuNhk8R3UOi9) | 3:36 | 2022-04-15 | 2023-02-16 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2023-04-01 |
 | [Falling for You](https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Falling for You](https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7) | 3:08 | 2024-03-08 |  |
+| [Family Business](https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/4kRZDysdXZ5yeaRFxq84io) | 3:18 | 2024-06-03 |  |
 | [Feels So Good](https://open.spotify.com/track/3fwIiZvKoNG9q4KcNv9XQK) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Feels So Good](https://open.spotify.com/album/5aOPGphgzI9EocL6qcBNkB) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Final Days](https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:10 | 2021-12-03 | 2023-01-28 |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2021-12-03 | 2023-01-28 |
@@ -142,7 +143,7 @@
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2021-12-03 | 2023-01-28 |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-03 | 2022-10-13 |
 | [Growing Old With You](https://open.spotify.com/track/3ot60Verr4b8U0NOJYg5r7) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Growing Old With You](https://open.spotify.com/album/6N98frZADil2cpwn8H0tVs) | 2:42 | 2024-03-01 | 2024-03-23 |
-| [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 |  |
+| [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 | 2024-06-04 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-04-26 |  |
 | [HAPPY FOR YOU](https://open.spotify.com/track/77LUIy19BGRJWjVsXnX7ee) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [HAPPY FOR YOU](https://open.spotify.com/album/1xcp0GpRqjGpgnjRVFjeKW) | 3:06 | 2023-03-03 | 2023-09-02 |
 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 | 2023-01-20 | 2023-09-02 |

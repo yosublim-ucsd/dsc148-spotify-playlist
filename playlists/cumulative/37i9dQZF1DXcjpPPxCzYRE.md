@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-255 songs - 14 hr 56 min
+256 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [In Your Arms](https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Paper Doors](https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY) | 3:28 | 2023-12-28 | 2024-04-19 |
 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 | 2022-11-11 | 2024-03-15 |
 | [Ink](https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 3:48 | 2022-11-11 |  |
+| [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Jovencito Fuksbrauner](https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 | 2024-05-02 |  |
 | [Into The Sun \- EP Version](https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 5:00 | 2022-11-11 |  |
 | [Jag vill ha allt](https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:26 | 2024-02-08 | 2024-03-15 |
 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 | 2022-11-11 |  |
@@ -168,7 +169,7 @@
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2022-11-11 |  |
 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 | 2023-01-06 | 2023-01-13 |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-11-11 | 2024-02-09 |
-| [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 | 2024-05-02 |  |
+| [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 | 2024-05-02 | 2024-06-04 |
 | [Olalla](https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:08 | 2023-12-28 | 2024-04-19 |
 | [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-11-11 | 2024-01-06 |
 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 | 2024-04-11 |  |

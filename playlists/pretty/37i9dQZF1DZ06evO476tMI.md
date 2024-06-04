@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,527 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,608 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 36 | [For the Love of You](https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:31 |
 | 37 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 |
 | 38 | [Like I Never Left \(feat\. Akon\)](https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:49 |
-| 39 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
-| 40 | [Same Script, Different Cast](https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:58 |
+| 39 | [Same Script, Different Cast](https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:58 |
+| 40 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
 | 41 | [Love Will Save the Day](https://open.spotify.com/track/4gDBc1RxPAvinJrZzZ9nYX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:21 |
 | 42 | [I Believe In You And Me](https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Dream Duets](https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ) | 3:54 |
-| 43 | [You Light Up My Life](https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 3:41 |
-| 44 | [Call You Tonight](https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 4:08 |
+| 43 | [Call You Tonight](https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 4:08 |
+| 44 | [You Light Up My Life](https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 3:41 |
 | 45 | [Why Does It Hurt So Bad \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/6rDQtMkwq8UEIWnhNY2JYx) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 4:37 |
 | 46 | [Something In Common](https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Bobby](https://open.spotify.com/album/6MBpIrXaNMdoTNrWchRpO7) | 4:59 |
 | 47 | [Jesus Loves Me](https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 5:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 49 | [Lover for Life](https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:49 |
 | 50 | [If You Say My Eyes Are Beautiful \(with Jermaine Jackson\)](https://open.spotify.com/track/0iDSjpKH1oJdPbvNYjbUmH) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 4:19 |
 
-Snapshot ID: `ZlpkgAAAAAC2eSHqO5SHJ4WgtAK0Fs7Q`
+Snapshot ID: `Zlu2AAAAAADFlSzK2MEIbnokt3Thtnxe`

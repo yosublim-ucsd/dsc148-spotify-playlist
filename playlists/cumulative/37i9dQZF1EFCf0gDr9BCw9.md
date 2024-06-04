@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 13 hr 34 min
+182 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [I Don't Mind \- 2012 Remastered Version](https://open.spotify.com/track/0GTMhiWe40NyyUvVn3HPDn) | [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH) | [Devil May Care](https://open.spotify.com/album/2O30JvLNM3CMExr1IHmtql) | 2:55 | 2022-09-08 | 2023-12-14 |
 | [I'm Checkin' Out, Goom'bye](https://open.spotify.com/track/73bqQYYWmLKa84O0io4E99) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Matt Munisteri](https://open.spotify.com/artist/2vQcS9cDI4xWJqbqGzch7M), [Mark Shane](https://open.spotify.com/artist/7jJRTFVSa3AEiLLQOWRBgG), [Lee Hudson](https://open.spotify.com/artist/7gcEfARxzB32rfJmwyCvA4) | [Strictly Romancin'](https://open.spotify.com/album/0oyu5Vuai0HPO8zR9X0s36) | 2:25 | 2022-09-08 |  |
 | [Imagine My Frustration](https://open.spotify.com/track/1xyeSKAwSndIk52wwkRPms) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella At Duke's Place](https://open.spotify.com/album/1pznhTLv7PV8Lx9lqMJJ5I) | 4:51 | 2022-09-08 |  |
+| [In A Blue Summer Garden](https://open.spotify.com/track/2SGN3ts85p2XV2NwpBY6qZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Piano Duets: Great Times!](https://open.spotify.com/album/73NLpriWcie3viIgpT8vwc) | 4:03 | 2024-06-03 |  |
 | [In the Heights](https://open.spotify.com/track/4dS1QQw8askb1KSDLCKuvK) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), ['In The Heights' Original Broadway Company](https://open.spotify.com/artist/0kvp9mzfvoXvGtjSWTgrEb) | [In the Heights \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg) | 7:38 | 2022-09-08 |  |
 | [In the Mood \- Live](https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Glenn Miller Carnegie Hall Concert \(Live\)](https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk) | 3:29 | 2023-09-25 |  |
 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 | 2022-09-08 |  |

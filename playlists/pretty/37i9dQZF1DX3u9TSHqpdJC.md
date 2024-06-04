@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Norah Hendriks Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,822 likes - 107 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,837 likes - 107 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

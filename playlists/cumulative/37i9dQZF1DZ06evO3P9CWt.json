@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-11",
-  "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
+  "description": "This is Pabllo Vittar. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Pabllo Vittar",
   "tracks": [
     {
@@ -654,6 +654,28 @@
       "duration_ms": 173136,
       "name": "Disk Me",
       "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "album": {
+        "name": "Energia (Parte 2)",
+        "url": "https://open.spotify.com/album/1emXHaHaPlW2hTTuYbgFQ9"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269103,
+      "name": "Energia - Parte 2",
+      "url": "https://open.spotify.com/track/4LDOAbqOhaAcY5ccwfIlJL"
     },
     {
       "album": {

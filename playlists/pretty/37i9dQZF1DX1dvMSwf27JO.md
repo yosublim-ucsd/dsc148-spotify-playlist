@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Teyana Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,969 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,965 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 75 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
 | 76 | [Are You In The Room](https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N) | [CLUB INDGO](https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC), [Sança](https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc), [Ill Addicts](https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z) | [Are You In The Room](https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej) | 3:07 |
 | 77 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 |
-| 78 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
-| 79 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
-| 80 | [Cry Alone](https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Cry Alone](https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU) | 1:42 |
+| 78 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
+| 79 | [Cry Alone](https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Cry Alone](https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU) | 1:42 |
+| 80 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 81 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
 | 82 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 |
 | 83 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 |

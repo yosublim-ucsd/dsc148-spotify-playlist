@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,812 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 40 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/4QkNTRmPGMyubxV3PL3mT5) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/2ruotvPgxJcb8DMbzQ5XFz) | 2:49 |
 | 41 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 |
 | 42 | [Non cambia mai](https://open.spotify.com/track/6gmB182UrCJnMHZTrxqUNv) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/70SXCWuJY7sw8EIblrp3iq) | 3:10 |
-| 43 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 |
-| 44 | [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 |
+| 43 | [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 |
+| 44 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 |
 | 45 | [Cos'è](https://open.spotify.com/track/61lqeoXo5yzoYm2WBkAYEf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:20 |
 | 46 | [Qué es](https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:20 |
 | 47 | [Graffiti \(feat\. Emma\)](https://open.spotify.com/track/7bXzLHaVFzhpbuM4wewmIj) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 3:34 |
 | 48 | [La sfida contro il tempo](https://open.spotify.com/track/3JChn2cFbSZTtmQY4SvfOb) | [Ninna e Matti](https://open.spotify.com/artist/3ddOmMXJS1tUjF60vzU9eo) | [La sfida contro il tempo](https://open.spotify.com/album/6sNrtP2h6fSF3RvV39c0GY) | 3:04 |
 | 49 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 |
-| 50 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
-| 51 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
+| 50 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
+| 51 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 52 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 
-Snapshot ID: `AbTA1QAAAACNldMUb7SjFrdZ9FyAJmbE`
+Snapshot ID: `AbTGdQAAAACaEeAODz4gobGDtCgQvqXZ`

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,807 songs - 10 day 18 hr 1 min
+6,808 songs - 10 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1878,7 +1878,7 @@
 | [Everything I Need](https://open.spotify.com/track/1A4jFJ9CawXhcYmN7Iq0yR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [Arkade Destinations Living Room](https://open.spotify.com/album/5sTfRl92THOVFDoi6f93rw) | 2:54 | 2021-10-26 | 2022-04-24 |
 | [Everything I Want](https://open.spotify.com/track/68qbDkaOXGQ2lZWmwrTsfv) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [On My Mind](https://open.spotify.com/album/0QE3T2GjXkxxgjJ6PKhj8O) | 2:27 | 2021-01-11 | 2021-10-20 |
 | [Everything Is Calm](https://open.spotify.com/track/06Ij7RjzQTAOyKIkenfAoA) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN), [Taranczewski](https://open.spotify.com/artist/64amSSHhJP5ZtaaYxFKgb5) | [Everything Is Calm](https://open.spotify.com/album/2Q6VgJGBArEegBfrnZ6tKn) | 2:24 | 2023-03-16 | 2023-09-29 |
-| [EVOLVE](https://open.spotify.com/track/5EHDA0A0Srz6hDQl5KHpOJ) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [EVOLVE](https://open.spotify.com/album/2TsmprRRiOy7tqqAhqWFbH) | 2:02 | 2024-05-24 |  |
+| [EVOLVE](https://open.spotify.com/track/5EHDA0A0Srz6hDQl5KHpOJ) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [EVOLVE](https://open.spotify.com/album/2TsmprRRiOy7tqqAhqWFbH) | 2:02 | 2024-05-24 | 2024-06-04 |
 | [Exhale](https://open.spotify.com/track/59FRrPKwRUonc05ZrxXv1i) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Exhale](https://open.spotify.com/album/6l715y22gn98BnokxOrqNX) | 1:59 | 2022-08-26 | 2022-12-03 |
 | [exit here](https://open.spotify.com/track/3WI9cGxs5BEMre9qpNXlVZ) | [solae](https://open.spotify.com/artist/0k8mD0prjdPcC9HRtTuRr4) | [reunion](https://open.spotify.com/album/6mEiUNuRfKOnRvwHcDFSMz) | 2:38 | 2022-04-08 | 2022-09-02 |
 | [Exit: Planet Wave](https://open.spotify.com/track/3T5TtKSyEtiCtwiYN5q56k) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Exit: Planet Wave](https://open.spotify.com/album/0rHMLKeEo3DK8Bxvt2qJsm) | 2:57 | 2022-11-11 | 2023-03-18 |
@@ -2026,6 +2026,7 @@
 | [first light](https://open.spotify.com/track/4ybJ6R5bjp9MbXlDmJLVjI) | [Miilano](https://open.spotify.com/artist/4BRU7LmeFQZ8JGbNc3LdZ9) | [first light](https://open.spotify.com/album/4JtVA0FwCLv4tQDOahRZE2) | 2:07 | 2022-12-23 | 2023-11-24 |
 | [First Sip of Coffee](https://open.spotify.com/track/2qnxhWmaZhgckkAwRDKxUm) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Vortex](https://open.spotify.com/album/0016aXt2kXeqd6f1RArmcY) | 2:27 | 2019-11-27 | 2022-05-05 |
 | [First Time](https://open.spotify.com/track/0Xz1cSkgP4lWYU7TFEa5kJ) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [First Time](https://open.spotify.com/album/4lt872rnvhBMVBOdFHxvqx) | 1:44 | 2023-02-21 | 2023-04-28 |
+| [Fishizens](https://open.spotify.com/track/56YpXPDyWRzgElEKvTGTif) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Fishizens](https://open.spotify.com/album/1USqajnim2xRLIXKsNZKBc) | 1:39 | 2024-05-31 |  |
 | [Fissure](https://open.spotify.com/track/7b0fhdJuTsqaNtr7WSgm2I) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Fissure](https://open.spotify.com/album/358DzYWNPZ232zG0PdHHma) | 2:26 | 2022-11-11 | 2023-01-20 |
 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 | 2023-11-10 |  |
 | [Five Pants](https://open.spotify.com/track/0yBYOuWJ0ZvkKiYzq95otA) | [Bezzix](https://open.spotify.com/artist/7wHZfDkun9PmNEJuh9wh69), [Fonsey](https://open.spotify.com/artist/5rHzvi8pBFTMdWhVbeisRR) | [DAY 1](https://open.spotify.com/album/0FMKiC9HnUqHX56cUvEnC3) | 2:18 | 2022-08-19 | 2022-11-20 |

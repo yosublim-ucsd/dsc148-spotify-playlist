@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 402240,
       "name": "4AM - Extended Mix",
       "url": "https://open.spotify.com/track/7oDYpd7ykD3PsmWytUF9Ez"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 120888,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0KioBKSzWP7lwXOwH6iJF2"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 326640,
       "name": "All Of Me - Extended Mix",
       "url": "https://open.spotify.com/track/7hciLyZWekdi8tz3dNtc9i"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 168275,
       "name": "Asking (feat. Clementine Douglas) - K Motionz Remix",
       "url": "https://open.spotify.com/track/3EIUAfMmkLOnPH9c1uGGsf"
@@ -384,6 +384,28 @@
       "duration_ms": 157142,
       "name": "Back To This (feat. SoShy)",
       "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
+    },
+    {
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Alex O'Clock",
+          "url": "https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a"
     },
     {
       "album": {
@@ -854,7 +876,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 170156,
       "name": "Burning (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/2mPZOz3a2WHHSYeNyPL1Tj"
@@ -948,7 +970,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 195238,
       "name": "Carinito",
       "url": "https://open.spotify.com/track/03o1pHoBNemisYIUKQc7fl"
@@ -1258,7 +1280,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 192000,
       "name": "Da Capo",
       "url": "https://open.spotify.com/track/2KzIrtLLUc2pUqcwk2ToK9"
@@ -1671,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Every Day, All Day",
+        "url": "https://open.spotify.com/album/5HJBTrqXERDJd1oxFDjWCh"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Every Day, All Day",
+      "url": "https://open.spotify.com/track/2wsVy2erS1Ty2VLmmmf00E"
+    },
+    {
+      "album": {
         "name": "Express Yourself (Mochakk Remix)",
         "url": "https://open.spotify.com/album/370TQgbDVLx3vJSPvCNYaI"
       },
@@ -1822,6 +1862,28 @@
       "duration_ms": 239220,
       "name": "Fool For Love - Chris Lake Edit",
       "url": "https://open.spotify.com/track/6H8ddHe7Bpbiy5Gp7lVlBe"
+    },
+    {
+      "album": {
+        "name": "Work It EP (Remixes)",
+        "url": "https://open.spotify.com/album/6NfldAdCsAViqizMu2g4Qw"
+      },
+      "artists": [
+        {
+          "name": "AndThen",
+          "url": "https://open.spotify.com/artist/71450mikDBCODa5YmQhQSo"
+        },
+        {
+          "name": "Huxley",
+          "url": "https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158449,
+      "name": "For The Crowd - Huxley Remix",
+      "url": "https://open.spotify.com/track/3jau68bmHyxS4nfVhmDlIl"
     },
     {
       "album": {
@@ -2046,7 +2108,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 371250,
       "name": "Handy Work",
       "url": "https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8"
@@ -2159,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "I Don't Need That",
+        "url": "https://open.spotify.com/album/162TXv6fgowsryzr3Z7jxx"
+      },
+      "artists": [
+        {
+          "name": "Deltech",
+          "url": "https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378181,
+      "name": "I Don't Need That - Extended",
+      "url": "https://open.spotify.com/track/5plAjGL6Bqoy7toTT1qUtn"
+    },
+    {
+      "album": {
         "name": "I Go",
         "url": "https://open.spotify.com/album/4Ns2xRudhhH962Dqw5Yo7c"
       },
@@ -2174,6 +2254,28 @@
       "duration_ms": 347632,
       "name": "I Go",
       "url": "https://open.spotify.com/track/6R8o56bI74HOzZrcZ4LGPQ"
+    },
+    {
+      "album": {
+        "name": "I Got To Move",
+        "url": "https://open.spotify.com/album/6ni5No6JAyiCgLwWWrloeb"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "I Got To Move",
+      "url": "https://open.spotify.com/track/615byThVUrcnzb9trhe7yy"
     },
     {
       "album": {
@@ -2243,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/1eDkTJGusL0TYZEzxH4vbb"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165375,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/0DkWdu3IQVFzNxVqLC6iKC"
+    },
+    {
+      "album": {
         "name": "In The Streets",
         "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
       },
@@ -2298,7 +2418,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 209763,
       "name": "Inside My Mind",
       "url": "https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI"
@@ -2316,7 +2436,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 379500,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/6Q5XmBbXPszddE3emn6hUr"
@@ -3191,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "Pretty Girls Walk",
+        "url": "https://open.spotify.com/album/60R5lt4rYDmioRT2U01zDR"
+      },
+      "artists": [
+        {
+          "name": "Vandal On Da Track",
+          "url": "https://open.spotify.com/artist/6zb6xqgiBKpbHWU8Xje7CF"
+        },
+        {
+          "name": "Jen Payne",
+          "url": "https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "Pretty Girls Walk",
+      "url": "https://open.spotify.com/track/5y4xnd8kIGyyLxSPOAOjRb"
+    },
+    {
+      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -3611,6 +3753,28 @@
     },
     {
       "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/2cCyfh2RY9xz21ixS9icZn"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/277aQ7uvOPlWmULkOdufco"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/1JRNyf30WvfVCwnSzelIlt"
       },
@@ -3868,7 +4032,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 395640,
       "name": "Supersonic - Extended",
       "url": "https://open.spotify.com/track/7lLqJhSUebhBXkC0n16rQr"
@@ -4470,7 +4634,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 390476,
       "name": "We Will Forgive Ourselves - MK Dub",
       "url": "https://open.spotify.com/track/1iZtXObHD0IQjLF8iIto11"
@@ -4514,7 +4678,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 194968,
       "name": "What Do You Do? - MK Remix",
       "url": "https://open.spotify.com/track/3FnPwz4unwxcWVUNFsOZBI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,445 likes - 136 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,444 likes - 136 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 74 | [CAN'T DANCE](https://open.spotify.com/track/3CqT68zWwvcrY22UkhD67V) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [CAN'T DANCE](https://open.spotify.com/album/0IMfNMKJt1VbM8UQQ84zVy) | 3:00 |
 | 75 | [Forgive Me Father \(feat\. Meghan Trainor, Wiz Khalifa & Wale\)](https://open.spotify.com/track/2uWlfvIAzCtbpzGbXxkSJN) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Major Key](https://open.spotify.com/album/5qHyKDjwycRj1fJyPLt2HQ) | 4:06 |
 | 76 | [I Won't Let You Down](https://open.spotify.com/track/10hbX8aVyfZnTqEoJkGZmr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:20 |
-| 77 | [Friends](https://open.spotify.com/track/25NFp9ulrdE3oj8Y0r69NG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:30 |
-| 78 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 |
+| 77 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 |
+| 78 | [Friends](https://open.spotify.com/track/25NFp9ulrdE3oj8Y0r69NG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:30 |
 | 79 | [Underwater \(feat\. Dillon Francis\)](https://open.spotify.com/track/7uGQCsecZDhMCWBJmQvs1A) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 2:41 |
 | 80 | [Sickness](https://open.spotify.com/track/2SUSpC1KJad5v51mSmw1QS) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:31 |
 | 81 | [While You're Young](https://open.spotify.com/track/1O1OPyEfDvMZPoJ2EslO8e) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:30 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 135 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 136 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `AbTAogAAAADIexMR0zPJHrct7YognCHe`
+Snapshot ID: `AbTGfgAAAAAJd89e4fWyfPYacHaxzQeF`

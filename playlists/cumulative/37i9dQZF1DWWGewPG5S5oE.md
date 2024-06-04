@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-294 songs - 1 day 0 hr 2 min
+295 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Akatsuki](https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 4:28 | 2024-05-28 |  |
 | [All I Want](https://open.spotify.com/track/5dQBgiQpBL3OUog4yJiWnz) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [All I Want](https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY) | 4:54 | 2022-10-11 | 2022-11-16 |
 | [All The Things You Are](https://open.spotify.com/track/1HObIEY8XDGgNjSTGJxMV0) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [All The Things You Are](https://open.spotify.com/album/3XLtciMbAUrvX4EiFwcCe9) | 2:35 | 2022-10-04 | 2022-10-19 |
+| [All Too Soon](https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [All Too Soon](https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN) | 3:54 | 2024-05-28 |  |
 | [And we'll keep on going](https://open.spotify.com/track/0lGNdeRWLqaMgiaRgbRiKW) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [The Moon, Its Recollections Abstracted](https://open.spotify.com/album/0rqPzyBcDq8xO4UCn0gIw8) | 9:49 | 2022-10-18 | 2022-11-16 |
 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 | 2023-12-05 | 2024-02-11 |
 | [Back Street](https://open.spotify.com/track/4Oq8hpl6suohYPKLjFwzkd) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Unison](https://open.spotify.com/album/4Wz2lJawGFjMLwb9R0yWAE) | 8:21 | 2023-01-24 | 2023-02-17 |
@@ -117,7 +118,7 @@
 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 | 2022-09-06 | 2024-04-04 |
 | [Itoshi no Butterfly](https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Itoshi no Butterfly](https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN) | 5:24 | 2023-07-25 | 2023-08-07 |
 | [Itoshi no Butterfly](https://open.spotify.com/track/6TpQEldvEISv2ldHK93Nao) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [JiLL\-Decoy association 10 \-Double\-](https://open.spotify.com/album/1gyUhmViC36wfc04CICOb2) | 5:24 | 2023-08-01 | 2023-08-16 |
-| [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 | 2022-09-20 |  |
+| [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 | 2022-09-20 | 2024-06-04 |
 | [JAPAN THREE](https://open.spotify.com/track/23O1af2u7yEmUjlJRcGP8C) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [JAPAN THREE](https://open.spotify.com/album/4rWMwDiCeLEmohFIEoCfLE) | 2:26 | 2022-11-15 | 2022-11-17 |
 | [JAPAN THREE](https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [The Bottle](https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy) | 2:26 | 2022-11-15 |  |
 | [Kaleidoscope](https://open.spotify.com/track/4wtH5mVAQbjEyqL6enhjaq) | [吉野智子](https://open.spotify.com/artist/7wdSnrntWTYBi1vePAG0oh) | [Kaleidoscope](https://open.spotify.com/album/3xKn46XVCHugdlJmRlxVYS) | 6:38 | 2023-01-24 | 2023-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,480 likes - 151 songs - 6 hr 0 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,447 likes - 151 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

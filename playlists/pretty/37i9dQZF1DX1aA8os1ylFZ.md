@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,857 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,866 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 28 | [Murder In The Bed](https://open.spotify.com/track/7IP5bvMzmeXp7T1NG6gdBr) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Murder In The Bed](https://open.spotify.com/album/2QDJ3wDeaOtOB4nazB3I52) | 2:26 |
 | 29 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 2:42 |
 | 30 | [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 |
-| 31 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
-| 32 | [When You Bad Like That \(feat\. Future\)](https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 3:10 |
+| 31 | [When You Bad Like That \(feat\. Future\)](https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 3:10 |
+| 32 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
 | 33 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
-| 34 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
-| 35 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
+| 34 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
+| 35 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
 | 36 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
 | 37 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
 | 38 | [Heartless](https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,084 likes - 78 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,089 likes - 78 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 77 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 78 | [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 |
 
-Snapshot ID: `ZirSYAAAAACcrL/rNEUXMkeb7hgBZKao`
+Snapshot ID: `Zl484AAAAAD+ZLxmw0HAFq7YXdg0/Jyo`

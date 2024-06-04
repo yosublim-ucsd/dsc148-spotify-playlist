@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros\. The essential tracks, all in one playlist.
+> This is Aline Barros\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,236 likes - 51 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,262 likes - 51 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 14 | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW) | 7:07 |
 | 15 | [Ao Único](https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Poder do Teu Amor](https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL) | 4:10 |
 | 16 | [Bem Mais Que Tudo](https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:46 |
-| 17 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 |
-| 18 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
+| 17 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
+| 18 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 |
 | 19 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 |
 | 20 | [Deus do Impossível](https://open.spotify.com/track/3JAYiqcXj2jdN1yV3ge07T) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 3:29 |
 | 21 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 45 | [Sem Limites](https://open.spotify.com/track/4UJbcK8Zm2glSVpmFvt2a9) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 4:00 |
 | 46 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made In My Life\) \- Ao Vivo](https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:56 |
 | 47 | [Lugar Seguro](https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:10 |
-| 48 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
-| 49 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 |
+| 48 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 |
+| 49 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 50 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
 | 51 | [Samuel](https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:40 |
 
-Snapshot ID: `ZlpkgAAAAAA4GjScPqjdOSLWH6mN6+Us`
+Snapshot ID: `Zlu2AAAAAADtWZCpwIOQ3xzvKDpvHl4V`

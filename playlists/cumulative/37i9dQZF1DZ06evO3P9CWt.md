@@ -2,9 +2,9 @@
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This is Pabllo Vittar\. The essential tracks, all in one playlist.
+> This is Pabllo Vittar\. Todos os maiores hits em uma só playlist.
 
-75 songs - 3 hr 30 min
+76 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Derretida \- Brunoso Remix](https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:53 | 2023-10-10 |  |
 | [Descontrolada \- Cyberkills Remix](https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:07 | 2023-10-10 |  |
 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 | 2023-10-10 |  |
+| [Energia \- Parte 2](https://open.spotify.com/track/4LDOAbqOhaAcY5ccwfIlJL) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Energia \(Parte 2\)](https://open.spotify.com/album/1emXHaHaPlW2hTTuYbgFQ9) | 4:29 | 2024-06-04 |  |
 | [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 | 2023-10-10 | 2024-04-12 |
 | [Equalize](https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Equalize](https://open.spotify.com/album/7xW9I1m2LUQ6xFj8CxMNGf) | 3:38 | 2024-02-19 |  |
 | [Equalize](https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:38 | 2023-10-10 | 2024-02-20 |

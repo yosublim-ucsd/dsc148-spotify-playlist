@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ice Prince",
-  "num_followers": 49400,
+  "num_followers": 49426,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
+      },
+      "artists": [
+        {
+          "name": "Badsome",
+          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
+        }
+      ],
+      "duration_ms": 147183,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Egberi",
         "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
       },
@@ -1307,6 +1323,26 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Kpe Paso",
+        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Kpe Paso",
+      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Ebelebe",
         "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
       },
@@ -1327,26 +1363,6 @@
       "duration_ms": 172631,
       "name": "Ebelebe",
       "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Kpe Paso",
-        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Kpe Paso",
-      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1375,34 +1391,26 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
+        "name": "Breakfast in Lagos",
+        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
       "artists": [
         {
-          "name": "Badsome",
-          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
-        }
-      ],
-      "duration_ms": 147183,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "BOYAHNAH",
-        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
-      },
-      "artists": [
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
+        },
         {
-          "name": "Bahd Man Niko",
-          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
         }
       ],
-      "duration_ms": 124069,
-      "name": "P.P.P (Puff Puff Pass)",
-      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
+      "duration_ms": 141176,
+      "name": "Fire Wood",
+      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
     }
   ],
   "unique_name": "Naija Bars ",

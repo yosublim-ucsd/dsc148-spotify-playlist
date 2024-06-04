@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-255 songs - 13 hr 51 min
+256 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 | 2021-10-08 | 2023-11-11 |
 | [Copacabana](https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Copacabana](https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt) | 2:54 | 2021-10-08 | 2023-11-11 |
 | [Coquetilla](https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Coquetilla](https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc) | 2:09 | 2024-04-19 | 2024-05-22 |
-| [Corazon](https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Corazon](https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99) | 2:47 | 2024-03-15 |  |
+| [Corazon](https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Corazon](https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99) | 2:47 | 2024-03-15 | 2024-06-04 |
 | [Corazon](https://open.spotify.com/track/2tSmQJiBtXPN2Ourf9Q5mv) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Corazon](https://open.spotify.com/album/6g3AEpunohq2j4CNSyCYqS) | 2:18 | 2024-04-05 |  |
 | [Corazón Partió \(feat\. Dateless\)](https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP) | [Franklyn Watts](https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn), [Dateless](https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty) | [Corazón Partió \(feat\. Dateless\)](https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5) | 6:10 | 2024-02-02 | 2024-02-22 |
 | [Cuarto Oscuro \(feat\. Pacho Carnaval\)](https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB) | [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp), [Renate](https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Pacho Carnaval](https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2) | [Cuarto Oscuro / BAQ Spicy](https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r) | 3:56 | 2024-02-09 |  |
@@ -112,6 +112,7 @@
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2023-12-15 |  |
 | [Frikitona \- Odd Mob Remix](https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Frikitona \(Odd Mob Remix\)](https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk) | 3:11 | 2024-03-29 | 2024-04-27 |
 | [Frisky In Fortaleza](https://open.spotify.com/track/6ImDe3MEJdeLRgw4hwqwYh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Frisky In Fortaleza EP](https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof) | 3:37 | 2021-10-08 | 2022-07-29 |
+| [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 | 2024-05-31 |  |
 | [Fuego](https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Fuego](https://open.spotify.com/album/4PszKzAqcqcRyZkwIDtCJP) | 2:37 | 2024-01-05 | 2024-03-04 |
 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 |  |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-12-01 | 2023-12-14 |

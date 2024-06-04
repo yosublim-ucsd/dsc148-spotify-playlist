@@ -2,9 +2,9 @@
 
 ### [This Is Grupo Los de la O](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GFndC)
 
-> This is Grupo Los de la O\. The essential tracks, all in one playlist.
+> This Is Grupo Los de la O\. Los temas esenciales, todos en una lista.
 
-55 songs - 2 hr 47 min
+56 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [El Tirabalas](https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Tirabalas](https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt) | 2:46 | 2024-01-29 |  |
 | [En la Ciudad](https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [En la Ciudad](https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd) | 3:06 | 2024-01-29 |  |
 | [En las Calles Aprendi \- En Vivo](https://open.spotify.com/track/05qxEdJG2iRHDP20f4pMpc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:05 | 2024-01-29 |  |
-| [Entre Las Balas](https://open.spotify.com/track/5QeHachXsc77E7HZspJp3t) | [Elias Valenzuela](https://open.spotify.com/artist/0Oo8g934qrJAJb9eig3dbN), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Entre las Balas](https://open.spotify.com/album/5ZMOBcadEpMUZLbEninuVZ) | 2:35 | 2024-01-29 |  |
+| [Entre Las Balas](https://open.spotify.com/track/5QeHachXsc77E7HZspJp3t) | [Elias Valenzuela](https://open.spotify.com/artist/0Oo8g934qrJAJb9eig3dbN), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Entre las Balas](https://open.spotify.com/album/5ZMOBcadEpMUZLbEninuVZ) | 2:35 | 2024-01-29 | 2024-06-04 |
 | [French Inhale](https://open.spotify.com/track/4fMuM5gdpDeXmd7oDPqPct) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:57 | 2024-01-29 |  |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2024-01-29 |  |
 | [Fuga Pa' Cali \- En Vivo](https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:23 | 2024-01-29 |  |
@@ -49,6 +49,7 @@
 | [Miran Mi Brillo](https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Kilos De Oro](https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY) | 3:40 | 2024-01-29 |  |
 | [Nivel 6](https://open.spotify.com/track/4IT93xOoYImvzF5k4wDRJU) | [Hybert Daniel](https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Nivel 6](https://open.spotify.com/album/2SkfwiVgHZmE4s0iA0YQp6) | 2:23 | 2024-01-29 | 2024-06-02 |
 | [Noruega](https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Noruega](https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC) | 2:35 | 2024-01-29 |  |
+| [Por Extrañarte](https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:45 | 2024-06-04 |  |
 | [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 | 2024-01-29 |  |
 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 | 2024-01-29 |  |
 | [Puro Gas](https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 3:32 | 2024-01-29 |  |
@@ -61,7 +62,7 @@
 | [Tras las Rejas](https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 3:14 | 2024-01-29 |  |
 | [TRX](https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 | 2024-01-29 |  |
 | [Veneno](https://open.spotify.com/track/4FMtsxQY2DZr9vaLiJL84h) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:32 | 2024-01-29 |  |
-| [Ya No Siento Nada](https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:59 | 2024-06-02 | 2024-06-03 |
-| [Yo Fui el R5](https://open.spotify.com/track/6kOxnJK91x47sQhZik7twr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Yo Fui el R5](https://open.spotify.com/album/1amLh6bTYCDl0eVMO4buDh) | 2:38 | 2024-01-29 |  |
+| [Ya No Siento Nada](https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:59 | 2024-06-02 |  |
+| [Yo Fui el R5](https://open.spotify.com/track/6kOxnJK91x47sQhZik7twr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Yo Fui el R5](https://open.spotify.com/album/1amLh6bTYCDl0eVMO4buDh) | 2:38 | 2024-01-29 | 2024-06-04 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This Is Mc Dricka. Los temas esenciales, todos en una lista.",
+  "description": "This is Mc Dricka. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Mc Dricka",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 189152,
       "name": "Bh no Topo 2",
       "url": "https://open.spotify.com/track/5I81jhsQaycXS0qS8bvLHc"
@@ -2218,6 +2218,36 @@
       "duration_ms": 133100,
       "name": "Vuco Vuco",
       "url": "https://open.spotify.com/track/66GXPHdBsFaBpUv6qCsumj"
+    },
+    {
+      "album": {
+        "name": "\u00c9 S\u00f3 Pirocad\u00e3o (Brega Funk Remix)",
+        "url": "https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02"
+      },
+      "artists": [
+        {
+          "name": "O Brutto",
+          "url": "https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV"
+        },
+        {
+          "name": "Tinho do Coque",
+          "url": "https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt"
+        },
+        {
+          "name": "Pop Na Batida",
+          "url": "https://open.spotify.com/artist/7lu87j6js86vL5rp9qczz0"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "\u00c9 S\u00f3 Pirocad\u00e3o - Brega Funk Remix",
+      "url": "https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2"

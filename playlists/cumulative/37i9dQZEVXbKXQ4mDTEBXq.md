@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-440 songs - 1 day 3 hr 27 min
+441 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Renegades](https://open.spotify.com/track/29VVYrV5TVpGu0IfoTXlcw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Renegades](https://open.spotify.com/album/2YXEcU1J4p8HyIVatFFmng) | 4:04 | 2021-04-18 | 2021-05-03 |
 | [Renegades](https://open.spotify.com/track/3RpFwqdROrxJvHywpT1pJ4) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Renegades](https://open.spotify.com/album/0uNPIYCX5XTqLPinM9hVE2) | 4:04 | 2021-05-03 | 2021-07-28 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-12-25 | 2022-12-27 |
+| [Romantic](https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Romantic](https://open.spotify.com/album/5W8LmYnKgTQCTpRbR4cP3G) | 4:10 | 2024-06-03 |  |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-27 |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-06 | 2023-07-16 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-25 | 2023-12-30 |
@@ -376,7 +377,7 @@
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-10 | 2022-08-12 |
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-28 | 2023-05-19 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2021-03-27\* | 2021-12-01 |
-| [春愁](https://open.spotify.com/track/0OeTb9sIQTNq313HQHv9TM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Inferno & More Hits](https://open.spotify.com/album/6S3xkUk67SSNzWhGDoKyt5) | 3:03 | 2024-02-04 |  |
+| [春愁](https://open.spotify.com/track/0OeTb9sIQTNq313HQHv9TM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Inferno & More Hits](https://open.spotify.com/album/6S3xkUk67SSNzWhGDoKyt5) | 3:03 | 2024-02-04 | 2024-06-04 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-10-17 |  |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-10 |  |
 | [最高到達点](https://open.spotify.com/track/2LGHS7ojlzMd2xkLrB7eTr) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 3:46 | 2024-03-14 | 2024-04-06 |

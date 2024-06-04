@@ -2,7 +2,7 @@
 
 ### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This is Phil Wickham\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Phil Wickham\. The essential tracks, all in one playlist.
 
 51 songs - 4 hr 0 min
 

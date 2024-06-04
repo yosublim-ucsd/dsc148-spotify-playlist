@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 172941,
       "name": "Bez analog",
       "url": "https://open.spotify.com/track/5W05s0oXCKX7rb5zXiwd0U"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 213768,
       "name": "Famax - Edit",
       "url": "https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
@@ -3475,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Losha",
+        "url": "https://open.spotify.com/album/0K4vDNBQ6yIs06UuOk3sWt"
+      },
+      "artists": [
+        {
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218468,
+      "name": "Losha",
+      "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
+    },
+    {
+      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -4536,7 +4554,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 164074,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/7BhTnzUbMCh4G7El1RlxuD"
@@ -4554,7 +4572,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 152500,
       "name": "Ome Robert",
       "url": "https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI"
@@ -8134,7 +8152,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 221958,
       "name": "\u041b\u043e\u0448\u0438 \u0441\u043c\u0435",
       "url": "https://open.spotify.com/track/03ZMkD8QaFn8JvGluGZxmJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: \(đố biết bé nào\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,858 likes - 99 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,862 likes - 99 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

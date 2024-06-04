@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,061 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,062 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 37 | [Hey Cowgirl](https://open.spotify.com/track/2P7FJqlrDyV1lSd1MwL26c) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hey Cowgirl](https://open.spotify.com/album/79hKJQh5ggKdLlGBIV43bD) | 3:20 |
 | 38 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
 | 39 | [Best Years of My Life](https://open.spotify.com/track/6mTSw3gE4k9U7CK8pzX9c0) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:42 |
-| 40 | [Rollin' On](https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Rollin' On](https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5) | 4:09 |
-| 41 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
+| 40 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
+| 41 | [Rollin' On](https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Rollin' On](https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5) | 4:09 |
 | 42 | [Time to Move On](https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Asunder](https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8) | 3:49 |
 | 43 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 |
 | 44 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 |

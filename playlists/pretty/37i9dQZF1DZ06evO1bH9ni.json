@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Dos Carnales. Los temas esenciales, todos en una lista.",
-  "num_followers": 321344,
+  "num_followers": 321403,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAB9KvNSjif73Opsfsi3kW7B",
+  "snapshot_id": "Zlu2AAAAAADA2oK8/Pd0m6xlhSo3XtrQ",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Parca",
         "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 146233,
       "name": "No Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Dos Carnales Con Sax",
-        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 227554,
-      "name": "El Estr\u00e9s",
-      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+        "name": "Los Dos Carnales Con Sax",
+        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+      "duration_ms": 227554,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 165701,
       "name": "Lo Que Aprend\u00ed",
       "url": "https://open.spotify.com/track/5gIrCawFmzM39O3D8l8EN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175778,
-      "name": "Cuadra los Parientes - En Vivo",
-      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6 Tragos",
         "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 153000,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175778,
+      "name": "Cuadra los Parientes - En Vivo",
+      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 177437,
-      "name": "El Ranchero - En Vivo",
-      "url": "https://open.spotify.com/track/3GRAmRiwbmyTYhzzBtUTuU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los de 100pre",
         "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 152751,
       "name": "100pre",
       "url": "https://open.spotify.com/track/2BM8X3VWHBvPJW0f3FiU77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 177437,
+      "name": "El Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/3GRAmRiwbmyTYhzzBtUTuU"
     },
     {
       "added_at": null,

@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 118453,
       "name": "1 2 3",
       "url": "https://open.spotify.com/track/62UBKdRBsHmvGxH1nrLMai"
@@ -10212,6 +10212,28 @@
       "duration_ms": 140050,
       "name": "Senza Emotions (feat. ANNA)",
       "url": "https://open.spotify.com/track/71LQrUFG59w2vjhYe8Epue"
+    },
+    {
+      "album": {
+        "name": "SESSO E SAMBA (feat. Gaia)",
+        "url": "https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167263,
+      "name": "SESSO E SAMBA (feat. Gaia)",
+      "url": "https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl"
     },
     {
       "album": {

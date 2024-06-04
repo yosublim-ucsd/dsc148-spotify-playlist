@@ -1,18 +1,18 @@
 {
-  "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 26705,
+  "description": "This is Howlin' Wolf. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 26710,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAA9sTG0ybybHkt1eYyPWB6B",
+  "snapshot_id": "Zlu2AAAAAAB46IK3xfJlzkpYMPRAMvgg",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
+      "duration_ms": 188400,
+      "name": "Smokestack Lightnin'",
+      "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 165906,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
+      "duration_ms": 155360,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+      "duration_ms": 176573,
+      "name": "Moanin' At Midnight",
+      "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Evil (Is Going On)",
-      "url": "https://open.spotify.com/track/7LdbDjg6esKNAsnFElpFnB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The London Howlin' Wolf Sessions (Reissue)",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 140760,
       "name": "Hidden Charms - Single Version",
       "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Shake For Me",
+      "url": "https://open.spotify.com/track/5kj3Q1fVwgb2f8SxFT6bD5"
     },
     {
       "added_at": null,
@@ -391,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
       "artists": [
         {
@@ -400,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 146173,
-      "name": "Who's Been Talking?",
-      "url": "https://open.spotify.com/track/7aHS9MdIBgmkedKRFhjFEK"
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
     },
     {
       "added_at": null,
@@ -423,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
@@ -432,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Commit A Crime",
-      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
+      "duration_ms": 175466,
+      "name": "Baby How Long",
+      "url": "https://open.spotify.com/track/7qAUeIKdz6LEdP6K8y2GLo"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Tail Dragger",
-      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
+      "duration_ms": 187533,
+      "name": "Commit A Crime",
+      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
     },
     {
       "added_at": null,
@@ -547,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
         {
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 165066,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/26y1snNNNSWwGHEL5VwGz3"
+      "duration_ms": 175160,
+      "name": "Stop Using Me",
+      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
     },
     {
       "added_at": null,
@@ -595,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
       },
       "artists": [
         {
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 175160,
-      "name": "Stop Using Me",
-      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
+      "duration_ms": 161760,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
     },
     {
       "added_at": null,
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message To The Young",
-        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 161760,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
     },
     {
       "added_at": null,
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 293066,
-      "name": "You Turn Slick On Me",
-      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
+      "duration_ms": 162093,
+      "name": "I Better Go Now - Single Version",
+      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
     },
     {
       "added_at": null,
@@ -704,15 +720,15 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 191194,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
+      "duration_ms": 175663,
+      "name": "Wolf Is At Your Door",
+      "url": "https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
     },
     {
       "added_at": null,
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Can't Stay Here",
-      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 175663,
-      "name": "Wolf Is At Your Door",
-      "url": "https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS"
+      "duration_ms": 191194,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,
@@ -847,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
@@ -859,6 +891,22 @@
       "duration_ms": 191600,
       "name": "Watergate Blues",
       "url": "https://open.spotify.com/track/4bay5Gdr7Km8dzpchkUCWo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "My Life - Single Version",
+      "url": "https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA"
     },
     {
       "added_at": null,
@@ -879,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
       },
       "artists": [
         {
@@ -888,9 +936,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Come To Me Baby - Single Version",
-      "url": "https://open.spotify.com/track/4vYEG8wSAsl5y5kLSuPuR5"
+      "duration_ms": 158866,
+      "name": "Howlin' Wolf Boogie - Single Version",
+      "url": "https://open.spotify.com/track/2tQIv1nBXJChbiyA95NShQ"
     },
     {
       "added_at": null,
@@ -911,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf Greatest Songs",
-        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
       },
       "artists": [
         {
@@ -920,25 +968,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 179148,
-      "name": "All In The Mood (Everybody's In The Mood)",
-      "url": "https://open.spotify.com/track/7bwTE6zcxNSNPTcNgrv0tR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/5MGDtPCUw8uJW8Fxd7aVl0"
+      "duration_ms": 146400,
+      "name": "Come To Me Baby - Single Version",
+      "url": "https://open.spotify.com/track/4vYEG8wSAsl5y5kLSuPuR5"
     }
   ],
   "unique_name": "This Is Howlin' Wolf",

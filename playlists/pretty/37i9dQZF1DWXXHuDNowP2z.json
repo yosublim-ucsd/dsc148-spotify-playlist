@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 232435,
+  "num_followers": 232478,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 179506,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Cumbia Con Clase",
-        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tecno De Beto Y Juan",
-          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 155908,
       "name": "Que la Dejen Ir al Baile Sola",
       "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
         "name": "La Cumbia De La Baliniza",
         "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 167235,
       "name": "La Cumbia De La Baliniza",
       "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 169471,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 182218,
-      "name": "Batelo Morena",
-      "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
         "name": "Mas Control",
         "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 194986,
       "name": "Cumbia Morena",
       "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 182218,
+      "name": "Batelo Morena",
+      "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Con Sangre Ranchera",
-        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 136752,
-      "name": "A Qui\u00e9n No Le Gusta Eso",
-      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
         "name": "En Vivo...El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Tan Bonita",
-        "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
+        "name": "Con Sangre Ranchera",
+        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 193440,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
+      "duration_ms": 136752,
+      "name": "A Qui\u00e9n No Le Gusta Eso",
+      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
       },
       "artists": [
         {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 208875,
-      "name": "La Mujer del Pelotero",
-      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
+      "duration_ms": 193440,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 211626,
       "name": "El Rezado",
       "url": "https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "La Mujer del Pelotero",
+      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Solo Un Dia\u2026",
-        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
-      },
-      "artists": [
-        {
-          "name": "Adan Romero",
-          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "La Cara Sucia",
-      "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
         "name": "Canto De Un \u00c1ngel",
         "url": "https://open.spotify.com/album/5N9sWdRqI0IMXKHt5KfaB0"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 223026,
       "name": "Canto De Un \u00c1ngel",
       "url": "https://open.spotify.com/track/6ArNLEMZUN1mVmWr3jsoXT"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
+        "name": "Solo Un Dia\u2026",
+        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
+      },
+      "artists": [
+        {
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "La Cara Sucia",
+      "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Cumbia Del Clavi",
-        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
-      },
-      "artists": [
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        },
-        {
-          "name": "El Clavijas",
-          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
-        }
-      ],
-      "duration_ms": 169738,
-      "name": "Cumbia Del Clavi",
-      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
         "name": "Comenzando Nuestra Historia",
         "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
       },
@@ -1619,22 +1599,6 @@
       "duration_ms": 208378,
       "name": "El Mariachi",
       "url": "https://open.spotify.com/track/3WQC9J9dG9gljMpKXacCLL"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
-        "name": "El Aferrafter",
-        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 205647,
-      "name": "El Aferrafter",
-      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1655,6 +1619,26 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
+        "name": "Cumbia Del Clavi",
+        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "El Clavijas",
+          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
+        }
+      ],
+      "duration_ms": 169738,
+      "name": "Cumbia Del Clavi",
+      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
         "name": "En Mi Defensa",
         "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 186500,
       "name": "En Mi Defensa",
       "url": "https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
+        "name": "El Aferrafter",
+        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 205647,
+      "name": "El Aferrafter",
+      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 230471,
+      "name": "La Cuichi",
+      "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
-      },
-      "artists": [
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 230471,
-      "name": "La Cuichi",
-      "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
+        "name": "Los Cacahuatazos",
+        "url": "https://open.spotify.com/album/3kdv2NDNPtHRmGvzFxnAB2"
       },
       "artists": [
         {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
         }
       ],
-      "duration_ms": 199880,
-      "name": "Zapateado Encabronado #2",
-      "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
+      "duration_ms": 165194,
+      "name": "Los Cacahuatazos",
+      "url": "https://open.spotify.com/track/5uGTO3PtMdZPsLw6xqTjoc"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Los Cacahuatazos",
-        "url": "https://open.spotify.com/album/3kdv2NDNPtHRmGvzFxnAB2"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
       },
       "artists": [
         {
-          "name": "La Autorizaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
         }
       ],
-      "duration_ms": 165194,
-      "name": "Los Cacahuatazos",
-      "url": "https://open.spotify.com/track/5uGTO3PtMdZPsLw6xqTjoc"
+      "duration_ms": 199880,
+      "name": "Zapateado Encabronado #2",
+      "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252883,
+      "name": "Te vez Buena",
+      "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
       },
@@ -2123,18 +2139,18 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 252883,
-      "name": "Te vez Buena",
-      "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
+      "duration_ms": 180337,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -2167,22 +2183,6 @@
       "duration_ms": 260702,
       "name": "La Picare",
       "url": "https://open.spotify.com/track/3ymkBiqugciORjivytO221"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 180337,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
     },
     {
       "added_at": "2024-05-24 18:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {
-        "name": "Acuerdate De Mi",
-        "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 185388,
-      "name": "Ya No Me Mires Asi",
-      "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
-    },
-    {
-      "added_at": "2024-05-24 18:00:00",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
+    },
+    {
+      "added_at": "2024-05-24 18:00:00",
+      "album": {
+        "name": "Acuerdate De Mi",
+        "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 185388,
+      "name": "Ya No Me Mires Asi",
+      "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
     },
     {
       "added_at": "2024-05-24 18:00:00",

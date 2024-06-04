@@ -4,7 +4,7 @@
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-127 songs - 6 hr 49 min
+128 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [seu carinho](https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [seu carinho](https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh) | 2:39 | 2024-02-16 | 2024-02-25 |
 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 | 2024-02-09 | 2024-04-28 |
 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 | 2024-01-31 | 2024-04-06 |
-| [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 | 2024-05-31 |  |
+| [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 | 2024-05-31 | 2024-06-04 |
 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 | 2024-01-12 | 2024-03-06 |
 | [Terapia \- Remix](https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Terapia \(Remix\)](https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz) | 3:18 | 2024-05-31 |  |
 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-18 | 2024-01-23 |
@@ -129,6 +129,7 @@
 | [Una Vida Pasada](https://open.spotify.com/track/4i2Uelkm3Fy2CSE63s4hSz) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [dos](https://open.spotify.com/album/7A8rw0lgipeVikEBtqNAgt) | 3:38 | 2024-04-05 | 2024-06-01 |
 | [Vas a Destrozarme \- Versión Eden Muñoz](https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vas a Destrozarme \(Versión Eden Muñoz\)](https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo) | 2:57 | 2024-01-12 | 2024-02-17 |
 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 | 2024-02-09 | 2024-03-23 |
+| [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 | 2024-06-03 |  |
 | [WYA REMIX RED](https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [WYA REMIX RED](https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN) | 5:21 | 2024-05-31 |  |
 | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4) | 3:00 | 2024-05-31 | 2024-06-02 |
 | [Ya Te Superé](https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya Te Superé](https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq) | 3:46 | 2024-05-31 |  |

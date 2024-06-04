@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 497592,
+  "num_followers": 497763,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Don't Wait Too Long",
-      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Half The Perfect World",
         "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 244123,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "On The Moon",
-        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Some Kind Of Wonderful",
-      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 150813,
       "name": "Jimmy Jazz",
       "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "On The Moon",
+        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Some Kind Of Wonderful",
+      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
+        "name": "Reawakened",
+        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
+      "duration_ms": 212323,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Reawakened",
-        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
       },
       "artists": [
         {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 212323,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
+      "duration_ms": 178440,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "The Boy Next Door (Special Edition)",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "What The World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -907,38 +923,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "The Boy Next Door (Special Edition)",
-        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "What The World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 257019,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Creole Love Call",
         "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 240666,
       "name": "One Day I Fly Away",
       "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 257019,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 221832,
       "name": "I've Drawn Your Face",
       "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Boy Boredom",
-        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
-      },
-      "artists": [
-        {
-          "name": "Cosma Joy",
-          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Nice Girls Don't Stay for Breakfast",
         "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 217507,
       "name": "Nice Girls Don't Stay for Breakfast",
       "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
+      },
+      "artists": [
+        {
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
     },
     {
       "added_at": "2024-04-12 13:06:45",

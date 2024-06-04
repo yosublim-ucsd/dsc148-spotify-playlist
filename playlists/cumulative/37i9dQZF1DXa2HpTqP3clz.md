@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-567 songs - 1 day 9 hr 44 min
+568 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-08-11 | 2023-02-04 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2022-08-18 |
 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 | 2023-02-03 | 2023-06-24 |
+| [Dovetail Cabin](https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Dovetail Cabin](https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u) | 2:52 | 2024-05-10 |  |
 | [Down the Road](https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Down the Road](https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8) | 3:15 | 2023-03-17 |  |
 | [Drivin' Nails In My Coffin \- Simply Bluegrass](https://open.spotify.com/track/0Wy7fpZxbslkaINmte0Rpc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Drivin' Nails In My Coffin \(Simply Bluegrass\)](https://open.spotify.com/album/67ILLZHENVDtXDVOz28dAa) | 3:10 | 2021-12-17 | 2022-06-13 |
 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 | 2023-06-23 | 2024-04-19 |
@@ -155,7 +156,7 @@
 | [Fare Thee Well](https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L) | [Lindley Creek](https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB) | [Fare Thee Well](https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya) | 3:06 | 2023-02-17 | 2024-01-27 |
 | [Fast As I Can Crawl](https://open.spotify.com/track/7xdI28KUdEk8pjEpPqowBf) | [Sideline](https://open.spotify.com/artist/3A5JW6yJ1Qh1pwGcTIlImf) | [Fast As I Can Crawl](https://open.spotify.com/album/2yepfHrcNYPGvidbI4Bqrw) | 2:30 | 2022-01-07 | 2022-07-20 |
 | [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 | 2022-01-21 | 2022-06-21 |
-| [Finnland](https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH) | [Daniel Grindstaff](https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln) | [Finnland](https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8) | 2:45 | 2024-04-06 |  |
+| [Finnland](https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH) | [Daniel Grindstaff](https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln) | [Finnland](https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8) | 2:45 | 2024-04-06 | 2024-06-04 |
 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 | 2023-04-28 |  |
 | [Fire Song](https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY) | [Jessica Willis Fisher](https://open.spotify.com/artist/0EpJnzbypW1sjzPQF8rCa2) | [Brand New Day](https://open.spotify.com/album/0nOo0LwXS3wb3Mkj0bOhyB) | 3:24 | 2022-04-15 |  |
 | [Firebound Road](https://open.spotify.com/track/1IZKl9DScdfu56ssIfg87r) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Firebound Road](https://open.spotify.com/album/1z3HBD32gxoPdnRUFP0HXR) | 3:35 | 2022-08-26 | 2022-10-15 |

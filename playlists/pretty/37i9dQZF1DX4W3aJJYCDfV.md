@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Becky Hill \(pictured\), Disclosure, Leigh\-Anne and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,704 likes - 116 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,781 likes - 116 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 47 | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo\)](https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [Silas Africa](https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP), [Al xapo](https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY) | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo\)](https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg) | 7:23 |
 | 48 | [one more time](https://open.spotify.com/track/4hz5KB4ayiYYjSZGtguEfx) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [Milkz0121](https://open.spotify.com/artist/6fgy4cEo36ve9kA1L2aOPN) | [one more time](https://open.spotify.com/album/6EMbSN94bAyHvF3ReDpPA4) | 3:08 |
 | 49 | [Ransom](https://open.spotify.com/track/6L6o5sNCZ9bUOphwhoFd2G) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [Ransom](https://open.spotify.com/album/1qVmKgQmXuCbGhhI0aQ9Np) | 3:17 |
-| 50 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
+| 50 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
 | 51 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
 | 52 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 |
 | 53 | [TEMPORARY FRIENDS](https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [TEMPORARY FRIENDS](https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 546091,
+  "num_followers": 546165,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Practice What You Preach",
-        "url": "https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 297293,
-      "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Enter The Grave",
         "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 189360,
       "name": "Thrasher",
       "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Practice What You Preach",
+        "url": "https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 297293,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Evil Divide",
-        "url": "https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW"
-      },
-      "artists": [
-        {
-          "name": "Death Angel",
-          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
-        }
-      ],
-      "duration_ms": 278381,
-      "name": "The Moth",
-      "url": "https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Untouchable Glory",
         "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166929,
       "name": "Ninja Untouchables/Untouchable Glory",
       "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Evil Divide",
+        "url": "https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW"
+      },
+      "artists": [
+        {
+          "name": "Death Angel",
+          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+        }
+      ],
+      "duration_ms": 278381,
+      "name": "The Moth",
+      "url": "https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "The Man That Never Was",
+        "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "The Man That Never Was",
+      "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Speed Between the Lines",
         "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Man That Never Was",
-        "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
+        "name": "Thrash Zone",
+        "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
       },
       "artists": [
         {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+          "name": "D.R.I.",
+          "url": "https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv"
         }
       ],
-      "duration_ms": 203000,
-      "name": "The Man That Never Was",
-      "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
+      "duration_ms": 336200,
+      "name": "Beneath The Wheel",
+      "url": "https://open.spotify.com/track/3JqTeGdODAcf9mWM9mKJOO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -891,22 +907,6 @@
       "duration_ms": 291960,
       "name": "Cult",
       "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Thrash Zone",
-        "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
-      },
-      "artists": [
-        {
-          "name": "D.R.I.",
-          "url": "https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv"
-        }
-      ],
-      "duration_ms": 336200,
-      "name": "Beneath The Wheel",
-      "url": "https://open.spotify.com/track/3JqTeGdODAcf9mWM9mKJOO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Myrsky",
-        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
-      },
-      "artists": [
-        {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
-        }
-      ],
-      "duration_ms": 210691,
-      "name": "Ympyr\u00e4 sulkeutuu",
-      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Empire of the Blind",
         "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 351613,
       "name": "Empire of the Blind",
       "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Myrsky",
+        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
+      },
+      "artists": [
+        {
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+        }
+      ],
+      "duration_ms": 210691,
+      "name": "Ympyr\u00e4 sulkeutuu",
+      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Cabaret De La Guillotine",
-        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
-      },
-      "artists": [
-        {
-          "name": "Angelus Apatrida",
-          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Sharpen the Guillotine",
-      "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Annihilation Principle",
         "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 230720,
       "name": "Fire in the Hole",
       "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Cabaret De La Guillotine",
+        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
+      },
+      "artists": [
+        {
+          "name": "Angelus Apatrida",
+          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Sharpen the Guillotine",
+      "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Darkness Descends",
+        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
+      },
+      "artists": [
+        {
+          "name": "Dark Angel",
+          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Merciless Death",
+      "url": "https://open.spotify.com/track/7bQqbbtZkaeCj4U14mYPR3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Power And Pain",
         "url": "https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Darkness Descends",
-        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
       },
       "artists": [
         {
-          "name": "Dark Angel",
-          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
+          "name": "Nuclear Assault",
+          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Merciless Death",
-      "url": "https://open.spotify.com/track/7bQqbbtZkaeCj4U14mYPR3"
+      "duration_ms": 202146,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 218406,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Assault",
-          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Sever The Tongue",
-        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
+        "name": "Infernal Overkill",
+        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
       },
       "artists": [
         {
-          "name": "Deicide",
-          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
         }
       ],
-      "duration_ms": 204622,
-      "name": "Sever The Tongue",
-      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
+      "duration_ms": 276106,
+      "name": "Bestial Invasion",
+      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Infernal Overkill",
-        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
+        "name": "Sever The Tongue",
+        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
       },
       "artists": [
         {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+          "name": "Deicide",
+          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
         }
       ],
-      "duration_ms": 276106,
-      "name": "Bestial Invasion",
-      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
+      "duration_ms": 204622,
+      "name": "Sever The Tongue",
+      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Aita",
-        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        }
-      ],
-      "duration_ms": 227204,
-      "name": "Aita",
-      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Seeking Vengeance",
         "url": "https://open.spotify.com/album/3aa6ckgxUKPXOyf1u4WlJM"
       },
@@ -1923,42 +1907,34 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
-        "url": "https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI"
+        "name": "Aita",
+        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
       },
       "artists": [
         {
-          "name": "Ultra-Violence",
-          "url": "https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO"
-        },
-        {
-          "name": "David Sanchez",
-          "url": "https://open.spotify.com/artist/07cz6I9ahKtbzJaehkJk7E"
-        },
-        {
-          "name": "Guillermo Izquierdo",
-          "url": "https://open.spotify.com/artist/49bTia5VLmmlRthpgzLgkV"
-        },
-        {
-          "name": "Juli Bazooka",
-          "url": "https://open.spotify.com/artist/5IecwP2g6giRRuQ2KpwlPO"
-        },
-        {
-          "name": "Lenny Bruce",
-          "url": "https://open.spotify.com/artist/6aFRZPVhksTpz1GonWgEJ5"
-        },
-        {
-          "name": "Andrew Hudson",
-          "url": "https://open.spotify.com/artist/1t3KT49CcGYnU7DSxP4yON"
-        },
-        {
-          "name": "Spyros Lafias",
-          "url": "https://open.spotify.com/artist/34QHZfCmbQsR7LuxOy4tOr"
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
         }
       ],
-      "duration_ms": 229580,
-      "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
-      "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
+      "duration_ms": 227204,
+      "name": "Aita",
+      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "World Circus",
+        "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
+      },
+      "artists": [
+        {
+          "name": "Toxik",
+          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
     }
   ],
   "unique_name": "Thrashers",

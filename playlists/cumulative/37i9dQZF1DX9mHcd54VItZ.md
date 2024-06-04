@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG">Vancoet</a>
 
-472 songs - 1 day 4 hr 10 min
+473 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Invisible Walls](https://open.spotify.com/track/1eQRPJcdoX8D4nbnxPlJX1) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Invisible Walls](https://open.spotify.com/album/74hEUTUDoPPxa5HP2DcTT7) | 3:23 | 2023-10-12 | 2024-01-27 |
 | [ISO](https://open.spotify.com/track/2crUqw80TRpgHwQ3XrxcyH) | [TRIIIP](https://open.spotify.com/artist/2GGLj4Ng4Yawj7oj18QCzA) | [ISO](https://open.spotify.com/album/25EOl6GdkEV6xilN5S7ghr) | 3:45 | 2023-12-08 | 2024-01-05 |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
+| [Jonk & Danig](https://open.spotify.com/track/1rsjh2em6b9KD4wgJV2sTw) | [Vivien Redelinghuys](https://open.spotify.com/artist/2rd9K2tLcdJwW0Ub1UEiES) | [Jonk & Danig](https://open.spotify.com/album/74SaMFCbSWIPm3Y5CIOUAp) | 3:17 | 2024-05-31 |  |
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 | 2024-01-04 |  |
@@ -467,7 +468,7 @@
 | [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2023-02-20 | 2023-02-22 |
 | [When I'm with You](https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO) | [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [When I'm with You](https://open.spotify.com/album/6nY5M5Y1lxoxXqhM0lsuzL) | 2:52 | 2022-05-26 | 2023-02-03 |
 | [When You Say](https://open.spotify.com/track/5zPZTwAsUftw5Nqr47aCBE) | [King Kind](https://open.spotify.com/artist/0XWdYb3jMiE1h2V2NOudN1) | [When You Say](https://open.spotify.com/album/2Z9HE6WmXtgjKUbBRpD7F7) | 3:58 | 2023-07-28 | 2023-09-29 |
-| [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 | 2024-01-04 |  |
+| [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 | 2024-01-04 | 2024-06-04 |
 | [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 | 2024-03-22 | 2024-05-04 |
 | [Wild Mustang](https://open.spotify.com/track/1KeN5WSXeeoNER25AtcPIJ) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/0Smguaef5yox1jDwclt0Ev) | 3:51 | 2024-02-29 | 2024-03-02 |
 | [Wild Mustang](https://open.spotify.com/track/1QeiZfDoJX2lJWekBn7vBC) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/5qP7C6lrc7Ojt70NEWTBSg) | 3:51 | 2024-02-29 | 2024-03-23 |

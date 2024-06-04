@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Ayra Starr",
-  "num_followers": 932420,
+  "num_followers": 932696,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "she's so cool",
-        "url": "https://open.spotify.com/album/6nODLxFnID6dwFspd4mpgN"
-      },
-      "artists": [
-        {
-          "name": "Esther Graf",
-          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
-        }
-      ],
-      "duration_ms": 156044,
-      "name": "she's so cool",
-      "url": "https://open.spotify.com/track/6ZfAbCwtXiZekia2vBXb27"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "MOONLIGHT",
         "url": "https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 192000,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "she's so cool",
+        "url": "https://open.spotify.com/album/6nODLxFnID6dwFspd4mpgN"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "duration_ms": 156044,
+      "name": "she's so cool",
+      "url": "https://open.spotify.com/track/6ZfAbCwtXiZekia2vBXb27"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -859,22 +859,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "It's A No From Me",
-        "url": "https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw"
+        "name": "GLORIA! (Colonna Sonora Originale del Film)",
+        "url": "https://open.spotify.com/album/4AuIJ9fp9AJ3XwpPBVx7Yn"
       },
       "artists": [
         {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        },
-        {
-          "name": "chi",
-          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+          "name": "Margherita Vicario",
+          "url": "https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY"
         }
       ],
-      "duration_ms": 127868,
-      "name": "It's A No From Me",
-      "url": "https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4"
+      "duration_ms": 162631,
+      "name": "ARIA!",
+      "url": "https://open.spotify.com/track/0LfDmbIEsNmKxwOhLUYap2"
     }
   ],
   "unique_name": "EQUAL",

@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 477609,
+  "num_followers": 477620,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
+        "name": "Babacar (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
         "name": "Kendji",
         "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Babacar (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
         "name": "Paradize",
         "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
         "name": "Samedi soir sur la terre (Remastered)",
         "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 278253,
       "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
       "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "On s'attache",
+      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
         "name": "MESDAMES deluxe",
         "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
       },
@@ -659,34 +675,18 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
         }
       ],
-      "duration_ms": 191506,
-      "name": "On s'attache",
-      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+      "duration_ms": 207493,
+      "name": "Le Dernier Jour du Disco",
+      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 207493,
-      "name": "Le Dernier Jour du Disco",
-      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -739,22 +739,18 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Calog3ro",
-        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
       "artists": [
         {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        },
-        {
-          "name": "Passi",
-          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Face \u00e0 la mer",
-      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
+      "duration_ms": 324906,
+      "name": "Foule sentimentale",
+      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -771,6 +767,26 @@
       "duration_ms": 268746,
       "name": "Place des grands hommes",
       "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
+        "name": "Calog3ro",
+        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        },
+        {
+          "name": "Passi",
+          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Face \u00e0 la mer",
+      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -803,22 +819,6 @@
       "duration_ms": 261106,
       "name": "Je T\u2019aime",
       "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Foule sentimentale",
-      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
     },
     {
       "added_at": "2024-05-28 13:20:54",

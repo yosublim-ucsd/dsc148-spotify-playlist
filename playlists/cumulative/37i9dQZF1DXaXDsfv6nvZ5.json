@@ -311,6 +311,36 @@
     },
     {
       "album": {
+        "name": "All for Love",
+        "url": "https://open.spotify.com/album/0HsRlNgQyqMG96FaB3DHfT"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Burniss Travis",
+          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372010,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/1uY5hVJoMZjq6bTRhokkjW"
+    },
+    {
+      "album": {
         "name": "All I Really Wanna Do",
         "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
       },
@@ -7434,7 +7464,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 168235,
       "name": "Scene 1",
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"

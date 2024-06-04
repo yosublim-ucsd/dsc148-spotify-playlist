@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con MIA y Lucero Mijares en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,085 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,121 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,14 +96,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 86 | [Gracias](https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [Enclave de Bolero](https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy) | 3:27 |
 | 87 | [Aún Me Sigo Encontrando](https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/1a72IUAiD277nR5ygMzPgv) | 3:09 |
 | 88 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
-| 89 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 |
-| 90 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 |
+| 89 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 |
+| 90 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 |
 | 91 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
 | 92 | [María Bonita](https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:52 |
 | 93 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 | 94 | [Carrusel](https://open.spotify.com/track/5UgejVx60yHvneYj4asi8s) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Carrusel](https://open.spotify.com/album/1eEyI8J2laUbl3W924B6i0) | 2:54 |
-| 95 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
-| 96 | [Palabras](https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG) | [Palabras](https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef) | 4:04 |
+| 95 | [Palabras](https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG) | [Palabras](https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef) | 4:04 |
+| 96 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
 | 97 | [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 |
 | 98 | [Te Tocaba A Ti Llorar](https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Te Tocaba A Ti Llorar](https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al) | 3:13 |
 | 99 | [No me reproches](https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Lo esencial de Orígenes: El Bolero](https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ) | 2:54 |

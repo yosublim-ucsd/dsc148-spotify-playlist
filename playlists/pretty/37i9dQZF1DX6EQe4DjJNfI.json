@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
-  "num_followers": 168113,
+  "num_followers": 168127,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "Amar\u00edssima",
         "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 144578,
       "name": "Novela",
       "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-05-28 03:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-05-28 03:00:00",
       "album": {
-        "name": "Pode Ir",
-        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
-      },
-      "artists": [
-        {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "Grito Filmes",
-          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
-        }
-      ],
-      "duration_ms": 153371,
-      "name": "Pode Ir",
-      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
-    },
-    {
-      "added_at": "2024-05-28 03:00:00",
-      "album": {
         "name": "O Brilho Que Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/7gzCz9T1qSql7cTZa2IHTU"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 145573,
       "name": "O Brilho Que Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/2WPF0QFIXL3CvjwrTMlqeF"
+    },
+    {
+      "added_at": "2024-05-28 03:00:00",
+      "album": {
+        "name": "Pode Ir",
+        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
+      },
+      "artists": [
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+        }
+      ],
+      "duration_ms": 153371,
+      "name": "Pode Ir",
+      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
     },
     {
       "added_at": "2024-05-28 03:00:00",

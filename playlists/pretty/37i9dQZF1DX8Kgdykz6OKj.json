@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1284979,
+  "num_followers": 1285354,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 178554,
+      "name": "aslongas (feat. Wakai & Tommy Richman)",
+      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -1155,30 +1179,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "mynameisnt",
-        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
-      },
-      "artists": [
-        {
-          "name": "mynameisntjmack",
-          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
-        },
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 178554,
-      "name": "aslongas (feat. Wakai & Tommy Richman)",
-      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Nigga Dreams",
         "url": "https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr"
       },
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
         "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 253590,
       "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
       "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Cosca",
+        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 116756,
+      "name": "Cosca",
+      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "YHWH is LOVE",
         "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 189418,
       "name": "Anointed Soul",
       "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Cosca",
-        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 116756,
-      "name": "Cosca",
-      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
     },
     {
       "added_at": "2024-05-31 04:00:00",

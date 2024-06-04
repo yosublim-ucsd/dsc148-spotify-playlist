@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 
 ### [This Is La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33cf1m)
 
-> This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
+> This Is La Arrolladora Banda El Limón De Rene Camacho\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,283 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,510 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 | 17 | [Cabecita Dura](https://open.spotify.com/track/1y8vhYug05asslmpY8bFel) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 2:54 |
 | 18 | [Sobre Mis Pies](https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 4:08 |
 | 19 | [Tu Historia Fue Conmigo](https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 |
-| 20 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
-| 21 | [Secretos De Mi Memoria](https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 4:07 |
+| 20 | [Secretos De Mi Memoria](https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 4:07 |
+| 21 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
 | 22 | [Más Adelante](https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:32 |
 | 23 | [Valió la Pena Equivocarme](https://open.spotify.com/track/3Tg6vd7RNktpxZCqp3sQjA) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:46 |
 | 24 | [En Los Puritos Huesos](https://open.spotify.com/track/3EbJCtH2eZ3XdtEgW5OjYf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Acabó El Amor](https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3) | 2:53 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 | 43 | [El Precio De Mis Errores](https://open.spotify.com/track/4fwe0tALTJGY5OGX9v9NGf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:47 |
 | 44 | [Mis Recuerdos](https://open.spotify.com/track/5A9OyOOnDxELOaKg2KuN6X) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 4:39 |
 | 45 | [Se Me Cansó el Corazón](https://open.spotify.com/track/1nx0aZDtEgF6HS7SxQkTSJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 3:07 |
-| 46 | [Cosas Que Nunca Te Dije](https://open.spotify.com/track/0HGXbI146t5TEeqC2KopAq) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:49 |
-| 47 | [No Me Vengas A Decir](https://open.spotify.com/track/7mhJXOlgjDrdnyh0ZzvJdu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:07 |
+| 46 | [No Me Vengas A Decir](https://open.spotify.com/track/7mhJXOlgjDrdnyh0ZzvJdu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:07 |
+| 47 | [Cosas Que Nunca Te Dije](https://open.spotify.com/track/0HGXbI146t5TEeqC2KopAq) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:49 |
 | 48 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 |
 | 49 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
-| 50 | [¿Qué Me Vas a Dar?](https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:27 |
-| 51 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 |
+| 50 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 |
+| 51 | [¿Qué Me Vas a Dar?](https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:27 |
 
-Snapshot ID: `ZlpkgAAAAACvhkei5HbxXebg5yn2X5Sn`
+Snapshot ID: `Zlu2AAAAAADBimxvp7VBKvcouok6p9yc`

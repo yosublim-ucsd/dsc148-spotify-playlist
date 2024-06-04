@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGBCMabK3clfIreMeStcN9z4vkT3pa",
+  "snapshot_id": "AAAGBUv2Vp6c4simh4TNqOmR/DRxQIqB",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8307,6 +8307,22 @@
       "duration_ms": 252122,
       "name": "Harness",
       "url": "https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf"
+    },
+    {
+      "added_at": "2024-06-03 03:25:04",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 81000,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3zJakbnIw0ufiVnIFkLfA1"
     }
   ],
   "unique_name": "Zacklog",

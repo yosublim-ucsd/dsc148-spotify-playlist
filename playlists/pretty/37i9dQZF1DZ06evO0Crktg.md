@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,481 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,731 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 50 | [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/3FULZo3F26XP00rsLrXTLE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:34 |
 | 51 | [Too Far](https://open.spotify.com/track/6v0OFUHCLCIFwwowVXMXPj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Ryan Nelson](https://open.spotify.com/artist/3ZWoGIRMCbvG2ucNugtC8d) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:06 |
 
-Snapshot ID: `ZlpkgAAAAAB6Wb5yQMm6chR8lwcHXdjH`
+Snapshot ID: `Zlu2AAAAAADlZRJCF6k99eIfONx3ob+L`

@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 9 hr 55 min
+100 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Ti](https://open.spotify.com/track/4xHBqxLXbwemwOnHKfIFjU) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:33 | 2023-12-13 |  |
 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 | 2023-12-13 |  |
+| [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 | 2024-06-03 |  |
 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 | 2022-06-04 |  |
 | [Apocalipse 4 \- Ao Vivo](https://open.spotify.com/track/4KvwPgAJMWNqx4lCll9Ldp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Apocalipse 4 \(Ao Vivo\)](https://open.spotify.com/album/2C8V8hCKIAkZMtSr532PBO) | 6:33 | 2022-06-04 |  |
 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 | 2022-06-04 |  |

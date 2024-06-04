@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,962 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,992 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 58 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 |
 | 59 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
 | 60 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
-| 61 | [Bolo Na](https://open.spotify.com/track/4dDHrpThDMKYk3TqdrrSyq) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [12th Fail](https://open.spotify.com/album/7o1YLR4zqPOEkv1IDfyTdn) | 4:53 |
-| 62 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
+| 61 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
+| 62 | [Bolo Na](https://open.spotify.com/track/4dDHrpThDMKYk3TqdrrSyq) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [12th Fail](https://open.spotify.com/album/7o1YLR4zqPOEkv1IDfyTdn) | 4:53 |
 | 63 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 |
 | 64 | [Raatan Kaaliyan](https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie), [Gautam G Sharma](https://open.spotify.com/artist/1fgDaY2EEkhZQ8Di5W2iVw) | [Raatan Kaaliyan](https://open.spotify.com/album/5CRx2e8PTzPDpF6LeVYVdq) | 3:44 |
 | 65 | [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,325 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,369 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 |
-| 2 | [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 |
-| 3 | [HELLA BOY CRAZY](https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HELLA BOY CRAZY](https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26) | 2:14 |
-| 4 | [Magic](https://open.spotify.com/track/0tpZUwE9apjRQLJP46LHn8) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Still Kids](https://open.spotify.com/album/0eoZWGxdpc4HIG6bjlel2H) | 2:35 |
-| 5 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 |
+| 1 | [Family Business](https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/4kRZDysdXZ5yeaRFxq84io) | 3:18 |
+| 2 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 |
+| 3 | [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 |
+| 4 | [HELLA BOY CRAZY](https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HELLA BOY CRAZY](https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26) | 2:14 |
+| 5 | [Magic](https://open.spotify.com/track/0tpZUwE9apjRQLJP46LHn8) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Still Kids](https://open.spotify.com/album/0eoZWGxdpc4HIG6bjlel2H) | 2:35 |
 | 6 | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7kJ4Q6YTfePxfKuVxVFRzT) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3vXyaAkOtyBIYFsGdrJVkS) | 2:17 |
 | 7 | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/track/3gCBF4XZx7dmEtaRDoQLEd) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/album/2i7fwqOqVisYDooEIzk3Tr) | 2:50 |
 | 8 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 |
 | 100 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 |
 
-Snapshot ID: `ZllLQAAAAABAotec3Joglz+dymGXlwoB`
+Snapshot ID: `Zl4KLQAAAABnxJD1SJ92OaBzq9kLI+CD`

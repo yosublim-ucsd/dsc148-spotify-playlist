@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-750 songs - 1 day 13 hr 49 min
+751 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,7 @@
 | [Occhi D’Amore](https://open.spotify.com/track/1Tx7TwXLu2BQIAz0SRzf2k) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Occhi D’Amore](https://open.spotify.com/album/0MBYnWVqa6trbDCCKuP1QB) | 3:14 | 2023-06-01 | 2023-10-20 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-12-16 | 2022-04-29 |
 | [Okej att dö](https://open.spotify.com/track/41ioFOtkaKOuvZbqzliDLT) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/4TeoJmi1z2YV3Xmlmx267Q) | 2:49 | 2024-04-25 |  |
-| [Om igen](https://open.spotify.com/track/4zl1Y3QTIpY7JsChcrInbg) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Om igen](https://open.spotify.com/album/2xhXEZ6D4AX8b6ACfdyVNm) | 2:46 | 2024-05-23 |  |
+| [Om igen](https://open.spotify.com/track/4zl1Y3QTIpY7JsChcrInbg) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Om igen](https://open.spotify.com/album/2xhXEZ6D4AX8b6ACfdyVNm) | 2:46 | 2024-05-23 | 2024-06-04 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-14 | 2024-01-19 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-01-12 | 2024-03-09 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-17 | 2024-01-19 |
@@ -723,6 +723,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-03-08 |  |
 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 | 2022-11-10 | 2022-12-24 |
 | [Weightless](https://open.spotify.com/track/6L6N8iogHK4BilrHG7bAJ2) | [Birkir Blær](https://open.spotify.com/artist/1DBMeLdSpnCWz8dbDMk8ea) | [Weightless](https://open.spotify.com/album/0wtVykLAzYaPsqast4uHND) | 2:57 | 2021-12-16 | 2022-02-25 |
+| [Welou \(Better Days\)](https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Bland Sagor & Vapen: Del 1](https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu) | 2:35 | 2024-06-03 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 | 2023-12-09 |
 | [What's the Point](https://open.spotify.com/track/1Cuthw0weFlC2xFEq0Pdlc) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [What's the Point](https://open.spotify.com/album/3hx0O19NU7TD8eAzg48v34) | 3:41 | 2022-11-17 | 2023-03-25 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 |  |

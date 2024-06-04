@@ -4946,7 +4946,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
@@ -5470,6 +5470,28 @@
       "duration_ms": 181426,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn"
+    },
+    {
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "album": {

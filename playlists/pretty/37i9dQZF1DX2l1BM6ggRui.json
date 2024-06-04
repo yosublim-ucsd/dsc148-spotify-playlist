@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6495,
+  "num_followers": 6492,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
+        "name": "AI (Feat. Loco)",
+        "url": "https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "AI (Feat. Loco)",
+      "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -463,22 +483,6 @@
       "duration_ms": 212013,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -519,22 +523,18 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "AI (Feat. Loco)",
-        "url": "https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG"
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 179200,
-      "name": "AI (Feat. Loco)",
-      "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "System Error",
-        "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "System Error",
-      "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
         "name": "Cherry Pink",
         "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197400,
       "name": "Cherry Pink",
       "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
+        "name": "System Error",
+        "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "System Error",
+      "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU"
-      },
-      "artists": [
-        {
-          "name": "Shinae An",
-          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
-        }
-      ],
-      "duration_ms": 148586,
-      "name": "A Day For Me",
-      "url": "https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
         "name": "Crash Course in Romance OST Part 4",
         "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 172361,
       "name": "At Night",
       "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU"
+      },
+      "artists": [
+        {
+          "name": "Shinae An",
+          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
+        }
+      ],
+      "duration_ms": 148586,
+      "name": "A Day For Me",
+      "url": "https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
         "name": "be like YOU",
         "url": "https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/2nuDgXGMLk7qQYwnuh6Jsu"
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
       },
       "artists": [
         {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/04NgqZ5Wq2BDq4iMJlUyC5"
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -727,6 +711,22 @@
       "duration_ms": 108586,
       "name": "Violet",
       "url": "https://open.spotify.com/track/7yvfL6YPEj91CxZZlQTk4z"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/2nuDgXGMLk7qQYwnuh6Jsu"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/04NgqZ5Wq2BDq4iMJlUyC5"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
       },
       "artists": [
         {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl"
+      "duration_ms": 277653,
+      "name": "Be with me",
+      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
+        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
       },
       "artists": [
         {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Be with me",
-      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
+      "duration_ms": 245400,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl"
     },
     {
       "added_at": "2024-05-27 12:55:24",

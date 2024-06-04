@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,069 songs - 2 day 21 hr 2 min
+1,071 songs - 2 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [All The Things We Were](https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [All The Things We Were](https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155) | 4:31 | 2023-06-01 |  |
 | [All the Things You Are](https://open.spotify.com/track/2BgxwHGlY8aPhiGurdkuON) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [All the Things You Are](https://open.spotify.com/album/1vgiVIGoquD7w4ttvRM7L5) | 5:24 | 2023-03-30 |  |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-19 |  |
+| [All those nights](https://open.spotify.com/track/4wHDPpI4nWoj3F20unVH8f) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [All those nights](https://open.spotify.com/album/4BIOYMg5wAVi0onxV4f73T) | 2:19 | 2024-06-03 |  |
 | [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2022-06-30 | 2024-04-19 |
 | [Almost Like Being In Love](https://open.spotify.com/track/20snee2NrSY2DLrz5mGHUq) | [Lester Young & The Oscar Peterson Trio](https://open.spotify.com/artist/3Ws6pq018BWAz8uYhZ7V6h) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/5GV8mn6Y244jnMc8wiOpqt) | 3:33 | 2021-12-03 | 2024-04-20 |
@@ -230,7 +231,7 @@
 | [Don't Blame Me](https://open.spotify.com/track/5BDOsVUha92UcNnDmZkWTR) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Don't Blame Me](https://open.spotify.com/album/2dfSee4b6Y0iOmiatGOceh) | 3:06 | 2023-03-30 |  |
 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 | 2021-12-03 | 2022-11-11 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-11-10 |  |
-| [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-03-16 |  |
+| [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-03-16 | 2024-06-04 |
 | [Don't You Know I Care](https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:10 | 2021-12-03 |  |
 | [Don’t ruin it](https://open.spotify.com/track/5E9FQwE8VNfNYB9bSD8lAn) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Don’t ruin it](https://open.spotify.com/album/3Y9sptxgegR4ePGCr5JYXR) | 2:14 | 2024-01-12 |  |
 | [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-06-01 |  |
@@ -585,7 +586,7 @@
 | [Midnight Passion](https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Midnight Passion](https://open.spotify.com/album/0vt5ejd6J0VlbhW41zN84q) | 2:29 | 2023-12-08 |  |
 | [Midnight Reverie](https://open.spotify.com/track/7tkPArhLCX4cDHkZMalG41) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [Midnight Reverie](https://open.spotify.com/album/1axg5vCMgiF7T7US2mv3Oc) | 3:48 | 2023-12-08 |  |
 | [Midnight Serenade](https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Midnight Serenade](https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh) | 4:19 | 2023-08-10 |  |
-| [Milano](https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Milano](https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm) | 3:58 | 2023-12-08 |  |
+| [Milano](https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Milano](https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm) | 3:58 | 2023-12-08 | 2024-06-04 |
 | [Milford Sound](https://open.spotify.com/track/1x0FdcEh7F8h1u8Zl9wdcc) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Milford Sound](https://open.spotify.com/album/0VgwZU5kHyc6i3A0WPqApx) | 4:19 | 2024-05-23 |  |
 | [Minor Matters](https://open.spotify.com/track/79TNrecUsky8SMPo7I1AJC) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Minor Matters](https://open.spotify.com/album/4FI5JIydsr1OYdMPVLoJX6) | 3:15 | 2023-08-25 |  |
 | [Miso the cat](https://open.spotify.com/track/6UoHrLNQE4UR8SG79V6FBX) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Miso the cat](https://open.spotify.com/album/5RmAvg9TQzDmm287fovehw) | 3:50 | 2023-08-10 |  |
@@ -814,6 +815,7 @@
 | [Soulful Stroll](https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Soulful Stroll](https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL) | 3:50 | 2023-08-18 |  |
 | [Soultrane \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:21 | 2021-12-03 | 2022-11-11 |
 | [Soulville](https://open.spotify.com/track/5nB5mhjWHeUNtoWnTDISOb) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Verve Jazz Masters 43: Ben Webster](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 8:03 | 2021-12-03 | 2024-05-26 |
+| [Sound Of Absence](https://open.spotify.com/track/0uVq57CNdVgoBgNJz7vg8c) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Sound Of Absence](https://open.spotify.com/album/4BdhnKPxfPRveQXAqkiwzw) | 3:06 | 2024-06-03 |  |
 | [Sous le Ciel de Paris](https://open.spotify.com/track/1QTqBsWRsTZbC2aylhHf8N) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Sous le Ciel de Paris](https://open.spotify.com/album/1HTCcw4sWeRUjgnmrAkL8s) | 3:22 | 2023-03-16 |  |
 | [South Valley Park](https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [South Valley Park](https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD) | 3:57 | 2024-05-23 |  |
 | [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 |  |

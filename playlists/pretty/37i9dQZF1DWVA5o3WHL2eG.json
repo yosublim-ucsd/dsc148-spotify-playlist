@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Esther Graf",
-  "num_followers": 34147,
+  "num_followers": 34158,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "Ohne Mich",
-        "url": "https://open.spotify.com/album/4G5OX3QAgtpFZxrVX12z5B"
-      },
-      "artists": [
-        {
-          "name": "Eunique",
-          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Ohne Mich",
-      "url": "https://open.spotify.com/track/0UZsZ6BPr4bvY1menn8cTI"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Two Bodies In A Bed",
         "url": "https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 221000,
       "name": "Two Bodies In A Bed",
       "url": "https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Ohne Mich",
+        "url": "https://open.spotify.com/album/4G5OX3QAgtpFZxrVX12z5B"
+      },
+      "artists": [
+        {
+          "name": "Eunique",
+          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Ohne Mich",
+      "url": "https://open.spotify.com/track/0UZsZ6BPr4bvY1menn8cTI"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "Parisienne",
-        "url": "https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G"
-      },
-      "artists": [
-        {
-          "name": "Kitana",
-          "url": "https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK"
-        }
-      ],
-      "duration_ms": 178976,
-      "name": "Parisienne",
-      "url": "https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "wallflower seat",
         "url": "https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 173307,
       "name": "wallflower seat",
       "url": "https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Parisienne",
+        "url": "https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G"
+      },
+      "artists": [
+        {
+          "name": "Kitana",
+          "url": "https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK"
+        }
+      ],
+      "duration_ms": 178976,
+      "name": "Parisienne",
+      "url": "https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj"
     },
     {
       "added_at": "2024-05-01 07:25:52",

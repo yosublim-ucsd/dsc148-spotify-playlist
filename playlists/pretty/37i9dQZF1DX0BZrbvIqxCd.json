@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544726,
+  "num_followers": 544718,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Me First",
-      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
       ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+      "duration_ms": 193280,
+      "name": "Me First",
+      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Get Lost, Find Yourself",
-        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
-      },
-      "artists": [
-        {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Playing Dead",
-      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
-    },
-    {
       "added_at": "2024-04-18 19:24:00",
       "album": {
         "name": "God's Country",
@@ -791,6 +775,22 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Get Lost, Find Yourself",
+        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Playing Dead",
+      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "What Are We Standing For",
-        "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "What Are We Standing For",
-      "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 191253,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "What Are We Standing For",
+        "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "What Are We Standing For",
+      "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Stay Rad!",
-        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 114219,
-      "name": "Night of the Knuckleheads",
-      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 183133,
       "name": "All My Friends are Nobodies",
       "url": "https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Stay Rad!",
+        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 114219,
+      "name": "Night of the Knuckleheads",
+      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
     },
     {
       "added_at": "2020-11-20 21:27:18",

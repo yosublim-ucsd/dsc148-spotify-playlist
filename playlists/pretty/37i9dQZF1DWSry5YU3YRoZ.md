@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,180 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,186 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 12 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
 | 13 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 14 | [Dreams in summer night](https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:57 |
-| 15 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 |
-| 16 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
+| 15 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
+| 16 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 |
 | 17 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
-| 18 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
-| 19 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
-| 20 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |
+| 18 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
+| 19 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |
+| 20 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
 | 21 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 |
 | 22 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
 | 23 | [Snowman](https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 5:25 |

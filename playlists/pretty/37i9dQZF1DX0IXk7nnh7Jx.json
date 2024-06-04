@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 83800,
+  "num_followers": 83827,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "High Noon",
-        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
+        "name": "Kinda Wild",
+        "url": "https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy"
       },
       "artists": [
         {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 130679,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+      "duration_ms": 297279,
+      "name": "Kinda Wild",
+      "url": "https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -379,22 +383,18 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Kinda Wild",
-        "url": "https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy"
+        "name": "High Noon",
+        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
       },
       "artists": [
         {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
         }
       ],
-      "duration_ms": 297279,
-      "name": "Kinda Wild",
-      "url": "https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in"
+      "duration_ms": 130679,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 149515,
-      "name": "MORE!",
-      "url": "https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "It Was Dark Until It Wasn't",
         "url": "https://open.spotify.com/album/1C2Qeps8nNNwlp8IakIpMe"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli"
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
         }
       ],
-      "duration_ms": 243840,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q"
+      "duration_ms": 149515,
+      "name": "MORE!",
+      "url": "https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -839,18 +823,18 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Deliverer",
-        "url": "https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli"
       },
       "artists": [
         {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 249350,
-      "name": "Deliverer",
-      "url": "https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M"
+      "duration_ms": 243840,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -871,6 +855,22 @@
       "duration_ms": 172940,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Deliverer",
+        "url": "https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 249350,
+      "name": "Deliverer",
+      "url": "https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "PAWA",
+        "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
+      },
+      "artists": [
+        {
+          "name": "Sam Jamz",
+          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "PAWA",
+      "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "Jesus, My Brother + Like Jesus (Live)",
         "url": "https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 350400,
       "name": "Jesus, My Brother - Live",
       "url": "https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "PAWA",
-        "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
-      },
-      "artists": [
-        {
-          "name": "Sam Jamz",
-          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "PAWA",
-      "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
-      },
-      "artists": [
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "KMFTF",
         "url": "https://open.spotify.com/album/0shzlmMAakU3u2PBfJkCVX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 280732,
       "name": "KMFTF",
       "url": "https://open.spotify.com/track/2A6tZQNqhjNXu6adGokOut"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Clouds II",
+        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Clouds II",
+      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "So Much To Say (Pt. III)",
         "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Clouds II",
-        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Clouds II",
-      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Pray For Me",
         "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 224606,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1487,18 +1487,38 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Peace Over Anxiety",
-        "url": "https://open.spotify.com/album/7K4cdHFnPlcNBMkQbWCkxC"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
       "artists": [
         {
-          "name": "Savannah Locke",
-          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
         }
       ],
-      "duration_ms": 214285,
-      "name": "Peace Over Anxiety",
-      "url": "https://open.spotify.com/track/1EiyEqsOHVi2VXtvX0Qq6D"
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Birds and Beasts",
+        "url": "https://open.spotify.com/album/1dJqFtsolDdhwF4ZMmvOPh"
+      },
+      "artists": [
+        {
+          "name": "Mountain People Worship",
+          "url": "https://open.spotify.com/artist/4PpHP5z3A0xsd2JU09LmDr"
+        }
+      ],
+      "duration_ms": 291088,
+      "name": "Birds and Beasts",
+      "url": "https://open.spotify.com/track/5SBofO5gakfyXJhG4yt6Xv"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1531,54 +1551,18 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Birds and Beasts",
-        "url": "https://open.spotify.com/album/1dJqFtsolDdhwF4ZMmvOPh"
+        "name": "Peace Over Anxiety",
+        "url": "https://open.spotify.com/album/7K4cdHFnPlcNBMkQbWCkxC"
       },
       "artists": [
         {
-          "name": "Mountain People Worship",
-          "url": "https://open.spotify.com/artist/4PpHP5z3A0xsd2JU09LmDr"
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
         }
       ],
-      "duration_ms": 291088,
-      "name": "Birds and Beasts",
-      "url": "https://open.spotify.com/track/5SBofO5gakfyXJhG4yt6Xv"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+      "duration_ms": 214285,
+      "name": "Peace Over Anxiety",
+      "url": "https://open.spotify.com/track/1EiyEqsOHVi2VXtvX0Qq6D"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1595,6 +1579,22 @@
       "duration_ms": 179714,
       "name": "Person of Peace",
       "url": "https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/0VKz993ynbnahm4mZcSvO9"
+      },
+      "artists": [
+        {
+          "name": "AOH Music",
+          "url": "https://open.spotify.com/artist/1llt760POSmdKmBFiMaz3m"
+        }
+      ],
+      "duration_ms": 189941,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "Never Abandoned You (Acoustic)",
         "url": "https://open.spotify.com/album/11THsrkGDPzKiFwEpJ7iiZ"
       },
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/0VKz993ynbnahm4mZcSvO9"
-      },
-      "artists": [
-        {
-          "name": "AOH Music",
-          "url": "https://open.spotify.com/artist/1llt760POSmdKmBFiMaz3m"
-        }
-      ],
-      "duration_ms": 189941,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "The Places I've Outgrown",
         "url": "https://open.spotify.com/album/139LwYzFOeGmUTMElgbmqa"
       },
@@ -1771,6 +1771,22 @@
       "duration_ms": 238709,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/4QTSnYACkvo0Th6XBR0dJY"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Ancient of Days",
+        "url": "https://open.spotify.com/album/235xnTcdo2OvCNCeglCgHZ"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Ancient of Days",
+      "url": "https://open.spotify.com/track/28IzSZqQADlcw7gp10kNVu"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1807,38 +1823,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Ancient of Days",
-        "url": "https://open.spotify.com/album/235xnTcdo2OvCNCeglCgHZ"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Ancient of Days",
-      "url": "https://open.spotify.com/track/28IzSZqQADlcw7gp10kNVu"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "JUST BE US",
         "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 160444,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 195034,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Just Like In Heaven",
         "url": "https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 296973,
       "name": "Just Like In Heaven",
       "url": "https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 195034,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Meditations",
-        "url": "https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Power - Acoustic",
-      "url": "https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "You Loved Me To You",
         "url": "https://open.spotify.com/album/08GGX1RK46V6vmEyk1GNMn"
       },
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Power - Acoustic",
+      "url": "https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "Keep Looking Up (Radio Mix)",
         "url": "https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf"
       },
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "burning roses",
+        "url": "https://open.spotify.com/album/7yHSF0unveiLFVbH5LzRJT"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "burning roses",
+      "url": "https://open.spotify.com/track/1ur0UApzybGEhxpHzdCy2S"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "who am i?",
         "url": "https://open.spotify.com/album/4EGPWSYyl05FB6JqMromvO"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 149068,
       "name": "who am i?",
       "url": "https://open.spotify.com/track/0DbrwHCzHUpOk5PbgYv9ui"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "burning roses",
-        "url": "https://open.spotify.com/album/7yHSF0unveiLFVbH5LzRJT"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "burning roses",
-      "url": "https://open.spotify.com/track/1ur0UApzybGEhxpHzdCy2S"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Headfirst",
+        "url": "https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Headfirst",
+      "url": "https://open.spotify.com/track/5N34tSRu38sC4YKlywEIIQ"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "All the Way Back",
         "url": "https://open.spotify.com/album/461UGIq9xPPZnqmnFzfV5k"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 261015,
       "name": "All the Way Back",
       "url": "https://open.spotify.com/track/7IVb5aC9nepiHr4BlwLPtN"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Headfirst",
-        "url": "https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "Headfirst",
-      "url": "https://open.spotify.com/track/5N34tSRu38sC4YKlywEIIQ"
     },
     {
       "added_at": "2024-05-10 04:44:25",

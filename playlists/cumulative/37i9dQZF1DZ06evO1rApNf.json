@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
+  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
   "name": "This Is Mau y Ricky",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 195608,
       "name": "Darnos Un Tiempo",
       "url": "https://open.spotify.com/track/1zaALt2FHgNUrOg5jzFF8J"
@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167264,
+      "name": "Glock",
+      "url": "https://open.spotify.com/track/6sjnBVTDd1JYwb1mboxJy8"
+    },
+    {
+      "album": {
         "name": "Gran D\u00eda",
         "url": "https://open.spotify.com/album/7zDXEU4nyXHA193wcfXjfZ"
       },
@@ -597,7 +615,7 @@
         },
         {
           "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
       "date_added": "2024-06-03",
@@ -624,7 +642,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 160653,
       "name": "Hijos Contigo",
       "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 173514,
       "name": "Manera Linda de Morir",
       "url": "https://open.spotify.com/track/1b7Sb8QcSOKzkqTRL2Fu1J"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 137693,
       "name": "Pasado Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 198933,
       "name": "Ya No Tiene Novio",
       "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"

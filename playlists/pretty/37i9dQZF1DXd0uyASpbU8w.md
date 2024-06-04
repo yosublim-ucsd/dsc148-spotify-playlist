@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=1no\-\_9A0RySzCGhZdGWScw">Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,156 likes - 86 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,248 likes - 86 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 85 | [Just Life](https://open.spotify.com/track/3Lrfiqxkt9RCijqvqnmxbE) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Just Life](https://open.spotify.com/album/3hU62GObiUj82npdIVp9Cn) | 3:41 |
 | 86 | [MUNTU WAM'](https://open.spotify.com/track/7ISZAPJkZujSQMx7LyBSNJ) | [THAT$hYHOMIE](https://open.spotify.com/artist/3ehK94J8PAZ7D14PKZw87Y), [MusicbyOTTO](https://open.spotify.com/artist/2RXhc80RUl4L5ZoXB69aqV), [Wakithi](https://open.spotify.com/artist/5Udg5ivv9IsuTMj7rdCsvV), [PhilaBoi K](https://open.spotify.com/artist/02zDxpy2IymHPT7veew6xL) | [WE THANK YOU...](https://open.spotify.com/album/6AN8OxywR8dEgreoo8U2CK) | 5:07 |
 
-Snapshot ID: `ZlmUVgAAAAC+aN2gr0TpYTBlZs6ZY5mJ`
+Snapshot ID: `Zl102QAAAABKXAQN58QeieCbRQLL+GNd`

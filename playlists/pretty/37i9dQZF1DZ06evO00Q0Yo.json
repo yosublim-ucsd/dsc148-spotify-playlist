@@ -1,12 +1,12 @@
 {
-  "description": "This Is Flo Milli. Los temas esenciales, todos en una lista.",
-  "num_followers": 16670,
+  "description": "This is Flo Milli. The essential tracks, all in one playlist.",
+  "num_followers": 16687,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADJ8WPAw9qONRBA5uAeOfXn",
+  "snapshot_id": "Zlu2AAAAAAClIoyvxRLLh+h4JFZGz0Zd",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Coldest",
+        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Whole Package (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -239,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Coldest",
-        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
       "artists": [
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 146341,
-      "name": "Whole Package (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4"
+      "duration_ms": 163018,
+      "name": "May I",
+      "url": "https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5"
     },
     {
       "added_at": null,
@@ -271,22 +287,6 @@
       "duration_ms": 122790,
       "name": "Understand",
       "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 163018,
-      "name": "May I",
-      "url": "https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 157192,
-      "name": "Neva (feat. Monaleo)",
-      "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 181417,
       "name": "Hottie (feat. BabyFace Ray)",
       "url": "https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 157192,
+      "name": "Neva (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 107322,
-      "name": "Got The Juice",
-      "url": "https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 168451,
       "name": "Bed Time",
       "url": "https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 107322,
+      "name": "Got The Juice",
+      "url": "https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fruit Loop",
         "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 137263,
       "name": "Fruit Loop",
       "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chocolate Rain",
-        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Chocolate Rain",
-      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ho, why is you here ?",
         "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 106763,
       "name": "Pockets Bigger",
       "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chocolate Rain",
+        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Chocolate Rain",
+      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Einstein",
+        "url": "https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 135744,
+      "name": "Einstein",
+      "url": "https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boys Ain't Shit (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 195750,
       "name": "Boys Ain't Shit (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Einstein",
-        "url": "https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 135744,
-      "name": "Einstein",
-      "url": "https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ"
     },
     {
       "added_at": null,

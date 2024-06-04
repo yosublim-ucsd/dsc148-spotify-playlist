@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-526 songs - 1 day 8 hr 21 min
+527 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Little Piece of Heaven](https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 8:00 | 2024-05-31 |  |
 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 | 2023-05-30 | 2023-10-08 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-04-28 |
+| [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2024-06-03 |  |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-04 | 2024-01-28 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 | 2022-10-09 |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-03-27\* | 2021-08-19 |
@@ -54,7 +55,7 @@
 | [Bahagia Bersamamu](https://open.spotify.com/track/4kuDYuBjhxBokag7CyUvkn) | [Haico](https://open.spotify.com/artist/4dtkXlej2FOunvRbr6KiqC) | [Bahagia Bersamamu](https://open.spotify.com/album/1Pyzo2MCCYWpiEAom75yQQ) | 3:34 | 2021-07-18 | 2021-08-05 |
 | [Bahasa Kalbu](https://open.spotify.com/track/7c98gah3Qah9o76kgkzfrV) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Bahasa Kalbu](https://open.spotify.com/album/4rwf3B24qEi1QgQLz9R1nh) | 5:51 | 2021-03-27\* | 2021-04-10 |
 | [Bahaya](https://open.spotify.com/track/7Df6aulkKFTjt1s84joBQW) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [ArTi Untuk Cinta](https://open.spotify.com/album/4Tx1o9uaCC1EMPoCejM95i) | 4:20 | 2021-09-05 | 2022-03-06 |
-| [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 | 2024-06-02 |  |
+| [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 | 2024-06-02 | 2024-06-04 |
 | [Be There For You](https://open.spotify.com/track/65aiZeH9Uld7iFC4w24tiR) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:43 | 2021-05-12 | 2021-05-14 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-31 | 2022-07-31 |
 | [Beautiful](https://open.spotify.com/track/6NBbpQfD2MZcCNBOy7iE7Q) | [NCT 2021](https://open.spotify.com/artist/5Qnl3RAtzne7J1dxRv1UBc) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 4:21 | 2021-12-16 | 2021-12-19 |
@@ -65,7 +66,7 @@
 | [Benci Untuk Mencinta](https://open.spotify.com/track/65PjFLm6X567f52At4CI1N) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [Retropolis \- City Of Joy](https://open.spotify.com/album/2WhmHOuv105dRcvCnCRyCR) | 4:00 | 2023-01-13 | 2023-01-21 |
 | [Berakhir Sama](https://open.spotify.com/track/056yJ4VyffHDRN3fTOWBQQ) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Berakhir Sama](https://open.spotify.com/album/4rl5wPXYNeOstk2aqxoKNp) | 3:10 | 2021-11-27 | 2021-12-31 |
 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2023-09-30 |  |
-| [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-05-12 |  |
+| [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-05-12 | 2024-06-04 |
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2023-10-16 | 2024-04-12 |
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-02-28 | 2022-08-29 |
 | [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 | 2022-08-28 | 2023-01-13 |
@@ -361,7 +362,7 @@
 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 | 2021-03-27\* | 2021-06-28 |
 | [Putus Atau Terus](https://open.spotify.com/track/7MaE3QJQArKzaRZGi8DHfP) | [Judika](https://open.spotify.com/artist/3HSmFRCVuZh2skqMDhsI8y) | [Putus Atau Terus](https://open.spotify.com/album/7fYzATEorF2nTcMKuE4crs) | 4:08 | 2021-06-28 | 2021-07-05 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-09-05 |
-| [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2023-09-17 | 2024-06-03 |
+| [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2023-09-17 |  |
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-02-27 | 2023-05-10 |
 | [Rainbow](https://open.spotify.com/track/2TyDgN8q5NgOuiR8yYyBYj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:51 | 2021-05-12 | 2021-05-17 |
 | [Rapsodi](https://open.spotify.com/track/0WwLkbYBjwPYoEKegzOYVu) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Rapsodi](https://open.spotify.com/album/02ECGWaPjemLbarmHlPoge) | 3:58 | 2021-06-27 | 2022-01-15 |

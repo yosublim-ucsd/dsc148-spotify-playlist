@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1451124,
+  "num_followers": 1451683,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAD7uBS1ExYgcCgulQ5/hKXM",
+  "snapshot_id": "Zlu2AAAAAABXdwS3LnjGnUuTCwO+mxoe",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
       "duration_ms": 239667,
       "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sick (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Embarrassed (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
     },
     {
       "added_at": null,
@@ -1059,26 +1079,6 @@
       "duration_ms": 236614,
       "name": "Portland",
       "url": "https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TKN (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 129370,
-      "name": "TKN (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
     }
   ],
   "unique_name": "This Is Travis Scott",

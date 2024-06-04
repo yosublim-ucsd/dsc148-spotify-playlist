@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731917,
+  "num_followers": 731936,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 141280,
-      "name": "Between The Bars",
-      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 160240,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 141280,
+      "name": "Between The Bars",
+      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
       },
@@ -1135,18 +1119,34 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "I'm the One (Acoustic)",
-        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
       "artists": [
         {
-          "name": "Sunset & Highland",
-          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 233488,
-      "name": "I'm the One - Acoustic",
-      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Why Woman",
+      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+        "name": "I'm the One (Acoustic)",
+        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
       },
       "artists": [
         {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+          "name": "Sunset & Highland",
+          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
         }
       ],
-      "duration_ms": 183293,
-      "name": "Why Woman",
-      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
+      "duration_ms": 233488,
+      "name": "I'm the One - Acoustic",
+      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "There's Nothing Holdin Me Back",
-        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
-      },
-      "artists": [
-        {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
-        }
-      ],
-      "duration_ms": 199419,
-      "name": "There's Nothing Holdin Me Back",
-      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "To Build A Home (Versions)",
         "url": "https://open.spotify.com/album/52bYfn1wSbaRAQKq0Ox3DW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 371320,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/6LK4QAJzm6wPWITxSftVhG"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "There's Nothing Holdin Me Back",
+        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 199419,
+      "name": "There's Nothing Holdin Me Back",
+      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/1AwOiNVDcnyX4YAcvNecvd"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 327469,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/5dRy520QssuzpqsPOVrgJF"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
       },
@@ -1455,38 +1471,6 @@
       "duration_ms": 135105,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Teardrop (Bundle)",
-        "url": "https://open.spotify.com/album/1lasLiI29mPcLhoaDzI5qV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/0WmYMaZFDs6qsPzpnEXRM5"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Castle on the Hill",
-        "url": "https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE"
-      },
-      "artists": [
-        {
-          "name": "Maygen Lacey",
-          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
-        }
-      ],
-      "duration_ms": 243587,
-      "name": "Castle on the Hill - Acoustic",
-      "url": "https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/1AwOiNVDcnyX4YAcvNecvd"
+        "name": "Teardrop (Bundle)",
+        "url": "https://open.spotify.com/album/1lasLiI29mPcLhoaDzI5qV"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 327469,
-      "name": "London Bridge",
-      "url": "https://open.spotify.com/track/5dRy520QssuzpqsPOVrgJF"
+      "duration_ms": 202840,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/0WmYMaZFDs6qsPzpnEXRM5"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+        "name": "Castle on the Hill",
+        "url": "https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE"
       },
       "artists": [
         {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
         }
       ],
-      "duration_ms": 193756,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+      "duration_ms": 243587,
+      "name": "Castle on the Hill - Acoustic",
+      "url": "https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1567,6 +1551,22 @@
       "duration_ms": 189912,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "On the Train Ride Home",
-      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Go Rilla (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y"
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
       },
       "artists": [
         {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 283172,
-      "name": "Go Rilla - Acoustic Version",
-      "url": "https://open.spotify.com/track/4LhMshtzPFbPxT0qTucmdF"
+      "duration_ms": 227200,
+      "name": "On the Train Ride Home",
+      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1687,6 +1671,22 @@
       "duration_ms": 211838,
       "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) - Radio Version",
       "url": "https://open.spotify.com/track/40BtgHQcQf7TRy6atS76lD"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Go Rilla (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 283172,
+      "name": "Go Rilla - Acoustic Version",
+      "url": "https://open.spotify.com/track/4LhMshtzPFbPxT0qTucmdF"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/6bbGk2B5atqLsu3SyLAGEk"
-      },
-      "artists": [
-        {
-          "name": "Ja\u00ebl",
-          "url": "https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe"
-        }
-      ],
-      "duration_ms": 217797,
-      "name": "Driving With You",
-      "url": "https://open.spotify.com/track/62bDQvC2EHmpMSCjtyvxY8"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/2xn1MSovWrPuWBTLSJEfMx"
       },
@@ -1947,18 +1931,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "AM Versions",
-        "url": "https://open.spotify.com/album/5CCdVEgMxHdXrufmR2cHHN"
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/6bbGk2B5atqLsu3SyLAGEk"
       },
       "artists": [
         {
-          "name": "Sonya",
-          "url": "https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3"
+          "name": "Ja\u00ebl",
+          "url": "https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe"
         }
       ],
-      "duration_ms": 249882,
-      "name": "Breakeven",
-      "url": "https://open.spotify.com/track/7eD0gs77mhlYRiTRI7IFf6"
+      "duration_ms": 217797,
+      "name": "Driving With You",
+      "url": "https://open.spotify.com/track/62bDQvC2EHmpMSCjtyvxY8"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1975,6 +1959,22 @@
       "duration_ms": 245824,
       "name": "Pancakes and M&M's",
       "url": "https://open.spotify.com/track/0yHhh772JCw4tIZHyfwYj2"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "AM Versions",
+        "url": "https://open.spotify.com/album/5CCdVEgMxHdXrufmR2cHHN"
+      },
+      "artists": [
+        {
+          "name": "Sonya",
+          "url": "https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3"
+        }
+      ],
+      "duration_ms": 249882,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/7eD0gs77mhlYRiTRI7IFf6"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "No Fixed Abode",
-        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
-      },
-      "artists": [
-        {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
-        }
-      ],
-      "duration_ms": 204081,
-      "name": "No Fixed Abode",
-      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Drives Me Crazy",
         "url": "https://open.spotify.com/album/29kOgkV6oKBFfZkL8sYgn6"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 262873,
       "name": "Drives Me Crazy",
       "url": "https://open.spotify.com/track/64b6Q49Fmm57T2cir1XorQ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "No Fixed Abode",
+        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
+      },
+      "artists": [
+        {
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "No Fixed Abode",
+      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cormorant Bird",
-        "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 207441,
-      "name": "Cormorant Bird",
-      "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/3IgPthMKjm0nSuvKPGa5yX"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 192933,
       "name": "Howl",
       "url": "https://open.spotify.com/track/5rpdyv7Vc3PzX3cWMuPQ3Y"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cormorant Bird",
+        "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 207441,
+      "name": "Cormorant Bird",
+      "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2299,38 +2299,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Keep The Times",
-        "url": "https://open.spotify.com/album/0iMzWAkVMzrJ68cr10I0CL"
-      },
-      "artists": [
-        {
-          "name": "Jonas David",
-          "url": "https://open.spotify.com/artist/3IHVWSn2opK0UJkgKwtaXm"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "Weak bones",
-      "url": "https://open.spotify.com/track/7gvT6FSYDIwlD9V33zw5Sy"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Darkest Darks, Lightest Lights",
-        "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "I Am the Moon",
-      "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Reason Is You",
         "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
       },
@@ -2347,6 +2315,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Keep The Times",
+        "url": "https://open.spotify.com/album/0iMzWAkVMzrJ68cr10I0CL"
+      },
+      "artists": [
+        {
+          "name": "Jonas David",
+          "url": "https://open.spotify.com/artist/3IHVWSn2opK0UJkgKwtaXm"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "Weak bones",
+      "url": "https://open.spotify.com/track/7gvT6FSYDIwlD9V33zw5Sy"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Roamer",
         "url": "https://open.spotify.com/album/2uo3FRe2COIa1wSwQpD3qV"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 236495,
       "name": "Roamer",
       "url": "https://open.spotify.com/track/3kX3E2ggU9LodxC0RYCR0w"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Darkest Darks, Lightest Lights",
+        "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "I Am the Moon",
+      "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
     },
     {
       "added_at": "2024-04-24 06:24:42",

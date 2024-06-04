@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 171000,
       "name": "Drame",
       "url": "https://open.spotify.com/track/2qKkU1B8d5sKYGlkhUGTpP"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 229743,
       "name": "Fuck The Feelings",
       "url": "https://open.spotify.com/track/0dGdfiC8QJXiuCx3Sf3oQv"
@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "HOUSEPHULL",
+        "url": "https://open.spotify.com/album/4XlrrW7oSZJDjjiOGwpV2E"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146712,
+      "name": "HOUSEPHULL!",
+      "url": "https://open.spotify.com/track/3QZVea80dqvsQEtmewjP2J"
+    },
+    {
+      "album": {
         "name": "Humnasheen",
         "url": "https://open.spotify.com/album/1lrsCjg7ktVG4Db5gB7ZKH"
       },
@@ -3200,6 +3218,24 @@
       "duration_ms": 161778,
       "name": "KAALE KAARNAME",
       "url": "https://open.spotify.com/track/4mwGoFQMgc3rCX8rqwzDkQ"
+    },
+    {
+      "album": {
+        "name": "HOUSEPHULL",
+        "url": "https://open.spotify.com/album/4XlrrW7oSZJDjjiOGwpV2E"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144879,
+      "name": "KABADDI!",
+      "url": "https://open.spotify.com/track/6oW9XB54HFhCgVFmIoOjfJ"
     },
     {
       "album": {

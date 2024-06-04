@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "0 CONFIANZA",
+        "url": "https://open.spotify.com/album/5mDS8nwkwqLwLE2UcV0Tq8"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "0 CONFIANZA",
+      "url": "https://open.spotify.com/track/1c6ErCCscnVJuVodXMbHgs"
+    },
+    {
+      "album": {
         "name": "1000CANCIONES",
         "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
@@ -6266,7 +6288,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 184058,
       "name": "LEGENDARIO",
       "url": "https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk"
@@ -6962,6 +6984,36 @@
       "duration_ms": 211969,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
+    },
+    {
+      "album": {
+        "name": "Maquillaje (feat. Yexel) [Remix]",
+        "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286283,
+      "name": "Maquillaje - Remix",
+      "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
     },
     {
       "album": {
@@ -9274,7 +9326,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 143540,
       "name": "PULL UP!",
       "url": "https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ"
@@ -11285,6 +11337,24 @@
     },
     {
       "album": {
+        "name": "Torii",
+        "url": "https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry"
+    },
+    {
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -11318,7 +11388,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"

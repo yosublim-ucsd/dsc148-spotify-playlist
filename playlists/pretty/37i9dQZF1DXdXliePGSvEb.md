@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,429 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,444 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 30 | [Candela](https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Candela](https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA) | 6:08 |
 | 31 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
 | 32 | [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 |
-| 33 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
-| 34 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
+| 33 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
+| 34 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
 | 35 | [Don't Let Go](https://open.spotify.com/track/6IKgXtJX61K7kByC3ZTRWM) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 4:29 |
 | 36 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 37 | [The Abyss](https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Abyss](https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS) | 7:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 45 | [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 |
 | 46 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 47 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |
-| 48 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
-| 49 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
+| 48 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
+| 49 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
 | 50 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 51 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 |
 | 52 | [The Ghost](https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [The Ghost](https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd) | 5:25 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 67 | [Turn The Lights](https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Turn The Lights](https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5) | 4:07 |
 | 68 | [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 |
 | 69 | [Circulate \(Together\)](https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Circulate \(Together\)](https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN) | 6:57 |
-| 70 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
-| 71 | [My Body](https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skreamizm 8](https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848) | 5:29 |
+| 70 | [My Body](https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skreamizm 8](https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848) | 5:29 |
+| 71 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
 | 72 | [L.F.O.](https://open.spotify.com/track/32Af7vCCWDKWlAipePUauP) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:31 |
 | 73 | [Monica Vitti](https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Vista Mare Forever](https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW) | 4:34 |
 | 74 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |

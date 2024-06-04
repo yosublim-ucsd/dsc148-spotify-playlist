@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,857 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,853 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 8 | [Bahar](https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD) | [Mektup](https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d) | 6:55 |
 | 9 | [Ney improvisation in Makam Saba](https://open.spotify.com/track/7JCBz2eNJHewYOeohCisJ9) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Sufi Music from Turkey](https://open.spotify.com/album/7HPFXJVmzs19piZwa1MjF4) | 2:30 |
 | 10 | [Hüseyni Saz Semaisi](https://open.spotify.com/track/6kyKxCLATMgXi0zDBuoW8S) | [Süleyman Yardım](https://open.spotify.com/artist/5VwrOti5uGssmr8KOrFSB9), [Mehmet Uçak](https://open.spotify.com/artist/4F0KK8MFGuIB6mzoaeMd8m) | [Kandil 2 Ney & Ud](https://open.spotify.com/album/2DfVKzTfSjfcHpEHxitJVX) | 5:12 |
-| 11 | [Tekbir](https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI) | [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB) | [Yazı Tura \(Orijinal Film Müzikleri\)](https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z) | 1:52 |
-| 12 | [Huzur](https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s) | [Kazım Girit](https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519), [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr) | [Mevlana Mevlevi \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2) | 3:39 |
+| 11 | [Huzur](https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s) | [Kazım Girit](https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519), [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr) | [Mevlana Mevlevi \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2) | 3:39 |
+| 12 | [Tekbir](https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI) | [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB) | [Yazı Tura \(Orijinal Film Müzikleri\)](https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z) | 1:52 |
 | 13 | [Kabenin Yolları](https://open.spotify.com/track/2v6lbiYkIw9ePZq52oFC4v) | [Yunus Emre](https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ) | [The Nay 2](https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2) | 2:46 |
 | 14 | [Ney'le Hoşgeldin Nihavend Taksim](https://open.spotify.com/track/1IID5LMM0y6YtKwkbv6f3n) | [Murat Akman](https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe) | [Ney Taksimleri](https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD) | 1:57 |
 | 15 | [Gül Bahçesi](https://open.spotify.com/track/764idkmt4QTajFaD4LGG21) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney\-II](https://open.spotify.com/album/2JeR64azmA15vUXz0GUc4f) | 3:49 |

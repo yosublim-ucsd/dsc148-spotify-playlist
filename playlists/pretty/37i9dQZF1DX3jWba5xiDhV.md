@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,224 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,470 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 71 | [BUBBLEGUM \- Jürgen Paape "Frutti Di Mare" Remix](https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO) | [ISABELLA](https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [BUBBLEGUM \(Jürgen Paape "Frutti Di Mare" Remix\)](https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C) | 5:15 |
 | 72 | [Starlight Delight](https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR) | [NOCUI](https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV) | [Starlight Delight](https://open.spotify.com/album/0SNFL0dNsmhBdzaWn1ftlp) | 5:27 |
 | 73 | [Let Me Love Tonight \- Radio Version](https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d) | [Electric Mind](https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja) | [Let me love tonight \(12 Inc\)](https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU) | 3:49 |
-| 74 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
+| 74 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 |
 | 75 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 |
 
 Snapshot ID: `Zk3QbAAAAAC/bmF+h0CqIIAevgero1LT`

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 254414,
       "name": "24",
       "url": "https://open.spotify.com/track/7usWmCLUBejavgrmPbaD7u"
@@ -1174,6 +1174,24 @@
       "duration_ms": 160798,
       "name": "Breakdown Breakthrough",
       "url": "https://open.spotify.com/track/5bZvRooFCPjkuygB7awuCu"
+    },
+    {
+      "album": {
+        "name": "Brian Cox",
+        "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "Brian Cox",
+      "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
     },
     {
       "album": {
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 260140,
       "name": "I Get High",
       "url": "https://open.spotify.com/track/3nhu3q5V1VLVNm9fjGRRjU"
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 126450,
       "name": "I Need Therapy 2.4 (alt_demo)",
       "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
@@ -5260,7 +5278,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 158504,
       "name": "I'd Love To Tell You",
       "url": "https://open.spotify.com/track/3tqsyPmhM3yARbZARFTRKE"
@@ -6231,6 +6249,24 @@
     },
     {
       "album": {
+        "name": "Lemon Tea",
+        "url": "https://open.spotify.com/album/7wMKPka806GEbddfgR14vV"
+      },
+      "artists": [
+        {
+          "name": "Sharny",
+          "url": "https://open.spotify.com/artist/7mVN8whS1b2pF7UDDiYAv8"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147119,
+      "name": "Lemon Tea",
+      "url": "https://open.spotify.com/track/6Zk2jK6GsGrH0lhNy1ukRz"
+    },
+    {
+      "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL"
       },
@@ -6488,6 +6524,24 @@
       "duration_ms": 199680,
       "name": "Little More Country",
       "url": "https://open.spotify.com/track/33LP5EPvWMtjRGG2wn4NJf"
+    },
+    {
+      "album": {
+        "name": "Little One",
+        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217194,
+      "name": "Little One",
+      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
     },
     {
       "album": {
@@ -6780,7 +6834,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 136833,
       "name": "Main Thing",
       "url": "https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X"
@@ -9787,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162639,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j"
+    },
+    {
+      "album": {
         "name": "Sweat You Out My System",
         "url": "https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi"
       },
@@ -10741,6 +10813,24 @@
     },
     {
       "album": {
+        "name": "U Should Not Be Doing That / Facts",
+        "url": "https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206659,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn"
+    },
+    {
+      "album": {
         "name": "BETTER LEFT UNSAID",
         "url": "https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL"
       },
@@ -10864,6 +10954,24 @@
       "duration_ms": 176128,
       "name": "Unforgivingly Me",
       "url": "https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9"
+    },
+    {
+      "album": {
+        "name": "Deep Rest",
+        "url": "https://open.spotify.com/album/6swkISkLHItiTbHUb3OphG"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201214,
+      "name": "Ungrateful",
+      "url": "https://open.spotify.com/track/5eKPEgQR5Fgoxw1zjXEvV8"
     },
     {
       "album": {
@@ -11390,7 +11498,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 232533,
       "name": "Wild For Change",
       "url": "https://open.spotify.com/track/1x7MgVfK7MP3aZkAuae3t8"
@@ -11462,7 +11570,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 238864,
       "name": "Witness",
       "url": "https://open.spotify.com/track/4LfSwi3vWDMQYqNsxsIesm"
@@ -11664,6 +11772,24 @@
       "duration_ms": 201173,
       "name": "You Know Better",
       "url": "https://open.spotify.com/track/11CHB0JnkbhkDyMfuqLQdZ"
+    },
+    {
+      "album": {
+        "name": "Young Dumb Immature",
+        "url": "https://open.spotify.com/album/6QrW8csTryFCwIqaMNsNYZ"
+      },
+      "artists": [
+        {
+          "name": "Betty Taylor",
+          "url": "https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229303,
+      "name": "Young Dumb Immature",
+      "url": "https://open.spotify.com/track/3z5WMvblcXCYkwclMdG08r"
     },
     {
       "album": {

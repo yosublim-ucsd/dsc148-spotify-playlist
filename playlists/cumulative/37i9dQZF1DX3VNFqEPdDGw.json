@@ -1039,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Jattz N The Hood",
+        "url": "https://open.spotify.com/album/0tFCloZ4X5sJzG5l5kYJ8M"
+      },
+      "artists": [
+        {
+          "name": "DesiFrenzy",
+          "url": "https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E"
+        },
+        {
+          "name": "Jazzy B",
+          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323414,
+      "name": "Jattz N The Hood",
+      "url": "https://open.spotify.com/track/6a9zSfsN3TUdotZZgrBSOW"
+    },
+    {
+      "album": {
         "name": "Next Chapter",
         "url": "https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 361911,
+  "num_followers": 362104,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 342986,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
         "name": "Club Classics",
         "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 424266,
       "name": "Make It On My Own - 12\" Club Mix",
       "url": "https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 342986,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr"
     },
     {
       "added_at": "2024-04-11 17:58:33",

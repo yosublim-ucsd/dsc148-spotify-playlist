@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,977 likes - 42 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,089 likes - 42 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

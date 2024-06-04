@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19036,
+  "num_followers": 19043,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Liliana Dominguez",
+          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
         "name": "Pobre Flor (Primera Ilusi\u00f3n)",
         "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 126460,
       "name": "Pobre Flor (Primera Ilusi\u00f3n)",
       "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Liliana Dominguez",
-          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
     },
     {
       "added_at": "2024-05-17 14:18:57",

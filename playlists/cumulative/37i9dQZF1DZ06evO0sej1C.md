@@ -2,7 +2,7 @@
 
 ### [This Is Yoss Bones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sej1C)
 
-> This Is Yoss Bones\. Los temas esenciales, todos en una lista.
+> This is Yoss Bones\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 16 min
 

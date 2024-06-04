@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kaia Lana en portada.",
-  "num_followers": 84770,
+  "num_followers": 84774,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -31,18 +31,26 @@
     {
       "added_at": "2024-05-31 06:10:00",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+        "name": "Tiroteo (Remix)",
+        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+      "duration_ms": 321555,
+      "name": "Tiroteo - Remix",
+      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
     },
     {
       "added_at": "2024-05-31 06:10:00",
@@ -161,7 +169,7 @@
         },
         {
           "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
       "duration_ms": 188862,
@@ -171,26 +179,18 @@
     {
       "added_at": "2024-05-31 06:10:00",
       "album": {
-        "name": "Tiroteo (Remix)",
-        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 321555,
-      "name": "Tiroteo - Remix",
-      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "added_at": "2024-05-31 06:10:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-05-31 06:10:00",
       "album": {
-        "name": "DAIKIRI CON FRESA",
-        "url": "https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Abrildefresa",
-          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
-        }
-      ],
-      "duration_ms": 199913,
-      "name": "DAIKIRI CON FRESA",
-      "url": "https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9"
-    },
-    {
-      "added_at": "2024-05-31 06:10:00",
-      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
+    },
+    {
+      "added_at": "2024-05-31 06:10:00",
+      "album": {
+        "name": "DAIKIRI CON FRESA",
+        "url": "https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        }
+      ],
+      "duration_ms": 199913,
+      "name": "DAIKIRI CON FRESA",
+      "url": "https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9"
     },
     {
       "added_at": "2024-05-31 06:10:00",

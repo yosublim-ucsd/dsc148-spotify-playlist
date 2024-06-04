@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: DJ Snake & Peso Pluma ",
-  "num_followers": 499042,
+  "num_followers": 499040,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 188143,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Boucan (feat. Franglish)",
         "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 171216,
       "name": "Boucan (feat. Franglish)",
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
+        "name": "Parado no Bail\u00e3o",
+        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
+      },
+      "artists": [
+        {
+          "name": "MC L da Vinte",
+          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+        },
+        {
+          "name": "MC Gury",
+          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Parado no Bail\u00e3o",
+      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
-        "name": "Parado no Bail\u00e3o",
-        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
-      },
-      "artists": [
-        {
-          "name": "MC L da Vinte",
-          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
-        },
-        {
-          "name": "MC Gury",
-          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Parado no Bail\u00e3o",
-      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "How You Feel (Ft. Leven Kali)",
         "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Love Me Back (Fayahh Beat)",
         "url": "https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 193626,
       "name": "Love Me Back (Fayahh Beat)",
       "url": "https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 141031,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Hey Mor",
         "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 141031,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
     },
     {
       "added_at": "2024-05-03 16:59:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=LDocmcOaSjmwHGY1vCdePQ">Demi Lee Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,655 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,689 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,705 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,695 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 70 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
 | 71 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
 | 72 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
-| 73 | [What a Cowboy Was](https://open.spotify.com/track/3hb6cKDEdu8Infy82t8c6f) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [What a Cowboy Was](https://open.spotify.com/album/07tS2uEXGB7DYVrjGN4Mc8) | 4:28 |
+| 73 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 74 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 |
-| 75 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
+| 75 | [What a Cowboy Was](https://open.spotify.com/track/3hb6cKDEdu8Infy82t8c6f) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [What a Cowboy Was](https://open.spotify.com/album/07tS2uEXGB7DYVrjGN4Mc8) | 4:28 |
 | 76 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
 | 78 | [Bottom of It](https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bottom of It](https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm) | 3:12 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 91 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 |
 | 92 | [Hope It Don’t Take Forever](https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1) | [Corey Hunt and the Wise](https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC) | [Hope It Don’t Take Forever](https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP) | 3:44 |
 | 93 | [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 |
-| 94 | [If I Had a Bar](https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [If I Had a Bar](https://open.spotify.com/album/3xKfoEvSGdBlRIZ6GUT4Lf) | 3:07 |
-| 95 | [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 |
+| 94 | [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 |
+| 95 | [If I Had a Bar](https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [If I Had a Bar](https://open.spotify.com/album/3xKfoEvSGdBlRIZ6GUT4Lf) | 3:07 |
 | 96 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 |
 | 97 | [Honky Tonk City](https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Honky Tonk City](https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR) | 2:32 |
 | 98 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
 | 99 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 |
-| 100 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 |
+| 100 | [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 |
 
 Snapshot ID: `ZllLQAAAAABAdH0Y5NbQj3coePhvcruP`

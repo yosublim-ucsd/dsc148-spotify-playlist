@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123920,
+  "num_followers": 123922,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+      "duration_ms": 190253,
+      "name": "Don't Fade",
+      "url": "https://open.spotify.com/track/1Dgcy5t2hwVGWqvbMJr88F"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 190253,
-      "name": "Don't Fade",
-      "url": "https://open.spotify.com/track/1Dgcy5t2hwVGWqvbMJr88F"
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Crying in Cars",
+        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
+      },
+      "artists": [
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "duration_ms": 222024,
+      "name": "Let Me Hurt (Acoustic)",
+      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Still as the Night",
         "url": "https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 196615,
       "name": "Pull",
       "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Crying in Cars",
-        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
-      },
-      "artists": [
-        {
-          "name": "Emily Rowed",
-          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
-        }
-      ],
-      "duration_ms": 222024,
-      "name": "Let Me Hurt (Acoustic)",
-      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Wienerschnitzel",
-        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 176398,
-      "name": "Wienerschnitzel",
-      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 244213,
       "name": "Beyond - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Wienerschnitzel",
+        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        }
+      ],
+      "duration_ms": 176398,
+      "name": "Wienerschnitzel",
+      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Celebrity Lookalikes",
         "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 212458,
       "name": "Celebrity Lookalikes",
       "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+        "name": "Funeral (feat. James Bay)",
+        "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
       },
       "artists": [
         {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+      "duration_ms": 154013,
+      "name": "Funeral (feat. James Bay)",
+      "url": "https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Funeral (feat. James Bay)",
-        "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
         }
       ],
-      "duration_ms": 154013,
-      "name": "Funeral (feat. James Bay)",
-      "url": "https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx"
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Hold Me Like A Fire",
-        "url": "https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p"
-      },
-      "artists": [
-        {
-          "name": "Reuben And The Dark",
-          "url": "https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO"
-        }
-      ],
-      "duration_ms": 192733,
-      "name": "Hold Me Like A Fire",
-      "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "In Plain Sight",
         "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 156802,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Hold Me Like A Fire",
+        "url": "https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p"
+      },
+      "artists": [
+        {
+          "name": "Reuben And The Dark",
+          "url": "https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "Hold Me Like A Fire",
+      "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
     },
     {
       "added_at": "2024-05-24 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 240818,
+  "num_followers": 240877,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Clouds II",
+        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Clouds II",
+      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "So Much To Say (Pt. III)",
         "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Clouds II",
-        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Clouds II",
-      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "High Level Praise",
         "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 198504,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 224606,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "SURREAL",
         "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
       },
       "artists": [
         {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         }
       ],
-      "duration_ms": 224606,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
+      "duration_ms": 212687,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 212687,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Simple Ways",
         "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 177214,
       "name": "Simple Ways",
       "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Surrender The Will",
+        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 168834,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Surrender The Will",
-        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 168834,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Only Jesus",
         "url": "https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ"
       },
@@ -1227,38 +1243,6 @@
       "duration_ms": 166829,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Thousands of Years",
-        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 181352,
-      "name": "Thousands of Years",
-      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+        "name": "Thousands of Years",
+        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
         }
       ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+      "duration_ms": 181352,
+      "name": "Thousands of Years",
+      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 242181,
       "name": "Joy",
       "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Bad To The Bone",
+        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 176062,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Bad To The Bone",
-        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 161584,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
     },
     {
       "added_at": "2024-01-12 07:49:20",

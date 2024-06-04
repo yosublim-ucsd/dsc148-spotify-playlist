@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 204228,
+  "num_followers": 204373,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-27 12:58:47",
       "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
-    },
-    {
-      "added_at": "2024-05-27 12:58:47",
-      "album": {
         "name": "The 2nd Mini Album 'Summer Vibe'",
         "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 218880,
       "name": "LOVEADE",
       "url": "https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y"
+    },
+    {
+      "added_at": "2024-05-27 12:58:47",
+      "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2024-05-27 12:58:47",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-05-27 12:58:47",
       "album": {
-        "name": "CIX 1st Album 'OK' Prologue : Be OK",
-        "url": "https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR"
-      },
-      "artists": [
-        {
-          "name": "CIX",
-          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "WAVE",
-      "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
-    },
-    {
-      "added_at": "2024-05-27 12:58:47",
-      "album": {
         "name": "Rollin' (New Version)",
         "url": "https://open.spotify.com/album/4xmh2xJI6SENhp5cvXiynw"
       },
@@ -1679,18 +1663,34 @@
     {
       "added_at": "2024-05-27 12:58:47",
       "album": {
-        "name": "GATEWAY",
-        "url": "https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW"
+        "name": "CIX 1st Album 'OK' Prologue : Be OK",
+        "url": "https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR"
       },
       "artists": [
         {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
         }
       ],
-      "duration_ms": 209280,
-      "name": "When You Call My Name",
-      "url": "https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2"
+      "duration_ms": 199946,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
+    },
+    {
+      "added_at": "2024-05-27 12:58:47",
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

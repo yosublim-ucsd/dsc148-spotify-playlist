@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: bé sau này trở thành diva
 
-232 songs - 15 hr 2 min
+233 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 | 2022-09-06 | 2022-09-23 |
 | [Bo Xì Bo](https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:52 | 2023-01-14 | 2024-04-03 |
 | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/track/0YJ3fxavN7Sms9TlNxWUhf) | [MiiNa](https://open.spotify.com/artist/76nos2JmvLyYGZ28ribrf7) | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/album/1Tsl1MK40xOShJzK6mwXsc) | 4:03 | 2022-09-27 | 2022-12-01 |
+| [Bài Ca Khởi Hành](https://open.spotify.com/track/0VZpQ2QGfzN9AlF62B2DrA) | [Hà Trần](https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk) | [Bài Ca Khởi Hành](https://open.spotify.com/album/33QwWYrON5FegB2hb6rUgT) | 4:54 | 2024-06-03 |  |
 | [Bóng Phù Hoa](https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 4:34 | 2023-10-02 | 2023-12-09 |
-| [Bạn Chờ](https://open.spotify.com/track/32FuaOZbaeYQSSE10wdC7q) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Guess I Should've Known](https://open.spotify.com/album/6p4L9Cwn8ZrMJM4G2aCUNU) | 3:15 | 2024-05-21 |  |
+| [Bạn Chờ](https://open.spotify.com/track/32FuaOZbaeYQSSE10wdC7q) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Guess I Should've Known](https://open.spotify.com/album/6p4L9Cwn8ZrMJM4G2aCUNU) | 3:15 | 2024-05-21 | 2024-06-04 |
 | [Bởi Vì Là Khi Yêu](https://open.spotify.com/track/57idtlQlKCv3toIDtx5LaX) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [Bởi Vì Là Khi Yêu](https://open.spotify.com/album/3pAb4r4EzKQNUqjrt8HCoe) | 4:12 | 2021-12-07 | 2024-04-03 |
 | [Bởi Vì Yêu](https://open.spotify.com/track/74C7vazAOSPwpVGxx21n5l) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Bởi Vì Yêu](https://open.spotify.com/album/7wgd9XeERTsnRGmBi1hIzU) | 3:26 | 2021-12-07 | 2022-02-02 |
 | [Cho Em Một Lần Yêu](https://open.spotify.com/track/5oQwxJJBwKPGkZliiyv3jQ) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [The Singer](https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5) | 3:45 | 2022-04-06 | 2022-05-27 |

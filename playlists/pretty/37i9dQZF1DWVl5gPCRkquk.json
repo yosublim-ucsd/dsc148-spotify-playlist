@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1601907,
+  "num_followers": 1601888,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Honey I'm Hardly",
         "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 167733,
       "name": "Honey I'm Hardly",
       "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK"
-      },
-      "artists": [
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 220676,
-      "name": "I Fall in Love Too Easily",
-      "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Simple Syrup",
         "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 217813,
       "name": "Lucid Lucy",
       "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "duration_ms": 220676,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Featherweight",
+      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Western White Pines (Deluxe)",
-        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 278256,
-      "name": "Cherokee Rose",
-      "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+        "name": "Western White Pines (Deluxe)",
+        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
         }
       ],
-      "duration_ms": 230813,
-      "name": "Featherweight",
-      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+      "duration_ms": 278256,
+      "name": "Cherokee Rose",
+      "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Tiny Things",
-        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 217687,
-      "name": "delay",
-      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tiny Things",
+        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 217687,
+      "name": "delay",
+      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1235,6 +1235,38 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Carolina Rolling By",
+        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 295380,
+      "name": "Carolina Rolling By",
+      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Adeline",
+        "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 188824,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "A Mermaid in Lisbon",
         "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
       },
@@ -1259,38 +1291,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Adeline",
-        "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 188824,
-      "name": "Adeline",
-      "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Carolina Rolling By",
-        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 295380,
-      "name": "Carolina Rolling By",
-      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Here Comes The Comeback",
         "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 162101,
       "name": "Here Comes The Comeback",
       "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF"
-      },
-      "artists": [
-        {
-          "name": "St. Catherine's Child",
-          "url": "https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "When I Say That I Love You",
         "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF"
+      },
+      "artists": [
+        {
+          "name": "St. Catherine's Child",
+          "url": "https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Whiskey Whiskey",
         "url": "https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB"
       },
@@ -1663,18 +1647,38 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
       },
       "artists": [
         {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "What If I EP",
+        "url": "https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        },
+        {
+          "name": "Charlie Gabriel",
+          "url": "https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Slow Pace Of Time [Feat. Charlie Gabriel]",
+      "url": "https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR"
     }
   ],
   "unique_name": "Chill Folk",

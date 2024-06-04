@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-249 songs - 15 hr 26 min
+253 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Hold On](https://open.spotify.com/track/15ouO5mVTnfZnHkShDqioD) | [Kim Soo Cheol](https://open.spotify.com/artist/1a53QOnOG1EJ6ppKrnM97t) | [Kim Soo Chul One Man Band](https://open.spotify.com/album/2srwhj4UhJ3qe0fK1gHj3n) | 3:45 | 2023-06-15 |  |
 | [Holiday](https://open.spotify.com/track/5nR49Yw6tAlOd1DLfuwWAA) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:25 | 2024-02-20 |  |
 | [hope you stay](https://open.spotify.com/track/2P0rwx1GoRmoNVXKtVJkgr) | [WOOBIN](https://open.spotify.com/artist/6f30L8Kfp6eCfXSks9cTgY) | [Romance by Romance \(Original Television Soundtrack\)](https://open.spotify.com/album/4f3sJgDZOL90O6iXc1xTaO) | 3:41 | 2023-08-28 |  |
+| [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2024-06-03 |  |
 | [How Long Will I Love You](https://open.spotify.com/track/48x1VbWiN6kiJAdGBISzhn) | [Jon Boden](https://open.spotify.com/artist/3BApgOPiuES6zVJ78mKNGo), [Sam Sweeney](https://open.spotify.com/artist/4FcklCWRwv63IgbRfLoQA3), [Ben Coleman](https://open.spotify.com/artist/7KLY8vNoqCLDmpC9STHomw) | [About Time](https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y) | 2:46 | 2024-02-20 |  |
 | [Hug](https://open.spotify.com/track/7jPev7m1RQ6gUMYIfGobAl) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'](https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5) | 2:39 | 2023-08-28 |  |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2023-08-04 |  |
@@ -93,8 +94,10 @@
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/6mwBMPGpO0gtvR8QKxVCyo) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2) | 4:19 | 2023-12-11 |  |
 | [Irreplaceable](https://open.spotify.com/track/3EFNqXf54nYARxXm5b7kGT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:24 | 2024-05-17 |  |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2024-02-20 |  |
+| [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 | 2024-06-03 |  |
 | [Jjiniya](https://open.spotify.com/track/0rQJA3W3c58WQLJRQYr4Tg) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:11 | 2024-05-17 |  |
 | [JOAH \- Re\-Mastered](https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVOLUTION](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:50 | 2024-02-20 |  |
+| [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 | 2024-06-03 |  |
 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 | 2023-09-22 |  |
 | [Kiss The Rain](https://open.spotify.com/track/7vd1j4IDTU0koES9M8dvBQ) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [From The Yellow Room \(The Original & the Very First Recording\)](https://open.spotify.com/album/29tE32FrVIR0L7cz9LeykK) | 4:20 | 2023-07-03 |  |
 | [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 | 2023-11-02 |  |
@@ -220,6 +223,7 @@
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-07-07 |  |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-09-01 |  |
 | [有心論](https://open.spotify.com/track/7KGXHjytcuqx3cW4VyWtCM) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [有心論](https://open.spotify.com/album/67Lf9JiwFuCOaoxcrfXyb8) | 4:10 | 2024-05-17 |  |
+| [稻香](https://open.spotify.com/track/69pyHCoBn4Ki0BzDJ2xPGI) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 3:43 | 2024-06-03 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-12-11 |  |
 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/1F8Z48JxxB4Diz1HMEUbb6) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q) | 3:50 | 2024-01-05 | 2024-04-19 |
 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 3:50 | 2023-08-28 |  |

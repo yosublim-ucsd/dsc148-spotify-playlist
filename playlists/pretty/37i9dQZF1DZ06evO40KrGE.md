@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,810 likes - 51 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,821 likes - 51 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 33 | [Todo Poderoso](https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:49 |
 | 34 | [Não Reclame](https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:26 |
 | 35 | [Deus Velará por Ti](https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:00 |
-| 36 | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl) | 4:19 |
-| 37 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 |
+| 36 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 |
+| 37 | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl) | 4:19 |
 | 38 | [Erguer as Mãos](https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:34 |
-| 39 | [Faça a diferença](https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Seleção Essencial \- Grandes Sucessos \- Cassiane](https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn) | 4:36 |
-| 40 | [A Alma Abatida](https://open.spotify.com/track/512xriilWCODMzkyhFaR4O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:07 |
+| 39 | [A Alma Abatida](https://open.spotify.com/track/512xriilWCODMzkyhFaR4O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:07 |
+| 40 | [Faça a diferença](https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Seleção Essencial \- Grandes Sucessos \- Cassiane](https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn) | 4:36 |
 | 41 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 |
 | 42 | [Louvor sem Fim](https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 5:21 |
-| 43 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
-| 44 | [Fala Jesus Querido](https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 7:13 |
+| 43 | [Fala Jesus Querido](https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 7:13 |
+| 44 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
 | 45 | [Não Negue a Jesus / Com Cristo é Vencer / Contigo Está](https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 4:17 |
 | 46 | [O Fogo de Deus](https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 5:11 |
 | 47 | [Unidos Pelo Amor](https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV) | [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB), [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Brother Simion](https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Banda & Voz](https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E), [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Marina de Oliveira \- Gospel Collection Ao Vivo](https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n) | 3:02 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 50 | [Se Cristo Comigo Vai](https://open.spotify.com/track/5nWxAj8qbYBGUUFoIF4Bf7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 5:56 |
 | 51 | [Não Negue a Jesus](https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:21 |
 
-Snapshot ID: `ZlpkgAAAAABPHUp+51+oT46aK+ESmVri`
+Snapshot ID: `Zlu2AAAAAAC54HEzT5NkKAt+WifHE9wl`

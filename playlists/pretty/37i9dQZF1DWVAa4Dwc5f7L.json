@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 380911,
+  "num_followers": 380926,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Sandy & Papo MC",
+        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
+      },
+      "artists": [
+        {
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "La Hora De Bailar",
+      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "La Melodia de la Calle \"Updated\"",
         "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
@@ -435,6 +451,22 @@
       "duration_ms": 264146,
       "name": "El Doctorado",
       "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Merengue Electronico (Rompe Consola)",
+      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -455,38 +487,6 @@
       "duration_ms": 214145,
       "name": "Esta Canci\u00f3n",
       "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Sandy & Papo MC",
-        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
-      },
-      "artists": [
-        {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "La Hora De Bailar",
-      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Merengue Electronico (Rompe Consola)",
-      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "LIMI-T Para Siempre",
-        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
+        "name": "Merengue De Amor Vol.1",
+        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
       },
       "artists": [
         {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 153789,
-      "name": "Quiero Quemar La Pista",
-      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
+      "duration_ms": 250400,
+      "name": "Que Cara M\u00e1s Bonita",
+      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1067,18 +1067,34 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Merengue De Amor Vol.1",
-        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
+        "name": "LIMI-T Para Siempre",
+        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
         }
       ],
-      "duration_ms": 250400,
-      "name": "Que Cara M\u00e1s Bonita",
-      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
+      "duration_ms": 153789,
+      "name": "Quiero Quemar La Pista",
+      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/3nAOYBaxxla88WMihoA5Ig"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        }
+      ],
+      "duration_ms": 193522,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/56DvXyI2IcAM8cU6uWM0Ei"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Confundido",
-        "url": "https://open.spotify.com/album/3nAOYBaxxla88WMihoA5Ig"
+        "name": "15to Aniversario",
+        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
       },
       "artists": [
         {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
         }
       ],
-      "duration_ms": 193522,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/56DvXyI2IcAM8cU6uWM0Ei"
+      "duration_ms": 310933,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "15to Aniversario",
-        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "El Meneito",
-      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Imparable",
         "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
       },
@@ -1179,30 +1179,6 @@
       "duration_ms": 211098,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "No Somos Iguales",
-        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
-      },
-      "artists": [
-        {
-          "name": "Victor Drija",
-          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
-        },
-        {
-          "name": "Sixto Rein",
-          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
-        },
-        {
-          "name": "Gustavo Elis",
-          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "No Somos Iguales",
-      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1227,6 +1203,30 @@
       "duration_ms": 947950,
       "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
       "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
+      },
+      "artists": [
+        {
+          "name": "Victor Drija",
+          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
+        },
+        {
+          "name": "Sixto Rein",
+          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
+        },
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Ganas (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 215478,
-      "name": "Ganas - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Back In Town",
         "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Ganas (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 215478,
+      "name": "Ganas - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
-        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
+        "name": "Con El Machete En La Mano",
+        "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
       },
       "artists": [
         {
-          "name": "Rey Casas",
-          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
+          "name": "Zafra Negra",
+          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
         }
       ],
-      "duration_ms": 148986,
-      "name": "El Costo De La Vida",
-      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
+      "duration_ms": 290613,
+      "name": "No Llores Por Ella",
+      "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Con El Machete En La Mano",
-        "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
+        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
+        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
       },
       "artists": [
         {
-          "name": "Zafra Negra",
-          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+          "name": "Rey Casas",
+          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
         }
       ],
-      "duration_ms": 290613,
-      "name": "No Llores Por Ella",
-      "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
+      "duration_ms": 148986,
+      "name": "El Costo De La Vida",
+      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
     },
     {
       "added_at": "2024-05-03 04:00:00",

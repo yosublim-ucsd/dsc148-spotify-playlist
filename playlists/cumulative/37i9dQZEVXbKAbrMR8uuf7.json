@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/4kQujiq5GIgUuQoqGZvnDA"
@@ -13523,6 +13523,24 @@
     },
     {
       "album": {
+        "name": "LA VIDA BUENA",
+        "url": "https://open.spotify.com/album/3RH2tXKNV8bLF4EmgaBn9i"
+      },
+      "artists": [
+        {
+          "name": "SANTI SERRA",
+          "url": "https://open.spotify.com/artist/160stBXe31uhue2Fb598X4"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "LA VIDA BUENA",
+      "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
+    },
+    {
+      "album": {
         "name": "La Weed",
         "url": "https://open.spotify.com/album/7sFwZTq8ce2sdePfj9en3M"
       },
@@ -14756,7 +14774,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -16158,7 +16176,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -16570,7 +16588,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 167659,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/2WK1iabgyWOS65KFKeMU41"
@@ -18535,6 +18553,24 @@
     },
     {
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/1nPOxEA3FHxck7SP9yU3JE"
+      },
+      "artists": [
+        {
+          "name": "SadBoyForLife",
+          "url": "https://open.spotify.com/artist/6y1IgqxPpQyqVqwmINNUU2"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/1LuD1Wdygbu6WfWJqqZlM5"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -19700,7 +19736,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 165168,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/5SaMYroYijYFY2CXQOcRCZ"
@@ -20964,7 +21000,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -24954,7 +24990,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 116683,
       "name": "Sobalo",
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
@@ -25092,7 +25128,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 146526,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
@@ -28362,7 +28398,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
@@ -28552,7 +28588,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 187694,
       "name": "Vamono Lejos",
       "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"

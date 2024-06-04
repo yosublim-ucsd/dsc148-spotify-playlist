@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,896 likes - 40 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,317 likes - 40 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 35 | [WINTER ARC FUNK](https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [WINTER ARC FUNK](https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT) | 1:31 |
 | 36 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
 | 37 | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0) | [RXPOSO99](https://open.spotify.com/artist/5joODcLQTClX0o3q13SOfU), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz) | 1:36 |
-| 38 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 |
-| 39 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
-| 40 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 |
+| 38 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
+| 39 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 |
+| 40 | [DRESS!](https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [DRESS!](https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI) | 1:30 |
 
 Snapshot ID: `Zjzq8QAAAACMPx3RqzpABB6RvrvEWg6q`

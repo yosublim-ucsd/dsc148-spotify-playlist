@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Leo Santana, Anitta",
-  "num_followers": 523121,
+  "num_followers": 523175,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -111,58 +111,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "PEGA ESCANDALOSO",
-        "url": "https://open.spotify.com/album/04zYU6BO0y6Tz9rkmg658x"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 157244,
-      "name": "PEGA ESCANDALOSO",
-      "url": "https://open.spotify.com/track/0ODlZu2uJ13I29NfFJJVir"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Baile do Bruxo (DELUXE)",
-        "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "SMU",
-          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
-        },
-        {
-          "name": "Dj Vitin do Pc",
-          "url": "https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5"
-        },
-        {
-          "name": "MC JF",
-          "url": "https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs"
-        },
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        }
-      ],
-      "duration_ms": 121384,
-      "name": "TUMB\u00c1TUM",
-      "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Mtg Forr\u00f3 e Desmantelo",
         "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
       },
@@ -183,6 +131,26 @@
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "PEGA ESCANDALOSO",
+        "url": "https://open.spotify.com/album/04zYU6BO0y6Tz9rkmg658x"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 157244,
+      "name": "PEGA ESCANDALOSO",
+      "url": "https://open.spotify.com/track/0ODlZu2uJ13I29NfFJJVir"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -223,6 +191,38 @@
       "duration_ms": 300842,
       "name": "Samba de Malandro",
       "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Baile do Bruxo (DELUXE)",
+        "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "Dj Vitin do Pc",
+          "url": "https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5"
+        },
+        {
+          "name": "MC JF",
+          "url": "https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        }
+      ],
+      "duration_ms": 121384,
+      "name": "TUMB\u00c1TUM",
+      "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -399,8 +399,8 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Tem Caf\u00e9",
-        "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
+        "name": "Barulho do Prazer",
+        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
       },
       "artists": [
         {
@@ -408,17 +408,17 @@
           "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
         },
         {
-          "name": "Andrezin Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         },
         {
-          "name": "Dj Kevin Oficial",
-          "url": "https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS"
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 158122,
-      "name": "Tem Caf\u00e9",
-      "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
+      "duration_ms": 150399,
+      "name": "Barulho do Prazer",
+      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "T\u00e1 OK",
-        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 92093,
-      "name": "T\u00e1 OK",
-      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Falta de Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/72Hasil7xvwX5JNGwkXHiR"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 154164,
       "name": "Falta de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/6CqDt0kMtPLvul13OS9afe"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "T\u00e1 OK",
+        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 92093,
+      "name": "T\u00e1 OK",
+      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -567,8 +567,8 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Barulho do Prazer",
-        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
+        "name": "Tem Caf\u00e9",
+        "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
       },
       "artists": [
         {
@@ -576,17 +576,17 @@
           "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
         },
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "Andrezin Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf"
         },
         {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Dj Kevin Oficial",
+          "url": "https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS"
         }
       ],
-      "duration_ms": 150399,
-      "name": "Barulho do Prazer",
-      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
+      "duration_ms": 158122,
+      "name": "Tem Caf\u00e9",
+      "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Pra Quebrar a Cara",
         "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 166875,
       "name": "Dano Sarrada - Remix",
       "url": "https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 147116,
+      "name": "5 Da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "N\u00e3o Para",
         "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 180923,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 147116,
-      "name": "5 Da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -987,22 +987,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
-        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
       },
       "artists": [
         {
           "name": "Leo Santana",
           "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         }
       ],
-      "duration_ms": 171100,
-      "name": "Cama Repetida",
-      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
+      "duration_ms": 187562,
+      "name": "Posturado E Calmo",
+      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "LUAN CITY DELUXE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
+        "name": "Pel\u00edcula de Vidro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7psl0XwwmQZArUR3efXKgx"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 148548,
-      "name": "SOLTEIROU - Ao Vivo",
-      "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
+      "duration_ms": 146634,
+      "name": "Pel\u00edcula de Vidro - Ao Vivo",
+      "url": "https://open.spotify.com/track/5G14doWE8UZLFw9nlcNDm8"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Pel\u00edcula de Vidro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7psl0XwwmQZArUR3efXKgx"
+        "name": "LUAN CITY DELUXE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 146634,
-      "name": "Pel\u00edcula de Vidro - Ao Vivo",
-      "url": "https://open.spotify.com/track/5G14doWE8UZLFw9nlcNDm8"
+      "duration_ms": 148548,
+      "name": "SOLTEIROU - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
+        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
       },
       "artists": [
         {
           "name": "Leo Santana",
           "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         }
       ],
-      "duration_ms": 187562,
-      "name": "Posturado E Calmo",
-      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+      "duration_ms": 171100,
+      "name": "Cama Repetida",
+      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Ao Vivo em Fortaleza",
-        "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
+        "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+        "url": "https://open.spotify.com/album/4epLXw8yQ5PPRTDyLGErR6"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "Djay L Beats",
+          "url": "https://open.spotify.com/artist/22XiT8DHddIU2VcuGDEU0o"
         }
       ],
-      "duration_ms": 180410,
-      "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
-      "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
+      "duration_ms": 133125,
+      "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+      "url": "https://open.spotify.com/track/5BpNdbgj7stB4AwaV1Tu2R"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1251,42 +1247,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
-        "url": "https://open.spotify.com/album/4epLXw8yQ5PPRTDyLGErR6"
+        "name": "Ao Vivo em Fortaleza",
+        "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
       "artists": [
         {
-          "name": "Djay L Beats",
-          "url": "https://open.spotify.com/artist/22XiT8DHddIU2VcuGDEU0o"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
-      "url": "https://open.spotify.com/track/5BpNdbgj7stB4AwaV1Tu2R"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Vou Passar Gelinho",
-        "url": "https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY"
-      },
-      "artists": [
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         },
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Vou Passar Gelinho",
-      "url": "https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS"
+      "duration_ms": 180410,
+      "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1311,6 +1287,30 @@
       "duration_ms": 149817,
       "name": "MTG DADINHO",
       "url": "https://open.spotify.com/track/40x7EaBgfqNDvGbhR2cfB4"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Vou Passar Gelinho",
+        "url": "https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Vou Passar Gelinho",
+      "url": "https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1471,26 +1471,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/2RrLK8nr6v2e84YnPuyt27"
+        "name": "Morena Tropicana (MTG)",
+        "url": "https://open.spotify.com/album/0882bZ1EHZa1EXJT4VBrkY"
       },
       "artists": [
         {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Malla",
+          "url": "https://open.spotify.com/artist/4w1fJ5YYsYyxQg2DceFrnB"
         }
       ],
-      "duration_ms": 189070,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/0bTtg9H6XnRyWyHYfpaO5u"
+      "duration_ms": 136615,
+      "name": "Morena Tropicana - MTG",
+      "url": "https://open.spotify.com/track/6xCAXCTuUeY2nT0p9cAdvB"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1515,18 +1507,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Morena Tropicana (MTG)",
-        "url": "https://open.spotify.com/album/0882bZ1EHZa1EXJT4VBrkY"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/2RrLK8nr6v2e84YnPuyt27"
       },
       "artists": [
         {
-          "name": "Malla",
-          "url": "https://open.spotify.com/artist/4w1fJ5YYsYyxQg2DceFrnB"
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Morena Tropicana - MTG",
-      "url": "https://open.spotify.com/track/6xCAXCTuUeY2nT0p9cAdvB"
+      "duration_ms": 189070,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/0bTtg9H6XnRyWyHYfpaO5u"
     },
     {
       "added_at": "2024-05-31 03:00:00",

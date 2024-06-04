@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,607 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,616 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 66 | [I'll Find A Way \(To Carry It All\)](https://open.spotify.com/track/4WP2lTksH5pxmm8uPqpG3d) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [I'll Find A Way \(To Carry It All\)](https://open.spotify.com/album/4wSsREguKiYzErGexb5NBz) | 4:21 |
 | 67 | [Ain't Dead Yet](https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Pain Pills Or Pews EP](https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j) | 3:02 |
 | 68 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 |
-| 69 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
-| 70 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
+| 69 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
+| 70 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
 | 71 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 |
 | 72 | [patches](https://open.spotify.com/track/54PBgesYzwCsJSWBqy50gW) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [patches](https://open.spotify.com/album/3ummiDN168EzHP1vIMPOcU) | 3:23 |
 | 73 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 84 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 |
 | 85 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
 | 86 | [This Distance](https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:02 |
-| 87 | [Tiny Wooden Box](https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Tiny Wooden Box](https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850) | 4:07 |
-| 88 | [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 |
+| 87 | [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 |
+| 88 | [Tiny Wooden Box](https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Tiny Wooden Box](https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850) | 4:07 |
 | 89 | [Honest Love](https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Honest Love](https://open.spotify.com/album/7at93U2OD7nuYVVWhwFFZV) | 3:54 |
 | 90 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
 | 91 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 95 | [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 |
 | 96 | [Kindergarten Heart](https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ) | 2:57 |
 | 97 | [Young \- Spotify Singles](https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:49 |
-| 98 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
-| 99 | [Can't Blame My Bloodline](https://open.spotify.com/track/1zFZJC8qixpRp67nB3O5Kr) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [Can't Blame My Bloodline](https://open.spotify.com/album/6ITeNavFzK5orE9w5ejqJK) | 3:18 |
+| 98 | [Can't Blame My Bloodline](https://open.spotify.com/track/1zFZJC8qixpRp67nB3O5Kr) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [Can't Blame My Bloodline](https://open.spotify.com/album/6ITeNavFzK5orE9w5ejqJK) | 3:18 |
+| 99 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
 | 100 | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj) | 4:50 |
 
 Snapshot ID: `ZllLQAAAAADCc3Bo8v0gAyixbgV5FR1W`

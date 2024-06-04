@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,679 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,712 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 46 | [Multan](https://open.spotify.com/track/2Qr6caRtWpQitY0t7qjsxi) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Multan](https://open.spotify.com/album/0QQwhLBFDqjzMiWYcQaiNi) | 4:05 |
 | 47 | [Sun Sohniye \- From "Afsar"](https://open.spotify.com/track/0Sf6tCf1PpIXrG5htibftj) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sun Sohniye \(From "Afsar"\)](https://open.spotify.com/album/1lotYHh1TgHkdt28VVUfSF) | 2:38 |
 | 48 | [O Mehndi Rang Layee](https://open.spotify.com/track/39IVoEO9CeLQXYJcLvLwQk) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo) | [Chal Mere Bhai](https://open.spotify.com/album/2ROkLjvAaWIiDGBNVCxgub) | 6:50 |
-| 49 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 |
+| 49 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 |
 | 50 | [Suit Patiala](https://open.spotify.com/track/09JKODZW0Y9ThIO6OfrfDM) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 3:07 |
 
 Snapshot ID: `Zkr8wQAAAACCzntXhLupMuOcvaatTDES`

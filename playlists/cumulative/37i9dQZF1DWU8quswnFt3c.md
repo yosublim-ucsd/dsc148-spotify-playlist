@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: Ayra Starr
 
-1,901 songs - 4 day 9 hr 7 min
+1,902 songs - 4 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 | 2024-04-17 | 2024-05-03 |
 | [Are You Okay?](https://open.spotify.com/track/3PUaD0ghcL0160tlyDYlCg) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv) | 4:05 | 2021-12-11 | 2022-01-06 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-07-05 | 2023-08-03 |
+| [ARIA!](https://open.spotify.com/track/0LfDmbIEsNmKxwOhLUYap2) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [GLORIA! \(Colonna Sonora Originale del Film\)](https://open.spotify.com/album/4AuIJ9fp9AJ3XwpPBVx7Yn) | 2:42 | 2024-05-31 |  |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-04-03 | 2024-05-03 |
 | [as long as you're there](https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [as long as you're there](https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig) | 3:27 | 2023-03-01 | 2023-04-06 |
 | [Asfalos & Mporo](https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI) | [Asfalos & Mporo](https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906) | 3:50 | 2023-06-07 | 2023-07-06 |
@@ -750,7 +751,7 @@
 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 | 2022-08-03 | 2022-09-09 |
 | [it keeps on raining](https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it keeps on raining](https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj) | 3:22 | 2022-08-03 | 2022-09-01 |
 | [it keeps on raining](https://open.spotify.com/track/0z422bE04PCpYL5r998aWp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:22 | 2022-08-03 | 2022-09-09 |
-| [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 | 2024-05-15 |  |
+| [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 | 2024-05-15 | 2024-06-04 |
 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 | 2023-10-04 | 2023-11-17 |
 | [it's murder](https://open.spotify.com/track/3ln8AnWliwXUEGbEsrKddF) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [it's murder](https://open.spotify.com/album/3L2UQRrfGnsdHY47SDsyC7) | 2:46 | 2024-01-10 | 2024-02-08 |
 | [İyi Ya](https://open.spotify.com/track/3TGexGPlD7rgTFMOxaaC6f) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [İyi Ya](https://open.spotify.com/album/6EkTRByax1Vqz4qmL19iT5) | 2:21 | 2022-09-07 | 2022-10-05 |

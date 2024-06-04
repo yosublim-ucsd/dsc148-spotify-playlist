@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Jovem Dionisio",
-  "num_followers": 371322,
+  "num_followers": 371308,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Pagode Urbano #01",
-        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
       "artists": [
         {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 179820,
-      "name": "Quatro Da Manh\u00e3",
-      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -683,22 +687,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+        "name": "Pagode Urbano #01",
+        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
         }
       ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+      "duration_ms": 179820,
+      "name": "Quatro Da Manh\u00e3",
+      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -823,6 +823,62 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Chapei",
+        "url": "https://open.spotify.com/album/2ApT9YFOhBCy1Ypo1PABJ6"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Chapei",
+      "url": "https://open.spotify.com/track/1hAtlSwwF45JtIBsDEli9X"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -851,62 +907,6 @@
       "duration_ms": 181670,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Chapei",
-        "url": "https://open.spotify.com/album/2ApT9YFOhBCy1Ypo1PABJ6"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Chapei",
-      "url": "https://open.spotify.com/track/1hAtlSwwF45JtIBsDEli9X"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 172950,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Vai Vai Vai",
-        "url": "https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk"
-      },
-      "artists": [
-        {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Vai Vai Vai",
-      "url": "https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 131076,
       "name": "Boom",
       "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Vai Vai Vai",
+        "url": "https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Vai Vai Vai",
+      "url": "https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO"
     },
     {
       "added_at": "2024-05-31 03:00:00",

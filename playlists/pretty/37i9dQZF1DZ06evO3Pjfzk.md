@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 ### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This is Lainey Wilson\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,882 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,965 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 45 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 |
 | 46 | [Gravel](https://open.spotify.com/track/2W08wJxwvaM5k9bjV2cEEI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:22 |
 
-Snapshot ID: `ZlpkgAAAAAAZhVBJKfiUIf5O4uLTJoI+`
+Snapshot ID: `Zlu2AAAAAAC0L0D4TEO6G2Zumz4O7Pl2`

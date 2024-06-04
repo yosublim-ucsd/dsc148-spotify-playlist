@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 275 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 275 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 218 | [Accidental Parental](https://open.spotify.com/track/7FJIGjZHUzY9FQHkInWqEB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:43 |
 | 219 | [What in the Actual](https://open.spotify.com/track/6S8qXhoneWaJuasyX5IQoG) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Kristin Russo](https://open.spotify.com/artist/7MVfPHErObQ0she3vUTg6N) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:45 |
 | 220 | [Overture / Hello and Welcome](https://open.spotify.com/track/280quzw6my4DdN0AhFdyjv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Kristin Russo](https://open.spotify.com/artist/7MVfPHErObQ0she3vUTg6N) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:54 |
-| 221 | [Blood Ties](https://open.spotify.com/track/02PFbfEtvQxLYFYpXh0bLv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:25 |
-| 222 | [Selfless](https://open.spotify.com/track/08qy6UYyb33Ry8wjzSm9KC) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Bess Rogers](https://open.spotify.com/artist/6IjD7M43Yhh7iPvWz9LJi8) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 2:19 |
+| 221 | [Selfless](https://open.spotify.com/track/08qy6UYyb33Ry8wjzSm9KC) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Bess Rogers](https://open.spotify.com/artist/6IjD7M43Yhh7iPvWz9LJi8) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 2:19 |
+| 222 | [Blood Ties](https://open.spotify.com/track/02PFbfEtvQxLYFYpXh0bLv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:25 |
 | 223 | [Wrecked](https://open.spotify.com/track/318ocjg9TXfe2XNnwaGZio) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:03 |
 | 224 | [Tabula Rasa](https://open.spotify.com/track/0dk33s3DEqqACBc4irEQ5f) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:38 |
 | 225 | [Life Serial](https://open.spotify.com/track/2RMEiGcDlj7gnYot6ycVi0) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:40 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 274 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 275 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AbTAogAAAACIvpgRAQNNGKqR0EINASGr`
+Snapshot ID: `AbTGfgAAAACauZosBDTtEEP4RpsnqVAF`

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-109 songs - 5 hr 42 min
+110 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Jatt Disda](https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jatt Disda](https://open.spotify.com/album/7Fs4iZ3F5RJqdJq1Y4bJg6) | 2:47 | 2023-07-26 |  |
 | [Jatt Flex](https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Jatt Flex](https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG) | 3:15 | 2022-01-22 |  |
 | [Jatt Te Jawani](https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Jatt Te Jawani](https://open.spotify.com/album/7hliO5qgI5W2KFYzS9JRHc) | 4:00 | 2021-12-18 |  |
+| [Jattz N The Hood](https://open.spotify.com/track/6a9zSfsN3TUdotZZgrBSOW) | [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Jattz N The Hood](https://open.spotify.com/album/0tFCloZ4X5sJzG5l5kYJ8M) | 5:23 | 2024-06-03 |  |
 | [Jhanjraan](https://open.spotify.com/track/5AqIHYrJEIjtUdWw4bl2IM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Next Chapter](https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW) | 2:56 | 2021-12-18 | 2022-01-11 |
 | [Kehra Pind?](https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Kehra Pind?](https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ) | 3:32 | 2022-03-02 |  |
 | [Khabbi Khaan](https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Khabbi Khaan](https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT) | 2:33 | 2022-02-08 |  |

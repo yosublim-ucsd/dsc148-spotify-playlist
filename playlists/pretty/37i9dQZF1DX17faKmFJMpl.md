@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,642 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,645 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 47 | [Climb High](https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Bobby Kim](https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:24 |
 | 48 | [엉터리 학생](https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:13 |
 | 49 | [Hiphop Beginner Class \(4 Beginners\)](https://open.spotify.com/track/4rZ652DdqI6n3mRqNwoScD) | [Da Crew](https://open.spotify.com/artist/1pxWngQhTWdOpwE8CBCfjo), [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:18 |
-| 50 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
-| 51 | [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 |
+| 50 | [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 |
+| 51 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
 | 52 | [Radio \- 2021 Remaster](https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:44 |
 | 53 | [선문답](https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Yangdonggeun a.k.a Madman](https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R) | 4:03 |
 | 54 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |

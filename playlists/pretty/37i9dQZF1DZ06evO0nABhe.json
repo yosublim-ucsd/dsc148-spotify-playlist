@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 9512,
+  "num_followers": 9516,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABLB2zQ0kR52300cY69/Wsm",
+  "snapshot_id": "Zlu2AAAAAADNWEti8fKtsqX2B8T1Z7Kl",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 216026,
-      "name": "Anthem of Our Dying Day",
-      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
+      "duration_ms": 235200,
+      "name": "Until the Day I Die",
+      "url": "https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 193106,
-      "name": "And the Hero Will Drown",
-      "url": "https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS"
+      "duration_ms": 216026,
+      "name": "Anthem of Our Dying Day",
+      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Sidewalks",
-      "url": "https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh"
+      "duration_ms": 193106,
+      "name": "And the Hero Will Drown",
+      "url": "https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 213026,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1"
+      "duration_ms": 214706,
+      "name": "Sidewalks",
+      "url": "https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Dive Right In",
-      "url": "https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG"
+      "duration_ms": 213026,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Razorblades",
-      "url": "https://open.spotify.com/track/0hpD9ZtCq7ukiaM3pK7RMG"
+      "duration_ms": 195666,
+      "name": "Dive Right In",
+      "url": "https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unheard Voice",
-        "url": "https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP"
+        "name": "A Silent Murder",
+        "url": "https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Unheard Voice",
-      "url": "https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is"
+      "duration_ms": 156253,
+      "name": "A Silent Murder",
+      "url": "https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Silent Murder",
-        "url": "https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx"
+        "name": "Unheard Voice",
+        "url": "https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 156253,
-      "name": "A Silent Murder",
-      "url": "https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf"
+      "duration_ms": 191266,
+      "name": "Unheard Voice",
+      "url": "https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is"
     },
     {
       "added_at": null,

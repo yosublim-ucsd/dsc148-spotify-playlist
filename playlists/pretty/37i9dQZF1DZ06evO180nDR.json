@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 27865,
+  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
+  "num_followers": 27893,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAABeKVzjbg2nL/8je0YRLFO",
+  "snapshot_id": "Zlu2AAAAAABsxO4m0gT/239VAreDlfhG",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tolin Infante (En Vivo)",
+        "url": "https://open.spotify.com/album/6hNqFGCRdl3xY33GqqHao4"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 242088,
+      "name": "Tolin Infante (En Vivo)",
+      "url": "https://open.spotify.com/track/3xnxQoLbFAPqVzbZdhf37m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C ARMO",
         "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
       },
@@ -547,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
       },
       "artists": [
         {
@@ -556,29 +592,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tolin Infante (En Vivo)",
-        "url": "https://open.spotify.com/album/6hNqFGCRdl3xY33GqqHao4"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 242088,
-      "name": "Tolin Infante (En Vivo)",
-      "url": "https://open.spotify.com/track/3xnxQoLbFAPqVzbZdhf37m"
+      "duration_ms": 193613,
+      "name": "El \u00c1guila Real (Nave 727)",
+      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 156858,
       "name": "Qu\u00e9 Pena Contigo",
       "url": "https://open.spotify.com/track/5LkX1CktvInZ3kRotKu37f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "El \u00c1guila Real (Nave 727)",
-      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
     },
     {
       "added_at": null,
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Luz De D\u00eda",
-      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
+      "duration_ms": 222293,
+      "name": "Sentimiento De Dolor",
+      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
     },
     {
       "added_at": null,
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 222293,
-      "name": "Sentimiento De Dolor",
-      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
+      "duration_ms": 255133,
+      "name": "Luz De D\u00eda",
+      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
     },
     {
       "added_at": null,

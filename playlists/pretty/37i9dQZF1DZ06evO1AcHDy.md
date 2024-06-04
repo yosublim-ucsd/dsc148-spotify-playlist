@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 ### [This Is Rina Sawayama](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AcHDy)
 
-> This is Rina Sawayama\. The essential tracks, all in one playlist.
+> This is Rina Sawayama。アーティストの代表曲をひとつのプレイリストに。
 
 [Spotify](https://open.spotify.com/user/spotify) - 37,502 likes - 37 songs - 2 hr 3 min
 
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 12 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/1ltDjZ5arFZ41ohXF37Yjt) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:21 |
 | 13 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 |
 | 14 | [Imagining](https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:32 |
-| 15 | [10\-20\-40](https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:15 |
+| 15 | [Time Out \- Interlude](https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 1:00 |
 | 16 | [TORNADO](https://open.spotify.com/track/1zDVXeNWlq8Gvf1XgahLQg) | [Melinda Ademi](https://open.spotify.com/artist/0OZsbo7wbfOuKCmHUNBUHz), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [TORNADO](https://open.spotify.com/album/0oPgQ81SV8i0UU7AOw1b0L) | 2:46 |
 | 17 | [Bad Friend](https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:28 |
 | 18 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 |
-| 19 | [Time Out \- Interlude](https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 1:00 |
+| 19 | [10\-20\-40](https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:15 |
 | 20 | [Flavour Of The Month](https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 2:33 |
 | 21 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 |
 | 22 | [Your Age](https://open.spotify.com/track/1aajB6965HIc1sq40L5p0Z) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:54 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 29 | [Enter Sandman](https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Enter Sandman](https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1) | 5:33 |
 | 30 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 | 31 | [Where U Are](https://open.spotify.com/track/30tie454RN2304xzAu5Din) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Where U Are](https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ) | 3:52 |
-| 32 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
+| 32 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
 | 33 | [Flicker](https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Flicker](https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx) | 3:00 |
 | 34 | [Bees & Honey \(Bonus Track\)](https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc) | 1:46 |
 | 35 | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO) | 3:27 |
-| 36 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
+| 36 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
 | 37 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
 
-Snapshot ID: `ZlpkgAAAAAAKsg/VkCMnTqo86jZ0REbM`
+Snapshot ID: `Zlu2AAAAAAAd4Fpa8tfr08bB9s3dyQu9`

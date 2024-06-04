@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 247864,
+  "num_followers": 248089,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAACf11y74zhDFovkLpOZJJaQ",
+  "snapshot_id": "Zlu2AAAAAAA5qUJcJk7EtxVVj4XIdqa+",
   "tracks": [
     {
       "added_at": null,
@@ -167,50 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaterial",
-        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 152582,
-      "name": "War",
-      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Good Vibe",
-      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica #6: Era uma Vez",
         "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
       },
@@ -259,6 +215,50 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6: Era uma Vez",
       "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Good Vibe",
+      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaterial",
+        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 152582,
+      "name": "War",
+      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 148863,
+      "name": "Dentro de Voc\u00ea / A Libertina - Ao Vivo",
+      "url": "https://open.spotify.com/track/65RtZeSSVw0rrHSgEAe063"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 191999,
       "name": "Richard Mille",
       "url": "https://open.spotify.com/track/3MNNDtNV2IUJRVBrBs07Cp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 148863,
-      "name": "Dentro de Voc\u00ea / A Libertina - Ao Vivo",
-      "url": "https://open.spotify.com/track/65RtZeSSVw0rrHSgEAe063"
     },
     {
       "added_at": null,

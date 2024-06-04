@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,026 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,041 likes - 30 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lost My Bestfriend](https://open.spotify.com/track/0H6yzud1Q8nwzvfhnKBGG0) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [damn james!](https://open.spotify.com/artist/3vcvpYTTScuw8entYyOlor) | [Rookie of the Year](https://open.spotify.com/album/0YMSaf780lJceuMCohn7Xy) | 2:37 |
+| 1 | [Lost My Bestfriend](https://open.spotify.com/track/0H6yzud1Q8nwzvfhnKBGG0) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [damn james!](https://open.spotify.com/artist/2Ahty5bOrdHdSY8ZSDq4IU) | [Rookie of the Year](https://open.spotify.com/album/0YMSaf780lJceuMCohn7Xy) | 2:37 |
 | 2 | [02.02.99](https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:42 |
 | 3 | [So What](https://open.spotify.com/track/7skPuqPSCWGbauQPge7fIS) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [So What](https://open.spotify.com/album/2jmowmMumFEJMpaEA6swkX) | 2:25 |
 | 4 | [Devils Contract](https://open.spotify.com/track/15ye9YlhfuyR1lptZ7niBa) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Devils Contract](https://open.spotify.com/album/2IZ24KVk4iFFAIpsXdJ6jp) | 2:58 |

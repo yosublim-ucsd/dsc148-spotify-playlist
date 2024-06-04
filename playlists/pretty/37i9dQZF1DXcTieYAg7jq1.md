@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Lake Street Dive
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,738 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,745 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 |
-| 2 | [Bright \(Fast\)](https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8) | [Original Cast of Stereophonic](https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9), [Sarah Pidgeon](https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila), [Will Brill](https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd), [Juliana Canfield](https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK), [Tom Pecinka](https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz), [Chris Stack](https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Justin Craig](https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN) | [Stereophonic \(Original Cast Recording\)](https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB) | 4:48 |
-| 3 | [HUMAN](https://open.spotify.com/track/2JRsdMaavScKW5ohfCFOgz) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HUMAN](https://open.spotify.com/album/52FucwXRUffwY88oNm8pTT) | 3:11 |
-| 4 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
-| 5 | [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 |
-| 6 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 |
+| 1 | [Family Business](https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/4kRZDysdXZ5yeaRFxq84io) | 3:18 |
+| 2 | [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 |
+| 3 | [Bright \(Fast\)](https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8) | [Original Cast of Stereophonic](https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9), [Sarah Pidgeon](https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila), [Will Brill](https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd), [Juliana Canfield](https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK), [Tom Pecinka](https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz), [Chris Stack](https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Justin Craig](https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN) | [Stereophonic \(Original Cast Recording\)](https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB) | 4:48 |
+| 4 | [HUMAN](https://open.spotify.com/track/2JRsdMaavScKW5ohfCFOgz) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HUMAN](https://open.spotify.com/album/52FucwXRUffwY88oNm8pTT) | 3:11 |
+| 5 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
+| 6 | [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 |
 | 7 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
 | 8 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 |
 | 9 | [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [OMG](https://open.spotify.com/track/1BWfBlp8iDl2moH11H8uT1) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [OMG](https://open.spotify.com/album/7gF4FonOZVm7DXUEh9uNdC) | 3:19 |
 | 100 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 |
 
-Snapshot ID: `ZllLQAAAAACudr5N3gH8XwyM2R4Sdbmj`
+Snapshot ID: `Zl4KlAAAAADD+WYfJYge1BCKMkAHWZef`

@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: STARSET",
-  "num_followers": 360763,
+  "num_followers": 360875,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Bleeders",
-        "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 274320,
-      "name": "Bleeders",
-      "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 219346,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Bleeders",
+        "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 274320,
+      "name": "Bleeders",
+      "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Papercuts",
-        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 201341,
-      "name": "QWERTY",
-      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 197400,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 219676,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 198521,
       "name": "I Was Alive",
       "url": "https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 219676,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Keeping Secrets",
-        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "Keeping Secrets",
-      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Death Wish",
         "url": "https://open.spotify.com/album/194QdyBM3DKbWulKl4zqBt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 167384,
       "name": "Money Where Your Mouth Is",
       "url": "https://open.spotify.com/track/4mA76iBPg2Y80nB0N8nkjt"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Keeping Secrets",
+        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "Keeping Secrets",
+      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
-      },
-      "artists": [
-        {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 197674,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Hellstar",
-        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Hellstar",
-      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Wolf (feat. John Cooper of Skillet)",
         "url": "https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Hellstar",
+        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Hellstar",
+      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Control Freak",
         "url": "https://open.spotify.com/album/1jZrWW2rs034fmRaxPSo3R"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 143745,
       "name": "Control Freak",
       "url": "https://open.spotify.com/track/3UvKh5u8qGn6BE4Uph2AiA"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "uncooked",
+        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "uncooked",
+      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "uncooked",
-        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "uncooked",
-      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Timebomb",
         "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
       },
@@ -1575,30 +1575,6 @@
       "duration_ms": 200097,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Dearly Departed (feat. robbietheused)",
-        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "robbietheused",
-          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Dearly Departed (feat. robbietheused)",
-      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1631,6 +1607,30 @@
       "duration_ms": 196243,
       "name": "HOSTAGE",
       "url": "https://open.spotify.com/track/1VHZgaqB64B497QL7RyrUQ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Dearly Departed (feat. robbietheused)",
+        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "robbietheused",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Dearly Departed (feat. robbietheused)",
+      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Application For Release From The Dream",
-        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 269721,
-      "name": "Application For Release From The Dream",
-      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "The Only Way Is Up",
         "url": "https://open.spotify.com/album/7rlrFfwLO92uER7b8bPPIv"
       },
@@ -1775,6 +1759,38 @@
       "duration_ms": 217142,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/3QKH9oDuT3k5S5JRsv13KN"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Blood & Scars",
+        "url": "https://open.spotify.com/album/4LCAYq2XqPoDMClhdz7rF7"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Blood & Scars",
+      "url": "https://open.spotify.com/track/3Cp4oTzZ6raUMwqTiQHUic"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1811,6 +1827,22 @@
       "duration_ms": 212571,
       "name": "Through My Head",
       "url": "https://open.spotify.com/track/7ydzZp3LEAugJbxCaJBiYh"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "The Algorithm (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0zmPxNUVsRx62S4rc2yXGj"
+      },
+      "artists": [
+        {
+          "name": "Puscifer",
+          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+        }
+      ],
+      "duration_ms": 247382,
+      "name": "The Algorithm - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
+      "url": "https://open.spotify.com/track/0Iv5UvPb1lGgHlwfdUm5JV"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1867,18 +1899,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "The Algorithm (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0zmPxNUVsRx62S4rc2yXGj"
+        "name": "Emptiness in You",
+        "url": "https://open.spotify.com/album/6SDTpd0R9AfgMILRhoiPkS"
       },
       "artists": [
         {
-          "name": "Puscifer",
-          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
         }
       ],
-      "duration_ms": 247382,
-      "name": "The Algorithm - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
-      "url": "https://open.spotify.com/track/0Iv5UvPb1lGgHlwfdUm5JV"
+      "duration_ms": 209080,
+      "name": "Emptiness in You",
+      "url": "https://open.spotify.com/track/21HkPCpUhAuSGx2PKh4q9I"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1899,22 +1931,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Blood & Scars",
-        "url": "https://open.spotify.com/album/4LCAYq2XqPoDMClhdz7rF7"
-      },
-      "artists": [
-        {
-          "name": "Self Deception",
-          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Blood & Scars",
-      "url": "https://open.spotify.com/track/3Cp4oTzZ6raUMwqTiQHUic"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 268235,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Emptiness in You",
-        "url": "https://open.spotify.com/album/6SDTpd0R9AfgMILRhoiPkS"
-      },
-      "artists": [
-        {
-          "name": "Silent Theory",
-          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
-        }
-      ],
-      "duration_ms": 209080,
-      "name": "Emptiness in You",
-      "url": "https://open.spotify.com/track/21HkPCpUhAuSGx2PKh4q9I"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "One Foot In The Grave",
+        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/7ci2YpLQNXtOJTWhqMIhH9"
       },
@@ -1999,22 +2015,46 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "The Singularity",
-        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
+        "name": "BOILING POINT. (with The Ghost Inside)",
+        "url": "https://open.spotify.com/album/4lbxZVgHBwWDyTObb78zTL"
       },
       "artists": [
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
         },
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
         }
       ],
-      "duration_ms": 254317,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
+      "duration_ms": 197142,
+      "name": "BOILING POINT. (with The Ghost Inside)",
+      "url": "https://open.spotify.com/track/5qZGhZuvnB1eyGIQ9K8kJp"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Out Of Style",
+        "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 205897,
+      "name": "Out Of Style",
+      "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2051,6 +2091,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "The Singularity",
+        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 254317,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Chiquita",
         "url": "https://open.spotify.com/album/1hzX3Ll6ujrmUNpvDvKb9G"
       },
@@ -2083,30 +2143,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "BOILING POINT. (with The Ghost Inside)",
-        "url": "https://open.spotify.com/album/4lbxZVgHBwWDyTObb78zTL"
-      },
-      "artists": [
-        {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "BOILING POINT. (with The Ghost Inside)",
-      "url": "https://open.spotify.com/track/5qZGhZuvnB1eyGIQ9K8kJp"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Kill Me",
         "url": "https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf"
       },
@@ -2123,22 +2159,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "One Foot In The Grave",
-        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 222153,
-      "name": "One Foot In The Grave",
-      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "All That I Have Left",
         "url": "https://open.spotify.com/album/4Zed5oZJYdGYUixZCKuWc6"
       },
@@ -2151,30 +2171,6 @@
       "duration_ms": 212173,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/7xaiwsZI7GTsMr4I9K5tCj"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Way Down We Go",
-        "url": "https://open.spotify.com/album/3KTad48fjnInjRtIlACP9r"
-      },
-      "artists": [
-        {
-          "name": "Rev Theory",
-          "url": "https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l"
-        },
-        {
-          "name": "Art Of Dying",
-          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
-        },
-        {
-          "name": "ashpvnk",
-          "url": "https://open.spotify.com/artist/3dA0yRUHt4EC9GAbVqJZf3"
-        }
-      ],
-      "duration_ms": 198703,
-      "name": "Way Down We Go",
-      "url": "https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ"
     }
   ],
   "unique_name": "Hard Rock",

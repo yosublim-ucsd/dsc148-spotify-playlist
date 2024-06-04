@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2024\. Cover: Cup of Joe
+> Discover new artists on the horizon this 2024\. Cover: Maki
 
-203 songs - 12 hr 32 min
+204 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Pasahili \(para sa hindi pinili\)](https://open.spotify.com/track/2VHGzij5109MdX6PJDsMuO) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pasahili \(para sa hindi pinili\)](https://open.spotify.com/album/3IKPlgHJKhOgflKU5I5Bra) | 4:15 | 2022-09-29 | 2022-12-01 |
 | [Patuloy Lang Ang Lipad \(Theme of "Darna"\)](https://open.spotify.com/track/6SCLUJuq19QSacE4oXqoqG) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patuloy Lang Ang Lipad \(Theme of "Darna"\)](https://open.spotify.com/album/5ARQNT6Vq4Rvq5cXy8M8CQ) | 3:37 | 2022-08-25 | 2022-12-01 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2024-04-02 |  |
+| [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-06-03 |  |
 | [Pick Up](https://open.spotify.com/track/1yBLm463DXwQaXnQMaiMw7) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Pick Up](https://open.spotify.com/album/5Imz9Ju2AaapUqNbEj36a2) | 3:23 | 2023-04-13 | 2024-04-03 |
 | [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-04-28 | 2022-12-01 |
 | [Polaroid](https://open.spotify.com/track/3QL4l8VyhcwzvTpQkqktTY) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [No$ia](https://open.spotify.com/artist/75SAo69xbkQH9d5LfLwCeZ), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Polaroid](https://open.spotify.com/album/0bIMhGqBeOGcu7R6LjsStY) | 4:17 | 2021-11-25 | 2022-03-25 |

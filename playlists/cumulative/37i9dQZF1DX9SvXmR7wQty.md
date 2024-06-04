@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Sarahmée
 
-2,570 songs - 5 day 17 hr 15 min
+2,571 songs - 5 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [20k heures de solitude](https://open.spotify.com/track/0LcesJstJfzDHrnLGagUcJ) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [20k heures de solitude](https://open.spotify.com/album/0PQmGXDqt6jH23N1VCSB3J) | 4:59 | 2024-02-09 | 2024-02-17 |
 | [21](https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [21](https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk) | 3:04 | 2023-07-07 | 2023-07-15 |
 | [22 Carats](https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [22 Carats](https://open.spotify.com/album/5Zk8JVmGOQCIfyulE39JCd) | 3:26 | 2022-05-20 | 2022-05-28 |
-| [24 Février](https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [24 Février](https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ) | 2:19 | 2024-05-03 |  |
+| [24 Février](https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [24 Février](https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ) | 2:19 | 2024-05-03 | 2024-06-04 |
 | [24 Gang](https://open.spotify.com/track/3E8mWggRxk58HIVV7XmjiX) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [BangBangCashout](https://open.spotify.com/artist/6ejrJ9lIzqZ7sATdJaC9Uc) | [24 Gang](https://open.spotify.com/album/4Y9U6MyvAVyG4o00p90ap7) | 3:25 | 2022-02-25 | 2022-03-12 |
 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-09 | 2023-08-19 |
 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:57 | 2022-06-10 | 2022-06-25 |
@@ -2517,6 +2517,7 @@
 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 | 2024-01-26 | 2024-04-06 |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-15 | 2024-03-09 |
 | [Yink moi qui t'faut](https://open.spotify.com/track/2lGpOTKuIailwRDHTvtuRN) | [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [À boire deboutte](https://open.spotify.com/album/7qMWaLTaI6Nm40Bf9dYw4x) | 3:12 | 2023-09-01 | 2023-09-09 |
+| [YOMB](https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DLPDA](https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT) | 2:50 | 2024-05-31 |  |
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-19 | 2022-09-03 |
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 | 2022-10-14 | 2022-10-29 |
 | [Zaza](https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Zaza](https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ) | 2:28 | 2023-05-05 | 2023-06-24 |

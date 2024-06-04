@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Contigo en la playa",
+        "url": "https://open.spotify.com/album/3hFrMthztGPiBeedZoMyIS"
+      },
+      "artists": [
+        {
+          "name": "Kira Kolumna",
+          "url": "https://open.spotify.com/artist/4ZRVadQQ7rbyhiGZurqb72"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141773,
+      "name": "Contigo en la playa",
+      "url": "https://open.spotify.com/track/5YZpIO8LYmAuHY6RshKAgL"
+    },
+    {
+      "album": {
         "name": "Kinder Karneval 2020 (Kinderkarneval und Kinderfasching Hits f\u00fcr jecke Kids)",
         "url": "https://open.spotify.com/album/2cpqqhnpT6ObVyIK4qcdGE"
       },
@@ -3248,7 +3266,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 113626,
       "name": "Ida's Sommerlied",
       "url": "https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL"

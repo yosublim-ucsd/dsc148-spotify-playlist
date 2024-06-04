@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAACVBxKoL0rcLCk8+EFGuIb",
+  "snapshot_id": "Zlu2AAAAAAC/hb8BpibF11on1bSI2+XU",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Party Scene",
-      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
+      "duration_ms": 204533,
+      "name": "Rinse and Repeat",
+      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Rinse and Repeat",
-      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+        "name": "Tassie",
+        "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 81016,
-      "name": "The Shimmie Shake",
-      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
+      "duration_ms": 92958,
+      "name": "C",
+      "url": "https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tassie",
-        "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 92958,
-      "name": "C",
-      "url": "https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta"
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 183662,
-      "name": "Benthos",
-      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
     },
     {
       "added_at": null,

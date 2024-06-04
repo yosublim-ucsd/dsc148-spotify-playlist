@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,851 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,855 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 16 | [Every Single Day \- 2005 Remaster](https://open.spotify.com/track/0MRea0TwPACBtXpUXMLXV3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:40 |
 | 17 | [Alien](https://open.spotify.com/track/3Xd3IXnA2rmyVawJL9tPVm) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 4:07 |
 | 18 | [Never Gonna Die](https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:40 |
-| 19 | [Broken \- 2005 Remaster](https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:46 |
-| 20 | [Homesick \- 2005 Remaster](https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:16 |
+| 19 | [Homesick \- 2005 Remaster](https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:16 |
+| 20 | [Broken \- 2005 Remaster](https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:46 |
 | 21 | [Victim of Reality](https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:28 |
 | 22 | [Perfect People \- 2005 Remaster](https://open.spotify.com/track/09CibftU63IIhXuGa1Xzzo) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 3:05 |
 | 23 | [Pennywise \- 2005 Remaster](https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:37 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 34 | [Something to Change](https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 2:41 |
 | 35 | [We Have It All](https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 2:59 |
 | 36 | [Greed](https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 3:15 |
-| 37 | [Searching \- 2005 Remaster](https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:55 |
-| 38 | [The World](https://open.spotify.com/track/2WD64H3EBdbIisfP34X0ea) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:26 |
+| 37 | [The World](https://open.spotify.com/track/2WD64H3EBdbIisfP34X0ea) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:26 |
+| 38 | [Searching \- 2005 Remaster](https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:55 |
 | 39 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
 | 40 | [Final Day \- 2005 Remaster](https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 3:11 |
-| 41 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
-| 42 | [Time Marches On](https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:57 |
+| 41 | [Time Marches On](https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:57 |
+| 42 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
 | 43 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
 | 44 | [Dying to Know \- 2005 Remaster](https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:05 |
-| 45 | [No Reason Why \- 2005 Remaster](https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 2:38 |
-| 46 | [X Generation](https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:15 |
+| 45 | [X Generation](https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:15 |
+| 46 | [No Reason Why \- 2005 Remaster](https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 2:38 |
 | 47 | [Keep Moving On](https://open.spotify.com/track/6G49UJ2IFAgMQemGNZW2lL) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:31 |
 | 48 | [It's Up To Me \- 2005 Remaster](https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:16 |
 | 49 | [Waiting](https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 2:59 |
 | 50 | [Knocked Down](https://open.spotify.com/track/71cOsh18fSgRWZeYxHnAiA) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [The Fuse](https://open.spotify.com/album/0Cd9rjTDRiEieNwTfBuPLP) | 2:43 |
 
-Snapshot ID: `ZlpkgAAAAADpVxve+gsVmjvbaThrKCB5`
+Snapshot ID: `Zlu2AAAAAACtUIWC5o0Zsr4n+9uQGT/Q`

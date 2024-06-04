@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -712,6 +730,32 @@
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
+    },
+    {
+      "album": {
+        "name": "The Declaration",
+        "url": "https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
     },
     {
       "album": {
@@ -3236,10 +3280,32 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
+        "name": "Made For Me (with Mariah Carey)",
+        "url": "https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Made For Me (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
     },
     {
       "album": {
@@ -3976,7 +4042,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
@@ -4060,6 +4126,24 @@
       "duration_ms": 292884,
       "name": "Roll Some Mo",
       "url": "https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179971,
+      "name": "S t u c k I n M y W a y s",
+      "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
     },
     {
       "album": {
@@ -4256,7 +4340,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 286781,
       "name": "SHOWING YOU",
       "url": "https://open.spotify.com/track/6a5vE6GHrLSyqbbojVH1iy"
@@ -4296,7 +4380,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 228932,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy"

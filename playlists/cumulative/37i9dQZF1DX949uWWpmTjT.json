@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "All those nights",
+        "url": "https://open.spotify.com/album/4BIOYMg5wAVi0onxV4f73T"
+      },
+      "artists": [
+        {
+          "name": "Tore Lundblad",
+          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139786,
+      "name": "All those nights",
+      "url": "https://open.spotify.com/track/4wHDPpI4nWoj3F20unVH8f"
+    },
+    {
+      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc"
       },
@@ -4156,7 +4174,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 191427,
       "name": "Don't Take Me For Granted",
       "url": "https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP"
@@ -10738,7 +10756,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 238292,
       "name": "Milano",
       "url": "https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR"
@@ -14930,6 +14948,24 @@
       "duration_ms": 483666,
       "name": "Soulville",
       "url": "https://open.spotify.com/track/5nB5mhjWHeUNtoWnTDISOb"
+    },
+    {
+      "album": {
+        "name": "Sound Of Absence",
+        "url": "https://open.spotify.com/album/4BdhnKPxfPRveQXAqkiwzw"
+      },
+      "artists": [
+        {
+          "name": "Odo Lefebvre",
+          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186675,
+      "name": "Sound Of Absence",
+      "url": "https://open.spotify.com/track/0uVq57CNdVgoBgNJz7vg8c"
     },
     {
       "album": {

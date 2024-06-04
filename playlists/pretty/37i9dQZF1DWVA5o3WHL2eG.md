@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,147 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,158 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 |
 | 26 | [blei](https://open.spotify.com/track/0lkhukcLEhY3j9Nlo4NhqL) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [blei](https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx) | 3:35 |
 | 27 | [GOLDEN DAYS](https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [GOLDEN DAYS](https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB) | 3:13 |
-| 28 | [Ohne Mich](https://open.spotify.com/track/0UZsZ6BPr4bvY1menn8cTI) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Ohne Mich](https://open.spotify.com/album/4G5OX3QAgtpFZxrVX12z5B) | 2:15 |
-| 29 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
+| 28 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
+| 29 | [Ohne Mich](https://open.spotify.com/track/0UZsZ6BPr4bvY1menn8cTI) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Ohne Mich](https://open.spotify.com/album/4G5OX3QAgtpFZxrVX12z5B) | 2:15 |
 | 30 | [Erste große Freiheit](https://open.spotify.com/track/6V61cAkuLWBbCgUfInCafm) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Erste große Freiheit](https://open.spotify.com/album/7jXxuBaJyejbo3mawvLTex) | 2:21 |
 | 31 | [ich hoff du brichst mir das herz](https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb) | 2:40 |
 | 32 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Poetry](https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Poetry \(for the scorned and lonely\)](https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL) | 2:47 |
 | 41 | [DiEBiN](https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [DiEBiN](https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8) | 2:36 |
 | 42 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
-| 43 | [Parisienne](https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Parisienne](https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G) | 2:58 |
-| 44 | [wallflower seat](https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [wallflower seat](https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW) | 2:53 |
+| 43 | [wallflower seat](https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [wallflower seat](https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW) | 2:53 |
+| 44 | [Parisienne](https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Parisienne](https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G) | 2:58 |
 | 45 | [Mess](https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [MESS](https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb) | 2:47 |
 | 46 | [Hoffe, dir geht's mies](https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9) | [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Hoffe, dir geht's mies](https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq) | 3:13 |
 | 47 | [Frauen](https://open.spotify.com/track/5WfgoryvbxSLzNesIX4dtR) | [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Frauen](https://open.spotify.com/album/5TFOk1GBIkOpIMY3AiauKX) | 2:38 |

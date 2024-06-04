@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 442533,
+  "num_followers": 442549,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Algo Especial",
         "url": "https://open.spotify.com/album/4BcuC8fbH9k6kQtBsTLpx0"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 222021,
       "name": "Hold It Together",
       "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Promesas de Origami",
+        "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Promesas De Origami",
+      "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Y SI SE ABREN LOS CIELOS",
         "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
       },
@@ -611,22 +631,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 166016,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Moody",
         "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
       },
@@ -639,6 +643,22 @@
       "duration_ms": 198377,
       "name": "Moody",
       "url": "https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 166016,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -671,26 +691,6 @@
       "duration_ms": 261453,
       "name": "Disco de Oro",
       "url": "https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Promesas de Origami",
-        "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Promesas De Origami",
-      "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "maracuy\u00e1",
-        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "maracuy\u00e1",
-      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "La Ternura",
         "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 186065,
       "name": "La Ternura",
       "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "maracuy\u00e1",
+        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "maracuy\u00e1",
+      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Puente",
-        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Talk Too Much",
         "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Lo Siento",
-        "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
+        "name": "Puente",
+        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
+      "duration_ms": 180746,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1407,22 +1391,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "qu\u00e9 bueno!",
         "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
       },
@@ -1439,18 +1407,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
       },
       "artists": [
         {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
         }
       ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1471,6 +1439,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 204166,
       "name": "Eres",
       "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "buena vista!",
-        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
-      },
-      "artists": [
-        {
-          "name": "ARIEL",
-          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
-        }
-      ],
-      "duration_ms": 175007,
-      "name": "tu y yo",
-      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Flower Moon",
         "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 173374,
       "name": "Feel it Now",
       "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "buena vista!",
+        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
+      },
+      "artists": [
+        {
+          "name": "ARIEL",
+          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
+        }
+      ],
+      "duration_ms": 175007,
+      "name": "tu y yo",
+      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     },
     {
       "added_at": "2024-05-31 04:00:00",

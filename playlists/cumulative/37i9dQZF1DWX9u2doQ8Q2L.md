@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,436 songs - 3 day 15 hr 30 min
+1,437 songs - 3 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [A+B=C](https://open.spotify.com/track/6SpX6WLTYuw5VYWtXBZVgf) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [A+B=C](https://open.spotify.com/album/0l7AACwqmbndNL9ALRg05C) | 3:44 | 2023-09-12 | 2023-10-11 |
 | [A.O.U](https://open.spotify.com/track/0660wv7yEysrDOlPawh9QK) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A.O.U](https://open.spotify.com/album/70bw8vjpWZbDxqEBqrOax8) | 3:19 | 2022-10-18 | 2022-10-26 |
 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 | 2022-07-05 | 2022-07-27 |
+| [A24](https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC) | [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [A24](https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ) | 3:00 | 2024-05-28 |  |
 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 | 2022-06-16 | 2022-07-20 |
 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 | 2024-05-01 |  |
 | [Afterglow \- feat\. Nenashi](https://open.spotify.com/track/39I8cLedkfBP8YJp93JOxU) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Afterglow \(feat\. Nenashi\)](https://open.spotify.com/album/613jaD5wJ0ggN19H0ly3QB) | 2:57 | 2023-06-13 | 2023-06-21 |
@@ -1045,7 +1046,7 @@
 | [UFO\-mie \- original mix](https://open.spotify.com/track/1hZDFYtwanbh2POvN2EFN4) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [The Hair Kid](https://open.spotify.com/artist/0VFeaq5HusM9WgvSkRIBZi) | [For The Aliens EP](https://open.spotify.com/album/65lk8xT7iVwQJD42pwZPRI) | 3:17 | 2023-10-26 | 2023-11-01 |
 | [UFO\-mie \- original mix](https://open.spotify.com/track/5jhjAMLOA86d3KviOuF0Lz) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [The Hair Kid](https://open.spotify.com/artist/0VFeaq5HusM9WgvSkRIBZi) | [For The Aliens EP](https://open.spotify.com/album/2MNj6Y8pkeTUXUwJAsA9j0) | 3:17 | 2023-10-26 | 2023-10-28 |
 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2023-10-24 | 2024-04-26 |
-| [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa) | 4:29 | 2023-08-22 |  |
+| [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa) | 4:29 | 2023-08-22 | 2024-06-04 |
 | [Unlikely Soul](https://open.spotify.com/track/7EP6QYmDP6Y2kLdfTPootp) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Mike Larry Draw](https://open.spotify.com/artist/28m2L0BKUf95gUM9OXba0k) | [Unlikely Soul](https://open.spotify.com/album/1HvAKivChR8D2AAYgA0j47) | 3:55 | 2024-02-20 | 2024-03-13 |
 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 | 2024-01-23 |  |
 | [Unmellow](https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Unmellow](https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ) | 2:37 | 2023-08-24 | 2023-11-10 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Maverick City Music. Los temas esenciales, todos en una lista.",
-  "num_followers": 141606,
+  "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
+  "num_followers": 141664,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAA5RJBZO9Z4pYj37K5pjQPD",
+  "snapshot_id": "Zlu2AAAAAACWnA9DUp37Ejp4eLLNWEuH",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Majesty Rose",
+          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
+        }
+      ],
+      "duration_ms": 629316,
+      "name": "You Keep on Getting Better (feat. Majesty Rose)",
+      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fridayy",
         "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 231161,
       "name": "Came Too Far (feat. Maverick City Music & My Mom)",
       "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Majesty Rose",
-          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
-        }
-      ],
-      "duration_ms": 629316,
-      "name": "You Keep on Getting Better (feat. Majesty Rose)",
-      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
     },
     {
       "added_at": null,

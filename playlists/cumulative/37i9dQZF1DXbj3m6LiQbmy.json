@@ -381,6 +381,40 @@
     },
     {
       "album": {
+        "name": "Effetto Domino EP",
+        "url": "https://open.spotify.com/album/0uWOZ23C7xs3jmcDTbcY6K"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        },
+        {
+          "name": "Blue Phelix",
+          "url": "https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt"
+        },
+        {
+          "name": "Queen of Saba",
+          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
+        },
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        },
+        {
+          "name": "Andrea Di Giovanni",
+          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188405,
+      "name": "Amami Adesso",
+      "url": "https://open.spotify.com/track/5D2PUWAXgPJsfJLrYfiRhb"
+    },
+    {
+      "album": {
         "name": "Mi Senti",
         "url": "https://open.spotify.com/album/6gnG4Hov60aXPblNpKpumI"
       },

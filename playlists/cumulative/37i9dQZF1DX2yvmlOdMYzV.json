@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 208266,
       "name": "Good Guys - pt. 2",
       "url": "https://open.spotify.com/track/6EvduCV0pNOco1D2POpViK"
@@ -6958,7 +6958,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/6ThpQpPBewDQv65CJBmD0J"
@@ -11748,12 +11748,12 @@
           "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
         },
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
           "name": "SHOW N PROVE",
           "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
       "date_added": "2024-05-31",

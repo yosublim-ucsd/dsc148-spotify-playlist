@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,336 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,401 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 79 | [Love & Happiness](https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 4:46 |
 | 80 | [The Killing Fields](https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Leventhal](https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH) | [The Killing Fields](https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS) | 4:23 |
 | 81 | [The Birds Of St\. Marks](https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Birds Of St\. Marks](https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX) | 4:22 |
-| 82 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 |
-| 83 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
+| 82 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
+| 83 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 |
 | 84 | [I Shall Not Be Moved \(with Francesco Turrisi\)](https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 4:58 |
 | 85 | [Love Wore A Halo \(Back Before The War\)](https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Love Wore A Halo \(Back Before the War\)](https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS) | 3:40 |
 | 86 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 |

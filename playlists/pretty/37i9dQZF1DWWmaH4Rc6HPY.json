@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y regresaron las guitarras! Jos\u00e9 Madero en portada.",
-  "num_followers": 29662,
+  "num_followers": 29677,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-05-31 23:14:52",
       "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
-    },
-    {
-      "added_at": "2024-05-31 23:14:52",
-      "album": {
         "name": "Que Somos (Remix)",
         "url": "https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185678,
       "name": "Que Somos - Remix",
       "url": "https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95"
+    },
+    {
+      "added_at": "2024-05-31 23:14:52",
+      "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
     },
     {
       "added_at": "2024-05-31 23:14:52",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-05-31 23:14:52",
       "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2024-05-31 23:14:52",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2024-05-31 23:14:52",
-      "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2024-05-31 23:14:52",
@@ -943,30 +943,6 @@
     {
       "added_at": "2024-05-31 23:14:52",
       "album": {
-        "name": "Polvo De Estrellas",
-        "url": "https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 186520,
-      "name": "Cerca De Ti",
-      "url": "https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt"
-    },
-    {
-      "added_at": "2024-05-31 23:14:52",
-      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 210425,
       "name": "Recuerdos Que Torturan",
       "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
+    },
+    {
+      "added_at": "2024-05-31 23:14:52",
+      "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 186520,
+      "name": "Cerca De Ti",
+      "url": "https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt"
     },
     {
       "added_at": "2024-05-31 23:14:52",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-05-31 23:14:52",
       "album": {
-        "name": "Por Un Amor / Melodrama",
-        "url": "https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        },
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Por Un Amor",
-      "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
-    },
-    {
-      "added_at": "2024-05-31 23:14:52",
-      "album": {
         "name": "Desandando Mis Pasos",
         "url": "https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 227121,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/7cfssiXOL2hVTkHGtwjeJ9"
+    },
+    {
+      "added_at": "2024-05-31 23:14:52",
+      "album": {
+        "name": "Por Un Amor / Melodrama",
+        "url": "https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Por Un Amor",
+      "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
     },
     {
       "added_at": "2024-05-31 23:14:52",

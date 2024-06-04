@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -10310,6 +10310,24 @@
       "duration_ms": 170223,
       "name": "SIEMPRE TE QUISE",
       "url": "https://open.spotify.com/track/5aqUfC9fyPe7zuMWHQmHsj"
+    },
+    {
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "album": {

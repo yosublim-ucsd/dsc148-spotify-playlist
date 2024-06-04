@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Sunever",
+        "url": "https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg"
+      },
+      "artists": [
+        {
+          "name": "Chris Cohen",
+          "url": "https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160205,
+      "name": "Sunever",
+      "url": "https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO"
+    },
+    {
+      "album": {
         "name": "So Medieval",
         "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
       },
@@ -3032,6 +3050,24 @@
       "duration_ms": 163413,
       "name": "The Farmer",
       "url": "https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET"
+    },
+    {
+      "album": {
+        "name": "The Fashion Focus",
+        "url": "https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6"
+      },
+      "artists": [
+        {
+          "name": "Starflyer 59",
+          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196719,
+      "name": "The Fashion Focus",
+      "url": "https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA"
     },
     {
       "album": {
@@ -3212,6 +3248,24 @@
       "duration_ms": 243693,
       "name": "Water Table",
       "url": "https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh"
+    },
+    {
+      "album": {
+        "name": "Harumi",
+        "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
+      },
+      "artists": [
+        {
+          "name": "Harumi",
+          "url": "https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "What A Day For Me",
+      "url": "https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9"
     },
     {
       "album": {

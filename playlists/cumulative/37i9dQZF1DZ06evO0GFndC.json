@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
+  "description": "This Is Grupo Los de la O. Los temas esenciales, todos en una lista.",
   "name": "This Is Grupo Los de la O",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 155492,
       "name": "Entre Las Balas",
       "url": "https://open.spotify.com/track/5QeHachXsc77E7HZspJp3t"
@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165930,
+      "name": "Por Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr"
+    },
+    {
+      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 179583,
       "name": "Ya No Siento Nada",
       "url": "https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 158270,
       "name": "Yo Fui el R5",
       "url": "https://open.spotify.com/track/6kOxnJK91x47sQhZik7twr"

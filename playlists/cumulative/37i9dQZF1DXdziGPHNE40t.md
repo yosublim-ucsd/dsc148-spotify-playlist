@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-577 songs - 1 day 10 hr 26 min
+580 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 |  |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 | 2023-10-13 |
-| [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-01-12 |  |
+| [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-01-12 | 2024-06-04 |
 | [All That's Left Is A Song](https://open.spotify.com/track/5TDRgPEY4sMWQsMuR6Yj6K) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [All That's Left Is A Song](https://open.spotify.com/album/2FBgIfyayKTGoQijjiKW0N) | 2:45 | 2024-01-05 |  |
 | [All the Time](https://open.spotify.com/track/0XxT9BefucZG5PNIMNCgEM) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [All the Time](https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK) | 2:55 | 2022-05-17 | 2023-03-31 |
 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 | 2024-03-08 |  |
@@ -239,6 +239,7 @@
 | [It's Easier Than You Might Think](https://open.spotify.com/track/1lC6fXNgq6Bxgz8GpTkxEY) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [It's Easier Than You Might Think](https://open.spotify.com/album/7sfucyoyWUtYk5RUOPYQBj) | 2:40 | 2022-12-22 | 2023-06-23 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-29 | 2024-05-11 |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-05-17 | 2023-03-25 |
+| [It’s time to learn](https://open.spotify.com/track/387JZKrukWgWueIRphES29) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [It’s time to learn](https://open.spotify.com/album/6l4ggKaN1gNfON4eYCCFw4) | 3:41 | 2024-06-03 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-05-17 | 2024-06-01 |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-05-17 |  |
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2022-05-17 | 2023-02-10 |
@@ -252,6 +253,7 @@
 | [Just In Time](https://open.spotify.com/track/5kB513RB04d22CXMuPUTKS) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [Just In Time](https://open.spotify.com/album/1GQmikE9bFKeE7jFUHhhMd) | 3:26 | 2024-04-23 |  |
 | [Just Us](https://open.spotify.com/track/4gcg967pB3CZVyEh0ksMeD) | [Dan Nimmer Trio](https://open.spotify.com/artist/5gP5K1peTVqvLrGCEXWj9k) | [Yours Is My Heart Alone](https://open.spotify.com/album/2KvbdxdUSlNOTLwPfQJvT5) | 5:38 | 2022-05-17 | 2022-09-15 |
 | [Kings Waiting in Line](https://open.spotify.com/track/4JNts7V5qSCToMvmq9ij41) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Kings Waiting in Line](https://open.spotify.com/album/1QSqZ25RLKjkK3XduB8X0W) | 3:16 | 2024-04-23 |  |
+| [La Libertad](https://open.spotify.com/track/0sg1Dj6iOJenyxjb8lkK7H) | [The Vanguard Trio](https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy) | [La Libertad](https://open.spotify.com/album/54L1n3lh5eFzkHvY21bxkl) | 2:40 | 2024-06-03 |  |
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-05-17 | 2022-12-02 |
 | [Ladybird](https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Dolphin Dance](https://open.spotify.com/album/4xz7ahUYTnpC8xzWfeDWV3) | 2:53 | 2023-01-12 |  |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-13 |  |
@@ -315,9 +317,10 @@
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 | 2024-06-01 |
 | [Moments in Moonlight](https://open.spotify.com/track/55fwf6U2P3ZvjXsQgxhZrd) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Moments in Moonlight](https://open.spotify.com/album/6dQqdshEOVrOCm4IOyjirN) | 2:48 | 2024-03-08 |  |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2022-12-22 |  |
+| [Moonbows](https://open.spotify.com/track/3fSSeOXRH2QUynHAUyJu1i) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Moonbows](https://open.spotify.com/album/6yO4FXW3snsEVwoAkMJEIa) | 3:05 | 2024-06-03 |  |
 | [Moonflower Waltz](https://open.spotify.com/track/6qAxvxO0lu8MwzKLGvFX3s) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Moonflower Waltz](https://open.spotify.com/album/56dDXhykp3FkI0aOeNDf47) | 2:54 | 2024-02-23 |  |
 | [Moonlit](https://open.spotify.com/track/5AGS3dJDEo3ZrsFfTw1c0D) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Moonlit](https://open.spotify.com/album/0bNizvznSsufj4wQ9bEE7q) | 2:55 | 2024-05-23 |  |
-| [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-16 |  |
+| [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-16 | 2024-06-04 |
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-02-16 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-10 | 2023-03-10 |
 | [Morning Conversations](https://open.spotify.com/track/5NuHONqC1B04om6zp76sH7) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Morning Conversations](https://open.spotify.com/album/5XV9PM38eHcTV7FP8jABbf) | 4:19 | 2022-05-17 | 2022-11-25 |
@@ -508,7 +511,7 @@
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 | 2023-03-31 |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-05-17 | 2023-02-03 |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |
-| [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-29 |  |
+| [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-29 | 2024-06-04 |
 | [Tiny Tiny Steps](https://open.spotify.com/track/3euZzIZUGZSDbSsDOnb79f) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 3:20 | 2022-05-17 | 2022-11-18 |
 | [To the Moon and Back](https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [To the Moon and Back](https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB) | 2:39 | 2023-02-16 |  |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-16 |  |

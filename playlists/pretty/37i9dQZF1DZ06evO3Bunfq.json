@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dharius. Los temas esenciales, todos en una lista.",
-  "num_followers": 105452,
+  "description": "This is Dharius. The essential tracks, all in one playlist.",
+  "num_followers": 105502,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAC9ZPGdaZv6AMAkP4kfb3J",
+  "snapshot_id": "Zlu2AAAAAAApkeck1iY2W9qLoM/8vANT",
   "tracks": [
     {
       "added_at": null,
@@ -455,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Serenata Rap",
-      "url": "https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disfrutando El Proceso",
         "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
@@ -507,6 +475,38 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/3Rs9Xh522EhGXLzm4kMnXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Serenata Rap",
+      "url": "https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
     },
     {
       "added_at": null,
@@ -907,30 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAKATA",
-        "url": "https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        },
-        {
-          "name": "Kami Mami",
-          "url": "https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG"
-        }
-      ],
-      "duration_ms": 252221,
-      "name": "PLAKATA",
-      "url": "https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
         "url": "https://open.spotify.com/album/315fLlUbg2VsiiJjhfsNfH"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 503613,
       "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
       "url": "https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAKATA",
+        "url": "https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Kami Mami",
+          "url": "https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG"
+        }
+      ],
+      "duration_ms": 252221,
+      "name": "PLAKATA",
+      "url": "https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1136,
+  "num_followers": 1137,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADPXId3O+ivW3jZ355Hw5/S",
+  "snapshot_id": "Zlu2AAAAAABnIMwZRXhvdvu7zVHZ+VTu",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Mexican Heaven",
-      "url": "https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Unico Desmadre De Mi Madre",
         "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
       },
@@ -303,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
       "artists": [
         {
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 117420,
-      "name": "Pancho Villa",
-      "url": "https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh"
+      "duration_ms": 120000,
+      "name": "Mexican Heaven",
+      "url": "https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz"
     },
     {
       "added_at": null,
@@ -343,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
         {
@@ -352,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 162142,
-      "name": "Before The Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
+      "duration_ms": 117420,
+      "name": "Pancho Villa",
+      "url": "https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
       "duration_ms": 168277,
       "name": "Suicidal Thoughts",
       "url": "https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 162142,
+      "name": "Before The Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Shrt Lyfe",
-          "url": "https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF"
-        }
-      ],
-      "duration_ms": 105629,
-      "name": "El Drogadito",
-      "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Unico Desmadre De Mi Madre",
         "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 264435,
       "name": "Que Caramba",
       "url": "https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Shrt Lyfe",
+          "url": "https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF"
+        }
+      ],
+      "duration_ms": 105629,
+      "name": "El Drogadito",
+      "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "3 Noches",
+      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 124879,
       "name": "Pa los Hombres",
       "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Unico Desmadre De Mi Madre",
-        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "3 Noches",
-      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpaca Hearts",
-        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 198164,
-      "name": "Alpaca Hearts",
-      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 261407,
       "name": "Pa Mi Gente",
       "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpaca Hearts",
+        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 198164,
+      "name": "Alpaca Hearts",
+      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
     },
     {
       "added_at": null,

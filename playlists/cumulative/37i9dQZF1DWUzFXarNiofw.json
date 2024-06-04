@@ -2671,7 +2671,7 @@
     },
     {
       "album": {
-        "name": "Audacity Remix",
+        "name": "Audacity (Remix)",
         "url": "https://open.spotify.com/album/3LPAkWk7d2r2iz9p0Zt6Rw"
       },
       "artists": [
@@ -2687,8 +2687,8 @@
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 162758,
-      "name": "Audacity Remix",
+      "duration_ms": 162760,
+      "name": "Audacity (Remix)",
       "url": "https://open.spotify.com/track/0ouNBIHM99th3cFiLnLt4c"
     },
     {
@@ -39534,12 +39534,12 @@
           "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
         },
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
           "name": "SHOW N PROVE",
           "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
       "date_added": "2024-05-31",

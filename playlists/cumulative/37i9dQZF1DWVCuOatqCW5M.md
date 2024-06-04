@@ -4,7 +4,7 @@
 
 > Latest music from your fav I\-Pop artists\. Cover\- Jasleen Royal
 
-1,062 songs - 2 day 12 hr 59 min
+1,063 songs - 2 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Ghule](https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Ghule](https://open.spotify.com/album/2Lf8HLjJ8N9OxXiNloWMzA) | 5:36 | 2023-10-06 | 2023-11-11 |
 | [Ghumakkad](https://open.spotify.com/track/5Be4TYOKBAIIhMImPWNDgO) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Ghumakkad](https://open.spotify.com/album/5s1BuMyHKueUCSAurZ0LIT) | 3:03 | 2023-08-25 | 2023-09-16 |
 | [Gir Ke Uth Padenge Hum](https://open.spotify.com/track/3HHjwIdGW6eMVfv6x5sOLy) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Gir Ke Uth Padenge Hum](https://open.spotify.com/album/1hvfZ4TE66en79jvi80j26) | 2:44 | 2023-03-24 | 2023-04-15 |
+| [Gone](https://open.spotify.com/track/7Hq6EbF6WLnrKDdyLwZEcL) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Gone](https://open.spotify.com/album/4hELUw7XOdEoGOrYXLYeMo) | 2:15 | 2024-05-31 |  |
 | [Gone Girl](https://open.spotify.com/track/7lJebwVBaywjSis2ahqtnn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Gone Girl](https://open.spotify.com/album/3Jul3ZMlbJJ5McOngWTbTU) | 2:47 | 2023-08-11 | 2023-09-09 |
 | [Gudiya Re](https://open.spotify.com/track/4LOMOwVnDozgJTRvUVFLcT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4) | [Gudiya Re](https://open.spotify.com/album/6uQskuLtkuEhlPgp5AMmVd) | 4:28 | 2023-10-13 | 2023-11-11 |
 | [Gulaab](https://open.spotify.com/track/7MGBVRDJQ6zxx18FhvqzSP) | [Raya](https://open.spotify.com/artist/1l6dTow5Y8NYBGUAKExdOF) | [Gulaab](https://open.spotify.com/album/06emcAOErjaBVkKqChRTF2) | 4:32 | 2022-07-08 | 2022-09-02 |

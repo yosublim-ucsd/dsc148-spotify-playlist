@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This Is Charles Ans\. Los temas esenciales, todos en una lista.
+> This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,482 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,549 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 15 | [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 |
 | 16 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 17 | [Legendarios](https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:44 |
-| 18 | [Un Vato Como Yo](https://open.spotify.com/track/33rsnrH0JDKiKBQ2SUxcmz) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Un Vato Como Yo](https://open.spotify.com/album/58PUsfoBVRGgDyTo4Xympi) | 3:45 |
-| 19 | [Andrómeda](https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:55 |
+| 18 | [Andrómeda](https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:55 |
+| 19 | [Un Vato Como Yo](https://open.spotify.com/track/33rsnrH0JDKiKBQ2SUxcmz) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Un Vato Como Yo](https://open.spotify.com/album/58PUsfoBVRGgDyTo4Xympi) | 3:45 |
 | 20 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 |
 | 21 | [Si Tú Te Vas](https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Si Tú Te Vas](https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV) | 3:29 |
 | 22 | [Empapelado](https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Empapelado](https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei) | 3:41 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 50 | [Tengo Miedo](https://open.spotify.com/track/1JltihDGLZn3siAOSbLbZz) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tengo Miedo](https://open.spotify.com/album/6MqquyaLM3s2ZzsOkqlqvJ) | 3:17 |
 | 51 | [Cada Vez](https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cada Vez](https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ) | 3:27 |
 
-Snapshot ID: `ZlpkgAAAAABCSzsE1g1ztt5pKCwyibxd`
+Snapshot ID: `Zlu2AAAAAADzj/7Sr22UDr/5sSo5DlC3`

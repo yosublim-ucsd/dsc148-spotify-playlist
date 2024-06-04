@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Alegria / Sou Feliz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502297,
+      "name": "Alegria / Sou Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz"
+    },
+    {
+      "album": {
         "name": "Deixa-Te Modelar",
         "url": "https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq"
       },

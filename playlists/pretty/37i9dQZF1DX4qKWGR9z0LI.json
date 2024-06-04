@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Jerry Rivera",
-  "num_followers": 1915651,
+  "num_followers": 1915665,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
         "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 193046,
       "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Coexistencia",
+        "url": "https://open.spotify.com/album/5Em9NuTiXzNHpxMz1ADqG4"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 190362,
+      "name": "Nadie La Conoce",
+      "url": "https://open.spotify.com/track/6Q2Tiib2AsRkYh5UU2YxaQ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Los Oscares De Oscar",
         "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
       },
@@ -1443,22 +1463,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "No Me Lo Creo",
         "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
       },
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Coexistencia",
-        "url": "https://open.spotify.com/album/5Em9NuTiXzNHpxMz1ADqG4"
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 190362,
-      "name": "Nadie La Conoce",
-      "url": "https://open.spotify.com/track/6Q2Tiib2AsRkYh5UU2YxaQ"
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260865,
+      "name": "Canciones Viejas",
+      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "EL AMOR DE SU VIDA",
         "url": "https://open.spotify.com/album/6mQpE52JhnJRQ7y6RXMc7B"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 189088,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/7hFyogy6yOO9JAILq3QvV8"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260865,
-      "name": "Canciones Viejas",
-      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+        "name": "Exitos y Mas",
+        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
+      "duration_ms": 304640,
+      "name": "Juguete de Nadie",
+      "url": "https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR"
     },
     {
       "added_at": "2024-05-31 04:00:00",

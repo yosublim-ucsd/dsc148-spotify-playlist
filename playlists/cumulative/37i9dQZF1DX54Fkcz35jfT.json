@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "PLANET OF METAL",
+        "url": "https://open.spotify.com/album/5j35zbPyAA6DaT12WzJXTN"
+      },
+      "artists": [
+        {
+          "name": "ASTERISM",
+          "url": "https://open.spotify.com/artist/65T5OWkp6XPHZzurwEaBl6"
+        },
+        {
+          "name": "Acky Bright",
+          "url": "https://open.spotify.com/artist/5sIUxmliZZPuteVQ11VZih"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331013,
+      "name": "-EP6- THE TITAN",
+      "url": "https://open.spotify.com/track/5TKW0FTjfPIHd9mSfidzn3"
+    },
+    {
+      "album": {
         "name": "6or9",
         "url": "https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW"
       },
@@ -348,7 +370,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 246612,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM"
@@ -1093,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/401eiZdlhvcwISy1FofBpb"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Boys",
+          "url": "https://open.spotify.com/artist/0XnOQzDQnQZlyM86Gk0Kt0"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183163,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/1NC0kno3QW9FgX0vlhZ8pu"
+    },
+    {
+      "album": {
         "name": "Hateful Failures",
         "url": "https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP"
       },
@@ -1274,7 +1314,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 160642,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
@@ -2240,6 +2280,24 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
+      "album": {
+        "name": "Beast Mode / Octave",
+        "url": "https://open.spotify.com/album/05bEOygcDYO7vClLouhuuQ"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249700,
+      "name": "Light my fire",
+      "url": "https://open.spotify.com/track/5UqYxHu2f1fumEZdYZ8el1"
     },
     {
       "album": {
@@ -3231,6 +3289,28 @@
     },
     {
       "album": {
+        "name": "RATATATA",
+        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "RATATATA",
+      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
+    },
+    {
+      "album": {
         "name": "Denial // Rebirth",
         "url": "https://open.spotify.com/album/3g3XJA0QdfwjiCBYhDPOTF"
       },
@@ -3729,6 +3809,32 @@
     },
     {
       "album": {
+        "name": "Silent World feat. KYONO, Ryu (Ryu Matsuyama)",
+        "url": "https://open.spotify.com/album/38cEkAqmg13qoj9CnXRIX3"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        },
+        {
+          "name": "KYONO",
+          "url": "https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr"
+        },
+        {
+          "name": "Ryu Matsuyama",
+          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "Silent World feat. KYONO, Ryu (Ryu Matsuyama)",
+      "url": "https://open.spotify.com/track/2f46PpC09Fg0H7jAI8Oo8L"
+    },
+    {
+      "album": {
         "name": "Life is Full of Choices-Greatest Songs-",
         "url": "https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT"
       },
@@ -4058,7 +4164,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 210945,
       "name": "SWEET DREAMS",
       "url": "https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ"
@@ -4722,7 +4828,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 169411,
       "name": "\u3080\u305a\u304b\u3057\u3044\u3066\u308c\u3071\u3057\u3044",
       "url": "https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K"
@@ -5346,7 +5452,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 197946,
       "name": "\u5c71\u5d50",
       "url": "https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a"

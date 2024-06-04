@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,271 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,335 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Gelatti](https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:00 |
 | 50 | [Pasajes De La Vida](https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:41 |
 | 51 | [En El Laboratorio](https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [En El Laboratorio](https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc) | 3:05 |
-| 52 | [Mi Escuela Fueron Las Calles](https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Mi Escuela Fueron Las Calles](https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK) | 2:01 |
+| 52 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 |
 
-Snapshot ID: `ZlpkgAAAAACIIISlOI4x5TnEqmjVVRPQ`
+Snapshot ID: `Zlu2AAAAAABfPLxKe+HKKMoXc+v/UM7x`

@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "All Too Soon",
+        "url": "https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234758,
+      "name": "All Too Soon",
+      "url": "https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3"
+    },
+    {
+      "album": {
         "name": "The Moon, Its Recollections Abstracted",
         "url": "https://open.spotify.com/album/0rqPzyBcDq8xO4UCn0gIw8"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 253413,
       "name": "Japan Beauty",
       "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"

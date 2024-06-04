@@ -1,6 +1,6 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 142290,
+  "num_followers": 142296,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
-      },
-      "artists": [
-        {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "COLAPSO",
         "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 209247,
       "name": "COLAPSO",
       "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+      },
+      "artists": [
+        {
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 140286,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 229531,
       "name": "Toda la Noche",
       "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 140286,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Muy tarde",
-        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Muy tarde",
-      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "La Loba",
         "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
       },
@@ -947,22 +931,18 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+        "name": "Muy tarde",
+        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        },
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 184256,
-      "name": "Con Mi Amiga",
-      "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
+      "duration_ms": 195157,
+      "name": "Muy tarde",
+      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -979,6 +959,26 @@
       "duration_ms": 182903,
       "name": "Male",
       "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "te vas a lamentar :'(",
+        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "te vas a lamentar :'(",
+      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1003,22 +1003,38 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "te vas a lamentar :'(",
-        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         },
         {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
         }
       ],
-      "duration_ms": 189600,
-      "name": "te vas a lamentar :'(",
-      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
+      "duration_ms": 184256,
+      "name": "Con Mi Amiga",
+      "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Formas",
+      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1047,22 +1063,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Formas",
-      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
         "name": "Aurora Y Enrique",
         "url": "https://open.spotify.com/album/24pgKDb53Li1K0LIN4CtIl"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
-      },
-      "artists": [
-        {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
-        }
-      ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "No va a pasar",
-        "url": "https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 211847,
-      "name": "No va a pasar",
-      "url": "https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Ninja",
         "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 176193,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "No va a pasar",
+        "url": "https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 211847,
+      "name": "No va a pasar",
+      "url": "https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Nuestros Besos",
         "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 247500,
       "name": "Nuestros Besos",
       "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2024-04-25 18:28:16",

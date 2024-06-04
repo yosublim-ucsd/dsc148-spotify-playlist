@@ -4,7 +4,7 @@
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 28 min
+55 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alexander Stewart on 'how dare you'](https://open.spotify.com/track/3aupwl4XHjM1l957jPs0fU) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:33 | 2024-05-17 |  |
 | [Alexander Stewart on 'i wish you cheated'](https://open.spotify.com/track/5jP8p57LNcS8wWFVeLMHn2) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:39 | 2024-05-17 |  |
 | [Alexander Stewart on 'reflection'](https://open.spotify.com/track/1Gl07mtzYpSv521rygV2bb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:45 | 2024-05-15 | 2024-05-24 |
-| [Alexander Stewart on 'strangers'](https://open.spotify.com/track/7GX7XXNHloRI7SAdG8hBEm) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:37 | 2024-05-18 |  |
+| [Alexander Stewart on 'strangers'](https://open.spotify.com/track/7GX7XXNHloRI7SAdG8hBEm) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:37 | 2024-05-18 | 2024-06-04 |
 | [all these years](https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:34 | 2024-05-12 |  |
 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 | 2024-01-10 |  |
 | [Backwards](https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:52 | 2024-01-10 |  |
@@ -26,7 +26,8 @@
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2024-01-10 |  |
 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 | 2024-03-09 |  |
 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 | 2024-01-10 |  |
-| [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-04-26 |  |
+| [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-04-26 | 2024-06-04 |
+| [day i die](https://open.spotify.com/track/5QailQmHeDLllMTGD9LaDR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 2:55 | 2024-06-04 |  |
 | [Different People](https://open.spotify.com/track/2gbYKZdLvnMFf8tFTwIaEh) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/1Ljzs8QNCgvm2CKg7v3h7f) | 2:54 | 2024-01-10 | 2024-02-05 |
 | [Different People](https://open.spotify.com/track/6S43kPaXobuEIDn718aLfT) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/6BN1dTaFFIzVGpUtOrWBSb) | 2:54 | 2024-02-04 |  |
 | [drunk thought](https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:35 | 2024-01-10 |  |
@@ -60,7 +61,7 @@
 | [strangers](https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:21 | 2024-05-12 |  |
 | [This Is Your Life](https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [This Is Your Life](https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP) | 2:35 | 2024-01-10 |  |
 | [when you love someone](https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [when you love someone](https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB) | 2:53 | 2024-01-10 |  |
-| [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 | 2024-01-10 | 2024-06-03 |
+| [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 | 2024-01-10 |  |
 | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg) | 4:12 | 2024-01-10 |  |
 
 \*This playlist was first scraped on 2024-01-11. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: BMSG POSSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,734 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,738 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 45 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |
 | 46 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
 | 47 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 |
-| 48 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 |
-| 49 | [Wild Boy](https://open.spotify.com/track/34HpTZsNQmU3EuI465OYJH) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [Wild Boy](https://open.spotify.com/album/2x7v3ik8VqlgHkF76LmUQo) | 3:16 |
+| 48 | [Wild Boy](https://open.spotify.com/track/34HpTZsNQmU3EuI465OYJH) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [Wild Boy](https://open.spotify.com/album/2x7v3ik8VqlgHkF76LmUQo) | 3:16 |
+| 49 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 |
 | 50 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 |
 
 Snapshot ID: `ZlXxcAAAAAClUWDJeN2riiwLGbf+la0S`

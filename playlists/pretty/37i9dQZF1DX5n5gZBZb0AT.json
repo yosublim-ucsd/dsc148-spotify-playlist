@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 843896,
+  "num_followers": 844317,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "EMPTY DREAMS",
+        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
+      },
+      "artists": [
+        {
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "EMPTY DREAMS",
+      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "YUM YUM",
         "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
@@ -699,34 +715,18 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "EMPTY DREAMS",
-        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
+        "name": "DRESS!",
+        "url": "https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI"
       },
       "artists": [
         {
-          "name": "CYPARISS",
-          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
         }
       ],
-      "duration_ms": 135000,
-      "name": "EMPTY DREAMS",
-      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "POOR",
-        "url": "https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY"
-      },
-      "artists": [
-        {
-          "name": "gqtis",
-          "url": "https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "POOR",
-      "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"
+      "duration_ms": 90461,
+      "name": "DRESS!",
+      "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
     }
   ],
   "unique_name": "gymcore",

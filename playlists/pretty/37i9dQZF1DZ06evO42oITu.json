@@ -1,12 +1,12 @@
 {
-  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 349235,
+  "description": "This Is Eric Clapton. Los temas esenciales, todos en una lista.",
+  "num_followers": 349295,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAtLSRm5yt0NJoFfZHncRIl",
+  "snapshot_id": "Zlu2AAAAAADLAv8BBr922RAWsBu+kXFp",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Your Love (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 150626,
+      "name": "For Your Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clapton",
         "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 471546,
       "name": "Old Love - Acoustic Live",
       "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 516533,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
     },
     {
       "added_at": null,
@@ -859,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patient Number 9",
-        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 280206,
-      "name": "One of Those Days (feat. Eric Clapton)",
-      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
+      "duration_ms": 310626,
+      "name": "Hard to Thrill",
+      "url": "https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         },
         {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 310626,
-      "name": "Hard to Thrill",
-      "url": "https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH"
+      "duration_ms": 280206,
+      "name": "One of Those Days (feat. Eric Clapton)",
+      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
     },
     {
       "added_at": null,
@@ -947,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 298280,
-      "name": "Let It Grow",
-      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+      "duration_ms": 275520,
+      "name": "Ride the River",
+      "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
     }
   ],
   "unique_name": "This Is Eric Clapton",

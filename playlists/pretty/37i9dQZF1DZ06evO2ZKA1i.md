@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 ### [This Is Deep Purple](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZKA1i)
 
-> This is Deep Purple\. The essential tracks, all in one playlist.
+> This is Deep Purple\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,501 likes - 51 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,529 likes - 51 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Throw My Bones](https://open.spotify.com/track/4W1SllpK1wf1I2YeW3tG0D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Throw My Bones](https://open.spotify.com/album/2AcI2wEIIt2J8f8m0gEV2b) | 3:38 |
 | 2 | [Smoke On The Water \- Remastered 2012](https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 5:40 |
-| 3 | [Perfect Strangers](https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:28 |
-| 4 | [Soldier Of Fortune \- 2009 Digital Remaster](https://open.spotify.com/track/60ifqqPhbselSwXyGrGyMK) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:24 |
-| 5 | [Black Night \- 1995 Remaster](https://open.spotify.com/track/2c1ccPqUnFYD8W7LY65bKG) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
+| 3 | [Soldier Of Fortune \- 2009 Digital Remaster](https://open.spotify.com/track/60ifqqPhbselSwXyGrGyMK) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:24 |
+| 4 | [Black Night \- 1995 Remaster](https://open.spotify.com/track/2c1ccPqUnFYD8W7LY65bKG) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
+| 5 | [Hush \- 1998 Remaster](https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 4:26 |
 | 6 | [Highway Star \- Remastered 2012](https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 6:06 |
-| 7 | [Hush \- 1998 Remaster](https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 4:26 |
-| 8 | [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 |
+| 7 | [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 |
+| 8 | [Knocking At Your Back Door](https://open.spotify.com/track/1VJBQdDrOblSLmoZMeh1xh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 7:05 |
 | 9 | [Child in Time \- 1995 Remaster](https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 10:13 |
 | 10 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 |
 | 11 | [Woman From Tokyo \- Remastered 2000](https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:51 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 39 | [Into the Fire \- 1995 Remaster](https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
 | 40 | [You Fool No One \- Remastered 2004](https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:47 |
 | 41 | [You Can't Do It Right \- 2009 Digital Remaster](https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:25 |
-| 42 | [All I Got Is You](https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [inFinite](https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P) | 4:42 |
-| 43 | [Anthem \- 2000 Remaster](https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 6:31 |
+| 42 | [Anthem \- 2000 Remaster](https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 6:31 |
+| 43 | [All I Got Is You](https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [inFinite](https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P) | 4:42 |
 | 44 | [Anya](https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Original Album Classics](https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb) | 6:31 |
 | 45 | [Love Don't Mean A Thing \- 2009 Digital Remaster](https://open.spotify.com/track/4tStEMRJzynmOSlGTZyjhl) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:24 |
 | 46 | [Lady Luck \- 2010 Digital Remaster](https://open.spotify.com/track/0GTZdFCyqZ0gTItkBaiE3i) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 2:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Simple Folk](https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 1:15 |
 | 51 | [Anyone's Daughter \- 1996 Remaster](https://open.spotify.com/track/5l8n0INbXVmFASDhJw4OVA) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 4:43 |
 
-Snapshot ID: `ZlpkgAAAAADYImEzYC1RE0j+edyyjBae`
+Snapshot ID: `Zlu2AAAAAAC1VBsQVjg/HtdaN3Js/mhf`

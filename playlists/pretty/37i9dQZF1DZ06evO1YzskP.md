@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 ### [This Is La Receta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YzskP)
 
-> This is La Receta\. The essential tracks, all in one playlist.
+> This Is La Receta\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,281 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,313 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 15 | [Apenas Es Martes](https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:20 |
 | 16 | [La Invitación](https://open.spotify.com/track/3J4oi4vGsPrgTjk6PSqY7B) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:13 |
 | 17 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 |
-| 18 | [Yo Miré Un Sombrero](https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Yo Miré Un Sombrero](https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U) | 2:35 |
+| 18 | [Prometiste](https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:29 |
 | 19 | [Amigo 09](https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:49 |
 | 20 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/4ygqxH6686TXD7gcINcAFJ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 2:45 |
-| 21 | [Prometiste](https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:29 |
+| 21 | [Yo Miré Un Sombrero](https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Yo Miré Un Sombrero](https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U) | 2:35 |
 | 22 | [Las Facetas de Arturo \(En Vivo\)](https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:11 |
 | 23 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
 | 24 | [LALA](https://open.spotify.com/track/5xoKKIe9gXElFpt8laxDXc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:11 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 41 | [El JP \(En Vivo\)](https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El JP \(En Vivo\)](https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl) | 3:22 |
 | 42 | [Orson Iván](https://open.spotify.com/track/3o64JodEf12s50KqFTickz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Orson Iván](https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE) | 2:50 |
 | 43 | [Los Placeres De Archivaldo](https://open.spotify.com/track/27l55K6adgEeUssURt0FnS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:34 |
-| 44 | [Listos Pal´ Topón](https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Johan Bastidas](https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u) | [Listos Pal´ Topón](https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn) | 2:16 |
-| 45 | [Mauricio MG](https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Mauricio MG](https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw) | 2:35 |
-| 46 | [El Sombero De Lado](https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:38 |
+| 44 | [El Sombero De Lado](https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:38 |
+| 45 | [Listos Pal´ Topón](https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Johan Bastidas](https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u) | [Listos Pal´ Topón](https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn) | 2:16 |
+| 46 | [Mauricio MG](https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Mauricio MG](https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw) | 2:35 |
 | 47 | [Los Ninis](https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:26 |
 | 48 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
 | 49 | [Finta De Fresitas](https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Finta De Fresitas](https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta) | 2:55 |
 | 50 | [Al Modo Culiacán](https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4) | [Al Modo Culiacán](https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk) | 1:51 |
 | 51 | [La Captura Del Niño Vicente](https://open.spotify.com/track/1vW9v99lo2DlhoAofsJAiS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:12 |
 
-Snapshot ID: `ZlpkgAAAAAAdkry5MsZCYiJvowm58TYJ`
+Snapshot ID: `Zlu2AAAAAAC/QSF3uHYTZW1E36BxeGBW`

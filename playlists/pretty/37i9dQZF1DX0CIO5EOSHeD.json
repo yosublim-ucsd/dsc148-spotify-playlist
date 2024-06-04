@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 491251,
+  "num_followers": 491404,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Anti-glory",
-        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Anti-glory",
-      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Lady Luck EP",
         "url": "https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 231925,
       "name": "Solid Door",
       "url": "https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Anti-glory",
+        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Anti-glory",
+      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Royal Headache",
-        "url": "https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
       "artists": [
         {
-          "name": "Royal Headache",
-          "url": "https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 93146,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK"
+      "duration_ms": 220377,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
+        "name": "Royal Headache",
+        "url": "https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN"
       },
       "artists": [
         {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Royal Headache",
+          "url": "https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1"
         }
       ],
-      "duration_ms": 220377,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
+      "duration_ms": 93146,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "No Smoke",
-        "url": "https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa"
-      },
-      "artists": [
-        {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "No Smoke",
-      "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Natty Wine",
         "url": "https://open.spotify.com/album/71pS7RazfqZLRfpoID4Vqz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 196720,
       "name": "Natty Wine",
       "url": "https://open.spotify.com/track/0FAhaygL5ZMx4YuhHxmsqa"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "No Smoke",
+        "url": "https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa"
+      },
+      "artists": [
+        {
+          "name": "Tiberius b",
+          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "No Smoke",
+      "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
     }
   ],
   "unique_name": "Lofi Indie",

@@ -11105,6 +11105,28 @@
     },
     {
       "album": {
+        "name": "Vita",
+        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Nah Eeto",
+          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172782,
+      "name": "Vita",
+      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
+    },
+    {
+      "album": {
         "name": "Lonely City",
         "url": "https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn"
       },
@@ -11390,7 +11412,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 193190,
       "name": "What Do You Do",
       "url": "https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f"

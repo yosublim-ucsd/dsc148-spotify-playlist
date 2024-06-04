@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2024. Cover: Cup of Joe\n\n",
+  "description": "Discover new artists on the horizon this 2024. Cover: Maki\n\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -2532,6 +2532,24 @@
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "album": {
+        "name": "Pauwi Na 'Ko (Dito Ka Na Lang)",
+        "url": "https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230005,
+      "name": "Pauwi Na 'Ko (Dito Ka Na Lang)",
+      "url": "https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq"
     },
     {
       "album": {

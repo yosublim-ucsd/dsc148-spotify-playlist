@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 10469,
+  "num_followers": 10482,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
     },
     {
-      "added_at": "2024-04-19 05:14:00",
-      "album": {
-        "name": "LOS MUCHACHOS",
-        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 199591,
-      "name": "SINCERAMENTE",
-      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
-    },
-    {
       "added_at": "2023-09-22 05:25:00",
       "album": {
         "name": "Entre Luca Y Juan Mej\u00eda",
@@ -123,6 +107,22 @@
       "duration_ms": 227013,
       "name": "Entre Luca Y Juan Mej\u00eda",
       "url": "https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q"
+    },
+    {
+      "added_at": "2024-04-19 05:14:00",
+      "album": {
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 199591,
+      "name": "SINCERAMENTE",
+      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Guarever",
-        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
-      },
-      "artists": [
-        {
-          "name": "Aguas Ardientes",
-          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
-        }
-      ],
-      "duration_ms": 257009,
-      "name": "No Hay Luka",
-      "url": "https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Nene",
         "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 201700,
       "name": "Nene",
       "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Guarever",
+        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
+      },
+      "artists": [
+        {
+          "name": "Aguas Ardientes",
+          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
+        }
+      ],
+      "duration_ms": 257009,
+      "name": "No Hay Luka",
+      "url": "https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -771,18 +771,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Carita Feliz | Carita Triste (Deluxe)",
-        "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
+        "name": "Cosas del Destino",
+        "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
       "artists": [
         {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 175405,
-      "name": "RELA",
-      "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
+      "duration_ms": 214129,
+      "name": "Cosas del Destino",
+      "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Cosas del Destino",
-        "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
+        "name": "Carita Feliz | Carita Triste (Deluxe)",
+        "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
       },
       "artists": [
         {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
         }
       ],
-      "duration_ms": 214129,
-      "name": "Cosas del Destino",
-      "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+      "duration_ms": 175405,
+      "name": "RELA",
+      "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Mudanza",
+        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
+      },
+      "artists": [
+        {
+          "name": "Kid Fresco",
+          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
+        }
+      ],
+      "duration_ms": 212178,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "ALL-YOU-CAN-EAT VOL.1",
         "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 219341,
       "name": "Que Te Vaya Mal",
       "url": "https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Mudanza",
-        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
-      },
-      "artists": [
-        {
-          "name": "Kid Fresco",
-          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
-        }
-      ],
-      "duration_ms": 212178,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
     },
     {
       "added_at": "2023-09-22 05:25:00",

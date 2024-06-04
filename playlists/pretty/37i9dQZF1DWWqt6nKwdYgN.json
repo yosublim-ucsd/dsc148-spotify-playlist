@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Horus, Yakari y Robert Tiamo en portada. ",
-  "num_followers": 14036,
+  "num_followers": 14037,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Mi Vida",
-        "url": "https://open.spotify.com/album/7h9QYjMl1MdvKQSvnXj6c5"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 117112,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/55WHGRh8av3cHRMX2MuWFk"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "No la Cuajan",
         "url": "https://open.spotify.com/album/0ZocA4gh4Md892U4yfffV5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 192222,
       "name": "No la Cuajan",
       "url": "https://open.spotify.com/track/6el7zTw2nFZn7TxW0IRZGQ"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Mi Vida",
+        "url": "https://open.spotify.com/album/7h9QYjMl1MdvKQSvnXj6c5"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 117112,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/55WHGRh8av3cHRMX2MuWFk"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -695,6 +695,30 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
+      },
+      "artists": [
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "El Humito",
         "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 123000,
       "name": "ODIOSOTORIUS",
       "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
-      },
-      "artists": [
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Constante",
-        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Constante",
-      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Easy To Hate",
         "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 168000,
       "name": "Avi\u00f3n",
       "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Constante",
+        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Constante",
+      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "KEEP IT STUPID",
+        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 147158,
+      "name": "KEEP IT STUPID",
+      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 177756,
       "name": "Tiempo y Espacio",
       "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "KEEP IT STUPID",
-        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 147158,
-      "name": "KEEP IT STUPID",
-      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 186197,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Linda como siempre",
         "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
       },
@@ -1515,22 +1495,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
       },
       "artists": [
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
         },
         {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
         }
       ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1547,6 +1527,26 @@
       "duration_ms": 202162,
       "name": "Cuando te miro",
       "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Arrogancia",
-        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 333403,
-      "name": "Arrogancia",
-      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Ni\u00f1os",
         "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
       },
@@ -1667,6 +1651,42 @@
       "duration_ms": 254186,
       "name": "Ni\u00f1os",
       "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 333403,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "PERO NAH!",
+        "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "PERO NAH!",
+      "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1691,26 +1711,6 @@
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "PERO NAH!",
-        "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "MARI",
-          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "PERO NAH!",
-      "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "El Principio",
-        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
-      },
-      "artists": [
-        {
-          "name": "Santo Dinero",
-          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "El Principio",
-      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 169875,
       "name": "La Pelicula",
       "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
+      },
+      "artists": [
+        {
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
     },
     {
       "added_at": "2024-05-31 06:00:00",

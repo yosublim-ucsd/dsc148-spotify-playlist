@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 ### [This Is Inspector](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2P0QCc)
 
-> This is Inspector\. The essential tracks, all in one playlist.
+> This Is Inspector\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,862 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,884 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 28 | [El Relato](https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:33 |
 | 29 | [Deja Ya de Mentir](https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:50 |
 | 30 | [Convaleciente](https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Convaleciente](https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th) | 3:26 |
-| 31 | [Noviembre \(feat\. Ely Guerra\)](https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:20 |
-| 32 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
+| 31 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
+| 32 | [Noviembre \(feat\. Ely Guerra\)](https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:20 |
 | 33 | [Sin Mirar Atrás](https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:29 |
 | 34 | [El Amargado](https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 |
 | 35 | [Otra Vez](https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Otra Vez](https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [No Puedo Ser Tu Amigo](https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:32 |
 | 50 | [Yo No Se Tú](https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:42 |
 
-Snapshot ID: `ZlpkgAAAAAATmH56OZta8eU8m1zLOmTC`
+Snapshot ID: `Zlu2AAAAAAB/4P1oShXrf3ongI7vHjaA`

@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 8761,
+  "num_followers": 8763,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABM583Pd+hh5j08DlePdonG",
+  "snapshot_id": "Zlu2AAAAAAD+rrziQ+/gx6yDntgBaT2L",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "El Inicio...",
-      "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 189687,
       "name": "El Plebe del Dos de Oro",
       "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "El Inicio...",
+      "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
     },
     {
       "added_at": null,
@@ -503,24 +503,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Compa Many (En Vivo)",
-        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
       "artists": [
+        {
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
+        },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 171363,
-      "name": "El Compa Many - En Vivo",
-      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
+      "duration_ms": 230038,
+      "name": "Ni el Dinero Ni Nada",
+      "url": "https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
       "artists": [
         {
@@ -528,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 186773,
-      "name": "Que No Se Apague la Lumbre",
-      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
+      "duration_ms": 161493,
+      "name": "Chapo Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
     },
     {
       "added_at": null,
@@ -571,28 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Rancho Bella Vista",
-        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
-      },
-      "artists": [
-        {
-          "name": "Inteligencia Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 230038,
-      "name": "Ni el Dinero Ni Nada",
-      "url": "https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+        "name": "El Compa Many (En Vivo)",
+        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 161493,
-      "name": "Chapo Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
+      "duration_ms": 171363,
+      "name": "El Compa Many - En Vivo",
+      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 140053,
       "name": "La Compra y Venta",
       "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Que No Se Apague la Lumbre",
+      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 182773,
-      "name": "Compa Alfredito",
-      "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
+      "duration_ms": 172960,
+      "name": "Los Juniors De Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 172960,
-      "name": "Los Juniors De Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
+      "duration_ms": 182773,
+      "name": "Compa Alfredito",
+      "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
     },
     {
       "added_at": null,

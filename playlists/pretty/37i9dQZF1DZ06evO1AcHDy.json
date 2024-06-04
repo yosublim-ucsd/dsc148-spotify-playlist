@@ -1,12 +1,12 @@
 {
-  "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
+  "description": "This is Rina Sawayama\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "num_followers": 37502,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAKsg/VkCMnTqo86jZ0REbM",
+  "snapshot_id": "Zlu2AAAAAAAd4Fpa8tfr08bB9s3dyQu9",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 195472,
-      "name": "10-20-40",
-      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
+      "duration_ms": 60321,
+      "name": "Time Out - Interlude",
+      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 60321,
-      "name": "Time Out - Interlude",
-      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
+      "duration_ms": 195472,
+      "name": "10-20-40",
+      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,

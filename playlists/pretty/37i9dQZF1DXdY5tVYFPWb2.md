@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,406 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,441 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 53 | [MOON NIGHT](https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Black Humor](https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt) | 3:10 |
 | 54 | [ASH feat\. Vaundy](https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [NEW GRAVITY](https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA) | 3:48 |
 | 55 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 |
-| 56 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 |
-| 57 | [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 |
+| 56 | [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 |
+| 57 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 |
 | 58 | [白無垢](https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [白無垢](https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB) | 3:26 |
-| 59 | [キャラバン](https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:19 |
+| 59 | [ずるくない?](https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [ずるくない?](https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7) | 3:28 |
 | 60 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
-| 61 | [ずるくない?](https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [ずるくない?](https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7) | 3:28 |
+| 61 | [キャラバン](https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:19 |
 | 62 | [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 |
 | 63 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 |
 | 64 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 69 | [楽園](https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [楽園](https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT) | 4:07 |
 | 70 | [君とdrive](https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [君とdrive](https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK) | 4:19 |
 | 71 | [Watching Over You](https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE) | [Peach & Apricot](https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX), [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Watching Over You](https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z) | 4:57 |
-| 72 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |
-| 73 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 |
+| 72 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 |
+| 73 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |
 | 74 | [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 |
 | 75 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 |
 | 76 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 80 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
 | 81 | [Summertime](https://open.spotify.com/track/4zom3juvWLaceP0ycQ5VJe) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Summertime](https://open.spotify.com/album/27RgQppywnA3wRIVPdaad5) | 4:16 |
 | 82 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 |
-| 83 | [Play The Game](https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [Play The Game](https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c) | 3:26 |
-| 84 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 |
+| 83 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 |
+| 84 | [Play The Game](https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [Play The Game](https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c) | 3:26 |
 | 85 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 |
 | 86 | [STEP IT](https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP) | 3:40 |
 | 87 | [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 |

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,367 songs - 3 day 13 hr 41 min
+1,368 songs - 3 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1297,6 +1297,7 @@
 | [空飛ぶペンギン](https://open.spotify.com/track/5rDH4z9tnXrSSDLUXUPTAt) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [空飛ぶペンギン](https://open.spotify.com/album/0kKe4lYB2uwxmwTZWqDbAe) | 4:13 | 2023-09-26 | 2023-10-11 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 | 2023-04-19 |
 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2023-04-15 | 2023-07-12 |
+| [紫苑の花束を](https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [紫苑の花束を](https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6) | 4:05 | 2024-06-03 |  |
 | [終焉のDestiny](https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [終焉のDestiny](https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv) | 3:29 | 2023-04-13 | 2023-05-31 |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-11 | 2023-07-19 |
 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 | 2024-04-04 |  |
@@ -1350,7 +1351,7 @@
 | [閃光 \- from CrosSing](https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu) | [相羽あいな](https://open.spotify.com/artist/1O4MFhLFDziEtfA6S6MhWu) | [閃光 \- from CrosSing](https://open.spotify.com/album/5m4kVfU62qsNN3tiGyGIAT) | 4:23 | 2023-05-16 | 2023-05-18 |
 | [限界突破](https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [HC 2023 episode 1 \-THE GHOST/限界突破\-](https://open.spotify.com/album/5e077p1aChzsL6caaqIvwI) | 3:30 | 2023-02-14 | 2023-03-15 |
 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 | 2024-04-18 |  |
-| [離れないで](https://open.spotify.com/track/4FXFXaXfUlIyiNJ04Ocwec) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [離れないで](https://open.spotify.com/album/4rKwnSdQEctKtoZV43OmDn) | 3:38 | 2024-04-23 |  |
+| [離れないで](https://open.spotify.com/track/4FXFXaXfUlIyiNJ04Ocwec) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [離れないで](https://open.spotify.com/album/4rKwnSdQEctKtoZV43OmDn) | 3:38 | 2024-04-23 | 2024-06-04 |
 | [雪月風花](https://open.spotify.com/track/39DuAB3Hp367LIsE73S9Sh) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [雪月風花](https://open.spotify.com/album/31GxFhtydmhCfECgg7NEc9) | 3:46 | 2023-10-24 | 2024-01-10 |
 | [雲を恋う](https://open.spotify.com/track/28mPWAyHiXIBnovrBeWwot) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [雲を恋う/落花流水](https://open.spotify.com/album/3HCB9aNa4oUuAm0pvmZdUK) | 3:33 | 2022-10-06 | 2023-01-11 |
 | [雷櫻](https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [雷櫻](https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP) | 3:38 | 2024-01-18 | 2024-04-11 |

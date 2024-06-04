@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 97 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 97 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 53 | [Sad Eyes](https://open.spotify.com/track/0qkkoL0bQBBWe4JU1NWcYt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
 | 54 | [Coming Home for Summer](https://open.spotify.com/track/2gKSQqtba0acZuweAtFfRd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:49 |
 | 55 | [Always](https://open.spotify.com/track/2tG3qB8XQoFyxRN0mL0Ovr) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 2:47 |
-| 56 | [Skeletons](https://open.spotify.com/track/69CDsup7hfmoiCjMt9lFNq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:57 |
-| 57 | [Bitter Sweet Love](https://open.spotify.com/track/2bwloySKENdHeJ8d5EQ2uy) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:45 |
+| 56 | [Bitter Sweet Love](https://open.spotify.com/track/2bwloySKENdHeJ8d5EQ2uy) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:45 |
+| 57 | [Skeletons](https://open.spotify.com/track/69CDsup7hfmoiCjMt9lFNq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:57 |
 | 58 | [Losing You](https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:46 |
 | 59 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 |
 | 60 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/7IKld0pEprvwZFTrINrth1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:20 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 96 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 97 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AbTA1AAAAABy3cNVR7mqUMvfvaxBnQCY`
+Snapshot ID: `AbTGdAAAAADx6av+4BiwMxRkzGJgAvRr`

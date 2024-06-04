@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Orla Gartland",
-  "num_followers": 114425,
+  "num_followers": 114432,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "im so happy",
-      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Zombieland",
         "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 162932,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Come Back To Me",
-        "url": "https://open.spotify.com/album/61ioqNXFsMG17cxa5MaQvo"
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
       "artists": [
         {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 153906,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa"
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+        "name": "Come Back To Me",
+        "url": "https://open.spotify.com/album/61ioqNXFsMG17cxa5MaQvo"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
         }
       ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+      "duration_ms": 153906,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "MADRA",
         "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 203037,
       "name": "Sickly Sweet",
       "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
     },
     {
       "added_at": "2024-05-31 16:27:23",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150897,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Fishbrain",
-        "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
         }
       ],
-      "duration_ms": 277285,
-      "name": "Fishbrain",
-      "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
+      "duration_ms": 150897,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1283,18 +1267,34 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Make You Proud",
-        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
+        "name": "Fishbrain",
+        "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 207439,
-      "name": "Make You Proud",
-      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
+      "duration_ms": 277285,
+      "name": "Fishbrain",
+      "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Hello Alien",
+        "url": "https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5"
+      },
+      "artists": [
+        {
+          "name": "Nathan Day",
+          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Hello Alien",
+      "url": "https://open.spotify.com/track/4apqIevNZl1POiQccrGWls"
     }
   ],
   "unique_name": "pulp",

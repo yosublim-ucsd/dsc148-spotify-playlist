@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Acceptance",
+        "url": "https://open.spotify.com/album/28vHrbkAU4pKirExxyDoGz"
+      },
+      "artists": [
+        {
+          "name": "Tranquomo",
+          "url": "https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/4CzCijOLRG4mtfo1QiIKam"
+    },
+    {
+      "album": {
         "name": "Alleviation (Sound Bath)",
         "url": "https://open.spotify.com/album/7nYnglb5XofsK3mTfvfZQk"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 257743,
       "name": "Angelic Waves",
       "url": "https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS"
@@ -222,7 +240,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 380622,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/4Vcdmfn5iWqNweNKQdpcx2"
@@ -586,7 +604,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 233478,
       "name": "Dreamwalking",
       "url": "https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 241401,
       "name": "Eternal Forest (417 Hz Healing Meditation)",
       "url": "https://open.spotify.com/track/1lR9VEaW8mD2SXuAtr4d9w"
@@ -939,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Forest Healing",
+        "url": "https://open.spotify.com/album/50AvolQYUeaklEvFcWfJAS"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "Forest Healing",
+      "url": "https://open.spotify.com/track/0wjq5TtW5Jhu51pOUhrtws"
+    },
+    {
+      "album": {
         "name": "Forest Meditation",
         "url": "https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO"
       },
@@ -950,7 +986,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 154969,
       "name": "Forest Meditation",
       "url": "https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi"
@@ -1008,6 +1044,24 @@
       "duration_ms": 120000,
       "name": "Forest Winds",
       "url": "https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X"
+    },
+    {
+      "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6cdcUp00Xw8SWcCnYtY6pj"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Free Spirit",
+      "url": "https://open.spotify.com/track/0JBzLEBHNxWQxcoVK88EPo"
     },
     {
       "album": {
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 246124,
       "name": "Kokyu",
       "url": "https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK"
@@ -1570,7 +1624,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 165000,
       "name": "My Pace",
       "url": "https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39"
@@ -1919,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Rainbow's End",
+        "url": "https://open.spotify.com/album/3CYTEAvcYSEFe61NBk1lWD"
+      },
+      "artists": [
+        {
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "Rainbow's End",
+      "url": "https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU"
+    },
+    {
+      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F"
       },
@@ -2172,7 +2244,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 141312,
       "name": "Song for Milkweed (asclepias, a genus of herbaceous, perennial, flowering plants)",
       "url": "https://open.spotify.com/track/6kiL320opeuGmB8d4O7a3c"
@@ -2230,6 +2302,24 @@
       "duration_ms": 177600,
       "name": "Spiritual Being - Loopable with No Fade",
       "url": "https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy"
+    },
+    {
+      "album": {
+        "name": "Sweet Nature",
+        "url": "https://open.spotify.com/album/5JpnDhrCd3I5bOLl9C8WKg"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Sweet Nature",
+      "url": "https://open.spotify.com/track/323vDrUSVxJTm7SsV5Oftw"
     },
     {
       "album": {
@@ -2305,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "The flowering of Viennese",
+        "url": "https://open.spotify.com/album/0aoL6SDtHjU9IagdIhZrnW"
+      },
+      "artists": [
+        {
+          "name": "Dark Forest Effects",
+          "url": "https://open.spotify.com/artist/3rmOazBvpUirImT8h4UiHq"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "The flowering of Viennese",
+      "url": "https://open.spotify.com/track/7CjXUmmXcOtjHm7nBczysF"
+    },
+    {
+      "album": {
         "name": "The Forest Waking Up",
         "url": "https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8"
       },
@@ -2352,7 +2460,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 181428,
       "name": "The Pensive Forest",
       "url": "https://open.spotify.com/track/6lOlWHWw9ao9rS6PVNFl62"
@@ -2500,6 +2608,24 @@
       "duration_ms": 170909,
       "name": "twentieth-night moon - Meditation",
       "url": "https://open.spotify.com/track/58Slfe4cHE4uqvPIFyTEbx"
+    },
+    {
+      "album": {
+        "name": "Unwinding",
+        "url": "https://open.spotify.com/album/6u01P2pUMjiPZaiYpUQbql"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134541,
+      "name": "Unwinding",
+      "url": "https://open.spotify.com/track/3pv9G419Ni3HFa4Cgcv5tI"
     },
     {
       "album": {

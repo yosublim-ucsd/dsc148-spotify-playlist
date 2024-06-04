@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,339 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,340 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 40 | [I Believe](https://open.spotify.com/track/0XyS7ARIsq2klBj13ovRku) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4oYqY36ZQDueqm535USQ2C) | 5:02 |
 | 41 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 |
 | 42 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 |
-| 43 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
-| 44 | [Jesus Cries](https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:23 |
+| 43 | [Jesus Cries](https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:23 |
+| 44 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
 | 45 | [My God Can](https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [My God Can](https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI) | 3:13 |
 | 46 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 |
 | 47 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
 | 48 | [Abandoned](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 |
 | 49 | [Jesus Is](https://open.spotify.com/track/2vuIs8YqeRgOOcguBucO1e) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Jesus Is](https://open.spotify.com/album/6eKcDzviRHeDhUTnI3jCUC) | 3:03 |
-| 50 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/7HZ71xA72mMAj94NH7suWy) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 |
+| 50 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
 
 Snapshot ID: `ZeDujgAAAAA5UPJaU3UuM980BZRXO6d7`

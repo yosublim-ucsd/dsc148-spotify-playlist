@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 327720,
+  "num_followers": 327761,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "Wouldn\u2019t Change A Thing",
-        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Wouldn\u2019t Change A Thing",
-      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
         "name": "Mercy Killing",
         "url": "https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 228998,
       "name": "Mercy Killing",
       "url": "https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
+        "name": "Wouldn\u2019t Change A Thing",
+        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Wouldn\u2019t Change A Thing",
+      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
     },
     {
       "added_at": "2024-05-31 15:39:10",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
     },
     {
       "added_at": "2024-05-31 15:39:10",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 129776,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2024-05-31 15:39:10",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 284137,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2024-05-31 15:39:10",
@@ -2299,26 +2299,6 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
         "name": "Muted Blue",
         "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 248400,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
     },
     {
       "added_at": "2024-05-31 15:39:10",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "Death Wish (with Micah Martin)",
-        "url": "https://open.spotify.com/album/4OUTUIrOCKPVkrpJSTGWk1"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 216998,
-      "name": "Death Wish (with Micah Martin)",
-      "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
         "name": "Get To U",
         "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
@@ -2459,6 +2439,26 @@
       "duration_ms": 238378,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/6Nd0zIgpwa1W1faRldX6n8"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
+        "name": "Death Wish (with Micah Martin)",
+        "url": "https://open.spotify.com/album/4OUTUIrOCKPVkrpJSTGWk1"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 216998,
+      "name": "Death Wish (with Micah Martin)",
+      "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
     },
     {
       "added_at": "2024-05-31 15:39:10",

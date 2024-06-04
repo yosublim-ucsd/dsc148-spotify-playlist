@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. charli
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,756 likes - 132 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,808 likes - 132 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 |
+| 1 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
 | 2 | [Crazy Cheap \(feat\. TRISTÁN!\)](https://open.spotify.com/track/7avEYfgql0kCHHzyfHCRaU) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Crazy Cheap \(feat\. TRISTÁN!\)](https://open.spotify.com/album/55Xy2XC91DyNpTNA4tSCYs) | 2:50 |
 | 3 | [crush](https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [crush](https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK) | 2:26 |
 | 4 | [Knock Yourself Out XD](https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Knock Yourself Out XD](https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r) | 2:48 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 131 | [Affirmations](https://open.spotify.com/track/5BgsNewvpXArLhK1sxZyPB) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Affirmations](https://open.spotify.com/album/6fswdiE5noqpRbyZCj3fnm) | 3:34 |
 | 132 | [Lost Everything](https://open.spotify.com/track/55gIwFTMl1c3ZuesPM0VHo) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Lost Everything / Reign](https://open.spotify.com/album/6n6uqHl0JaMqDe2sFErG83) | 4:01 |
 
-Snapshot ID: `ZljyiQAAAABZ3dyQDc+3QBLFMXgcyU2x`
+Snapshot ID: `Zl4s3AAAAABkpzPi64fw7EwaSDu4fkyE`

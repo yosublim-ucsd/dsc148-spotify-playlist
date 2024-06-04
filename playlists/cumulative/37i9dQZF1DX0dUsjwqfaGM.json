@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "B\u00c1O TH\u1ee8C",
+        "url": "https://open.spotify.com/album/56i0BLoKwL16baZ3iRBFhv"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "B\u00c1O TH\u1ee8C",
+      "url": "https://open.spotify.com/track/2ideYhyxXEbxGNkEA7gAGi"
+    },
+    {
+      "album": {
         "name": "B\u1ecbt M\u1eaft B\u1eaft Anh",
         "url": "https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 179541,
       "name": "B\u1ecbt M\u1eaft B\u1eaft Anh",
       "url": "https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY"
@@ -254,7 +272,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 202125,
       "name": "Chanh Tuy\u1ebft - Live At Home",
       "url": "https://open.spotify.com/track/3PzJrG7RJsoYDKc9t4r5KY"
@@ -415,6 +433,32 @@
     },
     {
       "album": {
+        "name": "C\u00e1i Gi\u00e1 C\u1ee7a S\u1ef1 Tr\u01b0\u1edfng Th\u00e0nh",
+        "url": "https://open.spotify.com/album/4G4EO53fwzmAOkxBNumUDJ"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00ed Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM"
+        },
+        {
+          "name": "RIN9",
+          "url": "https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf"
+        },
+        {
+          "name": "DREAMeR",
+          "url": "https://open.spotify.com/artist/4B6efAffqaEyjm2DZsdJmb"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "C\u00e1i Gi\u00e1 C\u1ee7a S\u1ef1 Tr\u01b0\u1edfng Th\u00e0nh",
+      "url": "https://open.spotify.com/track/3iyLhbpp5RwbXAVLCi7G7i"
+    },
+    {
+      "album": {
         "name": "Door To Nowhere",
         "url": "https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3"
       },
@@ -540,7 +584,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 173365,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/6LRkFj3VN587ilX2tmtcrT"
@@ -846,7 +890,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 187000,
       "name": "Hanoi 12AM (Prod. by Maiki, Hallowed)",
       "url": "https://open.spotify.com/track/1Si3UwZHOEUvayn45lcwqA"
@@ -1140,7 +1184,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 248165,
       "name": "IYA.",
       "url": "https://open.spotify.com/track/3SBP53NRX6Rik4ufPlfrV8"
@@ -1192,6 +1236,28 @@
       "duration_ms": 211898,
       "name": "Kh\u00f3c C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/4xBQLlSh6dQrluFORd8muc"
+    },
+    {
+      "album": {
+        "name": "Leo Th\u0103ng",
+        "url": "https://open.spotify.com/album/50qdwg6GoEAZpWDCmIJcBN"
+      },
+      "artists": [
+        {
+          "name": "Teddie J",
+          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
+        },
+        {
+          "name": "TIA",
+          "url": "https://open.spotify.com/artist/5rzlnfgdC67sTiMjgQBFoa"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Leo Th\u0103ng",
+      "url": "https://open.spotify.com/track/0lL8WwEu7WGPDTQ7GP5IxR"
     },
     {
       "album": {
@@ -2014,7 +2080,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 153541,
       "name": "\u00fam ba la x\u00ec b\u00f9a",
       "url": "https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6"

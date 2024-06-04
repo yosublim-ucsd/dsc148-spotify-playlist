@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 70704,
       "name": "AUTOMOTIVO PA PA PAPAI - Slowed",
       "url": "https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 128378,
       "name": "Fear of God",
       "url": "https://open.spotify.com/track/6mmVlg77OTVAbwoQTvUXFS"
@@ -4473,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
       },
@@ -5612,7 +5630,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 128000,
       "name": "\u0411\u0438\u0433 \u0421\u0438\u0442\u0438 \u041b\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI"
@@ -7620,7 +7638,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 197771,
       "name": "\u041f\u043e\u0436\u0430\u0440\u044b",
       "url": "https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO"
@@ -8506,7 +8524,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 114000,
       "name": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a-\u0431\u0435\u043d\u0437\u043e\u043f\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/5PQFweohKzzPinkx7LOvmK"

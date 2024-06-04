@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631624,
+  "num_followers": 631667,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Stilhed",
-        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
-      },
-      "artists": [
-        {
-          "name": "Alba Lie",
-          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Stilhed",
-      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Placid",
         "url": "https://open.spotify.com/album/4Ps00yzpjrio09MlcaAdKu"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 170666,
       "name": "Placid",
       "url": "https://open.spotify.com/track/6HRbUx7V017PctkDJotRc4"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Stilhed",
+        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
+      },
+      "artists": [
+        {
+          "name": "Alba Lie",
+          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Stilhed",
+      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
-      },
-      "artists": [
-        {
-          "name": "Bayesian",
-          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Nebulae",
-      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/62lJZHPyChbfdnZmaHi0jU"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
+      },
+      "artists": [
+        {
+          "name": "Bayesian",
+          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Nebulae",
+      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Deep Thoughts",
-        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
-      },
-      "artists": [
-        {
-          "name": "Danny Shamoun",
-          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Deep Thoughts",
-      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 166500,
       "name": "Morgong\u00e5va",
       "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
+      },
+      "artists": [
+        {
+          "name": "Danny Shamoun",
+          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Deep Thoughts",
+      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Myriads",
-        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
-      },
-      "artists": [
-        {
-          "name": "12dust",
-          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Myriads",
-      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Evanescenza",
         "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186601,
       "name": "Libero",
       "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Myriads",
+        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Myriads",
+      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
-      },
-      "artists": [
-        {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Mellow stars",
         "url": "https://open.spotify.com/album/2QZYkWO4SRAM9yfWweZqt8"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 160194,
       "name": "Mellow stars",
       "url": "https://open.spotify.com/track/2NNODc7JCLSSdAs4oRpR9b"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
+      },
+      "artists": [
+        {
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Surface",
-        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
-      },
-      "artists": [
-        {
-          "name": "Lerone Gios",
-          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
-        }
-      ],
-      "duration_ms": 126774,
-      "name": "Surface",
-      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Jubran's Lake (432hz)",
         "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 240000,
       "name": "Jubran's Lake (432hz) - No Ambience",
       "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Surface",
+        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
+      },
+      "artists": [
+        {
+          "name": "Lerone Gios",
+          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
+        }
+      ],
+      "duration_ms": 126774,
+      "name": "Surface",
+      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Burgeon",
-        "url": "https://open.spotify.com/album/63OxZ1kqFKqftIwuwKTAEl"
-      },
-      "artists": [
-        {
-          "name": "Abigail Dorsey",
-          "url": "https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR"
-        }
-      ],
-      "duration_ms": 168684,
-      "name": "Burgeon",
-      "url": "https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "432 hz Frequency of Universe",
         "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 160345,
       "name": "Precious 432 hz",
       "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Burgeon",
+        "url": "https://open.spotify.com/album/63OxZ1kqFKqftIwuwKTAEl"
+      },
+      "artists": [
+        {
+          "name": "Abigail Dorsey",
+          "url": "https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR"
+        }
+      ],
+      "duration_ms": 168684,
+      "name": "Burgeon",
+      "url": "https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK"
     },
     {
       "added_at": "2024-05-11 18:04:21",

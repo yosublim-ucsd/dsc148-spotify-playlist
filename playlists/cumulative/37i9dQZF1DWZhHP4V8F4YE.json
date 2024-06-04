@@ -8613,6 +8613,28 @@
     },
     {
       "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
+    },
+    {
+      "album": {
         "name": "no longer bound",
         "url": "https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A"
       },

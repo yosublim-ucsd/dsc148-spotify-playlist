@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,141 songs - 6 day 14 hr 8 min
+4,142 songs - 6 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,7 +1382,7 @@
 | [Good Morning](https://open.spotify.com/track/2Vn2PKznrf5e1FtVcoIwQe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Good Morning](https://open.spotify.com/album/1u1P4U3OIqGZGjS974agRk) | 1:36 | 2022-03-10 | 2023-04-21 |
 | [Good Morning](https://open.spotify.com/track/4tN5jfueFkQ7I52tNTp925) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Good Morning](https://open.spotify.com/album/4QhcEzNzmGzYWuhtT2MI1n) | 2:13 | 2023-01-19 | 2023-04-21 |
 | [Good Morning](https://open.spotify.com/track/6kC8ai0O06mARQHn8dcGDc) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Good Morning](https://open.spotify.com/album/4AhOqkfz5NzF1X5rKUgNKr) | 2:45 | 2021-05-14 | 2021-07-02 |
-| [Good Only Knows](https://open.spotify.com/track/3AfzarIgPSbvtit3Lj0HRJ) | [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Good Only Knows](https://open.spotify.com/album/5v2wZ2ioro1BKR19D7vMEV) | 2:03 | 2024-05-30 |  |
+| [Good Only Knows](https://open.spotify.com/track/3AfzarIgPSbvtit3Lj0HRJ) | [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Good Only Knows](https://open.spotify.com/album/5v2wZ2ioro1BKR19D7vMEV) | 2:03 | 2024-05-30 | 2024-06-04 |
 | [Good Times](https://open.spotify.com/track/0RL6hEYE3Hz3l6kne5WrII) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [Raw Collective](https://open.spotify.com/artist/1yB33Zc5paP6MeBlMK6HS0) | [Good Times](https://open.spotify.com/album/7xrlLTq1IbnBQyADQHqsY2) | 2:24 | 2020-11-20 | 2021-06-04 |
 | [Good Times](https://open.spotify.com/track/70JPgmdrLkDJrWBC8wObP6) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Good Times](https://open.spotify.com/album/0FKmShXueFJVKLVuIbtoba) | 2:25 | 2020-10-03 | 2021-03-14 |
 | [Good Times In Lagoa](https://open.spotify.com/track/3PnGuLHTLguXtczSGhuFNe) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [TJ.](https://open.spotify.com/artist/1VukMaKicUxriVC1UJahgC), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Good Times In Lagoa](https://open.spotify.com/album/5hC0KqFAhsLa4an6MBu40T) | 2:09 | 2023-10-26 |  |
@@ -3907,6 +3907,7 @@
 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2021-10-22 | 2022-04-01 |
 | [Voyagers](https://open.spotify.com/track/7wnnLw3QEPEGhKb646WzLp) | [DJ Grumble](https://open.spotify.com/artist/2oJgWr3LkpO9g9NyL8hiOJ), [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI) | [Voyagers](https://open.spotify.com/album/03wp2JLBCWLUiIChwsF2L2) | 2:32 | 2024-04-25 |  |
 | [Vriesa](https://open.spotify.com/track/2vIqO5sLRNoms83t7ge84W) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [Vriesa](https://open.spotify.com/album/0WnuRPNQEyDfyr5AhdMbYS) | 2:10 | 2021-03-06 | 2021-05-21 |
+| [Vulkán](https://open.spotify.com/track/1HmRdmNEXUJtxQ0Sw2Sa1d) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Vulkán](https://open.spotify.com/album/2BAcDgcs2TDG41gXVkpjg9) | 1:33 | 2024-05-30 |  |
 | [vybes](https://open.spotify.com/track/4T2mW6Ie4bg7KD1yV6aMdb) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [vybes](https://open.spotify.com/album/0FRciiJzBUcVF1Zdht7fp2) | 1:47 | 2019-11-15 | 2020-04-18 |
 | [Vìo](https://open.spotify.com/track/6L9jsHmNxR3VcfVl8TSf5p) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Vìo](https://open.spotify.com/album/0DY2SWUNesd2tQttVXlKND) | 1:45 | 2019-05-26\* | 2019-06-15 |
 | [Wait for a Wonder!](https://open.spotify.com/track/6HmZnAQToWNawDNfafkPDN) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA) | [Silent Opera](https://open.spotify.com/album/2iA2Y0HOnalI1vUDMVRKqm) | 3:54 | 2020-02-11 | 2020-04-18 |

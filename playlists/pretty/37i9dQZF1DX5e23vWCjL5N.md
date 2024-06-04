@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,191 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,204 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bruce Wayne \(feat\. thasup\)](https://open.spotify.com/track/5mnX1xQIhIMztkuxBchRwr) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 2:51 |
+| 1 | [Plenilunio](https://open.spotify.com/track/03QMANutV0NfUiEGHRQBdo) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Plenilunio](https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy) | 3:31 |
 | 2 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 |
 | 3 | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU) | 4:05 |
 | 4 | [Due principi \(feat\. Emis Killa\)](https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:31 |
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 6 | [VERO TONY VERO SOSA](https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:44 |
 | 7 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:59 |
 | 8 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 |
-| 9 | [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 |
-| 10 | [Plenilunio](https://open.spotify.com/track/03QMANutV0NfUiEGHRQBdo) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Plenilunio](https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy) | 3:31 |
+| 9 | [Bruce Wayne \(feat\. thasup\)](https://open.spotify.com/track/5mnX1xQIhIMztkuxBchRwr) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 2:51 |
+| 10 | [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 |
 | 11 | [Mare Calmo](https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:27 |
 | 12 | [SORRY](https://open.spotify.com/track/5VcfNmujrZNUcztU5tR4qY) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:22 |
 | 13 | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo) | 3:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 69 | [Mondo Di Fango](https://open.spotify.com/track/3rR90ytwXhFCGXjbDzN7HI) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC9 \- QUELLO CHE VI CONSIGLIO VOL\. 9](https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe) | 1:57 |
 | 70 | [Morto di fame \(feat\. Lazza\)](https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:43 |
 
-Snapshot ID: `Zlj3HAAAAADSCuWF14bH5MR9Hs/mn0MT`
+Snapshot ID: `Zl3UrAAAAAAvXgf1rNP4ohPlfqxgE4cc`

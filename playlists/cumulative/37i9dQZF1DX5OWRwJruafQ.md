@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: JERRY
 
-393 songs - 18 hr 38 min
+394 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 | 2023-09-21 |  |
 | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/4AOblHfneYWvjUl1clwzLU) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/4k5j3g48igjYLTmFGITUSc) | 3:18 | 2023-10-11 | 2024-02-14 |
 | [Kheti](https://open.spotify.com/track/1hMyjH2oMJFxvSCCrPZZJu) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Kheti](https://open.spotify.com/album/3e3Q7c1GmicU3kxmU9WWg8) | 2:15 | 2023-06-09 | 2023-07-13 |
-| [Kheti](https://open.spotify.com/track/3S4WHSIvTMIAdMscTjby9u) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Kheti](https://open.spotify.com/album/3udGZCTud3gLtuJJna2GaE) | 1:49 | 2024-05-28 |  |
+| [Kheti](https://open.spotify.com/track/3S4WHSIvTMIAdMscTjby9u) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Kheti](https://open.spotify.com/album/3udGZCTud3gLtuJJna2GaE) | 1:49 | 2024-05-28 | 2024-06-04 |
 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 | 2024-04-26 |  |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-04-11 |  |
 | [KILLSHOT](https://open.spotify.com/track/0kkipac2zXY3DO7UcajsAg) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [KILLSHOT](https://open.spotify.com/album/51xLM3es2JQBxvbeRcKDEs) | 2:37 | 2023-12-11 | 2024-02-16 |
@@ -305,6 +305,7 @@
 | [Raid](https://open.spotify.com/track/0zzFgse3Kxav0FTpHD32JH) | [Gurpreet Randhawa](https://open.spotify.com/artist/3uB5zQEcpSgthO42DwPcH9), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Raid](https://open.spotify.com/album/5ZkyLxGnYpG47sUsN2f4f8) | 2:16 | 2023-03-29 | 2023-04-21 |
 | [Rare](https://open.spotify.com/track/6UIeXd0oMQk5ZuC2PGDGgq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Mood Mechanic](https://open.spotify.com/artist/1RrL9MD1idOnU0jUvorr9v) | [Rare](https://open.spotify.com/album/6kSqx59AZ9ETpqP5nLybcd) | 1:57 | 2024-02-29 | 2024-03-21 |
 | [Rebel](https://open.spotify.com/track/55nyHIEC9uSC5nqgMGiZIe) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Chidiyan Da Chamba](https://open.spotify.com/album/7Dsgh4TMCBZW64jpsEGyIv) | 3:11 | 2023-10-20 | 2023-10-24 |
+| [Reckless](https://open.spotify.com/track/2ffcSt4PuNL0OFCCXF3yUi) | [Sukhman Cheema](https://open.spotify.com/artist/5uIDwOqSyyH4CzNAk31sAZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Reckless](https://open.spotify.com/album/32fDSUrkwEgYV6zaia8SBi) | 2:27 | 2024-06-03 |  |
 | [Roots](https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI) | [Pav](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW) | [Roots](https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92) | 2:09 | 2023-08-25 | 2023-10-05 |
 | [Royal](https://open.spotify.com/track/1ef21vkRkY1XdkhBHiHcLo) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Lafz](https://open.spotify.com/artist/3AFsfA31wg6nLvZwSKFszq) | [Beyond Belief](https://open.spotify.com/album/7oF59pfaoiCd29K5UzT0K4) | 2:34 | 2023-09-11 | 2023-10-20 |
 | [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2023-08-10 |  |

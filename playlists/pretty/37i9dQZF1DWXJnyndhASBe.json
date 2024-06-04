@@ -1,13 +1,69 @@
 {
   "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Leosia, bambi",
-  "num_followers": 520878,
+  "num_followers": 521080,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZluZ4AAAAACHA5TYsNOSYz7Qy68Cbyez",
+  "snapshot_id": "Zl2AWQAAAAA/C2FrDPmVC/MTRLHFYowj",
   "tracks": [
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "AGENT47",
+        "url": "https://open.spotify.com/album/382ayEY0B2AN3aqgB7Vywj"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "duration_ms": 167035,
+      "name": "AGENT47",
+      "url": "https://open.spotify.com/track/1mcULyU8iC9nmqkzcw5nAI"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "Pusty pok\u00f3j, ale p\u0142yty diamentowe",
+        "url": "https://open.spotify.com/album/7ID3CADe6uYjfqHwvCE99N"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Tulia",
+          "url": "https://open.spotify.com/artist/6w79TLiOorVtyvGHMUrOo0"
+        }
+      ],
+      "duration_ms": 193561,
+      "name": "Pusty pok\u00f3j, ale p\u0142yty diamentowe",
+      "url": "https://open.spotify.com/track/6dB3ZhCxLHIVU1EoVv5SnF"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "STRZELAM PETEM",
+        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "STRZELAM PETEM",
+      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
+    },
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
@@ -39,38 +95,6 @@
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
-        "name": "AGENT47",
-        "url": "https://open.spotify.com/album/382ayEY0B2AN3aqgB7Vywj"
-      },
-      "artists": [
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        }
-      ],
-      "duration_ms": 167035,
-      "name": "AGENT47",
-      "url": "https://open.spotify.com/track/1mcULyU8iC9nmqkzcw5nAI"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "STRZELAM PETEM",
-        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
-      },
-      "artists": [
-        {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "STRZELAM PETEM",
-      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
         "name": "GENERACJA CUZI",
         "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
       },
@@ -87,58 +111,6 @@
       "duration_ms": 113333,
       "name": "GENERACJA CUZI",
       "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "Pusty pok\u00f3j, ale p\u0142yty diamentowe",
-        "url": "https://open.spotify.com/album/7ID3CADe6uYjfqHwvCE99N"
-      },
-      "artists": [
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Tulia",
-          "url": "https://open.spotify.com/artist/6w79TLiOorVtyvGHMUrOo0"
-        }
-      ],
-      "duration_ms": 193561,
-      "name": "Pusty pok\u00f3j, ale p\u0142yty diamentowe",
-      "url": "https://open.spotify.com/track/6dB3ZhCxLHIVU1EoVv5SnF"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
-      },
-      "artists": [
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        },
-        {
-          "name": "Opa\u0142",
-          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        },
-        {
-          "name": "4Money",
-          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
     },
     {
       "added_at": "2024-05-31 22:00:00",
@@ -171,78 +143,6 @@
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
-        "name": "FREE AGENT",
-        "url": "https://open.spotify.com/album/1Shvu0oUTSFDOcKvwWdlYo"
-      },
-      "artists": [
-        {
-          "name": "Beteo",
-          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "Lot808",
-          "url": "https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "ON THE BLOCK",
-      "url": "https://open.spotify.com/track/4EhoDKYSHeU2yOboSCo6a9"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "ILE LAT?",
-        "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
-      },
-      "artists": [
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "ILE LAT?",
-      "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "FURIA",
-        "url": "https://open.spotify.com/album/1RYDpQVFBBZr4DnFKhqopN"
-      },
-      "artists": [
-        {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "Kaptur",
-          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "FURIA",
-      "url": "https://open.spotify.com/track/0X8uPkS0dWIWASjK6dFTLr"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
         "name": "Woda Ksi\u0119\u017cycowa",
         "url": "https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb"
       },
@@ -271,6 +171,146 @@
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "4 RANO",
+        "url": "https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "duration_ms": 120902,
+      "name": "4 RANO",
+      "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "ILE LAT?",
+        "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "ILE LAT?",
+      "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "FREE AGENT",
+        "url": "https://open.spotify.com/album/1Shvu0oUTSFDOcKvwWdlYo"
+      },
+      "artists": [
+        {
+          "name": "Beteo",
+          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Lot808",
+          "url": "https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "ON THE BLOCK",
+      "url": "https://open.spotify.com/track/4EhoDKYSHeU2yOboSCo6a9"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "FURIA",
+        "url": "https://open.spotify.com/album/1RYDpQVFBBZr4DnFKhqopN"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "FURIA",
+      "url": "https://open.spotify.com/track/0X8uPkS0dWIWASjK6dFTLr"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "RING RING",
+        "url": "https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "YARSKI",
+          "url": "https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
         "name": "Hotel Lobby",
         "url": "https://open.spotify.com/album/0xkh6IB6JEtwcJsH2tQ6Ut"
       },
@@ -287,26 +327,6 @@
       "duration_ms": 162533,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/7dYm5bcpolwVTsmgC28r57"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "W TYM SZALE\u0143STWIE JEST METODA",
-        "url": "https://open.spotify.com/album/0LAktjfVu6zZJKHhpt2Yz4"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        }
-      ],
-      "duration_ms": 156164,
-      "name": "W TYM SZALE\u0143STWIE JEST METODA",
-      "url": "https://open.spotify.com/track/1iwzyg6DPTStQUGPzzCEjs"
     },
     {
       "added_at": "2024-05-31 22:00:00",
@@ -363,70 +383,6 @@
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
-        "name": "4 RANO",
-        "url": "https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8"
-      },
-      "artists": [
-        {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
-        }
-      ],
-      "duration_ms": 120902,
-      "name": "4 RANO",
-      "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "RING RING",
-        "url": "https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc"
-      },
-      "artists": [
-        {
-          "name": "Waima",
-          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "YARSKI",
-          "url": "https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "RING RING",
-      "url": "https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "DUCH + WHITE BEATLES",
-        "url": "https://open.spotify.com/album/5ejNfM4ZhXuwF1o0doxXYp"
-      },
-      "artists": [
-        {
-          "name": "Beteo",
-          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
-        },
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        },
-        {
-          "name": "Pedro",
-          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "WHITE BEATLES",
-      "url": "https://open.spotify.com/track/6JmyiE16yPXiWemwEUyzGV"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
       },
@@ -455,6 +411,46 @@
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
+        "name": "DUCH + WHITE BEATLES",
+        "url": "https://open.spotify.com/album/5ejNfM4ZhXuwF1o0doxXYp"
+      },
+      "artists": [
+        {
+          "name": "Beteo",
+          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "WHITE BEATLES",
+      "url": "https://open.spotify.com/track/6JmyiE16yPXiWemwEUyzGV"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "ALESHEN",
+        "url": "https://open.spotify.com/album/08PYODf99mkvjX4biusjns"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/3ZRG2gQfGWaKGY3Ay8w5Kh"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
         "name": "G",
         "url": "https://open.spotify.com/album/7CEzHDYHDSP9roSsiSM7Wr"
       },
@@ -471,6 +467,26 @@
       "duration_ms": 203478,
       "name": "CASTROL",
       "url": "https://open.spotify.com/track/4MNLB3RQ9vGxvaNKoQHpIQ"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "W TYM SZALE\u0143STWIE JEST METODA",
+        "url": "https://open.spotify.com/album/0LAktjfVu6zZJKHhpt2Yz4"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "duration_ms": 156164,
+      "name": "W TYM SZALE\u0143STWIE JEST METODA",
+      "url": "https://open.spotify.com/track/1iwzyg6DPTStQUGPzzCEjs"
     },
     {
       "added_at": "2024-05-31 22:00:00",
@@ -515,42 +531,6 @@
       "duration_ms": 196621,
       "name": "PLIKI",
       "url": "https://open.spotify.com/track/3Y01BF7oYxqZERc9f1E44M"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "ALESHEN",
-        "url": "https://open.spotify.com/album/08PYODf99mkvjX4biusjns"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "Atlanta",
-      "url": "https://open.spotify.com/track/3ZRG2gQfGWaKGY3Ay8w5Kh"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "Def Jam World Tour: BUCHAREST",
-        "url": "https://open.spotify.com/album/4zIYYLqFLmvZiGX5PiYZJu"
-      },
-      "artists": [
-        {
-          "name": "Rusina",
-          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
-        },
-        {
-          "name": "Def Jam World Tour",
-          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Consequence - Def Jam World Tour",
-      "url": "https://open.spotify.com/track/6vcBgASjOZknY1PxmwbodN"
     },
     {
       "added_at": "2024-05-31 22:00:00",
@@ -743,30 +723,6 @@
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
-        "name": "Zap\u0142akane matki (Def Jam World Tour)",
-        "url": "https://open.spotify.com/album/4OAslVPFOg1D0LZKgUhvEB"
-      },
-      "artists": [
-        {
-          "name": "Yung Adisz",
-          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
-        },
-        {
-          "name": "Rusina",
-          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
-        },
-        {
-          "name": "Def Jam World Tour",
-          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Zap\u0142akane matki - Def Jam World Tour",
-      "url": "https://open.spotify.com/track/2Bjy034oHf5jNxidUDCrxS"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
         "name": "NAPALONE FANKI",
         "url": "https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92"
       },
@@ -787,6 +743,26 @@
       "duration_ms": 187415,
       "name": "NAPALONE FANKI",
       "url": "https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "RAP",
+        "url": "https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "RAP",
+      "url": "https://open.spotify.com/track/7iKwOfZC2rAVOYfaUfmzHS"
     },
     {
       "added_at": "2024-05-31 22:00:00",
@@ -819,22 +795,46 @@
     {
       "added_at": "2024-05-31 22:00:00",
       "album": {
-        "name": "RAP",
-        "url": "https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05"
+        "name": "DAM CI PORADY",
+        "url": "https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W"
       },
       "artists": [
         {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
         },
         {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+          "name": "Gmeniu",
+          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
         }
       ],
-      "duration_ms": 156387,
-      "name": "RAP",
-      "url": "https://open.spotify.com/track/7iKwOfZC2rAVOYfaUfmzHS"
+      "duration_ms": 209577,
+      "name": "DAM CI PORADY",
+      "url": "https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "Zap\u0142akane matki (Def Jam World Tour)",
+        "url": "https://open.spotify.com/album/4OAslVPFOg1D0LZKgUhvEB"
+      },
+      "artists": [
+        {
+          "name": "Yung Adisz",
+          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
+        },
+        {
+          "name": "Rusina",
+          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Zap\u0142akane matki - Def Jam World Tour",
+      "url": "https://open.spotify.com/track/2Bjy034oHf5jNxidUDCrxS"
     },
     {
       "added_at": "2024-05-31 22:00:00",
@@ -859,26 +859,6 @@
       "duration_ms": 142636,
       "name": "BOTTLE POP",
       "url": "https://open.spotify.com/track/60xTV829FKAb5ZEBxI7jat"
-    },
-    {
-      "added_at": "2024-05-31 22:00:00",
-      "album": {
-        "name": "DAM CI PORADY",
-        "url": "https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        },
-        {
-          "name": "Gmeniu",
-          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "DAM CI PORADY",
-      "url": "https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM"
     },
     {
       "added_at": "2024-05-31 22:00:00",
@@ -999,6 +979,26 @@
       "duration_ms": 157720,
       "name": "\u201eTak to lecia\u0142o!\u201d",
       "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"
+    },
+    {
+      "added_at": "2024-05-31 22:00:00",
+      "album": {
+        "name": "Def Jam World Tour: BUCHAREST",
+        "url": "https://open.spotify.com/album/4zIYYLqFLmvZiGX5PiYZJu"
+      },
+      "artists": [
+        {
+          "name": "Rusina",
+          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Consequence - Def Jam World Tour",
+      "url": "https://open.spotify.com/track/6vcBgASjOZknY1PxmwbodN"
     },
     {
       "added_at": "2024-05-31 22:00:00",

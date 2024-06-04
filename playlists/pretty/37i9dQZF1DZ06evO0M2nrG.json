@@ -1,12 +1,12 @@
 {
-  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 65720,
+  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
+  "num_followers": 65735,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAACnp8+CHpqZ0xl//DNQobCe",
+  "snapshot_id": "Zlu2AAAAAACDQzCrhdjF5/lHOmKSiTyN",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Falta",
+        "url": "https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188412,
+      "name": "La Falta",
+      "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mitad",
         "url": "https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe"
       },
@@ -307,22 +327,6 @@
       "duration_ms": 215961,
       "name": "Locos Dementes",
       "url": "https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 192469,
-      "name": "La Rutina",
-      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
     },
     {
       "added_at": null,
@@ -406,19 +410,11 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Keityn",
-          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
         }
       ],
-      "duration_ms": 170471,
-      "name": "El Ego\u00edsmo",
-      "url": "https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY"
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": null,
@@ -484,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+      "duration_ms": 138000,
+      "name": "\u00bfQu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW"
     },
     {
       "added_at": null,
@@ -667,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 132112,
+      "name": "\u00bfC\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP"
       },
@@ -691,26 +703,6 @@
       "duration_ms": 226238,
       "name": "Te Besar\u00e9 - Salsa Remix",
       "url": "https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darte Amor",
-        "url": "https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W"
-      },
-      "artists": [
-        {
-          "name": "Jordy Jill",
-          "url": "https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Darte Amor",
-      "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
     },
     {
       "added_at": null,
@@ -743,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Darte Amor",
+        "url": "https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W"
+      },
+      "artists": [
+        {
+          "name": "Jordy Jill",
+          "url": "https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Darte Amor",
+      "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
         "url": "https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od"
       },
@@ -759,22 +771,6 @@
       "duration_ms": 201370,
       "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
       "url": "https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 203165,
-      "name": "Apareciste",
-      "url": "https://open.spotify.com/track/0HR8yOBRUAJCwy0RiooIYg"
     },
     {
       "added_at": null,
@@ -915,6 +911,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Stanley Jackson",
+          "url": "https://open.spotify.com/artist/3uoKSVmuDDItBqC4OceRgJ"
+        }
+      ],
+      "duration_ms": 170838,
+      "name": "Sola (feat. Stanley Jackson)",
+      "url": "https://open.spotify.com/track/2fFEvoOii2fviIeAbfBj4t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colorao",
+        "url": "https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Colorao",
+      "url": "https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Vos",
         "url": "https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP"
       },
@@ -963,26 +999,6 @@
       "duration_ms": 194228,
       "name": "Aspirina",
       "url": "https://open.spotify.com/track/6ALrReAwOmnpcC9L1GI8GD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa Tienes Raz\u00f3n - EP",
-        "url": "https://open.spotify.com/album/0C0BMCxF9Xc4Dz5k7cSIWd"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "T\u00fa Tienes Raz\u00f3n (feat. Mike Bah\u00eda) - Versi\u00f3n Urbana",
-      "url": "https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO"
     }
   ],
   "unique_name": "This Is Mike Bah\u00eda",

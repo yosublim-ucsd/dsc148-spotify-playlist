@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,691 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,707 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 52 | [Lilás](https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP) | [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl), [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Lucas Borchardt](https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR) | [Lilás](https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W) | 3:07 |
 | 53 | [Sucker](https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [Sucker](https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i) | 2:52 |
 | 54 | [O Descobridor dos Sete Mares](https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E) | [WhyNot Music](https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m), [Rodrigo Sá](https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho) | [O Descobridor dos Sete Mares](https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd) | 3:32 |
-| 55 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
+| 55 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 |
 | 56 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
-| 57 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 |
+| 57 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
 | 58 | [Se Você Quiser](https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Se Você Quiser](https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK) | 2:54 |
 | 59 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 | 60 | [Hot Summer](https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Hot Summer](https://open.spotify.com/album/4wFTM9WLwSSq8nM30ckDYb) | 3:11 |

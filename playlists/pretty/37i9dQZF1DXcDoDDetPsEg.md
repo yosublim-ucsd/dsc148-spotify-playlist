@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Lil Baby & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,693 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,716 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 24 | [Mini Me's](https://open.spotify.com/track/3YuxkgOG2GXO8p15q2kPGh) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [TRU](https://open.spotify.com/album/0qqdO3p3vA4R7K2yhBmpXx) | 4:09 |
 | 25 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 26 | [X](https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [X](https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt) | 1:33 |
-| 27 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
+| 27 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
 | 28 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 29 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 |
 | 30 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,589 likes - 130 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,597 likes - 130 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 82 | [Say a Prayer \(feat\. Chaka Khan & Popcaan\)](https://open.spotify.com/track/51TcVUJY6FC8rg7yCuBoAo) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Say a Prayer \(feat\. Chaka Khan & Popcaan\)](https://open.spotify.com/album/2VFEP2sRerWukG8Aj0XaTP) | 3:42 |
 | 83 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
 | 84 | [Let Love Go \(feat\. Lil Tecca\)](https://open.spotify.com/track/6Dfi1zryJF6c5DoW0JHl7u) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:53 |
-| 85 | [Love You](https://open.spotify.com/track/05bzJIGgdNTEOvt6bBJAej) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:02 |
-| 86 | [Buss It Down.](https://open.spotify.com/track/08fvAoeVAl6DAOT3nilvQN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:36 |
+| 85 | [Buss It Down.](https://open.spotify.com/track/08fvAoeVAl6DAOT3nilvQN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:36 |
+| 86 | [Love You](https://open.spotify.com/track/05bzJIGgdNTEOvt6bBJAej) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:02 |
 | 87 | [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 |
 | 88 | [Shhh](https://open.spotify.com/track/33M2tDx9oB2YAbOUY4qcJV) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:22 |
 | 89 | [Black Church](https://open.spotify.com/track/54Sye3CCwl4EZobjBFrBon) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Black Church](https://open.spotify.com/album/4hepB0Ie62Tkphc4IqzF8i) | 3:43 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 129 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 130 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbTAogAAAAC96/jWKQeucwpMdHrGHT70`
+Snapshot ID: `AbTGggAAAAC3wQZ0WhV2U7kG7H0RQoqb`

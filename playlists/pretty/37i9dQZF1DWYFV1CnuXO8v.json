@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 132324,
+  "num_followers": 132475,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-05-28 08:59:48",
       "album": {
-        "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u062d\u064a\u0627\u0647 (\u0625\u064a\u062c\u0627\u0631 \u0642\u062f\u064a\u0645)",
-        "url": "https://open.spotify.com/album/5WQ92QnGxYMPfEoUM6zPx2"
+        "name": "Ana Sekketen",
+        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
       },
       "artists": [
         {
-          "name": "Mohamed El Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
         }
       ],
-      "duration_ms": 226909,
-      "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u062d\u064a\u0627\u0647 - \u0625\u064a\u062c\u0627\u0631 \u0642\u062f\u064a\u0645",
-      "url": "https://open.spotify.com/track/2P2jPhzQiHlm2yVg5E1RIw"
+      "duration_ms": 280592,
+      "name": "\u2060Farhana Maak",
+      "url": "https://open.spotify.com/track/4dyjX3gwtq9XZT8iEzYZlJ"
     },
     {
       "added_at": "2024-05-28 08:59:48",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-05-28 08:59:48",
       "album": {
-        "name": "Ana Sekketen",
-        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
+        "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u062d\u064a\u0627\u0647 (\u0625\u064a\u062c\u0627\u0631 \u0642\u062f\u064a\u0645)",
+        "url": "https://open.spotify.com/album/5WQ92QnGxYMPfEoUM6zPx2"
       },
       "artists": [
         {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+          "name": "Mohamed El Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
         }
       ],
-      "duration_ms": 280592,
-      "name": "\u2060Farhana Maak",
-      "url": "https://open.spotify.com/track/4dyjX3gwtq9XZT8iEzYZlJ"
+      "duration_ms": 226909,
+      "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u062d\u064a\u0627\u0647 - \u0625\u064a\u062c\u0627\u0631 \u0642\u062f\u064a\u0645",
+      "url": "https://open.spotify.com/track/2P2jPhzQiHlm2yVg5E1RIw"
     },
     {
       "added_at": "2024-05-28 08:59:48",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2024-05-28 08:59:48",
       "album": {
-        "name": "Ya Nas",
-        "url": "https://open.spotify.com/album/6OKavRiNQqvDCvOm9KSu1b"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 280566,
-      "name": "Ya Nas",
-      "url": "https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ"
-    },
-    {
-      "added_at": "2024-05-28 08:59:48",
-      "album": {
-        "name": "Rawa2any",
-        "url": "https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 191322,
-      "name": "Rawa2any",
-      "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"
-    },
-    {
-      "added_at": "2024-05-28 08:59:48",
-      "album": {
         "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
         "url": "https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 215040,
       "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
       "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
+    },
+    {
+      "added_at": "2024-05-28 08:59:48",
+      "album": {
+        "name": "Rawa2any",
+        "url": "https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "duration_ms": 191322,
+      "name": "Rawa2any",
+      "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"
+    },
+    {
+      "added_at": "2024-05-28 08:59:48",
+      "album": {
+        "name": "Ya Nas",
+        "url": "https://open.spotify.com/album/6OKavRiNQqvDCvOm9KSu1b"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 280566,
+      "name": "Ya Nas",
+      "url": "https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ"
     },
     {
       "added_at": "2024-05-28 08:59:48",

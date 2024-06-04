@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Instinto 26
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,887 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,892 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 20 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
 | 21 | [Só Dá](https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:21 |
 | 22 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
-| 23 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
-| 24 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
+| 23 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
+| 24 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 25 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
 | 26 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
 | 27 | [Say It](https://open.spotify.com/track/6b1aciAJJR9pwStI0jTaoe) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Say It](https://open.spotify.com/album/1DovFjeVIHEDrr4TSgeqHQ) | 3:07 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 67 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
 | 68 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
 | 69 | [Noites Que Vivemos](https://open.spotify.com/track/541PcUR69GcPpoDBo83vys) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [Noites Que Vivemos](https://open.spotify.com/album/4iU0kHCPV9WMLIUkShArY1) | 2:43 |
-| 70 | [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 |
+| 70 | [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 |
 | 71 | [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 |
-| 72 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
-| 73 | [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 |
+| 72 | [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 |
+| 73 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
 | 74 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 |
 | 75 | [D4](https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [DB.](https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2) | [D4](https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ) | 2:54 |
 

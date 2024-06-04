@@ -1,12 +1,12 @@
 {
-  "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 332438,
+  "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
+  "num_followers": 332621,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABaMNYNuWfx8e9KrkiVxDkk",
+  "snapshot_id": "Zlu2AAAAAAAMhgHcV+pJ1c57zdEdXA1r",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 217133,
       "name": "THUNDER Y LIGHTNING",
       "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Mbappe",
-      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100xCiento",
         "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 219682,
       "name": "100xCiento",
       "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "North Carolina",
-      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 215745,
-      "name": "77",
-      "url": "https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 191164,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR"
     },
     {
       "added_at": null,
@@ -987,30 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 248622,
-      "name": "Friends - Remix",
-      "url": "https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 248622,
+      "name": "Friends - Remix",
+      "url": "https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL"
     },
     {
       "added_at": null,

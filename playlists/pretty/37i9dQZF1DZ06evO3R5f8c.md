@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 ### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
 
-> This is Black Coffee\. The essential tracks, all in one playlist.
+> This Is Black Coffee\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,506 likes - 49 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,596 likes - 49 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 35 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
 | 36 | [Ode to Ancestors](https://open.spotify.com/track/0YCtLA3mpuU4Oqcl9Duqho) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09) | [Rebel Moon: Songs of the Rebellion \(Inspired by the Netflix Films\)](https://open.spotify.com/album/4oVBVsC9zkTHzeCRSmrAE3) | 5:53 |
 | 37 | [Extra Time On You \(feat\. Portia Monique\)](https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:22 |
-| 38 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
+| 38 | [We Are One \- Black Coffee Original Dub](https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We Are One](https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz) | 7:58 |
 | 39 | [Juju](https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
-| 40 | [We Are One \- Black Coffee Original Dub](https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We Are One](https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz) | 7:58 |
+| 40 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
 | 41 | [Stuck In Your Love \(feat\. Azola\)](https://open.spotify.com/track/6REbbKoksIc127eDJxz8GC) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Azola](https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:05 |
 | 42 | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/track/1gqlRiladdiWHmQU8GwtwE) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/album/31CJ5vMMpstJibWF6ESDUD) | 9:48 |
 | 43 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 48 | [Never Saw You Coming \(feat\. Tsepo\) \- DJ Spinna Galactic Vocal Mix](https://open.spotify.com/track/12NDXliaBBgklpBNkUlyVI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tsepo](https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt), [DJ Spinna](https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc) | [Never Saw You Coming \(feat\. Tsepo\)](https://open.spotify.com/album/7o2ey4eoyW8t7H9dHux8He) | 8:28 |
 | 49 | [Buya](https://open.spotify.com/track/7qP4NNGSSJEDL0rXplo2vZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:25 |
 
-Snapshot ID: `ZlpkgAAAAACTVin9dxn1LsWTMLQ5lLsb`
+Snapshot ID: `Zlu2AAAAAABfgRJk6eXwHETHbFAy88N2`

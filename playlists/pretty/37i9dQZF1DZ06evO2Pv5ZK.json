@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 104955,
+  "num_followers": 104967,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABallKVI/CL0f2l2rhgI/Ut",
+  "snapshot_id": "Zlu2AAAAAACT+fCEStz1o49GMd2sNWl4",
   "tracks": [
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient & Relax",
-        "url": "https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 312826,
-      "name": "Vangelis: Through the Night Mist",
-      "url": "https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx"
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "Ambient & Relax",
+        "url": "https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 340426,
-      "name": "Memories of Blue",
-      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+      "duration_ms": 312826,
+      "name": "Vangelis: Through the Night Mist",
+      "url": "https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 401933,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
+      "duration_ms": 265000,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Prelude",
-      "url": "https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz"
+      "duration_ms": 401933,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
       "duration_ms": 331426,
       "name": "12 O'Clock",
       "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Titans",
-      "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
     }
   ],
   "unique_name": "This Is Vangelis",

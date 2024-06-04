@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a> takker af med kronen på værket 🏆 <a href="spotify:album:16y1M4Dnrqiodnk8KvRhLf">BABA BUISNESS 3</a> 🏆 kig med i story 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,880 likes - 57 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,908 likes - 57 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

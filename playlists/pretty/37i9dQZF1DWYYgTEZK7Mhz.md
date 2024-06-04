@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 ### [Sapore di Sale](https://open.spotify.com/playlist/37i9dQZF1DWYYgTEZK7Mhz)
 
-> Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
+> Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,505 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,528 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Il Mare Quest'Estate](https://open.spotify.com/track/4pOriy39eQYO3f5RBAvrgO) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [I Miei Successi](https://open.spotify.com/album/2u7zVtJjUZxQhHNkHfOQJp) | 3:02 |
 | 50 | [Boys \(Summertime Love\)](https://open.spotify.com/track/05Vs9EV1E8HI2u0EzopMdP) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:52 |
 
-Snapshot ID: `ZKkyCQAAAAAZODuoFa66VHwOtr0U72QK`
+Snapshot ID: `Zl25UwAAAADKKD8nrCJ2i2CC5vzZ+cAU`

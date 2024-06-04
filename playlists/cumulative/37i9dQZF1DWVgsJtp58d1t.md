@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music from Black artists every Friday\. Happy Asian American and Pacific Islander Heritage Month! Cover: <a href="spotify:artist:4ClziihVpBeFXNyDH83Lde">Umi<br/></a>
+> New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:4ClziihVpBeFXNyDH83Lde">Umi<br/></a>, Shot By: <a href="https://www.instagram.com/cloudnai/">Nailah Howze <br/></a>
 
 3,288 songs - 6 day 21 hr 20 min
 
@@ -2753,7 +2753,7 @@
 | [Studio Junkie](https://open.spotify.com/track/2hnijnBaiR6v7NmvYB3me2) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Studio Junkie](https://open.spotify.com/album/7dgC3SvEf9lxsYhbc27Lwm) | 2:26 | 2023-03-24 | 2023-04-09 |
 | [Sucka Or Sum](https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sucka Or Sum](https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P) | 3:09 | 2023-01-27 | 2023-02-18 |
 | [SUCKAPUNCH](https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [SUCKAPUNCH](https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB) | 2:27 | 2022-03-04 | 2022-03-26 |
-| [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 | 2024-05-31 |  |
+| [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 | 2024-05-31 |  |
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-04-08 | 2022-04-23 |
 | [SUICIDE DOORS](https://open.spotify.com/track/4zoAzAD3e6QUQxQ4lofpPx) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [SUICIDE DOORS](https://open.spotify.com/album/7prk7FfzRoHvk3OLvyE5qL) | 3:13 | 2022-06-24 | 2022-07-30 |
 | [Sum 2 See](https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 2:48 | 2023-02-10 | 2023-02-25 |

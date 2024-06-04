@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "album": {
         "name": "Aduh",
         "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 226773,
       "name": "Bawa Dia Kembali",
       "url": "https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6"
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
@@ -6646,7 +6664,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 191950,
       "name": "Rahasia Hati",
       "url": "https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM"

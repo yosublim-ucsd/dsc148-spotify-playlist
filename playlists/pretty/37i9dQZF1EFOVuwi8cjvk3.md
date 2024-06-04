@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 229 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 229 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 190 | [Hi, I'm Frank Dukes](https://open.spotify.com/track/0eNA9rbzq1pLOIH8LXrXKa) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:43 |
 | 191 | [Separate](https://open.spotify.com/track/6dnamiwr1ceCqEXp015E5E) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:27 |
 | 192 | [How Can He Be](https://open.spotify.com/track/1HJPfnQQhANkDsBvTM8xrf) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 2:33 |
-| 193 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
-| 194 | [The Prince of Noodles](https://open.spotify.com/track/5jaWbU5NUdmqkQnZuvVstw) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:41 |
+| 193 | [The Prince of Noodles](https://open.spotify.com/track/5jaWbU5NUdmqkQnZuvVstw) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:41 |
+| 194 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
 | 195 | [The Classic Prince](https://open.spotify.com/track/709FB0qBmrVvJna9xI6q6b) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 2:50 |
 | 196 | [Come Back](https://open.spotify.com/track/6LTMpDuFmNyqzhWx7FVhnP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 |
 | 197 | [A Bigger Picture Called Free](https://open.spotify.com/track/4dBWeFLWPmY9WHGMl6yN31) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Black America Again](https://open.spotify.com/album/2DTbGcv40CSMW0P4yAQQBa) | 4:38 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 228 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 229 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbTA1AAAAADwm1dF0QN20oQuw4e33ou9`
+Snapshot ID: `AbTGewAAAACVcBQKqI9JkrkB22t297FU`

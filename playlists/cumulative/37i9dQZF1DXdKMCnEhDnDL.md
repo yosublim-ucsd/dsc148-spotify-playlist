@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
+> De beste Nederlandse liedjes\. Cover: Tino Martin & Anouk
 
 256 songs - 13 hr 19 min
 

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,281 songs - 3 day 1 hr 59 min
+1,282 songs - 3 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,7 @@
 | [idfc \- Acoustic Remake Slowed](https://open.spotify.com/track/2cbIbGgJcH87r3Q3tFQHQd) | [DJ Espinos](https://open.spotify.com/artist/5c8aF9n0VShXlTQbCeSxvz) | [idfc \(Acoustic Remake Slowed\)](https://open.spotify.com/album/7kOXBQegoYeJ1S2rduXHB0) | 2:11 | 2021-07-18 | 2021-07-29 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2024-01-06 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:20 | 2022-07-23 | 2022-07-31 |
-| [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 | 2024-04-25 |  |
+| [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 | 2024-04-25 | 2024-06-04 |
 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 | 2021-10-04 | 2021-10-21 |
 | [Imm El Jacket](https://open.spotify.com/track/7elElGRKHTKGKLwbl7wrCF) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [El Hal Romancy](https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP) | 3:00 | 2022-02-03 | 2022-02-13 |
 | [IMY2 \(with Kid Cudi\)](https://open.spotify.com/track/7F9cT6hIRhnFCYP6GKS0tf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:12 | 2021-09-05 | 2021-09-06 |
@@ -807,7 +807,7 @@
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2023-06-06 | 2023-08-13 |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-21 | 2023-06-07 |
 | [Rolls or Doesn't Roll](https://open.spotify.com/track/4rRHzQThzKXDVeu8r5nNO1) | [Rubby](https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT) | [Party Phonk](https://open.spotify.com/album/4tpFTM7Ywm5r77kxszPWck) | 1:23 | 2024-05-28 | 2024-06-01 |
-| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-12 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-12 | 2024-06-04 |
 | [Rouh W Nsani](https://open.spotify.com/track/1yHv6JilviCyhxRH46NO65) | [Yasmeen](https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl) | [Rouh W Nsani](https://open.spotify.com/album/2qU2ofOo6PBagtxNlkd0BR) | 3:45 | 2021-03-30 | 2021-03-31 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 | 2023-04-02 |
 | [Run](https://open.spotify.com/track/0PXd9WwmX3Y04KfHAaldDS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:58 | 2022-06-11 | 2022-06-13 |
@@ -897,6 +897,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-03-27\* | 2021-12-27 |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-04-20 | 2024-04-22 |
 | [So Long, London](https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:22 | 2024-04-21 | 2024-05-02 |
+| [So Special \- Special Version](https://open.spotify.com/track/4U5zsgBypm5KN9eHsDo4Vk) | [Stevieknocks](https://open.spotify.com/artist/2uDB7RhtZg3jHuIhjDHxGe) | [So Special \(Special Version\)](https://open.spotify.com/album/1ByAh2fIUjLiaMrv9d6KHU) | 3:11 | 2024-06-03 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-12 |  |
 | [Somebody](https://open.spotify.com/track/5KfJvZ0PZzRdwFRaTUDAA7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:48 | 2023-11-04 | 2023-11-16 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-04-15 | 2021-04-16 |
@@ -1272,7 +1273,7 @@
 | [ولا غلطة](https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [ولا غلطة](https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33) | 4:35 | 2022-07-12 | 2022-07-22 |
 | [وناسه](https://open.spotify.com/track/5iz2mZPb0FiXOG9X1TTfRW) | [DJ\-MK](https://open.spotify.com/artist/1XcjHL7tqpinEtYVFgdBk6) | [وناسه](https://open.spotify.com/album/6RwRSqZEXuqO0r2BJKup2b) | 2:09 | 2021-03-27\* | 2021-08-31 |
 | [وين صرتي](https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [وين صرتي](https://open.spotify.com/album/0aHapfQB1j8j0NefL50PDo) | 5:48 | 2023-03-02 | 2024-02-05 |
-| [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-03-03 | 2024-04-13 |
+| [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-03-03 |  |
 | [يا ابن خماش](https://open.spotify.com/track/18O3X0PmVps7R1JGMeIfph) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [يا ابن خماش](https://open.spotify.com/album/4Ib0kCcN26ueEBQ1v5De6C) | 4:02 | 2022-08-15 | 2022-09-19 |
 | [يا ابن خماش](https://open.spotify.com/track/2un4SG41aPvyQEJ6yzC2nT) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [مرحبا بك ياهلا](https://open.spotify.com/album/29azwTntzqRx0fBxu1pqKt) | 4:02 | 2022-07-29 | 2022-08-11 |
 | [يا حلو](https://open.spotify.com/track/1jUjqfU4pM7ogIGFp6RR7K) | [Moussiqa](https://open.spotify.com/artist/1yCtSjpmCi8nkoIF6muPeD) | [نيا برغوتي](https://open.spotify.com/album/3BSVOdZrjJFErRUTm7aEiE) | 6:48 | 2023-05-19 | 2023-07-11 |

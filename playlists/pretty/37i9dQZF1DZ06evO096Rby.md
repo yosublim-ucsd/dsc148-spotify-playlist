@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,903 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,938 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 47 | [Ya Se Fue El Parche](https://open.spotify.com/track/3kiKK2eUCG5uswn6YeE6LO) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya Se Fue El Parche](https://open.spotify.com/album/0mMUkBK9GpE9MTTHJfrJnc) | 2:56 |
 | 48 | [Perfecta Para MI](https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Perfecta Para Mi](https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ) | 2:59 |
 | 49 | [El Kiri](https://open.spotify.com/track/0HjBnIOpeszbXDQRn37ftK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 2:42 |
-| 50 | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Danny Morales](https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK) | 2:30 |
+| 50 | [Aunque Te Duela](https://open.spotify.com/track/28dvr7pIJcX53oHnNgMVDa) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Aunque Te Duela](https://open.spotify.com/album/4qaO5TCNaNLC1co8lAWCkj) | 3:48 |
 
-Snapshot ID: `ZlpkgAAAAAAU/vHsUXkhyG5nwxE/EmrM`
+Snapshot ID: `Zlu2AAAAAADWyqab7mPybS7FSjy3/avZ`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-280 songs - 18 hr 52 min
+281 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Stick Together](https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Stick Together](https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX) | 1:50 | 2024-04-12 |  |
 | [Street Player \- Dimitri From Paris Super Disco Blend, Pt\. I & II](https://open.spotify.com/track/1wI96BJ059iyAajxqWPTa4) | [Leonid & Friends](https://open.spotify.com/artist/238tF244RAl3ApUAr23NVc), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Street Player \(Dimitri From Paris Remixes\)](https://open.spotify.com/album/2v1rNv1sKK9iIEsscwv05V) | 10:06 | 2023-05-19 | 2023-09-10 |
 | [Street Swimming](https://open.spotify.com/track/1E1kJlXTfjl3WT1iyRq718) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Street Swimming](https://open.spotify.com/album/5CDlK2UulC69TCPGX26rT4) | 3:02 | 2021-07-24 | 2023-05-20 |
-| [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 |  |
+| [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 | 2024-06-04 |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-19 | 2024-05-25 |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-05-19 | 2023-09-23 |
 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 | 2023-08-11 | 2024-01-29 |
@@ -272,6 +272,7 @@
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-06-20 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2023-05-19 | 2024-05-17 |
 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 | 2021-07-24 | 2023-05-20 |
+| [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 | 2024-05-31 |  |
 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 | 2023-09-22 |  |
 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 | 2023-05-19 |  |
 | [Welcome To Organic](https://open.spotify.com/track/2RABiORxekaDV23sfNTjid) | [Mount Liberation Unlimited](https://open.spotify.com/artist/5zVhnqOyQesaJrFSC0wShT) | [Mount Liberation Unlimited](https://open.spotify.com/album/0NGgNO6HINijyLI7aHreKP) | 4:59 | 2021-07-24 | 2022-06-21 |

@@ -1,13 +1,129 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62736,
+  "num_followers": 62733,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHKFTHqBOM4JmiTrZ9HQdmQk6+T0ns",
+  "snapshot_id": "AAAHMBqVJIZ5CnQF+7VpkE3ER4Rm5GYB",
   "tracks": [
+    {
+      "added_at": "2024-06-03 14:35:53",
+      "album": {
+        "name": "Song for Ainola",
+        "url": "https://open.spotify.com/album/3I9jKLqxcayHxDS6unKm8k"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        }
+      ],
+      "duration_ms": 76733,
+      "name": "Song for Ainola",
+      "url": "https://open.spotify.com/track/7CVEfeUf7Dnsks2G8JZMlq"
+    },
+    {
+      "added_at": "2024-06-03 14:36:16",
+      "album": {
+        "name": "Flowing Petals",
+        "url": "https://open.spotify.com/album/4Rsamz6G1K3Xbc6MwdGQlI"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "Flowing Petals",
+      "url": "https://open.spotify.com/track/1XthSKADXNnul1eOtI12lp"
+    },
+    {
+      "added_at": "2024-06-03 13:32:12",
+      "album": {
+        "name": "Anima II - Sleep Rework",
+        "url": "https://open.spotify.com/album/3ueMm7wCOUMaiLpGqu2kZQ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 204457,
+      "name": "Anima II - Sleep Rework",
+      "url": "https://open.spotify.com/track/4YQX0Y5vsY9J9hOUTNB1Su"
+    },
+    {
+      "added_at": "2024-06-03 13:32:28",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/5ibOpgXxs6SYetSv7YzXB9"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4vACrwYS7wg5Axoc7MJtmb"
+    },
+    {
+      "added_at": "2024-06-03 13:06:26",
+      "album": {
+        "name": "Spring Waltz",
+        "url": "https://open.spotify.com/album/1Iv1xduF40GqdqviWS9q9Y"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Spring Waltz",
+      "url": "https://open.spotify.com/track/0lCuPew8HPRnwKQ6PZnSSC"
+    },
+    {
+      "added_at": "2024-06-03 12:27:04",
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 125984,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1"
+    },
+    {
+      "added_at": "2024-05-07 17:07:16",
+      "album": {
+        "name": "Mystery of Love",
+        "url": "https://open.spotify.com/album/0Ffa7cnWrMffYoxmxiqISa"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 145067,
+      "name": "Mystery of Love",
+      "url": "https://open.spotify.com/track/1noBkcNmVNk0PWlnzkt1Hi"
+    },
     {
       "added_at": "2024-05-07 17:00:11",
       "album": {
@@ -43,22 +159,6 @@
       "duration_ms": 163160,
       "name": "La Sieste",
       "url": "https://open.spotify.com/track/48lCGg8M4kDMJk9SAsTWgO"
-    },
-    {
-      "added_at": "2024-05-07 17:07:16",
-      "album": {
-        "name": "Mystery of Love",
-        "url": "https://open.spotify.com/album/0Ffa7cnWrMffYoxmxiqISa"
-      },
-      "artists": [
-        {
-          "name": "Alban Claudin",
-          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
-        }
-      ],
-      "duration_ms": 145067,
-      "name": "Mystery of Love",
-      "url": "https://open.spotify.com/track/1noBkcNmVNk0PWlnzkt1Hi"
     },
     {
       "added_at": "2024-04-01 14:05:02",
@@ -127,6 +227,26 @@
       "duration_ms": 145653,
       "name": "Prelude in C Major, BWV 846",
       "url": "https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5"
+    },
+    {
+      "added_at": "2024-06-03 12:28:55",
+      "album": {
+        "name": "Piano Cinema III",
+        "url": "https://open.spotify.com/album/3QjWYEwODAbnXuOZgxl9yu"
+      },
+      "artists": [
+        {
+          "name": "Stanley Myers",
+          "url": "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt"
+        },
+        {
+          "name": "Jean-Michel Bernard",
+          "url": "https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Cavatina - from \"The Deer Hunter (Voyage au bout de l'enfer)\"",
+      "url": "https://open.spotify.com/track/24n95t5fqf9Yx9tKm7uouU"
     },
     {
       "added_at": "2024-04-15 15:50:07",

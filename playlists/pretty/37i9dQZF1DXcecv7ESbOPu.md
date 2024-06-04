@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,940 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,947 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 119 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 |
 | 120 | [HUR HON VA](https://open.spotify.com/track/1eUeaS6fL2GemxbRMBTxCI) | [Angelina Pavanelli](https://open.spotify.com/artist/2Q1zoh7mp07ods0rRoqL0i) | [HUR HON VA](https://open.spotify.com/album/0cR5rZo9C7QINM8hkm4kRA) | 3:16 |
 
-Snapshot ID: `Zlj24AAAAAAblCKyo1/xvMUEf/PVjdTK`
+Snapshot ID: `Zl2Z2QAAAAD5NoQy77hXQUWeEiKt32ly`

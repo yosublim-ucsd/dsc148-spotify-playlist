@@ -1,12 +1,12 @@
 {
-  "description": "This is Janis Joplin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 178937,
+  "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
+  "num_followers": 178956,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAACmfdmNIZigph7i/24MCxO4",
+  "snapshot_id": "Zlu2AAAAAADtV829XEVW9dtKxYXQRfzR",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 224386,
-      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
-      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
+      "duration_ms": 297066,
+      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin: The Woodstock Experience",
-        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 297066,
-      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
-      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
     },
     {
       "added_at": null,

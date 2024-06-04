@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Wussami\(우주왕복선싸이드미러\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-668 songs - 1 day 16 hr 34 min
+669 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [0107](https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo) | [After Thoughts](https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA) | [0107](https://open.spotify.com/album/3f2dEWHhavMsuBP4lTdc7e) | 3:46 | 2022-07-08 | 2022-07-10 |
 | [100 WINS](https://open.spotify.com/track/4y1AEJFXM6RLwAe9EBBaFq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Chief Detective 1958 OST Part.1](https://open.spotify.com/album/155wwFVpY5fG97UX0cY5DS) | 3:25 | 2024-04-22 | 2024-05-10 |
 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 | 2023-05-31 | 2023-06-14 |
+| [2 MINUS 1 \(Bonus Track\)](https://open.spotify.com/track/6o2Pu5qZcinw4mlDlQZFqu) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:10 | 2024-05-28 |  |
 | [20s](https://open.spotify.com/track/41jvAKlAHXpP6ywHiF30Ld) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [STUDY](https://open.spotify.com/album/5Ui0n470azPnCIBmfTMvCO) | 4:40 | 2024-03-21 | 2024-05-10 |
 | [24 years](https://open.spotify.com/track/4fr96gcFKpf9kAJtvCJROx) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [24 years](https://open.spotify.com/album/326uCTjLWz3BUV85xkuVtX) | 3:20 | 2022-07-08 | 2022-07-10 |
 | [31](https://open.spotify.com/track/5DXbuLQrN6acpjrdd4hUX2) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [31](https://open.spotify.com/album/5rdXLxhpGKj3IchwANaYCT) | 3:14 | 2022-04-22 | 2022-07-23 |
@@ -140,7 +141,7 @@
 | [Do You Need A Rockstar](https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Do You Need A Rockstar](https://open.spotify.com/album/4TMfhEcfhMRsFd3jHNlOIJ) | 3:13 | 2022-04-21 | 2022-04-24 |
 | [Do\-re\-mi\-fa](https://open.spotify.com/track/0QfAVkbO0cxDe6ibSnQW4c) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Present](https://open.spotify.com/album/0eia9DMR5uq7qYcmhxxFzq) | 3:07 | 2024-01-05 | 2024-05-10 |
 | [Doberman](https://open.spotify.com/track/64BzcskCExMQTFAcTubGv7) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Military Prosecutor Doberman, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0QP7DNMT3yVLOvbrTEndEl) | 3:07 | 2022-05-11 | 2022-05-25 |
-| [Doll](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:33 | 2024-05-09 |  |
+| [Doll](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:33 | 2024-05-09 | 2024-06-04 |
 | [Domino](https://open.spotify.com/track/0604Qn0FcaJCAi93erZduj) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [2021](https://open.spotify.com/album/2WyC34NtnFDLJKGRHfIhzd) | 3:29 | 2022-05-11 | 2022-06-24 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-04-12 |  |
 | [Don't be afraid to fall](https://open.spotify.com/track/2AfW3wIFo6uR2YIPoVewrd) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/5lXkyPBrvROgUmXkVBBDEY) | 3:31 | 2022-09-30 | 2022-10-05 |

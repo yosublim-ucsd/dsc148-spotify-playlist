@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-829 songs - 1 day 23 hr 24 min
+830 songs - 1 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Broken clock](https://open.spotify.com/track/3pp8VOMFQHnPENvhde8MRa) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART13](https://open.spotify.com/album/0ELT34v0t3dM1JrCuwK3d2) | 3:02 | 2022-05-03 | 2022-07-29 |
 | [Broken wall clock](https://open.spotify.com/track/2xJOkVCMB4ykizGe8nXwrt) | [Subin Kim](https://open.spotify.com/artist/70T8aTzu4LZb9qNvseBLBL) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 2:51 | 2022-05-03 | 2022-06-22 |
 | [Brother](https://open.spotify.com/track/2dCbrVrvB1rSVsnoLAQQIm) | [Kwon Inha](https://open.spotify.com/artist/7KSAO8NGd2dP4XnhQwXe4m), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 4:05 | 2022-04-22 | 2022-07-19 |
-| [Brush](https://open.spotify.com/track/7v583zjQNYZnSBkl0VXa9E) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [MISS TROT2 FINAL Song of Life Mission](https://open.spotify.com/album/1pkej2qxqM2RGMyVPuopua) | 3:51 | 2022-04-22 |  |
+| [Brush](https://open.spotify.com/track/7v583zjQNYZnSBkl0VXa9E) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [MISS TROT2 FINAL Song of Life Mission](https://open.spotify.com/album/1pkej2qxqM2RGMyVPuopua) | 3:51 | 2022-04-22 | 2024-06-04 |
 | [Brush](https://open.spotify.com/track/5w6U3MoXRlHjjF6TVzEGwm) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART29](https://open.spotify.com/album/4BRLYsE9wN2cIg1lDwopbo) | 4:26 | 2022-06-18 | 2022-06-30 |
 | [By chance](https://open.spotify.com/track/0LUZXtO701dFwRUfnjXIaC) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:03 | 2022-05-03 | 2022-07-27 |
 | [Cafe of the winter](https://open.spotify.com/track/5a93Qg9fiWbIFGg6TrcKea) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART1](https://open.spotify.com/album/37u0R2yo6C6LkVnaLsQ3Bh) | 2:47 | 2022-05-03 | 2022-07-19 |
@@ -375,6 +375,7 @@
 | [Love Cowboy](https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx) | [Ko Jaegeun](https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb) | [Love Cowboy](https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx) | 3:32 | 2022-04-22 | 2023-01-15 |
 | [Love foll](https://open.spotify.com/track/2EVoQ23J1RF2dzdkBjeJaB) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 4:14 | 2022-04-21 | 2022-07-29 |
 | [Love for a thousand years](https://open.spotify.com/track/2TKTPsdxbjblibyITIH25A) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART13](https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17) | 4:27 | 2022-04-21 | 2022-07-29 |
+| [LOVE IS A FLOWER OF LIFE](https://open.spotify.com/track/1TncfbVa7r8xGksPcOYAEp) | [Jeon Yu Jin](https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 3:06 | 2024-05-24 |  |
 | [Love is like a butterfly](https://open.spotify.com/track/1s2Hn3qK7jMYlt3JC5c9xt) | [Park Guyoon](https://open.spotify.com/artist/3cax4lhtAlSklp52NMKaIq) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 2:43 | 2022-04-22 | 2022-07-28 |
 | [Love is the seed of tears](https://open.spotify.com/track/1s1aHyQx3HZlVyqROXGzgU) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Music source of Mr\. Trot Death match Part2](https://open.spotify.com/album/1CDnEtpKkborv4DaFdb1PY) | 2:53 | 2022-04-07 | 2022-07-28 |
 | [Love letter](https://open.spotify.com/track/6SsTCoS6ofghaAqbzEiFK4) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:11 | 2022-05-03 | 2022-07-19 |

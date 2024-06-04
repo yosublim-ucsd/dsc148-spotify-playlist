@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 ### [This Is Yoss Bones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sej1C)
 
-> This Is Yoss Bones\. Los temas esenciales, todos en una lista.
+> This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,799 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,813 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 42 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 43 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 |
 | 44 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
-| 45 | [Apágalo](https://open.spotify.com/track/138aUp8rOibpO2lTm5QBka) | [Full THM](https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Apágalo](https://open.spotify.com/album/7fsQwnkGUKAzggaGwlV5zo) | 3:12 |
-| 46 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 |
+| 45 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 |
+| 46 | [Apágalo](https://open.spotify.com/track/138aUp8rOibpO2lTm5QBka) | [Full THM](https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Apágalo](https://open.spotify.com/album/7fsQwnkGUKAzggaGwlV5zo) | 3:12 |
 | 47 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
 | 48 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
 | 49 | [No Es Tan Facil](https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Es Tan Facil](https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83) | 3:14 |
 | 50 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
 
-Snapshot ID: `ZlpkgAAAAAAu7t30z5CZHvnQARdhRuDr`
+Snapshot ID: `Zlu2AAAAAADJq/mhoGg/NIjk/SPsrHWj`

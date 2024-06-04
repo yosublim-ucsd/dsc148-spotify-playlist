@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 562950,
+  "num_followers": 563094,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Turning Onto You (HNNY Remix)",
-        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        },
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Turning Onto You - HNNY Remix",
-      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Amantes (Poolside Remix)",
         "url": "https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 205760,
       "name": "Amantes - Poolside Remix",
       "url": "https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Turning Onto You (HNNY Remix)",
+        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        },
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Turning Onto You - HNNY Remix",
+      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Disco Maniac",
+        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
+      },
+      "artists": [
+        {
+          "name": "Billy Vena",
+          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Disco Maniac",
+      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "We Could Be Falling In Love",
         "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Disco Maniac",
-        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
-      },
-      "artists": [
-        {
-          "name": "Billy Vena",
-          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Disco Maniac",
-      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "comic relief",
         "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Finally Free",
         "url": "https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 282283,
       "name": "Finally Free",
       "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Lee Cabrera",
+          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Unconditional feat. Rationale (Extended Version)",
         "url": "https://open.spotify.com/album/2oHFjPiBi2VSLFzlinbzTk"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 194042,
       "name": "Chance On You (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Lee Cabrera",
-          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Disc Me Bro",
-        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Disc Me Bro",
-      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 184918,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Disc Me Bro",
+        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Disc Me Bro",
+      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 197297,
       "name": "To the Stars and Back",
       "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Boys Don't Sob",
-        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
-      },
-      "artists": [
-        {
-          "name": "The Free Label",
-          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
-        }
-      ],
-      "duration_ms": 176017,
-      "name": "Boys Don't Sob",
-      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Tension (The Remixes)",
         "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
       },
@@ -1831,30 +1815,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "In This Life (Cassara Remix)",
-        "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Mandy Jones",
-          "url": "https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ"
-        },
-        {
-          "name": "Cassara",
-          "url": "https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "In This Life - Cassara Remix",
-      "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "FWD (feat. Rudimental & House Gospel Choir)",
         "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
       },
@@ -1879,6 +1839,66 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "In This Life (Cassara Remix)",
+        "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Mandy Jones",
+          "url": "https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ"
+        },
+        {
+          "name": "Cassara",
+          "url": "https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "In This Life - Cassara Remix",
+      "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Boys Don't Sob",
+        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "Boys Don't Sob",
+      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -1895,30 +1915,6 @@
       "duration_ms": 193106,
       "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
       "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Studio 54",
-        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 166289,
-      "name": "Studio 54",
-      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
     }
   ],
   "unique_name": "Poolside Disco",

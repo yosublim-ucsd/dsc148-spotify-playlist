@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 66960,
+  "num_followers": 66958,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPaQkRMW6+3fuS7x8hoGJG05d/MbiB",
+  "snapshot_id": "AAAPakZ5ibMfVXFng6VdM3mkKYy3YlK1",
   "tracks": [
+    {
+      "added_at": "2024-06-03 16:25:05",
+      "album": {
+        "name": "I am the King",
+        "url": "https://open.spotify.com/album/0MmY7xbuJNiyICbIgJaDrO"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 183846,
+      "name": "I am the King",
+      "url": "https://open.spotify.com/track/5BD2sRwZBmAcS649vipoAq"
+    },
     {
       "added_at": "2024-05-29 14:05:43",
       "album": {

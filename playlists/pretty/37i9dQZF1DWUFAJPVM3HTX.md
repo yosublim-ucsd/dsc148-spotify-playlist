@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03?si=BhP2CqPnRnqVrRefOJbTTw"> Gemaine </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,796 likes - 209 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,835 likes - 209 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

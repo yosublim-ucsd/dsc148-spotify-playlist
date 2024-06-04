@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "BRINCANDO",
+        "url": "https://open.spotify.com/album/4BgSbrA8QJn6ygkAbWYkb5"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115560,
+      "name": "BRINCANDO",
+      "url": "https://open.spotify.com/track/2rDr08hLBZLu4aVFKuQRuY"
+    },
+    {
+      "album": {
         "name": "Buen Tipo",
         "url": "https://open.spotify.com/album/2VlnC62aUIGxC3QrklhZgt"
       },
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 216837,
       "name": "Cirug\u00eda",
       "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 221714,
       "name": "Gitana (feat. Bryartz)",
       "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 166973,
       "name": "Mil Preguntas",
       "url": "https://open.spotify.com/track/42mrOMjkQb7jRKatu0bqg4"
@@ -6012,7 +6030,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 216607,
       "name": "quiero estar contigo",
       "url": "https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd"
@@ -6386,7 +6404,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"

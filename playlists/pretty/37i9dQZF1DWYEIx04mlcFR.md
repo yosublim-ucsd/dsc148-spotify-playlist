@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con legallyrxx en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,810 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,798 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
 | 50 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 |
 | 51 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
-| 52 | [KR1MIN4L](https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [KR1MIN4L](https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT) | 2:17 |
+| 52 | [feliz año nuevo](https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U) | [feliz año nuevo](https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG) | 2:43 |
 | 53 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
-| 54 | [feliz año nuevo](https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U) | [feliz año nuevo](https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG) | 2:43 |
+| 54 | [KR1MIN4L](https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [KR1MIN4L](https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT) | 2:17 |
 | 55 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 56 | [Niño Regañado](https://open.spotify.com/track/3NXuOQFjWRQNOxTPz6DeA7) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Perfumes](https://open.spotify.com/album/4vr2ydZFM9bBZALUef2ASi) | 2:45 |
 | 57 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |

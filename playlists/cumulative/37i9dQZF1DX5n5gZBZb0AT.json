@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "DRESS!",
+        "url": "https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90461,
+      "name": "DRESS!",
+      "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
+    },
+    {
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 160029,
       "name": "POOR",
       "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"

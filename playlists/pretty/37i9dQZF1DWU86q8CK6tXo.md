@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,103 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,111 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 21 | [Back Pew](https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 |
 | 22 | [Sound Of A Heartbreak](https://open.spotify.com/track/2p4m654rK4ovizIpqTGSaF) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Sound Of A Heartbreak](https://open.spotify.com/album/3SDuRmpRWHaonAyJgG0wKu) | 2:38 |
 | 23 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
-| 24 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
-| 25 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
-| 26 | [Cowboy](https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Cowboy](https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W) | 3:17 |
-| 27 | [Sad Girl Summer](https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Sad Girl Summer](https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse) | 2:58 |
+| 24 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
+| 25 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
+| 26 | [Sad Girl Summer](https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Sad Girl Summer](https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse) | 2:58 |
+| 27 | [Cowboy](https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Cowboy](https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W) | 3:17 |
 | 28 | [Leroy](https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Leroy](https://open.spotify.com/album/3n2wFuTMkPQxWVHlZyJ7Ts) | 3:27 |
 | 29 | [I Let Him Love Me](https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96) | 3:56 |
 | 30 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 34 | [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 |
 | 35 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 36 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 37 | [Got Me Like](https://open.spotify.com/track/6j5zCVCTLIw4qXRMoseA5r) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Got Me Like](https://open.spotify.com/album/4Nootd0c1osdH2R1I3rAoK) | 2:37 |
-| 38 | [Breaking News \(feat\. Rico Nasty & Kilo Kish\)](https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 2:48 |
+| 37 | [Breaking News \(feat\. Rico Nasty & Kilo Kish\)](https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 2:48 |
+| 38 | [Got Me Like](https://open.spotify.com/track/6j5zCVCTLIw4qXRMoseA5r) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Got Me Like](https://open.spotify.com/album/4Nootd0c1osdH2R1I3rAoK) | 2:37 |
 | 39 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 |
 | 40 | [cult classic \(feat\. Vayda\)](https://open.spotify.com/track/6SeNaSjWcFBTiXhWYt4kcS) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [Take What You Need and Then Some](https://open.spotify.com/album/51g1AZkxAlkmqvv0QRAS2l) | 1:52 |
 | 41 | [Bounce](https://open.spotify.com/track/7bkKI9UPmLGvZIXucvADTK) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Bounce](https://open.spotify.com/album/4wUHk5cCjBATO6meJXsUmf) | 2:07 |

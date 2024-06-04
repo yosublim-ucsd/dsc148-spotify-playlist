@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 144,199 likes - 40 songs - 2 hr 3 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 144,259 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [SUPERHÉROES](https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPERHÉROES](https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt) | 3:20 |
 | 40 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 |
 
-Snapshot ID: `AAAmhoPzPddzdMzsIk4KYSHkQJYSlIUH`
+Snapshot ID: `AAAmiWCeROqZYrrSIFiVTAu3V4ZB3QVL`

@@ -1715,6 +1715,36 @@
     },
     {
       "album": {
+        "name": "Very Saxy (Rudy Van Gelder Remasters)",
+        "url": "https://open.spotify.com/album/5m6ee2VB6ii18zIqlsx6Va"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        },
+        {
+          "name": "Buddy Tate",
+          "url": "https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Arnett Cobb",
+          "url": "https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372466,
+      "name": "Lester Leaps In - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2Obs77V8lAuS1v0UK4eSDV"
+    },
+    {
+      "album": {
         "name": "Sun of June",
         "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
@@ -2932,7 +2962,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 333826,
       "name": "Uncle Rough",
       "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"

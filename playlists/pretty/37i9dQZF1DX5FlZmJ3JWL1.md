@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,651 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,755 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 28 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 | 29 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
 | 30 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
-| 31 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 |
-| 32 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 |
+| 31 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 |
+| 32 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 |
 | 33 | [Wings \(Techno\)](https://open.spotify.com/track/0ZCFBp0el7wDgzvCLqaAWe) | [NO EMOTION](https://open.spotify.com/artist/1BgQ3C1p54I1vmG21Mhy0m) | [Wings \(Techno\)](https://open.spotify.com/album/68uw91RNTCVXWFTU3lOa9G) | 2:15 |
 | 34 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 |
 | 35 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 46 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
 | 47 | [Atmosphere](https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX) | 3:02 |
 | 48 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
-| 49 | [The Way I Like It](https://open.spotify.com/track/5ybpVGn3epiwjD9CdaJyqm) | [dj tani](https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [The Way I Like It](https://open.spotify.com/album/1NVxMrGf1whPetnRrQXI5u) | 2:37 |
-| 50 | [Low](https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Low](https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ) | 2:15 |
+| 49 | [Low](https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Low](https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ) | 2:15 |
+| 50 | [The Way I Like It](https://open.spotify.com/track/5ybpVGn3epiwjD9CdaJyqm) | [dj tani](https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [The Way I Like It](https://open.spotify.com/album/1NVxMrGf1whPetnRrQXI5u) | 2:37 |
 
 Snapshot ID: `Zk+8YAAAAAA58a8MIQp+dRbPftXzT3zq`

@@ -4,7 +4,7 @@
 
 > Siento que arranco la carretera...
 
-163 songs - 8 hr 11 min
+164 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2023-06-19 | 2024-04-19 |
 | [El Palomito](https://open.spotify.com/track/776iIxEhuk4pjMl33PVQhT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Exitos Originales](https://open.spotify.com/album/4Z45H8FuupXcq2xi2FAH41) | 3:19 | 2024-01-15 |  |
 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 | 2023-06-19 |  |
+| [El Peor De Tus Antojos](https://open.spotify.com/track/2oipHDyjAILailWMTyIKMo) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian](https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA) | 3:29 | 2024-01-15 |  |
 | [El Peor De Tus Antojos](https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:29 | 2023-06-19 | 2024-04-19 |
 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 | 2023-06-19 |  |
 | [El Profeta](https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Profeta Y Otros Caballos Famosos](https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g) | 3:24 | 2023-06-19 |  |
@@ -119,7 +120,7 @@
 | [Mi Amigo el de Arriba](https://open.spotify.com/track/7kKwLwJJaxQXo2quoupbDh) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [La Gritera](https://open.spotify.com/album/0EU8ELKaNL7p6JWG5uLcIC) | 2:26 | 2024-01-15 |  |
 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 | 2023-06-19 |  |
 | [Mi Clavo](https://open.spotify.com/track/2jibTmnltzTASYyhKashO7) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/0izzBbwkHYapDNLCvz357B) | 2:16 | 2023-06-19 | 2024-04-19 |
-| [Mi Clavo](https://open.spotify.com/track/3jYDA6ixEpSC0lwOKj18WQ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/2QYFXC2uGxBA72nuoXX0oq) | 2:16 | 2024-01-15 |  |
+| [Mi Clavo](https://open.spotify.com/track/3jYDA6ixEpSC0lwOKj18WQ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/2QYFXC2uGxBA72nuoXX0oq) | 2:16 | 2024-01-15 | 2024-06-04 |
 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 | 2023-06-19 |  |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq) | 2:14 | 2024-01-15 |  |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2023-06-19 | 2024-04-19 |

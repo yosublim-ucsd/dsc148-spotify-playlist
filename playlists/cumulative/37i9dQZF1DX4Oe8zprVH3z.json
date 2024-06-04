@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 168196,
       "name": "Archipelago (432 Hz)",
       "url": "https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 210000,
       "name": "Calming Crystal Bowls (with River)",
       "url": "https://open.spotify.com/track/2FPYEB8xE2kKVsbCJ9GWM3"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 144124,
       "name": "Calming temple bowls",
       "url": "https://open.spotify.com/track/4c8rvGeLvuWxxXw71O60sF"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 158000,
       "name": "Constructive Tone (Sound Bath)",
       "url": "https://open.spotify.com/track/2M30AD3AOOuTGDYQqXYIZO"
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "feathers",
+        "url": "https://open.spotify.com/album/5DXkXTr6vCyXcTG5661xHd"
+      },
+      "artists": [
+        {
+          "name": "A.Z. Louna",
+          "url": "https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138083,
+      "name": "feathers",
+      "url": "https://open.spotify.com/track/6Fk3jawV2UfZ068tw5iKON"
+    },
+    {
+      "album": {
         "name": "Floating senses",
         "url": "https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR"
       },
@@ -599,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Fount",
+        "url": "https://open.spotify.com/album/1kZhFSGNUTjjseZMoQGUbq"
+      },
+      "artists": [
+        {
+          "name": "Elevated States",
+          "url": "https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Fount",
+      "url": "https://open.spotify.com/track/1LniDLPm1Oi1D1UrhCsld8"
+    },
+    {
+      "album": {
         "name": "Sunlight Healing",
         "url": "https://open.spotify.com/album/0CenJpIPLs5rGjogAsTSjF"
       },
@@ -610,7 +646,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 190926,
       "name": "Free Floating",
       "url": "https://open.spotify.com/track/5DHpl94sdHixUL1vP1LzV0"
@@ -628,7 +664,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 144000,
       "name": "Garden bliss",
       "url": "https://open.spotify.com/track/0JQ0ojZNoM84rrPhteK0al"
@@ -700,7 +736,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 130000,
       "name": "Hang Drum - Water Sounds",
       "url": "https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs"
@@ -718,7 +754,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 230000,
       "name": "Healing Bowl (Sound Bath)",
       "url": "https://open.spotify.com/track/4du82N9n27ykNxac9eoYEN"
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 223714,
       "name": "One Sun",
       "url": "https://open.spotify.com/track/5uwOe9i2EGqbtV4R7MZbbI"
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 331636,
       "name": "The Space In Between",
       "url": "https://open.spotify.com/track/5TRumijCc8Z0FiuCtBQkiT"

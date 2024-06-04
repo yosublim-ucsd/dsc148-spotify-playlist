@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
@@ -19696,7 +19696,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
@@ -24473,6 +24473,24 @@
     },
     {
       "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+    },
+    {
+      "album": {
         "name": "No Me Conformo",
         "url": "https://open.spotify.com/album/60qMDnkh443HxIVbZRImIu"
       },
@@ -28020,7 +28038,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
@@ -30606,7 +30624,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 165261,
       "name": "SC-9",
       "url": "https://open.spotify.com/track/03yAV3GfB7jMAEnynZaAEe"
@@ -32892,7 +32910,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 110683,
       "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
       "url": "https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M"

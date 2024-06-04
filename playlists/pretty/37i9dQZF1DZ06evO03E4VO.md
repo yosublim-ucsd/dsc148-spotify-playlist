@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 
 ### [This Is Alaina Castillo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO03E4VO)
 
-> This is Alaina Castillo\. The essential tracks, all in one playlist.
+> This Is Alaina Castillo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,217 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,218 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 17 | [stfu \(i got u\)](https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:01 |
 | 18 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
 | 19 | [lips \- Original Music from The L Word: Generation Q](https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [lips \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx) | 3:07 |
-| 20 | [wish you were here](https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ) | 3:22 |
+| 20 | [me conquistaste](https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:53 |
 | 21 | [parallel universe](https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:17 |
-| 22 | [me conquistaste](https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:53 |
+| 22 | [wish you were here](https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ) | 3:22 |
 | 23 | [no importa](https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 2:32 |
-| 24 | [valentine's day](https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [valentine's day](https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8) | 3:08 |
+| 24 | [un niño](https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX) | 3:05 |
 | 25 | [make it rain](https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 2:39 |
-| 26 | [saboteo](https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:32 |
+| 26 | [valentine's day](https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [valentine's day](https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8) | 3:08 |
 | 27 | [mentiras](https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:03 |
-| 28 | [un niño](https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX) | 3:05 |
+| 28 | [saboteo](https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:32 |
 | 29 | [fantasies](https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:03 |
 | 30 | [hookah envenena](https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [hookah envenena](https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z) | 2:50 |
 | 31 | [back to you](https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 1:27 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 39 | [¡párate!](https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx) | 2:33 |
 | 40 | [el mensaje](https://open.spotify.com/track/4Xtk25KlBgB1hqnvO27T5J) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX) | 3:23 |
 
-Snapshot ID: `ZlpkgAAAAABIaQU+4XFt0KTVHw1AlduT`
+Snapshot ID: `Zlu2AAAAAADZxqvrTT7SCJ9dCn2UDDRP`

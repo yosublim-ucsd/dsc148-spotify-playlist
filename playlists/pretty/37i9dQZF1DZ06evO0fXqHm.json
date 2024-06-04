@@ -1,12 +1,12 @@
 {
-  "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1355,
+  "description": "This is Mac J\u00falia. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1356,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAACuOKASG4sLDGpofpUtJJVx",
+  "snapshot_id": "Zlu2AAAAAADCHZgJ4J9jaR4021ZtKf8D",
   "tracks": [
     {
       "added_at": null,
@@ -668,17 +668,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
         },
         {
-          "name": "DJ BK",
-          "url": "https://open.spotify.com/artist/0qMiyCDnXRhIDkpG4NgVZX"
+          "name": "Dj Dg Do Rb",
+          "url": "https://open.spotify.com/artist/7hcLgowsbmmUxHXPmrKHnA"
         }
       ],
-      "duration_ms": 135692,
-      "name": "No Baile do Serr\u00e3o",
-      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
+      "duration_ms": 129229,
+      "name": "A Melhor Coisa da Vida",
+      "url": "https://open.spotify.com/track/1m7jKxbOWiaYUDFNv6Ldn3"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo 10",
-        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VINT",
-          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
-        }
-      ],
-      "duration_ms": 153545,
-      "name": "Papo 10",
-      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -756,17 +756,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Mc Anjim",
-          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
         },
         {
-          "name": "Dj Dg Do Rb",
-          "url": "https://open.spotify.com/artist/7hcLgowsbmmUxHXPmrKHnA"
+          "name": "DJ BK",
+          "url": "https://open.spotify.com/artist/0qMiyCDnXRhIDkpG4NgVZX"
         }
       ],
-      "duration_ms": 129229,
-      "name": "A Melhor Coisa da Vida",
-      "url": "https://open.spotify.com/track/1m7jKxbOWiaYUDFNv6Ldn3"
+      "duration_ms": 135692,
+      "name": "No Baile do Serr\u00e3o",
+      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu & Elas",
         "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
       },
@@ -991,26 +1007,6 @@
       "duration_ms": 130212,
       "name": "Macetada Forte",
       "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Olha Beb\u00ea",
-      "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
     },
     {
       "added_at": null,
@@ -1055,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mete Mac Vol 1",
         "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
@@ -1078,11 +1058,15 @@
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Para de Brincar Comigo",
-      "url": "https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ"
+      "duration_ms": 224500,
+      "name": "Olha Beb\u00ea",
+      "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
     },
     {
       "added_at": null,
@@ -1155,6 +1139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mete Mac Vol 1",
+        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Para de Brincar Comigo",
+      "url": "https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Lili AM",
-          "url": "https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/4SaKtdmM5FihfO4LInrsXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dentro da Jacuzzi",
         "url": "https://open.spotify.com/album/0vBioGs64fxKw2V0jYYNfi"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 132922,
       "name": "Dentro da Jacuzzi",
       "url": "https://open.spotify.com/track/0wZP6InCRKqs3mkMXOLbZH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

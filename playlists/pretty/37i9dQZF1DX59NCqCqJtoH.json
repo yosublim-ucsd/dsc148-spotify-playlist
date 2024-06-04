@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1191193,
+  "num_followers": 1191219,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 200727,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
         }
       ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+      "duration_ms": 200727,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -729,6 +729,26 @@
       "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "please never fall in love again",
+        "url": "https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd"
+      },
+      "artists": [
+        {
+          "name": "Feyesal",
+          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
+        },
+        {
+          "name": "Ollie MN",
+          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
+        }
+      ],
+      "duration_ms": 157642,
+      "name": "please never fall in love again",
+      "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
+    },
+    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "another life",
@@ -763,26 +783,6 @@
       "duration_ms": 234760,
       "name": "London Is Lonely",
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "please never fall in love again",
-        "url": "https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd"
-      },
-      "artists": [
-        {
-          "name": "Feyesal",
-          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
-        },
-        {
-          "name": "Ollie MN",
-          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
-        }
-      ],
-      "duration_ms": 157642,
-      "name": "please never fall in love again",
-      "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 238881,
       "name": "Pyjama Pants",
       "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
+      },
+      "artists": [
+        {
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "If I Showed You",
-        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
-      },
-      "artists": [
-        {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
-        }
-      ],
-      "duration_ms": 195467,
-      "name": "If I Showed You",
-      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Leaving (feat. the bootleg boy & Heroe)",
         "url": "https://open.spotify.com/album/6CfmJvvl4OCMN2XoWxn3wC"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 136153,
       "name": "Leaving (feat. the bootleg boy & Heroe)",
       "url": "https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "If I Showed You",
+        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
+      },
+      "artists": [
+        {
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+        }
+      ],
+      "duration_ms": 195467,
+      "name": "If I Showed You",
+      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "FRIENDS KEEP SECRETS 2",
-        "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Care (with Omar Apollo)",
-      "url": "https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 190741,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "FRIENDS KEEP SECRETS 2",
+        "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Care (with Omar Apollo)",
+      "url": "https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "hit the road",
         "url": "https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 184663,
       "name": "hit the road",
       "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Is This A Breakdown Baby?",
-        "url": "https://open.spotify.com/album/5FEUlHHFjJdYpfDJucnYy0"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Is This A Breakdown Baby?",
-      "url": "https://open.spotify.com/track/3cPY5q1lGDddy2UTmhkD8O"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "i care so much that i dont care at all",
         "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 189052,
       "name": "2005 barbie doll",
       "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Is This A Breakdown Baby?",
+        "url": "https://open.spotify.com/album/5FEUlHHFjJdYpfDJucnYy0"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Is This A Breakdown Baby?",
+      "url": "https://open.spotify.com/track/3cPY5q1lGDddy2UTmhkD8O"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-05-10 21:58:08",
       "album": {
-        "name": "Valerie",
-        "url": "https://open.spotify.com/album/3ro64jGIUAPFuLwo5SdqR7"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Falling From Grace",
-      "url": "https://open.spotify.com/track/5Oi4Q75BjhoRDRXlE69JbZ"
-    },
-    {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 192521,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Valerie",
+        "url": "https://open.spotify.com/album/3ro64jGIUAPFuLwo5SdqR7"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Falling From Grace",
+      "url": "https://open.spotify.com/track/5Oi4Q75BjhoRDRXlE69JbZ"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1579,22 +1579,6 @@
       "duration_ms": 144000,
       "name": "emma, u up?",
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1615,6 +1599,22 @@
       "duration_ms": 205842,
       "name": "Pececitos",
       "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1649,26 +1649,6 @@
       "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Let's get married",
-        "url": "https://open.spotify.com/album/6XQ4kJtZycCrz4JrsqCOac"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 161448,
-      "name": "Let's get married",
-      "url": "https://open.spotify.com/track/7zBhqzhAGVduUCOXA0fava"
-    },
-    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "In My Room",
@@ -1683,6 +1663,22 @@
       "duration_ms": 162013,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "did you?",
+        "url": "https://open.spotify.com/album/66opJaPhhdXdBmzpnsZTDY"
+      },
+      "artists": [
+        {
+          "name": "t\u00f8m hughes",
+          "url": "https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf"
+        }
+      ],
+      "duration_ms": 106763,
+      "name": "did you?",
+      "url": "https://open.spotify.com/track/2AdOnjGkvA9w87SHnrlRGC"
     }
   ],
   "unique_name": "idk.",

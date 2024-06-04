@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,998 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,016 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 60 | [Wish I Didn't Miss You \- Recorded At RAK Studios, London](https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:24 |
 | 61 | [Let Me Down Slowly \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1qlc10Iyy8AhJ4zJqwzx4Z) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 2:49 |
 | 62 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
-| 63 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 |
-| 64 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 |
+| 63 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 |
+| 64 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 |
 | 65 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
 | 66 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
 | 67 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 70 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
 | 71 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
 | 72 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
-| 73 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 |
-| 74 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
+| 73 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
+| 74 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 |
 | 75 | [I\-89 \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 3:00 |
 | 76 | [mars \- Spotify Singles](https://open.spotify.com/track/3hmjsmXPsfUrQZwFhGemGd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:26 |
 | 77 | [Mercy \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,641 likes - 95 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,645 likes - 95 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 4 | [Welcome To My Garden](https://open.spotify.com/track/52NpNpegyHrbnPkJRLtB7k) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Transcendental Shifts](https://open.spotify.com/album/5z3ghHDoycJIpSD3meyPj7) | 4:36 |
 | 5 | [Cerca](https://open.spotify.com/track/1hbK6LHdQBxgtVJIOLnbVl) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Marco Viera](https://open.spotify.com/artist/348ec6yd9QpDujVnSPoe2P) | [Cerca EP](https://open.spotify.com/album/68Zl4ptqDpo84aNs9TDTau) | 6:20 |
 | 6 | [Faith](https://open.spotify.com/track/0l3VNxrPLf39D79rDcixoE) | [Desiree Nemcik](https://open.spotify.com/artist/79Cu3VGzeRFFNenY4K9y9w) | [Become](https://open.spotify.com/album/2AQ3hK0W5Jf2E6JExIh6MM) | 6:17 |
-| 7 | [KRAUT! \- Folgar Remix](https://open.spotify.com/track/4NTyqjbaKwcpE7pLud1feu) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg), [Folgar](https://open.spotify.com/artist/2Ow3iadccaEHh4yju9SDd9) | [UNO Remixes](https://open.spotify.com/album/0fv3mGJAZuumLQxr1yUn5J) | 7:17 |
+| 7 | [KRAUT! \- Folgar Remix](https://open.spotify.com/track/4NTyqjbaKwcpE7pLud1feu) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [UNO Remixes](https://open.spotify.com/album/0fv3mGJAZuumLQxr1yUn5J) | 7:17 |
 | 8 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
 | 9 | [Acid Rain](https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR) | [Ludmila Di Pasquale](https://open.spotify.com/artist/7hDe40AlwF450fQo0LndgG) | [Acid Rain](https://open.spotify.com/album/5ozI69yBdbUpdxmyR8y9CT) | 5:32 |
 | 10 | [Arcade](https://open.spotify.com/track/0KSR4afsGD6d9BfeH2JMiL) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj), [Tantum](https://open.spotify.com/artist/1zOlzO4RI2iNEcO7JkVWuK) | [Arcade EP](https://open.spotify.com/album/6lIcpudUrFAAQSFDHSyiZ8) | 6:54 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAA1MaiUJheGZA8GCNIMDdmI",
+  "snapshot_id": "Zlu2AAAAAACiL4Q20mY2pmYDNEkGMN0b",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 97760,
-      "name": "INTRO TUMBADO",
-      "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Leyenda De Los Llanos",
         "url": "https://open.spotify.com/album/5gwNiUYmhTBYEWMrnKUFNz"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 97760,
+      "name": "INTRO TUMBADO",
+      "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -631,62 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "BANDIDOS",
-      "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "LA VIDA",
-      "url": "https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 286032,
-      "name": "El Caballero (Live)",
-      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos Hombres O Payasos",
         "url": "https://open.spotify.com/album/5BToanreAoj2wvKJh8nWyn"
       },
@@ -707,6 +651,62 @@
       "duration_ms": 155560,
       "name": "Somos Hombres O Payasos",
       "url": "https://open.spotify.com/track/05Tt6ZvFojXH2tggyKAzbv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "BANDIDOS",
+      "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 286032,
+      "name": "El Caballero (Live)",
+      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "LA VIDA",
+      "url": "https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00edo Lito",
+        "url": "https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "T\u00cdO LITO",
+      "url": "https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TUMBADO STYLE",
         "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 141400,
       "name": "DOCTOR DEL BARRIO",
       "url": "https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL"
     },
     {
       "added_at": null,
@@ -943,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00edo Lito",
-        "url": "https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 177720,
-      "name": "T\u00cdO LITO",
-      "url": "https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL"
+      "duration_ms": 197920,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL"
     },
     {
       "added_at": null,

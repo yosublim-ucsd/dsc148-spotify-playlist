@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/0vZujZQeKmVeR7VsFBNdi3"
+      },
+      "artists": [
+        {
+          "name": "Par Noir",
+          "url": "https://open.spotify.com/artist/0AbbEMo6kKsdeH9dDEMFG9"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198783,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/3smboUUIssl27LBnIjoC9I"
+    },
+    {
+      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -3548,7 +3566,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 180548,
       "name": "Closing Doors",
       "url": "https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm"
@@ -4554,6 +4572,24 @@
       "duration_ms": 188114,
       "name": "Downtrodden",
       "url": "https://open.spotify.com/track/08oIyomJzeb3f79sWVT24b"
+    },
+    {
+      "album": {
+        "name": "Dreaming of April",
+        "url": "https://open.spotify.com/album/4Tqg7OX2BLit1ZaT16gb8s"
+      },
+      "artists": [
+        {
+          "name": "Green & the Blues",
+          "url": "https://open.spotify.com/artist/2L7HY8su51BMwpR10xk3WF"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165883,
+      "name": "Dreaming of April",
+      "url": "https://open.spotify.com/track/7M8k5bUYNi7M7kSbB7Qc2k"
     },
     {
       "album": {
@@ -6321,6 +6357,24 @@
     },
     {
       "album": {
+        "name": "Get my check",
+        "url": "https://open.spotify.com/album/7ni0WTwyRYUX2A4n3EUwdv"
+      },
+      "artists": [
+        {
+          "name": "The Bob Davis Group",
+          "url": "https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199220,
+      "name": "Get my check",
+      "url": "https://open.spotify.com/track/14HUV8e3IJmq9n5m2JZEeV"
+    },
+    {
+      "album": {
         "name": "Glencoe Sketches",
         "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
       },
@@ -6336,6 +6390,24 @@
       "duration_ms": 261316,
       "name": "Glencoe Sketches",
       "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
+    },
+    {
+      "album": {
+        "name": "Glimpses of You",
+        "url": "https://open.spotify.com/album/7xORYnjVAaRlVyJIZzRh5M"
+      },
+      "artists": [
+        {
+          "name": "Holborns",
+          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Glimpses of You",
+      "url": "https://open.spotify.com/track/0CuUuHGTSXUVfEUW0pIg7k"
     },
     {
       "album": {
@@ -10602,7 +10674,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 217238,
       "name": "Lonely Dreams",
       "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
@@ -11298,6 +11370,24 @@
       "duration_ms": 204929,
       "name": "Make no mistake",
       "url": "https://open.spotify.com/track/4Lz8YjsVI7uYJArEBOivY1"
+    },
+    {
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/2i1ejRrh1QfOGdOrg6BGzM"
+      },
+      "artists": [
+        {
+          "name": "Jazmina Tozer Three",
+          "url": "https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172222,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5iq7csxnekhC1aOfwWineg"
     },
     {
       "album": {
@@ -12098,6 +12188,24 @@
       "duration_ms": 193512,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/4vHQWVCZuQuOmv14z7bLbQ"
+    },
+    {
+      "album": {
+        "name": "Moonbows",
+        "url": "https://open.spotify.com/album/6yO4FXW3snsEVwoAkMJEIa"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185781,
+      "name": "Moonbows",
+      "url": "https://open.spotify.com/track/3fSSeOXRH2QUynHAUyJu1i"
     },
     {
       "album": {
@@ -18118,7 +18226,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 257577,
       "name": "The Only One Was Me",
       "url": "https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2"
@@ -18212,6 +18320,24 @@
       "duration_ms": 280938,
       "name": "The Reasons That I Love You",
       "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
+    },
+    {
+      "album": {
+        "name": "The Sparkle in Your Eyes",
+        "url": "https://open.spotify.com/album/4NUdzaHTQQq8w2oYLBBgc2"
+      },
+      "artists": [
+        {
+          "name": "Mino Conte & Co",
+          "url": "https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210813,
+      "name": "The Sparkle in Your Eyes",
+      "url": "https://open.spotify.com/track/6ZG6FSHAkW7AcEoNEtcJ5N"
     },
     {
       "album": {
@@ -20484,7 +20610,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 265692,
       "name": "Whispers of jazz in the Wind",
       "url": "https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp"

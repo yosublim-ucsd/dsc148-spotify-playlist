@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-775 songs - 1 day 22 hr 33 min
+776 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-10-20 | 2022-12-09 |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-20 | 2023-10-06 |
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-15 | 2024-04-17 |
-| [Salt](https://open.spotify.com/track/5yaek2XIbhZjsrl0yCAITG) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [Salt](https://open.spotify.com/album/2RHhwut0QHcYyd1Dwf9SFE) | 3:26 | 2024-05-01 |  |
+| [Salt](https://open.spotify.com/track/5yaek2XIbhZjsrl0yCAITG) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [Salt](https://open.spotify.com/album/2RHhwut0QHcYyd1Dwf9SFE) | 3:26 | 2024-05-01 | 2024-06-04 |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-17 |  |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-22 | 2024-05-15 |
 | [Say It All 2](https://open.spotify.com/track/4eVvOOMDDk7Axq3hK8AlGp) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:37 | 2023-10-26 | 2023-11-17 |
@@ -769,6 +769,7 @@
 | [真夜中のドア\~stay with me \- 2023 mix](https://open.spotify.com/track/1sfhFHNgn4R4Lxqlkup47k) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 mix\)](https://open.spotify.com/album/3fA5gpK2BflSMg7pMjzAFM) | 5:10 | 2023-06-20 | 2023-06-22 |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-03-19 | 2024-04-19 |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる \- Single](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 | 2024-01-10 | 2024-04-24 |
+| [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-06-03 |  |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 | 2023-10-05 |
 | [瞳惚れ](https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:19 | 2023-12-07 | 2024-03-13 |
 | [縄文のヒト](https://open.spotify.com/track/5cXyMRXChnW1AWO6qGlao4) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [Singing Nippon in New York](https://open.spotify.com/album/0z25aCmhHYnstho8wkuz4c) | 5:55 | 2024-03-12 | 2024-03-20 |

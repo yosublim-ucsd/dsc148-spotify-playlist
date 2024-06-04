@@ -2,7 +2,7 @@
 
 ### [This Is Gabito Ballesteros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43Xw6T)
 
-> This is Gabito Ballesteros\. The essential tracks, all in one playlist.
+> This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
 
 70 songs - 3 hr 27 min
 
@@ -66,7 +66,7 @@
 | [Si Esta Botella Hablara](https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Si Esta Botella Hablara](https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o) | 3:08 | 2024-01-29 | 2024-05-26 |
 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-26 |  |
 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 | 2024-01-29 |  |
-| [Te He Prometido](https://open.spotify.com/track/6SEWhlV2578vu3ybWXIEwJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:13 | 2024-01-29 |  |
+| [Te He Prometido](https://open.spotify.com/track/6SEWhlV2578vu3ybWXIEwJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:13 | 2024-01-29 | 2024-06-04 |
 | [TENDIDO](https://open.spotify.com/track/6coFuGT9MX2iptViTbMiU1) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [TENDIDO](https://open.spotify.com/album/46i4abJlERWTOoySWensFT) | 2:44 | 2024-01-29 |  |
 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 | 2024-01-29 |  |
 | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ) | 3:32 | 2024-04-28 |  |

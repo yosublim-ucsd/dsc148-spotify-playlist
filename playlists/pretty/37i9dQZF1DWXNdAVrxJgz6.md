@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,566 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,623 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Me Gusta Tu Vieja](https://open.spotify.com/track/5xaTPSo55BLp68xyT7mr1s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/6XEShWs8N2oP6jEUWAA9de) | 3:03 |
 | 100 | [Qué Ganaste \(En Vivo\)](https://open.spotify.com/track/1xCeHFK0K0nUZrpjCVW7K9) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/2WSBDoIoeFgOCXQopqrmWd) | 3:29 |
 
-Snapshot ID: `ZR+iYAAAAABT7MZnq8uHpJMzXUfWHKZW`
+Snapshot ID: `Zl4/lAAAAADLwzfeeZLtVPpJKUgSb/1B`

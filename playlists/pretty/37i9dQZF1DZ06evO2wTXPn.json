@@ -1,12 +1,12 @@
 {
-  "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 30459,
+  "description": "This Is KURT. Los temas esenciales, todos en una lista.",
+  "num_followers": 30457,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAADIzFDIm4qPHwHNdrR6z/Vw",
+  "snapshot_id": "Zlu2AAAAAAAXy2nlxJewdi1Wd2cMcqWn",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Su Amor (with KURT)",
         "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 221336,
       "name": "Por Su Amor (with KURT)",
       "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
     },
     {
       "added_at": null,

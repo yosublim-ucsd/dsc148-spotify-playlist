@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 176000,
       "name": "Aja Sawariya - Remix",
       "url": "https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM"
@@ -1430,6 +1430,28 @@
       "duration_ms": 305613,
       "name": "Ghir Ghir",
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "album": {
+        "name": "Ghir Ghir Aayi",
+        "url": "https://open.spotify.com/album/0VanDD41bdmpbVQ45Q9c3L"
+      },
+      "artists": [
+        {
+          "name": "Sanghamitra Sarkar",
+          "url": "https://open.spotify.com/artist/1z0k0hbPwz1UCBfaksTRVK"
+        },
+        {
+          "name": "Mahimma Bhardwaj",
+          "url": "https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Ghir Ghir Aayi",
+      "url": "https://open.spotify.com/track/1kmabZtXNXA7YjcYnQlSTO"
     },
     {
       "album": {

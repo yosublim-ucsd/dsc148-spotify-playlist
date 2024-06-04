@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [Bad Mood](https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:13 | 2022-11-17 |  |
 | [Bad News](https://open.spotify.com/track/3PUTw7Aol3xShBCwWZNtXp) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 2:36 | 2022-11-17 | 2023-12-14 |
-| [Better](https://open.spotify.com/track/4zifCcliaROnRc1r35F6KN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:10 | 2024-05-11 | 2024-05-26 |
+| [Better](https://open.spotify.com/track/4zifCcliaROnRc1r35F6KN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:10 | 2024-05-11 |  |
 | [Big Shot](https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:43 | 2023-12-13 | 2024-03-06 |
 | [Big Shot](https://open.spotify.com/track/0Wh7bvzAM3RA4iXXPG3R5S) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:43 | 2024-03-07 | 2024-05-20 |
 | [Big Shot](https://open.spotify.com/track/1W8E07hkLSmtkIbpWmh3gv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Big Shot](https://open.spotify.com/album/6xsThAkPhe4okfWN4cQWu5) | 2:43 | 2023-11-10 | 2023-12-14 |
@@ -86,7 +86,7 @@
 | [Throwing Punches](https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 | 2023-11-10 |  |
 | [Tic](https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 | 2022-11-17 |  |
 | [Turned Out](https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:13 | 2022-11-17 |  |
-| [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 | 2022-11-17 |  |
+| [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 | 2022-11-17 | 2024-06-04 |
 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 | 2022-11-17 |  |
 | [Welcome to Algiers](https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:21 | 2022-11-17 | 2023-05-17 |
 | [Wilma's Rainbow](https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:54 | 2022-11-17 |  |

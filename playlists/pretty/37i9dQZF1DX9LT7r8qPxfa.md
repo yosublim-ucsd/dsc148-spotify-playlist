@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,491 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,464 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 59 | [Hold Your Own Hand](https://open.spotify.com/track/1kTEvUAboeslZmTwiEmxvD) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 6:53 |
 | 60 | [Slow Mover](https://open.spotify.com/track/2lTU0gr2BfZaXGi6qxojv0) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [A Couple Of Songs](https://open.spotify.com/album/7w2e21odbTcqObKgtfUiP4) | 3:10 |
 | 61 | [Luster](https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ) | [Twin Oaks](https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk) | [Luster](https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d) | 3:20 |
-| 62 | [Vampire Weeknight](https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Vampire Weeknight](https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV) | 3:24 |
+| 62 | [PSYCHO KILLER](https://open.spotify.com/track/3Bhw4B6EFw12gjKvmsJyMo) | [AG](https://open.spotify.com/artist/70IRyiXZdU8eIY56M0sBta), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [PSYCHO KILLER](https://open.spotify.com/album/3ErVeSYo8IgPe6p6OO9lbi) | 2:41 |
 | 63 | [Head of Steak](https://open.spotify.com/track/3CoHSt9cVHsj9PhNqgqq5K) | [She Keeps Bees](https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx) | [Head of Steak](https://open.spotify.com/album/4VrWtlUOsaNQPe5P4aNNhj) | 3:27 |
-| 64 | [PSYCHO KILLER](https://open.spotify.com/track/3Bhw4B6EFw12gjKvmsJyMo) | [AG](https://open.spotify.com/artist/70IRyiXZdU8eIY56M0sBta), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [PSYCHO KILLER](https://open.spotify.com/album/3ErVeSYo8IgPe6p6OO9lbi) | 2:41 |
-| 65 | [Power](https://open.spotify.com/track/2kFyCHyFejiVShz10BILgU) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Revival](https://open.spotify.com/album/2VjbYwRMFgUqBidz9hFb3D) | 2:48 |
-| 66 | [Family Album](https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN) | [Lia Ices](https://open.spotify.com/artist/2hy115qI1RfVvSeSvKfZj3) | [Family Album](https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD) | 5:07 |
+| 64 | [Vampire Weeknight](https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Vampire Weeknight](https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV) | 3:24 |
+| 65 | [Family Album](https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN) | [Lia Ices](https://open.spotify.com/artist/2hy115qI1RfVvSeSvKfZj3) | [Family Album](https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD) | 5:07 |
+| 66 | [Power](https://open.spotify.com/track/2kFyCHyFejiVShz10BILgU) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Revival](https://open.spotify.com/album/2VjbYwRMFgUqBidz9hFb3D) | 2:48 |
 | 67 | [Big Leap](https://open.spotify.com/track/1eqNt1BoMPOBPWa1IRut2r) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 3:00 |
-| 68 | [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Heavy Head \(Keep It Near\)](https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI) | 4:17 |
-| 69 | [Pockets Of Stones](https://open.spotify.com/track/287I3ix4mUm7NsrYLklUfT) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Pockets Of Stones](https://open.spotify.com/album/5lFigRaOOWbyAKZYsZbUwO) | 4:00 |
+| 68 | [Pockets Of Stones](https://open.spotify.com/track/287I3ix4mUm7NsrYLklUfT) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Pockets Of Stones](https://open.spotify.com/album/5lFigRaOOWbyAKZYsZbUwO) | 4:00 |
+| 69 | [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Heavy Head \(Keep It Near\)](https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI) | 4:17 |
 | 70 | [Golden](https://open.spotify.com/track/2WtZ0pGY93BnZfuGVenMb9) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden](https://open.spotify.com/album/3MnInies0fUg0hmzYwELpo) | 5:13 |
 | 71 | [Birthday Party](https://open.spotify.com/track/2QRxYrJkEg1iLdvudQHII1) | [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [Holidays](https://open.spotify.com/album/1KKSiga0I3uiNI4T18Mw36) | 2:15 |
 | 72 | [The Little Dipper](https://open.spotify.com/track/3GhDIsQqR6DCkK9cZ6McTM) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [The Little Dipper](https://open.spotify.com/album/5PiaITO6fNZudAx6muATEb) | 3:49 |

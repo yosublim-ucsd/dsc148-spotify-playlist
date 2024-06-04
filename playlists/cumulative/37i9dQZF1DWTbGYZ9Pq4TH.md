@@ -2,7 +2,7 @@
 
 ### [Amore Davvero](https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH)
 
-> Le canzoni italiane più romantiche di sempre ❤️
+> Le canzoni d'amore italiane più romantiche di sempre ❤️
 
 221 songs - 14 hr 21 min
 

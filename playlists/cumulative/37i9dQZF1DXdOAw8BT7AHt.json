@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 216618,
       "name": "Cuts Like A Knife",
       "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
@@ -2750,6 +2750,28 @@
       "duration_ms": 166483,
       "name": "I should've listened to my friends",
       "url": "https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr"
+    },
+    {
+      "album": {
+        "name": "THE HEALING",
+        "url": "https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI"
+      },
+      "artists": [
+        {
+          "name": "The OBGMs",
+          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
+        },
+        {
+          "name": "Just John",
+          "url": "https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "I'LL BE OKAY",
+      "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
     },
     {
       "album": {

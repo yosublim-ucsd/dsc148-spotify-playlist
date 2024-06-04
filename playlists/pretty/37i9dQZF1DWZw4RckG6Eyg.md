@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,272 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,268 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 38 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
 | 39 | [Barley](https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 3:29 |
 | 40 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 |
-| 41 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
-| 42 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 |
+| 41 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 |
+| 42 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
 | 43 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
-| 44 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
-| 45 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 |
+| 44 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 |
+| 45 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
 | 46 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 |
 | 47 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 48 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 59 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 |
 | 60 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
 | 61 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
-| 62 | [blame](https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 2:40 |
-| 63 | [Corner Of My Eye](https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Corner Of My Eye](https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs) | 3:19 |
+| 62 | [Corner Of My Eye](https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Corner Of My Eye](https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs) | 3:19 |
+| 63 | [blame](https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 2:40 |
 | 64 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 |
 | 65 | [I Want You](https://open.spotify.com/track/1vk8b7rvvclkgg9CY7r25x) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/3Q6ijENRHIELJgva3mgg3c) | 2:50 |
-| 66 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
-| 67 | [Raining All The Time](https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 3:00 |
-| 68 | [First Rule of the Bug](https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Spirit World Tour](https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2) | 3:27 |
+| 66 | [First Rule of the Bug](https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Spirit World Tour](https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2) | 3:27 |
+| 67 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
+| 68 | [Raining All The Time](https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 3:00 |
 | 69 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
 | 70 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
 | 71 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |

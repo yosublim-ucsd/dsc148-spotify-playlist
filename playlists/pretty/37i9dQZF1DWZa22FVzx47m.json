@@ -1,6 +1,6 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 402797,
+  "num_followers": 402851,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-05-10 15:11:26",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
-    },
-    {
-      "added_at": "2024-05-10 15:11:26",
-      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2024-05-10 15:11:26",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
     },
     {
       "added_at": "2024-05-10 15:11:26",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-05-10 15:11:26",
       "album": {
-        "name": "Fantas\u00eda o realidad",
-        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Aunque no te pueda ver",
-      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
-    },
-    {
-      "added_at": "2024-05-10 15:11:26",
-      "album": {
         "name": "Santo Pecado",
         "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 330373,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
+    },
+    {
+      "added_at": "2024-05-10 15:11:26",
+      "album": {
+        "name": "Fantas\u00eda o realidad",
+        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Aunque no te pueda ver",
+      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
     },
     {
       "added_at": "2024-05-10 15:11:26",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-10 15:11:26",
       "album": {
-        "name": "A las Cinco en el Astoria",
-        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Jueves",
-      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
-    },
-    {
-      "added_at": "2024-05-10 15:11:26",
-      "album": {
         "name": "Locas Por La M\u00fasica",
         "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 222413,
       "name": "C\u00f3mo Te Va Mi Amor",
       "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+    },
+    {
+      "added_at": "2024-05-10 15:11:26",
+      "album": {
+        "name": "A las Cinco en el Astoria",
+        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Jueves",
+      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
     },
     {
       "added_at": "2024-05-10 15:11:26",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-10 15:11:26",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
-    },
-    {
-      "added_at": "2024-05-10 15:11:26",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 277226,
       "name": "Y s\u00f3lo se me ocurre amarte",
       "url": "https://open.spotify.com/track/05Zcw1sWmSu3wfbaLTeosp"
+    },
+    {
+      "added_at": "2024-05-10 15:11:26",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
     },
     {
       "added_at": "2024-05-10 15:11:26",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-05-10 15:11:26",
       "album": {
-        "name": "Nada De Nada (Edici\u00f3n de lujo)",
-        "url": "https://open.spotify.com/album/6oHnCzahK7EHvqfFbI1vVE"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Marco di Mauro",
-          "url": "https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 250544,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/4oAXfBdNH0qHr32w82E8dg"
+      "duration_ms": 194480,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
     },
     {
       "added_at": "2024-05-10 15:11:26",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-05-10 15:11:26",
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
+        "name": "Nada De Nada (Edici\u00f3n de lujo)",
+        "url": "https://open.spotify.com/album/6oHnCzahK7EHvqfFbI1vVE"
       },
       "artists": [
         {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Marco di Mauro",
+          "url": "https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK"
         }
       ],
-      "duration_ms": 194480,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
+      "duration_ms": 250544,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/4oAXfBdNH0qHr32w82E8dg"
     },
     {
       "added_at": "2024-05-10 15:11:26",

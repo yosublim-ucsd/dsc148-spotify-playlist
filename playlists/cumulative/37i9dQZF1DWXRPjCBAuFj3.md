@@ -4,10 +4,11 @@
 
 > Il rap è uno sport competitivo 🔥 Central Cee e Lil Baby in cover con BAND4BAND 💵💷
 
-641 songs - 1 day 9 hr 52 min
+642 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0 CONFIANZA](https://open.spotify.com/track/3DoQI6dr5XDc7hChrkA1lD) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:37 | 2024-05-30 |  |
 | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr) | 2:58 | 2023-04-06 |  |
 | [100 Million](https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [100 Million](https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871) | 3:12 | 2024-01-18 | 2024-02-16 |
 | [14 Years \- Spotify Singles](https://open.spotify.com/track/3UBHeF9BNbMUB3SoGr8pSn) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Spotify Singles](https://open.spotify.com/album/5xrn2BgDap9ifTaTrIDf9X) | 2:13 | 2022-10-21 | 2023-02-10 |
@@ -543,7 +544,7 @@
 | [Split](https://open.spotify.com/track/3HqGDrSOZ6LbBfX5EsiaAj) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:23 | 2023-03-03 | 2023-03-25 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-02 |  |
 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 | 2023-05-25 | 2023-07-27 |
-| [Stand On It \(with Future\)](https://open.spotify.com/track/6lqRjNaL63nmwHbQcekxLh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 3:00 | 2024-02-19 |  |
+| [Stand On It \(with Future\)](https://open.spotify.com/track/6lqRjNaL63nmwHbQcekxLh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 3:00 | 2024-02-19 | 2024-06-04 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-05-10 | 2023-03-04 |
 | [STARS](https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:55 | 2024-02-12 | 2024-02-17 |
 | [Started From the Bottom](https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 2:54 | 2024-04-26 | 2024-05-07 |

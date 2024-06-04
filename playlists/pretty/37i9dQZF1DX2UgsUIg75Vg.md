@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Nippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,342,511 likes - 153 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,342,565 likes - 153 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
+| 1 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
 | 2 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 |
 | 3 | [Dovetail](https://open.spotify.com/track/1zEG6etKoFYBedD7YQvSpP) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:38 |
 | 4 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,119 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,132 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 47 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 | 48 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 |
 | 49 | [This city is too jazzy to be in love](https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf) | 3:30 |
-| 50 | [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 |
+| 50 | [All Too Soon](https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [All Too Soon](https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN) | 3:54 |
 
 Snapshot ID: `ZlXxcAAAAAA/L2a6covyf98ufEygXm/U`

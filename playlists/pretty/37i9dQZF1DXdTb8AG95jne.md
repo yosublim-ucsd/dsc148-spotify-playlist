@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\(한로로\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,507 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,573 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 12 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 13 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
 | 14 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
-| 15 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 |
-| 16 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
+| 15 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
+| 16 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 |
 | 17 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 18 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
 | 19 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 33 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 |
 | 34 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
 | 35 | [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 |
-| 36 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 |
-| 37 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 |
+| 36 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 |
+| 37 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 |
 | 38 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 |
 | 39 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 |
 | 40 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 45 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
 | 46 | [How To Go On](https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [How To Go On](https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP) | 3:37 |
 | 47 | [Chum](https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Chum](https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh) | 3:45 |
-| 48 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
-| 49 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
+| 48 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
+| 49 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
 | 50 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
 
 Snapshot ID: `Zlcc4QAAAAAOGyCwY8AI1eBCcJ4BN55E`

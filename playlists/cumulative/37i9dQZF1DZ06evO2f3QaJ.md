@@ -2,7 +2,7 @@
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. The essential tracks, all in one playlist.
+> This is Zudizilla\. Todos os maiores hits em uma só playlist.
 
 66 songs - 4 hr 6 min
 
@@ -20,7 +20,7 @@
 | [Ciclos](https://open.spotify.com/track/6n1f4TRCr1G8OzgoZJDAqH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Cachola](https://open.spotify.com/artist/7J3EYB97apm5pjDU6kzife) | [Ciclos](https://open.spotify.com/album/6oX71svzC11H8IS3cgvH51) | 2:48 | 2023-09-18 | 2023-12-30 |
 | [DCAC \- de César a Cristo](https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luciane Dom](https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1) | [DCAC \- de César a Cristo](https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl) | 5:38 | 2023-11-10 |  |
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-09-18 | 2024-02-24 |
-| [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 | 2024-06-01 |  |
+| [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 | 2024-06-01 | 2024-06-04 |
 | [Faça a Coisa Certa](https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 3:14 | 2023-09-18 |  |
 | [Febre](https://open.spotify.com/track/6S30GnSKCDEQ7uC7Hy40zo) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:17 | 2023-09-18 | 2024-04-12 |
 | [Flor de Oxalá](https://open.spotify.com/track/6trqX1VGaQsrw0usSb81ky) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Flor de Oxalá](https://open.spotify.com/album/7ezWRaB3cnEXXJQ5CjqrzZ) | 2:55 | 2023-09-18 | 2024-02-26 |
@@ -40,7 +40,7 @@
 | [Não](https://open.spotify.com/track/65OsMzU0QJiTzo3Fu2uq9q) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Não](https://open.spotify.com/album/1HPEDSjxNNaatBaNbdNoM4) | 4:27 | 2023-11-10 |  |
 | [Não Sei Se Me Ouvem](https://open.spotify.com/track/35qEQQP7yqzRlEoYj6zcyM) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:52 | 2024-02-10 |  |
 | [O Dia Mais Quente do Ano](https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:50 | 2023-09-18 |  |
-| [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 | 2023-09-18 | 2024-06-01 |
+| [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 | 2023-09-18 |  |
 | [Ordem Natural](https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:43 | 2023-10-10 |  |
 | [Pequenas Coisas](https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:16 | 2023-09-18 |  |
 | [Prefácio](https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz) | 5:13 | 2023-09-18 | 2024-05-10 |

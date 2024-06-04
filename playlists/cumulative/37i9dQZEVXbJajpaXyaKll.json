@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Dal\u00ed",
+        "url": "https://open.spotify.com/album/0f7lJFC5UgF55NI6Y5Loyv"
+      },
+      "artists": [
+        {
+          "name": "MARCOS YTZ",
+          "url": "https://open.spotify.com/artist/6cYga5r2iZY7SCrT56FUWj"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Dal\u00ed",
+      "url": "https://open.spotify.com/track/5W9sfme2wRkcgx2RSkqGsp"
+    },
+    {
+      "album": {
         "name": "Dance You Outta My Head",
         "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
       },
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -5044,7 +5062,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 193044,
       "name": "MUSICA DE ASCENSOR",
       "url": "https://open.spotify.com/track/2Tl4SWZWvN7KBhz8UKnK2L"

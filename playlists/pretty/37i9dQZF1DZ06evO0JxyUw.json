@@ -1,33 +1,13 @@
 {
-  "description": "This Is Christina Aguilera. Los temas esenciales, todos en una lista.",
-  "num_followers": 261443,
+  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
+  "num_followers": 261469,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABf0MzcOUz7ioEtj2etggF+",
+  "snapshot_id": "Zlu2AAAAAAAa9Ex5CcVFb0SwLUThcA6L",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hands All Over (Revised International Standard version)",
-        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
-    },
     {
       "added_at": null,
       "album": {
@@ -231,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
       "artists": [
         {
@@ -240,9 +220,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Come on over Baby (All I Want Is You) - Radio Version",
-      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+      "duration_ms": 243373,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
     },
     {
       "added_at": null,
@@ -263,42 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do What U Want",
-        "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Do What U Want",
-      "url": "https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -311,26 +255,6 @@
       "duration_ms": 215800,
       "name": "What a Girl Wants",
       "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 298853,
-      "name": "Dirrty (feat. Redman)",
-      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
     },
     {
       "added_at": null,
@@ -360,9 +284,29 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 228906,
-      "name": "Ain't No Other Man",
-      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+      "duration_ms": 194213,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 298853,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
     },
     {
       "added_at": null,
@@ -383,6 +327,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 166199,
+      "name": "Loyal Brave True",
+      "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "Ain't No Other Man",
+      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -399,22 +375,6 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 166199,
-      "name": "Loyal Brave True",
-      "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
     },
     {
       "added_at": null,
@@ -455,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Genio Atrapado",
-      "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
       },
@@ -483,6 +427,22 @@
       "duration_ms": 217996,
       "name": "Reflection (2020)",
       "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Genio Atrapado",
+      "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
     },
     {
       "added_at": null,
@@ -699,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo",
-        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
       },
       "artists": [
         {
@@ -708,13 +668,13 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "XNDA",
+          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
         }
       ],
-      "duration_ms": 183414,
-      "name": "Santo",
-      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+      "duration_ms": 245293,
+      "name": "Pipe (feat. XNDA)",
+      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
     },
     {
       "added_at": null,
@@ -751,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
       },
       "artists": [
         {
@@ -760,13 +720,13 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         },
         {
-          "name": "XNDA",
-          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 245293,
-      "name": "Pipe (feat. XNDA)",
-      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
     },
     {
       "added_at": null,
@@ -899,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
-        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
-      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -931,6 +875,22 @@
       "duration_ms": 173922,
       "name": "Su\u00e9ltame",
       "url": "https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
+        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
+      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
     },
     {
       "added_at": null,
@@ -963,6 +923,42 @@
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Tell Me (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

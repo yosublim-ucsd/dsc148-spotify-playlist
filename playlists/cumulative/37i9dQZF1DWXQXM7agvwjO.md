@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Michael Kaneko  \(Japan\)
 
-1,333 songs - 3 day 8 hr 20 min
+1,334 songs - 3 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 | 2023-04-13 | 2024-01-17 |
 | [Do You Right](https://open.spotify.com/track/1u2hi7NDNIfxfoNiZZhyGY) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Do You Right](https://open.spotify.com/album/4rIe4hRHbK93lOw9zrYPoC) | 2:56 | 2024-02-15 | 2024-04-26 |
 | [do you still think \(about me?\)](https://open.spotify.com/track/4edE57uW5nXnoXJch8qtLl) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [do you still think \(about me?\)](https://open.spotify.com/album/5taBTQoZaJsGa3sC9F4CTw) | 3:57 | 2023-02-23 | 2023-04-26 |
-| [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-05-09 |  |
+| [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-05-09 | 2024-06-04 |
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 | 2023-02-17 |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-11 | 2024-04-19 |
 | [DOMO \(dancing on my own\)](https://open.spotify.com/track/2xLqIPEPpG5VbpC3eQnHLM) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [DOMO \(dancing on my own\)](https://open.spotify.com/album/7uWOzh0qX7ny9zALiRGNb2) | 3:10 | 2022-11-10 | 2022-12-10 |
@@ -1313,6 +1313,7 @@
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-03-02 | 2023-04-14 |
 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 | 2022-09-08 | 2022-10-14 |
 | [泡泡](https://open.spotify.com/track/75Ha2AzsRFnlZ0uNkEp5yu) | [VOOID](https://open.spotify.com/artist/5KQSa8lX9YzvetL7ol4zeq) | [泡泡](https://open.spotify.com/album/0wXVShnHlCqezUvFoQ2HpT) | 6:05 | 2024-05-02 | 2024-05-24 |
+| [滤镜](https://open.spotify.com/track/7fQMQvurkWIvuyQwuX3xd9) | [张醒婵](https://open.spotify.com/artist/5xQexMQeKic0fm65lvL8m3) | [No，No！](https://open.spotify.com/album/1C66Zm5eFybhuB7mhZapMQ) | 3:50 | 2024-06-03 |  |
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-02-15 | 2024-04-10 |
 | [漸空](https://open.spotify.com/track/4M5wtKptoXz2Qfopqmmk03) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [漸空](https://open.spotify.com/album/2UNf7Yb57Ywuz3eH1TMlZ1) | 3:56 | 2023-12-21 | 2024-02-16 |
 | [瀏海被風吹得整個飛起來](https://open.spotify.com/track/14W2gcRSJjVJc1u6dVNHfA) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [瀏海被風吹得整個飛起來](https://open.spotify.com/album/3p2pEqMl2JkpjSeXwnGudr) | 3:41 | 2023-10-12 | 2023-11-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,586 likes - 98 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,607 likes - 98 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 65 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 |
 | 66 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
 | 67 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 |
-| 68 | [Hasta Olvidarte](https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Arcángel](https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:08 |
+| 68 | [Hasta Olvidarte](https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:08 |
 | 69 | [Bottom of a Dirty Shoe](https://open.spotify.com/track/0oKEOYOgh2dtypShicMHh0) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Bottom of a Dirty Shoe](https://open.spotify.com/album/6KwrResX8trTc66PevQ0O8) | 2:40 |
 | 70 | [is suicide too much?](https://open.spotify.com/track/6hLwWVV4b7cXlqxU76PcTs) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [grey europe](https://open.spotify.com/album/1ZiOUqonBvUlocuaXMgYS5) | 3:09 |
 | 71 | [Pop Yo Shit](https://open.spotify.com/track/7zlbWcAnL2pIGsGhRswUgK) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Pop Yo Shit](https://open.spotify.com/album/1R1PlEdUQi7TSPfWXOVSGU) | 2:27 |

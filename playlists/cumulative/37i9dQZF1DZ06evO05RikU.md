@@ -2,7 +2,7 @@
 
 ### [This Is Sofía Reyes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO05RikU)
 
-> This is Sofía Reyes\. The essential tracks, all in one playlist.
+> This Is Sofía Reyes\. Los temas esenciales, todos en una lista.
 
 71 songs - 3 hr 39 min
 
@@ -21,7 +21,7 @@
 | [Cleopatra](https://open.spotify.com/track/5UHNBHu9SWhlbVOlntdCWf) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Cleopatra](https://open.spotify.com/album/7oSTYFxPV06Fpp4lq2dntf) | 3:20 | 2023-09-25 | 2023-11-11 |
 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 | 2023-11-10 |  |
 | [Conmigo \(Rest of Your Life\)](https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:18 | 2023-09-25 |  |
-| [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 | 2023-09-25 |  |
+| [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 | 2023-09-25 | 2024-06-04 |
 | [Cuando Estás Tú](https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Cuando Estás Tú](https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC) | 2:57 | 2023-09-25 |  |
 | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z) | 2:04 | 2023-09-25 |  |
 | [De aqui a la luna](https://open.spotify.com/track/6zmxxA4bZ1dGlj6CRVXf87) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:09 | 2023-09-25 | 2024-05-14 |
@@ -42,7 +42,7 @@
 | [HOY ME PORTO MAL](https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:13 | 2024-03-16 |  |
 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 | 2023-09-25 | 2024-03-17 |
 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 | 2023-09-25 |  |
-| [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 | 2023-09-25 | 2024-06-03 |
+| [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 | 2023-09-25 |  |
 | [La Bachata](https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:16 | 2023-09-25 |  |
 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 | 2023-11-10 |  |
 | [Limones](https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:56 | 2023-09-25 |  |

@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 199245,
       "name": "Astral Abyss - Sound Bath",
       "url": "https://open.spotify.com/track/2f1eM4SOV9TR9Cn50Qb3X0"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 163200,
       "name": "Beautiful Gigi",
       "url": "https://open.spotify.com/track/0Lmtjgfd6mKmELxB8W73Ig"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 352500,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/4vTOrAXAOgUoweADeF5I0C"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Devine",
+        "url": "https://open.spotify.com/album/2JCGGfgADShM00AyKu5E7B"
+      },
+      "artists": [
+        {
+          "name": "moon echo",
+          "url": "https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "Devine",
+      "url": "https://open.spotify.com/track/03PZdPB6XxLRzZr6bxyJ9K"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/0WAc9bER7MgMkf2O53jkCU"
       },
@@ -690,6 +708,28 @@
       "duration_ms": 224709,
       "name": "Dreamy Rain",
       "url": "https://open.spotify.com/track/3t4Xay4z99hgWy7UB3Kdfb"
+    },
+    {
+      "album": {
+        "name": "Drifting Together",
+        "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Siegel",
+          "url": "https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE"
+        },
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193269,
+      "name": "Drifting Together",
+      "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
     },
     {
       "album": {
@@ -902,7 +942,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 128798,
       "name": "fared well",
       "url": "https://open.spotify.com/track/0KdRvLKh1HYKEXXo2je6GS"
@@ -942,6 +982,24 @@
       "duration_ms": 166736,
       "name": "Forest Fantasy (in a Rainy Forest)",
       "url": "https://open.spotify.com/track/3xwNCWTgJQ5mEPgG73F4NU"
+    },
+    {
+      "album": {
+        "name": "Forest Of Silence",
+        "url": "https://open.spotify.com/album/3HkZdXEmrd1anL3M4aN2Gm"
+      },
+      "artists": [
+        {
+          "name": "Heal Divisions",
+          "url": "https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153668,
+      "name": "Forest Of Silence",
+      "url": "https://open.spotify.com/track/77ph8NVFKuV3JcE1FjMbrs"
     },
     {
       "album": {
@@ -1035,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/7wTjZKTqnlpaVYICwC4otF"
+      },
+      "artists": [
+        {
+          "name": "anahata symphony",
+          "url": "https://open.spotify.com/artist/4aPzHbIkVj23URPdeeg0RW"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136764,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/43XnOAlo0ZNdvRiThueNFt"
+    },
+    {
+      "album": {
         "name": "Healing Rain",
         "url": "https://open.spotify.com/album/5pZkGSVZjLhU8dJJKGxmgY"
       },
@@ -1068,6 +1144,24 @@
       "duration_ms": 185546,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/68WCGhFhDyGRQcSbFfG9T8"
+    },
+    {
+      "album": {
+        "name": "Higher Rain",
+        "url": "https://open.spotify.com/album/60RPd6hgEFxencQQ7kqK9I"
+      },
+      "artists": [
+        {
+          "name": "Aya Morata",
+          "url": "https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Higher Rain",
+      "url": "https://open.spotify.com/track/5zHXoOOcvY8zy3PcfyXhsx"
     },
     {
       "album": {
@@ -1172,10 +1266,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 373304,
       "name": "Journey to Peace - Rain Mix, Pt. 1",
       "url": "https://open.spotify.com/track/64RJvySLY08IIaeyXMpLxh"
+    },
+    {
+      "album": {
+        "name": "Kadunud Taevasse Rain",
+        "url": "https://open.spotify.com/album/4ZeO5zSfDKvcuxELbHWLIb"
+      },
+      "artists": [
+        {
+          "name": "Kikolu",
+          "url": "https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "Kadunud Taevasse Rain",
+      "url": "https://open.spotify.com/track/3lRjBzLK847xqQYfYE7aqB"
     },
     {
       "album": {
@@ -1190,7 +1302,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 150729,
       "name": "Libera - Sound Bath",
       "url": "https://open.spotify.com/track/2KoxJaWPHHkKMf1D6Kt1la"
@@ -1212,6 +1324,24 @@
       "duration_ms": 161750,
       "name": "Light & Shadow",
       "url": "https://open.spotify.com/track/4ZK7ww5PRZaNwakCz6PbY2"
+    },
+    {
+      "album": {
+        "name": "Linked",
+        "url": "https://open.spotify.com/album/6JuUSeS01R5FPcF1YwPVX7"
+      },
+      "artists": [
+        {
+          "name": "Aum",
+          "url": "https://open.spotify.com/artist/1eHIEH42cJVyCDiPY0OVQ4"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167427,
+      "name": "Linked (Nature)",
+      "url": "https://open.spotify.com/track/3NTKS56LNU3cQolVcI3yTx"
     },
     {
       "album": {
@@ -1915,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/245teCRripI2uthYqVRawt"
+      },
+      "artists": [
+        {
+          "name": "Hadat Ombra",
+          "url": "https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/5aJVU2be9kwTus4upa1H5a"
+    },
+    {
+      "album": {
         "name": "Solar Winds",
         "url": "https://open.spotify.com/album/6zFFMzkMI42q4Jk4Nq3KkV"
       },
@@ -2016,7 +2164,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 202875,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/5VHEhcdawAh8F8UdnvN1PO"

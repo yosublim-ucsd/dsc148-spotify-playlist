@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 57275,
+  "num_followers": 57310,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "Amar\u00edssima",
         "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -255,6 +255,38 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "O Amor e Suas Vari\u00e1veis",
+        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 141913,
+      "name": "Amor \u00c9 Bom Quando Tem Chama",
+      "url": "https://open.spotify.com/track/2Jivvjt7JABrzX2D5dYn6i"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -319,22 +351,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "O Amor e Suas Vari\u00e1veis",
-        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 141913,
-      "name": "Amor \u00c9 Bom Quando Tem Chama",
-      "url": "https://open.spotify.com/track/2Jivvjt7JABrzX2D5dYn6i"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -423,6 +423,30 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "\u00cdn.ti.mo",
         "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
@@ -447,6 +471,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "O Amor e Suas Vari\u00e1veis",
+        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 152630,
+      "name": "De Boa",
+      "url": "https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Aeroporto",
         "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
       },
@@ -459,30 +499,6 @@
       "duration_ms": 209537,
       "name": "Aeroporto",
       "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -523,18 +539,18 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "O Amor e Suas Vari\u00e1veis",
-        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
+        "name": "Pulando",
+        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
       "artists": [
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
         }
       ],
-      "duration_ms": 152630,
-      "name": "De Boa",
-      "url": "https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X"
+      "duration_ms": 164000,
+      "name": "Pulando",
+      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -575,18 +591,18 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Pulando",
-        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI"
       },
       "artists": [
         {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Pulando",
-      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+      "duration_ms": 204500,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -611,18 +627,18 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
       },
       "artists": [
         {
-          "name": "Nathi",
-          "url": "https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33"
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -639,22 +655,6 @@
       "duration_ms": 226073,
       "name": "Me Curar",
       "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
     },
     {
       "added_at": "2024-05-31 03:01:00",

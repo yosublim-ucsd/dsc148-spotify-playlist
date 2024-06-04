@@ -1,6 +1,6 @@
 {
   "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Central Cee e Lil Baby in cover con BAND4BAND \ud83d\udcb5\ud83d\udcb7",
-  "num_followers": 209712,
+  "num_followers": 209706,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -543,26 +543,22 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 209577,
-      "name": "FUK SUMN",
-      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -583,22 +579,26 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "prada dem (feat. Offset)",
-        "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "prada dem (feat. Offset)",
-      "url": "https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "Manos Rotas",
         "url": "https://open.spotify.com/album/7KKBibFuDeAKYrB79gPcHu"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 168594,
       "name": "Manos Rotas",
       "url": "https://open.spotify.com/track/3BFh8rR6aMexy7ELu2UQy3"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "prada dem (feat. Offset)",
+        "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "prada dem (feat. Offset)",
+      "url": "https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 143718,
-      "name": "n.h.i.e.",
-      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 160000,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1179,6 +1179,42 @@
       "duration_ms": 160893,
       "name": "La bandite",
       "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Gimme A Second",
+        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 173067,
+      "name": "Gimme A Second",
+      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1219,22 +1255,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "SkeeYee",
-      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 120000,
       "name": "X",
       "url": "https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
-        "name": "Gimme A Second",
-        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173067,
-      "name": "Gimme A Second",
-      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "AD VITAM \u00c6TERNAM",
-        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 194540,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "NANi",
         "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 154991,
       "name": "NANi",
       "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 194540,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1415,6 +1415,22 @@
       "duration_ms": 216386,
       "name": "NOTRE DAME",
       "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Angels In The Sky",
+        "url": "https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 162210,
+      "name": "Angels In The Sky",
+      "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Cobra",
-        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 168932,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
         "name": "Par\u00eds Como Hakimi",
         "url": "https://open.spotify.com/album/6EGdF6PPqUdepFkHiWam87"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 185864,
       "name": "Par\u00eds Como Hakimi",
       "url": "https://open.spotify.com/track/0vYhUMxQbxYzvjx82707U9"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
-        "name": "Angels In The Sky",
-        "url": "https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 162210,
-      "name": "Angels In The Sky",
-      "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1603,6 +1603,22 @@
       "duration_ms": 144253,
       "name": "Entrapreneur",
       "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Survivor\u2019s Remorse",
+        "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 156645,
+      "name": "Survivor\u2019s Remorse",
+      "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Survivor\u2019s Remorse",
-        "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 156645,
-      "name": "Survivor\u2019s Remorse",
-      "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "D\u00e9cennie",
         "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Sremm 4 Life",
-        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 198904,
-      "name": "Not So Bad (Leans Gone Cold)",
-      "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "Gas Me Up (Diligent)",
         "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 171000,
       "name": "Gas Me Up (Diligent)",
       "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 198904,
+      "name": "Not So Bad (Leans Gone Cold)",
+      "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Define My Name",
-        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Define My Name",
-      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "INNOCENTE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 232615,
       "name": "Libertad (feat. Morad)",
       "url": "https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Define My Name",
+        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Define My Name",
+      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "HEATHENISM",
-        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 207567,
-      "name": "Giving Chanel",
-      "url": "https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "Blue Porsche (feat. Niska)",
         "url": "https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 186479,
       "name": "Blue Porsche (feat. Niska)",
       "url": "https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 207567,
+      "name": "Giving Chanel",
+      "url": "https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "GRAMMY PARTY",
-        "url": "https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 110881,
-      "name": "GRAMMY PARTY",
-      "url": "https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "Orange",
         "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
       },
@@ -2235,22 +2219,38 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "2093 (P2)",
-        "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
+        "name": "GRAMMY PARTY",
+        "url": "https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Stand On It (with Future)",
-      "url": "https://open.spotify.com/track/6lqRjNaL63nmwHbQcekxLh"
+      "duration_ms": 110881,
+      "name": "GRAMMY PARTY",
+      "url": "https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "0 CONFIANZA",
+      "url": "https://open.spotify.com/track/3DoQI6dr5XDc7hChrkA1lD"
     }
   ],
   "unique_name": "Rap Internazionale",

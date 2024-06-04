@@ -4,7 +4,7 @@
 
 > This Is Banda Vallarta Show\. Los temas esenciales, todos en una lista.
 
-78 songs - 3 hr 49 min
+79 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [La Negra Colora](https://open.spotify.com/track/723g6T7oEsGQiDQ5AQZ5Vq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 2:39 | 2022-06-01 | 2023-03-21 |
 | [La Primera Caricia](https://open.spotify.com/track/2aLJvoRq7TvOqw02j3yfZ2) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 2:25 | 2022-06-02 | 2022-07-29 |
 | [La Vaquilla Prieta](https://open.spotify.com/track/0jhRgpAn9jcs4zoJ7h7v1m) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:21 | 2022-06-01 | 2024-02-12 |
-| [La Vaquilla Prieta](https://open.spotify.com/track/1vu1ZRj7rkFTtDMEJFOStD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:24 | 2024-02-11 |  |
+| [La Vaquilla Prieta](https://open.spotify.com/track/1vu1ZRj7rkFTtDMEJFOStD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:24 | 2024-02-11 | 2024-06-04 |
 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 | 2022-06-01 |  |
 | [Maria Isabel](https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 | 2022-06-01 |  |
 | [Me Esta Esperando María](https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:48 | 2022-06-01 |  |
@@ -75,6 +75,7 @@
 | [Regalo Equivocado](https://open.spotify.com/track/757k8ihiJpyRpEYPdY9yk9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Regalo Equivocado](https://open.spotify.com/album/6JOATRxZMwB5ynab1lbmca) | 3:38 | 2023-12-24 | 2023-12-30 |
 | [Rock y Banda](https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 | 2022-06-01 |  |
 | [Sangre Mexicana](https://open.spotify.com/track/21AQG7xtw9UdHTH8Yy6pGN) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:07 | 2022-06-01 | 2023-06-09 |
+| [Se Suicidó Un Asesino](https://open.spotify.com/track/7rOmlSpOz4c2NGVGmGuGiA) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:55 | 2024-06-04 |  |
 | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T) | 3:04 | 2024-03-23 |  |
 | [Siempre En Mi Mente](https://open.spotify.com/track/0G1YgtrjrXQ5GHN8FeJP3r) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:17 | 2022-06-01 | 2023-03-03 |
 | [Tabaco Mascao](https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:04 | 2022-06-01 | 2024-02-17 |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-335 songs - 18 hr 8 min
+336 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 | 2022-06-13 | 2023-06-10 |
 | [Jai Ganesha](https://open.spotify.com/track/3AaghYGVFOfmrLui28QIq9) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Jai Ganesha](https://open.spotify.com/album/7tKACaZToxNtnW8y9yPr5N) | 4:18 | 2023-09-14 | 2024-02-17 |
 | [Janani](https://open.spotify.com/track/43HXpdT5E0z4erGPkQYxuV) | [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Vignesh Shankar](https://open.spotify.com/artist/3L8oIMXUCC47w7tvXHezdP), [Sunidhi Ganesh](https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K), [Rajath Hegde](https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu) | [Janani](https://open.spotify.com/album/53a5pHNdp4p0FvCJvLjGgh) | 3:40 | 2023-10-06 | 2024-02-17 |
+| [Javaari Hudga](https://open.spotify.com/track/1hoRIB6bh6UzcQ1an5opq9) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2), [Trupti NK](https://open.spotify.com/artist/5bNXTmycprKmNZP9vdOWBb) | [Javaari Hudga](https://open.spotify.com/album/4Kt7gZ6jpRtVyTm8hD5kgM) | 3:08 | 2024-06-03 |  |
 | [JUST MUSIC](https://open.spotify.com/track/6rP745yCeuwMJdd4uJAG2h) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [JUST MUSIC](https://open.spotify.com/album/2Sa4QsIx74xhupxw7Ej5Tq) | 2:05 | 2024-05-13 |  |
 | [Kaaduvalavale](https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kaaduvalavale](https://open.spotify.com/album/6w8fcNBCtvW5rtAnpoJyLv) | 4:04 | 2023-09-01 | 2023-09-22 |
 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 | 2023-06-27 | 2024-01-30 |
@@ -243,7 +244,7 @@
 | [Neenire Jotheyalli](https://open.spotify.com/track/43J5iLiNYuyjOlN0hCMoU1) | [Pratheek anchan](https://open.spotify.com/artist/22uihzHSRd4fg181KerX6n) | [Neenire Jotheyalli](https://open.spotify.com/album/2b3rqJgc9tt6m1DCZWNPha) | 2:26 | 2024-03-04 |  |
 | [Neerige Hogo Henne!](https://open.spotify.com/track/1eYVrSzMc8MUjz2feEljcI) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Neerige Hogo Henne!](https://open.spotify.com/album/16T0Q8WdjYGBRy1JNKPmET) | 3:07 | 2024-04-24 |  |
 | [Negative Vibes](https://open.spotify.com/track/2v8kMR6oI7nejIEAlRdLMh) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Negative Vibes](https://open.spotify.com/album/2Q3LYxs6srfQlp668KY84J) | 2:15 | 2024-01-16 | 2024-02-22 |
-| [Nemmadi](https://open.spotify.com/track/0ckIja4c0MDRdUIOrHEg60) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl), [Manujjes](https://open.spotify.com/artist/5fjJ0wwxbYv20BeN5IQuFK) | [Nemmadi](https://open.spotify.com/album/3W71iYsNO61V3GQ9FZeehx) | 2:20 | 2023-12-29 |  |
+| [Nemmadi](https://open.spotify.com/track/0ckIja4c0MDRdUIOrHEg60) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl), [Manujjes](https://open.spotify.com/artist/5fjJ0wwxbYv20BeN5IQuFK) | [Nemmadi](https://open.spotify.com/album/3W71iYsNO61V3GQ9FZeehx) | 2:20 | 2023-12-29 | 2024-06-04 |
 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 | 2023-03-20 | 2023-12-09 |
 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 | 2023-11-02 |
 | [Never](https://open.spotify.com/track/0d20BQIXw2xUKXQMRJoQRz) | [Derrick You Kno Me](https://open.spotify.com/artist/7FLBUmEZsWCSPMcHO8Xcm3), [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Never](https://open.spotify.com/album/24iuXtQnq7fa6XV75ZkZxS) | 3:00 | 2023-04-14 | 2023-06-09 |

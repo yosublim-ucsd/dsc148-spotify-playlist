@@ -1,12 +1,12 @@
 {
-  "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 10458,
+  "description": "This is Billy Paul. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 10459,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAC+pcA7l522kj6grR2q1YBf",
+  "snapshot_id": "Zlu2AAAAAAA7YigJ5fB70dKW4fYd83G8",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 253880,
-      "name": "I Trust You",
-      "url": "https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU"
+      "duration_ms": 279440,
+      "name": "False Faces",
+      "url": "https://open.spotify.com/track/4GDKs7Uu9meQvHzXQNWLd1"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "False Faces",
-      "url": "https://open.spotify.com/track/4GDKs7Uu9meQvHzXQNWLd1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got My Head On Straight",
         "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 329106,
       "name": "July, July, July, July",
       "url": "https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "I Trust You",
+      "url": "https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 260866,
-      "name": "What A Way To Love",
-      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Be Truthful to Me",
-      "url": "https://open.spotify.com/track/2qvVFJqlGwSmAsdqpew5xv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Be Truthful to Me",
+      "url": "https://open.spotify.com/track/2qvVFJqlGwSmAsdqpew5xv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+      "duration_ms": 260866,
+      "name": "What A Way To Love",
+      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Malorie",
-      "url": "https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200973,
       "name": "We All Got A Mission",
       "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Malorie",
+      "url": "https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt"
     },
     {
       "added_at": null,

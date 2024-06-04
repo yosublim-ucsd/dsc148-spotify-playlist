@@ -2277,6 +2277,36 @@
     },
     {
       "album": {
+        "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/3vVIhgkDoC0vRBba5drHPe"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Indraneel",
+          "url": "https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264089,
+      "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/66DHPOlHSIRiBiGjG7Xvfx"
       },

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Max McNown, Artwork: Fanélie Muselier
 
-2,395 songs - 5 day 9 hr 54 min
+2,396 songs - 5 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,6 +992,7 @@
 | [How I Remember Us](https://open.spotify.com/track/74ybKy10RQTZPiuXoM4Zzw) | [Bryce Mauldin](https://open.spotify.com/artist/5DXpUPIW7ConNwYAjXe5BE) | [How I Remember Us](https://open.spotify.com/album/3yXWI2h8CRiuRT2xkluIaM) | 3:15 | 2023-10-04 | 2023-11-30 |
 | [How It's Gonna Go](https://open.spotify.com/track/7uSFHldb7Trq3Lvif105Fd) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [How It's Gonna Go](https://open.spotify.com/album/7pZtKUoXG4HOGQ1RGNnRsf) | 3:45 | 2024-04-17 |  |
 | [How to Act](https://open.spotify.com/track/4w22usiR11z3zj67DtEySj) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [How to Act](https://open.spotify.com/album/74rd8zXUWAIssTX7kNBC8c) | 3:09 | 2023-09-28 | 2023-11-30 |
+| [How to Not](https://open.spotify.com/track/0cWi57UMVi0thGouOIBq3y) | [Tommy Acker](https://open.spotify.com/artist/1NjykoKHbtxJIAOlHiOWlk) | [How to Not](https://open.spotify.com/album/43CgasFXUmYN2QBeaeywvd) | 3:30 | 2024-06-03 |  |
 | [Howdy](https://open.spotify.com/track/29yiKrq4t4tMBmLxETYBoU) | [Clayton Johnson](https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9) | [Howdy](https://open.spotify.com/album/6aitm7wmo7r9SXBFO7xM5M) | 2:24 | 2023-01-11 | 2023-02-16 |
 | [Hung Over You](https://open.spotify.com/track/7hKWkSgbHuExj89lbso7Jq) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Hung Over You](https://open.spotify.com/album/7wLgYkaFVJZ1lVIyvMhHg3) | 2:48 | 2022-06-29 | 2022-07-28 |
 | [Hung Up](https://open.spotify.com/track/0EVn7OMlYXkjFqnJLJnqXm) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Hung Up](https://open.spotify.com/album/0KiGb5Nhmdm27eb88BZHnn) | 3:00 | 2024-01-10 | 2024-02-15 |

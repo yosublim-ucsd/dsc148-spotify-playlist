@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 41979,
+  "num_followers": 42880,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 124921,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Te Recorde",
@@ -1323,22 +1339,6 @@
       "duration_ms": 167640,
       "name": "Te Recorde",
       "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 124921,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1433,26 +1433,6 @@
       "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Una Copa M\u00e1s",
-        "url": "https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "LVGA",
-          "url": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Una Copa M\u00e1s",
-      "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Bim Boom Bam",
@@ -1487,6 +1467,26 @@
       "duration_ms": 195121,
       "name": "Bullerengue",
       "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Una Copa M\u00e1s",
+        "url": "https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "LVGA",
+          "url": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Una Copa M\u00e1s",
+      "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1635,6 +1635,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+        "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
+      },
+      "artists": [
+        {
+          "name": "Daveartt",
+          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+      "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
       },
@@ -1659,30 +1683,6 @@
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
-        "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
-      },
-      "artists": [
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        },
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
-      "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1857,6 +1857,26 @@
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Morry",
+          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
+        }
+      ],
+      "duration_ms": 120120,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Que Pasa",
@@ -1915,26 +1935,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Jaleo",
-        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
-      },
-      "artists": [
-        {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Te Marchar",
         "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
       },
@@ -1951,26 +1951,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Corazon",
-        "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
+        "name": "Jaleo",
+        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
       "artists": [
         {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
         },
         {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Vikina",
-          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
+      "duration_ms": 187500,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
     },
     {
       "added_at": "2024-04-19 04:00:00",

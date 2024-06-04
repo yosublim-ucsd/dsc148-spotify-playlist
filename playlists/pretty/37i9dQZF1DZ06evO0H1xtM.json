@@ -1,12 +1,12 @@
 {
-  "description": "This Is Grupo Marca Registrada. Los temas esenciales, todos en una lista.",
-  "num_followers": 279469,
+  "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
+  "num_followers": 279732,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAADifSCwNufPjasXNTZbBm4M",
+  "snapshot_id": "Zlu2AAAAAABr6RVgnN1S/sPWLxEKiFUT",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empat\u00eda",
-        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 244219,
-      "name": "Empat\u00eda",
-      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 235328,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empat\u00eda",
+        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 244219,
+      "name": "Empat\u00eda",
+      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Subiendo De Nivel",
+        "url": "https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 110784,
+      "name": "Tu No Eres Lo Que Quer\u00eda",
+      "url": "https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 179080,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Subiendo De Nivel",
-        "url": "https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 110784,
-      "name": "Tu No Eres Lo Que Quer\u00eda",
-      "url": "https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 195608,
+      "name": "La Sand\u00eda",
+      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
@@ -803,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mismo De La Vida Ruina",
-        "url": "https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 199296,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/1KDAP13YogPGAxOZOwsNuU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -839,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/1KDAP13YogPGAxOZOwsNuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
       },
@@ -851,42 +871,6 @@
       "duration_ms": 190720,
       "name": "El Ni\u00f1o",
       "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 195608,
-      "name": "La Sand\u00eda",
-      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mismo De La Vida Ruina",
-        "url": "https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170179,
-      "name": "Linda Sonrisita",
-      "url": "https://open.spotify.com/track/4oIwVkJYPC0Ndu2pDUgnqa"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 148624,
       "name": "Sin Rencores",
       "url": "https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170179,
+      "name": "Linda Sonrisita",
+      "url": "https://open.spotify.com/track/4oIwVkJYPC0Ndu2pDUgnqa"
     },
     {
       "added_at": null,

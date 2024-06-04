@@ -2,7 +2,7 @@
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This is Joe Bonamassa\. The essential tracks, all in one playlist.
+> This is Joe Bonamassa\. Todos os maiores hits em uma só playlist.
 
 141 songs - 12 hr 24 min
 
@@ -55,7 +55,7 @@
 | [I Didn't Think She Would Do It](https://open.spotify.com/track/31IKRDeDYzxe0pgHJtN5Mj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:11 | 2022-09-02 | 2022-09-10 |
 | [I Don't Live Any Where](https://open.spotify.com/track/1xFua1EOtJ7Xgtfl3HtDxI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:41 | 2023-06-24 | 2024-04-19 |
 | [I Got All You Need](https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 3:03 | 2023-05-09 |  |
-| [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 | 2022-08-07 |  |
+| [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 | 2022-08-07 | 2024-06-04 |
 | [I Want To Shout About It](https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:12 | 2023-11-10 |  |
 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 | 2023-05-20 | 2023-11-11 |
 | [I Won't Be Led Astray](https://open.spotify.com/track/4dhiXdTmpDy5gDaFElnUrv) | [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG), [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Mike Larson](https://open.spotify.com/artist/6mrMrYWO8ZfWiry8Obud1l) | [From the New World](https://open.spotify.com/album/0ySYs5Q9ATYf72SvoNGULZ) | 4:40 | 2022-10-12 | 2023-03-10 |
@@ -78,7 +78,7 @@
 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-13 | 2023-11-11 |
 | [Lazy Poker Blues](https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:17 | 2023-11-10 |  |
 | [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 | 2022-08-05 | 2023-02-18 |
-| [Like a Prayer](https://open.spotify.com/track/4fpSzZ1mXIc3Yg42KIlV4e) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Hunter](https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Like a Prayer](https://open.spotify.com/album/2x7O0SauXii2wEaV01VZx4) | 3:01 | 2023-07-24 | 2024-05-19 |
+| [Like a Prayer](https://open.spotify.com/track/4fpSzZ1mXIc3Yg42KIlV4e) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Hunter](https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Like a Prayer](https://open.spotify.com/album/2x7O0SauXii2wEaV01VZx4) | 3:01 | 2023-07-24 |  |
 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 | 2022-08-23 |  |
 | [Lookout Man!](https://open.spotify.com/track/3xyzXPlwWyniV1pBRCRNBE) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 5:31 | 2022-10-10 | 2022-10-12 |
 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 | 2022-08-05 | 2024-05-07 |

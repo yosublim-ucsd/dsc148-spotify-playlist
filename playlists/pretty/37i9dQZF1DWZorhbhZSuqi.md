@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > to the people who look at the stars and wish 🧚‍♀️ Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,520 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,536 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 61 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 62 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
 | 63 | [Almost Idyllic](https://open.spotify.com/track/7lq08zctLOESidAM58kjq6) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Many Beautiful Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02gOHdj3c67CUwXb4s9jzy) | 2:15 |
-| 64 | [Different This Time](https://open.spotify.com/track/4WFWh42DCkPCjcjqITk54S) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Lake Tear of the Clouds](https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW) | 3:53 |
-| 65 | [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 |
+| 64 | [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 |
+| 65 | [Different This Time](https://open.spotify.com/track/4WFWh42DCkPCjcjqITk54S) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Lake Tear of the Clouds](https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW) | 3:53 |
 | 66 | [Souvlaki Space Station](https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 5:57 |
 | 67 | [Music Under the Mountain](https://open.spotify.com/track/6XgsKSk9ez4vWUNjJ8Z4ty) | [Kelsey Woods](https://open.spotify.com/artist/0561irRxpOH0x1qJi6C80Y) | [Music Under the Mountain](https://open.spotify.com/album/0ZlUNNuBAM8wOpJU7OkIYZ) | 3:35 |
 | 68 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 | 69 | [Cornflower Blue](https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 3:08 |
 | 70 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:54 |
-| 71 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 |
-| 72 | [Ready Now](https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [MOOMINVALLEY \(Official Soundtrack\)](https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF) | 3:01 |
+| 71 | [Ready Now](https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [MOOMINVALLEY \(Official Soundtrack\)](https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF) | 3:01 |
+| 72 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 |
 | 73 | [Spring](https://open.spotify.com/track/3HjyXmT0PyqVFGHR97VnKu) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:23 |
 | 74 | [In Your Dreams](https://open.spotify.com/track/5TdDevaXlEl6EEaMNStiVk) | [Million Eyes](https://open.spotify.com/artist/2sXnk24vARe4jxHbd1HbEq) | [In the Wind](https://open.spotify.com/album/18mso9k7h5CuhwZjeJDaoW) | 1:48 |
 | 75 | [Airy\-Fairy Heart](https://open.spotify.com/track/6YYv6hemXnF3GCYtMv8Gkh) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Slow Day](https://open.spotify.com/album/0yNQyK4joAmwj8XNawKaQo) | 3:29 |

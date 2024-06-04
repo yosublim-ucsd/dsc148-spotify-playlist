@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,909 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,926 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 20 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 |
 | 21 | [Vivir Lo Nuestro](https://open.spotify.com/track/4UXdWLgdsdmkeOFABIGwZY) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [The Greatest Salsa Ever](https://open.spotify.com/album/6exx6nGkNvyAsyjLhvaXh5) | 6:07 |
 | 22 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 |
-| 23 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
-| 24 | [Cuatro Rosas](https://open.spotify.com/track/51Cv1Dpi7PBCj3DfiMt24E) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [¡Juepa Je!](https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4) | 4:35 |
+| 23 | [Cuatro Rosas](https://open.spotify.com/track/51Cv1Dpi7PBCj3DfiMt24E) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [¡Juepa Je!](https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4) | 4:35 |
+| 24 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
 | 25 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
 | 26 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 27 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 43 | [Volvere](https://open.spotify.com/track/1TpvuIgPGer8UBRMDx5Bmy) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 4:49 |
 | 44 | [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 |
 | 45 | [Cuando Quieras Quiero \- En Vivo](https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 5:11 |
-| 46 | [Quiéreme Siempre](https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Mosaicos Tropicales](https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C) | 2:59 |
-| 47 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
+| 46 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
+| 47 | [Quiéreme Siempre](https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Mosaicos Tropicales](https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C) | 2:59 |
 | 48 | [Banana](https://open.spotify.com/track/5c6iti6anvtf59SwSo1bUe) | [The Rebels](https://open.spotify.com/artist/5DHZNhnoDoZuzDQejFO7h6) | [Banana](https://open.spotify.com/album/4N6iE1vx2PCBTnTdTQxF6c) | 3:39 |
 | 49 | [Te Quiero Más](https://open.spotify.com/track/4jv993d0bzPqX5gCvanrPG) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [14 Cañonazos Bailables \(Vol\. 31\)](https://open.spotify.com/album/12zneuKO9yg7nUCK8kbee3) | 5:18 |
 | 50 | [Golpe Con Golpe](https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos Pastor López \(Vol\. 1\)](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 3:33 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 196110,
+  "num_followers": 196203,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAdX13RlUoYUWCIbNRWaLjf",
+  "snapshot_id": "Zlu2AAAAAACC26w+mVBoiS07ZtenLQo6",
   "tracks": [
     {
       "added_at": null,
@@ -208,7 +208,7 @@
       "added_at": null,
       "album": {
         "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+        "url": "https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 153128,
-      "name": "Call Your Friends",
-      "url": "https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z"
+      "duration_ms": 166578,
+      "name": "Boyz Don't Cry",
+      "url": "https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM"
     },
     {
       "added_at": null,
@@ -272,7 +272,7 @@
       "added_at": null,
       "album": {
         "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f"
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 166578,
-      "name": "Boyz Don't Cry",
-      "url": "https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM"
+      "duration_ms": 153128,
+      "name": "Call Your Friends",
+      "url": "https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z"
     },
     {
       "added_at": null,

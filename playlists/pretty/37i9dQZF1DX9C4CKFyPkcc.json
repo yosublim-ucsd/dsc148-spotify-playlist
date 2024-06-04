@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the holidays with this fresh mix of new and classic Christmas songs!",
-  "num_followers": 76470,
+  "num_followers": 76465,
   "original_name": "Merry & Bright",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Heart and Soul of Christmas",
-        "url": "https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Heart and Soul of Christmas",
-      "url": "https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Mothers and Shepherds",
         "url": "https://open.spotify.com/album/77JWRi1kkyaevA2CNdeNV4"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 302863,
       "name": "Mothers and Shepherds",
       "url": "https://open.spotify.com/track/6RDsKTlM7jafTzTz2RGELX"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Heart and Soul of Christmas",
+        "url": "https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Heart and Soul of Christmas",
+      "url": "https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1363,30 +1363,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo"
-      },
-      "artists": [
-        {
-          "name": "The Church Will Sing",
-          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
-        },
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        },
-        {
-          "name": "Eagle Brook Music",
-          "url": "https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI"
-        }
-      ],
-      "duration_ms": 227503,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/5AAx2hDyMApvJDags954xB"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/4hhjrH3pzthZEqDVnYgGiz"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 246526,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/0yiZFkTS3Lo9dAutRKs6s5"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo"
+      },
+      "artists": [
+        {
+          "name": "The Church Will Sing",
+          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
+        },
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        },
+        {
+          "name": "Eagle Brook Music",
+          "url": "https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI"
+        }
+      ],
+      "duration_ms": 227503,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/5AAx2hDyMApvJDags954xB"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
+        "name": "Shiny Toys",
+        "url": "https://open.spotify.com/album/6sD6x0sRKQYfPCbBSkLKvd"
+      },
+      "artists": [
+        {
+          "name": "Sharp Dialect",
+          "url": "https://open.spotify.com/artist/6hVzf5DdOgxvOkReGooSeJ"
+        },
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 209675,
+      "name": "Shiny Toys",
+      "url": "https://open.spotify.com/track/3WduC5HAB4eOfrIyD9O8Nv"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
         "name": "All Things New (Reimagined)",
         "url": "https://open.spotify.com/album/7ywhX9qqyfDb9ZUBx8JmoX"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 189053,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/4JXAww1nKt38s1Z4gFcYAS"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "Shiny Toys",
-        "url": "https://open.spotify.com/album/6sD6x0sRKQYfPCbBSkLKvd"
-      },
-      "artists": [
-        {
-          "name": "Sharp Dialect",
-          "url": "https://open.spotify.com/artist/6hVzf5DdOgxvOkReGooSeJ"
-        },
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 209675,
-      "name": "Shiny Toys",
-      "url": "https://open.spotify.com/track/3WduC5HAB4eOfrIyD9O8Nv"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Feels Like Christmas (Live)",
-        "url": "https://open.spotify.com/album/3zbwpgm0jj9SSiybjnzQzU"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 170398,
-      "name": "Everybody Knows - Live",
-      "url": "https://open.spotify.com/track/0Z7w4U1cX7QtpVhkoQG4Rs"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "What A Beautiful Night",
         "url": "https://open.spotify.com/album/0EeEx2laes67i5MaTKmvNf"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 230866,
       "name": "God Rest",
       "url": "https://open.spotify.com/track/0EEztnoPFhtd5SlfbS6qeJ"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Feels Like Christmas (Live)",
+        "url": "https://open.spotify.com/album/3zbwpgm0jj9SSiybjnzQzU"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 170398,
+      "name": "Everybody Knows - Live",
+      "url": "https://open.spotify.com/track/0Z7w4U1cX7QtpVhkoQG4Rs"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Silent Night, Lonely Night",
         "url": "https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 264335,
       "name": "Silent Night, Lonely Night",
       "url": "https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Christmas Hymns",
-        "url": "https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a"
-      },
-      "artists": [
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "Unto Us",
-      "url": "https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "It's Christmastime",
         "url": "https://open.spotify.com/album/5ERy83u8h7P6BppwtG0rCZ"
       },
@@ -2271,6 +2251,26 @@
       "duration_ms": 186276,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Christmas Hymns",
+        "url": "https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "Unto Us",
+      "url": "https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "The Advent of Christmas",
-        "url": "https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 198715,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Christmas Lights",
         "url": "https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck"
       },
@@ -2367,22 +2351,18 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP"
+        "name": "The Advent of Christmas",
+        "url": "https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg"
       },
       "artists": [
         {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        },
-        {
-          "name": "Hannah Ellis",
-          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3"
+      "duration_ms": 198715,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2439,6 +2419,42 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        },
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "duration_ms": 235100,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/43SZahMmMDXExJbnfORC60"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 129882,
       "name": "New Day",
       "url": "https://open.spotify.com/track/10vdFSasLRzlurCi1grRon"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
-      },
-      "artists": [
-        {
-          "name": "Mervin Mayo",
-          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
-        }
-      ],
-      "duration_ms": 235100,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Christmas - Live at Tyndale University",
         "url": "https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX"
       },
@@ -2547,18 +2531,18 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Forever Evergreen (Here in the Winter)",
-        "url": "https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf"
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Forever Evergreen (Here in the Winter)",
-      "url": "https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR"
+      "duration_ms": 149538,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2599,18 +2583,18 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "A Merry Lofi Christmas",
-        "url": "https://open.spotify.com/album/6POlo0xOimnxIz7gfQg0rX"
+        "name": "Forever Evergreen (Here in the Winter)",
+        "url": "https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 128250,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/63ZvE7HuKmw3Wb6Q7dM96u"
+      "duration_ms": 252640,
+      "name": "Forever Evergreen (Here in the Winter)",
+      "url": "https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2683,6 +2667,22 @@
       "duration_ms": 210586,
       "name": "This Is Christmas",
       "url": "https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/6POlo0xOimnxIz7gfQg0rX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 128250,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/63ZvE7HuKmw3Wb6Q7dM96u"
     },
     {
       "added_at": "2023-12-15 05:38:35",

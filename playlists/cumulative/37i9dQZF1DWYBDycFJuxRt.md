@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/328941?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/329104?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
 6,410 songs - 16 day 7 hr 52 min
 

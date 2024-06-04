@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 ### [My Hero Academia \-僕のヒーローアカデミア\-](https://open.spotify.com/playlist/37i9dQZF1DX9Uv7i7ODBAM)
 
-> Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
+> Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,292 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,436 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 59 | [ロングホープ・フィリア](https://open.spotify.com/track/0jBXv6ShqwNjHWLxMyqs0G) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [ロングホープ・フィリア](https://open.spotify.com/album/3MWlMWzg5ghUam6mxdmSv3) | 4:56 |
 | 60 | [戦闘許可!](https://open.spotify.com/track/6OmhUA5iVoSzbtCNLteTpa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:25 |
 
-Snapshot ID: `Zjd6dwAAAACnqRIzf72OaWFR+H/viRHK`
+Snapshot ID: `Zl3AKQAAAABG9BYkDnp+06dqu7uZFBCv`

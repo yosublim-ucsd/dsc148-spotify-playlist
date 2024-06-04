@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/328941?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/329104?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,217 likes - 91 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,234 likes - 91 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 90 | [アメリカンチェリー](https://open.spotify.com/track/6jvn8JTPKB8zUEkI7a1WIl) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [アメリカンチェリー](https://open.spotify.com/album/5dI8SHVmfGLoDUeSrQoYNe) | 5:37 |
 | 91 | [平気で](https://open.spotify.com/track/08NzUwbIYks4zcKWMO1dmQ) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [平気で](https://open.spotify.com/album/1l2XvGxvv8BwYXUTHJ49LV) | 2:22 |
 
-Snapshot ID: `Zla2RgAAAABuSDtF3xUWcMeLqfRRQt/g`
+Snapshot ID: `Zl0jPQAAAAA3dYfvxEzSXKG7wBp7ndoQ`

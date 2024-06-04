@@ -2,14 +2,14 @@
 
 ### [This Is Los Enanitos Verdes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ShMI0)
 
-> This Is Los Enanitos Verdes\. Los temas esenciales, todos en una lista.
+> This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amigos](https://open.spotify.com/track/5DR3IljhfLepLpWYjK1s6G) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 2:54 | 2022-10-26 |  |
-| [Amores Lejanos](https://open.spotify.com/track/11AnIo9kTnjhtD06y5Zd5O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 4:55 | 2022-10-26 | 2024-06-03 |
+| [Amores Lejanos](https://open.spotify.com/track/11AnIo9kTnjhtD06y5Zd5O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 4:55 | 2022-10-26 |  |
 | [Aun Sigo Cantando](https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Tracción Acústica](https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga) | 4:21 | 2022-10-26 |  |
 | [Bailarina](https://open.spotify.com/track/1RqkEHe0MHSIJQpuq5Sey1) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:26 | 2022-12-16 | 2023-01-06 |
 | [Buscando la Manera](https://open.spotify.com/track/0ZzgetEb8vvA5rruA9MPf4) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habia Una Vez](https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C) | 2:59 | 2023-10-10 |  |
@@ -49,7 +49,7 @@
 | [Mejor No Hablemos De Amor](https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:30 | 2022-10-26 |  |
 | [Mi Primer Dia Sin Ti](https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 4:28 | 2022-10-26 |  |
 | [Mil Horas \- En Vivo](https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:16 | 2022-10-26 |  |
-| [No Me Veras / Metro Balderas \- Medley](https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Tracción Acústica](https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga) | 4:32 | 2024-03-20 |  |
+| [No Me Veras / Metro Balderas \- Medley](https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Tracción Acústica](https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga) | 4:32 | 2024-03-20 | 2024-06-04 |
 | [No Me Verás](https://open.spotify.com/track/0ejL46eF26IFunBiRSIlmz) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Carrousel](https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT) | 3:50 | 2023-12-13 |  |
 | [No Me Verás](https://open.spotify.com/track/3AjM2wjIMGYrq3xTo0AzCP) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 3:50 | 2022-10-26 | 2023-12-14 |
 | [Pasos](https://open.spotify.com/track/0CoxfP3dOGKwg6ShNnRiNP) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 4:18 | 2022-10-28 | 2023-10-11 |

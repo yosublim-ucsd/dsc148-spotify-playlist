@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 277186,
       "name": "Blood Of The Elves",
       "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
@@ -8436,6 +8436,24 @@
       "duration_ms": 209162,
       "name": "Metal Division",
       "url": "https://open.spotify.com/track/6IHYWWmVyVXVk8b8rBYy9z"
+    },
+    {
+      "album": {
+        "name": "Metal Gods",
+        "url": "https://open.spotify.com/album/2hrqCYReiJDEU3Q6T5oMNR"
+      },
+      "artists": [
+        {
+          "name": "Dream Evil",
+          "url": "https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210877,
+      "name": "Metal Gods",
+      "url": "https://open.spotify.com/track/5HvXKqvNY52gHBHDSw4O2r"
     },
     {
       "album": {

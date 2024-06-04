@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
-  "num_followers": 51744,
+  "num_followers": 51798,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Best Time",
+        "url": "https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Filigrani",
         "url": "https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3"
       },
@@ -223,18 +239,18 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Best Time",
-        "url": "https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc"
+        "name": "THE HEIST",
+        "url": "https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W"
       },
       "artists": [
         {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za"
+      "duration_ms": 205000,
+      "name": "Jumbled",
+      "url": "https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -259,22 +275,6 @@
       "duration_ms": 177441,
       "name": "Table Talk",
       "url": "https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "THE HEIST",
-        "url": "https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W"
-      },
-      "artists": [
-        {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Jumbled",
-      "url": "https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn"
+      },
+      "artists": [
+        {
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Blue Notes",
+      "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 98173,
       "name": "Koma",
       "url": "https://open.spotify.com/track/58GkabYcH4AIf4Mb6IuyQL"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn"
-      },
-      "artists": [
-        {
-          "name": "Ajmw",
-          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Blue Notes",
-      "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Realm of Ideas",
-        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        },
-        {
-          "name": "Sandro S\u00e1ez",
-          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Minding My Business",
-      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Chime",
         "url": "https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW"
       },
@@ -1391,22 +1371,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Hypnagogia Wakefull Dreams",
-        "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
+        "name": "Realm of Ideas",
+        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
       },
       "artists": [
         {
-          "name": "HawkOne",
-          "url": "https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y"
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
         },
         {
-          "name": "Raz-One",
-          "url": "https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP"
+          "name": "Sandro S\u00e1ez",
+          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
         }
       ],
-      "duration_ms": 138795,
-      "name": "Hypnagogia Wakefull Dreams",
-      "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
+      "duration_ms": 225245,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1435,6 +1415,26 @@
       "duration_ms": 139451,
       "name": "The Banquet",
       "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Hypnagogia Wakefull Dreams",
+        "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
+      },
+      "artists": [
+        {
+          "name": "HawkOne",
+          "url": "https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y"
+        },
+        {
+          "name": "Raz-One",
+          "url": "https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP"
+        }
+      ],
+      "duration_ms": 138795,
+      "name": "Hypnagogia Wakefull Dreams",
+      "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Wonderment",
+        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
+      },
+      "artists": [
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Wonderment",
+      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Tool Box",
         "url": "https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh"
       },
@@ -1503,18 +1519,30 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Wonderment",
-        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
+        "name": "The Betrayal",
+        "url": "https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ"
       },
       "artists": [
         {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+          "name": "Kit Downes",
+          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "James Maddren",
+          "url": "https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw"
+        },
+        {
+          "name": "ENEMY",
+          "url": "https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Wonderment",
-      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
+      "duration_ms": 117746,
+      "name": "Croydon Smash",
+      "url": "https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1567,34 +1595,6 @@
       "duration_ms": 128584,
       "name": "Amor De Oto\u00f1o",
       "url": "https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "The Betrayal",
-        "url": "https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ"
-      },
-      "artists": [
-        {
-          "name": "Kit Downes",
-          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        },
-        {
-          "name": "James Maddren",
-          "url": "https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw"
-        },
-        {
-          "name": "ENEMY",
-          "url": "https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC"
-        }
-      ],
-      "duration_ms": 117746,
-      "name": "Croydon Smash",
-      "url": "https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1691,6 +1691,34 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Byzantine",
+        "url": "https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        },
+        {
+          "name": "Protonebula",
+          "url": "https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun"
+        },
+        {
+          "name": "Glance",
+          "url": "https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M"
+        },
+        {
+          "name": "Heem",
+          "url": "https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Byzantine",
+      "url": "https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Palmers / King Cobra (Alfa Mist Remix, JSPHYNX Remix)",
         "url": "https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi"
       },
@@ -1727,34 +1755,6 @@
       "duration_ms": 181258,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Byzantine",
-        "url": "https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4"
-      },
-      "artists": [
-        {
-          "name": "eun",
-          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
-        },
-        {
-          "name": "Protonebula",
-          "url": "https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun"
-        },
-        {
-          "name": "Glance",
-          "url": "https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M"
-        },
-        {
-          "name": "Heem",
-          "url": "https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Byzantine",
-      "url": "https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1887,22 +1887,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Machete",
-        "url": "https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO"
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm"
       },
       "artists": [
         {
-          "name": "SamuW",
-          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
         },
         {
-          "name": "Mendeville",
-          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
         }
       ],
-      "duration_ms": 165606,
-      "name": "Machete",
-      "url": "https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb"
+      "duration_ms": 192000,
+      "name": "Stations",
+      "url": "https://open.spotify.com/track/2GGAVfkgf8ze2U7ckpHAYQ"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1923,22 +1923,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm"
+        "name": "Machete",
+        "url": "https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO"
       },
       "artists": [
         {
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
         },
         {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+          "name": "Mendeville",
+          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Stations",
-      "url": "https://open.spotify.com/track/2GGAVfkgf8ze2U7ckpHAYQ"
+      "duration_ms": 165606,
+      "name": "Machete",
+      "url": "https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb"
     },
     {
       "added_at": "2024-03-20 12:30:49",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
+  "description": "This Is Katy Perry. Los temas esenciales, todos en una lista.",
   "name": "This Is Katy Perry",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 181899,
       "name": "365",
       "url": "https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 237733,
       "name": "Chained To The Rhythm",
       "url": "https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 197840,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/60XMmxciP1qewvkcD16qKQ"
@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Firework",
+        "url": "https://open.spotify.com/album/2oKE3HhxPaI0EsUBajZHJg"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30232,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/2G6yyJJ1zElkVeGKSoRx8K"
+    },
+    {
+      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -580,7 +598,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 181906,
       "name": "Hackensack - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/5c9pa7wTZsRU3Mycb0daM6"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 176762,
       "name": "I Kissed A Girl - Rock Remix",
       "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 225039,
       "name": "Never Worn White",
       "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 231920,
       "name": "Peacock",
       "url": "https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 203474,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 202666,
       "name": "STARSTRUKK (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 182595,
       "name": "Teary Eyes",
       "url": "https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 204285,
       "name": "This Is How We Do",
       "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 228878,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"

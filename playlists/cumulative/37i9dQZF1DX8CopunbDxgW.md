@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Foster The People
 
-1,328 songs - 3 day 11 hr 32 min
+1,329 songs - 3 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [All You Can Do Is Try](https://open.spotify.com/track/56tw6lIIgthRkmjpKKDtmi) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [All You Can Do Is Try](https://open.spotify.com/album/667fumsb19emfmnwEEfuPp) | 3:11 | 2024-05-28 |  |
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 | 2023-08-26 |
 | [Always / Never](https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Always / Never](https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI) | 3:41 | 2023-10-20 | 2024-02-24 |
+| [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-06-03 |  |
 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 | 2023-10-20 | 2023-11-25 |
 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 | 2023-12-08 | 2024-02-17 |
 | [Amanhecer](https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Amanhecer](https://open.spotify.com/album/7aRUi6Gte0Sar15BpLnOBX) | 4:18 | 2023-09-01 | 2023-10-21 |
@@ -246,7 +247,7 @@
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-28 | 2022-12-13 |
 | [Contact High](https://open.spotify.com/track/4MwubKmGFxTUG8tyDik3Ux) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO), [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Contact High](https://open.spotify.com/album/0k4IKWG6ACOV5V1llFIafr) | 3:03 | 2024-05-31 |  |
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-10 | 2023-08-26 |
-| [Corporate Shakespeare](https://open.spotify.com/track/3axFIm02EBDRF2ktqRg9aR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Corporate Shakespeare](https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p) | 2:38 | 2024-05-10 |  |
+| [Corporate Shakespeare](https://open.spotify.com/track/3axFIm02EBDRF2ktqRg9aR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Corporate Shakespeare](https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p) | 2:38 | 2024-05-10 | 2024-06-04 |
 | [Corsica '80](https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Corsica '80](https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u) | 4:23 | 2021-08-27 | 2022-05-11 |
 | [Cortez](https://open.spotify.com/track/0fYgE2xkoAwFcD1H5u3meG) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Cortez](https://open.spotify.com/album/1K9MSzHcYvkZ2dLTiZdoqj) | 2:25 | 2024-04-05 |  |
 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 | 2024-03-01 | 2024-04-06 |

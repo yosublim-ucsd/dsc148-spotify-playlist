@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,994 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,030 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 35 | [Bora Chamegar](https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv), [João Beydoun](https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM) | [Revolvendo as Raizes](https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf) | 3:50 |
 | 36 | [Rouxinóis](https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Rouxinóis](https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W) | 3:10 |
 | 37 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
-| 38 | [Sol da Meia\-Noite](https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Sol da Meia\-Noite](https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7) | 3:29 |
-| 39 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
+| 38 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
+| 39 | [Sol da Meia\-Noite](https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Sol da Meia\-Noite](https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7) | 3:29 |
 | 40 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
-| 41 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
-| 42 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |
+| 41 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |
+| 42 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
 | 43 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 |
 | 44 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
 | 45 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 47 | [Sou Tão Eu](https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Sou Tão Eu](https://open.spotify.com/album/10MBQILKvvQw5dnoC2fI7x) | 3:23 |
 | 48 | [Se Joga](https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Se Joga](https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG) | 2:53 |
 | 49 | [Jah Bless](https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch) | [Gaiuna](https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d) | [Jah Bless](https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB) | 3:27 |
-| 50 | [O Amor Venceu](https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg) | [Luc DubWise](https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU) | [O Amor Venceu](https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl) | 3:07 |
-| 51 | [Confia Mais](https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Confia Mais](https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO) | 3:09 |
-| 52 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
-| 53 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
+| 50 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
+| 51 | [O Amor Venceu](https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg) | [Luc DubWise](https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU) | [O Amor Venceu](https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl) | 3:07 |
+| 52 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
+| 53 | [Confia Mais](https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Confia Mais](https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO) | 3:09 |
 | 54 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 |
 | 55 | [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 |
 | 56 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |

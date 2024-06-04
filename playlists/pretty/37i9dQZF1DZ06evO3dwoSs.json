@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 539969,
+  "num_followers": 540095,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAACwsXzHZJpDbO10VJHWAl43",
+  "snapshot_id": "Zlu2AAAAAADV5PDgrMpAxt21f+rxuA+t",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Remember Everything",
+      "url": "https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 209703,
       "name": "Sham Pain",
       "url": "https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Remember Everything",
-      "url": "https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AfterLife (Deluxe)",
-        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 202894,
-      "name": "Blood And Tar",
-      "url": "https://open.spotify.com/track/0u4GNHMmANV4S7WnnE8RH7"
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
+        "name": "AfterLife (Deluxe)",
+        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 223766,
-      "name": "Battle Born",
-      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
+      "duration_ms": 202894,
+      "name": "Blood And Tar",
+      "url": "https://open.spotify.com/track/0u4GNHMmANV4S7WnnE8RH7"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
       "duration_ms": 209373,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AfterLife (Deluxe)",
-        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Gold Gutter",
-      "url": "https://open.spotify.com/track/4htulOVhleVt2R0Avcdvdp"
     },
     {
       "added_at": null,
@@ -707,6 +691,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "AfterLife (Deluxe)",
+        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Gold Gutter",
+      "url": "https://open.spotify.com/track/4htulOVhleVt2R0Avcdvdp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 227699,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5h5S51CceDgRpWE4Ri1YJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2dlgumgcNCRafhgZQyDCzH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
       },
@@ -719,22 +751,6 @@
       "duration_ms": 245951,
       "name": "M.I.N.E (End This Way)",
       "url": "https://open.spotify.com/track/4kn8ZK9aWTfZDdPMIExcD8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 227699,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/6sPNYpAVqMuGd5OzyhLlP8"
     },
     {
       "added_at": null,
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 222626,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2dlgumgcNCRafhgZQyDCzH"
+      "duration_ms": 203786,
+      "name": "No One Gets Left Behind",
+      "url": "https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 195090,
       "name": "Dot Your Eyes",
       "url": "https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Is the Answer",
-        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "No One Gets Left Behind",
-      "url": "https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm"
     }
   ],
   "unique_name": "This Is Five Finger Death Punch",

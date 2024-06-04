@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nuestros amados 90 los recordamos as\u00ed!",
-  "num_followers": 1044285,
+  "num_followers": 1044321,
   "original_name": "Los 90 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 212746,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Laura Pausini - Spanish Version",
         "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 280666,
       "name": "Se fu\u00e9",
       "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Amarte Es Un Placer",
-        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Amarte es un placer",
-      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Senderos De Traici\u00f3n",
         "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 236160,
       "name": "La Calle De Las Sirenas",
       "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Amarte es un placer",
+      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 323026,
-      "name": "Y, \u00bfSi fuera ella?",
-      "url": "https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Odio Amarte",
-      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Celebrando 25 A\u00f1os De Juan Gabriel En El Palacio De Bellas Artes",
         "url": "https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH"
       },
@@ -1051,6 +1019,22 @@
       "duration_ms": 444533,
       "name": "As\u00ed Fue - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
       "url": "https://open.spotify.com/track/6nOJ1EJYDa5QCI6RGBuozw"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 323026,
+      "name": "Y, \u00bfSi fuera ella?",
+      "url": "https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Odio Amarte",
+      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Bocanada",
         "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "La Profec\u00eda",
-        "url": "https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY"
-      },
-      "artists": [
-        {
-          "name": "Amistades Peligrosas",
-          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Me quedar\u00e9 solo",
-      "url": "https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Hits Of The 90s",
         "url": "https://open.spotify.com/album/5hiQZaZeGH7HWy2VjDwTcZ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 222626,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/6mhw2fEPH4fMF0wolNm96e"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "La Profec\u00eda",
+        "url": "https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY"
+      },
+      "artists": [
+        {
+          "name": "Amistades Peligrosas",
+          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Me quedar\u00e9 solo",
+      "url": "https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 217373,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/0wmYFlVkmGVUtfcY1r0SrP"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Tu Angel De La Guarda",
         "url": "https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 206600,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/0wmYFlVkmGVUtfcY1r0SrP"
     },
     {
       "added_at": "2021-09-07 14:13:23",

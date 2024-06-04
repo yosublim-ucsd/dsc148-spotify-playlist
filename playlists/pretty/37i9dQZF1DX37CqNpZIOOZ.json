@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 23071,
+  "num_followers": 23082,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
+      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
       },
@@ -719,30 +743,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
-      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Sinfonia Domestica; Macbeth (The Originals / Live)",
         "url": "https://open.spotify.com/album/6JEexXnUl1TsPNBVJqPi6r"
       },
@@ -763,62 +763,6 @@
       "duration_ms": 314533,
       "name": "Sinfonia Domestica, Op. 53, TrV 209: Bewegt - Sehr lebhaft - Ruhig - Live",
       "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "R. Strauss: Ariadne auf Naxos",
-        "url": "https://open.spotify.com/album/4x850YHmpioj4WsUwiaduE"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Deborah Voigt",
-          "url": "https://open.spotify.com/artist/6LgfX8guD4GnLU7wyfMn0X"
-        },
-        {
-          "name": "Eva Kirchner",
-          "url": "https://open.spotify.com/artist/3la0weCKNzLxqSQrSZv5Yc"
-        },
-        {
-          "name": "Natalie Dessay",
-          "url": "https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud"
-        },
-        {
-          "name": "Christiane Hossfeld",
-          "url": "https://open.spotify.com/artist/1vnikZbsrrZXEFQJuFkoNV"
-        },
-        {
-          "name": "Andris Liepa",
-          "url": "https://open.spotify.com/artist/4IUCqCanm5iGX0yMnZG3sp"
-        },
-        {
-          "name": "Stephan Genz",
-          "url": "https://open.spotify.com/artist/3EMeFfXFmFbV7VRNEdkzgj"
-        },
-        {
-          "name": "Ian Thompson",
-          "url": "https://open.spotify.com/artist/4FvLdia0vuKKspKqdAwhbx"
-        },
-        {
-          "name": "Sami Luttinen",
-          "url": "https://open.spotify.com/artist/3tDXy7GBay1VrfXPVypTuW"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 421200,
-      "name": "Ariadne auf Naxos, Op. 60 / Opera: Ein Sch\u00f6nes war: hiess Theseus - Ariadne",
-      "url": "https://open.spotify.com/track/4HFqlyxdEybDTBMTlR3ETW"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -875,6 +819,62 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss: Ariadne auf Naxos",
+        "url": "https://open.spotify.com/album/4x850YHmpioj4WsUwiaduE"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Deborah Voigt",
+          "url": "https://open.spotify.com/artist/6LgfX8guD4GnLU7wyfMn0X"
+        },
+        {
+          "name": "Eva Kirchner",
+          "url": "https://open.spotify.com/artist/3la0weCKNzLxqSQrSZv5Yc"
+        },
+        {
+          "name": "Natalie Dessay",
+          "url": "https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud"
+        },
+        {
+          "name": "Christiane Hossfeld",
+          "url": "https://open.spotify.com/artist/1vnikZbsrrZXEFQJuFkoNV"
+        },
+        {
+          "name": "Andris Liepa",
+          "url": "https://open.spotify.com/artist/4IUCqCanm5iGX0yMnZG3sp"
+        },
+        {
+          "name": "Stephan Genz",
+          "url": "https://open.spotify.com/artist/3EMeFfXFmFbV7VRNEdkzgj"
+        },
+        {
+          "name": "Ian Thompson",
+          "url": "https://open.spotify.com/artist/4FvLdia0vuKKspKqdAwhbx"
+        },
+        {
+          "name": "Sami Luttinen",
+          "url": "https://open.spotify.com/artist/3tDXy7GBay1VrfXPVypTuW"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 421200,
+      "name": "Ariadne auf Naxos, Op. 60 / Opera: Ein Sch\u00f6nes war: hiess Theseus - Ariadne",
+      "url": "https://open.spotify.com/track/4HFqlyxdEybDTBMTlR3ETW"
     },
     {
       "added_at": "2022-06-20 09:55:21",

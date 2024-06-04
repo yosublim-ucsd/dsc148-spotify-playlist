@@ -2,7 +2,7 @@
 
 ### [This Is Bob Marley & The Wailers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DHoaY)
 
-> This is Bob Marley & The Wailers\. Todos os maiores hits em uma só playlist.
+> This Is Bob Marley & The Wailers\. Todas as faixas essenciais numa única playlist.
 
 66 songs - 4 hr 17 min
 

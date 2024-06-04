@@ -1,12 +1,12 @@
 {
-  "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 472133,
+  "description": "This is Mumford & Sons. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 472198,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABG5UiZGQV67HdSDG2zQSAR",
+  "snapshot_id": "Zlu2AAAAAAB6RQW4jigVJrSiJfzjT77S",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 124520,
-      "name": "Reminder",
-      "url": "https://open.spotify.com/track/6XMJ0ESQ7LZLklgOPpbZJV"
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/6NUr2TMn5nsaerT4tuHpFb"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 314893,
-      "name": "Lover of the Light",
-      "url": "https://open.spotify.com/track/6NUr2TMn5nsaerT4tuHpFb"
+      "duration_ms": 124520,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/6XMJ0ESQ7LZLklgOPpbZJV"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 236883,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LoveBlood",
         "url": "https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 216013,
       "name": "The Brightest Lights",
       "url": "https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 190034,
-      "name": "Just Smoke",
-      "url": "https://open.spotify.com/track/7CDi9DHRDKyfLSgtDs9wex"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 190034,
+      "name": "Just Smoke",
+      "url": "https://open.spotify.com/track/7CDi9DHRDKyfLSgtDs9wex"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blind Leading The Blind",
         "url": "https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 224703,
       "name": "Blind Leading The Blind",
       "url": "https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 369301,
-      "name": "Someone Saved My Life Tonight",
-      "url": "https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
       "duration_ms": 376239,
       "name": "Delta",
       "url": "https://open.spotify.com/track/3Rtlsb4YUeAz1733sFt8eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 369301,
+      "name": "Someone Saved My Life Tonight",
+      "url": "https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3"
     },
     {
       "added_at": null,

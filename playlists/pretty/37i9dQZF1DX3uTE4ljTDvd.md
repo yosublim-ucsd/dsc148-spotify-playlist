@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,587 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,605 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 25 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 |
 | 26 | [Ágape \- Ao Vivo](https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Ágape \(Ao Vivo\)](https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru) | 9:33 |
 | 27 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 |
-| 28 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
-| 29 | [Mesmo Sem Entender](https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Mesmo Sem Entender](https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR) | 3:24 |
+| 28 | [Mesmo Sem Entender](https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Mesmo Sem Entender](https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR) | 3:24 |
+| 29 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
 | 30 | [Pra Que Eu Fosse Livre](https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH) | [Klev](https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC) | [Pra Que Eu Fosse Livre](https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ) | 4:48 |
 | 31 | [Quem é Esse?](https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT) | [Naara e Sarah](https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9) | [Quem é Esse?](https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL) | 5:19 |
 | 32 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |

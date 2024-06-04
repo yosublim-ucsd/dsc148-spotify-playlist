@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Trio Mio
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,451 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,454 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAAAlhJ+Fw99tWaRrULI8ULxf",
+  "snapshot_id": "Zlu2AAAAAACO986s7ssZ26WT4581oKBX",
   "tracks": [
     {
       "added_at": null,
@@ -64,6 +64,10 @@
       },
       "artists": [
         {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
@@ -72,9 +76,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 125746,
-      "name": "La vie en rose (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/6ZNktqtOKZe2her0frw4H3"
+      "duration_ms": 167253,
+      "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"
     },
     {
       "added_at": null,
@@ -344,8 +348,8 @@
       },
       "artists": [
         {
-          "name": "Johann Mattheson",
-          "url": "https://open.spotify.com/artist/0YuQmKNAObna6VBbIpp1VY"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
           "name": "Clara Rockmore",
@@ -356,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 127720,
-      "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2yQgxybv78OmXgcHxttdDp"
+      "duration_ms": 294893,
+      "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/5VwIJShgYEzxbZGPaDx9Uk"
     },
     {
       "added_at": null,
@@ -380,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 504080,
-      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
-      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
+      "duration_ms": 395320,
+      "name": "Sonata for violin and piano: Allegretto poco mosso",
+      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
     },
     {
       "added_at": null,
@@ -436,53 +440,21 @@
       },
       "artists": [
         {
-          "name": "Anis Fuleihan",
-          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
         {
-          "name": "Dorothy Lawson",
-          "url": "https://open.spotify.com/artist/3XYSA01q5jP99FV0thEsaS"
-        },
-        {
-          "name": "Robert Burkhardt",
-          "url": "https://open.spotify.com/artist/3SieHSJXe7iWLeUSCJCRAn"
-        },
-        {
-          "name": "Mairi Dorman-Phaneuf",
-          "url": "https://open.spotify.com/artist/5MZaqG2UzmhU8S03XEGiSR"
-        },
-        {
-          "name": "Sara Hewitt-Roth",
-          "url": "https://open.spotify.com/artist/4rQ2872nxXeNwm2sGKeMd6"
-        },
-        {
-          "name": "Ludmila Konstantinova",
-          "url": "https://open.spotify.com/artist/2HBmg1eTqBjgewnSGXmNxP"
-        },
-        {
-          "name": "Jessie Reagen",
-          "url": "https://open.spotify.com/artist/0shhbqrr62wgYbSnkkwN17"
-        },
-        {
-          "name": "Peter Sachon",
-          "url": "https://open.spotify.com/artist/2J5Gm1f9pkYSizG49vzjge"
-        },
-        {
-          "name": "Caroline Stinson",
-          "url": "https://open.spotify.com/artist/123M48kw4UoLoLKpcqIKTa"
-        },
-        {
           "name": "Nadia Reisenberg",
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 242960,
-      "name": "Pastorale (Arr. for Theremin, Piano & Cello Ensemble)",
-      "url": "https://open.spotify.com/track/2aGCyYGpPlHrn0ydGqDZgz"
+      "duration_ms": 335266,
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/3krMUmuI784j9G2IDIZ9wc"
     },
     {
       "added_at": null,
@@ -504,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 395320,
-      "name": "Sonata for violin and piano: Allegretto poco mosso",
-      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
+      "duration_ms": 504080,
+      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
+      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
     },
     {
       "added_at": null,
@@ -560,8 +532,8 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
           "name": "Clara Rockmore",
@@ -572,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 335266,
-      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/3krMUmuI784j9G2IDIZ9wc"
+      "duration_ms": 207960,
+      "name": "8 Humoresques, Op. 101, B. 187: No. 7, Poco lento e grazioso (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/6spFjPhXZZtJMunWpzcM3A"
     },
     {
       "added_at": null,
@@ -628,13 +600,17 @@
       },
       "artists": [
         {
+          "name": "Anis Fuleihan",
+          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+        },
+        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
+      "duration_ms": 264280,
+      "name": "Theremin Concerto: Pastorale",
+      "url": "https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E"
     },
     {
       "added_at": null,
@@ -672,50 +648,6 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Anis Fuleihan",
-          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Theremin Concerto: Pastorale",
-      "url": "https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
           "name": "\u00c9douard Lalo",
           "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
         },
@@ -731,6 +663,22 @@
       "duration_ms": 392533,
       "name": "Symphonie Espagnole: Andante",
       "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 62013,
+      "name": "Concluding Announcements",
+      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,
@@ -755,6 +703,30 @@
       "duration_ms": 401813,
       "name": "Sonata for violin and piano in A major: Allegretto ben moderato",
       "url": "https://open.spotify.com/track/4wznvZut2lTTZwOjG6jJo6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

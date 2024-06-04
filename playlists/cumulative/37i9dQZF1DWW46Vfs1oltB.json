@@ -21733,6 +21733,28 @@
     },
     {
       "album": {
+        "name": "Maze Runner",
+        "url": "https://open.spotify.com/album/4Edmv0p9T9gGhv9BI4v7e5"
+      },
+      "artists": [
+        {
+          "name": "Chillin Homie",
+          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97637,
+      "name": "Sink or Swim feat. HAON",
+      "url": "https://open.spotify.com/track/3xJynlvLCtRFGHUi82WzQk"
+    },
+    {
+      "album": {
         "name": "angel",
         "url": "https://open.spotify.com/album/5DxGRsBdRlbyWoEWvrYQ5P"
       },
@@ -26950,6 +26972,32 @@
       "duration_ms": 179433,
       "name": "Wish I Was Cappin (feat. oygli)",
       "url": "https://open.spotify.com/track/57nnZaaaBycx0Z3VyCarKI"
+    },
+    {
+      "album": {
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/7dzTBFMmTNznAHauLQrtoN"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253506,
+      "name": "Wish You Bad (Feat. Gist, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2v4ZCNoX2C1o8evxgLu51U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 215 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 215 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 26 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
 | 27 | [Combat](https://open.spotify.com/track/6pHIEG8q0I4jCuUVHC3s3m) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 3:48 |
 | 28 | [ZaZa and Some Runtz \(Smoke Break\)](https://open.spotify.com/track/2gy4zjdL4S1nfuq2sVjz6e) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Zaza and Some Runtz \(Smoke Break\)](https://open.spotify.com/album/0NZqrTCRCx9yxtCJx99z2e) | 3:19 |
-| 29 | [See Me](https://open.spotify.com/track/2Tv7pZ9R4gJH0yW1VztyTB) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 4:32 |
-| 30 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 29 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 30 | [See Me](https://open.spotify.com/track/2Tv7pZ9R4gJH0yW1VztyTB) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 4:32 |
 | 31 | [Warm in These Blue Jeans](https://open.spotify.com/track/3Gs1GKlY3g9Z3ufw0suxZH) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 5:29 |
 | 32 | [Nothing Works](https://open.spotify.com/track/0AdQEPTVO8F7QAu1eDIpll) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 4:12 |
 | 33 | [How Far](https://open.spotify.com/track/1NLjz5EHlw7CP2hJIXuZbm) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:55 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 93 | [Solar Laws](https://open.spotify.com/track/7BEdiZEtJXLLSB67poYnc6) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Solar Laws](https://open.spotify.com/album/5PiqqtRN16GSnGpM1qGw2b) | 4:45 |
 | 94 | [Can't Be Sure](https://open.spotify.com/track/353dPA2LDj3UuiR0HwG4Vh) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 2:26 |
 | 95 | [let me breathe](https://open.spotify.com/track/6LuzSmPOOdA49bNE12ZTNo) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 3:05 |
-| 96 | [Crawl](https://open.spotify.com/track/4jUFvCdgvj1pK9czqhQpPJ) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 2:56 |
-| 97 | [Swimming](https://open.spotify.com/track/2yMxR5cpkZ9StrP79br3tN) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:01 |
+| 96 | [Swimming](https://open.spotify.com/track/2yMxR5cpkZ9StrP79br3tN) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:01 |
+| 97 | [Crawl](https://open.spotify.com/track/4jUFvCdgvj1pK9czqhQpPJ) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 2:56 |
 | 98 | [Wake](https://open.spotify.com/track/0WocP8mKnV2m0oqSmzdRnx) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:15 |
 | 99 | [Like Flowers](https://open.spotify.com/track/1SraEfccIhpiLKrako6kQH) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:52 |
 | 100 | [da da song](https://open.spotify.com/track/16mD3IRGIa9xxoow3iOTAO) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 3:23 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 214 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 215 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbTA1AAAAAB+StZWdoilB1idYhSoJQ8V`
+Snapshot ID: `AbTGfQAAAABhjwL448jdPvP/2UyvAl0j`

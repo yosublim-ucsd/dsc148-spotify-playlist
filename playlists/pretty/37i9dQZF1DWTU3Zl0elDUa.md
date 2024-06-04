@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,911 likes - 60 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,104 likes - 60 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 55 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
 | 56 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 |
 | 57 | [Doctorin' the House \(feat\. Yazz & The Plastic Population\)](https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Yazz & The Plastic Population](https://open.spotify.com/artist/1iGa7B3SPZFAOKiEzZWnbi) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:46 |
-| 58 | [Make It On My Own \- 12" Club Mix](https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Steve Anderson](https://open.spotify.com/artist/1w2vC8mujXXoXYTVRxJybN) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 7:04 |
-| 59 | [Weekend](https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Greatest Hits](https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW) | 5:42 |
+| 58 | [Weekend](https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Greatest Hits](https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW) | 5:42 |
+| 59 | [Make It On My Own \- 12" Club Mix](https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Steve Anderson](https://open.spotify.com/artist/1w2vC8mujXXoXYTVRxJybN) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 7:04 |
 | 60 | [Was That All It Was \- Def Mix Edit 2](https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g) | [Kym Mazelle](https://open.spotify.com/artist/7CgweQAq49HmeMQaxzyuXC) | [Brilliant!!](https://open.spotify.com/album/16GqsaJujQk5DxtPVh8NWh) | 5:39 |
 
 Snapshot ID: `ZhgkyQAAAACcuAwugE7S4s8e9VadGAnh`

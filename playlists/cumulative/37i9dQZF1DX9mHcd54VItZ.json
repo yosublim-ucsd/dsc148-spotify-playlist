@@ -3967,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Jonk & Danig",
+        "url": "https://open.spotify.com/album/74SaMFCbSWIPm3Y5CIOUAp"
+      },
+      "artists": [
+        {
+          "name": "Vivien Redelinghuys",
+          "url": "https://open.spotify.com/artist/2rd9K2tLcdJwW0Ub1UEiES"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Jonk & Danig",
+      "url": "https://open.spotify.com/track/1rsjh2em6b9KD4wgJV2sTw"
+    },
+    {
+      "album": {
         "name": "Jou Skoene",
         "url": "https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG"
       },
@@ -8506,7 +8524,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 277500,
       "name": "Wicked Wonder - Remastered",
       "url": "https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W"

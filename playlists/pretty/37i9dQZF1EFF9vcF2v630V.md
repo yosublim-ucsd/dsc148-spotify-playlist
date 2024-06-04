@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 59 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
 | 60 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
 | 61 | [Goodbye](https://open.spotify.com/track/3hyhiK6GT3I5e2pJBOT2yc) | [Riza Santos](https://open.spotify.com/artist/59Te7oL1Jq1iafbEiYIjdF) | [Goodbye](https://open.spotify.com/album/5Ot1evmXCckrToeHdqslPG) | 3:35 |
-| 62 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
-| 63 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 64 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
+| 62 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
+| 63 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
+| 64 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 65 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 | 66 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
 | 67 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 71 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 72 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `AbTAogAAAAAXZwA0l3sf7WLHITt2KB6T`
+Snapshot ID: `AbTGgAAAAAA0npcM2Lm81H46GKrMp+Bj`

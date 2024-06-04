@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 15 min
+102 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ay Amigo \(En Vivo\)](https://open.spotify.com/track/3KeK6yOzzaJS9Mi0Bj9hxw) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [Yakifest, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5HzuEx7noOD6D71uw7WoBk) | 2:17 | 2022-10-12 |  |
 | [Belicotas](https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Flako](https://open.spotify.com/artist/4f0yl2dlo5At1ZsqkepjOS), [El Ca$h](https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5), [Mc Window](https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU), [Atirus](https://open.spotify.com/artist/5mUGcYc3GorwZ8k1dfvsTV) | [Belicotas](https://open.spotify.com/album/6A8vjQalHzuquuXeRVOkUu) | 3:30 | 2024-06-03 |  |
 | [Comandante Tanque](https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Comandante Tanque](https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX) | 3:26 | 2022-06-27 |  |
+| [Conmigo Ya No Cuentas](https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:43 | 2024-06-04 |  |
 | [Contra Mis Principios](https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:46 | 2022-06-01 | 2023-11-11 |
 | [Contra Mis Principios \- Bonus Track](https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:46 | 2023-11-10 |  |
 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 | 2024-01-28 |  |
@@ -66,7 +67,7 @@
 | [Estas Ganas de Tomar](https://open.spotify.com/track/7bEvMxjakpTmanjdG4B64e) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Estas Ganas de Tomar](https://open.spotify.com/album/3BrEdup9BnOWYKPYsrNdrM) | 2:35 | 2022-06-01 | 2023-12-14 |
 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 | 2022-10-04 |  |
 | [Estrenando Amante](https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Estrenando Amante](https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw) | 2:48 | 2022-06-01 |  |
-| [Francia](https://open.spotify.com/track/6f40tXp3mcTpSbZAs4vs8b) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 | 2024-06-03 |  |
+| [Francia](https://open.spotify.com/track/6f40tXp3mcTpSbZAs4vs8b) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 | 2024-06-03 | 2024-06-04 |
 | [Gente del General](https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 2:45 | 2022-06-01 |  |
 | [Hierba de Receta](https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Hierba de Receta](https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g) | 3:13 | 2022-06-01 |  |
 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 | 2022-09-05 |  |

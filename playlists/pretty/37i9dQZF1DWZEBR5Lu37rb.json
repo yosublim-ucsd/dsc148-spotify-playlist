@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 62302,
+  "num_followers": 62393,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Imizwa",
-        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
-      },
-      "artists": [
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
-        }
-      ],
-      "duration_ms": 260488,
-      "name": "Eyami",
-      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Kwela",
         "url": "https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 242613,
       "name": "Emlanjeni",
       "url": "https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Imizwa",
+        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "duration_ms": 260488,
+      "name": "Eyami",
+      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Rose Gold",
+        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Suited",
+      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 244062,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Rose Gold",
-        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Suited",
-      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+      },
+      "artists": [
+        {
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
         "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
-      },
-      "artists": [
-        {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 320012,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
-      },
-      "artists": [
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 320012,
-      "name": "Olufunmi",
-      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1407,26 +1407,6 @@
       "duration_ms": 262184,
       "name": "Sasa Hivi [Stripped Down]",
       "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1519,22 +1499,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Angel Of Mine",
-      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Nkwagala",
         "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
       },
@@ -1547,6 +1511,42 @@
       "duration_ms": 190122,
       "name": "Nkwagala",
       "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Angel Of Mine",
+      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "In The Building",
-        "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
-      },
-      "artists": [
-        {
-          "name": "Hillzy",
-          "url": "https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "Chargie",
-      "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Zaneliza: How the Water Moves",
         "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "In The Building",
+        "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
+      },
+      "artists": [
+        {
+          "name": "Hillzy",
+          "url": "https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "Chargie",
+      "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 534451,
+  "num_followers": 534632,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Se Fue Viral",
         "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 180213,
       "name": "Se Fue Viral",
       "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Grupo Play (La poes\u00eda musical)",
         "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Amigos Con Derecho",
+      "url": "https://open.spotify.com/track/1jjQ1k1jvxdXUaxoK75RV8"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -1255,6 +1271,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1271,38 +1303,6 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Amigos Con Derecho",
-      "url": "https://open.spotify.com/track/1jjQ1k1jvxdXUaxoK75RV8"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "La Diosa - Los 20 \u00c9xitos M\u00e1s Pedidos",
+        "url": "https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 143813,
+      "name": "Te Perdon\u00e9 Tantas Veces",
+      "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "La Diosa - Los 20 \u00c9xitos M\u00e1s Pedidos",
-        "url": "https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 143813,
-      "name": "Te Perdon\u00e9 Tantas Veces",
-      "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "10 A\u00f1os",
         "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
       },
@@ -1459,6 +1443,38 @@
       "duration_ms": 178893,
       "name": "Esa Te Dej\u00f3",
       "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Tengo la Primicia",
+      "url": "https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 195644,
-      "name": "Y Dime",
-      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
       "artists": [
         {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 178453,
-      "name": "Tengo la Primicia",
-      "url": "https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj"
+      "duration_ms": 195644,
+      "name": "Y Dime",
+      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Pega la Vuelta",
+      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Pega la Vuelta",
-      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
     }
   ],
   "unique_name": "Asadito Cumbiero",

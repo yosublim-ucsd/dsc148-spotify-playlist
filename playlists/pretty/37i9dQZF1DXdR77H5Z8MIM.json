@@ -1,6 +1,6 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: JEON SOMI",
-  "num_followers": 356871,
+  "num_followers": 356921,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
-        "name": "Candy - Winter Special Mini Album",
-        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
     },
     {
       "added_at": "2024-01-17 03:29:18",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
       },
       "artists": [
         {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 209648,
-      "name": "LOVE SCENARIO",
-      "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
+      "duration_ms": 217066,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
     },
     {
       "added_at": "2024-01-17 03:29:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 191139,
-      "name": "Red Flavor",
-      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
-    },
-    {
-      "added_at": "2024-01-17 03:29:18",
-      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "added_at": "2024-01-17 03:29:18",
+      "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 191139,
+      "name": "Red Flavor",
+      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
     }
   ],
   "unique_name": "Nolja!",

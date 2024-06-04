@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,399 songs - 8 day 0 hr 36 min
+3,401 songs - 8 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [CROWN](https://open.spotify.com/track/6A1KNyM5iL3jE73vNcoLMC) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/7zWWVQna0sWAmjAqJ3e1Py) | 2:55 | 2020-08-20 | 2021-07-12 |
 | [CROWN](https://open.spotify.com/track/7yewACUEo8jX7oLhSaNzBs) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:55 | 2021-11-18 | 2023-08-28 |
 | [Crown](https://open.spotify.com/track/1ZoawgJtFqpqbVHKPbaBVC) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Rey Khan](https://open.spotify.com/artist/6hWkOdX0jU4HLoPeYRGBRS) | [MINDCATION](https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc) | 2:57 | 2023-06-27 | 2023-07-18 |
+| [Crown Her](https://open.spotify.com/track/6kltsZ38VH3ibd66BPHAiM) | [Ronya\-Lee and the Light Factory](https://open.spotify.com/artist/0pLwaeX2aRq1OuUZyNnD2n) | [Crown Her](https://open.spotify.com/album/4mjVNudHZStXOh3Osi2IBP) | 3:34 | 2024-06-03 |  |
 | [Cruel](https://open.spotify.com/track/2MvMZKo9zA8E40Pzd3kYHw) | [Kay Milan](https://open.spotify.com/artist/1Dw4JCDWcMlzehg3RdUL0G) | [Cruel](https://open.spotify.com/album/1mqBrCJcQJ4kjXAxvFSaAH) | 2:49 | 2024-02-03 | 2024-02-15 |
 | [Cruel Erosion](https://open.spotify.com/track/4Os9pd2O2BggN62wQn0TQK) | [Only in the Mornings](https://open.spotify.com/artist/5HCwmkzMb29AE70hpCuNQJ) | [Cruel Erosion](https://open.spotify.com/album/2cshHtjdZgz3miuywlk4ao) | 4:04 | 2022-07-15 | 2022-07-31 |
 | [Cruel Summer](https://open.spotify.com/track/5m0b7wtbkbpUJstSPf6RN5) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Cruel Summer](https://open.spotify.com/album/0MZLHIyeBwd8zQ3MerA0kF) | 3:37 | 2023-05-12 | 2023-05-30 |
@@ -1456,7 +1457,7 @@
 | [If You Don’t Stop](https://open.spotify.com/track/6pGlOuU48t1YbGWHXkSmyJ) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [If You Don’t Stop](https://open.spotify.com/album/1Fmt4WS8VdYYXs9IN4qkCZ) | 2:48 | 2021-10-02 | 2021-10-20 |
 | [If You Double Frown](https://open.spotify.com/track/3r7qXhbEbEv8Oj05CV5RWJ) | [LR\-60 & Elmer's Clue](https://open.spotify.com/artist/3d8ynJqvpU9Bc8gnoljrdW) | [Schrage Musik](https://open.spotify.com/album/3ZGezLvcaPUZkEreYS568o) | 5:35 | 2022-03-04 | 2022-03-21 |
 | [If You Were In Love](https://open.spotify.com/track/6E6aBza1r2FCFGPOWW1QEr) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [If You Were In Love](https://open.spotify.com/album/4ouHn04bWIqi1Buzet89Gl) | 2:58 | 2024-04-06 | 2024-04-20 |
-| [If You Wouldn't Mind](https://open.spotify.com/track/4bQ2rphU2h0Zu3y5u5p75a) | [Bobby Henderson](https://open.spotify.com/artist/35rndiAWKhde9EZwT4WtHp) | [If You Wouldn't Mind](https://open.spotify.com/album/0U11RsfLDhiC3HgriDFJZ1) | 4:12 | 2024-05-22 |  |
+| [If You Wouldn't Mind](https://open.spotify.com/track/4bQ2rphU2h0Zu3y5u5p75a) | [Bobby Henderson](https://open.spotify.com/artist/35rndiAWKhde9EZwT4WtHp) | [If You Wouldn't Mind](https://open.spotify.com/album/0U11RsfLDhiC3HgriDFJZ1) | 4:12 | 2024-05-22 | 2024-06-04 |
 | [if your world Is gone](https://open.spotify.com/track/17SVwFgW10HnP2zsP29DCf) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [if your world Is gone](https://open.spotify.com/album/6MPkHIwXCwpWdV2MXXiPzH) | 3:53 | 2023-03-10 | 2023-04-03 |
 | [Ife](https://open.spotify.com/track/1oQwmzLhdjcbML34hSk7YN) | [Plumcy](https://open.spotify.com/artist/1XFEkMDfaQVu2QXA8tkzae), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Ife](https://open.spotify.com/album/6CbEPErbwuievOM91CwxKA) | 3:18 | 2023-02-01 | 2023-02-27 |
 | [Ignorance Is Violence \- Chillstep Remix](https://open.spotify.com/track/0gEzJdlhy6IEthBmwFAkK8) | [Sweet Imperfections](https://open.spotify.com/artist/4RH7O1zwO1weDIkFMfkc2g), [Bri Schillings](https://open.spotify.com/artist/36WTl6UkCEGZjegdsZNuUT), [Shawn Barry](https://open.spotify.com/artist/3J70acjupuFZ8qeYZavOsL) | [Ignorance Is Violence \(Chillstep Remix\)](https://open.spotify.com/album/3lzSsm3pmS7ErNeTaHnAMI) | 4:04 | 2024-01-19 | 2024-01-31 |
@@ -2717,6 +2718,7 @@
 | [Starry Eyed](https://open.spotify.com/track/7zrODsbiWVMFuQWsSjgYQp) | [Band of Silver](https://open.spotify.com/artist/4AnulnIsdMeFSGN8FauJ8v) | [Starry Eyed](https://open.spotify.com/album/5VpDdbLf6y1jdd8rGU6swI) | 3:24 | 2021-07-10 | 2021-07-25 |
 | [Stars](https://open.spotify.com/track/0Y5todJ3IZUePS1nMqBAyC) | [2nd Brightest Object](https://open.spotify.com/artist/0aPb07sJWsxglm6mKBtu2Q) | [Stars](https://open.spotify.com/album/5K1uT2dCoaUoki69kPzKVP) | 3:04 | 2022-09-23 | 2022-10-09 |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2021-07-12 | 2021-11-19 |
+| [STAY](https://open.spotify.com/track/6d61fH9oadeDQ73Z9gCXeu) | [Mark Taiwo](https://open.spotify.com/artist/5fIZHbbeEMCrVXtxsDukW4) | [STAY](https://open.spotify.com/album/6y7cgDjbo071N1RwXiz67U) | 2:13 | 2024-06-03 |  |
 | [Stay](https://open.spotify.com/track/0S8SE1ekoiWah2p90IBthL) | [Nathaniel S Lewis](https://open.spotify.com/artist/7zthAN288og6czpQtwvZOM) | [Stay](https://open.spotify.com/album/3iWnSx9mx2ec4twqA29uRR) | 2:59 | 2020-11-13 | 2020-11-28 |
 | [Stay](https://open.spotify.com/track/77UBRobhha5C2WBH3qv2Yy) | [Shake Anderson](https://open.spotify.com/artist/6oVMiR1LZCq5oTrIn72uXu) | [Letters to Friends](https://open.spotify.com/album/5hPdZcSpqTPYEHxxLNNVNz) | 4:37 | 2022-09-28 | 2022-10-18 |
 | [Stay \(Don't Go\)](https://open.spotify.com/track/169PiLBShtr2W1JlRFhutw) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Stay \(Don't Go\)](https://open.spotify.com/album/6Y2zntNVo7jBr4LyJgO3OC) | 3:27 | 2020-09-13 | 2020-09-26 |
@@ -3354,7 +3356,7 @@
 | [You](https://open.spotify.com/track/4kQPMzQe2SFv5kXmOCv2FL) | [Cesc](https://open.spotify.com/artist/6JgIKVieCcwKpdx4LwnbR0) | [You](https://open.spotify.com/album/3XlidUhsWEkpNiLF0pMX2V) | 3:26 | 2021-12-17 | 2022-01-01 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-07-01 | 2021-07-12 |
 | [you](https://open.spotify.com/track/1nHO7lvw6kp1bOnILOnoyc) | [Robousto](https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0) | [you](https://open.spotify.com/album/4O2D3MIOgWWTgvEp8RmSm2) | 2:44 | 2023-05-12 | 2023-12-14 |
-| [You](https://open.spotify.com/track/4nvpENfupXQmHmK2KZ6ysR) | [ToTheBurrows](https://open.spotify.com/artist/24P28wc8Po2km5GzUmuDI5) | [You](https://open.spotify.com/album/4xEgs2tykcMSxXxtJAPeYo) | 3:47 | 2024-05-22 |  |
+| [You](https://open.spotify.com/track/4nvpENfupXQmHmK2KZ6ysR) | [ToTheBurrows](https://open.spotify.com/artist/24P28wc8Po2km5GzUmuDI5) | [You](https://open.spotify.com/album/4xEgs2tykcMSxXxtJAPeYo) | 3:47 | 2024-05-22 | 2024-06-04 |
 | [YOU](https://open.spotify.com/track/5rHxsdhtkLi6MJ6isEVkt5) | [U4iKK](https://open.spotify.com/artist/5vwXVLZFwoLEoSpbYETXDU) | [YOU](https://open.spotify.com/album/6KbqYVwwrqksfG4m9NMohc) | 3:37 | 2022-11-04 | 2022-11-27 |
 | [You & I](https://open.spotify.com/track/3OpDKm2qS44I6LFQS9Gxca) | [CRÜPO](https://open.spotify.com/artist/69mcyXS8jfoBEv8h6tXcHv), [NGHTIME!](https://open.spotify.com/artist/6rvAIasGNPgou3SL7ycYPA), [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [You & I](https://open.spotify.com/album/1PeIWoBcmQ5ZrvmspdKzwk) | 2:39 | 2024-05-11 | 2024-05-25 |
 | [You & I](https://open.spotify.com/track/5K1xsx2jnZTC6jbZLBBdYT) | [Ntsang](https://open.spotify.com/artist/5XUzrHUN20pd8xoS6ERgtg) | [For Lovers](https://open.spotify.com/album/31xk64WG6BxDZbkfc4u8Wr) | 3:24 | 2024-02-17 | 2024-02-25 |

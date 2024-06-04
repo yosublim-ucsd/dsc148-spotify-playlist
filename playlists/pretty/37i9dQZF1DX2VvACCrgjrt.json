@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house with Julian Jordan",
-  "num_followers": 444396,
+  "num_followers": 444420,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1337,26 +1337,6 @@
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Get It Now",
@@ -1375,6 +1355,26 @@
       "duration_ms": 168937,
       "name": "Get It Now",
       "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "CASH",
-        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CASH",
-      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 211696,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1803,18 +1803,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
+        "name": "No Competition",
+        "url": "https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "Conor Grant",
+          "url": "https://open.spotify.com/artist/6XnqmaX7HOSDoHZYQow9zt"
         }
       ],
-      "duration_ms": 126720,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
+      "duration_ms": 193258,
+      "name": "No Competition",
+      "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1837,20 +1841,20 @@
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Let's Rock",
-        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
       },
       "artists": [
         {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 209062,
-      "name": "Let's Rock",
-      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
+      "duration_ms": 126720,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1875,6 +1879,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Let's Rock",
+        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "No Competition",
-        "url": "https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p"
-      },
-      "artists": [
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        },
-        {
-          "name": "Conor Grant",
-          "url": "https://open.spotify.com/artist/6XnqmaX7HOSDoHZYQow9zt"
-        }
-      ],
-      "duration_ms": 193258,
-      "name": "No Competition",
-      "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2027,6 +2027,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Firestarter",
         "url": "https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA"
       },
@@ -2047,26 +2067,6 @@
       "duration_ms": 135937,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Hit It Back",
-        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Hit It Back",
-      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 195268,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "RESILIENCE",
         "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
       },
@@ -2219,6 +2199,26 @@
       "duration_ms": 212100,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/1KKSoZJYVNx9DCEOtgG8nP"
+        "name": "Dropping It",
+        "url": "https://open.spotify.com/album/20nnsOzwQZjWvppU820J5T"
       },
       "artists": [
         {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 151458,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/1rlSCPVYbtfi2t2dG5VFHU"
+      "duration_ms": 192755,
+      "name": "Dropping It",
+      "url": "https://open.spotify.com/track/0WheKDBrHJ1IYJbhMncC5M"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Jason Dhakal, Jess Connelly, LUSTBASS",
+  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: August Wahh",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 218536,
       "name": "4u",
       "url": "https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ"
@@ -488,6 +488,24 @@
       "duration_ms": 290875,
       "name": "BETTERMAN",
       "url": "https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq"
+    },
+    {
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/2TmYMVMKx4Ddkeqa7SahW8"
+      },
+      "artists": [
+        {
+          "name": "August Wahh",
+          "url": "https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146548,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0ZzK5ezcQCY5QYCa7zC7sR"
     },
     {
       "album": {
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 181230,
       "name": "Di Ngayon",
       "url": "https://open.spotify.com/track/1rdBXxtvJqH8PcM7v1CpjV"
@@ -1110,6 +1128,24 @@
       "duration_ms": 223000,
       "name": "Drunk Instead",
       "url": "https://open.spotify.com/track/1gdps8vCFs6MOk0pJTlf9j"
+    },
+    {
+      "album": {
+        "name": "Ever",
+        "url": "https://open.spotify.com/album/2kbBsgPXqNn82HUS3CV5XP"
+      },
+      "artists": [
+        {
+          "name": "Dani Zam",
+          "url": "https://open.spotify.com/artist/0bJM4Kl0INlyoFuQvAVjgq"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "ever",
+      "url": "https://open.spotify.com/track/4U7ADjYjMEpvzrjh2i3fho"
     },
     {
       "album": {
@@ -2240,7 +2276,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 179200,
       "name": "Lackin'",
       "url": "https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC"
@@ -3786,6 +3822,48 @@
       "duration_ms": 229759,
       "name": "SABLAY",
       "url": "https://open.spotify.com/track/2ch6UhuJXbSTIpFBZgsU66"
+    },
+    {
+      "album": {
+        "name": "LANAI",
+        "url": "https://open.spotify.com/album/5wOcfc6dDhsw1VcFeovOLN"
+      },
+      "artists": [
+        {
+          "name": "SV Squad",
+          "url": "https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP"
+        },
+        {
+          "name": "Allegra",
+          "url": "https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU"
+        },
+        {
+          "name": "Jake P",
+          "url": "https://open.spotify.com/artist/2ArnGMiSAJewUhl6wSYzKw"
+        },
+        {
+          "name": "KXLE",
+          "url": "https://open.spotify.com/artist/4fBrMkpNH1BKJzprol0cUg"
+        },
+        {
+          "name": "JSE",
+          "url": "https://open.spotify.com/artist/2o2dvdiHGlvwfvFxhlxSii"
+        },
+        {
+          "name": "SV3",
+          "url": "https://open.spotify.com/artist/5xt5G0G86DWjAoVW3zmY54"
+        },
+        {
+          "name": "MSTRYOVERSE",
+          "url": "https://open.spotify.com/artist/5UrbDafjmKdIIZirS8zM3I"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "SAGUTIN",
+      "url": "https://open.spotify.com/track/1rRrJj9BV4giRjuOJeQAIB"
     },
     {
       "album": {

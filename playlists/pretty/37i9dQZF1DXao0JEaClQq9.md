@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,615,825 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,615,799 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 69 | [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
 | 70 | [Opening Theme from The Pink Opaque](https://open.spotify.com/track/7MegJA4C6f2k7EF5CyR1Ds) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [I Saw The TV Glow \(Original Motion Picture Score\)](https://open.spotify.com/album/2lrjzHRTMnuEZO00d9JS72) | 1:42 |
 | 71 | [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 |
-| 72 | [Twin Flame](https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 4:22 |
-| 73 | [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 |
+| 72 | [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 |
+| 73 | [Twin Flame](https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 4:22 |
 | 74 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
 | 75 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 |
 

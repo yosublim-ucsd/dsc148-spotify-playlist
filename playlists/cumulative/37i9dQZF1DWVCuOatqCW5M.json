@@ -6745,6 +6745,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/4hELUw7XOdEoGOrYXLYeMo"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135957,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7Hq6EbF6WLnrKDdyLwZEcL"
+    },
+    {
+      "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/3Jul3ZMlbJJ5McOngWTbTU"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Montse",
-  "num_followers": 121898,
+  "num_followers": 121897,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 229740,
+      "name": "Pasos de Gigantes",
+      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "intento 2: pi\u00e9nsalo bien",
         "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         }
       ],
-      "duration_ms": 229740,
-      "name": "Pasos de Gigantes",
-      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1111,18 +1127,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+        "name": "CIELO",
+        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+      "duration_ms": 203636,
+      "name": "CIELO",
+      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1143,26 +1163,6 @@
       "duration_ms": 232173,
       "name": "Detonaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "CIELO",
-        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        },
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "CIELO",
-      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 165088,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -1507,6 +1487,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Peque\u00f1as Esperanzas",
         "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
       },
       "artists": [
         {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
         }
       ],
-      "duration_ms": 187105,
-      "name": "Salvaje y tierno",
-      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+      "duration_ms": 182692,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/2x12EMxzr5fuPmneswOubB"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3LtJle06939dZyl1r49hIY"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 238893,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4DE2J87tCFKgAP4dfjtLFU"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
-      },
-      "artists": [
-        {
-          "name": "Dodo",
-          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
-        }
-      ],
-      "duration_ms": 182692,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/2x12EMxzr5fuPmneswOubB"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 171883,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Nunca Estuvo en Ti el Litoral",
-        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Nunca Estuvo en Ti el Litoral",
-      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 247351,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Nunca Estuvo en Ti el Litoral",
+        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Nunca Estuvo en Ti el Litoral",
+      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
     }
   ],
   "unique_name": "Indie Chile",

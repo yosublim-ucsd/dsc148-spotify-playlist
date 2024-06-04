@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 
 > This is Liran' Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,766 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,780 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 30 | [Josefina](https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:02 |
 | 31 | [Sin Tu Latido](https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:14 |
 | 32 | [Piensa en Mi](https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:39 |
-| 33 | [El Tren](https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [El Diablo](https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP) | 3:55 |
-| 34 | [Mi Vida](https://open.spotify.com/track/5feROmYN9sejKGAXKOv2Uf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 3:51 |
+| 33 | [Mi Vida](https://open.spotify.com/track/5feROmYN9sejKGAXKOv2Uf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 3:51 |
+| 34 | [El Tren](https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [El Diablo](https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP) | 3:55 |
 | 35 | [Fúgate Conmigo](https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:18 |
-| 36 | [Mandar una Flor \- Remastered 2000](https://open.spotify.com/track/768gdK0kUekavH5CCqie9o) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 4:12 |
-| 37 | [No Todo Es Oro](https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Éxitos, Vol\. 2](https://open.spotify.com/album/5qhTvBl63Blw114264HUbn) | 4:22 |
+| 36 | [No Todo Es Oro](https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Éxitos, Vol\. 2](https://open.spotify.com/album/5qhTvBl63Blw114264HUbn) | 4:22 |
+| 37 | [Mandar una Flor \- Remastered 2000](https://open.spotify.com/track/768gdK0kUekavH5CCqie9o) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 4:12 |
 | 38 | [Un Adiós](https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:03 |
 | 39 | [Le Diré a las Estrellas](https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:48 |
 | 40 | [Tu Cariño](https://open.spotify.com/track/5UGbVlpbOP666CxjZ1ma5A) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 49 | [Tiempo Atrás](https://open.spotify.com/track/50rKIJTytRZaR1Ndyc9qj3) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:44 |
 | 50 | [Sueño Loco \- Remastered 2000](https://open.spotify.com/track/5U0XaYTkNC2NwFYvHiRca9) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 2:56 |
 
-Snapshot ID: `ZlpkgAAAAADOdGqSqbP3yXDBGZkSGdBg`
+Snapshot ID: `Zlu2AAAAAABj+hL/4r0UqNcadnCHl93a`

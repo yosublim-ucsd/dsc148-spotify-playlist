@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1296986,
+  "num_followers": 1297083,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "I Like To Party",
+        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "I Like To Party",
+      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "I Like To Party",
-        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "DJ Junior (TW)",
-          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "I Like To Party",
-      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "DAS IST KEIN TECHNO",
+        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 165003,
+      "name": "DAS IST KEIN TECHNO",
+      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Never Go To Sleep",
         "url": "https://open.spotify.com/album/00VujTlzhoi39Bijteh2LD"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "DAS IST KEIN TECHNO",
-        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "DAS IST KEIN TECHNO",
-      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "TECHNOBOTS",
-        "url": "https://open.spotify.com/album/0ZZ2LSFWHzMNSPAtNkBXAD"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 142463,
-      "name": "TECHNOBOTS",
-      "url": "https://open.spotify.com/track/1FpFPb1VH1ZXqT1xrhpeaS"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Because The Night",
         "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "TECHNOBOTS",
+        "url": "https://open.spotify.com/album/0ZZ2LSFWHzMNSPAtNkBXAD"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 142463,
+      "name": "TECHNOBOTS",
+      "url": "https://open.spotify.com/track/1FpFPb1VH1ZXqT1xrhpeaS"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Renaissance Of Rave",
-        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Trip To Mars (Astronauts)",
-      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/57EpV6zP8Zz4NymmFBKdFS"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Trip To Mars (Astronauts)",
+      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/0oatD5dZBP91DHu6bgtMnK"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 176212,
       "name": "Epic Sax Song",
       "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "Rave Culture 2022",
-        "url": "https://open.spotify.com/album/7eMRu6zbiy4TuYQRGrKl6o"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Rave Culture 2022",
-      "url": "https://open.spotify.com/track/3xeaR6dAHQHU6rtUPRK9tX"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "Rave Culture 2022",
+        "url": "https://open.spotify.com/album/7eMRu6zbiy4TuYQRGrKl6o"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Rave Culture 2022",
+      "url": "https://open.spotify.com/track/3xeaR6dAHQHU6rtUPRK9tX"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 158000,
       "name": "Project X",
       "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "Refuse To Speak",
-        "url": "https://open.spotify.com/album/2O7cKf95l1egp34bcl9d4L"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        },
-        {
-          "name": "Bryant Powell",
-          "url": "https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs"
-        }
-      ],
-      "duration_ms": 213713,
-      "name": "Refuse To Speak",
-      "url": "https://open.spotify.com/track/2mag3VWfGlpBA6YOdpTeV6"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1471,6 +1451,26 @@
       "duration_ms": 230738,
       "name": "FLYIN' HIGH",
       "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Refuse To Speak",
+        "url": "https://open.spotify.com/album/2O7cKf95l1egp34bcl9d4L"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Bryant Powell",
+          "url": "https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs"
+        }
+      ],
+      "duration_ms": 213713,
+      "name": "Refuse To Speak",
+      "url": "https://open.spotify.com/track/2mag3VWfGlpBA6YOdpTeV6"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
+        "name": "STAR WALKIN'",
+        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
       },
       "artists": [
         {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
         },
         {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+          "name": "NOTYPE",
+          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
         }
       ],
-      "duration_ms": 167294,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
+      "duration_ms": 184511,
+      "name": "STAR WALKIN'",
+      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 167294,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Maze Of Memories (Reverze Anthem 2024)",
         "url": "https://open.spotify.com/album/1DpRBARXbd4YtGbnuOD9NT"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 273273,
       "name": "Maze Of Memories - Reverze Anthem 2024",
       "url": "https://open.spotify.com/track/7hG04m8ODWqF5abbbX74ge"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "STAR WALKIN'",
-        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "NOTYPE",
-          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "STAR WALKIN'",
-      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "Living For The Moment (2020 Remix)",
+        "url": "https://open.spotify.com/album/2t6M7HjXueQfUFDIjQhPEG"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 303586,
+      "name": "Living For The Moment - 2020 Remix",
+      "url": "https://open.spotify.com/track/4gZNHeY0uBX0f9VTV1VA3Y"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "No Surrender",
         "url": "https://open.spotify.com/album/2aI3NdkCfpIDWfjaA2dFV5"
       },
@@ -1895,38 +1911,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Living For The Moment (2020 Remix)",
-        "url": "https://open.spotify.com/album/2t6M7HjXueQfUFDIjQhPEG"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        }
-      ],
-      "duration_ms": 303586,
-      "name": "Living For The Moment - 2020 Remix",
-      "url": "https://open.spotify.com/track/4gZNHeY0uBX0f9VTV1VA3Y"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "Together As One (feat. Sam LeMay)",
-        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
-      },
-      "artists": [
-        {
-          "name": "The Pitcher",
-          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
-        }
-      ],
-      "duration_ms": 186424,
-      "name": "Together As One",
-      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Keepers Of Our Legacy",
         "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 252549,
       "name": "Keepers Of Our Legacy",
       "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Together As One (feat. Sam LeMay)",
+        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
+      },
+      "artists": [
+        {
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
+        }
+      ],
+      "duration_ms": 186424,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "No Retaliation, Pt. 1: The Solo's",
-        "url": "https://open.spotify.com/album/1wTbNgkQexxRJSzbSV2IeC"
-      },
-      "artists": [
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "No Retaliation",
-      "url": "https://open.spotify.com/track/6N1NycLCUdSMWLM6ucXjP2"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/22Evsh5AjJ8kERYZ4gUtl7"
       },
@@ -2119,22 +2099,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Rave From The Grave",
-        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+        "name": "No Retaliation, Pt. 1: The Solo's",
+        "url": "https://open.spotify.com/album/1wTbNgkQexxRJSzbSV2IeC"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         },
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
         }
       ],
-      "duration_ms": 177016,
-      "name": "Rave From The Grave",
-      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
+      "duration_ms": 224516,
+      "name": "No Retaliation",
+      "url": "https://open.spotify.com/track/6N1NycLCUdSMWLM6ucXjP2"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2151,6 +2131,26 @@
       "duration_ms": 164300,
       "name": "Do Whatcha Say",
       "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "HEAR THE NOISE",
         "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
@@ -2363,6 +2343,26 @@
       "duration_ms": 166988,
       "name": "HEAR THE NOISE",
       "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2883,26 +2883,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
-      },
-      "artists": [
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        },
-        {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
-        }
-      ],
-      "duration_ms": 208383,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Somebody to Love",
         "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
       },
@@ -2919,6 +2899,26 @@
       "duration_ms": 188076,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "duration_ms": 208383,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2959,26 +2959,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Sun Comes Up",
-        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Sun Comes Up",
-      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
         "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
       },
@@ -2999,6 +2979,26 @@
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Sun Comes Up",
+      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
     },
     {
       "added_at": "2024-05-31 13:07:33",

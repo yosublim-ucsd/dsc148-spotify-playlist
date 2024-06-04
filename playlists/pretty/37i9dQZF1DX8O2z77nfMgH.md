@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,507 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,502 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
 | 8 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 | 9 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
-| 10 | [Hasta Olvidarte](https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Arcángel](https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:08 |
+| 10 | [Hasta Olvidarte](https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:08 |
 | 11 | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP) | 2:44 |
 | 12 | [SATA](https://open.spotify.com/track/27fLzQp6M5PWXOAJsXjHoY) | [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [SATA](https://open.spotify.com/album/4VVBYVVNe7JMNfq7Pmixet) | 2:31 |
 | 13 | [El Beneficio De La Duda](https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Beneficio De La Duda](https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6) | 4:05 |

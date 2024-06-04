@@ -5984,7 +5984,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 191622,
       "name": "Sau Sau Sorriyan",
       "url": "https://open.spotify.com/track/3fXfEO6MCoZthE2KXDBtPZ"
@@ -7428,6 +7428,32 @@
       "duration_ms": 151846,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1"
+    },
+    {
+      "album": {
+        "name": "ZID",
+        "url": "https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo"
+      },
+      "artists": [
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Bharatt-Saurabh",
+          "url": "https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204123,
+      "name": "ZID",
+      "url": "https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ"
     },
     {
       "album": {

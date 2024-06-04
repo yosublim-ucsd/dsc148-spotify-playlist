@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 415560,
       "name": "Call Him Up",
       "url": "https://open.spotify.com/track/0RlJdVpgOjyQ6AOtxP3b7y"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 327742,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 337896,
       "name": "Dear God - Live",
       "url": "https://open.spotify.com/track/0ROHVar91z6Coqmv5WKjDP"
@@ -4372,7 +4372,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 208864,
       "name": "Excellent",
       "url": "https://open.spotify.com/track/077yGhj0JCilTx1aNgoAE8"
@@ -4542,7 +4542,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 272982,
       "name": "Faith That Conquers",
       "url": "https://open.spotify.com/track/1bXijLYK9IMVFiegCRWDTr"
@@ -7249,6 +7249,36 @@
     },
     {
       "album": {
+        "name": "Goshen",
+        "url": "https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
+        },
+        {
+          "name": "The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
+        },
+        {
+          "name": "Kristen Lowe",
+          "url": "https://open.spotify.com/artist/2YlotZIPBvmzH49tw5UPbn"
+        },
+        {
+          "name": "Sheri Jones-Moffett",
+          "url": "https://open.spotify.com/artist/0p4g6nQShPxtibUdD45Euz"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295024,
+      "name": "He Rebuked the Red Sea (feat. Sheri Jones-Moffett and Kristen Lowe) (feat. Kristen Lowe & Sheri Jones-Moffett)",
+      "url": "https://open.spotify.com/track/54xluDXpl9hUIhNYOIl5M8"
+    },
+    {
+      "album": {
         "name": "ACM Gospel Choir",
         "url": "https://open.spotify.com/album/6JR2N4MIu4gk7MDUUBkc0U"
       },
@@ -8373,6 +8403,24 @@
     },
     {
       "album": {
+        "name": "Calling On You",
+        "url": "https://open.spotify.com/album/11HTt3NYln0UmqiOuodtWp"
+      },
+      "artists": [
+        {
+          "name": "Chicago Mass Choir",
+          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352493,
+      "name": "Holy Ghost Power",
+      "url": "https://open.spotify.com/track/1chJqgrCkmMlOLYSV71ydo"
+    },
+    {
+      "album": {
         "name": "Come Walk With Me",
         "url": "https://open.spotify.com/album/4C0ByaAwvVtouMqWs5MRaq"
       },
@@ -9156,7 +9204,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 248417,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4eEOh2xjZTFkLYDVknWz6Q"
@@ -9312,7 +9360,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 401466,
       "name": "I Don't Feel Noways Tired",
       "url": "https://open.spotify.com/track/24qfSdQa013gZ7GqlMjRx9"
@@ -12014,7 +12062,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 413333,
       "name": "It's Already Done",
       "url": "https://open.spotify.com/track/7vyxaGXBSCtw3W5qtwm2uQ"
@@ -12068,7 +12116,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 274360,
       "name": "It's In God's Hands Now",
       "url": "https://open.spotify.com/track/6V4vKa0PCLvpvSn03ig55q"
@@ -12384,7 +12432,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 296165,
       "name": "Jehovah Sabaoth (God of Angel Armies) [feat. Brittany Stewart] (feat. Brittany Stewart)",
       "url": "https://open.spotify.com/track/7a9FrfeCemjLzGdpt4LJos"
@@ -12744,6 +12792,24 @@
       "duration_ms": 541893,
       "name": "Jesus Saves",
       "url": "https://open.spotify.com/track/0ZHkUuCSPch90Levz43rW5"
+    },
+    {
+      "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/5fD7nntIdJ0D6hiOENWYBa"
+      },
+      "artists": [
+        {
+          "name": "Isabel Davis",
+          "url": "https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399281,
+      "name": "Jesus We Love You",
+      "url": "https://open.spotify.com/track/2ndExhrByehToUtH2H46om"
     },
     {
       "album": {
@@ -13150,7 +13216,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 317240,
       "name": "Just Smile",
       "url": "https://open.spotify.com/track/3dcjR4G1JgcHh5eL7L5hSS"
@@ -15206,7 +15272,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 456600,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/7fXBwwL8kzFfyIxSt05DAl"
@@ -16842,7 +16908,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 331280,
       "name": "Nobody But Jesus",
       "url": "https://open.spotify.com/track/39RTTcarbcN5IO3rzQnZ4L"
@@ -17200,7 +17266,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 300489,
       "name": "Oh Give Thanks",
       "url": "https://open.spotify.com/track/4m8IRET6HIiUT2cF9PXyFq"
@@ -17958,7 +18024,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 252619,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5p4aqYZlL44hI0imyk7AV2"
@@ -18808,7 +18874,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 229026,
       "name": "Psalm 64",
       "url": "https://open.spotify.com/track/1RzJSycPERDFCJ5gZz11DL"
@@ -19456,7 +19522,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 187133,
       "name": "Run Til I Finish",
       "url": "https://open.spotify.com/track/70f2csknABwJHInhZD03hq"
@@ -22478,7 +22544,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 328520,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/131CaypTe4DEHe5SXpjxwN"
@@ -22514,7 +22580,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 445135,
       "name": "The Cross Alone",
       "url": "https://open.spotify.com/track/3xzEnkCQX4tolrC9G4gmCQ"
@@ -23060,7 +23126,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 303400,
       "name": "The Shepherd Song",
       "url": "https://open.spotify.com/track/6wtauQXvf4MfIuxH5wmTso"
@@ -23254,7 +23320,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 291813,
       "name": "There Is More",
       "url": "https://open.spotify.com/track/0RugrGfhtDCfFN4SUwg0th"
@@ -23392,7 +23458,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 304226,
       "name": "There'S A Leak In This Old Building",
       "url": "https://open.spotify.com/track/6sPkXf8cl3c48U4ZFVyd3B"
@@ -24952,7 +25018,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 185439,
       "name": "Weak",
       "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"

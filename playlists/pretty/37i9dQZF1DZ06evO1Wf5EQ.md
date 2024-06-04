@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 24 songs - 37 min 32 sec
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 24 songs - 37 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 20 | [MICHAEL CORLEONE](https://open.spotify.com/track/3wTVZ64eS97nA2GoDtLQik) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 1:00 |
 | 21 | [First Day At School](https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 |
 | 22 | [Godless Main Theme](https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:02 |
-| 23 | [Welcome To Hollywood](https://open.spotify.com/track/5CrFpgOJnKHj7QupOcvMWY) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:38 |
+| 23 | [Calvin](https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:23 |
 | 24 | [La Cajita de Música](https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 1:10 |
 
-Snapshot ID: `ZlpkgAAAAABprF/ekiRxH1y/KMxC+xbb`
+Snapshot ID: `Zlu2AAAAAABN3FQ2LRNKbI/XSVD1jOmC`

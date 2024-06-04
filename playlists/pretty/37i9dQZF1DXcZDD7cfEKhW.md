@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Mark Ronson & Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,101,151 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,101,062 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 72 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 |
 | 73 | [Head Underwater \- James Carter Remix](https://open.spotify.com/track/5mNOhqvMV2Hj77yYO07gGS) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Head Underwater \(James Carter Remix\)](https://open.spotify.com/album/4JOoZ1ckKAFgIj1oCJgHvv) | 2:33 |
 | 74 | [Bones \- twocolors Remix](https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Bones \(twocolors Remix\)](https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE) | 4:16 |
-| 75 | [Can't Tame Her \- VIZE Remix](https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Can't Tame Her \(The Remixes\)](https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90) | 2:53 |
+| 75 | [By The End Of The Night \- southstar Remix](https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [By The End Of The Night \(southstar Remix\)](https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3) | 3:41 |
 
 Snapshot ID: `ZllLQAAAAACMQcOLyLCnFrnwMxz00zLY`

@@ -4,7 +4,7 @@
 
 > if you could see 'em now, you'd be proud
 
-295 songs - 17 hr 45 min
+296 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Russell County Line](https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 4:09 | 2024-04-12 | 2024-04-19 |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1vhbThkFnqAHbZp0fEjXE4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:34 | 2023-09-22 |  |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2024-01-31 | 2024-05-25 |
+| [Save My Soul](https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6cmq4aPxeJBH9pCJMjIA4N) | 5:07 | 2024-06-03 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-18 |  |
 | [Seein' Straight](https://open.spotify.com/track/49mwxHq39VLr6fIoHN0e0t) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [We're Young, Alright](https://open.spotify.com/album/553gGSVuHart0wIB6lEC0n) | 3:53 | 2023-06-05 |  |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2024-05-25 |

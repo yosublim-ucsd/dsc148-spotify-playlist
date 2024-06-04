@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG">Vancoet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,322 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,332 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 45 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
 | 46 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
 | 47 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
-| 48 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
-| 49 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
-| 50 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 |
+| 48 | [Jonk & Danig](https://open.spotify.com/track/1rsjh2em6b9KD4wgJV2sTw) | [Vivien Redelinghuys](https://open.spotify.com/artist/2rd9K2tLcdJwW0Ub1UEiES) | [Jonk & Danig](https://open.spotify.com/album/74SaMFCbSWIPm3Y5CIOUAp) | 3:17 |
+| 49 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
+| 50 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
 
 Snapshot ID: `ZllHAQAAAADDOHVM/W0/GUA8Ngzajptb`

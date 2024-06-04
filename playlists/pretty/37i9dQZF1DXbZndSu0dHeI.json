@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 221224,
+  "num_followers": 221318,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
-      "added_at": "2024-04-12 11:40:33",
-      "album": {
-        "name": "Tired Boy",
-        "url": "https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Tired Boy",
-      "url": "https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "I Should Go (Solo Version)",
@@ -763,6 +747,22 @@
       "duration_ms": 151178,
       "name": "I Should Go - Solo Version",
       "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+    },
+    {
+      "added_at": "2024-04-12 11:40:33",
+      "album": {
+        "name": "Tired Boy",
+        "url": "https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Let's Get Out Of This Country",
         "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "Halloween Costume",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Blouse",
-        "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 195376,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1103,6 +1087,22 @@
       "duration_ms": 241168,
       "name": "Sorry I Am",
       "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Blouse",
+        "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195376,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
     },
     {
       "added_at": "2023-01-20 16:59:50",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 158714,
       "name": "Smile in the Face of the Devil",
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "You Do Not Have To Be Good",
+        "url": "https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 171481,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
+    },
+    {
       "added_at": "2024-04-12 11:40:33",
       "album": {
         "name": "Got Him! (Deluxe)",
@@ -1531,22 +1547,6 @@
       "duration_ms": 139470,
       "name": "Shell (with Jordana)",
       "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "You Do Not Have To Be Good",
-        "url": "https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 171481,
-      "name": "Cadillac",
-      "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Lover (Don\u2019t Let Me Down)",
-        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 250794,
-      "name": "Lover (Don't Let Me Down)",
-      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "is that all there is?",
         "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 177814,
       "name": "welcome to the sidelines",
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Lover (Don\u2019t Let Me Down)",
+        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 250794,
+      "name": "Lover (Don't Let Me Down)",
+      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

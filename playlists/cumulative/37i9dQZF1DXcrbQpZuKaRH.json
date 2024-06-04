@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the sound of waves for a blissful meditation.",
+  "description": "Calming music with the sound of waves for a blissful meditation.",
   "name": "Meditate by the Ocean",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 184000,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/57hiSUzsN2wvEkVoNLItUf"
+    },
+    {
+      "album": {
+        "name": "Against the Dock",
+        "url": "https://open.spotify.com/album/3ZcAaMiY50lZ4aIjijMwma"
+      },
+      "artists": [
+        {
+          "name": "Aguto Rising",
+          "url": "https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149755,
+      "name": "Against the Dock",
+      "url": "https://open.spotify.com/track/4Y5OktrhdPbF6gX5sVZrH7"
     },
     {
       "album": {
@@ -149,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Blue Horizon",
+        "url": "https://open.spotify.com/album/5iI3Vn7l2lEMG5HNeZ8NFk"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Blue Horizon",
+      "url": "https://open.spotify.com/track/3Xbo3JBGbpIqWL7SsBKkTz"
+    },
+    {
+      "album": {
         "name": "Briongl\u00f3id (Sound Bath)",
         "url": "https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y"
       },
@@ -218,7 +254,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 194520,
       "name": "Calm Seas",
       "url": "https://open.spotify.com/track/2x4ymM6CVBuDAGNEJ16qko"
@@ -290,7 +326,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 148333,
       "name": "Calming Waves",
       "url": "https://open.spotify.com/track/1juGuaPbXZrGTv5STnGhe8"
@@ -348,6 +384,24 @@
       "duration_ms": 165818,
       "name": "Close Reach",
       "url": "https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS"
+    },
+    {
+      "album": {
+        "name": "Coastal Summer",
+        "url": "https://open.spotify.com/album/5g3JwtUvH4HnIrMSEFmpTq"
+      },
+      "artists": [
+        {
+          "name": "Aries Suan",
+          "url": "https://open.spotify.com/artist/5mYqynrlNOgK6tXogOCtSW"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Coastal Summer",
+      "url": "https://open.spotify.com/track/1Tmn43ZO5XvrdOtaRVhJCP"
     },
     {
       "album": {
@@ -452,7 +506,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 154750,
       "name": "Dreamshore",
       "url": "https://open.spotify.com/track/24xr3Rogq8qFmO535rFA8f"
@@ -812,7 +866,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 204000,
       "name": "Marigold Chain",
       "url": "https://open.spotify.com/track/6DGIQf8liKwdwrPISYOqpH"
@@ -956,7 +1010,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 203818,
       "name": "Oceanic Adagio",
       "url": "https://open.spotify.com/track/1GniADRRmWcbMxIvoFG5yq"
@@ -974,7 +1028,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 153750,
       "name": "On the Shores of Sleep",
       "url": "https://open.spotify.com/track/2lu5HYbm9FmSDegJchgDxf"
@@ -1046,7 +1100,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 178000,
       "name": "Planet X",
       "url": "https://open.spotify.com/track/1VtyLawVwNXPAZAfkxxGrt"
@@ -1158,7 +1212,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 132217,
       "name": "Relaxing Sines",
       "url": "https://open.spotify.com/track/37IhtbzEutZBpgMsbh3nMA"
@@ -1284,7 +1338,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 216747,
       "name": "Sea Waves",
       "url": "https://open.spotify.com/track/16OA2Oc9beh2NUkhbWTmA5"
@@ -1302,7 +1356,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 172848,
       "name": "Seaside Dawning",
       "url": "https://open.spotify.com/track/1xjZj05TgVIJHsSUs71nEJ"
@@ -1464,7 +1518,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 176000,
       "name": "Sordinique",
       "url": "https://open.spotify.com/track/5DwWLXnxNpnrxdq92pFAMt"
@@ -1482,7 +1536,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 220800,
       "name": "Sun Wave",
       "url": "https://open.spotify.com/track/6i5MjtmMJMfUR8IWWW1aiD"
@@ -1525,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "The Cove",
+        "url": "https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121375,
+      "name": "The Cove",
+      "url": "https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC"
+    },
+    {
+      "album": {
         "name": "The Lonely Ride",
         "url": "https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq"
       },
@@ -1558,6 +1630,24 @@
       "duration_ms": 185142,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/2HtDHyZuRJYPnKLar3dMBZ"
+    },
+    {
+      "album": {
+        "name": "Tranquil Tides",
+        "url": "https://open.spotify.com/album/5GqwwHtZWQh2ieWHN3Uyyz"
+      },
+      "artists": [
+        {
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183648,
+      "name": "Tranquil Tides",
+      "url": "https://open.spotify.com/track/0WEhSAvhYVCF2sNXVIdSLg"
     },
     {
       "album": {
@@ -1698,7 +1788,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 191722,
       "name": "Waves",
       "url": "https://open.spotify.com/track/2x6Bz7vl9mfxJZgJfuLTZl"

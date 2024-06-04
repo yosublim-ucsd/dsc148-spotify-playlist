@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-889 songs - 2 day 5 hr 1 min
+890 songs - 2 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 | 2021-10-02 | 2021-10-07 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2021-06-08 |  |
 | [不期而遇的夏天 \- 電影《不期而遇的夏天》主題曲](https://open.spotify.com/track/5QRgqxZ4XQadnaOBjt2dN1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [不期而遇的夏天 \(電影《不期而遇的夏天》主題曲\)](https://open.spotify.com/album/2nLHmTomlBgsZP7OWxpEjC) | 3:30 | 2021-09-25 | 2021-09-26 |
+| [不為誰而作的歌](https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | ["和自己對話" 實驗專輯](https://open.spotify.com/album/2BllRBDJwm9kthtOoYTzNK) | 4:25 | 2024-06-03 |  |
 | [与我无关](https://open.spotify.com/track/4BYVQGBJUKSDkfRrCd9M2e) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [与我无关](https://open.spotify.com/album/5yPinjqLoVyKhcc4QNTYUg) | 4:00 | 2022-07-01 | 2022-07-04 |
 | [与我无关](https://open.spotify.com/track/5g3SAbi3NE8YXI0Z9aDFoZ) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [与我无关](https://open.spotify.com/album/4gZyFXOfAR3Ic87D19AaMa) | 4:00 | 2022-10-15 | 2022-10-23 |
 | [乘著無人光影的遠行](https://open.spotify.com/track/6OmeRpm2rmf3BoOboNexV0) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [乘著無人光影的遠行](https://open.spotify.com/album/26Ng5PX95XAECI5JlhNL6p) | 6:09 | 2023-08-19 | 2023-08-27 |
@@ -892,7 +893,7 @@
 | [頭號玩家 NO.1 Player](https://open.spotify.com/track/4UBEu6iSvM9vGqBwbaSiQP) | [張哲瀚](https://open.spotify.com/artist/1DMI6oQrrt8rVMVN83jXA7) | [曼陀羅 Datura](https://open.spotify.com/album/7hDV1K0YeyCPGqIE01IjEL) | 3:42 | 2024-03-02 | 2024-05-09 |
 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-23 | 2022-09-01 |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-08-15 |
-| [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 |  |
+| [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 | 2024-06-04 |
 | [飞鸟和蝉](https://open.spotify.com/track/7kdWPsM25PcBBB156FLrQK) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/6NMN6OEr4Qsoq5HyrFqAs5) | 4:56 | 2021-08-02 | 2021-08-08 |
 | [鲜花](https://open.spotify.com/track/35XxW360SO3puJQDfuaY4r) | [回春丹](https://open.spotify.com/artist/49x8WCVjNPZNepo3NmeMEi) | [鲜花](https://open.spotify.com/album/38Uvc9iDIDXru2BvKa1S8R) | 5:41 | 2023-11-10 | 2024-04-05 |
 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 | 2021-08-14 | 2021-08-19 |

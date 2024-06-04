@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Natania, Subhi & Shalmali
 
-318 songs - 18 hr 45 min
+319 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Samjhawan](https://open.spotify.com/track/0rk2X5TAhraBC5aCIXK2Rq) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Samjhawan](https://open.spotify.com/album/6XgV61OBbr8gHlXdAQ89Sj) | 4:29 | 2023-03-02 | 2024-02-15 |
 | [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 | 2023-07-03 | 2023-12-22 |
 | [Satranga \- Tulsi Kumar Version](https://open.spotify.com/track/0gc3RZPxdnb6V4EDWlBqFZ) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Satranga \- Tulsi Kumar Version](https://open.spotify.com/album/38AfubtzVF8cda2eCgWEEP) | 3:55 | 2024-03-19 | 2024-05-29 |
-| [Sau Sau Sorriyan](https://open.spotify.com/track/3fXfEO6MCoZthE2KXDBtPZ) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx), [Samar Monsoon](https://open.spotify.com/artist/6dJmxdcLdIIvrzlGynyzBw) | [Sau Sau Sorriyan](https://open.spotify.com/album/6E65RfqAjnY4YbWeZaxiIT) | 3:11 | 2024-05-07 |  |
+| [Sau Sau Sorriyan](https://open.spotify.com/track/3fXfEO6MCoZthE2KXDBtPZ) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx), [Samar Monsoon](https://open.spotify.com/artist/6dJmxdcLdIIvrzlGynyzBw) | [Sau Sau Sorriyan](https://open.spotify.com/album/6E65RfqAjnY4YbWeZaxiIT) | 3:11 | 2024-05-07 | 2024-06-04 |
 | [Savaria](https://open.spotify.com/track/060UbVPBhXeQhMLtef21WG) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg) | [Savaria](https://open.spotify.com/album/3oMktrcEUa7JaqmzrpWSln) | 3:08 | 2023-10-06 | 2023-11-30 |
 | [Senti Akhiyaan](https://open.spotify.com/track/03csYNtx8oXrwmbAPlO0qj) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Senti Akhiyaan](https://open.spotify.com/album/4OxNMSAPcZ3t8vk8LAK3iO) | 2:56 | 2024-03-28 |  |
 | [Shaamat](https://open.spotify.com/track/6v5SAmKr4QjRr0K2RdlPFm) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Tara Sutaria](https://open.spotify.com/artist/6rOmL22Rvtv9INMpxfLluj) | [Ek Villain Returns](https://open.spotify.com/album/6DCj9zSkRhSN77UQe3J4s1) | 5:34 | 2022-11-30 |  |
@@ -325,6 +325,7 @@
 | [Yeh Aaina](https://open.spotify.com/track/62RXe5I6L7n32fUMd8Puvo) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 5:11 | 2022-02-01 | 2022-03-08 |
 | [Yimmy Yimmy](https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Yimmy Yimmy](https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC) | 3:31 | 2024-03-08 |  |
 | [Your Loss](https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Dreamworld](https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj) | 2:31 | 2023-03-02 | 2023-07-27 |
+| [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 | 2024-06-03 |  |
 | [Zidd](https://open.spotify.com/track/5pMLKIqs9dS6675qVgZko1) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rashmi Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5clXHYUXuMpthSuwC94ngl) | 4:08 | 2021-12-10 | 2022-01-05 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 10th anniversary of Dan + Shay's debut album \"Where It All Began\" on 2010s Country! ",
-  "num_followers": 592428,
+  "num_followers": 592491,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,18 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Kane Brown",
-        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 188253,
-      "name": "What Ifs (feat. Lauren Alaina)",
-      "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
+      "duration_ms": 167426,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -387,18 +383,22 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+      "duration_ms": 188253,
+      "name": "What Ifs (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "That's My Kind Of Night",
-      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 208960,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "That's My Kind Of Night",
+      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "It's America",
-        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Farmer's Daughter",
-      "url": "https://open.spotify.com/track/5zGqTc1WQUe8XqqdnrpKTV"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "It's America",
+        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Farmer's Daughter",
+      "url": "https://open.spotify.com/track/5zGqTc1WQUe8XqqdnrpKTV"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 196746,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "The Band Perry",
-        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "BRINGING BACK THE SUNSHINE",
         "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 233480,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/0p1HtkrNYxv0iDfEKwXSTp"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "The Band Perry",
+        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Break Up In A Small Town",
-      "url": "https://open.spotify.com/track/7aftSOGSOpSoIlVAQVBb71"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Tornado",
         "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 212320,
       "name": "Pontoon",
       "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Break Up In A Small Town",
+      "url": "https://open.spotify.com/track/7aftSOGSOpSoIlVAQVBb71"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "I Don't Dance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "I Don't Dance",
-      "url": "https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Sunshine & Whiskey",
         "url": "https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 182400,
       "name": "Sunshine & Whiskey",
       "url": "https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "I Don't Dance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "I Don't Dance",
+      "url": "https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
+        "name": "Red River Blue (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 224866,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Own The Night",
-        "url": "https://open.spotify.com/album/2OecGqWoNWvW2VH4HUixjo"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Just A Kiss",
-      "url": "https://open.spotify.com/track/2OXidlnDThZR3zf36k6DVL"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "The Incredible Machine",
         "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
       },
@@ -1831,22 +1815,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "A.M.",
         "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
       },
@@ -1859,6 +1827,38 @@
       "duration_ms": 188706,
       "name": "Aw Naw",
       "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Own The Night",
+        "url": "https://open.spotify.com/album/2OecGqWoNWvW2VH4HUixjo"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Just A Kiss",
+      "url": "https://open.spotify.com/track/2OXidlnDThZR3zf36k6DVL"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2479,18 +2479,18 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Where It All Began",
-        "url": "https://open.spotify.com/album/2Zkvy7eARxR3qjKNWMiwMa"
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         }
       ],
-      "duration_ms": 217406,
-      "name": "19 You + Me",
-      "url": "https://open.spotify.com/track/7ongSdLv28Z27WeCrzZXwB"
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Road Less Traveled",
-        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Road Less Traveled",
-      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Charleston, SC 1966",
         "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 235146,
       "name": "Come Back Song",
       "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Where It All Began",
+        "url": "https://open.spotify.com/album/2Zkvy7eARxR3qjKNWMiwMa"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 217406,
+      "name": "19 You + Me",
+      "url": "https://open.spotify.com/track/7ongSdLv28Z27WeCrzZXwB"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2847,22 +2847,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Ignite the Night (Party Edition)",
-        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 214949,
-      "name": "Gonna Wanna Tonight",
-      "url": "https://open.spotify.com/track/1HE3TzRFmNQ7QQLoEMl0R2"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Forever Country",
         "url": "https://open.spotify.com/album/6RPWwFQWwVE9qnj01Qy3fk"
       },
@@ -2875,6 +2859,22 @@
       "duration_ms": 242480,
       "name": "Forever Country",
       "url": "https://open.spotify.com/track/3WWVDPjihd1VITBLF10nha"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Ignite the Night (Party Edition)",
+        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "duration_ms": 214949,
+      "name": "Gonna Wanna Tonight",
+      "url": "https://open.spotify.com/track/1HE3TzRFmNQ7QQLoEMl0R2"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Give Me Back My Hometown",
-      "url": "https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Brett Eldredge",
         "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 208720,
       "name": "The Long Way",
       "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Give Me Back My Hometown",
+      "url": "https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -3235,8 +3235,8 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/1xy141zMRluP7YaE94IawT"
+        "name": "You Get What You Give (Deluxe)",
+        "url": "https://open.spotify.com/album/62XZju4HxxXF6CBIqqG2ei"
       },
       "artists": [
         {
@@ -3244,9 +3244,9 @@
           "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/1qwnPVOIJjAFfCc40Etb1D"
+      "duration_ms": 273893,
+      "name": "Colder Weather",
+      "url": "https://open.spotify.com/track/23hDnIFoFlVTDA6y8YrJoR"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -3276,9 +3276,9 @@
           "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/4EpLU30bi1KNWkBTfgZkoK"
+      "duration_ms": 216960,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6RSNKGdv3nDTHqgw4bdzyF"
     },
     {
       "added_at": "2024-04-01 14:50:59",

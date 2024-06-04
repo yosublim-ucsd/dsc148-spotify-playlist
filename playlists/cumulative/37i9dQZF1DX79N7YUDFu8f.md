@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-226 songs - 13 hr 27 min
+228 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Green & Gold](https://open.spotify.com/track/2rXRkotF8QGGYirZsuxCqP) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Trending Hits](https://open.spotify.com/album/7M9oyLQcs7cvdNidQmasJT) | 4:38 | 2022-11-03 | 2022-11-13 |
 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 | 2021-11-24 |  |
 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 | 2022-06-03 | 2024-04-19 |
-| [Grow with you](https://open.spotify.com/track/1SNWm8MPVoP7Hzews4s22d) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Grow with you](https://open.spotify.com/album/15U2ElSOsryI2XNIkxAQv9) | 3:17 | 2021-11-24 |  |
+| [Grow with you](https://open.spotify.com/track/1SNWm8MPVoP7Hzews4s22d) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Grow with you](https://open.spotify.com/album/15U2ElSOsryI2XNIkxAQv9) | 3:17 | 2021-11-24 | 2024-06-04 |
 | [Guilty](https://open.spotify.com/track/2uw1eNEYcIF8s24ufIaWUF) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Guilty](https://open.spotify.com/album/0MzsJE3oxiwk8RCYGlHC2M) | 2:22 | 2023-06-14 |  |
 | [Heart of a Mother](https://open.spotify.com/track/4M3h7LgNEFxJKJDXJ1wDrZ) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Heart of a Mother](https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3) | 4:32 | 2024-03-14 |  |
 | [Hell Or High Water](https://open.spotify.com/track/54Sfi5x76ITYShTrjBnJkW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Hell Or High Water](https://open.spotify.com/album/401NCx9zSzgjKh4bwdluzS) | 3:40 | 2021-11-24 |  |
@@ -102,7 +102,7 @@
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2022-06-03 | 2024-04-19 |
 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 | 2021-11-24 |  |
 | [Let It Go](https://open.spotify.com/track/09Qcv27NMy1HoN6mvok8z3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Crying Sad Songs](https://open.spotify.com/album/0lA0JLGqIRRcsJMdlq3nx9) | 4:21 | 2022-11-03 | 2022-11-13 |
-| [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2021-11-24 |  |
+| [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2021-11-24 | 2024-06-04 |
 | [Lights](https://open.spotify.com/track/7hBkF4gHTeBYFpbojarbWo) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Lights](https://open.spotify.com/album/50ncAqMEKX95MGtoCNjQ1w) | 3:32 | 2021-11-24 | 2022-04-29 |
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-06-03 | 2024-04-19 |
 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 | 2021-11-24 |  |
@@ -177,6 +177,7 @@
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2021-11-24 | 2023-12-15 |
 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \(Acoustic\)](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 | 2021-11-24 |  |
 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 | 2021-11-24 |  |
+| [Slow \- live from the van](https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Slow \(live from the van\)](https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6) | 2:52 | 2024-06-03 |  |
 | [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 | 2022-04-28 | 2023-05-27 |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2021-11-24 | 2023-04-21 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-11-24 | 2023-10-27 |
@@ -202,6 +203,7 @@
 | [Teach Me How to Dance with You](https://open.spotify.com/track/4QImwTI39jBWqS6vS1Q8Qh) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Teach Me How to Dance with You](https://open.spotify.com/album/5BGScd4DAGvbgkAqALG6Fn) | 3:36 | 2022-11-03 | 2022-11-13 |
 | [Teach Me How to Dance with You](https://open.spotify.com/track/52YJBULh8SQQJrozbkBCE6) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/6UIcB2QDipPvUYCtsJNTSk) | 3:36 | 2022-06-03 | 2022-10-20 |
 | [The Dirt](https://open.spotify.com/track/2NDC19WBHec7k6ov7tbLgD) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [The Dirt](https://open.spotify.com/album/6z5nCymiIDTDBaClbPK0gv) | 2:41 | 2021-11-24 |  |
+| [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-03 |  |
 | [The Island](https://open.spotify.com/track/5rK6tUpOnpI2zig7JgtAGz) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Island](https://open.spotify.com/album/7HKuPYtqg01NQ899c8hK6x) | 5:08 | 2021-11-24 | 2023-10-07 |
 | [The Way You Take Time](https://open.spotify.com/track/2kFwiAtvJ9VT1c8PAoBkJj) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time](https://open.spotify.com/album/2mHb3q04keB9gEQ00hhAlc) | 2:31 | 2021-11-24 | 2022-04-29 |
 | [Till The Sun Comes Up](https://open.spotify.com/track/3oB8dXCjtQShPeliylX8jg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Till The Sun Comes Up](https://open.spotify.com/album/7eKFymkUkJdRpKDYEXlTnp) | 3:21 | 2021-11-24 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: Dear Dahlia",
+  "description": "The leaders in the lively Pinoy indie scene. Cover: (e)motion engine",
   "name": "Pinoy Indie Mix",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 222000,
       "name": "711",
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 215188,
       "name": "Hiling",
       "url": "https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 259799,
       "name": "I JUST WANT TO KISS YOU NOW",
       "url": "https://open.spotify.com/track/5LXtfG0XvhHRTEuDIHwlic"
@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Mahika",
+        "url": "https://open.spotify.com/album/6xXxqw4s5LrpxUKDpI72Z3"
+      },
+      "artists": [
+        {
+          "name": "shed",
+          "url": "https://open.spotify.com/artist/3NrtcbIz7aWDbsqvlb7mPF"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230368,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/0oKhpGNegABcrCGJacx1rC"
+    },
+    {
+      "album": {
         "name": "MALABO",
         "url": "https://open.spotify.com/album/0decNGiRDcErQsQvcyfEMz"
       },
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Mas Gusto Kita",
+        "url": "https://open.spotify.com/album/1Tqdtyo89IGVfIQA5fCMDB"
+      },
+      "artists": [
+        {
+          "name": "Yden",
+          "url": "https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202641,
+      "name": "Mas Gusto Kita",
+      "url": "https://open.spotify.com/track/0Fz4n1CHMWRoJOViHFKCXV"
+    },
+    {
+      "album": {
         "name": "Maybe I'm Tired",
         "url": "https://open.spotify.com/album/7bdjNftzZui98rywpJsluk"
       },
@@ -846,6 +882,24 @@
       "duration_ms": 340213,
       "name": "Miscom",
       "url": "https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1"
+    },
+    {
+      "album": {
+        "name": "mlb",
+        "url": "https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry"
+      },
+      "artists": [
+        {
+          "name": "(e)motion engine",
+          "url": "https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232483,
+      "name": "mlb",
+      "url": "https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs"
     },
     {
       "album": {
@@ -1662,7 +1716,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 169913,
       "name": "TT (terrible things)",
       "url": "https://open.spotify.com/track/5fMToMVlBhYxO9vYeHgrkD"
@@ -1738,6 +1792,24 @@
       "duration_ms": 169570,
       "name": "WHERE IS THE L?E",
       "url": "https://open.spotify.com/track/3CR1mWThIKsALVzoSOBo9V"
+    },
+    {
+      "album": {
+        "name": "Yakap",
+        "url": "https://open.spotify.com/album/2GXphqBra81VhHhrmwAN3G"
+      },
+      "artists": [
+        {
+          "name": "figvres",
+          "url": "https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268085,
+      "name": "Yakap",
+      "url": "https://open.spotify.com/track/6dlW7m78wKau9ZRqPLAUJA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56"

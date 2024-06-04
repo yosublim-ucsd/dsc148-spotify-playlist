@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,597 likes - 39 songs - 1 hr 47 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,690 likes - 42 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [She's the One](https://open.spotify.com/track/4inw6roamzcaRD8v15Y0bu) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 3:09 |
 | 38 | [People Get Real](https://open.spotify.com/track/2OPLyjw4pDQremg5IVfkSv) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:44 |
 | 39 | [Mario's Cafe](https://open.spotify.com/track/0DphBni42F0bpa2E7ptWjV) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [So Tough](https://open.spotify.com/album/2FTeecYAHUqD087fRHHuNF) | 4:37 |
+| 40 | [Sunever](https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Sunever](https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg) | 2:40 |
+| 41 | [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 |
+| 42 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 |
 
-Snapshot ID: `AAAKicm3tWuRd1kRBRVckh5Oy3HlB3ME`
+Snapshot ID: `AAAKjAsOiAk2pwFyTAN+vQQKMW2HtPaY`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0RCiYg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0RCiYg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0RCiYg)
 
-### [This Is ブラック・アイド・ピーズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg)
+### [This Is Black Eyed Peas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg)
 
-> This is ブラック・アイド・ピーズ。アーティストの代表曲をひとつのプレイリストに。
+> This is Black Eyed Peas\. Todos os maiores hits em uma só playlist.
 
 74 songs - 4 hr 57 min
 
@@ -62,7 +62,7 @@
 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2023-07-28 | 2024-05-17 |
 | [Pump It Louder](https://open.spotify.com/track/4PNKy9P3xrzqMwVzRjxBKt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:38 | 2024-05-17 | 2024-06-03 |
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2023-07-28 |  |
-| [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2023-07-28 |  |
+| [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2023-07-28 | 2024-06-04 |
 | [Shake Ya Boom Boom](https://open.spotify.com/track/1gVZRO8RdxbaUuxKNRcFsd) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Shake Ya Boom Boom](https://open.spotify.com/album/7GHotUAxNYMjGew9Wnz5N4) | 3:21 | 2023-07-28 |  |
 | [Shut Up](https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:56 | 2023-07-28 |  |
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2023-07-28 |  |
@@ -77,7 +77,7 @@
 | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 | 2024-05-12 |  |
 | [TONTA LOVE](https://open.spotify.com/track/6OqyEdTrKOLRa4MDLNO34U) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:50 | 2024-05-27 | 2024-05-28 |
 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 | 2023-07-28 |  |
-| [Weekends](https://open.spotify.com/track/444PDY0AH99Pgnq6B9T4pZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Bridging The Gap](https://open.spotify.com/album/2haqnus2tl9nBATTVyXvCW) | 4:47 | 2024-05-11 | 2024-06-03 |
+| [Weekends](https://open.spotify.com/track/444PDY0AH99Pgnq6B9T4pZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Bridging The Gap](https://open.spotify.com/album/2haqnus2tl9nBATTVyXvCW) | 4:47 | 2024-05-11 |  |
 | [What's Goin Down](https://open.spotify.com/track/47ZX5vx2zIzOTsOf93lFSB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk \(Expanded Edition\)](https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy) | 2:41 | 2024-05-15 | 2024-05-19 |
 | [Whenever](https://open.spotify.com/track/1ffXDBEcyHv2CZcHDrFAMU) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:15 | 2024-06-01 | 2024-06-02 |
 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 | 2023-07-28 |  |

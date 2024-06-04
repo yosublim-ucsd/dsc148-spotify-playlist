@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 926 likes - 98 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 929 likes - 98 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 97 | [might as well](https://open.spotify.com/track/0k6UETYeSV0WsZeZGgTzlU) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:36 |
 | 98 | [sonic interlude](https://open.spotify.com/track/7GzqVB2D2VYev0Q99IpeXK) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 1:17 |
 
-Snapshot ID: `AbTArAAAAABv2PBKXkBVkMrBkoFQjkSB`
+Snapshot ID: `AbTGTAAAAACrh6wlDLNVvCVyHYyqdMXs`

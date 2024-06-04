@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24016,
+  "num_followers": 24015,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "A Oscuras",
-        "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 159935,
-      "name": "A Oscuras",
-      "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 205436,
       "name": "Entre las Dos",
       "url": "https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "A Oscuras",
+        "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 159935,
+      "name": "A Oscuras",
+      "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        }
-      ],
-      "duration_ms": 134425,
-      "name": "PURA",
-      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 255591,
       "name": "la noche de ayer",
       "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        }
+      ],
+      "duration_ms": 134425,
+      "name": "PURA",
+      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "TRIP",
+        "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "TRIP",
+      "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "PACTO",
         "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 174000,
       "name": "PACTO",
       "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "TRIP",
-        "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "TRIP",
-      "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 243762,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "MAL NECESARIO",
-        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "MAL NECESARIO",
-      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Regresar\u00e1s \u2606",
         "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 210002,
       "name": "TODO LO QUE HICIMOS.",
       "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "MAL NECESARIO",
+        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "MAL NECESARIO",
+      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "SHAMPOO",
-        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 181983,
-      "name": "SHAMPOO",
-      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "SHAMPOO",
+        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 181983,
+      "name": "SHAMPOO",
+      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 235710,
       "name": "La Monta\u00f1a",
       "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1711,38 +1711,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT"
-      },
-      "artists": [
-        {
-          "name": "Fernanda El\u00edo",
-          "url": "https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK"
-        }
-      ],
-      "duration_ms": 144116,
-      "name": "Te quiero ver",
-      "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Noche de Vampiros",
-        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
-      },
-      "artists": [
-        {
-          "name": "Trashu",
-          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
-        }
-      ],
-      "duration_ms": 185187,
-      "name": "Noche de Vampiros",
-      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -1763,6 +1731,38 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Noche de Vampiros",
+        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
+      },
+      "artists": [
+        {
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+        }
+      ],
+      "duration_ms": 185187,
+      "name": "Noche de Vampiros",
+      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda El\u00edo",
+          "url": "https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK"
+        }
+      ],
+      "duration_ms": 144116,
+      "name": "Te quiero ver",
+      "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
     },
     {
       "added_at": "2024-05-31 12:45:40",

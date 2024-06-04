@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
-  "num_followers": 379642,
+  "num_followers": 379696,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
       "artists": [
         {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
         }
       ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
+      "duration_ms": 138360,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
         }
       ],
-      "duration_ms": 138360,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "No Reason",
-        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 130373,
       "name": "180 Degrees",
       "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -823,6 +823,38 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
+        "name": "Get Warmer",
+        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+      },
+      "artists": [
+        {
+          "name": "Bomb the Music Industry!",
+          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
+        "name": "A Good Day for the Damned",
+        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
+      },
+      "artists": [
+        {
+          "name": "Jaya The Cat",
+          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
         "name": "Alo con las islas mutantes?",
         "url": "https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM"
       },
@@ -843,18 +875,18 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "Get Warmer",
-        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
       },
       "artists": [
         {
-          "name": "Bomb the Music Industry!",
-          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 282093,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -875,38 +907,6 @@
       "duration_ms": 265319,
       "name": "Wrong Side of Town (feat. Hak Baker)",
       "url": "https://open.spotify.com/track/33LjlRBCyzgFzHJLKey8gk"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
-        "name": "A Good Day for the Damned",
-        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
-      },
-      "artists": [
-        {
-          "name": "Jaya The Cat",
-          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/4LnnHaLA7KByCKgrcyNtFc"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/156aNcRPFoLlW2WzpD8apD"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
         "name": "Another Change of Plan",
         "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/4LnnHaLA7KByCKgrcyNtFc"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/156aNcRPFoLlW2WzpD8apD"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
         "name": "The Band Geek Mafia",
         "url": "https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 194840,
       "name": "Delinquent Song",
       "url": "https://open.spotify.com/track/44XOi657umNvDxNw8JvljD"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
+      },
+      "artists": [
+        {
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Stepping Out",
+      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
         "name": "Fin de Flora",
         "url": "https://open.spotify.com/album/4DRLvogsaDi6ZRLGZ94IQs"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 257670,
       "name": "Fin de Flora",
       "url": "https://open.spotify.com/track/595KjEC8L03VHAZrrSBHat"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
-        "name": "Stomp",
-        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
-      },
-      "artists": [
-        {
-          "name": "Big D and the Kids Table",
-          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Stepping Out",
-      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "The Green Album",
-        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
-      },
-      "artists": [
-        {
-          "name": "Skankin' Pickle",
-          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Special Brew",
-      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
+        "name": "The Green Album",
+        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
+      },
+      "artists": [
+        {
+          "name": "Skankin' Pickle",
+          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Special Brew",
+      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "Sing Along With Skankin' Pickle",
-        "url": "https://open.spotify.com/album/4xfCd6JErTyELdNkFDgMaW"
-      },
-      "artists": [
-        {
-          "name": "Skankin' Pickle",
-          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "Turning Japanese",
-      "url": "https://open.spotify.com/track/7rn79EumoC0ANZSpo1iqMD"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 185120,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc"
-    },
-    {
-      "added_at": "2024-05-31 19:46:11",
-      "album": {
-        "name": "Ordinary Life",
-        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
-      },
-      "artists": [
-        {
-          "name": "We Are The Union",
-          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "Morbid Obsessions",
-      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -1583,18 +1551,34 @@
     {
       "added_at": "2024-05-31 19:46:11",
       "album": {
-        "name": "No One is Illegal",
-        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
+        "name": "Ordinary Life",
+        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
       },
       "artists": [
         {
-          "name": "Russkaja",
-          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+          "name": "We Are The Union",
+          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
         }
       ],
-      "duration_ms": 226413,
-      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
-      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
+      "duration_ms": 182256,
+      "name": "Morbid Obsessions",
+      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
+        "name": "Sing Along With Skankin' Pickle",
+        "url": "https://open.spotify.com/album/4xfCd6JErTyELdNkFDgMaW"
+      },
+      "artists": [
+        {
+          "name": "Skankin' Pickle",
+          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Turning Japanese",
+      "url": "https://open.spotify.com/track/7rn79EumoC0ANZSpo1iqMD"
     },
     {
       "added_at": "2024-05-31 19:46:11",
@@ -1611,6 +1595,22 @@
       "duration_ms": 195527,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
+    },
+    {
+      "added_at": "2024-05-31 19:46:11",
+      "album": {
+        "name": "No One is Illegal",
+        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
+      },
+      "artists": [
+        {
+          "name": "Russkaja",
+          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
+      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
     },
     {
       "added_at": "2024-05-31 19:46:11",

@@ -4,7 +4,7 @@
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 49 min
+63 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [No Me Amenaces \(feat\. Lila Downs\)](https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr), [Mariachi Reyna De Los Angeles](https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pa' que Sientas Lo Que Siento](https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3) | 3:10 | 2023-12-18 |  |
 | [Paloma Negra](https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 4:31 | 2023-12-18 |  |
 | [Perhaps, Perhaps, Perhaps](https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 4:45 | 2023-12-18 |  |
+| [Pon Que Dale](https://open.spotify.com/track/3ErQOQJdOZkHyFQgDaOric) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz Nunca Me Fui](https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf) | 2:36 | 2024-06-04 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/6kYIZQ1uG6hu0FltPc5CzD) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 3:50 | 2023-12-18 |  |
 | [Que Seas Feliz \(feat\. Lila Downs\)](https://open.spotify.com/track/6rbIrFizEB9kIdMJYx3tXH) | [Javier Camarena](https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Javier Camarena \- La Voz de México](https://open.spotify.com/album/0XGgZddNyq7ueKObEBKpdg) | 3:11 | 2024-03-22 | 2024-03-31 |
 | [Quiero Verte Feliz](https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Quiero Verte Feliz](https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx) | 2:57 | 2023-12-18 |  |
@@ -59,7 +60,7 @@
 | [Son de Difuntos](https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:37 | 2023-12-18 | 2024-03-05 |
 | [Son del Chile Frito](https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:35 | 2023-12-18 |  |
 | [Tan Bonita](https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz Nunca Me Fui](https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf) | 3:17 | 2024-06-02 |  |
-| [Toda la Noche](https://open.spotify.com/track/75f2UFzDlMOG1MzmXAl2ka) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 2:44 | 2023-12-18 |  |
+| [Toda la Noche](https://open.spotify.com/track/75f2UFzDlMOG1MzmXAl2ka) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 2:44 | 2023-12-18 | 2024-06-04 |
 | [Tu Cárcel](https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 3:43 | 2023-12-18 |  |
 | [Tu Voz \(with Lila Downs\)](https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 2:46 | 2023-12-18 |  |
 | [Un Mundo Raro \(feat\. Diego El Cigala\)](https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Salón Lágrimas y Deseo](https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy) | 3:32 | 2023-12-18 |  |

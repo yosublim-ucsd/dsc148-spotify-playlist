@@ -4,7 +4,7 @@
 
 > Clean Versions of Your Favourite Hits! Includes The Weeknd, Justin Bieber, Shawn Mendes and more! Cover: Taylor Swift
 
-180 songs - 9 hr 20 min
+182 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-08-21 | 2024-02-24 |
 | [For Keeps](https://open.spotify.com/track/2QcrpWZpB9OSnrNB4a8KSU) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [For Keeps](https://open.spotify.com/album/7vXUQ2owU4zg8iiedXTYjE) | 2:23 | 2023-08-21 | 2024-02-24 |
 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \(Remix\)](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 | 2024-02-23 |  |
+| [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-03 |  |
 | [Funk Rave](https://open.spotify.com/track/0vI0jErxgVjezxAdGjIFzO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/1t8LdwgR2GCqkY4mxBAitP) | 2:27 | 2023-08-21 | 2024-02-24 |
 | [Goodness Gracious](https://open.spotify.com/track/3QTxWHJRCv9Z8cz1rZthQh) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Goodness Gracious](https://open.spotify.com/album/36VeXZzxkIdx9QgoSGiPJt) | 2:24 | 2023-08-21 | 2024-02-24 |
 | [Have A Good Summer \(Without Me\)](https://open.spotify.com/track/2McfGUvfqJZyzSuHvTkE2X) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Have A Good Summer \(Without Me\)](https://open.spotify.com/album/6rKZLeDE0btNCm8mJLgPvx) | 3:30 | 2023-08-21 | 2024-02-24 |
@@ -139,6 +140,7 @@
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2024-02-23 |  |
 | [Pretty In The Dark](https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Pretty In The Dark](https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw) | 2:56 | 2023-08-21 | 2024-02-24 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1wfYQIXAzt300l6i1aYiNS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/35nmDyrcnDY4B1ISYpKEEs) | 5:19 | 2024-02-23 |  |
+| [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-03 |  |
 | [Satellite](https://open.spotify.com/track/0OAg1d6z3dtkG74pLQ3Cj2) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Satellite](https://open.spotify.com/album/0qimdJJp8M20r4tB21RhxS) | 3:28 | 2023-08-21 | 2024-02-24 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-08-21 | 2024-02-24 |
 | [Search & Rescue](https://open.spotify.com/track/7INo35yvWnVY5PcEUlg1d4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/2lFkZFJ1ibZfwqembA7Nof) | 4:32 | 2023-08-21 | 2024-02-24 |

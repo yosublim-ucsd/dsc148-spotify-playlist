@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: Plastic Tree
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,259 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,308 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 65 | [I](https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [I](https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB) | 3:21 |
 | 66 | [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 |
 | 67 | [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 |
-| 68 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 |
-| 69 | [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 |
+| 68 | [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 |
+| 69 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 |
 | 70 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
 | 71 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 |
 | 72 | [大団円](https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f) | 5:25 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 83 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
 | 84 | [青いの。](https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FLOWERS](https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk) | 4:05 |
 | 85 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 |
-| 86 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 |
-| 87 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
-| 88 | [STARS](https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [STARS](https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE) | 3:55 |
+| 86 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
+| 87 | [STARS](https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [STARS](https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE) | 3:55 |
+| 88 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 |
 | 89 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
 | 90 | [KANASHIBARI](https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X) | 4:57 |
 | 91 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 |

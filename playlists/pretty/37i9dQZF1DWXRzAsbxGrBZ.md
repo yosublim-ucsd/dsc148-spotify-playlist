@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,967 likes - 50 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,043 likes - 50 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 21 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 |
 | 22 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |
 | 23 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
-| 24 | [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 |
+| 24 | [Winter Nights \- BlaQ Afro\-Kay Remix](https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T) | [Sitha](https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM), [BlaQ Afro\-Kay](https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E), [Laps Rsa](https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ) | [Foniklab Records, Vol\. 2 \(Compiled By DysFonik\)](https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6) | 6:40 |
 | 25 | [Ingoma \- Original Mix](https://open.spotify.com/track/7oyMweIaDux964WgeejCf7) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Mr.Cantata](https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0), [Bikie](https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu) | [Ingoma](https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0) | 7:10 |
-| 26 | [Winter Nights \- BlaQ Afro\-Kay Remix](https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T) | [Sitha](https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM), [BlaQ Afro\-Kay](https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E), [Laps Rsa](https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ) | [Foniklab Records, Vol\. 2 \(Compiled By DysFonik\)](https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6) | 6:40 |
+| 26 | [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 |
 | 27 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
 | 28 | [Breathe \- Ed\-ward Remix](https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Sam Alaina](https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Breathe \(Remixes\)](https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb) | 6:42 |
 | 29 | [Feel Good](https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Feel Good EP](https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a) | 6:32 |

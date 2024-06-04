@@ -1,6 +1,6 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1282527,
+  "num_followers": 1282471,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-05-10 07:11:40",
       "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2024-05-10 07:11:40",
-      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2024-05-10 07:11:40",
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2024-05-10 07:11:40",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-05-10 07:11:40",
       "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2024-05-10 07:11:40",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2024-05-10 07:11:40",
-      "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2024-05-10 07:11:40",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-10 07:11:40",
       "album": {
-        "name": "ANNE KAFFEEKANNE",
-        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
-      },
-      "artists": [
-        {
-          "name": "TIM PLVNK",
-          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
-        }
-      ],
-      "duration_ms": 140797,
-      "name": "ANNE KAFFEEKANNE",
-      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
-    },
-    {
-      "added_at": "2024-05-10 07:11:40",
-      "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 176579,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "added_at": "2024-05-10 07:11:40",
+      "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
     },
     {
       "added_at": "2024-05-10 07:11:40",
@@ -931,22 +931,22 @@
     {
       "added_at": "2024-05-10 07:11:40",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+        "name": "Tarantella",
+        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
         }
       ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+      "duration_ms": 145553,
+      "name": "Tarantella",
+      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
     },
     {
       "added_at": "2024-05-10 07:11:40",
@@ -967,22 +967,22 @@
     {
       "added_at": "2024-05-10 07:11:40",
       "album": {
-        "name": "Tarantella",
-        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 145553,
-      "name": "Tarantella",
-      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2024-05-10 07:11:40",

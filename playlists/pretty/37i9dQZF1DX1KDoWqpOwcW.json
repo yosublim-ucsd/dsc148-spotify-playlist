@@ -1,6 +1,6 @@
 {
   "description": "Desde el Estadio de los \ud83d\udc79\ud83d\udc79\ud83d\udc79 Trueno nos comparte su nueva rola \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
-  "num_followers": 14928,
+  "num_followers": 14923,
   "original_name": "Pelotero a la bola x Trueno",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
-        "name": "Dile/Intocable",
-        "url": "https://open.spotify.com/album/4kcgkJgiTg9eUIhX2ZRuJo"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/72YHgP5Zueyh9ilIjkaEaB"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
+        "name": "Dile/Intocable",
+        "url": "https://open.spotify.com/album/4kcgkJgiTg9eUIhX2ZRuJo"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/72YHgP5Zueyh9ilIjkaEaB"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Qu\u00e9 Nivel De Mujer",
+      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 213254,
       "name": "El G\u00fcero (Feat. Marca MP)",
       "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Qu\u00e9 Nivel De Mujer",
-      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
-        "name": "Gracias (En Vivo)",
-        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 235221,
-      "name": "Gracias - En Vivo",
-      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
         "name": "Te Presumo",
         "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
       },
@@ -1783,18 +1763,22 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
       },
       "artists": [
         {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 183186,
-      "name": "Arreando La Mula",
-      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
+      "duration_ms": 235221,
+      "name": "Gracias - En Vivo",
+      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -1811,6 +1795,22 @@
       "duration_ms": 215524,
       "name": "Yo Quiero Chupar",
       "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "El Bigote",
-      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
         "name": "Para Tucancillos y Tucancillas",
         "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 215853,
       "name": "Me Gusta Vivir De Noche",
       "url": "https://open.spotify.com/track/1G4d3ydn30mwZzTbBdA4mK"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "El Venao",
-      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
         "name": "10\u00ba Aniversario",
         "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 112733,
       "name": "Por Las Calles de Chihuahua",
       "url": "https://open.spotify.com/track/2YWNDA3fGajWfhLp9VOYnf"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
     },
     {
       "added_at": "2024-05-03 16:50:15",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-05-03 16:50:15",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "La Sacamos Del Estadio",
-      "url": "https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc"
-    },
-    {
-      "added_at": "2024-05-03 16:50:15",
-      "album": {
         "name": "Fondo Fondo",
         "url": "https://open.spotify.com/album/5KQtr7BEmt8TH8IcUw27eP"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 181670,
       "name": "Fondo Fondo",
       "url": "https://open.spotify.com/track/3qPp2UgTYiGXxphydlrXSF"
+    },
+    {
+      "added_at": "2024-05-03 16:50:15",
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "La Sacamos Del Estadio",
+      "url": "https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc"
     },
     {
       "added_at": "2024-05-03 16:50:15",

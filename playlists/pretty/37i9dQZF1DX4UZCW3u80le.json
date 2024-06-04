@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! Cover: *NSYNC",
-  "num_followers": 109341,
+  "num_followers": 109452,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
+        "name": "The Papercut Chronicles",
+        "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
+      },
+      "artists": [
+        {
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Cupid's Chokehold / Breakfast in America",
+      "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
+    },
+    {
+      "added_at": "2024-05-13 15:08:40",
+      "album": {
         "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
         "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 204640,
       "name": "Right Round",
       "url": "https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"
-    },
-    {
-      "added_at": "2024-05-13 15:08:40",
-      "album": {
-        "name": "The Papercut Chronicles",
-        "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
-      },
-      "artists": [
-        {
-          "name": "Gym Class Heroes",
-          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Cupid's Chokehold / Breakfast in America",
-      "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
     },
     {
       "added_at": "2024-05-13 15:08:40",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
-    },
-    {
-      "added_at": "2024-05-13 15:08:40",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2024-05-13 15:08:40",
+      "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
     },
     {
       "added_at": "2024-05-13 15:08:40",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh"
-    },
-    {
-      "added_at": "2024-05-13 15:08:40",
-      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 237120,
       "name": "I Know You Want Me (Calle Ocho)",
       "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
+    },
+    {
+      "added_at": "2024-05-13 15:08:40",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh"
     },
     {
       "added_at": "2024-05-13 15:08:40",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
-        "name": "So Blu",
-        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
-    },
-    {
-      "added_at": "2024-05-13 15:08:40",
-      "album": {
         "name": "A New Day Has Come",
         "url": "https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ"
       },
@@ -2007,6 +1991,22 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
+        "name": "So Blu",
+        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
+      },
+      "artists": [
+        {
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
+    },
+    {
+      "added_at": "2024-05-13 15:08:40",
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -2019,22 +2019,6 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
-    },
-    {
-      "added_at": "2024-05-13 15:08:40",
-      "album": {
-        "name": "B'Day Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 227853,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
     },
     {
       "added_at": "2024-05-13 15:08:40",
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz"
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Burnin' Up",
-      "url": "https://open.spotify.com/track/2VEsmoek0sol9MnJFyoG9e"
+      "duration_ms": 227853,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
     },
     {
       "added_at": "2024-05-13 15:08:40",
@@ -2087,6 +2071,22 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2024-05-13 15:08:40",
+      "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/2VEsmoek0sol9MnJFyoG9e"
     },
     {
       "added_at": "2024-05-13 15:08:40",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
-        "name": "Year Of The Gentleman (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
-    },
-    {
-      "added_at": "2024-05-13 15:08:40",
-      "album": {
         "name": "The Evolution of Robin Thicke",
         "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 254146,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2024-05-13 15:08:40",
+      "album": {
+        "name": "Year Of The Gentleman (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
     },
     {
       "added_at": "2024-05-13 15:08:40",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-05-13 15:08:40",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
-    },
-    {
-      "added_at": "2024-05-13 15:08:40",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 235266,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+    },
+    {
+      "added_at": "2024-05-13 15:08:40",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2024-05-13 15:08:40",

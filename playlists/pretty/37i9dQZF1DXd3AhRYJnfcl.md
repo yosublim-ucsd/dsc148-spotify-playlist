@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=prwU50W7RU6tdkHmEF5cOA"> رامي جمال </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,060 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,223 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Ba3tzrlek](https://open.spotify.com/track/4pnApCJBljUP7YQdCxGEbI) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ba3tzrlek](https://open.spotify.com/album/4JDSRQMIQdhad4iatxB5bU) | 4:09 |
 | 50 | [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 |
 
-Snapshot ID: `ZkYpHQAAAAAE9syU/+D758i8c3t6O15H`
+Snapshot ID: `Zl1+GwAAAABpqmph5MRSy0ZPBo0Y1lrD`

@@ -1,6 +1,6 @@
 {
   "description": "R&B of the moment by the artists of the future. Cover: Taner\u00e9lle",
-  "num_followers": 50940,
+  "num_followers": 50967,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
@@ -68,12 +68,12 @@
           "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
         },
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
           "name": "SHOW N PROVE",
           "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
       "duration_ms": 179310,

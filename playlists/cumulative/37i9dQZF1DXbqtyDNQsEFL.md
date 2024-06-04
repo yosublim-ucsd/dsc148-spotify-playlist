@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-345 songs - 1 day 11 hr 46 min
+346 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf) | 6:04 | 2022-10-14 | 2022-11-05 |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |
 | [Holy](https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Imani](https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf) | [Holy](https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr) | 3:30 | 2024-02-23 | 2024-06-01 |
+| [Holy Spirit](https://open.spotify.com/track/6RPLZmf2V1nK4wd6bkcIT5) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Holy Spirit](https://open.spotify.com/album/6eJfpsyOI2NkEkvPILVV3s) | 3:29 | 2024-05-31 |  |
 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 | 2024-01-26 | 2024-02-09 |
 | [Hosanna](https://open.spotify.com/track/6z88SI2wZE4YmS7IgzSbQ6) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 2:42 | 2023-12-05 | 2023-12-11 |
 | [Hürt No More](https://open.spotify.com/track/1NmECnzMQgwvXuXmxmjkY9) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [QweenK](https://open.spotify.com/artist/7jDg7F05o4YlzDFaN32hIR) | [Hürt No More](https://open.spotify.com/album/1sIpZ7SsKtuVTf0QvwUxhM) | 2:50 | 2023-12-01 | 2024-01-11 |
@@ -254,7 +255,7 @@
 | [Overflow \- Live](https://open.spotify.com/track/5fGEWpEGRbeqiSx0BFM4ri) | [Chingtok Ishaku](https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ), [First Love](https://open.spotify.com/artist/5NvCvGYLahLQcc7s5AqMfJ) | [Overflow](https://open.spotify.com/album/6HTnAGRH2XzNOd0jaO482B) | 12:32 | 2022-10-14 | 2022-11-05 |
 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2024-04-12 |  |
 | [Pariwo](https://open.spotify.com/track/57MJfukjIG6gh9G0MCITjM) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Pariwo](https://open.spotify.com/album/0tMmM6g7bPyYIQtDrsm07C) | 2:37 | 2023-12-05 | 2023-12-11 |
-| [Particularly](https://open.spotify.com/track/5mAkFGshHceNUuw6GOwnz8) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Particularly](https://open.spotify.com/album/6wdvPGkqiUVd3vxtxBXzA1) | 3:08 | 2024-05-17 |  |
+| [Particularly](https://open.spotify.com/track/5mAkFGshHceNUuw6GOwnz8) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Particularly](https://open.spotify.com/album/6wdvPGkqiUVd3vxtxBXzA1) | 3:08 | 2024-05-17 | 2024-06-04 |
 | [Peace \(Open Verse\)](https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Great God](https://open.spotify.com/album/4P3kOp9sw1SCMDuSFuibOB) | 2:26 | 2023-09-29 | 2023-11-02 |
 | [Peace of Mind](https://open.spotify.com/track/096IkFflGf4BsKhIgSNBYz) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Peace of Mind](https://open.spotify.com/album/3jc3sH2Yyoxh8usQ1MchUZ) | 3:00 | 2024-04-12 | 2024-05-10 |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-12-05 | 2023-12-11 |

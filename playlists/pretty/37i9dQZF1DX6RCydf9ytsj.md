@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,892 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,048 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 28 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
 | 29 | [I Was Country When Country Wasn't Cool \- Live At The Roy Acuff Theater Nashville, TN, 1981](https://open.spotify.com/track/2jQw7zMJO4fekTbP7iVA4v) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Barbara Mandrell Live \(Live At The Roy Acuff Theater Nashville, TN, 1981\)](https://open.spotify.com/album/7ebVeMz1gjFIhINj22oLx7) | 3:43 |
 | 30 | [The Fireman](https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Does Fort Worth Ever Cross Your Mind](https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF) | 2:34 |
-| 31 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
-| 32 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 31 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 32 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
 | 33 | [Elvira](https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Fancy Free](https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J) | 3:45 |
 | 34 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
 | 35 | [Mama He's Crazy](https://open.spotify.com/track/2mEAWmVDub6PSF8pZXInrS) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 95 | [I'm No Stranger to the Rain](https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:36 |
 | 96 | [Honky Tonk Man](https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 2:47 |
 | 97 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
-| 98 | [Born To Boogie](https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:44 |
-| 99 | [I Believe In You](https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:05 |
+| 98 | [I Believe In You](https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:05 |
+| 99 | [Born To Boogie](https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:44 |
 | 100 | [Drivin' My Life Away \- 2009 Remaster](https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 3:17 |
 | 101 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:05 |
 | 102 | [I Told You So](https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:39 |

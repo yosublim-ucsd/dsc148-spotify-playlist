@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,948 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,977 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 39 | [Problems](https://open.spotify.com/track/1mMIFLEa1IZJPfM7gVdssx) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Space Age](https://open.spotify.com/artist/13QFYK4YHs8qXlj0E9THq2) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 6:07 |
 | 40 | [where’s my lighter](https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 3:53 |
 
-Snapshot ID: `ZlpkgAAAAADwSDfmCLXcWzlyy3krwUYn`
+Snapshot ID: `Zlu2AAAAAADRiahziKB6zBkVtjc8P/GP`

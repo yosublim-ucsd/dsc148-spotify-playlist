@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Chavalitos en portada.",
-  "num_followers": 220598,
+  "num_followers": 220640,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,26 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Fresas de la Capital (Remix)",
-        "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
+        "name": "Rugrats",
+        "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
       "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
         {
           "name": "Jaque Mate",
           "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
         },
         {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Fresas de la Capital - Remix",
-      "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
+      "duration_ms": 235875,
+      "name": "Rugrats",
+      "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -415,26 +415,26 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Rugrats",
-        "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
+        "name": "Fresas de la Capital (Remix)",
+        "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
       },
       "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
         {
           "name": "Jaque Mate",
           "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
         },
         {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        },
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
         }
       ],
-      "duration_ms": 235875,
-      "name": "Rugrats",
-      "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
+      "duration_ms": 194240,
+      "name": "Fresas de la Capital - Remix",
+      "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "Los Brothers",
         "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 213442,
       "name": "Los Brothers",
       "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "El Sr. Guzm\u00e1n",
         "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 153377,
       "name": "El Sr. Guzm\u00e1n",
       "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "El Muchacho de la Barba",
-        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 154352,
-      "name": "El Muchacho de la Barba",
-      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "Me Recordar\u00e1 El Cartel",
         "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 221391,
       "name": "Me Recordar\u00e1 El Cartel",
       "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "El Muchacho de la Barba",
+        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 154352,
+      "name": "El Muchacho de la Barba",
+      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Porte de Scarface",
-        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Porte de Scarface",
-      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "El 4 a Arturo",
         "url": "https://open.spotify.com/album/6O9Fc8ghm8CmlRUy7XGe4k"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 237610,
       "name": "El 4 a Arturo",
       "url": "https://open.spotify.com/track/0e2SmXRTe2sjGRlJSRZXPP"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
     },
     {
       "added_at": "2024-05-24 06:00:00",

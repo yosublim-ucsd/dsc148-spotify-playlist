@@ -1,6 +1,6 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 600530,
+  "num_followers": 600540,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
@@ -555,30 +555,6 @@
     {
       "added_at": "2024-06-02 21:57:56",
       "album": {
-        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 183725,
-      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
-    },
-    {
-      "added_at": "2024-06-02 21:57:56",
-      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+    },
+    {
+      "added_at": "2024-06-02 21:57:56",
+      "album": {
+        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 183725,
+      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
     },
     {
       "added_at": "2024-06-02 21:57:56",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-02 21:57:56",
       "album": {
-        "name": "What If I Love You",
-        "url": "https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "What If I Love You",
-      "url": "https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8"
-    },
-    {
-      "added_at": "2024-06-02 21:57:56",
-      "album": {
         "name": "Can't Do Better",
         "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 188616,
       "name": "Can't Do Better",
       "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
+    },
+    {
+      "added_at": "2024-06-02 21:57:56",
+      "album": {
+        "name": "What If I Love You",
+        "url": "https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "What If I Love You",
+      "url": "https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8"
     },
     {
       "added_at": "2024-06-02 21:57:56",

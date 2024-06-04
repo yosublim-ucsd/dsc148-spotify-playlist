@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: uju(\uc6b0\uc8fc))",
-  "num_followers": 25053,
+  "num_followers": 25076,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "iScreaM Vol.1 : Kick It Remixes",
+        "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 189700,
+      "name": "Kick It - Valentino Khan Remix",
+      "url": "https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "TENGGER",
         "url": "https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 316666,
       "name": "VORTEX",
       "url": "https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        },
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -259,22 +259,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "iScreaM Vol.1 : Kick It Remixes",
-        "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
         },
         {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
         }
       ],
-      "duration_ms": 189700,
-      "name": "Kick It - Valentino Khan Remix",
-      "url": "https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo"
+      "duration_ms": 134769,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -983,30 +983,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Pinnacle (Remixes)",
-        "url": "https://open.spotify.com/album/0u1csmgyK18AZgiFeBxtog"
-      },
-      "artists": [
-        {
-          "name": "4URA",
-          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
-        },
-        {
-          "name": "PhiloSofie",
-          "url": "https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ"
-        },
-        {
-          "name": "Pure 100%",
-          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Pinnacle - Pure 100% Remix",
-      "url": "https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
+        "name": "Pinnacle (Remixes)",
+        "url": "https://open.spotify.com/album/0u1csmgyK18AZgiFeBxtog"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        },
+        {
+          "name": "PhiloSofie",
+          "url": "https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ"
+        },
+        {
+          "name": "Pure 100%",
+          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Pinnacle - Pure 100% Remix",
+      "url": "https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "iScreaM Vol.17 : DEEP Remixes",
-        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        },
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "DEEP - 4B Remix",
-      "url": "https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "iScreaM Vol.23 : Phantom Remixes",
         "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
       },
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "iScreaM Vol.17 : DEEP Remixes",
+        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "DEEP - 4B Remix",
+      "url": "https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "The Songs for the NOT-YETs",
         "url": "https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 287424,
       "name": "Bi-elijah",
       "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/0lKlR6X16nIC1oN2Auuk9g"
-      },
-      "artists": [
-        {
-          "name": "CHOIYUDAM",
-          "url": "https://open.spotify.com/artist/5ZxJkaRLQ6nN49PpNNxpbQ"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Matrix",
-      "url": "https://open.spotify.com/track/0pq1uP0bcw4LjkHIVUGpQD"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Secret Stories Heard From A Girl In An Opium Den",
+        "url": "https://open.spotify.com/album/6cMbVQAZP8gF1pW4f6iy8N"
+      },
+      "artists": [
+        {
+          "name": "Byul.org",
+          "url": "https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "2",
+      "url": "https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1383,18 +1383,34 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Secret Stories Heard From A Girl In An Opium Den",
-        "url": "https://open.spotify.com/album/6cMbVQAZP8gF1pW4f6iy8N"
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/0lKlR6X16nIC1oN2Auuk9g"
       },
       "artists": [
         {
-          "name": "Byul.org",
-          "url": "https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP"
+          "name": "CHOIYUDAM",
+          "url": "https://open.spotify.com/artist/5ZxJkaRLQ6nN49PpNNxpbQ"
         }
       ],
-      "duration_ms": 327804,
-      "name": "2",
-      "url": "https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm"
+      "duration_ms": 131213,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/0pq1uP0bcw4LjkHIVUGpQD"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Power - IMLAY Remix",
+      "url": "https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Power - IMLAY Remix",
-      "url": "https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
       },
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Shining Like the Sun in the Sky",
+        "url": "https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo"
+      },
+      "artists": [
+        {
+          "name": "Cafrii",
+          "url": "https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Shining Like the Sun in the Sky",
+      "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "iScreaM Vol.21 : 2 Baddies Remixes",
         "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
       },
@@ -1507,26 +1523,6 @@
       "duration_ms": 200723,
       "name": "2 Baddies - No Identity Remix",
       "url": "https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
-        "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Hukky Shibaseki",
-          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
-        }
-      ],
-      "duration_ms": 144269,
-      "name": "Baggy Jeans - Hukky Shibaseki Remix",
-      "url": "https://open.spotify.com/track/4gSwJMo9aLjnz3eoXhHOM5"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1571,22 +1567,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Shining Like the Sun in the Sky",
-        "url": "https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo"
-      },
-      "artists": [
-        {
-          "name": "Cafrii",
-          "url": "https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Shining Like the Sun in the Sky",
-      "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
         "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 161280,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
+        "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
+        "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Hukky Shibaseki",
+          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
+        }
+      ],
+      "duration_ms": 144269,
+      "name": "Baggy Jeans - Hukky Shibaseki Remix",
+      "url": "https://open.spotify.com/track/4gSwJMo9aLjnz3eoXhHOM5"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Sail the Seven Seas",
+        "url": "https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
         "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 274838,
       "name": "FOREVER 1 - Aiobahn Remix",
       "url": "https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "Sail the Seven Seas",
-        "url": "https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 162426,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Forest",
-        "url": "https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs"
-      },
-      "artists": [
-        {
-          "name": "DIDI HAN",
-          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Euphoric Forest",
-      "url": "https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 300000,
       "name": "Power - Dash Berlin Remix",
       "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs"
+      },
+      "artists": [
+        {
+          "name": "DIDI HAN",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "Euphoric Forest",
+      "url": "https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy"
     },
     {
       "added_at": "2024-05-23 09:41:27",

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
+> De beste Nederlandse liedjes\. Cover: Tino Martin & Anouk
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,502 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,543 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 |
-| 2 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 |
+| 1 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 |
+| 2 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 |
 | 3 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 |
 | 4 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 |
 | 5 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Ik Space](https://open.spotify.com/track/0xLnJgUHvPnq6n2ESDSMXF) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Fabienne Bergmans](https://open.spotify.com/artist/6ipBn3QaHmCnlaDetcvgRl) | [Ik Space](https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB) | 2:37 |
 | 100 | [Alles](https://open.spotify.com/track/1Mvjog6iuetW1uXH4di2bP) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles](https://open.spotify.com/album/0XEjnbbUYmcdbDazbxNmvs) | 3:02 |
 
-Snapshot ID: `ZlnD4gAAAABzDPiontCrAQOKbXuzhep1`
+Snapshot ID: `Zl2PXwAAAAB/sJDWsjWH5RDy9TScqYhc`

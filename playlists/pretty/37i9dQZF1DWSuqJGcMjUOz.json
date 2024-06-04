@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 5414,
+  "num_followers": 5426,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Giscard d'Estaing",
-        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
-      },
-      "artists": [
-        {
-          "name": "Dombrance",
-          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Giscard d'Estaing",
-      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Dix mille matins",
         "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 296026,
       "name": "La d\u00e9sise",
       "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Giscard d'Estaing",
+        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
+      },
+      "artists": [
+        {
+          "name": "Dombrance",
+          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Giscard d'Estaing",
+      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Le Volume Du Vent",
-        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
+        "name": "Les cent prochaines ann\u00e9es",
+        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
       },
       "artists": [
         {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
         }
       ],
-      "duration_ms": 186373,
-      "name": "Oublie Pas",
-      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
+      "duration_ms": 190640,
+      "name": "Les cent prochaines ann\u00e9es",
+      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Les cent prochaines ann\u00e9es",
-        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
+        "name": "Le Volume Du Vent",
+        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
       },
       "artists": [
         {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Les cent prochaines ann\u00e9es",
-      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
+      "duration_ms": 186373,
+      "name": "Oublie Pas",
+      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Suite pour personne",
+        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "duration_ms": 276662,
+      "name": "Y peut mouiller",
+      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "C'est pire et c'est mieux",
         "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Suite pour personne",
-        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
+        "name": "Temp\u00eate",
+        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
       "artists": [
         {
-          "name": "Jeanne C\u00f4t\u00e9",
-          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
         }
       ],
-      "duration_ms": 276662,
-      "name": "Y peut mouiller",
-      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
+      "duration_ms": 209680,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Temp\u00eate",
-        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
-      },
-      "artists": [
-        {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Anyway, Mommy Love",
         "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 191603,
       "name": "Anyway, Mommy Love",
       "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Jour",
-        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 205855,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1351,6 +1335,38 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Jour",
+        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "duration_ms": 205855,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Le monde est fou",
+        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Le monde est fou",
+      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Le monde est fou",
-        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Rococo",
-          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Le monde est fou",
-      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Surhomme",
         "url": "https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "La nuit s'ach\u00e8ve",
         "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 190506,
       "name": "Onze",
       "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "La fess\u00e9e",
-        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 237691,
-      "name": "La fess\u00e9e",
-      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Emmanuelle",
         "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 146853,
       "name": "Non merci",
       "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "La fess\u00e9e",
+        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "La fess\u00e9e",
+      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Bons Times Bad Times",
-        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
-      },
-      "artists": [
-        {
-          "name": "Miro Chino",
-          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "salades",
-      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "SAC \u00c0 SURPRISE",
         "url": "https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 169567,
       "name": "\u00c7A APPELLE",
       "url": "https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Bons Times Bad Times",
+        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "salades",
+      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Romantisme",
-        "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
-      },
-      "artists": [
-        {
-          "name": "\u00c9l\u00e9gie",
-          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
-        }
-      ],
-      "duration_ms": 233708,
-      "name": "Romantisme",
-      "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Motel G\u00e9d\u00e9on",
         "url": "https://open.spotify.com/album/6h70EgSf0FtAHCczgWErrL"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 233800,
       "name": "Motel G\u00e9d\u00e9on",
       "url": "https://open.spotify.com/track/1qPWodvcElyxIltRTLjLiz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Romantisme",
+        "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Romantisme",
+      "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "O\u00f9 est pass\u00e9 mon contour",
-        "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
-      },
-      "artists": [
-        {
-          "name": "Sandra Contour",
-          "url": "https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H"
-        }
-      ],
-      "duration_ms": 181994,
-      "name": "O\u00f9 est pass\u00e9 mon contour",
-      "url": "https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 223454,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "O\u00f9 est pass\u00e9 mon contour",
+        "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
+      },
+      "artists": [
+        {
+          "name": "Sandra Contour",
+          "url": "https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H"
+        }
+      ],
+      "duration_ms": 181994,
+      "name": "O\u00f9 est pass\u00e9 mon contour",
+      "url": "https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Du love \u00e0 revendre",
-        "url": "https://open.spotify.com/album/1zGu1T6rv7Hp931DxGEtRy"
-      },
-      "artists": [
-        {
-          "name": "ALICE",
-          "url": "https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x"
-        }
-      ],
-      "duration_ms": 244010,
-      "name": "Du love \u00e0 revendre",
-      "url": "https://open.spotify.com/track/5eTbAP2VvIXo4atQgwSwSY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Tralala",
         "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 263440,
       "name": "Tralala",
       "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Du love \u00e0 revendre",
+        "url": "https://open.spotify.com/album/1zGu1T6rv7Hp931DxGEtRy"
+      },
+      "artists": [
+        {
+          "name": "ALICE",
+          "url": "https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x"
+        }
+      ],
+      "duration_ms": 244010,
+      "name": "Du love \u00e0 revendre",
+      "url": "https://open.spotify.com/track/5eTbAP2VvIXo4atQgwSwSY"
     },
     {
       "added_at": "2024-05-22 11:00:00",

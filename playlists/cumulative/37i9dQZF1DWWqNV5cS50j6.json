@@ -17350,7 +17350,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 157604,
       "name": "marry me",
       "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
@@ -19716,6 +19716,24 @@
       "duration_ms": 155742,
       "name": "Notice Me",
       "url": "https://open.spotify.com/track/1FU2aAHgjqgsw4gY4BkbXS"
+    },
+    {
+      "album": {
+        "name": "Nourish a Thug",
+        "url": "https://open.spotify.com/album/0pWoAGpfVZgxORd9lsCmeI"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165225,
+      "name": "Nourish a Thug",
+      "url": "https://open.spotify.com/track/3a3IVG5G7EH6w2mAyxNIOV"
     },
     {
       "album": {
@@ -24713,6 +24731,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/439nkD5urLMoeNQfkIEEYx"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140570,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/56KHcZ1DEkj3ixRCoxOean"
+    },
+    {
+      "album": {
         "name": "Silent Assassin",
         "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
       },
@@ -28356,7 +28392,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 169466,
       "name": "The Party",
       "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"

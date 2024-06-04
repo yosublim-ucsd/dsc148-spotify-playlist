@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20  Los Master Plus en portada.",
-  "num_followers": 130222,
+  "num_followers": 130230,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "duration_ms": 261070,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "PLYBOY",
         "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 192658,
       "name": "PLYBOY",
       "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "El Boom",
-        "url": "https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 261070,
-      "name": "El Boom",
-      "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "La Guagua",
+        "url": "https://open.spotify.com/album/4qcYprsGD3dG5PZvjh33y4"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 186590,
+      "name": "La Guagua",
+      "url": "https://open.spotify.com/track/2RHMD7tOoCtiVh5gS4IOlc"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "PLOMO",
         "url": "https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 178512,
       "name": "PLOMO",
       "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "La Guagua",
-        "url": "https://open.spotify.com/album/4qcYprsGD3dG5PZvjh33y4"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 186590,
-      "name": "La Guagua",
-      "url": "https://open.spotify.com/track/2RHMD7tOoCtiVh5gS4IOlc"
     },
     {
       "added_at": "2024-05-31 06:00:00",

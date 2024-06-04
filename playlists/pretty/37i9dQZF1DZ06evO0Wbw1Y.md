@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 ### [This Is Ventino](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wbw1Y)
 
-> This is Ventino\. The essential tracks, all in one playlist.
+> This Is Ventino\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,713 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,730 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 8 | [Ya Te Perdoné](https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Te Perdoné](https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG) | 3:41 |
 | 9 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 |
 | 10 | [Apaga Y Vámonos](https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:28 |
-| 11 | [Besos De Bar](https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:55 |
-| 12 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
+| 11 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
+| 12 | [Besos De Bar](https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:55 |
 | 13 | [Equivocarse \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/3jJshgZPbc6glVBW9HLFKf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 3:08 |
-| 14 | [Si Decides \(Baby\)](https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:08 |
-| 15 | [Cuesta Amarte](https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:21 |
-| 16 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
+| 14 | [Volverte a Oír](https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:42 |
+| 15 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
+| 16 | [Cuesta Amarte](https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:21 |
 | 17 | [Besos En La Herida \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:34 |
-| 18 | [Volverte a Oír](https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:42 |
-| 19 | [Dos Tequilas](https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:59 |
-| 20 | [Yo Te Quiero Más](https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Yo Te Quiero Más](https://open.spotify.com/album/2GNs6TNh2SOt14bYTtTdlz) | 2:57 |
+| 18 | [Si Decides \(Baby\)](https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:08 |
+| 19 | [Yo Te Quiero Más](https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Yo Te Quiero Más](https://open.spotify.com/album/2GNs6TNh2SOt14bYTtTdlz) | 2:57 |
+| 20 | [Dos Tequilas](https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:59 |
 | 21 | [Prometo Olvidarte](https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:38 |
 | 22 | [La Vida Sin Ti](https://open.spotify.com/track/382e4hfqVal6gfgYyLUHsp) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:51 |
 | 23 | [Bueno Para Mi \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:30 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 41 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
 | 42 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
 
-Snapshot ID: `ZlpkgAAAAACuSsJ38nEC13FmFCliOaaw`
+Snapshot ID: `Zlu2AAAAAABigbntVbO3a1An0fFXQF/v`

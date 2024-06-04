@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,163 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,162 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 17 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 | 18 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 19 | [La mer \- Remasterisé en 2017](https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [1943 \- 1948 \(Remasterisé en 2017\)](https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ) | 3:21 |
-| 20 | [La montagne](https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La Montagne](https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P) | 3:04 |
-| 21 | [Salade de fruits](https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq) | [Bourvil](https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm) | [Salade de fruits + 29 succès de Bourvil \(Chanson française\)](https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7) | 3:15 |
+| 20 | [Salade de fruits](https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq) | [Bourvil](https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm) | [Salade de fruits + 29 succès de Bourvil \(Chanson française\)](https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7) | 3:15 |
+| 21 | [La montagne](https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La Montagne](https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P) | 3:04 |
 | 22 | [Les amoureux des bancs publics](https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens interprète ses dernières compositions N°2](https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0) | 3:00 |
 | 23 | [Paroles… paroles…](https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 4:03 |
 | 24 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 |

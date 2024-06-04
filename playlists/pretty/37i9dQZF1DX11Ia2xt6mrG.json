@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
-  "num_followers": 57461,
+  "num_followers": 57476,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "DIOSA </3",
-        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
-      },
-      "artists": [
-        {
-          "name": "Nuvia",
-          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
-        },
-        {
-          "name": "Rodezel",
-          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "DIOSA </3",
-      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 149877,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "DIOSA </3",
+        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
+      },
+      "artists": [
+        {
+          "name": "Nuvia",
+          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
+        },
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "DIOSA </3",
+      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
-      },
-      "artists": [
-        {
-          "name": "Brain Hunters",
-          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
-        },
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "NO ESTABA MAL",
         "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 165245,
       "name": "NO ESTABA MAL",
       "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
+      },
+      "artists": [
+        {
+          "name": "Brain Hunters",
+          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Feeling Alive",
-        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Everybody Salsa (Andruss Remix)",
         "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
       },
@@ -1103,6 +1087,42 @@
       "duration_ms": 166620,
       "name": "Everybody Salsa - Andruss Remix",
       "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
+      },
+      "artists": [
+        {
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "duration_ms": 222366,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 222366,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Mr.Pig",
         "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
       },
@@ -1167,26 +1167,6 @@
       "duration_ms": 174106,
       "name": "Asereje",
       "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Jackson City (Macross 82-99 Remix)",
-        "url": "https://open.spotify.com/album/79RrrhmD3nxwzefBiBTiCs"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bad Girl",
-          "url": "https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 176563,
-      "name": "Jackson City - Macross 82-99 Remix",
-      "url": "https://open.spotify.com/track/58eIfQi2LcoH0bFeizkVww"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 208780,
       "name": "Pump up the Volume",
       "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Jackson City (Macross 82-99 Remix)",
+        "url": "https://open.spotify.com/album/79RrrhmD3nxwzefBiBTiCs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bad Girl",
+          "url": "https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 176563,
+      "name": "Jackson City - Macross 82-99 Remix",
+      "url": "https://open.spotify.com/track/58eIfQi2LcoH0bFeizkVww"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "Pass The Dutch",
         "url": "https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 174891,
       "name": "Ruja",
       "url": "https://open.spotify.com/track/7ipNXtOqIcUh6Gs9jVSI8O"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "Yo Solo Quiero Que Me Quieras Como Yo Te Quiero",
+        "url": "https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 204945,
+      "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
+      "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "La Ciudad De Las Sombras",
         "url": "https://open.spotify.com/album/1xJx2EpCiwBj5gxrVKUien"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Yo Solo Quiero Que Me Quieras Como Yo Te Quiero",
-        "url": "https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 204945,
-      "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
-      "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6Tpqc6l5IldSvPwXXe6hXH"
       },
@@ -1707,26 +1707,6 @@
       "duration_ms": 167000,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/55OQy8slZ9Y74xWUvysJEq"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Tall White",
-        "url": "https://open.spotify.com/album/5hKuVw8t98yhuhleUBs9qe"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Graze",
-          "url": "https://open.spotify.com/artist/0Lv6sRZpd8OoTtg1doweYx"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Tall White",
-      "url": "https://open.spotify.com/track/1sQ3e85Yz7NdtKXhIhldWr"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1747,6 +1727,26 @@
       "duration_ms": 161904,
       "name": "Density",
       "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Tall White",
+        "url": "https://open.spotify.com/album/5hKuVw8t98yhuhleUBs9qe"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Graze",
+          "url": "https://open.spotify.com/artist/0Lv6sRZpd8OoTtg1doweYx"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Tall White",
+      "url": "https://open.spotify.com/track/1sQ3e85Yz7NdtKXhIhldWr"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Lunar Spirits",
-        "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j"
       },
       "artists": [
         {
-          "name": "Can\u00f8",
-          "url": "https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL"
+          "name": "Kertox",
+          "url": "https://open.spotify.com/artist/1jvwq1Nj0eSEeHMqRnwEDS"
         }
       ],
-      "duration_ms": 399677,
-      "name": "Lunar Spirits",
-      "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
+      "duration_ms": 138000,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/48HANicqTEwFPCRA3tPpNz"
     }
   ],
   "unique_name": "EDM\u00e9xico",

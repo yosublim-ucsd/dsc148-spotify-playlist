@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,908 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,969 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 78 | [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 |
 | 79 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 |
 | 80 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
-| 81 | [In The Rain](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In The Rain](https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha) | 3:59 |
-| 82 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 |
+| 81 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 |
+| 82 | [In The Rain](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In The Rain](https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha) | 3:59 |
 | 83 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
 | 84 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
 | 85 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 95 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
 | 96 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 |
 | 97 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 |
-| 98 | [I Forgot What's Love](https://open.spotify.com/track/6ieN3wcNaehATjOSz2V4Aj) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [I Forgot What's Love](https://open.spotify.com/album/45eRQGLZ0inlwczmzfnHCh) | 3:22 |
-| 99 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
+| 98 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
+| 99 | [I Forgot What's Love](https://open.spotify.com/track/6ieN3wcNaehATjOSz2V4Aj) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [I Forgot What's Love](https://open.spotify.com/album/45eRQGLZ0inlwczmzfnHCh) | 3:22 |
 | 100 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 
 Snapshot ID: `Zlns2QAAAACglp9aXVEs8HTnYJSAtoD+`

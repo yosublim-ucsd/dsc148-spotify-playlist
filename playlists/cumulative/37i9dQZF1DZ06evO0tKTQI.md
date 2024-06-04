@@ -2,7 +2,7 @@
 
 ### [This Is Bratty](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tKTQI)
 
-> This is Bratty\. The essential tracks, all in one playlist.
+> This Is Bratty\. Los temas esenciales, todos en una lista.
 
 56 songs - 3 hr 7 min
 
@@ -25,7 +25,7 @@
 | [Esta Ciudad](https://open.spotify.com/track/3tgcsXKt9CgKQUlugonImS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 2:40 | 2023-11-10 | 2023-12-14 |
 | [Estos Días](https://open.spotify.com/track/0H2wALPTgKViQYDXYNMBx0) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:22 | 2023-12-29 |  |
 | [Estos Días](https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Estos Días](https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0) | 3:22 | 2023-11-10 | 2023-12-25 |
-| [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 2:54 | 2023-11-10 |  |
+| [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 2:54 | 2023-11-10 | 2024-06-04 |
 | [friend](https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:17 | 2023-11-10 |  |
 | [Hasta Luego](https://open.spotify.com/track/4JTWEGM4PWVbt8WHVzbq86) | [BAMBI](https://open.spotify.com/artist/0nDw7H8W4oU0QPzL4LC9Aj), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [República De La Nostalgia](https://open.spotify.com/album/6hXtLpGm5YCS7D8EZg2BPQ) | 3:54 | 2023-11-10 |  |
 | [Hazme Saber](https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 3:32 | 2023-11-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits pr\u00e9f\u00e9r\u00e9s des enfants (et surtout de leurs parents). ",
+  "description": "Les hits pr\u00e9f\u00e9r\u00e9s des enfants (et de leurs parents). ",
   "name": "Top Hits Kids",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 189480,
       "name": "Balance ton quoi",
       "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
         "name": "Dance Monkey (Stripped Back) / Dance Monkey",
         "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
@@ -462,6 +480,24 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "album": {
+        "name": "NAKAMURA",
+        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171133,
+      "name": "Djadja",
+      "url": "https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh"
     },
     {
       "album": {
@@ -741,6 +777,24 @@
     },
     {
       "album": {
+        "name": "JVQTSM",
+        "url": "https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148866,
+      "name": "JVQTSM",
+      "url": "https://open.spotify.com/track/3FWwWrfHcJwY2C3BaNTh3j"
+    },
+    {
+      "album": {
         "name": "Katchi (Ofenbach vs. Nick Waterhouse)",
         "url": "https://open.spotify.com/album/7fJMKBNqYWhvWDs560x6nn"
       },
@@ -902,6 +956,24 @@
       "duration_ms": 234687,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/0t76rkqGEuicvSO6XBZIA4"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/0fd0sVVStoqKR0L5aEJjTb"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "Lib\u00e9r\u00e9e, D\u00e9livr\u00e9e - De \"La Reine des Neiges\"/Bande Originale Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/5pqhqSdrxLXDZY9eeCAtSJ"
     },
     {
       "album": {
@@ -1130,7 +1202,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 232146,
       "name": "Papaoutai",
       "url": "https://open.spotify.com/track/34dx8DACTJsc3rsJdaEIQw"
@@ -1240,7 +1312,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
@@ -1580,7 +1652,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 164567,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music from Black artists every Friday\. Happy Asian American and Pacific Islander Heritage Month! Cover: <a href="spotify:artist:4ClziihVpBeFXNyDH83Lde">Umi<br/></a>
+> New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:4ClziihVpBeFXNyDH83Lde">Umi<br/></a>, Shot By: <a href="https://www.instagram.com/cloudnai/">Nailah Howze <br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,653 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,962 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 27 | [Matense Por La Corona](https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Matense Por La Corona](https://open.spotify.com/album/2MHoSraRWUexi2RdZsZiEV) | 3:02 |
 | 28 | [Gimme A Second](https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Gimme A Second](https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ) | 2:53 |
 | 29 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
-| 30 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
+| 30 | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Sugar \(feat\. Larry June & SHOW N PROVE\)](https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq) | 2:59 |
 | 31 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 32 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 |
 | 33 | [I Ain't A Cowgirl \(R&B Version\)](https://open.spotify.com/track/5QZeD99UVTvdGyFPByNEOR) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [I Ain't A Cowgirl \(R&B Version\)](https://open.spotify.com/album/3LqAhJtz151MhwKIq0PG7D) | 3:01 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 |
 | 99 | [Breaking News \(feat\. Rico Nasty & Kilo Kish\)](https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 2:48 |
 
-Snapshot ID: `ZlndkgAAAACM92aEsMTb+Sd10VlHIEqn`
+Snapshot ID: `Zl3Z9gAAAAB/fiMMZbnL75QGPK9el06W`

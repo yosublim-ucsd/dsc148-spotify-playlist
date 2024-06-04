@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 155173,
+  "num_followers": 155220,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Divinidylle",
-        "url": "https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p"
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
       "artists": [
         {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
         }
       ],
-      "duration_ms": 159186,
-      "name": "Divine idylle",
-      "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+        "name": "Divinidylle",
+        "url": "https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p"
       },
       "artists": [
         {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+      "duration_ms": 159186,
+      "name": "Divine idylle",
+      "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Nico Teen Love",
-        "url": "https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k"
-      },
-      "artists": [
-        {
-          "name": "BB Brunes",
-          "url": "https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Lalalove You",
-      "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "La Zizanie",
         "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 256760,
       "name": "Rue de la Paix",
       "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Palais d'argile",
+        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 214464,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Palais d'argile",
-        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
+        "name": "Nico Teen Love",
+        "url": "https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k"
       },
       "artists": [
         {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+          "name": "BB Brunes",
+          "url": "https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud"
         }
       ],
-      "duration_ms": 214464,
-      "name": "Monde Nouveau",
-      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
+      "duration_ms": 180813,
+      "name": "Lalalove You",
+      "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
-      },
-      "artists": [
-        {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Regagner Les Plaines",
         "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 448906,
       "name": "Gigi l'amoroso",
       "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La femme chocolat",
-        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
+        "name": "La recette",
+        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
       },
       "artists": [
         {
-          "name": "Olivia Ruiz",
-          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
         }
       ],
-      "duration_ms": 171213,
-      "name": "La femme chocolat",
-      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
+      "duration_ms": 197691,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "La femme chocolat",
+        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ruiz",
+          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "La femme chocolat",
+      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Dis-Moi Encore Que Tu M'Aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
       "artists": [
         {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
         }
       ],
-      "duration_ms": 188173,
-      "name": "Dis-Moi Encore Que Tu M'Aimes",
-      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 236600,
       "name": "Je dis aime",
       "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2024-05-23 22:00:00",

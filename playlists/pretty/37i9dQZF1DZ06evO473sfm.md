@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 ### [This Is Grupo Frontera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO473sfm)
 
-> This is Grupo Frontera\. The essential tracks, all in one playlist.
+> This Is Grupo Frontera\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,973 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,322 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 41 | [IBIZA](https://open.spotify.com/track/4v3j31SwtB07C58XljuK3h) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:52 |
 | 42 | [Estos Celos \- En Vivo](https://open.spotify.com/track/01VmJGbwBz19j21aYqR6Ju) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:41 |
 
-Snapshot ID: `ZlpkgAAAAABru6S+2uDUKos6cF9ByyrO`
+Snapshot ID: `Zlu2AAAAAADUvTyHe1w1RtxcMmztOkdC`

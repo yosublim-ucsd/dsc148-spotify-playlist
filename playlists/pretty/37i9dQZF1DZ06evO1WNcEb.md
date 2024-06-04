@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 ### [This Is Eyshila](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb)
 
-> This is Eyshila\. Todos os maiores hits em uma só playlist.
+> This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,797 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,795 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 |
 | 50 | [Oleiro](https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Oleiro](https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT) | 4:11 |
 
-Snapshot ID: `ZlpkgAAAAADryjbBnuTnbzX6H1baGvGc`
+Snapshot ID: `Zlu2AAAAAACxro4vSNggU/F4jhTwvngr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,345 likes - 130 songs - 7 hr 1 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,341 likes - 130 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 129 | [Auld Lang Syne](https://open.spotify.com/track/73Qw33wmrc3r4kSRBXHGSX) | [Susan Boyle](https://open.spotify.com/artist/1qAuetfG6mhtDgsVIffWQc) | [The Gift](https://open.spotify.com/album/2SHlXY3Z9gKK2MPExaWR8M) | 2:44 |
 | 130 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
 
-Snapshot ID: `AAAE8IKMZ9Ur31bMMi6IxpGEbGQn3hbL`
+Snapshot ID: `AAAE8o2pJQKfH4azDcB2/cXgiYcUhMub`

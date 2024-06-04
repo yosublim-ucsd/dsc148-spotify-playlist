@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,749 songs - 6 day 2 hr 37 min
+2,750 songs - 6 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1659,6 +1659,7 @@
 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 | 2023-01-10 | 2023-02-08 |
 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 | 2022-11-22 | 2022-11-27 |
 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-01-31 | 2023-03-15 |
+| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-06-03 |  |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-22 | 2024-05-28 |
 | [NO PROBLEM \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/6eRUz27KzkmGy3s6ZMcHgt) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 3:16 | 2022-07-19 | 2022-07-22 |
 | [No se habla de Bruno](https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Juanse Diez](https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY), [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Elenco de Encanto](https://open.spotify.com/artist/7yunuNilTB1HH7WnIXcCnY) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:36 | 2022-01-02 | 2022-01-19 |
@@ -2263,7 +2264,7 @@
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-01-15 | 2023-02-02 |
 | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/5Qb5Crn9sefQ27M2lKahPM) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 4:11 | 2022-01-18 | 2022-01-23 |
 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2024-01-09 | 2024-02-07 |
-| [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-28 |  |
+| [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-28 | 2024-06-04 |
 | [Take Da Charge](https://open.spotify.com/track/49WtpskFw9z1AsDPwf9knU) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/2Qe9ZQZgDrXcGv1QuNUCkb) | 3:06 | 2023-01-31 | 2023-02-09 |
 | [Take Forever \(Hally's Song\)](https://open.spotify.com/track/3pBYIDSYwHpGMjq0nss6KZ) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Take Forever](https://open.spotify.com/album/0A9pp8RhqncFeWsS3XlYU8) | 3:04 | 2024-01-09 | 2024-01-18 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-07-04 | 2023-07-23 |

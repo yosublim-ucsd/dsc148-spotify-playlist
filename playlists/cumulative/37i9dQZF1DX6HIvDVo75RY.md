@@ -2,7 +2,7 @@
 
 ### [Spotify House at CMA Fest 2024](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> Coming to Nashville for CMA Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated three incredible days of live music just for you!
+> You never know who will jump up on stage at Spotify House at CMA Fest! Any guesses?
 
 322 songs - 17 hr 20 min
 

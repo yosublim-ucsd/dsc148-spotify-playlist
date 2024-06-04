@@ -1,6 +1,6 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 34436,
+  "num_followers": 34467,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR Sleep Relaxation Meditation",
-        "url": "https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL"
-      },
-      "artists": [
-        {
-          "name": "Julia Park",
-          "url": "https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS"
-        }
-      ],
-      "duration_ms": 229078,
-      "name": "Sleepy Mindset",
-      "url": "https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Triggers I'm Wearing",
         "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
+        "name": "ASMR Sleep Relaxation Meditation",
+        "url": "https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL"
+      },
+      "artists": [
+        {
+          "name": "Julia Park",
+          "url": "https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS"
+        }
+      ],
+      "duration_ms": 229078,
+      "name": "Sleepy Mindset",
+      "url": "https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
         "name": "July Tingly Studio Sounds Special",
         "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
       },
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
         }
       ],
-      "duration_ms": 226968,
-      "name": "Reassuring Whispers Asmr",
-      "url": "https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg"
+      "duration_ms": 307488,
+      "name": "Reassuring Whispers 2 Asmr",
+      "url": "https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
         }
       ],
-      "duration_ms": 307488,
-      "name": "Reassuring Whispers 2 Asmr",
-      "url": "https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx"
+      "duration_ms": 226968,
+      "name": "Reassuring Whispers Asmr",
+      "url": "https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg"
     },
     {
       "added_at": "2023-09-08 12:24:34",

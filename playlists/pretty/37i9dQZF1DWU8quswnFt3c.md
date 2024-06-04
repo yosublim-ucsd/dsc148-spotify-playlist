@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,420 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,696 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 22 | [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 |
 | 23 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/1kMqjfsBgTzhGU4CNDxOD8) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [No.1 \(feat\. Tems\)](https://open.spotify.com/album/0wV2KnE6FBQcNMhPInA7xq) | 2:27 |
 | 24 | [Llévame](https://open.spotify.com/track/5fDaVlO4UbfxPro5AlYtfM) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 2:59 |
-| 25 | [she's so cool](https://open.spotify.com/track/6ZfAbCwtXiZekia2vBXb27) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [she's so cool](https://open.spotify.com/album/6nODLxFnID6dwFspd4mpgN) | 2:36 |
-| 26 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 |
+| 25 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 |
+| 26 | [she's so cool](https://open.spotify.com/track/6ZfAbCwtXiZekia2vBXb27) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [she's so cool](https://open.spotify.com/album/6nODLxFnID6dwFspd4mpgN) | 2:36 |
 | 27 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
 | 28 | [Saath Tere](https://open.spotify.com/track/4NUMMY9FHZZ66mPHdcoASO) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Saath Tere](https://open.spotify.com/album/1h8upXtYhz5JIKnQcIUAw0) | 3:10 |
 | 29 | [Mainstream](https://open.spotify.com/track/4NlDnuMvtVNnFLqZWxsOwq) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mainstream](https://open.spotify.com/album/5VRlcJS4bpvoNdLBB6V7ew) | 3:10 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 47 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
 | 48 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 49 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
-| 50 | [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 |
+| 50 | [ARIA!](https://open.spotify.com/track/0LfDmbIEsNmKxwOhLUYap2) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [GLORIA! \(Colonna Sonora Originale del Film\)](https://open.spotify.com/album/4AuIJ9fp9AJ3XwpPBVx7Yn) | 2:42 |
 
 Snapshot ID: `ZllLQAAAAADxpgGIrt/O5/SwUVbdQiiz`

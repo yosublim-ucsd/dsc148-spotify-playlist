@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Amyl & The Sniffers
 
-313 songs - 15 hr 47 min
+314 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Cry To Heaven](https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Cry To Heaven](https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM) | 4:29 | 2023-06-08 | 2023-10-24 |
 | [Cry Your Eyes Out](https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 2:25 | 2024-02-16 |  |
 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 | 2023-05-19 | 2024-02-16 |
-| [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 | 2024-02-16 |  |
+| [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 | 2024-02-16 | 2024-06-04 |
 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 | 2022-12-02 | 2023-11-18 |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-12-02 | 2023-11-18 |
 | [Daydrinker](https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Daydrinker](https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY) | 2:45 | 2023-06-20 | 2024-06-01 |
@@ -158,6 +158,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 | 2023-06-20 | 2024-06-01 |
 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 | 2022-12-02 | 2023-11-18 |
 | [I should've listened to my friends](https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [I should've listened to my friends](https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO) | 2:46 | 2022-12-02 | 2023-03-26 |
+| [I'LL BE OKAY](https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [THE HEALING](https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI) | 2:39 | 2024-05-31 |  |
 | [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 | 2023-03-03 | 2023-11-18 |
 | [I.N.V.U.](https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [I.N.V.U.](https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v) | 2:43 | 2022-12-02 | 2023-05-04 |
 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-20 | 2024-06-01 |

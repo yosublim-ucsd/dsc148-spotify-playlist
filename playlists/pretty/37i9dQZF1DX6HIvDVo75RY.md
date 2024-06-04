@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 ### [Spotify House at CMA Fest 2024](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> Coming to Nashville for CMA Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated three incredible days of live music just for you!
+> You never know who will jump up on stage at Spotify House at CMA Fest! Any guesses?
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,572 likes - 78 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,667 likes - 78 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 77 | [Milwaukee](https://open.spotify.com/track/5x1KVuScXh34bgvaywZOdO) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half Life](https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI) | 2:59 |
 | 78 | [Love You Back](https://open.spotify.com/track/2SsNmuDCsWWJINRnUhVf1W) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [A Love Song](https://open.spotify.com/album/21LuSaEIdqrPGRmagxDPrx) | 3:22 |
 
-Snapshot ID: `Zk+KLwAAAACs90IXK1V2DZS0YXsrpchg`
+Snapshot ID: `Zl3WQQAAAABweyAlsPfgd9U9vNvfch7f`

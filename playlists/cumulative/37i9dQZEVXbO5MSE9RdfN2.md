@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-435 songs - 22 hr 10 min
+436 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-28 | 2024-03-31 |
 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 | 2024-03-21 | 2024-03-29 |
 | [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 | 2024-03-30 | 2024-04-21 |
-| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-26 | 2024-06-03 |
+| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-26 |  |
 | [Liar](https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy) | [Silia Kapsis](https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC) | [Liar](https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p) | 2:58 | 2024-05-14 | 2024-05-22 |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-01-30 | 2024-04-15 |
 | [Like I Do](https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Like I Do](https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ) | 2:29 | 2024-01-29 | 2024-02-21 |
@@ -252,6 +252,7 @@
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-05-07 | 2024-05-29 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2024-03-03 | 2024-03-10 |
 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-05-16 |  |
+| [Maxed Out](https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Maxed Out](https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt) | 2:52 | 2024-06-03 |  |
 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 | 2024-05-16 |  |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-21 | 2024-05-29 |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-23 | 2024-05-07 |
@@ -259,7 +260,7 @@
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-21 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 |  |
 | [MILLION DOLLAR BABY \(VHS\)](https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 | 2024-05-29 |
-| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-02 |  |
+| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-02 | 2024-06-04 |
 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-14 | 2024-05-29 |
 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-04-06 | 2024-04-09 |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-29 | 2024-02-14 |
@@ -286,7 +287,7 @@
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-30 | 2024-02-07 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-04-09 | 2024-04-13 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-13 | 2024-02-29 |
-| [OKAY](https://open.spotify.com/track/7BhTnzUbMCh4G7El1RlxuD) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY \(Versions\)](https://open.spotify.com/album/5osGZGEAnHH6D6YpdINODR) | 2:44 | 2024-05-14 |  |
+| [OKAY](https://open.spotify.com/track/7BhTnzUbMCh4G7El1RlxuD) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY \(Versions\)](https://open.spotify.com/album/5osGZGEAnHH6D6YpdINODR) | 2:44 | 2024-05-14 | 2024-06-04 |
 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 | 2024-01-29 | 2024-02-07 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-01-29 | 2024-03-22 |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-02-13 | 2024-02-15 |

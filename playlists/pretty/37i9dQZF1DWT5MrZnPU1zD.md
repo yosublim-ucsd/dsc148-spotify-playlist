@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674,199 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674,181 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 48 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 |
 | 49 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 |
 | 50 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 |
-| 51 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
-| 52 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
+| 51 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
+| 52 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
 | 53 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
 | 54 | [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 |
 | 55 | [Fuck Around & Find Out](https://open.spotify.com/track/61KPSucpAHpMNo1AxjsVMT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Fuck Around & Find Out](https://open.spotify.com/album/4WPMyya2jn2GoVAEHEUBr8) | 2:30 |

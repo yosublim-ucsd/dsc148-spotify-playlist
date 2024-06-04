@@ -2,7 +2,7 @@
 
 ### [This Is Delia Derbyshire](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4t4K4x)
 
-> This is Delia Derbyshire\. The essential tracks, all in one playlist.
+> This is Delia Derbyshire\. Todos os maiores hits em uma só playlist.
 
 87 songs - 4 hr 14 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Grupo Marca Registrada](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0H1xtM)
 
-> This Is Grupo Marca Registrada\. Los temas esenciales, todos en una lista.
+> This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
 85 songs - 4 hr 22 min
 

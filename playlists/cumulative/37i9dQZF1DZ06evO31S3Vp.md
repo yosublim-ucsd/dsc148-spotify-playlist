@@ -2,7 +2,7 @@
 
 ### [This Is Jão](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31S3Vp)
 
-> This is Jão\. The essential tracks, all in one playlist.
+> This is Jão\. Todos os maiores hits em uma só playlist.
 
 41 songs - 2 hr 9 min
 
@@ -30,7 +30,7 @@
 | [Imaturo](https://open.spotify.com/track/0S86atec73KKaexn67JsDy) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:58 | 2023-10-10 |  |
 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 | 2023-10-10 |  |
 | [Lindo Demais](https://open.spotify.com/track/2703CNb2od5iv56bRo2Y3h) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:00 | 2023-10-10 | 2024-02-24 |
-| [Louquinho](https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Louquinho](https://open.spotify.com/album/3ibAprngolKW66RngB6cBs) | 2:56 | 2023-10-10 |  |
+| [Louquinho](https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Louquinho](https://open.spotify.com/album/3ibAprngolKW66RngB6cBs) | 2:56 | 2023-10-10 | 2024-06-04 |
 | [Lábia](https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:51 | 2023-10-10 |  |
 | [Maria](https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 1:58 | 2023-10-10 |  |
 | [Me Beija Com Raiva](https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:16 | 2023-10-10 |  |

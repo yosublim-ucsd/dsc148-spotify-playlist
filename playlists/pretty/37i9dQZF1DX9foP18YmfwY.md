@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,505 likes - 69 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,563 likes - 69 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 28 | [Estou Orando por Você](https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Estou Orando por Você](https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa) | 5:37 |
 | 29 | [Ninguém Explica Deus \- Ao Vivo](https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM) | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW) | 5:09 |
 | 30 | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j) | 4:47 |
-| 31 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
+| 31 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
 | 32 | [Me Aceita de Volta](https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim 9](https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU) | 10:36 |
-| 33 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
+| 33 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
 | 34 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 |
 | 35 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 36 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |

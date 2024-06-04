@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Ruby Waters",
-  "num_followers": 97519,
+  "num_followers": 97580,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Chaos Angel",
+        "url": "https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Big Idea",
+      "url": "https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Pleasure delayer",
         "url": "https://open.spotify.com/album/0QRfOnmGwaspN4mOLShbG6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 189640,
       "name": "World on a String",
       "url": "https://open.spotify.com/track/06uOV6fQr0khY0LzYcy4w0"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Chaos Angel",
-        "url": "https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Big Idea",
-      "url": "https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Rumble Strip",
-        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Rumble Strip",
-      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Soup Song",
         "url": "https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 150142,
       "name": "Soup Song",
       "url": "https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Rumble Strip",
+        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Rumble Strip",
+      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
     },
     {
       "added_at": "2024-05-31 19:37:03",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Planet Song",
         "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
       },
@@ -1203,6 +1219,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "my house is warm",
+        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "my house is warm",
+      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Good Stuff",
         "url": "https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu"
       },
@@ -1219,18 +1251,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "my house is warm",
-        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
+        "name": "Rotten Mind",
+        "url": "https://open.spotify.com/album/1mFE1PCfN3ERsrNvMarAKq"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Fashion Club",
+          "url": "https://open.spotify.com/artist/6IOqRJfqL3IKF8VkJzA3a3"
+        },
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
         }
       ],
-      "duration_ms": 215586,
-      "name": "my house is warm",
-      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
+      "duration_ms": 197866,
+      "name": "Rotten Mind",
+      "url": "https://open.spotify.com/track/1RpSFK71zPBttHaOOABVAN"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1267,22 +1303,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Rotten Mind",
-        "url": "https://open.spotify.com/album/1mFE1PCfN3ERsrNvMarAKq"
+        "name": "Ribcage",
+        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
       },
       "artists": [
         {
-          "name": "Fashion Club",
-          "url": "https://open.spotify.com/artist/6IOqRJfqL3IKF8VkJzA3a3"
-        },
-        {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
         }
       ],
-      "duration_ms": 197866,
-      "name": "Rotten Mind",
-      "url": "https://open.spotify.com/track/1RpSFK71zPBttHaOOABVAN"
+      "duration_ms": 177310,
+      "name": "Ribcage",
+      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1303,22 +1335,6 @@
       "duration_ms": 166340,
       "name": "glacier meadow",
       "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Ribcage",
-        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 177310,
-      "name": "Ribcage",
-      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 271421,
       "name": "from here on out",
       "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Ultrapure",
-        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Sink;Swim",
-      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Halfway (Acoustic) feat. Hotel Fiction",
         "url": "https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 242526,
       "name": "Halfway (Acoustic) feat. Hotel Fiction",
       "url": "https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Ultrapure",
+        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Sink;Swim",
+      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "tap",
         "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 209826,
       "name": "Michelangelo",
       "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1899,6 +1883,22 @@
       "duration_ms": 189093,
       "name": "Only One",
       "url": "https://open.spotify.com/track/6ClghcsuGseL3HRiaz3gvA"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "The Cabin",
-        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
-      },
-      "artists": [
-        {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
-        }
-      ],
-      "duration_ms": 237547,
-      "name": "The Cabin",
-      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "no fun/party",
         "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "bc i love you",
-        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 237052,
-      "name": "bc i love you",
-      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Scorpions Don't Live Forever",
         "url": "https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 272000,
       "name": "Scorpions Don't Live Forever",
       "url": "https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "bc i love you",
+        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 237052,
+      "name": "bc i love you",
+      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
     }
   ],
   "unique_name": "Folk Arc",

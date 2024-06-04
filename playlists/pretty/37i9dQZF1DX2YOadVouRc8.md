@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,733 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,746 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 10 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
 | 11 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 |
 | 12 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
-| 13 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
+| 13 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 |
 | 14 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 |
 | 15 | [Romeo Must Die \(RMD\)](https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Romeo Must Die \(RMD\)](https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3) | 2:40 |
 | 16 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 |
-| 17 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 |
+| 17 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 18 | [Power Ranger](https://open.spotify.com/track/40Mvw8xX6BVwzvkLY2hD9l) | [Y.D.A](https://open.spotify.com/artist/45Kik1HKtVxnaeajZtYozL), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Till They See Me](https://open.spotify.com/album/6VvHofU4p3n23UBCUrod72) | 2:38 |
 | 19 | [X](https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [X](https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt) | 1:33 |
 | 20 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |

@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-274 songs - 1 day 0 hr 48 min
+275 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bayohlala Bejabula \- Live](https://open.spotify.com/track/7egEv6e5U0343tYtJWYJdW) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Devotional Praise \(Live\)](https://open.spotify.com/album/7ENrDmcs4C7hNhA9XNBszM) | 4:31 | 2023-08-25 | 2023-11-03 |
 | [Be Okay](https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Be Okay](https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE) | 3:28 | 2023-08-04 | 2023-10-06 |
 | [Be Okay](https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 | 2023-08-04 | 2024-04-19 |
-| [Beautiful Life \(with CAIN\)](https://open.spotify.com/track/7iMQOgRClzocidxewxXMvc) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Beautiful Life \(with CAIN\)](https://open.spotify.com/album/7oNy4QL6dUZXdUa7HQlWZZ) | 3:18 | 2024-05-31 |  |
+| [Beautiful Life \(with CAIN\)](https://open.spotify.com/track/7iMQOgRClzocidxewxXMvc) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Beautiful Life \(with CAIN\)](https://open.spotify.com/album/7oNy4QL6dUZXdUa7HQlWZZ) | 3:18 | 2024-05-31 | 2024-06-04 |
 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 | 2023-12-15 |  |
 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 | 2023-08-25 | 2023-11-03 |
 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/5LHSPGEloQJianHefFZpPf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/49A9MS8IUcFZSYDot0m4QA) | 3:03 | 2023-08-25 | 2023-08-29 |
@@ -70,6 +70,7 @@
 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 | 2018-09-23 | 2023-04-21 |
 | [God Problems](https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [God Problems](https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E) | 9:50 | 2023-11-03 | 2023-11-10 |
 | [Gonna Be Alright \- Radio Version](https://open.spotify.com/track/7nqvOv0a8Ai8o8DATHPVjS) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gonna Be Alright \(Radio Version\)](https://open.spotify.com/album/7kQsFexK5bd8U19qD6GEmF) | 3:47 | 2023-04-21 | 2023-06-23 |
+| [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 | 2024-05-31 |  |
 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-05-31 |  |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 | 2024-06-01 |
 | [Good Grace \- Live](https://open.spotify.com/track/1NjomtDtj3fsbZ6rHLO0KJ) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/0fZbzbYLpHecOvlzmznU4X) | 5:53 | 2019-01-30 | 2022-11-13 |

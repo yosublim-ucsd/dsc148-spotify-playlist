@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers ",
-  "num_followers": 446985,
+  "num_followers": 446980,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "uncooked",
+        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "uncooked",
+      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Undefeated",
         "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 206040,
       "name": "Ultimatum",
       "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "uncooked",
-        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "uncooked",
-      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Cheapskate",
-        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
-      },
-      "artists": [
-        {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Cheapskate",
-      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Elster Stares the Desert Down",
         "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 221347,
       "name": "Elster Stares the Desert Down",
       "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Cheapskate",
+        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 191761,
+      "name": "Cheapskate",
+      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Break You",
         "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 139593,
       "name": "Break You",
       "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
       },
       "artists": [
         {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
         }
       ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+      "duration_ms": 105556,
+      "name": "Disturb The Peace",
+      "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
       "artists": [
         {
-          "name": "Death Lens",
-          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
         }
       ],
-      "duration_ms": 105556,
-      "name": "Disturb The Peace",
-      "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Still Nervous",
+        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "You've Got The Nerve",
+      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Free Rein to Passions (Deluxe)",
         "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Still Nervous",
-        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 148106,
-      "name": "You've Got The Nerve",
-      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Sailor Honeymoon",
         "url": "https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg"
       },
@@ -1183,6 +1183,38 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
+      },
+      "artists": [
+        {
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Make It Better",
+        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
+      },
+      "artists": [
+        {
+          "name": "Bad News First",
+          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
+        }
+      ],
+      "duration_ms": 180603,
+      "name": "Make It Better",
+      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Sink Or Swim",
         "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
@@ -1215,22 +1247,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Choke",
-        "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
-      },
-      "artists": [
-        {
-          "name": "Cold Years",
-          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Pay Me",
         "url": "https://open.spotify.com/album/4RAWQKHKrfaideVpNFHEFn"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 97263,
       "name": "Pay Me",
       "url": "https://open.spotify.com/track/1F18iKrRxRNKQaFwCavFe5"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Make It Better",
-        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
-      },
-      "artists": [
-        {
-          "name": "Bad News First",
-          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
-        }
-      ],
-      "duration_ms": 180603,
-      "name": "Make It Better",
-      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "THE HEALING",
+        "url": "https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI"
+      },
+      "artists": [
+        {
+          "name": "The OBGMs",
+          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
+        },
+        {
+          "name": "Just John",
+          "url": "https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "I'LL BE OKAY",
+      "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Private Public Transport",
         "url": "https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL"
       },
@@ -1291,22 +1311,6 @@
       "duration_ms": 200480,
       "name": "Private Public Transport",
       "url": "https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 216618,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
     }
   ],
   "unique_name": "Today's Punk",

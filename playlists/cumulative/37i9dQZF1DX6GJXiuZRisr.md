@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-496 songs - 1 day 11 hr 1 min
+497 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Invisible \- Paul Kalkbrenner Remix](https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Invisible \(Paul Kalkbrenner Remix\)](https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf) | 7:37 | 2021-05-07 | 2023-08-19 |
 | [ION](https://open.spotify.com/track/4i8L5asDJ4XZEYjhW1hFge) | [Brian Cid](https://open.spotify.com/artist/2n6DGYH09XJFq4TqfeQ2G3) | [Bluiris EP](https://open.spotify.com/album/4iWushCeAfIQqG2odHCUQS) | 8:11 | 2021-05-07 | 2022-07-03 |
 | [Is This Trance?](https://open.spotify.com/track/3xml45o5PxJw6Xlp8sfPIC) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Is This Trance?](https://open.spotify.com/album/0YcN5yn9v3g0SDoGQj9jkr) | 4:49 | 2021-05-07 | 2022-05-17 |
+| [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 | 2024-05-31 |  |
 | [It's Ours](https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 8:03 | 2022-10-14 | 2023-07-22 |
 | [Julieta](https://open.spotify.com/track/2lLcfRJK6pNyn1WvDkyUtu) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Julieta](https://open.spotify.com/album/2ASQaFqPgGc7WNU4m4hfmx) | 4:19 | 2021-07-02 | 2022-04-18 |
 | [Just A Dream](https://open.spotify.com/track/5QCFCmu2pCzQE2uobbJ3jt) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Delta Underground](https://open.spotify.com/artist/4Em4896BPudV7MWlWuFlU8) | [Just A Dream](https://open.spotify.com/album/5VVrT9vPhk3FOS8hs0xIJR) | 3:29 | 2021-05-07 | 2022-07-28 |
@@ -423,7 +424,7 @@
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 | 2024-06-02 |
 | [The Morning After](https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [The Morning After](https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq) | 3:33 | 2023-12-01 | 2024-04-19 |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
-| [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 |  |
+| [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 | 2024-06-04 |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2024-02-09 | 2024-03-02 |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-28 | 2023-08-18 |
 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 | 2023-08-18 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,643 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,635 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 86 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
 | 87 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 |
 | 88 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
-| 89 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
-| 90 | [Smother!](https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN) | [Post Profit](https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg) | [When You Think It's Right It's Always Wrong](https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd) | 4:06 |
+| 89 | [Smother!](https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN) | [Post Profit](https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg) | [When You Think It's Right It's Always Wrong](https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd) | 4:06 |
+| 90 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
 | 91 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
 | 92 | [Parallax Error](https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [What Does Your Soul Look Like](https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV) | 3:24 |
-| 93 | [Red Button](https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Red Button](https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih) | 2:53 |
-| 94 | [Passenger](https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Passenger](https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4) | 3:26 |
+| 93 | [Passenger](https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Passenger](https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4) | 3:26 |
+| 94 | [Red Button](https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Red Button](https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih) | 2:53 |
 | 95 | [Bad Idea](https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Best Mistake](https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu) | 3:50 |
-| 96 | [Sick Ride](https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx) | 1:37 |
-| 97 | [California King](https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:53 |
+| 96 | [California King](https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:53 |
+| 97 | [Sick Ride](https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx) | 1:37 |
 | 98 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
-| 99 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
-| 100 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 |
+| 99 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 |
+| 100 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
 
 Snapshot ID: `ZlTlhAAAAAB0y0gwn0532FYq6VDAS8Zz`

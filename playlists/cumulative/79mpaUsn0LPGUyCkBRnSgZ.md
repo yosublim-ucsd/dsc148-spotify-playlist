@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-675 songs - 1 day 20 hr 8 min
+676 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Ribbons](https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:17 | 2024-01-01 | 2024-01-03 |
 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2024-01-01 | 2024-03-16 |
 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 | 2023-01-12 |  |
+| [Ride](https://open.spotify.com/track/3zJakbnIw0ufiVnIFkLfA1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 1:21 | 2024-06-03 |  |
 | [ride the dragon](https://open.spotify.com/track/15TXFTdwGEEL4jH9erTRnK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:08 | 2024-01-17 |  |
 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 | 2024-05-27 |  |
 | [Rise](https://open.spotify.com/track/688iitLNSV6Iik1QESqvth) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 1:41 | 2022-06-24 |  |

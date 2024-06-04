@@ -1,6 +1,6 @@
 {
   "description": "Las canciones m\u00e1s escuchadas por la comunidad gamer en Latinoam\u00e9rica.",
-  "num_followers": 29101,
+  "num_followers": 29134,
   "original_name": "Gaming Time!",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Enemy (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2Y9Kal9IDz6JphsCfY6GzG"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 173381,
       "name": "Enemy - From the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Metaverse",
-        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "Metaverse",
-      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Mi Gata",
         "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
       },
@@ -1695,6 +1679,42 @@
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1731,26 +1751,6 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "It's So Good",
-        "url": "https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 278518,
-      "name": "It's So Good",
-      "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Prende la C\u00e1mara RMX",
         "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 212629,
       "name": "Prende la C\u00e1mara RMX",
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "It's So Good",
+        "url": "https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 278518,
+      "name": "It's So Good",
+      "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
     },
     {
       "added_at": "2024-05-31 06:00:00",

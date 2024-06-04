@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238325,
+  "num_followers": 238369,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAABAotec3Joglz+dymGXlwoB",
+  "snapshot_id": "Zl4KLQAAAABnxJD1SJ92OaBzq9kLI+CD",
   "tracks": [
+    {
+      "added_at": "2024-06-03 18:23:41",
+      "album": {
+        "name": "Family Business",
+        "url": "https://open.spotify.com/album/4kRZDysdXZ5yeaRFxq84io"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 155046,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0tpZUwE9apjRQLJP46LHn8"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Guy I Used To Be",
-        "url": "https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Guy I Used To Be",
-      "url": "https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT"
     },
     {
       "added_at": "2024-04-05 04:01:00",

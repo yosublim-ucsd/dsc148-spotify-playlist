@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-355 songs - 22 hr 1 min
+356 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2021-03-06 | 2021-05-05 |
 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-04-21 |  |
 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 | 2020-10-20\* |  |
+| [Me, Myself & I](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 4:11 | 2024-06-03 |  |
 | [Mirrors \- Radio Edit](https://open.spotify.com/track/6ToFxXRBtl5TJFEyIoYK3f) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Mirrors \(Radio Edit\)](https://open.spotify.com/album/28GWVLkctSuSWQ1EUIxZ8m) | 4:37 | 2023-09-12 |  |
 | [Moves Like Jagger](https://open.spotify.com/track/5XaJydtltOhMpNGq0o5Oal) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Singles](https://open.spotify.com/album/0KJe8iJqOpahl1CprfAThy) | 3:22 | 2023-09-12 |  |
 | [My Kind Of Present](https://open.spotify.com/track/2Fkj6as5h0Ifc1dpIZW6V0) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [My Kind Of Present](https://open.spotify.com/album/69irrBUFoEAl1CVrRU5XtO) | 2:41 | 2021-11-30 | 2022-01-01 |

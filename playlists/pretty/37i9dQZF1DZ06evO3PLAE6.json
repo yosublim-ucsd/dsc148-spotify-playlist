@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 10305,
+  "num_followers": 10309,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlpkgAAAAABHPWURuVvYzeM0NILRsYIh",
+  "snapshot_id": "Zlu2AAAAAAADs3G8ua9DNWVQG1MsX3Ds",
   "tracks": [
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Will Have Her Way - The Songs Of Tim & Neil Finn",
-        "url": "https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD"
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD"
+      "duration_ms": 224386,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storybook",
-        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
+        "name": "She Will Have Her Way - The Songs Of Tim & Neil Finn",
+        "url": "https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD"
       },
       "artists": [
         {
@@ -288,25 +288,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 224386,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 494360,
-      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
+      "duration_ms": 199333,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
       "duration_ms": 240320,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 494360,
+      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Saturated",
-      "url": "https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 245156,
       "name": "You Got The Car",
       "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Saturated",
+      "url": "https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Like A River",
-      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 143866,
       "name": "Last Hard Bible",
       "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/7yFK6PyTCAEdb0FY16TwXS"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 175832,
       "name": "Whispering Voice",
       "url": "https://open.spotify.com/track/6KrH808OiGT7HiwofPkOEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: NewJeans (\ub274\uc9c4\uc2a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Kep1er (\ucf00\ud50c\ub7ec) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -3596,7 +3596,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 182346,
       "name": "love four cuts",
       "url": "https://open.spotify.com/track/0opN1jEHqgRgGTLv8WdjiB"
@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 187880,
       "name": "MILKY WAY",
       "url": "https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ"
@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 193579,
       "name": "NAVILLERA",
       "url": "https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv"
@@ -5488,6 +5488,24 @@
       "duration_ms": 208826,
       "name": "Shining Bright",
       "url": "https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked"
+    },
+    {
+      "album": {
+        "name": "Kep1going On",
+        "url": "https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk"
     },
     {
       "album": {

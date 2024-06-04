@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Remembering <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX\-n7beSCAHzBQ">Brenda Fassie's</a> incredible legacy, 20 years on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,263 likes - 60 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,357 likes - 60 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 18 | [Nkalakatha](https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Nkalakatha](https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg) | 4:45 |
 | 19 | [1000 Seconds](https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi) | [Durbans Finest](https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd) | 6:08 |
 | 20 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 |
-| 21 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
-| 22 | [Lengoma](https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Sound Revival](https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV) | 7:16 |
+| 21 | [Lengoma](https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Sound Revival](https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV) | 7:16 |
+| 22 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
 | 23 | [Indigo Girl](https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [In The Meantime](https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ) | 3:00 |
 | 24 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 25 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |

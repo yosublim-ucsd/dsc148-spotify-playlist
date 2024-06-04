@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Dovetail Cabin",
+        "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
+      },
+      "artists": [
+        {
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Dovetail Cabin",
+      "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-04",
       "duration_ms": 165853,
       "name": "Finnland",
       "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"

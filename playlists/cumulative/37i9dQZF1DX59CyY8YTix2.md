@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Homecomings
 
-1,623 songs - 4 day 5 hr 3 min
+1,624 songs - 4 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,7 +796,7 @@
 | [YOI](https://open.spotify.com/track/2ig5chiTMTTt9HzA5a01rm) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [ガーラ](https://open.spotify.com/album/4L2ja4EOd1yJjkoqqXJC7k) | 3:15 | 2022-06-02 | 2022-06-24 |
 | [Yoru wo koete](https://open.spotify.com/track/4RzumZk7VjD1nHczvJnhGL) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Yoru wo koete](https://open.spotify.com/album/41KGfrpRPfhT7SxUC7fSnS) | 5:09 | 2022-05-26 | 2022-07-18 |
 | [Yotei](https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Yotei](https://open.spotify.com/album/2FFYUv7eZ1pGgmwbVAGMFQ) | 4:24 | 2024-01-31 | 2024-02-07 |
-| [you n me](https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [you n me](https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw) | 4:28 | 2023-05-25 |  |
+| [you n me](https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [you n me](https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw) | 4:28 | 2023-05-25 | 2024-06-04 |
 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 | 2024-01-02 |  |
 | [Young life](https://open.spotify.com/track/3jtQRxL5Uu4qSNhJY5WCzx) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Young life / brighter brighter](https://open.spotify.com/album/1zIN6VFlLxHjYRzaBmenqb) | 3:11 | 2024-01-30 | 2024-04-24 |
 | [Your Heart](https://open.spotify.com/track/6iid9qtOzzDSp35j8WFNoh) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:13 | 2022-08-18 | 2022-08-31 |
@@ -1234,7 +1234,7 @@
 | [交差点](https://open.spotify.com/track/2OSlif0ZfiSjEWpDMFE5PA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [交差点](https://open.spotify.com/album/61dC5V6eLuvLGpJKZqLSWO) | 4:29 | 2022-06-07 | 2022-07-26 |
 | [京都ガール](https://open.spotify.com/track/12FSSZI0RQMLIZkaB84Wtf) | [Tetsuko](https://open.spotify.com/artist/0BhDdo5thWnX48EA5kFAz2) | [京都ガール](https://open.spotify.com/album/544Z5wL409BNhaIgHf910A) | 2:31 | 2023-12-05 | 2023-12-13 |
 | [人だった](https://open.spotify.com/track/3jhKiB4cDLkQeE6rReB6bO) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [導き、捧げて e.p](https://open.spotify.com/album/2egre7puOZtnfnwlhKUEJ7) | 3:43 | 2024-01-09 | 2024-01-11 |
-| [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 | 2023-06-06 | 2024-06-03 |
+| [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 | 2023-06-06 |  |
 | [今日の歌](https://open.spotify.com/track/53h744IVUMFPmYW38sdxUr) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [今日の歌](https://open.spotify.com/album/42NaaOoNPj8UAuhlNfLS0w) | 3:54 | 2022-06-02 | 2022-07-17 |
 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 | 2024-04-09 |  |
 | [仏だけ徒歩](https://open.spotify.com/track/7MEMAyebsx7YiRYN4EOlpQ) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [仏だけ徒歩](https://open.spotify.com/album/4bs0xtr8DorVBNUHeQ2Kvp) | 3:33 | 2022-06-02 | 2022-07-12 |
@@ -1260,6 +1260,7 @@
 | [光れ](https://open.spotify.com/track/1CCI8KWHoLItvCy8TG4j8K) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [光れ](https://open.spotify.com/album/0DhTrTZEo6fIyHKz21IxdE) | 3:55 | 2024-01-23 | 2024-05-01 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-26 | 2022-07-27 |
 | [光華](https://open.spotify.com/track/1zK39QgMM2RQMxTU2b3YeZ) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [光華](https://open.spotify.com/album/2fbmLsSDCKP85qLLdGZYJD) | 3:23 | 2023-04-04 | 2023-04-06 |
+| [全力少年](https://open.spotify.com/track/2UQlnlufT4f07D2NKGjaZP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SUKIMASWITCH 20th Anniversary Tribute Album『みんなのスキマスイッチ』](https://open.spotify.com/album/5sVfcsT0j9S6Um1TG2PQKw) | 3:58 | 2024-05-28 |  |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-01-04 |  |
 | [再去見尓](https://open.spotify.com/track/7bgRTIf6UK4On666SfRiqE) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/5CrA7m27kYyEdTp1PIgtbe) | 3:12 | 2023-10-17 | 2023-10-19 |
 | [冗談](https://open.spotify.com/track/5hbcrOiaILZ4WtwytP2ycK) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [冗談](https://open.spotify.com/album/2nV0cyF0eKNm8eSIcCo92H) | 2:59 | 2022-06-16 | 2022-07-21 |
@@ -1306,7 +1307,7 @@
 | [夏の光](https://open.spotify.com/track/6Y0N0AyVjxuGAEOXVqT7Ah) | [Sunday Student](https://open.spotify.com/artist/05HOn3p4dEG7ubmwkwsB8q) | [夏の光](https://open.spotify.com/album/5mkn0LOg61GAcBwhj6QBxJ) | 4:11 | 2022-06-21 | 2022-06-24 |
 | [夏嵐](https://open.spotify.com/track/7cD5iMN0Oq385by3Xhg8Ca) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [夏嵐](https://open.spotify.com/album/5uRsMPKDnQfqIdnFPUs9Rx) | 3:16 | 2022-05-31 | 2022-07-07 |
 | [夏影、](https://open.spotify.com/track/6TNCjUqjCfNyhqZKqTFMeY) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [夏影、](https://open.spotify.com/album/2x3IupbEeHXoOmL8Y73T3c) | 4:09 | 2022-06-23 | 2022-06-28 |
-| [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 | 2023-06-27 |  |
+| [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 | 2023-06-27 | 2024-06-04 |
 | [夏日狂想](https://open.spotify.com/track/4YiiwI9UXNTT51BwojLcR8) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [夏日狂想](https://open.spotify.com/album/3awrF7PnzLIDdQyJzlhrzx) | 4:17 | 2023-05-30 | 2023-06-01 |
 | [夕凪詠草](https://open.spotify.com/track/3ubz3X8CL6Fd1xUYh1L2IU) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [夕凪詠草](https://open.spotify.com/album/0hz1H7b4aFsXSRsPfb4hj8) | 3:57 | 2023-09-26 | 2023-09-28 |
 | [夕陽](https://open.spotify.com/track/50LOQDfaIwCDXWor7PkyS3) | [sawamay](https://open.spotify.com/artist/0pXaWX4t0zSi9TzhoKBd55) | [夕陽](https://open.spotify.com/album/5R5PTG0i4VEoeOE3YXMHKM) | 3:24 | 2023-12-12 | 2023-12-20 |

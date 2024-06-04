@@ -4,13 +4,13 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Tedua
 
-532 songs - 1 day 2 hr 10 min
+533 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-04-03 |  |
 | [07:34](https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [07:34](https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f) | 3:11 | 2024-03-14 | 2024-04-05 |
-| [1 2 3](https://open.spotify.com/track/62UBKdRBsHmvGxH1nrLMai) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [1 2 3](https://open.spotify.com/album/7pb7dJSRRyRGFHTiQEF7yl) | 1:58 | 2024-05-16 |  |
+| [1 2 3](https://open.spotify.com/track/62UBKdRBsHmvGxH1nrLMai) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [1 2 3](https://open.spotify.com/album/7pb7dJSRRyRGFHTiQEF7yl) | 1:58 | 2024-05-16 | 2024-06-04 |
 | [1 MESSAGGIO](https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [1 MESSAGGIO](https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS) | 2:34 | 2023-09-28 | 2023-12-15 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-02-27 | 2024-05-24 |
 | [100 OPPS](https://open.spotify.com/track/32VGaGAXpPFYh0XgmHp7lI) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [100 OPPS](https://open.spotify.com/album/4wYRRwVSMgQY5YBwqo67w6) | 2:47 | 2023-04-27 | 2023-06-09 |
@@ -459,6 +459,7 @@
 | [Sensazioni Momentanee \(feat\. Lil Kvneki\)](https://open.spotify.com/track/7B7MnH2GI5A9NfXdVQSmKh) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Filtri + Nudo](https://open.spotify.com/album/4d2kLkpgmoMyMR5tR3azNz) | 4:05 | 2022-05-09 | 2022-06-03 |
 | [SENZ'ANIMA \- nikita](https://open.spotify.com/track/39ZJEJ8KLq8yQQ1OEAdJ1W) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:13 | 2023-05-18 | 2023-10-13 |
 | [Senza Emotions \(feat\. ANNA\)](https://open.spotify.com/track/71LQrUFG59w2vjhYe8Epue) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Senza Emotions \(feat\. ANNA\)](https://open.spotify.com/album/0FNNeKxLa3jbl3Fl4JzRch) | 2:20 | 2022-09-08 | 2023-01-06 |
+| [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 | 2024-06-03 |  |
 | [Settembre](https://open.spotify.com/track/4hUS2xbkB22ErKwVi8PyCg) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Settembre](https://open.spotify.com/album/1W06j6H9EF3HEMxX6yEr3J) | 2:16 | 2022-11-10 | 2022-12-06 |
 | [SEXY \(feat\. Guè\)](https://open.spotify.com/track/6iOZlieTgmYWDCQmq4Auu6) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NO STRESS](https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF) | 2:36 | 2023-07-06 | 2023-07-21 |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-05-09 | 2022-06-03 |

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,951 songs - 3 day 2 hr 17 min
+1,952 songs - 3 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [12 Weeks](https://open.spotify.com/track/2LQvFDHnUiT3D612LHntIN) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [12 Weeks](https://open.spotify.com/album/4tiI9ZZC5z74fErA5AFviM) | 2:40 | 2022-06-17 | 2023-04-21 |
 | [14Th Floor](https://open.spotify.com/track/6Umvpk3FNqHSVN2raiAHMR) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc), [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE) | [14Th Floor](https://open.spotify.com/album/0Kje26nv2CJrsjZ3Ob0w1H) | 1:46 | 2023-03-08 | 2023-10-06 |
 | [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2022-09-02 | 2024-02-02 |
+| [2.05am](https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [2.05am](https://open.spotify.com/album/2ZN7gvIcWxomdsqecufEWe) | 3:50 | 2024-05-31 |  |
 | [280](https://open.spotify.com/track/7Dw01bYupNW7yKAwo4Yzx3) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | ['99](https://open.spotify.com/album/3WVWIjOfJ3jHyfFR8pCedL) | 3:16 | 2022-04-15 | 2022-12-03 |
 | [4 AM](https://open.spotify.com/track/1e9QYfVecpOpvcmRkQEK0e) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Soul Silk](https://open.spotify.com/album/5pNYYDEA83XcuAykmfjRn9) | 2:27 | 2022-04-15 | 2022-05-27 |
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2023-10-13 |  |
@@ -1074,7 +1075,7 @@
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
-| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 |  |
+| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 | 2024-06-04 |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2023-03-01 |  |
 | [Miss lavii](https://open.spotify.com/track/4UpMl0ADAnyeLBM1TGbqtu) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:42 | 2022-04-15 | 2023-03-09 |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |
@@ -1685,7 +1686,7 @@
 | [Take Away](https://open.spotify.com/track/079qxR6tndFavZsUUqP6eD) | [Under Surface Express](https://open.spotify.com/artist/6V1fTn88dig3TPy2TXuZ61) | [Take Away](https://open.spotify.com/album/69rPS7tyNHuhvX18GT28pI) | 1:51 | 2022-04-15 | 2023-08-18 |
 | [Take it Slow](https://open.spotify.com/track/4DdZhkt6enwJvYjSSJuyHQ) | [Yugi](https://open.spotify.com/artist/5gKSmbeqGuqoj0uPIDoTbJ), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [Take it Slow](https://open.spotify.com/album/6aN6hYuiTqj6zT7W8RarRo) | 2:11 | 2022-12-09 | 2023-09-16 |
 | [Take us there](https://open.spotify.com/track/4fj0Zv7huXXiZKHk0S5DjM) | [Tactic Frog](https://open.spotify.com/artist/0jKjCXV0B1hkqDjs5rbnjT) | [Take us there](https://open.spotify.com/album/7HsdveANIIbdUPLdltsNxe) | 2:18 | 2022-04-15 | 2022-10-01 |
-| [Takeabreakalready](https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Takeabreakalready](https://open.spotify.com/album/3SWva0m3WplRxy58XAof2n) | 2:12 | 2023-01-06 | 2024-06-02 |
+| [Takeabreakalready](https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Takeabreakalready](https://open.spotify.com/album/3SWva0m3WplRxy58XAof2n) | 2:12 | 2023-01-06 |  |
 | [Taking a Gap Year](https://open.spotify.com/track/3EaQ19sdn6IfNNwAbZlLss) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Taking a Gap Year](https://open.spotify.com/album/3gDT4tudeH7Bcg5TW4Y8aS) | 3:55 | 2022-04-15 | 2022-07-22 |
 | [Taking Flight](https://open.spotify.com/track/73vGZ3fTM303YNDoXHIM3i) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Taking Flight](https://open.spotify.com/album/2CywxdG7exuCBbMqZlcwVh) | 2:35 | 2023-01-13 | 2024-02-09 |
 | [Taking It Slow At The Beach](https://open.spotify.com/track/5xQJTQyGpzI48h8YYldXnD) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Taking It Slow at the Beach](https://open.spotify.com/album/4oNYznjAG04N2Wlvwen4Xn) | 2:05 | 2022-06-24 | 2022-11-26 |
@@ -1714,7 +1715,7 @@
 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 | 2023-11-24 |  |
 | [The Daily News](https://open.spotify.com/track/3CFE8CIX6xG52LolmQWUEt) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:14 | 2022-04-22 | 2022-07-01 |
 | [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2023-10-06 |  |
-| [the deep sea](https://open.spotify.com/track/1wGGlZgpgyXK3f3VvC4pmY) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [the deep sea](https://open.spotify.com/album/60BoudET7QMDno2pcRrsH5) | 2:11 | 2024-02-09 |  |
+| [the deep sea](https://open.spotify.com/track/1wGGlZgpgyXK3f3VvC4pmY) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [the deep sea](https://open.spotify.com/album/60BoudET7QMDno2pcRrsH5) | 2:11 | 2024-02-09 | 2024-06-04 |
 | [the farmyard](https://open.spotify.com/track/7129WaLtzJPaV2fx02SGGR) | [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU), [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Sakuraba](https://open.spotify.com/artist/41G6LD5586sRiClewOQBTe) | [Suburban](https://open.spotify.com/album/4jobRM9xvrzmyJbUeXb0js) | 1:58 | 2022-04-15 | 2022-07-29 |
 | [the farmyard](https://open.spotify.com/track/3L3fMOKNksoF9FR6dA3vFU) | [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU), [Sakuraba](https://open.spotify.com/artist/41G6LD5586sRiClewOQBTe), [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt) | [Suburban](https://open.spotify.com/album/0laO5fRPq1kKLqwGaG9pHK) | 1:58 | 2022-07-29 | 2022-08-12 |
 | [The French Express](https://open.spotify.com/track/4vyEcpMJ7d4kYW0NsTTalA) | [Fashion Allure](https://open.spotify.com/artist/3f2eVgVyrMtQwwp1Ev1Zkc) | [The French Express](https://open.spotify.com/album/7DF1zoWJypCNV8w6Mujrcm) | 2:03 | 2024-02-09 | 2024-04-27 |
