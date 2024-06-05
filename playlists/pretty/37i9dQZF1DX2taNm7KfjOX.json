@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Jessica Pratt",
-  "num_followers": 1395605,
+  "num_followers": 1395591,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 215689,
       "name": "Ketchum, ID",
       "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Pacific",
         "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 368493,
       "name": "There's A Place",
       "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Love Letter From The Sea to The Shore",
-        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "Love Letter From The Sea to The Shore",
-      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Guard Dog",
         "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 277374,
       "name": "Walk Me Home",
       "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
-      },
-      "artists": [
-        {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "When I Was Younger",
-      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 275662,
       "name": "Life According To Raechel - Spotify Single",
       "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
       },
       "artists": [
         {
-          "name": "Sumbuck",
-          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 157051,
-      "name": "Moss",
-      "url": "https://open.spotify.com/track/6ekrWBXDwoAlGeKviqSk1O"
+      "duration_ms": 233854,
+      "name": "Partner in Crime - Spotify Singles",
+      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1803,22 +1803,6 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 233854,
-      "name": "Partner in Crime - Spotify Singles",
-      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1867,6 +1851,22 @@
       "duration_ms": 205080,
       "name": "Sit Here And Love Me",
       "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7"
+      },
+      "artists": [
+        {
+          "name": "Sumbuck",
+          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+        }
+      ],
+      "duration_ms": 157051,
+      "name": "Moss",
+      "url": "https://open.spotify.com/track/6ekrWBXDwoAlGeKviqSk1O"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Second Sun",
-        "url": "https://open.spotify.com/album/5cmMIs2vDV7WfNKdRBGaak"
-      },
-      "artists": [
-        {
-          "name": "Jodie Nicholson",
-          "url": "https://open.spotify.com/artist/3UKeJqND3iyFxGOUPLq9Be"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Second Sun",
-      "url": "https://open.spotify.com/track/6M9pAYUbeZw1P492xk1TIm"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Folk Covers",
         "url": "https://open.spotify.com/album/0Ud61rO8oGgNtULK6HUead"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 197939,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/3a5TUoTkUFU0XRwFX08UhL"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Second Sun",
+        "url": "https://open.spotify.com/album/5cmMIs2vDV7WfNKdRBGaak"
+      },
+      "artists": [
+        {
+          "name": "Jodie Nicholson",
+          "url": "https://open.spotify.com/artist/3UKeJqND3iyFxGOUPLq9Be"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/6M9pAYUbeZw1P492xk1TIm"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Distant Axis",
-        "url": "https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Distant Axis",
-      "url": "https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "The Pressing In",
         "url": "https://open.spotify.com/album/0jLITJvsGDolvrwDU3U5mM"
       },
@@ -2239,34 +2223,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "I Know, I Know",
-        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
+        "name": "Distant Axis",
+        "url": "https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 180619,
-      "name": "I Know, I Know",
-      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Roll The Bones",
-        "url": "https://open.spotify.com/album/6F8bHoGMEWZ9GEdRrYpAUj"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 244272,
-      "name": "Roll The Bones",
-      "url": "https://open.spotify.com/track/48aMRInrhWYKECuIXX5x9m"
+      "duration_ms": 265160,
+      "name": "Distant Axis",
+      "url": "https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2283,6 +2251,22 @@
       "duration_ms": 217439,
       "name": "Stone",
       "url": "https://open.spotify.com/track/7ByCBSiSnTIiI8E3wp6gof"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Roll The Bones",
+        "url": "https://open.spotify.com/album/6F8bHoGMEWZ9GEdRrYpAUj"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 244272,
+      "name": "Roll The Bones",
+      "url": "https://open.spotify.com/track/48aMRInrhWYKECuIXX5x9m"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2335,6 +2319,22 @@
       "duration_ms": 238333,
       "name": "Awake for the Sunrise",
       "url": "https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "I Know, I Know",
+        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "I Know, I Know",
+      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Dawn Sounds",
+        "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 199207,
+      "name": "Go, Try, Fall",
+      "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Neon Blue",
         "url": "https://open.spotify.com/album/6Sv9Zb6DjvYArLOAAb40aS"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 179554,
       "name": "Neon Blue",
       "url": "https://open.spotify.com/track/3C5IAL2ayPXvM1PVEdwUra"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Dawn Sounds",
-        "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
-      },
-      "artists": [
-        {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
-        }
-      ],
-      "duration_ms": 199207,
-      "name": "Go, Try, Fall",
-      "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2483,6 +2483,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "The Time of the Foxgloves",
+        "url": "https://open.spotify.com/album/0YKXY8IMJv2czFmhxKIiEy"
+      },
+      "artists": [
+        {
+          "name": "Michael Hurley",
+          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Are You Here For The Festival",
+      "url": "https://open.spotify.com/track/0C91J60J0Z3kT2UmsZJges"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Geist",
         "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Fruit from the Trees",
-        "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 296929,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Fruit from the Trees",
+        "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/0KeSSBwhamL1NVvp8uLMjk"
       },
@@ -2543,22 +2559,6 @@
       "duration_ms": 225354,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4O354RXGtWktEKC6fMM1CM"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "The Time of the Foxgloves",
-        "url": "https://open.spotify.com/album/0YKXY8IMJv2czFmhxKIiEy"
-      },
-      "artists": [
-        {
-          "name": "Michael Hurley",
-          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Are You Here For The Festival",
-      "url": "https://open.spotify.com/track/0C91J60J0Z3kT2UmsZJges"
     },
     {
       "added_at": "2024-04-26 04:00:00",

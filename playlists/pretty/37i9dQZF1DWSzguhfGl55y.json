@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 626997,
+  "num_followers": 627047,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-05-06 09:17:53",
       "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2024-05-06 09:17:53",
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
-    },
-    {
-      "added_at": "2024-05-06 09:17:53",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
     },
     {
       "added_at": "2024-05-06 09:17:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-05-06 09:17:53",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
-      },
-      "artists": [
-        {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
-    },
-    {
-      "added_at": "2024-05-06 09:17:53",
-      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 153146,
       "name": "Ol\u00e9 Ol\u00e9",
       "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
+    },
+    {
+      "added_at": "2024-05-06 09:17:53",
+      "album": {
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+      },
+      "artists": [
+        {
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2024-05-06 09:17:53",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-05-06 09:17:53",
       "album": {
+        "name": "Up2Date XXL",
+        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Poesie Album",
+      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
+    },
+    {
+      "added_at": "2024-05-06 09:17:53",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2024-05-06 09:17:53",
-      "album": {
-        "name": "Up2Date XXL",
-        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Poesie Album",
-      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
     },
     {
       "added_at": "2024-05-06 09:17:53",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-05-06 09:17:53",
       "album": {
+        "name": "Quadratur des Kreises",
+        "url": "https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W"
+      },
+      "artists": [
+        {
+          "name": "Freundeskreis",
+          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
+        },
+        {
+          "name": "Max Herre",
+          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
+        }
+      ],
+      "duration_ms": 366133,
+      "name": "A-N-N-A",
+      "url": "https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S"
+    },
+    {
+      "added_at": "2024-05-06 09:17:53",
+      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2024-05-06 09:17:53",
-      "album": {
-        "name": "Quadratur des Kreises",
-        "url": "https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W"
-      },
-      "artists": [
-        {
-          "name": "Freundeskreis",
-          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
-        },
-        {
-          "name": "Max Herre",
-          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
-        }
-      ],
-      "duration_ms": 366133,
-      "name": "A-N-N-A",
-      "url": "https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S"
     },
     {
       "added_at": "2024-05-06 09:17:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-06 09:17:53",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Hammerhart",
-      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
-    },
-    {
-      "added_at": "2024-05-06 09:17:53",
-      "album": {
         "name": "Samy Deluxe",
         "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 248666,
       "name": "Safari",
       "url": "https://open.spotify.com/track/5IdPCWPtBLLC6cSxP4BZGm"
+    },
+    {
+      "added_at": "2024-05-06 09:17:53",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
     },
     {
       "added_at": "2024-05-06 09:17:53",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-05-06 09:17:53",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0rypL4vmBetlVD3PnjVJvd"
+      },
+      "artists": [
+        {
+          "name": "Dj Thomilla",
+          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
+        },
+        {
+          "name": "Afrob",
+          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
+        }
+      ],
+      "duration_ms": 229520,
+      "name": "Get Up (Radio Edit)",
+      "url": "https://open.spotify.com/track/1WlTJc85nw6jHFoHc6We8O"
+    },
+    {
+      "added_at": "2024-05-06 09:17:53",
+      "album": {
         "name": "Deluxe Records - Let's Go",
         "url": "https://open.spotify.com/album/64hi8ncvzVl16X6b5QG2Ff"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 212240,
       "name": "Gustav Gans",
       "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
-    },
-    {
-      "added_at": "2024-05-06 09:17:53",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/0rypL4vmBetlVD3PnjVJvd"
-      },
-      "artists": [
-        {
-          "name": "Dj Thomilla",
-          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
-        },
-        {
-          "name": "Afrob",
-          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
-        }
-      ],
-      "duration_ms": 229520,
-      "name": "Get Up (Radio Edit)",
-      "url": "https://open.spotify.com/track/1WlTJc85nw6jHFoHc6We8O"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

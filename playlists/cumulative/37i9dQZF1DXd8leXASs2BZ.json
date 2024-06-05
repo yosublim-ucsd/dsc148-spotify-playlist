@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kaneee, Kohjiya, Yvng Patra",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 18stop",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 202156,
       "name": "Almost 20",
       "url": "https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 178247,
       "name": "Bread",
       "url": "https://open.spotify.com/track/3L0D36dJ3YRTpYtZ6qvj56"
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 146392,
       "name": "Dear v3geboy",
       "url": "https://open.spotify.com/track/1IGmocmG6F38UXwcOw4sQV"
@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 220000,
       "name": "isekai",
       "url": "https://open.spotify.com/track/1AtbQhAfskE2WzUFK14rVs"
@@ -5409,6 +5409,28 @@
     },
     {
       "album": {
+        "name": "Message / In my head",
+        "url": "https://open.spotify.com/album/2bNY04KKLbfhIzYgUH4ZtG"
+      },
+      "artists": [
+        {
+          "name": "ZED",
+          "url": "https://open.spotify.com/artist/1blQ7hSqDge64HcGWBhDH8"
+        },
+        {
+          "name": "Yvng xan",
+          "url": "https://open.spotify.com/artist/3OzE7ohZzlPOmVuvC4ZPX0"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93180,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/31QrAvVBgf8ontAuFQ7Z1I"
+    },
+    {
+      "album": {
         "name": "Mirror feat. JJJ",
         "url": "https://open.spotify.com/album/5zfe2KcqmYnUgB9nE7skjN"
       },
@@ -5494,6 +5516,28 @@
       "duration_ms": 155991,
       "name": "mp3",
       "url": "https://open.spotify.com/track/1XEWKJUASRAp5GZLXKxi0a"
+    },
+    {
+      "album": {
+        "name": "Mutyuu",
+        "url": "https://open.spotify.com/album/4LFfPpWgmbXktUuex0Sh0z"
+      },
+      "artists": [
+        {
+          "name": "Adem",
+          "url": "https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b"
+        },
+        {
+          "name": "yovng JuJu",
+          "url": "https://open.spotify.com/artist/5w6wByukZ9LO6Gig2BVO2H"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mutyuu",
+      "url": "https://open.spotify.com/track/6FAAakyCEV2d20PqkNPpqW"
     },
     {
       "album": {
@@ -5995,6 +6039,24 @@
     },
     {
       "album": {
+        "name": "Okinawa",
+        "url": "https://open.spotify.com/album/3jEtZeVegDHJDls2wlTOjG"
+      },
+      "artists": [
+        {
+          "name": "18stop",
+          "url": "https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Okinawa",
+      "url": "https://open.spotify.com/track/2E5pc4bULJbOSDQIM5KxBV"
+    },
+    {
+      "album": {
         "name": "F4MILY",
         "url": "https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs"
       },
@@ -6298,7 +6360,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 156888,
       "name": "over, think",
       "url": "https://open.spotify.com/track/4b47cWTAThXjlxd7pSLihH"
@@ -6400,6 +6462,24 @@
       "duration_ms": 129235,
       "name": "Phonecall",
       "url": "https://open.spotify.com/track/5pPg981avhNjpOtd7MSuNk"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/5KOB4tRtyOSc28OLBTURTp"
+      },
+      "artists": [
+        {
+          "name": "$till.J.Cark",
+          "url": "https://open.spotify.com/artist/7Ib2pqwSqhPdgsRV28N9gt"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123788,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/4hDpCeAtUbuysvb8arQhqy"
     },
     {
       "album": {
@@ -6717,6 +6797,24 @@
     },
     {
       "album": {
+        "name": "nuzip",
+        "url": "https://open.spotify.com/album/4UkotOsQGw7GFN16dm4NTD"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Renton",
+      "url": "https://open.spotify.com/track/016HD0Hb2nAZKmudqeblW6"
+    },
+    {
+      "album": {
         "name": "Self-Assertive",
         "url": "https://open.spotify.com/album/0of1qpeFOd3nrz0eVOYPB4"
       },
@@ -6806,7 +6904,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 133020,
       "name": "RN!",
       "url": "https://open.spotify.com/track/7voMTwbwpFcEflsKc1ZmPW"
@@ -7840,6 +7938,24 @@
       "duration_ms": 234216,
       "name": "SWEETHEART - Remix",
       "url": "https://open.spotify.com/track/2v6dPfhHXG8m1Vu9Cfq7co"
+    },
+    {
+      "album": {
+        "name": "DREAM HORIZON",
+        "url": "https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "syuzinkou",
+      "url": "https://open.spotify.com/track/6NTWzrWaqpVqsa9yhhnhbe"
     },
     {
       "album": {
@@ -9285,6 +9401,24 @@
     },
     {
       "album": {
+        "name": "\u54c0\u60c5",
+        "url": "https://open.spotify.com/album/2myB1M5Mtu78dvDfLDwre6"
+      },
+      "artists": [
+        {
+          "name": "Icekun",
+          "url": "https://open.spotify.com/artist/00Bu6fZKOWQNH4guj1rP7H"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71017,
+      "name": "\u54c0\u60c5",
+      "url": "https://open.spotify.com/track/7a8MiAsjzRY7hPl9ZDql7T"
+    },
+    {
+      "album": {
         "name": "\u590f\u30ce\u96f2",
         "url": "https://open.spotify.com/album/5LjXBiDHnTj6yU8SHL0m3U"
       },
@@ -9656,7 +9790,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 128297,
       "name": "\u8ab0 (\u4e86\u2514/ \u4e86\u30ca\u30fb\u52f9\u2033\u30e9\u30fb/\u3012\")",
       "url": "https://open.spotify.com/track/2k7qBpLnNPD0plmaUiMaKS"

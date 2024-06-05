@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 ### [This Is Banda Toro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dQL3v)
 
-> This is Banda Toro\. The essential tracks, all in one playlist.
+> This Is Banda Toro\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,701 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,702 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 49 | [Las Rejas No Matan \- Estilo Tierra Caliente](https://open.spotify.com/track/404UyA1jbIWYi9m6Z9b91X) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:57 |
 | 50 | [La Ruca No Era Ruca](https://open.spotify.com/track/0kVdI21EAaG7Ls9MdfaiyQ) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La ruca no era ruca](https://open.spotify.com/album/6dVt3gBo9u30rkraGA7P62) | 4:22 |
 
-Snapshot ID: `Zlu2AAAAAAA5c8AeY5lIZr+orY1tMgVm`
+Snapshot ID: `Zlu2AAAAAAD25bqYNRf/ubOV/EFcJQ8b`

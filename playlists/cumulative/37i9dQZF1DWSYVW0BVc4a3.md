@@ -4,7 +4,7 @@
 
 > one life
 
-928 songs - 2 day 22 hr 24 min
+929 songs - 2 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/album/5gv2eRP8iQYnhQo7YaFUMn) | 3:01 | 2022-09-29 | 2022-12-02 |
 | [Wrath](https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wrath / Envy](https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu) | 3:21 | 2022-11-24 | 2023-03-26 |
 | [Writers Block \- Nihil Young Remix](https://open.spotify.com/track/7r7yVzIR12cRIuFhmcQEvM) | [Tyler Hill](https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [WRITER'S BLOCK](https://open.spotify.com/album/2SyzFeDGPhNkeL6VRJ2peX) | 7:00 | 2024-04-25 |  |
+| [Xenon](https://open.spotify.com/track/2AZ6zilEtOIBedcOpJcyaf) | [Dhillon](https://open.spotify.com/artist/0uz2ob916mOA6c21tw0b28) | [Xenon](https://open.spotify.com/album/2Rj6KwcpbsOoVKXXOKXI2m) | 7:04 | 2024-06-04 |  |
 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 | 2022-08-18 | 2022-09-23 |
 | [YAP \- Krystal Klear Remix](https://open.spotify.com/track/0KFhKIIRiXDIGleHSATjxV) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N), [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [YAP \(Krystal Klear Remix\)](https://open.spotify.com/album/6AZG7wxbqK1q3u2RgpzuQg) | 5:47 | 2023-06-08 | 2023-06-23 |
 | [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-04-18 |  |

@@ -3033,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "album": {
         "name": "Give Me That - The 5th Mini Album",
         "url": "https://open.spotify.com/album/3umJyIQq0mjtg4eMnOlLbv"
       },
@@ -4250,6 +4268,24 @@
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "album": {
+        "name": "KING KONG",
+        "url": "https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196221,
+      "name": "KING KONG",
+      "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
     },
     {
       "album": {

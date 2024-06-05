@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Tillu Square",
-  "num_followers": 104693,
+  "num_followers": 104999,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkoZYwAAAABrxBnBjoWnCuUdI1G/Wen9",
+  "snapshot_id": "Zl64dAAAAABTznc3FrOfz5ow9eVp5ZQX",
   "tracks": [
     {
       "added_at": "2024-05-01 12:02:24",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW"
     },
     {
+      "added_at": "2024-06-04 06:47:16",
+      "album": {
+        "name": "Hungry Cheetah (From \"They Call Him OG\")",
+        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 119052,
+      "name": "Hungry Cheetah (From \"They Call Him OG\")",
+      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
+    },
+    {
       "added_at": "2023-08-30 10:44:11",
       "album": {
         "name": "Tillu Square",
@@ -75,6 +91,22 @@
       "duration_ms": 189966,
       "name": "Ticket Eh Konakunda",
       "url": "https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT"
+    },
+    {
+      "added_at": "2024-02-19 04:32:52",
+      "album": {
+        "name": "Gumma (From \"Ambajipeta Marriage Band\")",
+        "url": "https://open.spotify.com/album/3UtsdAsNLgSakD8UYYXf4o"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Gumma (From \"Ambajipeta Marriage Band\")",
+      "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
     },
     {
       "added_at": "2024-04-18 09:25:53",
@@ -157,72 +189,24 @@
       "url": "https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi"
     },
     {
-      "added_at": "2023-12-19 06:50:31",
+      "added_at": "2024-06-04 06:47:16",
       "album": {
-        "name": "Sooreede (From \"Salaar Cease Fire - Telugu\")",
-        "url": "https://open.spotify.com/album/5FW8Ypbbg0hASh6jLtNZ3Z"
+        "name": "Jai Balayya Mass Anthem (From \"Veera Simha Reddy\")",
+        "url": "https://open.spotify.com/album/0UJmlCKMIze1ajenoDeedX"
       },
       "artists": [
         {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+          "name": "Kareemullah",
+          "url": "https://open.spotify.com/artist/04xyKkk9EW7xvbxWQOOXZf"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Sooreede (From \"Salaar Cease Fire - Telugu\")",
-      "url": "https://open.spotify.com/track/78TQJ6QyHZNRXUNFBpNuhP"
-    },
-    {
-      "added_at": "2024-02-19 04:32:52",
-      "album": {
-        "name": "Gumma (From \"Ambajipeta Marriage Band\")",
-        "url": "https://open.spotify.com/album/3UtsdAsNLgSakD8UYYXf4o"
-      },
-      "artists": [
-        {
-          "name": "Shekar Chandra",
-          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Gumma (From \"Ambajipeta Marriage Band\")",
-      "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
-    },
-    {
-      "added_at": "2024-02-23 05:31:54",
-      "album": {
-        "name": "Raghunandana (From \"HanuMan\") [Telugu]",
-        "url": "https://open.spotify.com/album/5tGdhRTc2jmIBnGQ6c2otS"
-      },
-      "artists": [
-        {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Saicharan Bhaskaruni",
-          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
-        },
-        {
-          "name": "Lokeshwar Edara",
-          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
-        },
-        {
-          "name": "Harshavardhan Chavali",
-          "url": "https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Raghunandana (From \"HanuMan\") [Telugu]",
-      "url": "https://open.spotify.com/track/0YhKDLlKJOvQnztL7tXVx0"
+      "duration_ms": 230791,
+      "name": "Jai Balayya Mass Anthem",
+      "url": "https://open.spotify.com/track/6Ic8DEtpraRuSk1eY4q2ms"
     },
     {
       "added_at": "2023-11-06 11:12:57",
@@ -337,6 +321,30 @@
       "url": "https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu"
     },
     {
+      "added_at": "2024-06-04 06:47:16",
+      "album": {
+        "name": "Allari Priyudu",
+        "url": "https://open.spotify.com/album/3hdRNCS8W4vNLlI25LfOqq"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        }
+      ],
+      "duration_ms": 316891,
+      "name": "Rose Rose Rose",
+      "url": "https://open.spotify.com/track/7jWIGj3glxfoe4LiXGhw9G"
+    },
+    {
       "added_at": "2023-09-25 09:44:04",
       "album": {
         "name": "Kotabommali P.S",
@@ -419,22 +427,6 @@
       "duration_ms": 156497,
       "name": "Oh My Baby",
       "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
-    },
-    {
-      "added_at": "2024-02-12 09:26:05",
-      "album": {
-        "name": "Kumari 21 F",
-        "url": "https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 299290,
-      "name": "Meghaalu Lekunna",
-      "url": "https://open.spotify.com/track/4YpxBrMONvVqbmXmYI2P5M"
     },
     {
       "added_at": "2023-08-30 10:44:11",

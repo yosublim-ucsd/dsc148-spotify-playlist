@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/5w3rHScBdRKZGifIgbMRzX"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100741,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/65eWoCC7wwSh1MLxQaL3zJ"
+    },
+    {
+      "album": {
         "name": "Winner",
         "url": "https://open.spotify.com/album/5TJgu4LcL0eMjxRhFRnpGz"
       },
@@ -3949,6 +3967,32 @@
     },
     {
       "album": {
+        "name": "Can't Tame Her EP",
+        "url": "https://open.spotify.com/album/5I6AUcEoCRh4VPtkGUFg7h"
+      },
+      "artists": [
+        {
+          "name": "Rob IYF",
+          "url": "https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7"
+        },
+        {
+          "name": "YEGDEG",
+          "url": "https://open.spotify.com/artist/4aotXG6ar08mkSPcyUwxtp"
+        },
+        {
+          "name": "24/7 Hardcore",
+          "url": "https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/00avYRBBsOUEig7VNdNMbP"
+    },
+    {
+      "album": {
         "name": "Cancel Cultuur (S-Kill Remix)",
         "url": "https://open.spotify.com/album/2PenPBhiMhigiHDtXGcpZh"
       },
@@ -7365,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/7pbtcbJXZtB0C2USGrAXdO"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177037,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/0nNLrkx1JQ4hKKDE7NtqNX"
+    },
+    {
+      "album": {
         "name": "Enhancer (Lights in the air)",
         "url": "https://open.spotify.com/album/2pF214lmSPZRzxIwqJY3k6"
       },
@@ -7904,6 +7966,24 @@
       "duration_ms": 229398,
       "name": "Fader - Technikore Remix",
       "url": "https://open.spotify.com/track/1IN1mVxrbw7cTwLctSuLks"
+    },
+    {
+      "album": {
+        "name": "Intents Festival 2024 Into The Wild",
+        "url": "https://open.spotify.com/album/61r07r1zNMUY614hO9t8SD"
+      },
+      "artists": [
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Fair Love",
+      "url": "https://open.spotify.com/track/3oIidSkBJO7M9WZ2BnwgT7"
     },
     {
       "album": {
@@ -11977,6 +12057,24 @@
     },
     {
       "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/02Nqu8iIMZ8QZsrM764L72"
+      },
+      "artists": [
+        {
+          "name": "Tharoza",
+          "url": "https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147515,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/4Rw6U9OuXIjcCUya3ybPBy"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/74dOGOFKu7sptwTqe7xJQy"
       },
@@ -12368,6 +12466,24 @@
       "duration_ms": 269049,
       "name": "I Like Bass",
       "url": "https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN"
+    },
+    {
+      "album": {
+        "name": "I LIKE THE NOISE (I made this song in 1 hour while I was pooping)",
+        "url": "https://open.spotify.com/album/1rjKnAtdflGvQlxkvbmAJI"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165375,
+      "name": "I LIKE THE NOISE (I made this song in 1 hour while I was pooping)",
+      "url": "https://open.spotify.com/track/0mvVeTGKXF8UWWtd30cF5n"
     },
     {
       "album": {
@@ -21801,6 +21917,28 @@
     },
     {
       "album": {
+        "name": "Run For Cover",
+        "url": "https://open.spotify.com/album/3ZAtTEbwX4IS1XhTmS7u7A"
+      },
+      "artists": [
+        {
+          "name": "Bulletproof",
+          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
+        },
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/0LZ13SxBDtB4ANMRrVK6hO"
+    },
+    {
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/6zkzaq0rhlqHbtKH6QnWe7"
       },
@@ -22822,6 +22960,28 @@
       "duration_ms": 201375,
       "name": "So Hot",
       "url": "https://open.spotify.com/track/7hdyEMLyLAQJnqg6uZgB7f"
+    },
+    {
+      "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/1JSF8Wb6vZysY6eOBQkX6W"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Moreno",
+          "url": "https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt"
+        },
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/791eHmXD9igutPHDrgCrRl"
     },
     {
       "album": {
@@ -25969,6 +26129,32 @@
     },
     {
       "album": {
+        "name": "To Hell",
+        "url": "https://open.spotify.com/album/6aE4afTBY5M6gNjjnnAHpq"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        },
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "To Hell",
+      "url": "https://open.spotify.com/track/25Fq66IQ14mbJTov140tjx"
+    },
+    {
+      "album": {
         "name": "TO THE DEATH",
         "url": "https://open.spotify.com/album/6GCfqgLxi4IiTk6NjqLMiN"
       },
@@ -28632,6 +28818,24 @@
       "duration_ms": 177254,
       "name": "Wild Ones",
       "url": "https://open.spotify.com/track/0dRJhDSmNCeCacYC9pBbfc"
+    },
+    {
+      "album": {
+        "name": "Wildest Nightmares",
+        "url": "https://open.spotify.com/album/0PdE0C7OGIpTLKy9btK4fi"
+      },
+      "artists": [
+        {
+          "name": "Strixter",
+          "url": "https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Wildest Nightmares",
+      "url": "https://open.spotify.com/track/1lCauJgMwhebXPBGHhZ8at"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,715 likes - 56 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,725 likes - 56 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 11 | [Lowkey Slut](https://open.spotify.com/track/0SxsdV9g6IEThczJQPAAo9) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [Lowkey Slut](https://open.spotify.com/album/3Osv0RzMg3K3yeiQDZfQGu) | 4:14 |
 | 12 | [Oopsie](https://open.spotify.com/track/6Ll5Gz57VthACJN3CgFITV) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Oopsie / Alchemy](https://open.spotify.com/album/7JKFIOTvkEIZoP8qgUhZTA) | 2:32 |
 | 13 | [I Don't Think It's Better \- Original Mix](https://open.spotify.com/track/4aNpu1Z4mQkiqkdVnNJwGU) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Self Control](https://open.spotify.com/album/1oV0u7cMocMyk2Kdvfdlgr) | 6:04 |
-| 14 | [f@k€](https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [f@k€](https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4) | 1:47 |
+| 14 | [f@k€](https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [f@k€](https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4) | 1:47 |
 | 15 | [Lava Shake](https://open.spotify.com/track/5ZAivcYkclqR3MMQ2S8OTf) | [Marko East](https://open.spotify.com/artist/1NwfWMcgvBm7dhofhmwtzi) | [Lava Shake](https://open.spotify.com/album/0svKzPjGpnoZwtcrMuf8US) | 5:06 |
 | 16 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
 | 17 | [Sabroso](https://open.spotify.com/track/0nSmG3OxOiQjhHorNeYtmU) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [Palastoni](https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC) | [MIDI E1NS](https://open.spotify.com/album/1IgBdG9TI9CgVuNeuFeZA5) | 3:45 |

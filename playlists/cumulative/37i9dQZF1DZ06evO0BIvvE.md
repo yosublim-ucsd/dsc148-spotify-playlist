@@ -2,7 +2,7 @@
 
 ### [This Is Billy Paul](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BIvvE)
 
-> This is Billy Paul\. Todos os maiores hits em uma só playlist.
+> This is Billy Paul\. The essential tracks, all in one playlist.
 
 76 songs - 6 hr 10 min
 

@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2024 🍉
 
-370 songs - 18 hr 4 min
+371 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [For Your Love](https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [For Your Love](https://open.spotify.com/album/0dwCZmrxAzntiQ7x35ZG5U) | 3:04 | 2022-05-06 | 2022-07-27 |
 | [Forget to Forget](https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Forget to Forget](https://open.spotify.com/album/3GX2lFOgBOfVw4BYsINt6S) | 2:35 | 2022-12-20 | 2023-03-22 |
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-07-28 | 2023-12-19 |
-| [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-05-22 |  |
+| [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-05-22 | 2024-06-05 |
 | [Friends for the Night](https://open.spotify.com/track/0GJ4JP6rPe5gnyMd8jlJwi) | [DJ Ross](https://open.spotify.com/artist/70yj8eIE94z38CM2kfsXQL), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Friends for the Night](https://open.spotify.com/album/2d0YZ32L3faRzz7F0GqZLJ) | 3:48 | 2022-05-06 | 2022-05-18 |
 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 | 2022-08-26 | 2022-12-13 |
 | [Getting Started \(na Na Na\)](https://open.spotify.com/track/1pnrvsZv43qQXlrI7v8OYF) | [Daven](https://open.spotify.com/artist/4GYIIO926bKxfNYmOyuYzg) | [Getting Started \(na Na Na\)](https://open.spotify.com/album/6Nf7reowikJWukCQBYbVSM) | 2:45 | 2022-05-06 | 2022-07-29 |
@@ -293,6 +293,7 @@
 | [Selfish Love \(with Selena Gomez\) \- Tiësto Remix](https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Selfish Love \(with Selena Gomez\) \(Tiësto Remix\)](https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa) | 2:33 | 2022-05-06 | 2022-06-05 |
 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 | 2023-03-21 |  |
 | [Shadow](https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Shadow](https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0) | 2:46 | 2022-08-26 | 2024-04-06 |
+| [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/0a4RtS4tXcXq6a4woAIYaq) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/50qitGh5mkMEnXNaFVwKV2) | 2:42 | 2024-06-04 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-31 |  |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-10-13 |  |
 | [Slow Hand](https://open.spotify.com/track/5IcAEt3huUimJHA4IDAVwb) | [Maja Kristina](https://open.spotify.com/artist/5YEeY9cyouvDvUa8SJVaj2) | [Slow Hand](https://open.spotify.com/album/5GHd3AeEtih6PKWekRnLBz) | 2:42 | 2022-05-06 | 2022-07-29 |

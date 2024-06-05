@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Teddie J
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,720 likes - 53 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,729 likes - 53 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

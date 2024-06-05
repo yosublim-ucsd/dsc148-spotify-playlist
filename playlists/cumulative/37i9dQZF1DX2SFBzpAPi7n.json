@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Wussami(\uc6b0\uc8fc\uc655\ubcf5\uc120\uc2f8\uc774\ub4dc\ubbf8\ub7ec)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Xdinary Heros) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 190120,
       "name": "2 MINUS 1 (Bonus Track)",
       "url": "https://open.spotify.com/track/6o2Pu5qZcinw4mlDlQZFqu"
@@ -1400,6 +1400,24 @@
       "duration_ms": 197693,
       "name": "bow-wow",
       "url": "https://open.spotify.com/track/6Dk2MbaVTSQZPj2ZIN5ZyS"
+    },
+    {
+      "album": {
+        "name": "Open \u266deta v6.1",
+        "url": "https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194784,
+      "name": "Boy Comics",
+      "url": "https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE"
     },
     {
       "album": {

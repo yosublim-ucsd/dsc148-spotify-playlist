@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,079 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,097 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 6 | [Kaun Gali Gayo Shyam \- Heartlock Mix](https://open.spotify.com/track/3jvcVRbxfx57QEDpApqGZ5) | [Heartlock](https://open.spotify.com/artist/0XqW9UITIzCIQ4CurIcgwz), [Prabha Atre](https://open.spotify.com/artist/4ijLHam3SGHSpOWtyUEwCg) | [Kaun Gali Gayo Shyam \- Heartlock Mix](https://open.spotify.com/album/6aPJwYlt99ww7UG6HyTHCQ) | 2:39 |
 | 7 | [Ghir Ghir Aayi](https://open.spotify.com/track/1kmabZtXNXA7YjcYnQlSTO) | [Sanghamitra Sarkar](https://open.spotify.com/artist/1z0k0hbPwz1UCBfaksTRVK), [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j) | [Ghir Ghir Aayi](https://open.spotify.com/album/0VanDD41bdmpbVQ45Q9c3L) | 3:16 |
 | 8 | [Piya Mere](https://open.spotify.com/track/7Arvf7vYFiPV7OovVT6GYh) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Piya Mere](https://open.spotify.com/album/10ruqoIbD4Q5UWEDP4i8zH) | 3:13 |
-| 9 | [Sawariya](https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Sawariya](https://open.spotify.com/album/1Cl0mIBqObDo6Ebst2Mkds) | 3:02 |
-| 10 | [Ayo Re Piya](https://open.spotify.com/track/0cLgJkzeDuo6odNPMpGCvx) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Ayo Re Piya](https://open.spotify.com/album/5GIlIfucq3g5gjnhUMoKBS) | 3:50 |
-| 11 | [Ae Ri](https://open.spotify.com/track/1LjyG0SBQCuRegAwznLZL1) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd) | [Ae Ri](https://open.spotify.com/album/2z3shDcoGDm7cVqgPe7JRG) | 2:33 |
+| 9 | [Main Vari Vari Jaungi](https://open.spotify.com/track/55nUHGqicMkA0wK36rk5pF) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Main Vari Vari Jaungi](https://open.spotify.com/album/5WtcnQajr7dTUbzV2P77yo) | 4:13 |
+| 10 | [Sawariya](https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Sawariya](https://open.spotify.com/album/1Cl0mIBqObDo6Ebst2Mkds) | 3:02 |
+| 11 | [Ayo Re Piya](https://open.spotify.com/track/0cLgJkzeDuo6odNPMpGCvx) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Ayo Re Piya](https://open.spotify.com/album/5GIlIfucq3g5gjnhUMoKBS) | 3:50 |
 | 12 | [Sakal Ban \(From "Heeramandi"\) \- Original](https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Sakal Ban \(From "Heeramandi"\) \- Single](https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh) | 2:30 |
 | 13 | [Na Jaa Re](https://open.spotify.com/track/2jeoBarLHPGSvGzywjhkkH) | [Omkar Bhat](https://open.spotify.com/artist/2UXkOhxWQ7Nu9BYgP3ZsiN) | [Na Jaa Re](https://open.spotify.com/album/0i90Y3Ta2l0BvOUTucXvyh) | 2:24 |
 | 14 | [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `Zl1EZAAAAADYpOTjZzZdDE4TVYaZ1V63`
+Snapshot ID: `Zl6z7wAAAACYAlspzJOQHu4FExCHHyHP`

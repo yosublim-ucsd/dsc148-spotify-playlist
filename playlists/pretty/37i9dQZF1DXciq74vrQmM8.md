@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > NeX GEn has landed\. →BMTH→→ invites you to Ascend!+   \[via D̶r̶e̶a̶m̶s̶e̶e̶k̶e̶r misfits invocation\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,691 likes - 43 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,752 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

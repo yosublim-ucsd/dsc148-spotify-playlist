@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,808 songs - 10 day 18 hr 3 min
+6,809 songs - 10 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3625,6 +3625,7 @@
 | [mastermind](https://open.spotify.com/track/2i5wfr5WnB259vYmjAkznN) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [mastermind](https://open.spotify.com/album/5XgqdsZT3jNAcp1zQDM2JD) | 2:16 | 2022-01-07 | 2022-09-02 |
 | [mastery](https://open.spotify.com/track/6SPP3kILqolHVCLrIfFEmk) | [Burēku](https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH) | [First Lesson](https://open.spotify.com/album/4OWhbOeH4e3WRRQuSJbTFY) | 2:32 | 2021-04-20 | 2022-01-14 |
 | [Matalí](https://open.spotify.com/track/26trHnnPcMZIFpG9BJdsbw) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Matalí](https://open.spotify.com/album/3yAqPvzt8wYKMCCS2qvmic) | 2:26 | 2021-10-23 | 2022-04-24 |
+| [Matcha](https://open.spotify.com/track/7M9vscwYkaJkTInBY2y6jv) | [Yawuh](https://open.spotify.com/artist/5dFzAFmO3MGNTFcAApR6UR), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Matcha](https://open.spotify.com/album/2BqsfiOuHmaRdp10PIpT5q) | 2:23 | 2024-05-31 |  |
 | [Mateo](https://open.spotify.com/track/0Xuv6oy9YSWSnc3OyTfPLr) | [Low Flanders](https://open.spotify.com/artist/3vU1rh15w9e9id0XWk3hX0) | [Mateo](https://open.spotify.com/album/12RsB5UPE1q8Y41wdmQ9aG) | 3:37 | 2021-07-11 | 2022-03-12 |
 | [mateodereptil](https://open.spotify.com/track/59a0VE7lhjb3FWnudyhZjU) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [mateodereptil](https://open.spotify.com/album/0GVK8UYEaBMnWjw2MjnAHH) | 1:55 | 2023-05-03 | 2023-05-19 |
 | [Mattel Harpz](https://open.spotify.com/track/3h9l92JCf4FbsZg1pCuvzk) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Mattel Harpz](https://open.spotify.com/album/1UPig1sOPzX9hccWbfgeCv) | 2:08 | 2023-02-13 | 2023-04-28 |
@@ -5307,7 +5308,7 @@
 | [Smooth Sail](https://open.spotify.com/track/26aN8DTvBgnKKF9S2qaYNd) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Sidestep Johnny](https://open.spotify.com/album/1mg9qcXq0a8L8oug283RzU) | 2:24 | 2022-10-07 | 2024-02-23 |
 | [Smooth Summer Cruise](https://open.spotify.com/track/44PIYaLC457K04fOytQn6T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Smooth Summer Cruise](https://open.spotify.com/album/4lowLW0qFaoC12Nat7qOs2) | 2:24 | 2023-09-22 | 2023-11-24 |
 | [Smoothie](https://open.spotify.com/track/2k4zcCon1Y3uuqTyF51IJl) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Smoothie](https://open.spotify.com/album/1NpKK8KwwK9frgUjArR10n) | 1:52 | 2022-02-14 | 2022-07-22 |
-| [Smoothie](https://open.spotify.com/track/3p7K7NkyWP2zSNUu8TfXrz) | [Json Jx](https://open.spotify.com/artist/6CwCQcaa6X0ZbW3Oafpk51) | [Smoothie](https://open.spotify.com/album/2QL5G3ZxCwJyVpIEsH7MKK) | 2:28 | 2024-04-26 |  |
+| [Smoothie](https://open.spotify.com/track/3p7K7NkyWP2zSNUu8TfXrz) | [Json Jx](https://open.spotify.com/artist/6CwCQcaa6X0ZbW3Oafpk51) | [Smoothie](https://open.spotify.com/album/2QL5G3ZxCwJyVpIEsH7MKK) | 2:28 | 2024-04-26 | 2024-06-05 |
 | [Smoothie Vibes](https://open.spotify.com/track/04hZ8wOqxvykrGYKdeACms) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Verdana](https://open.spotify.com/album/3z5yToXvboSbIu6q32D3a5) | 2:34 | 2023-01-06 |  |
 | [Smoothology](https://open.spotify.com/track/29iPA5TBi6bWTraMDUKkqR) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [Smoothology](https://open.spotify.com/album/0RdMK6Bn9b3B5HMCF8kxt9) | 2:34 | 2024-01-19 |  |
 | [Smoove](https://open.spotify.com/track/13sIC4vLfw2DNAjyO8hY1l) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Smoove](https://open.spotify.com/album/0ITtWPEg5ILG9opzYCCFzR) | 1:45 | 2023-02-27 | 2023-10-27 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,947 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,965 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance Haffi Nice \(feat\. SHY FX & Ms\. Dynamite\)](https://open.spotify.com/track/2WDWIzmU23PCDbcBPGyenl) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Dance Haffi Nice \(feat\. SHY FX & Ms\. Dynamite\)](https://open.spotify.com/album/23ryyZOLRTuybgJOc0LfKi) | 2:29 |
+| 1 | [Dance Haffi Nice \(feat\. Ms\. Dynamite\)](https://open.spotify.com/track/2WDWIzmU23PCDbcBPGyenl) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Dance Haffi Nice \(feat\. Ms\. Dynamite\)](https://open.spotify.com/album/23ryyZOLRTuybgJOc0LfKi) | 2:29 |
 | 2 | [Disconnect \- SHY FX Remix](https://open.spotify.com/track/5efJlOrNPfGoMg2Nb4uHVv) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Disconnect \(SHY FX Remix\)](https://open.spotify.com/album/1w3Gu94UYgdjG8GdeD94Su) | 3:00 |
 | 3 | [Shake the Foundations](https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Shake the Foundations](https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0) | 3:02 |
 | 4 | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/track/4L0T3usCoeUO85dJeuxbBf) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/album/2uDherRYol1u5bCpwwyklG) | 2:53 |

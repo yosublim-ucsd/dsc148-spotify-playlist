@@ -3373,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "La Motocicletta",
+        "url": "https://open.spotify.com/album/1z5KThCiuYwgnJODi6Lxfa"
+      },
+      "artists": [
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297354,
+      "name": "La Motocicletta",
+      "url": "https://open.spotify.com/track/6Fsikuruoag80X8KXj9odm"
+    },
+    {
+      "album": {
         "name": "La piscine - EP",
         "url": "https://open.spotify.com/album/43WnwIfcdtzgnPQB6qlfJE"
       },
@@ -4314,7 +4332,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 233200,
       "name": "Need a Hit",
       "url": "https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh"

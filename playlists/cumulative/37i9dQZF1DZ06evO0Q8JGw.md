@@ -2,7 +2,7 @@
 
 ### [This Is Pearl Jam](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q8JGw)
 
-> This is Pearl Jam\. The essential tracks, all in one playlist.
+> This is Pearl Jam\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 61 songs - 4 hr 9 min
 

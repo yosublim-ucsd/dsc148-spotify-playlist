@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > SCH au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,498,085 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,498,237 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 19 | [AKRAPO 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AKRAPO 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 |
 | 20 | [Loin d'ici](https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:23 |
 | 21 | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/2Tm9ujeEWuBBsg6OPlRqvg) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:33 |
-| 22 | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/track/6FK1JMPYXje5iZHs0URvmB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/album/6UGicuL3fwytPub4tsRfsJ) | 3:34 |
+| 22 | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/track/6FK1JMPYXje5iZHs0URvmB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/album/6UGicuL3fwytPub4tsRfsJ) | 3:34 |
 | 23 | [Ça mène à rien](https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 3:18 |
 | 24 | [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 |
 | 25 | [Ailleurs](https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 2:45 |

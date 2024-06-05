@@ -693,17 +693,17 @@
     },
     {
       "album": {
-        "name": "Dance Haffi Nice (feat. SHY FX & Ms. Dynamite)",
+        "name": "Dance Haffi Nice (feat. Ms. Dynamite)",
         "url": "https://open.spotify.com/album/23ryyZOLRTuybgJOc0LfKi"
       },
       "artists": [
         {
-          "name": "Mr. Williamz",
-          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
-        },
-        {
           "name": "SHY FX",
           "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
         },
         {
           "name": "Ms. Dynamite",
@@ -714,7 +714,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149302,
-      "name": "Dance Haffi Nice (feat. SHY FX & Ms. Dynamite)",
+      "name": "Dance Haffi Nice (feat. Ms. Dynamite)",
       "url": "https://open.spotify.com/track/2WDWIzmU23PCDbcBPGyenl"
     },
     {

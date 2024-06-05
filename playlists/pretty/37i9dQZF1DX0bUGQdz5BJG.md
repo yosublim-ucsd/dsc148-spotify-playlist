@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tiera Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,895 likes - 215 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,948 likes - 215 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

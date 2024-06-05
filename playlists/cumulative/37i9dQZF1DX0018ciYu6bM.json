@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189283,
+      "name": "BADVILLAIN",
+      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
         "url": "https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq"
       },
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 135428,
       "name": "Chili",
       "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 170066,
       "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
       "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
@@ -5204,7 +5222,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 184346,
       "name": "I GOT YOU (Feat. Lauv)",
       "url": "https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT"
@@ -5276,7 +5294,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 181722,
       "name": "I NEED U - Spotify Singles",
       "url": "https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ"
@@ -7616,7 +7634,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 177253,
       "name": "Officially Cool",
       "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 192411,
       "name": "Our Night is more beautiful than your Day",
       "url": "https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL"
@@ -8474,7 +8492,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 212093,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/1Mr0PGyergfMZ7swKiWiBP"
@@ -8752,7 +8770,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 193698,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47"
@@ -10452,7 +10470,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 148729,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j"
@@ -12662,7 +12680,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 170360,
       "name": "Wish You Hell",
       "url": "https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah"
@@ -13234,6 +13252,24 @@
       "duration_ms": 196928,
       "name": "\uc65c\uc694 \uc65c\uc694",
       "url": "https://open.spotify.com/track/1DcXDpatGKfv1BRUfeKx4p"
+    },
+    {
+      "album": {
+        "name": "\uc798\uc790\uc694 \uc544\uac00\uc528",
+        "url": "https://open.spotify.com/album/6OaL36lNTWHPlFA9Y8bql3"
+      },
+      "artists": [
+        {
+          "name": "ASMRZ",
+          "url": "https://open.spotify.com/artist/660U1sbp7uNWcb2BYcQHAK"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113302,
+      "name": "\uc798\uc790\uc694 \uc544\uac00\uc528 (Prod. \uacfc\ub098)",
+      "url": "https://open.spotify.com/track/2JxXcCgVx61AI0MOUoXC68"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,643 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,652 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 69 | [溺愛](https://open.spotify.com/track/69tLAHiqUdzoMWaRYUGALQ) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [溺愛](https://open.spotify.com/album/5E8bkbhKnoN4qqIJi9YzZq) | 3:55 |
 | 70 | [暁](https://open.spotify.com/track/50lKnDtKb3yC6KXdYompMn) | [玉井詩織](https://open.spotify.com/artist/7ELE35x6MVJjMCyo4WgS39) | [colorS](https://open.spotify.com/album/14A8kzCWnk4FKolylkwJPI) | 4:09 |
 | 71 | [more](https://open.spotify.com/track/0o1LQKBvfe8sjGgGovBYEQ) | [Rons week](https://open.spotify.com/artist/3AwowDfzJAnychsiR765Nd) | [more](https://open.spotify.com/album/5e3ZV1xn7h9dDg3df0uZRU) | 3:23 |
-| 72 | [春に泳ぐ](https://open.spotify.com/track/1xNEK0rsa0cIVtPz5Ba77z) | [朝4時](https://open.spotify.com/artist/1HxALqjeA47S0wLQPHY9oA) | [春に泳ぐ](https://open.spotify.com/album/1gIu4RkaoT3GLUPLygfshv) | 4:31 |
+| 72 | [春に泳ぐ](https://open.spotify.com/track/1xNEK0rsa0cIVtPz5Ba77z) | [Asa yoji](https://open.spotify.com/artist/1HxALqjeA47S0wLQPHY9oA) | [春に泳ぐ](https://open.spotify.com/album/1gIu4RkaoT3GLUPLygfshv) | 4:31 |
 | 73 | [夢重力](https://open.spotify.com/track/6cDlCs3kdqlDYo9zS58YvX) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH), [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e), [nakotanmaru](https://open.spotify.com/artist/7As3l9jbkpgCfwkEEBFsuj) | [夢重力](https://open.spotify.com/album/7eR4eUYVuASOH3NOKqPb25) | 2:59 |
 | 74 | [OVERTIME](https://open.spotify.com/track/1xInZKQ3317MQlefCVjgSH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [OVERTIME](https://open.spotify.com/album/0YLIoiZSSwAoiMnvTWSZGC) | 3:11 |
 | 75 | [can do](https://open.spotify.com/track/3Td0Xa2HZuueJUzDL2fuJs) | [zuni](https://open.spotify.com/artist/6im7758Y3E6Kf4mJMSNGgG) | [can do](https://open.spotify.com/album/3frhsUDqLJ6fVW01iJBmmG) | 4:40 |

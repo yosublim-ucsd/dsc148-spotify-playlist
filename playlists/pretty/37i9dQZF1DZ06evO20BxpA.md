@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 ### [This Is Steven Price](https://open.spotify.com/playlist/37i9dQZF1DZ06evO20BxpA)
 
-> This is Steven Price\. The essential tracks, all in one playlist.
+> This is Steven Price\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,257 likes - 50 songs - 2 hr 27 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 49 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
 | 50 | [You Are Like a Dream I Had](https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:54 |
 
-Snapshot ID: `Zlu2AAAAAACA/7XoupTSTzkdFDnZrL0C`
+Snapshot ID: `Zlu2AAAAAAA0JgW4Jblgw9U9PBnEzkje`

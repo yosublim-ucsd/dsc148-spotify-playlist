@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189283,
+      "name": "BADVILLAIN",
+      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "album": {
         "name": "BXX",
         "url": "https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw"
       },
@@ -827,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Open \u266deta v6.1",
+        "url": "https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194784,
+      "name": "Boy Comics",
+      "url": "https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE"
+    },
+    {
+      "album": {
         "name": "Break up!",
         "url": "https://open.spotify.com/album/6Am09EioIsVMrl5dUnYtKp"
       },
@@ -878,7 +914,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 173466,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/21j3qXlRXCDJRG1xWQt2gW"
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 192586,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/2iCy2qfDdWN8duitTHeHSm"
@@ -2418,7 +2454,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 158893,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/60g4aWGlvFq9riY0jrTdtZ"
@@ -3066,6 +3102,28 @@
       "duration_ms": 182332,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.32: Impossible Remix",
+        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        },
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211818,
+      "name": "Impossible - Darius Remix",
+      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
     },
     {
       "album": {
@@ -5805,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "Kep1going On",
+        "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
+    },
+    {
+      "album": {
         "name": "Giggles",
         "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
       },
@@ -5900,7 +5976,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 197480,
       "name": "Sketch",
       "url": "https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ"

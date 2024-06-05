@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,142 songs - 6 day 14 hr 10 min
+4,144 songs - 6 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2429,7 +2429,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
-| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 |  |
+| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 | 2024-06-05 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 | 2024-01-19 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |
@@ -2489,6 +2489,7 @@
 | [No Glue](https://open.spotify.com/track/5mc1Yns30Ltq7f4x7hil97) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v), [naims](https://open.spotify.com/artist/00qL3jI9uJfzTdv86F71gT) | [No Glue](https://open.spotify.com/album/54R2S8PC4eEe7gAxLaf1rO) | 2:18 | 2021-10-22 | 2021-12-30 |
 | [No Going Back](https://open.spotify.com/track/4ip9792NW2IaZaHlvSYurD) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [Atamatoki](https://open.spotify.com/artist/2BzNGTZcU0rrEmwevE6FFM) | [No Going Back](https://open.spotify.com/album/1TkYz0eZtjmCJL6rc8lRSj) | 2:30 | 2021-08-20 | 2021-11-10 |
 | [No Good](https://open.spotify.com/track/2QDMRQxrgUAITlz6L7cyAF) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [No Good](https://open.spotify.com/album/6yOTHFBGLAYtAhfg5V9yNB) | 2:48 | 2021-11-27 | 2021-12-10 |
+| [No Goodbyes](https://open.spotify.com/track/6OXEMJbqt8DYPg8lYmRxjZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [No Goodbyes](https://open.spotify.com/album/05lIfZJmiXCSMsFZK85m5Q) | 2:10 | 2024-05-30 |  |
 | [No More Drama](https://open.spotify.com/track/5QRbLLWexvFTP2B1pvolFL) | [Loop.holes](https://open.spotify.com/artist/3pEEVerV68DXHl2IHGDhd9), [Loot Fattig](https://open.spotify.com/artist/2APeaugKGBkjjHTTAUCip9) | [Loopstrumentals](https://open.spotify.com/album/1i0C7NoKHPE7GUn4AFfYSo) | 3:02 | 2019-05-26\* | 2019-06-15 |
 | [No Need For It](https://open.spotify.com/track/1inadlK9BnxMF99IVVTiTh) | [IAMPAUL](https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph) | [Unnifty](https://open.spotify.com/album/7lyxArCeA4kkHRiYpnh8eA) | 2:41 | 2020-03-20 | 2020-05-12 |
 | [No Nemesis](https://open.spotify.com/track/6YWWfTi3j1K1979gB8EQrq) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [No Nemesis](https://open.spotify.com/album/3LYVu4BdRhEi6MrFICkVON) | 1:51 | 2022-06-23 | 2022-07-01 |
@@ -3134,7 +3135,7 @@
 | [Silk](https://open.spotify.com/track/3U4n66xgcZxPOZCHTT6wz1) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Roam EP](https://open.spotify.com/album/1VduUB1RUtJ1r5KyOk6obj) | 2:33 | 2020-07-24 | 2020-10-23 |
 | [Silk](https://open.spotify.com/track/5shRAbjr263aLdUb7CjpTR) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Silk](https://open.spotify.com/album/2GxBwWibsIoqf87dfrhNId) | 2:09 | 2021-10-16 | 2023-10-27 |
 | [Silk](https://open.spotify.com/track/54lTL6GDlQDD5qPk3JftIl) | [UsualSND](https://open.spotify.com/artist/1ahA9vdjx7aBcfB7XjXT9k), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Silk](https://open.spotify.com/album/66CZo0VLjagh4EmmaBTuU6) | 2:52 | 2023-12-08 |  |
-| [Silk Road](https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Silk Road](https://open.spotify.com/album/3RFETcpnwLnZPnUNoj6BQM) | 1:31 | 2024-05-16 |  |
+| [Silk Road](https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Silk Road](https://open.spotify.com/album/3RFETcpnwLnZPnUNoj6BQM) | 1:31 | 2024-05-16 | 2024-06-05 |
 | [Silky Wine](https://open.spotify.com/track/36v6YFAeZQADLAb7E47KDk) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Silky Wine](https://open.spotify.com/album/78yJIySXbEZ3nxLkLMKGT9) | 2:37 | 2024-04-25 |  |
 | [Sill](https://open.spotify.com/track/73T435Ue8eCR25TnR4rd9X) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ), [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Sill](https://open.spotify.com/album/2mY8fAWv1Qrz41WjT7AapX) | 2:40 | 2020-12-01 | 2021-06-18 |
 | [Silo](https://open.spotify.com/track/6DWRJfbKONvPq6KOaKLydk) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Silo](https://open.spotify.com/album/3R9qGQd6C8qAZ4KRPgG3fj) | 3:17 | 2020-08-07 | 2021-04-16 |
@@ -3832,6 +3833,7 @@
 | [Vacation Days](https://open.spotify.com/track/3uywJ17iYcUK0niX2wE95F) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/5mxnF5fVvpvWlK4TYW8Dh9) | 2:18 | 2022-04-07 | 2022-05-13 |
 | [Vacation in Malibu](https://open.spotify.com/track/4dVyMShjr4HYK5vYIWHBig) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Vacation in Malibu](https://open.spotify.com/album/3ttlTYSl7Vu9qchwB5ORGQ) | 1:56 | 2021-08-20 | 2021-09-17 |
 | [Valencia](https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/4HMi4x83Z9sJHOUi5MhVsE) | 2:28 | 2022-03-04 | 2022-06-17 |
+| [Vampire in the Sun](https://open.spotify.com/track/5MTEaL89Lokzgf45kTFNox) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Vampire in the Sun](https://open.spotify.com/album/44HvpaBemoZLMgcFsjI4xT) | 2:38 | 2024-05-30 |  |
 | [Vanilla Moonlight](https://open.spotify.com/track/1Yh58JNWDU7YbmdfoEcIg1) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Vanilla Moonlight](https://open.spotify.com/album/30LrBMSa2ucKIlI5iHGB9s) | 2:24 | 2020-11-13 | 2021-03-06 |
 | [Vapatá](https://open.spotify.com/track/6uSuJp4itZwq5nJaRi30Lt) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Vapatá](https://open.spotify.com/album/2ve29Ze3bPylKGeThIjTNx) | 2:24 | 2022-01-27 | 2022-03-11 |
 | [Vapour Rays](https://open.spotify.com/track/7rcHiOC1tjWqQ4L9QqxqVy) | [Kuartz](https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc) | [Vapour Rays](https://open.spotify.com/album/04RErHIsZfKAUVDk8uYG6Y) | 2:35 | 2020-09-26 | 2021-05-07 |

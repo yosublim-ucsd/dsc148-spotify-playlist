@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Becky Hill \(pictured\), Disclosure, Leigh\-Anne and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,781 likes - 116 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,829 likes - 116 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

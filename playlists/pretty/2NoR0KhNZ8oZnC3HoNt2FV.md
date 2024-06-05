@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > NEW EMINEM HOUDINI
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,859 likes - 682 songs - 1 day 14 hr 35 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,855 likes - 682 songs - 1 day 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 ### [This Is Azzy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0P1Sng)
 
-> This is Azzy\. Todos os maiores hits em uma só playlist.
+> This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,875 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,877 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 |
 | 50 | [Só Eu](https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Só Eu](https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG) | 3:03 |
 
-Snapshot ID: `Zlu2AAAAAAAztgNNUfBO3eEUDHLSi1CD`
+Snapshot ID: `Zlu2AAAAAACb0VQsfc9i3g7pyXWBj2tM`

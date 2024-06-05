@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-134 songs - 6 hr 27 min
+135 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 | 2023-10-23 |  |
 | [Ele É Ele, Eu Sou Eu](https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Safadão Amplificado](https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG) | 2:35 | 2023-10-23 | 2024-04-19 |
 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 | 2023-10-23 |  |
+| [Eu Acho Que Não](https://open.spotify.com/track/5uaK6bYrpEqRkJjERzAXfT) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:49 | 2024-03-28 |  |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 | 2023-10-23 |  |
 | [Eu Vou Descer \- Ao Vivo](https://open.spotify.com/track/27uQBl7HobUjBM0aiCQFxZ) | [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Sinta Essa Vibe, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4e8yiGk1u8hVNRRv7NTCGJ) | 3:08 | 2024-03-28 |  |
 | [Eu Vou Tirar Você Do Cabaré](https://open.spotify.com/track/0aU3kAN7Nxy2fS5mtii3wd) | [Israell Muniz](https://open.spotify.com/artist/1GEoj0CGGUFSqnDepUa3o9) | [Eu Vou Tirar Você Do Cabaré](https://open.spotify.com/album/1lGOvn3EJ2lWCxu5FEBqOK) | 2:33 | 2023-10-23 | 2024-04-19 |
@@ -104,7 +105,7 @@
 | [Paredão Espanca \- Ao Vivo](https://open.spotify.com/track/111OVupOu3eEnfR3ebrdXK) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX) | [SIM, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/5o6lPm02Mij9Mx6yjC9GNv) | 2:27 | 2024-03-28 |  |
 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 | 2023-10-23 |  |
 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 | 2023-10-23 |  |
-| [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 02](https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE) | 2:27 | 2023-10-23 |  |
+| [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 02](https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE) | 2:27 | 2023-10-23 | 2024-06-05 |
 | [Recairei \- Ao Vivo](https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Piseiro 2020 Ao Vivo](https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP) | 2:46 | 2023-10-23 |  |
 | [Revoada No Colchão](https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Revoada No Colchão](https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o) | 2:33 | 2023-10-23 |  |
 | [Rita](https://open.spotify.com/track/1nDCZBI8MaHXI2f36dnQyG) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Aô Saudade da Mãe dos Meninos](https://open.spotify.com/album/2V9i8lh4qbIj6oLqECVS6k) | 2:36 | 2023-10-23 |  |

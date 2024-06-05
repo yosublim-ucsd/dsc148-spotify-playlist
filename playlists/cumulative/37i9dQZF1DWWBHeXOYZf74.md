@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: James Blake
 
-2,536 songs - 5 day 22 hr 26 min
+2,537 songs - 5 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 | 2022-10-07 | 2023-02-18 |
 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz), [Two star](https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-19 | 2024-05-04 |
 | [DREAMS!](https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [MOONSHOTS](https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53) | 3:11 | 2023-05-12 | 2023-08-26 |
+| [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/track/4r7e8yV4Xem3iC4hkkI4Hn) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/album/4mtQMpdkHZx366JCQKTgOg) | 2:27 | 2024-06-04 |  |
 | [Drones \(feat\. Kendrick Lamar, Snoop Dogg, Ty Dolla $ign & James Fauntleroy\)](https://open.spotify.com/track/3zdsJOO5FIAgukJUMgboV8) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [DRONES](https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa) | 4:25 | 2021-12-03 | 2022-03-26 |
 | [Drowning](https://open.spotify.com/track/7gw6R8syjMYMkcdLNubFPu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Drowning](https://open.spotify.com/album/1Y9kWCOmN77yxC2io3A8D9) | 3:45 | 2019-10-03 | 2019-12-06 |
 | [Du Aldrig Märker](https://open.spotify.com/track/7jpq3D0zZjvdWpRq80ZQbK) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Du Aldrig Märker](https://open.spotify.com/album/6cFykbfV90yGTD9iMtfdDc) | 2:53 | 2022-07-22 | 2022-09-24 |

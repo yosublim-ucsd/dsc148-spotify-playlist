@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj?si=2lCWVecURV2QKJ6ZYYzMEQ>Uche Agu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,534 likes - 83 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,549 likes - 83 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

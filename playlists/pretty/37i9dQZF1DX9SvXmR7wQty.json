@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Sarahm\u00e9e",
-  "num_followers": 40842,
+  "num_followers": 40844,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "RSQ3",
         "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Tout g\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 150029,
-      "name": "Tout g\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
       },
@@ -571,22 +571,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Il \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
       },
       "artists": [
         {
-          "name": "Stavo",
-          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         },
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 125868,
-      "name": "COMMERCE",
-      "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
+      "duration_ms": 201055,
+      "name": "Les Montgolfi\u00e8res",
+      "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -611,22 +611,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
+        "name": "Il \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Stavo",
+          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
         },
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 201055,
-      "name": "Les Montgolfi\u00e8res",
-      "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
+      "duration_ms": 125868,
+      "name": "COMMERCE",
+      "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -707,6 +707,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "DLPDA",
+        "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 170946,
+      "name": "YOMB",
+      "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "SUR LE CHEMIN (Phase 3)",
         "url": "https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan"
       },
@@ -739,22 +759,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "JOE PESCI",
-        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
+        "name": "GINGER BOY",
+        "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
         },
         {
-          "name": "Inso Le V\u00e9ritable",
-          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 199411,
-      "name": "JOE PESCI",
-      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
+      "duration_ms": 151410,
+      "name": "Bodyguard",
+      "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -803,22 +823,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "GINGER BOY",
-        "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
+        "name": "JOE PESCI",
+        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
       },
       "artists": [
         {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Inso Le V\u00e9ritable",
+          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
         }
       ],
-      "duration_ms": 151410,
-      "name": "Bodyguard",
-      "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
+      "duration_ms": 199411,
+      "name": "JOE PESCI",
+      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -835,42 +855,6 @@
       "duration_ms": 147619,
       "name": "Sommet",
       "url": "https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "DLPDA",
-        "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
-      },
-      "artists": [
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 170946,
-      "name": "YOMB",
-      "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "rentrer chez moi",
-        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "rentrer chez moi",
-      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -907,6 +891,22 @@
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "rentrer chez moi",
+        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "rentrer chez moi",
+      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

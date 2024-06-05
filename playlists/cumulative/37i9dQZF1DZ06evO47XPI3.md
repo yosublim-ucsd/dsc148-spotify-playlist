@@ -2,7 +2,7 @@
 
 ### [This Is The Delfonics](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47XPI3)
 
-> This is The Delfonics\. The essential tracks, all in one playlist.
+> This is The Delfonics\. Track\-track unggulan, semuanya dalam satu playlist.
 
 106 songs - 5 hr 40 min
 

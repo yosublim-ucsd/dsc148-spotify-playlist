@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff?si=1ScuKID7TOqVHP4NtLFEHQ\">Kelli-Leigh</a>",
+  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK?si=z-L2he2hTlih1L4oq3QYqQ\">Yimeeka</a>",
   "name": "Created by Women",
   "tracks": [
     {
@@ -518,7 +518,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 184077,
       "name": "All On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
@@ -3849,6 +3849,24 @@
     },
     {
       "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/6Hfu17ye4cuDJKMGwX1J1Z"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188499,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/77AFJKt0T2fwS1NuTnhZmW"
+    },
+    {
+      "album": {
         "name": "Escapism. (4am Remix)",
         "url": "https://open.spotify.com/album/4ivzJoBQmSiY79v1dcInfg"
       },
@@ -4329,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/1xdAZxSmmluHNwmu2t5Mn5"
+      },
+      "artists": [
+        {
+          "name": "KTJ & CARLY",
+          "url": "https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/0H1oGCqjkte5yrgGbyqoh9"
+    },
+    {
+      "album": {
         "name": "FPW",
         "url": "https://open.spotify.com/album/4HkjDuOVCX57Hl2VfvV1K9"
       },
@@ -4434,7 +4470,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 247578,
       "name": "Free Mind",
       "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
@@ -4532,6 +4568,24 @@
       "duration_ms": 189511,
       "name": "Fucking Crazy",
       "url": "https://open.spotify.com/track/71k3HQc3GCpKbCOoaoYE95"
+    },
+    {
+      "album": {
+        "name": "AKIRA",
+        "url": "https://open.spotify.com/album/55vb8fcsVKgEe0BOKF4hPN"
+      },
+      "artists": [
+        {
+          "name": "Jara Pol",
+          "url": "https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140948,
+      "name": "Fumando en la ventana",
+      "url": "https://open.spotify.com/track/5MDrqNKmu2NuUS52FdJ0eP"
     },
     {
       "album": {
@@ -5191,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Harsh",
+        "url": "https://open.spotify.com/album/0S58PInDojmOd597vUpKsw"
+      },
+      "artists": [
+        {
+          "name": "BOBBI",
+          "url": "https://open.spotify.com/artist/7rDW6qMEbfuFk8I631TEMT"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Harsh",
+      "url": "https://open.spotify.com/track/4LTZQBgGntLBPN8HlIhCFy"
+    },
+    {
+      "album": {
         "name": "hating myself in the summer",
         "url": "https://open.spotify.com/album/3qMSTBdlyljwqzzTiP5xV0"
       },
@@ -5314,6 +5386,28 @@
       "duration_ms": 308186,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5KUMDwDkyP49cod9yh2ZVD"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Joyce Olong",
+          "url": "https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/7CtddlO4AqYmv8oxlVpzpi"
     },
     {
       "album": {
@@ -5562,7 +5656,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 290733,
       "name": "Home",
       "url": "https://open.spotify.com/track/7wGBEZamABJVD15MDQG0hl"
@@ -5634,7 +5728,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 178266,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5O7GKo9emVWK3T03a5sRln"
@@ -6376,7 +6470,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
@@ -7112,7 +7206,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 139933,
       "name": "Interlude (Full Length)",
       "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
@@ -8294,7 +8388,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 219207,
       "name": "Love Me In Chapters II",
       "url": "https://open.spotify.com/track/0f5BoyLg6qVDsAJ5JemBcO"
@@ -9842,7 +9936,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 218704,
       "name": "On Time For Her",
       "url": "https://open.spotify.com/track/7AHCsgXQS9BcEAx2N948mu"
@@ -10012,7 +10106,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 224451,
       "name": "Options (feat. Tamera & Bellah)",
       "url": "https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5"
@@ -12144,7 +12238,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -13130,7 +13224,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 196093,
       "name": "too high",
       "url": "https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG"
@@ -13242,7 +13336,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
@@ -13830,7 +13924,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 192466,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/6jw2564EsP1vaWHSr92jJ1"

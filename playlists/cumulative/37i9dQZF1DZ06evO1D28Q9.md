@@ -2,7 +2,7 @@
 
 ### [This Is Stefanie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D28Q9)
 
-> This Is Stefanie\. Todas as faixas essenciais numa única playlist.
+> This is Stefanie\. The essential tracks, all in one playlist.
 
 34 songs - 2 hr 31 min
 

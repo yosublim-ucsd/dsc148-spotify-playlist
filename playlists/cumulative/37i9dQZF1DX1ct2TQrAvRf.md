@@ -2,7 +2,7 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover\- Ikka & Karan Aujla
+> India's Rap Scene\. Cover\- King & Karma
 
 165 songs - 9 hr 12 min
 

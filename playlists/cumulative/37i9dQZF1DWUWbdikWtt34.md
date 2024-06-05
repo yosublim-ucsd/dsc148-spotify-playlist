@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Abi Rafdi
+> Dendang Dangdut teratas\. Cover: Selfi Yamma
 
 175 songs - 13 hr 38 min
 

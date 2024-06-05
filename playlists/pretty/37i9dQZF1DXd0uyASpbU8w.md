@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=1no\-\_9A0RySzCGhZdGWScw">Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,248 likes - 86 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,385 likes - 86 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 59 | [We Are One](https://open.spotify.com/track/0osksFbz98MXqscHdrNiff) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [RedRo8se](https://open.spotify.com/artist/3nznSr9nwQXz5EIskZkPiR), [FabYo Gomez](https://open.spotify.com/artist/3AuUO1PjzGz5OREqJjRiex) | [We Are One](https://open.spotify.com/album/763zGyld94FrYq7GxZsWiO) | 2:37 |
 | 60 | [Move Your Way](https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Move Your Way](https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9) | 3:23 |
 | 61 | [Mbali](https://open.spotify.com/track/0pwSE8755YcJXjlYrgUI5y) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [MBAL'YESIZWE](https://open.spotify.com/artist/4IXntJvtyYdc7zVsggGoPU) | [Mbali](https://open.spotify.com/album/6AVg8bUVh4LZsI7H2tV3e4) | 7:16 |
-| 62 | [Athandwe](https://open.spotify.com/track/4FX3VdoR6kosgnJVZcn2FN) | [Kay Sibiya](https://open.spotify.com/artist/3E9WbjAcP8poqSv87dbwqd), [Kamza HeavyPoint](https://open.spotify.com/artist/7nL5uRTsldIllG5bHiOTlR), [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK), [Veejay](https://open.spotify.com/artist/5shQzeM6pm740GumsPJUyW), [Fury](https://open.spotify.com/artist/5izYtLYxqReV4rBsZR9grn) | [Athandwe](https://open.spotify.com/album/6TqqkvDItvux1sENtbsDpk) | 6:38 |
+| 62 | [Athandwe](https://open.spotify.com/track/4FX3VdoR6kosgnJVZcn2FN) | [Kay Sibiya](https://open.spotify.com/artist/3E9WbjAcP8poqSv87dbwqd), [Kamza HeavyPoint](https://open.spotify.com/artist/7nL5uRTsldIllG5bHiOTlR), [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK), [Veejay](https://open.spotify.com/artist/095KG6ANWZgJJ5Pnjy77yO), [Fury](https://open.spotify.com/artist/5QhMShGkFeZMA0AFlBpCm6) | [Athandwe](https://open.spotify.com/album/6TqqkvDItvux1sENtbsDpk) | 6:22 |
 | 63 | [SILENCE](https://open.spotify.com/track/610BwaesM3OstMsPJsjh2h) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [SILENCE](https://open.spotify.com/album/02vgOXJ6Bs2NZEuw4h2VvP) | 4:11 |
 | 64 | [Something We Had](https://open.spotify.com/track/4UqtydrzcSdYJfbbElHNzO) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Goes Deep](https://open.spotify.com/album/3ZxSPe4y4Hy5STHL7Kvltj) | 5:38 |
 | 65 | [Virtual Muse](https://open.spotify.com/track/1yUauOurGlXjKAeDUJnkVG) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [A Human Home](https://open.spotify.com/album/4wbeeQUnzMspDFC9PFwPCD) | 4:13 |

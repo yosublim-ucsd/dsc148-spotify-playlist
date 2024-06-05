@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Luck Ra, Maluma y KHEA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,327 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,332 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 11 | [Todo Comenzo Bailando \- En Vivo](https://open.spotify.com/track/45mfsCdX1JSyRF1MXetIhk) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [En Vivo en el Antel Arena](https://open.spotify.com/album/0DR7WNLYFXVX4Is57J1JSd) | 3:17 |
 | 12 | [Traición](https://open.spotify.com/track/7dRD7eBLIglu0VkXBhy1Nm) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Desengaños](https://open.spotify.com/album/4jJOwvSGnBDyU7rQtGhbet) | 3:35 |
 | 13 | [Quizas](https://open.spotify.com/track/04CHU4rx7T5zznuwAlMeRz) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Camila Mercado](https://open.spotify.com/artist/7IFvVz7KWte5biHbFmIJfl) | [Quizas](https://open.spotify.com/album/4TOG0O4lhvuQmDIDPQmktD) | 4:09 |
-| 14 | [Vieja Escuela](https://open.spotify.com/track/1wPf9FgayQCuQvWlBLlvWm) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [El Polaco](https://open.spotify.com/artist/5sGRhlXkbt74D4YJDl1gqY), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Vieja Escuela](https://open.spotify.com/album/6OOSe38Cc7PeLqogTCBTAX) | 2:26 |
+| 14 | [Vieja Escuela](https://open.spotify.com/track/1wPf9FgayQCuQvWlBLlvWm) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Vieja Escuela](https://open.spotify.com/album/6OOSe38Cc7PeLqogTCBTAX) | 2:26 |
 | 15 | [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 |
 | 16 | [VIVO](https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [VIVO](https://open.spotify.com/album/772S7hHdD0VpV4n5aN77E2) | 2:56 |
 | 17 | [Qué Sigue Después](https://open.spotify.com/track/650F1vEMDCxvArZJBjvctR) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Qué Sigue Después](https://open.spotify.com/album/2FrGrv4CMS06cw2RORLcg4) | 3:33 |

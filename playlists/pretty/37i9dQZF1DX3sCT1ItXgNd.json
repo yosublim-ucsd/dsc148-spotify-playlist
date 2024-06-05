@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana, Sen Senra",
-  "num_followers": 962286,
+  "num_followers": 962303,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl2G5wAAAABfU1IdTJuFdj6PYwrn/fS6",
+  "snapshot_id": "Zl7hvwAAAABuCyhC4h9zItzbyapzkAfk",
   "tracks": [
     {
       "added_at": "2024-06-03 09:03:35",
@@ -341,20 +341,24 @@
       "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
     },
     {
-      "added_at": "2024-06-03 09:03:35",
+      "added_at": "2024-06-04 09:43:27",
       "album": {
-        "name": "ES SOLO M\u00daSICA",
-        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
+        "name": "me he colgado de mi ex",
+        "url": "https://open.spotify.com/album/7El0ClNnWU2t1aIPdG5B3I"
       },
       "artists": [
         {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
         }
       ],
-      "duration_ms": 173741,
-      "name": "Desconocido",
-      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
+      "duration_ms": 156185,
+      "name": "me he colgado de mi ex",
+      "url": "https://open.spotify.com/track/3WEzoedCdyFgSi9GkM1HkF"
     },
     {
       "added_at": "2024-06-03 09:03:35",
@@ -435,22 +439,18 @@
     {
       "added_at": "2024-06-03 09:03:35",
       "album": {
-        "name": "Santorini",
-        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+        "name": "ES SOLO M\u00daSICA",
+        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
         }
       ],
-      "duration_ms": 160893,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+      "duration_ms": 173741,
+      "name": "Desconocido",
+      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
     },
     {
       "added_at": "2024-06-03 09:03:35",
@@ -467,6 +467,26 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "added_at": "2024-06-03 09:03:35",
+      "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2024-06-03 09:03:35",
@@ -619,6 +639,22 @@
     {
       "added_at": "2024-06-03 09:03:35",
       "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2024-06-03 09:03:35",
+      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
@@ -639,22 +675,6 @@
       "duration_ms": 177000,
       "name": "Sin Filtro",
       "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
-    },
-    {
-      "added_at": "2024-06-03 09:03:35",
-      "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2024-06-03 09:03:35",
@@ -795,18 +815,22 @@
     {
       "added_at": "2024-06-03 09:03:35",
       "album": {
-        "name": "Contacto Cero",
-        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
+        "name": "\u00daltimo Verano",
+        "url": "https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l"
       },
       "artists": [
         {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        },
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
         }
       ],
-      "duration_ms": 180986,
-      "name": "D\u00e9jame t\u00fa",
-      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
+      "duration_ms": 169877,
+      "name": "\u00daltimo Verano",
+      "url": "https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9"
     },
     {
       "added_at": "2024-06-03 09:03:35",
@@ -827,26 +851,6 @@
       "duration_ms": 159163,
       "name": "Lo Dejo Todo",
       "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
-    },
-    {
-      "added_at": "2024-06-03 09:03:35",
-      "album": {
-        "name": "\u00daltimo Verano",
-        "url": "https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        },
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "\u00daltimo Verano",
-      "url": "https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9"
     },
     {
       "added_at": "2024-06-03 09:03:35",
@@ -883,6 +887,22 @@
     {
       "added_at": "2024-06-03 09:03:35",
       "album": {
+        "name": "Contacto Cero",
+        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "D\u00e9jame t\u00fa",
+      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
+    },
+    {
+      "added_at": "2024-06-03 09:03:35",
+      "album": {
         "name": "Full Romance",
         "url": "https://open.spotify.com/album/5zd608smm4YhnsOtyxElpf"
       },
@@ -895,22 +915,6 @@
       "duration_ms": 157322,
       "name": "Full Romance",
       "url": "https://open.spotify.com/track/5O1zs9if5WlN0imKHxtWjB"
-    },
-    {
-      "added_at": "2024-06-03 09:03:35",
-      "album": {
-        "name": "HOMBRE LIBRE",
-        "url": "https://open.spotify.com/album/7aZEM8ZNEOeOXDf0zdKdwK"
-      },
-      "artists": [
-        {
-          "name": "Manu Cort",
-          "url": "https://open.spotify.com/artist/1s5yaJ9Dr74CfXADawVeqs"
-        }
-      ],
-      "duration_ms": 173349,
-      "name": "HOMBRE LIBRE",
-      "url": "https://open.spotify.com/track/5KNaOXxuRfrR7fHAucOM0H"
     },
     {
       "added_at": "2024-06-03 09:03:35",

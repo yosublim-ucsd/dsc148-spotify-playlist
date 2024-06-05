@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcasts you need to have on your RADAR: Big Small Talk with Hannah Ferguson and Sarah Jane Adams.",
+  "description": "Podcasts you need to have on your RADAR: Relatables with Jake and Ottie.",
   "name": "RADAR Podcasters AUSTRALIA",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3918445,
       "name": "#126 Do you really want to be the Prime Minister?: Hannah Ferguson on healthy discourse, Cheek Media & political aspirations",
       "url": "https://open.spotify.com/episode/0sSgxwOQkOVqHcbv3XirkA"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Relatables ",
+        "url": "https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk"
+      },
+      "artists": [
+        {
+          "name": "Relatables ",
+          "url": "https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3313103,
+      "name": "AUDIO EROTICA (Spicy Warning)",
+      "url": "https://open.spotify.com/episode/0zDaMZ6L4bdYvwQc6YAniN"
+    },
+    {
+      "album": {
         "name": "Big Small Talk",
         "url": "https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk"
       },
@@ -232,10 +250,28 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3415457,
       "name": "Baby Reindeer, Bieber Pregnancy & #BlockOut2024",
       "url": "https://open.spotify.com/episode/55vnwfaBDBakUtIQnsoxtU"
+    },
+    {
+      "album": {
+        "name": "Relatables ",
+        "url": "https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk"
+      },
+      "artists": [
+        {
+          "name": "Relatables ",
+          "url": "https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1988736,
+      "name": "BESTFRIEND VS GIRLFRIEND",
+      "url": "https://open.spotify.com/episode/18iKzuqVDU6NH2aczzEKDY"
     },
     {
       "album": {
@@ -250,7 +286,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 2816548,
       "name": "Billie Eilish Disses Taylor Swift, Ozempic & News Corp\u2019s Chat GPT deal",
       "url": "https://open.spotify.com/episode/40x1UoiJjPk7pz1W64GrJC"
@@ -268,10 +304,46 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3650455,
       "name": "Channel Seven, JK Rowling & Rebel Wilson's Memoir",
       "url": "https://open.spotify.com/episode/7puwd9TW2COcoDJRaqXkUB"
+    },
+    {
+      "album": {
+        "name": "Relatables ",
+        "url": "https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk"
+      },
+      "artists": [
+        {
+          "name": "Relatables ",
+          "url": "https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3769896,
+      "name": "COULD YOU BE THE PROBLEM?!",
+      "url": "https://open.spotify.com/episode/5gw0Y1OvkuctAkncdkgeqV"
+    },
+    {
+      "album": {
+        "name": "Relatables ",
+        "url": "https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk"
+      },
+      "artists": [
+        {
+          "name": "Relatables ",
+          "url": "https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 756288,
+      "name": "Dilemmas 8",
+      "url": "https://open.spotify.com/episode/4IKs0Me6YAVfqBNtcv2yno"
     },
     {
       "album": {
@@ -484,7 +556,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 2416692,
       "name": "HANNAH FERGUSON P1: \"You're The Lightning Rod For Sexism In Australia\"",
       "url": "https://open.spotify.com/episode/0tFdUehZicRNVmDgvvEd99"
@@ -520,7 +592,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3249711,
       "name": "Kate Middleton Diagnosis, Quiet on Set & HECS",
       "url": "https://open.spotify.com/episode/7wrfU215ND17R9sF3s5qZ1"
@@ -538,7 +610,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3742746,
       "name": "Lehrmann Loses, Bondi Killings & OJ Simpson Dies",
       "url": "https://open.spotify.com/episode/3MLlwjL9gqbjeX2OEev3rw"
@@ -563,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Relatables ",
+        "url": "https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk"
+      },
+      "artists": [
+        {
+          "name": "Relatables ",
+          "url": "https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1643256,
+      "name": "MEN WOULDN'T STAND A CHANCE",
+      "url": "https://open.spotify.com/episode/0mjsMK1Z8nuPViLa58u4yB"
+    },
+    {
+      "album": {
         "name": "Big Small Talk",
         "url": "https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk"
       },
@@ -574,7 +664,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3334138,
       "name": "Met Gala, DV Policy & Rafah",
       "url": "https://open.spotify.com/episode/5pHauv3wough3jRTkYJE2d"
@@ -610,7 +700,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 2513293,
       "name": "Olivia Rodrigo, Andrew Tate & US Tik Tok Ban",
       "url": "https://open.spotify.com/episode/7Gc851IQbbDvVX4bxCgSbw"
@@ -689,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Relatables ",
+        "url": "https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk"
+      },
+      "artists": [
+        {
+          "name": "Relatables ",
+          "url": "https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2149703,
+      "name": "THE BARE MINIMUM FOR MEN",
+      "url": "https://open.spotify.com/episode/5UHVwpDejnD0sbs2n9ior6"
+    },
+    {
+      "album": {
         "name": "We Don't Have Time For This",
         "url": "https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ"
       },
@@ -736,7 +844,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3250364,
       "name": "The Tortured Poets Department, Caitlin Clark & Elon Musk",
       "url": "https://open.spotify.com/episode/30OhS6rV9OWnKYC1TRuGax"
@@ -758,6 +866,24 @@
       "duration_ms": 2487301,
       "name": "They Don't Sleep In The Same Bed? \ud83d\ude2c",
       "url": "https://open.spotify.com/episode/2dibjBZEFuj0Tt0qcufMBL"
+    },
+    {
+      "album": {
+        "name": "Relatables ",
+        "url": "https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk"
+      },
+      "artists": [
+        {
+          "name": "Relatables ",
+          "url": "https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3208103,
+      "name": "Things We Love About Girls!!",
+      "url": "https://open.spotify.com/episode/06J5x4Jwxb5esNKYycbX63"
     },
     {
       "album": {
@@ -790,7 +916,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3389492,
       "name": "Weinstein, Drake vs Kendrick & Trump",
       "url": "https://open.spotify.com/episode/1H8Sbxk8pxicdQUTVYDYfc"
@@ -808,7 +934,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 3337952,
       "name": "Whistleblower Jailed, Budget & Australian Fashion Week",
       "url": "https://open.spotify.com/episode/6Yz76VEplXQ7siLtfXCM0V"

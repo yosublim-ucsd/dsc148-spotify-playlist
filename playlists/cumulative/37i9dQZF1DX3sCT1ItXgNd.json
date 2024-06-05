@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 173349,
       "name": "HOMBRE LIBRE",
       "url": "https://open.spotify.com/track/5KNaOXxuRfrR7fHAucOM0H"
@@ -5030,6 +5030,28 @@
       "duration_ms": 121674,
       "name": "Me Gustas Tanto",
       "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
+    },
+    {
+      "album": {
+        "name": "me he colgado de mi ex",
+        "url": "https://open.spotify.com/album/7El0ClNnWU2t1aIPdG5B3I"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156185,
+      "name": "me he colgado de mi ex",
+      "url": "https://open.spotify.com/track/3WEzoedCdyFgSi9GkM1HkF"
     },
     {
       "album": {

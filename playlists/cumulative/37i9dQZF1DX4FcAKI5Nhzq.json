@@ -7689,6 +7689,24 @@
     },
     {
       "album": {
+        "name": "LOVE EPISODE",
+        "url": "https://open.spotify.com/album/3HG5kKZPdKRspJFUvShae7"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200061,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1hXs7BduDW3yGSSwolP8eh"
+    },
+    {
+      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW"
       },

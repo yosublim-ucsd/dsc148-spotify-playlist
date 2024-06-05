@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Catz 'n Dogz celebrate pride month with their guest curation takeover of Club Resistance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,815 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,937 likes - 90 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 33 | [Double Tap](https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Double Tap](https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu) | 3:10 |
 | 34 | [C\-U\-N\-T\-Y](https://open.spotify.com/track/1JCpF28evLoaFOVfWxorj5) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [C\-U\-N\-T\-Y](https://open.spotify.com/album/49dln17v6ZA5ZFnpOqG88f) | 2:41 |
 | 35 | [T.E.T.A Intergalactica](https://open.spotify.com/track/4AuVKafP9n7Y8NvjyEMGtd) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db), [Iki Yos](https://open.spotify.com/artist/6M9pbhfaqC8axIxpEkioK1) | [T.E.T.A Intergalactica](https://open.spotify.com/album/672vnH5HCMgYe0ReIxGiCS) | 4:00 |
-| 36 | [thicc](https://open.spotify.com/track/7tNUNRjg5Q5JaGg5Q0zK0o) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 3:42 |
+| 36 | [thicc](https://open.spotify.com/track/7tNUNRjg5Q5JaGg5Q0zK0o) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 3:42 |
 | 37 | [DRIFT](https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [DRIFT](https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx) | 2:51 |
 | 38 | [way of the dolls](https://open.spotify.com/track/4HvYbLRi7l6n1fBoxpZl6q) | [Star Amerasu](https://open.spotify.com/artist/5KeTqUR48eqXCpvEHQm7P6) | [way of the dolls](https://open.spotify.com/album/28p3hxN9jIXZC6Qoqqu0rF) | 3:32 |
 | 39 | [Get Your Fckin Laws Off My Body](https://open.spotify.com/track/3K6QWANCq9qHhnynKAmETM) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Get Your Fckin Laws Off My Body](https://open.spotify.com/album/0lJgF52PRsbQu7nYRCqZmE) | 3:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 89 | [Celestial Sodomy](https://open.spotify.com/track/1WqXDdzkMhoD4LK3xk2oV1) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Celestial Sodomy](https://open.spotify.com/album/5eKRxFeuq5nAdoJTLf8NJv) | 3:20 |
 | 90 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 |
 
-Snapshot ID: `ZlzTLgAAAABZZ5zo8wXaZDE8Uboj+j6/`
+Snapshot ID: `Zl9rZwAAAAAifY97RNwnguiK5pcB7cN7`

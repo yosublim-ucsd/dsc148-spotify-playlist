@@ -4091,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Pakano",
+        "url": "https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Pakano",
+      "url": "https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL"
+    },
+    {
+      "album": {
         "name": "Peela Peter",
         "url": "https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP"
       },

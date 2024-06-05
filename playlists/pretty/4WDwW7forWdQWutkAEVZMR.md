@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring TREASURE, Miley Cyrus, and more! Cover: TREASURE
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,024 likes - 42 songs - 2 hr 10 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,023 likes - 42 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

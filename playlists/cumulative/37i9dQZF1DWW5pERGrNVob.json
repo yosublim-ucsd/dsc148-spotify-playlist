@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ"
+    },
+    {
+      "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/4hUoji0XYWp8fJoFCK7h0x"
       },

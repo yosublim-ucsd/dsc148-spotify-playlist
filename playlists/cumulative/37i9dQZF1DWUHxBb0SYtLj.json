@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Ascolta a tutto volume queste talentuose artiste italiane! Cover: Margherita Vicario",
+  "description": "Ascolta a tutto volume queste talentuose artiste italiane! Cover: Noemi",
   "name": "EQUAL Italia",
   "tracks": [
     {
@@ -240,6 +240,24 @@
       "duration_ms": 186000,
       "name": "26 modi",
       "url": "https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU"
+    },
+    {
+      "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "album": {
@@ -492,7 +510,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 155840,
       "name": "Acqua ossigenata",
       "url": "https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0"
@@ -931,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Angelsummit.net",
+        "url": "https://open.spotify.com/album/2795O4jfSNJ2pywv2RZZGR"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307636,
+      "name": "Angelsummit.net",
+      "url": "https://open.spotify.com/track/4BesYe4GtFRxE5YsqHFVR1"
+    },
+    {
+      "album": {
         "name": "Mostri",
         "url": "https://open.spotify.com/album/2oaAUknInCYTqSGtZUT08N"
       },
@@ -946,6 +982,24 @@
       "duration_ms": 230876,
       "name": "Anima in piena",
       "url": "https://open.spotify.com/track/2AZpzBmuZCD8V5WpjJiUzI"
+    },
+    {
+      "album": {
+        "name": "Annegare",
+        "url": "https://open.spotify.com/album/3r95jiwOQ9Xnym5m7BPCGT"
+      },
+      "artists": [
+        {
+          "name": "jiojio",
+          "url": "https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152361,
+      "name": "Annegare",
+      "url": "https://open.spotify.com/track/1tRiIxEcYdMYvyHHp7vQKM"
     },
     {
       "album": {
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 168593,
       "name": "ANTARTICO",
       "url": "https://open.spotify.com/track/3SthJHKo6Fa5xAOLEF4d2J"
@@ -1072,7 +1126,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 180923,
       "name": "APNEA",
       "url": "https://open.spotify.com/track/3qyidNdb5QNHLxAFJzTn6P"
@@ -1721,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "Beb\u00e8",
+        "url": "https://open.spotify.com/album/3hsKJOALwgmIJ4pbA5UxrK"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143263,
+      "name": "Beb\u00e8",
+      "url": "https://open.spotify.com/track/3MnD0MCUntvc9FJGYVM9Ru"
+    },
+    {
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/4YUoF0gvjoYYVhBQsHCqgp"
       },
@@ -1884,6 +1960,24 @@
       "duration_ms": 197066,
       "name": "Black Eagle",
       "url": "https://open.spotify.com/track/1RgTtE3B08KoJXq5brKcuW"
+    },
+    {
+      "album": {
+        "name": "Black Nirvana",
+        "url": "https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Black Nirvana",
+      "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
     },
     {
       "album": {
@@ -2194,7 +2288,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 197145,
       "name": "Britney",
       "url": "https://open.spotify.com/track/3ItkZMXsFLJnxUzYw0tIyV"
@@ -2916,7 +3010,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 210000,
       "name": "Castelli di carta",
       "url": "https://open.spotify.com/track/0iBp6E2bkpEiimpO2W8uNp"
@@ -3060,7 +3154,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 206507,
       "name": "Centri di anzianit\u00e0",
       "url": "https://open.spotify.com/track/6PTi9WN9KAcnYpMqVOJPrm"
@@ -3566,7 +3660,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 210000,
       "name": "CIAO",
       "url": "https://open.spotify.com/track/5DdWHjsNcP6wV14DjkvRYj"
@@ -3822,7 +3916,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 221967,
       "name": "CLUB",
       "url": "https://open.spotify.com/track/5YcPcON9osfH2LSBP1ny0k"
@@ -4100,10 +4194,28 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 157025,
       "name": "comme se fa (feat. Caffellatte)",
       "url": "https://open.spotify.com/track/3USrR85Bd4aB8n9AjgbBG8"
+    },
+    {
+      "album": {
+        "name": "comphet",
+        "url": "https://open.spotify.com/album/2belrW7mOuZTqECAx3cqe9"
+      },
+      "artists": [
+        {
+          "name": "georgia, georgia",
+          "url": "https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193359,
+      "name": "comphet",
+      "url": "https://open.spotify.com/track/0Qt4bjEENOnUiXRA792apJ"
     },
     {
       "album": {
@@ -4122,6 +4234,24 @@
       "duration_ms": 207000,
       "name": "Complice",
       "url": "https://open.spotify.com/track/3UyqLxtppByh3Lt8A7PCVG"
+    },
+    {
+      "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/4RczpFb6idMcXELvvLEtnT"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "Complici",
+      "url": "https://open.spotify.com/track/2pfHwRtJJfqBhpPQDLH244"
     },
     {
       "album": {
@@ -4674,7 +4804,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 204186,
       "name": "Dafalgan",
       "url": "https://open.spotify.com/track/3XGsMvnIirV7ICCWAh7v7L"
@@ -4782,7 +4912,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 134571,
       "name": "Danza del Ghetto (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/2uTE3ilwfZWtMdarjkStGs"
@@ -4804,6 +4934,24 @@
       "duration_ms": 128725,
       "name": "DARK ROOM",
       "url": "https://open.spotify.com/track/28vEpVxkslCPI2sfeZ9fSr"
+    },
+    {
+      "album": {
+        "name": "Dea Saffica",
+        "url": "https://open.spotify.com/album/682OwV08MCYCXR6sYR8xnt"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153286,
+      "name": "Dea Saffica",
+      "url": "https://open.spotify.com/track/6Fm3dU9ZwAliTadrs8HBzL"
     },
     {
       "album": {
@@ -4962,7 +5110,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 192120,
       "name": "DIAMANTI GREZZI",
       "url": "https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv"
@@ -5038,6 +5186,24 @@
       "duration_ms": 168504,
       "name": "Disco Rotto",
       "url": "https://open.spotify.com/track/6MwOvCCsWdxqOCpQSUjRSR"
+    },
+    {
+      "album": {
+        "name": "DITEDIME",
+        "url": "https://open.spotify.com/album/3tdiTTiN8f2hhSIJAyQBjb"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235337,
+      "name": "DITEDIME",
+      "url": "https://open.spotify.com/track/7hibIwSZHXckdvdCbz4P8P"
     },
     {
       "album": {
@@ -5232,7 +5398,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 177000,
       "name": "Due Rami",
       "url": "https://open.spotify.com/track/18CiM0jtGVIuUX0K1JqXlr"
@@ -5437,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/540fbFCM2diRmiizsqMoTs"
+      },
+      "artists": [
+        {
+          "name": "BELS",
+          "url": "https://open.spotify.com/artist/4BnYYrUAQAsCLW79DRpNHy"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135572,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/09x5WkaUurwT7jMzaB2lT4"
+    },
+    {
+      "album": {
         "name": "Egoista",
         "url": "https://open.spotify.com/album/59N9BoP9P35nwB7j7pYVHX"
       },
@@ -5603,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "Andare, tornare",
+        "url": "https://open.spotify.com/album/10lbkXiO0z7BzlpX2tGUFf"
+      },
+      "artists": [
+        {
+          "name": "Anna and Vulkan",
+          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Estate infinita",
+      "url": "https://open.spotify.com/track/6XEv6VPkpV3QuqeGKS4Jaa"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/1woOYzpHxCUh0xhCSKKcLY"
       },
@@ -5697,6 +5899,28 @@
     },
     {
       "album": {
+        "name": "EXTASY",
+        "url": "https://open.spotify.com/album/3YaVkPXkzDkgFViCSrOFAu"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "EXTASY",
+      "url": "https://open.spotify.com/track/5nrOXJPRfFcrZbc2E3It9h"
+    },
+    {
+      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/2jtQPd5Iyr6Cuan56JMoNU"
       },
@@ -5720,7 +5944,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 225913,
       "name": "Fa strano (Lady Marmalade) (feat. Gaia, Sissi & LA NI\u00d1A)",
       "url": "https://open.spotify.com/track/3YVsnu0AZJ3Y4gb0lVf5lr"
@@ -5965,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "DEVOTA",
+        "url": "https://open.spotify.com/album/7i3oRIjhcZAb9wjqVLzbfE"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Quinta",
+          "url": "https://open.spotify.com/artist/3Jk1Qjo5P7yOQIBVkqUzet"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "FATIMA",
+      "url": "https://open.spotify.com/track/7ahK3ber0bIxRUxBvmkNMl"
+    },
+    {
+      "album": {
         "name": "fatti male",
         "url": "https://open.spotify.com/album/0uPWoLhL8tYG6aiZ7iU2Te"
       },
@@ -6055,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/69KvmI1ECKpjhjhZkI19Uo"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "FEMME FATALE",
+      "url": "https://open.spotify.com/track/4KJ9cKD3LBxnI9crOcXOPV"
+    },
+    {
+      "album": {
         "name": "Femmena",
         "url": "https://open.spotify.com/album/48B8m0PJxV8wJcmMah500u"
       },
@@ -6088,6 +6348,24 @@
       "duration_ms": 207624,
       "name": "Femminuccia",
       "url": "https://open.spotify.com/track/2D60SsiM3NDqjfA3ftbG2N"
+    },
+    {
+      "album": {
+        "name": "Festa Totale",
+        "url": "https://open.spotify.com/album/1pFeLYpEpwFbseYoQwA7QT"
+      },
+      "artists": [
+        {
+          "name": "Paola & Chiara",
+          "url": "https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151071,
+      "name": "Festa Totale",
+      "url": "https://open.spotify.com/track/4iNEQbRbTupwcg6rq7GuuU"
     },
     {
       "album": {
@@ -6142,7 +6420,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 186979,
       "name": "Fiammiferi",
       "url": "https://open.spotify.com/track/0iiV6F1qukb44kG2Tqx92J"
@@ -6340,10 +6618,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 232309,
       "name": "Fino a qui",
       "url": "https://open.spotify.com/track/37WCMrX9XnmmPCMY0aqZjo"
+    },
+    {
+      "album": {
+        "name": "DUMBA",
+        "url": "https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO"
+      },
+      "artists": [
+        {
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140406,
+      "name": "Finto cielo",
+      "url": "https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc"
     },
     {
       "album": {
@@ -7090,7 +7386,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 197745,
       "name": "Garageband",
       "url": "https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg"
@@ -7640,7 +7936,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 140884,
       "name": "Ho paura di morire",
       "url": "https://open.spotify.com/track/6itC27H7Dxt3NuwdLykChg"
@@ -8782,7 +9078,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 228923,
       "name": "L'America",
       "url": "https://open.spotify.com/track/3Gia5JNrgxKjJcCNgQ1L9o"
@@ -8998,7 +9294,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 189124,
       "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
@@ -9070,7 +9366,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 188740,
       "name": "La Parte Migliore Di Noi",
       "url": "https://open.spotify.com/track/2sLUBGfA7T0My2mWwb1axD"
@@ -9113,6 +9409,24 @@
     },
     {
       "album": {
+        "name": "LA VITA NON UCCIDE",
+        "url": "https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "LA VITA NON UCCIDE",
+      "url": "https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC"
+    },
+    {
+      "album": {
         "name": "Labirinto",
         "url": "https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L"
       },
@@ -9124,7 +9438,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 121691,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA"
@@ -9384,7 +9698,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 150437,
       "name": "LIBERT\u00c9",
       "url": "https://open.spotify.com/track/5u4NUZyZvf6arLqD9Jafqq"
@@ -9464,6 +9778,24 @@
       "duration_ms": 233026,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/05kYCKcmfgsiEXAKR2ZwHW"
+    },
+    {
+      "album": {
+        "name": "Limited Edition",
+        "url": "https://open.spotify.com/album/0nn0oUFkdSCu6BNX6gvAnK"
+      },
+      "artists": [
+        {
+          "name": "Giungla",
+          "url": "https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153300,
+      "name": "Limited Edition",
+      "url": "https://open.spotify.com/track/7KE9p9duEcRef8ZVhoxu9N"
     },
     {
       "album": {
@@ -9633,6 +9965,24 @@
     },
     {
       "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/5xIkwmOvPatDLwwbDmj1GO"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156968,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H"
+    },
+    {
+      "album": {
         "name": "LONTANO",
         "url": "https://open.spotify.com/album/05nTooGaJx8ctPmHmRmxOn"
       },
@@ -9778,7 +10128,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 254250,
       "name": "Lowkey Slut",
       "url": "https://open.spotify.com/track/0SxsdV9g6IEThczJQPAAo9"
@@ -10100,7 +10450,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 139591,
       "name": "MA COME SI FA",
       "url": "https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB"
@@ -10298,10 +10648,28 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 148666,
       "name": "Malocchio",
       "url": "https://open.spotify.com/track/4Um6UYgUkDl0NsM4o9rIV3"
+    },
+    {
+      "album": {
+        "name": "GUAGLIONA",
+        "url": "https://open.spotify.com/album/2UH5DS1bfX2642Ca6LVNqT"
+      },
+      "artists": [
+        {
+          "name": "Vale LP",
+          "url": "https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Malumore",
+      "url": "https://open.spotify.com/track/79SyI75QhnVQFEuQxTtSo7"
     },
     {
       "album": {
@@ -10454,6 +10822,24 @@
       "duration_ms": 160000,
       "name": "manica",
       "url": "https://open.spotify.com/track/3rTRr1M8nzR4PKZhKuVMzO"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/4p4SLnqEdnvCNXdeuup9Ui"
+      },
+      "artists": [
+        {
+          "name": "Anna Tatangelo",
+          "url": "https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129062,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2Mz8eSutUdfEzVzkmG7Jmg"
     },
     {
       "album": {
@@ -10735,6 +11121,24 @@
     },
     {
       "album": {
+        "name": "maybe it's just a bad day",
+        "url": "https://open.spotify.com/album/5Kit3K6senNkEURxKVh9Zb"
+      },
+      "artists": [
+        {
+          "name": "Francesca Everly",
+          "url": "https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190703,
+      "name": "maybe it's just a bad day",
+      "url": "https://open.spotify.com/track/24BOgLDborc7MNNJcobupD"
+    },
+    {
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/6EfbDS5MV2Wqdrws5MB2iE"
       },
@@ -10750,6 +11154,24 @@
       "duration_ms": 184784,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/3qg6enTIvDNfHOxu2serYE"
+    },
+    {
+      "album": {
+        "name": "melodrama",
+        "url": "https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147053,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C"
     },
     {
       "album": {
@@ -10872,7 +11294,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 146415,
       "name": "Mezzo Amore",
       "url": "https://open.spotify.com/track/12IBHgQmBdIv0fXREEeURt"
@@ -10894,6 +11316,28 @@
       "duration_ms": 214958,
       "name": "MEZZO MONDO",
       "url": "https://open.spotify.com/track/5jFEjdZ3LYGOyEjfltgJeq"
+    },
+    {
+      "album": {
+        "name": "Mezzo Rotto (feat. BigMama)",
+        "url": "https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        },
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195238,
+      "name": "Mezzo Rotto (feat. BigMama)",
+      "url": "https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7"
     },
     {
       "album": {
@@ -11131,6 +11575,24 @@
     },
     {
       "album": {
+        "name": "MILLEOCCHI",
+        "url": "https://open.spotify.com/album/5ffvL4umx35j7jJQpFW4E6"
+      },
+      "artists": [
+        {
+          "name": "nudda",
+          "url": "https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162692,
+      "name": "MILLEOCCHI",
+      "url": "https://open.spotify.com/track/1aACUM9mA5FNIo50o3OAwv"
+    },
+    {
+      "album": {
         "name": "Post Buio",
         "url": "https://open.spotify.com/album/4qxWWTXKdXZhpgpYOj7YaD"
       },
@@ -11142,7 +11604,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 135221,
       "name": "Millimetri",
       "url": "https://open.spotify.com/track/2CAcLSorBgm4sY3FUtI43k"
@@ -11178,7 +11640,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 200257,
       "name": "Mirtilli",
       "url": "https://open.spotify.com/track/44Gb0J724FznPhaJNKIUv9"
@@ -11340,7 +11802,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 135277,
       "name": "Mood Blu",
       "url": "https://open.spotify.com/track/0ayXlzf3J7QqeHw8bsSSdd"
@@ -11474,6 +11936,28 @@
       "duration_ms": 111489,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/3j6MsAwOw5FemCn8CIn20l"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/0lJMVcHNpeGzKGTAytrCqP"
+      },
+      "artists": [
+        {
+          "name": "JELECROIS",
+          "url": "https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP"
+        },
+        {
+          "name": "Milano Mobster",
+          "url": "https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130526,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37"
     },
     {
       "album": {
@@ -11625,6 +12109,28 @@
     },
     {
       "album": {
+        "name": "Nel cielo pi\u00f9 nero",
+        "url": "https://open.spotify.com/album/4Pmew4fVz53mElFWOoT2ai"
+      },
+      "artists": [
+        {
+          "name": "Hanami",
+          "url": "https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe"
+        },
+        {
+          "name": "kOkeshi",
+          "url": "https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159533,
+      "name": "Nel cielo pi\u00f9 nero",
+      "url": "https://open.spotify.com/track/1Ty9Tt0jBLvD7xenWomg2d"
+    },
+    {
+      "album": {
         "name": "Nella notte",
         "url": "https://open.spotify.com/album/0YfgYmmG8pOs4zhPwnwltu"
       },
@@ -11762,7 +12268,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 173684,
       "name": "Niente come te",
       "url": "https://open.spotify.com/track/1UF0avM3gYfFttKAexuKVH"
@@ -11823,6 +12329,24 @@
     },
     {
       "album": {
+        "name": "In Memoria Di",
+        "url": "https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142390,
+      "name": "Non chiamarmi bella",
+      "url": "https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY"
+    },
+    {
+      "album": {
         "name": "Panorama Olivia",
         "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
       },
@@ -11859,6 +12383,24 @@
     },
     {
       "album": {
+        "name": "Non ho bisogno di te",
+        "url": "https://open.spotify.com/album/4xoyTSSSLTjh0arh3L8UzE"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150330,
+      "name": "Non ho bisogno di te",
+      "url": "https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov"
+    },
+    {
+      "album": {
         "name": "non me ne frega un ca",
         "url": "https://open.spotify.com/album/74dptIChCn0YkwejWlrFje"
       },
@@ -11888,7 +12430,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 142500,
       "name": "non mi dire basta",
       "url": "https://open.spotify.com/track/6F3OCIiRd8hBimbzqis9Vb"
@@ -11946,6 +12488,24 @@
       "duration_ms": 164571,
       "name": "Non sono come te",
       "url": "https://open.spotify.com/track/2eDdAA9cDMn7UvLjU6wfAG"
+    },
+    {
+      "album": {
+        "name": "Non sono JT",
+        "url": "https://open.spotify.com/album/3eQTN8O6HLUSv4OqG3g04R"
+      },
+      "artists": [
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120662,
+      "name": "Non sono JT",
+      "url": "https://open.spotify.com/track/7fZP0S5SBO2WNqKBqe3k9V"
     },
     {
       "album": {
@@ -12036,7 +12596,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 120000,
       "name": "NON \u00c8 FACILE",
       "url": "https://open.spotify.com/track/37NB4kJlOnf8BGjDUIMJF0"
@@ -12321,6 +12881,24 @@
     },
     {
       "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "Obl\u00f2",
+      "url": "https://open.spotify.com/track/7zLDRlMwAG0twTs3d3I73s"
+    },
+    {
+      "album": {
         "name": "occhi grandi grandi",
         "url": "https://open.spotify.com/album/3AS0A8n2kZklh41wvNCzas"
       },
@@ -12440,7 +13018,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 169090,
       "name": "OGGI COME IERI",
       "url": "https://open.spotify.com/track/15J7tvAXC0ZrmJamowiMWC"
@@ -12566,7 +13144,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 179318,
       "name": "Ora Arriva il Bello",
       "url": "https://open.spotify.com/track/3P1ti0xwUdu174if5uLkwg"
@@ -12689,6 +13267,24 @@
     },
     {
       "album": {
+        "name": "OSSA ROTTE",
+        "url": "https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173924,
+      "name": "OSSA ROTTE",
+      "url": "https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS"
+    },
+    {
+      "album": {
         "name": "Ossessionata",
         "url": "https://open.spotify.com/album/4xGUUQvgVSniIg2tQnxuk1"
       },
@@ -12704,6 +13300,24 @@
       "duration_ms": 198066,
       "name": "Ossessionata",
       "url": "https://open.spotify.com/track/2loGl8baOoJhfd2vNJF0B7"
+    },
+    {
+      "album": {
+        "name": "OTT",
+        "url": "https://open.spotify.com/album/3cRGn8DVii0XHDqX6ipwRG"
+      },
+      "artists": [
+        {
+          "name": "Evissimax",
+          "url": "https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/2fAzROOpEsYAgp8lkT0QY1"
     },
     {
       "album": {
@@ -13014,7 +13628,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 168166,
       "name": "Pazza",
       "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
@@ -13238,6 +13852,24 @@
       "duration_ms": 164902,
       "name": "PIRANHA",
       "url": "https://open.spotify.com/track/2w6940hx16miltKv055xLU"
+    },
+    {
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/36awoBWVji12SzECMKtcPC"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lazic",
+          "url": "https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415748,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/1rDiG6okK3bPaovs9rlesU"
     },
     {
       "album": {
@@ -14338,7 +14970,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 168113,
       "name": "Ritorner\u00f2",
       "url": "https://open.spotify.com/track/3IdhQHYSJvvpOwMVqPaSh0"
@@ -14525,6 +15157,24 @@
     },
     {
       "album": {
+        "name": "Rumore",
+        "url": "https://open.spotify.com/album/1B5jPc4DQUR0VQEXZg9Qld"
+      },
+      "artists": [
+        {
+          "name": "Clode",
+          "url": "https://open.spotify.com/artist/4wJwVMQ2Dm2VIwxzMAvriE"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204149,
+      "name": "Rumore",
+      "url": "https://open.spotify.com/track/3wHeFR2flaiorEhF0pZpT2"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -14670,6 +15320,24 @@
       "duration_ms": 122276,
       "name": "SAD BUT TRAP",
       "url": "https://open.spotify.com/track/2xj1s6DdukhoG1B6TUCWhJ"
+    },
+    {
+      "album": {
+        "name": "Sagittario",
+        "url": "https://open.spotify.com/album/1CeLii9sVonYYq7eT3lAqM"
+      },
+      "artists": [
+        {
+          "name": "ioemeg",
+          "url": "https://open.spotify.com/artist/1iAww5f7OY85PWZiYGgYxE"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167970,
+      "name": "Sagittario",
+      "url": "https://open.spotify.com/track/76UTkwS4p9drNUSySX8HQh"
     },
     {
       "album": {
@@ -14880,6 +15548,24 @@
       "duration_ms": 197333,
       "name": "Scappa da me",
       "url": "https://open.spotify.com/track/7sMe3toUFxmHvDpwmuVQJH"
+    },
+    {
+      "album": {
+        "name": "scarpe slacciate",
+        "url": "https://open.spotify.com/album/4PE7391macqTVvca7wKqZY"
+      },
+      "artists": [
+        {
+          "name": "ASHES",
+          "url": "https://open.spotify.com/artist/579r1PvHYLoNoIF7Ib3evX"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "scarpe slacciate",
+      "url": "https://open.spotify.com/track/0xredIV6raEgvjJzEUOkhe"
     },
     {
       "album": {
@@ -15243,6 +15929,24 @@
     },
     {
       "album": {
+        "name": "Senza Finale",
+        "url": "https://open.spotify.com/album/3GMy6UByOe8Xuq7AgZtipB"
+      },
+      "artists": [
+        {
+          "name": "Bianelle",
+          "url": "https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Senza Finale",
+      "url": "https://open.spotify.com/track/2VitXF1SEYx95J7bi9XZHU"
+    },
+    {
+      "album": {
         "name": "Senza te",
         "url": "https://open.spotify.com/album/3sRLsdqgQ2ewYQxlPI48nu"
       },
@@ -15315,6 +16019,42 @@
     },
     {
       "album": {
+        "name": "Sexed & Sexual",
+        "url": "https://open.spotify.com/album/5K4Knt06ZayoEBqroeYW6h"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174694,
+      "name": "Sexed & Sexual",
+      "url": "https://open.spotify.com/track/1TDlpkrErbMcPJf8ODgTlh"
+    },
+    {
+      "album": {
+        "name": "Sexy Magica",
+        "url": "https://open.spotify.com/album/7BJ3HMKnR36VisEgr934C2"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159685,
+      "name": "Sexy Magica",
+      "url": "https://open.spotify.com/track/55JgCMrXnEr7efsSEaUjpd"
+    },
+    {
+      "album": {
         "name": "SEXY MAGICA",
         "url": "https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM"
       },
@@ -15326,7 +16066,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 159685,
       "name": "SEXY MAGICA",
       "url": "https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t"
@@ -15398,7 +16138,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 205487,
       "name": "Si potesse tornare",
       "url": "https://open.spotify.com/track/51IzBNnJ0MZgdQLrrBuuv7"
@@ -15488,7 +16228,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 215714,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
@@ -15802,6 +16542,24 @@
       "duration_ms": 177756,
       "name": "Sotto Voce",
       "url": "https://open.spotify.com/track/0u3pUQlcqICp6aRjSLNKvn"
+    },
+    {
+      "album": {
+        "name": "Sottobraccio",
+        "url": "https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y"
+      },
+      "artists": [
+        {
+          "name": "Laila Al Habash",
+          "url": "https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "Sottobraccio",
+      "url": "https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil"
     },
     {
       "album": {
@@ -16678,7 +17436,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 141897,
       "name": "The Best Sea",
       "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
@@ -16894,7 +17652,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 161764,
       "name": "Time",
       "url": "https://open.spotify.com/track/4r0qu3KQnBRNL5n7ID7D24"
@@ -17302,7 +18060,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 200160,
       "name": "Tu con me hai chiuso",
       "url": "https://open.spotify.com/track/5EDkL5ZFCbroL36R8ZmPsX"
@@ -17436,7 +18194,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 167816,
       "name": "Tutti contro tutti",
       "url": "https://open.spotify.com/track/3Qi2tRCAstmItgnf1qpq71"
@@ -17580,7 +18338,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 222320,
       "name": "Un brutto sogno si ripete spesso",
       "url": "https://open.spotify.com/track/46P7ZSfOcRRv6C3kICSOw9"
@@ -17854,7 +18612,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 180446,
       "name": "Verso Casa",
       "url": "https://open.spotify.com/track/23mocQ2xxsFmktFFHdqfBh"
@@ -18060,6 +18818,24 @@
       "duration_ms": 158709,
       "name": "Vipere",
       "url": "https://open.spotify.com/track/0rY6KVqpnj5docK3Jx5LuD"
+    },
+    {
+      "album": {
+        "name": "vita lenta",
+        "url": "https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181848,
+      "name": "vita lenta",
+      "url": "https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC"
     },
     {
       "album": {
@@ -18283,6 +19059,24 @@
     },
     {
       "album": {
+        "name": "Vorrei",
+        "url": "https://open.spotify.com/album/1IjLObFQcWnbJWyrmLY61e"
+      },
+      "artists": [
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/3AouBLPXmWC0rzPRr0LSfY"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Vorrei",
+      "url": "https://open.spotify.com/track/5nTKLU3BqvdSisOzXguxly"
+    },
+    {
+      "album": {
         "name": "Vorrei Che Fosse Odio",
         "url": "https://open.spotify.com/album/1L8Ti5F6cv65EZ1fAmxHQX"
       },
@@ -18377,6 +19171,24 @@
     },
     {
       "album": {
+        "name": "YACHT CLUB",
+        "url": "https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177349,
+      "name": "YACHT CLUB",
+      "url": "https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2"
+    },
+    {
+      "album": {
         "name": "Yin e Yang",
         "url": "https://open.spotify.com/album/6DttXcxJhwIcHgMZjeSLvz"
       },
@@ -18467,6 +19279,24 @@
     },
     {
       "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/3y9boZt4qBDNFu942NRcKN"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393066,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"
+    },
+    {
+      "album": {
         "name": "Zattera",
         "url": "https://open.spotify.com/album/456f6YKldblpDPmIjWcnna"
       },
@@ -18500,6 +19330,24 @@
       "duration_ms": 201293,
       "name": "Zero",
       "url": "https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb"
+    },
+    {
+      "album": {
+        "name": "ZITTA",
+        "url": "https://open.spotify.com/album/6hXPnFfVEWBDo66VCt2AMS"
+      },
+      "artists": [
+        {
+          "name": "MARTE XOXO",
+          "url": "https://open.spotify.com/artist/07Jk3bTwGr2NzImHMBnlxb"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "ZITTA",
+      "url": "https://open.spotify.com/track/2bVt0Oio2v8V6am7ETFHyk"
     },
     {
       "album": {

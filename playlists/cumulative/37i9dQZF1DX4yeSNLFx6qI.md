@@ -4,7 +4,7 @@
 
 > Sad songs 4 sad days.
 
-268 songs - 15 hr 22 min
+269 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Aún me amas](https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Aún me amas](https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw) | 3:40 | 2021-12-06 | 2024-05-17 |
 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 | 2023-11-24 |  |
 | [Bandera Blanca](https://open.spotify.com/track/15jOcOIjMrz773VgVUoMXb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Bandera Blanca](https://open.spotify.com/album/0CBLPf9fwBJYaEM159vk48) | 3:30 | 2021-12-06 | 2022-07-29 |
-| [Boomerang](https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Boomerang](https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe) | 2:49 | 2024-02-09 |  |
+| [Boomerang](https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Boomerang](https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe) | 2:49 | 2024-02-09 | 2024-06-05 |
 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 | 2022-05-19 | 2024-05-17 |
 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 | 2023-06-01 | 2023-07-01 |
 | [Capítulos](https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Impulso](https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2) | 3:24 | 2021-12-06 | 2023-01-07 |
@@ -124,6 +124,7 @@
 | [Lo Siento Mucho](https://open.spotify.com/track/6IXrEQi71AjuBV8AItJP2L) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho](https://open.spotify.com/album/5AG046KuFMxYuCBl8sLqJd) | 3:18 | 2021-12-06 | 2022-07-29 |
 | [Lo Siento Mucho](https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:18 | 2022-07-21 | 2024-04-19 |
 | [LUNA](https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [LUNA](https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J) | 2:38 | 2021-12-06 | 2023-01-04 |
+| [Luna \(pag.1\)](https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Luna \(pag.1\)](https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG) | 2:49 | 2024-05-31 |  |
 | [Lunes](https://open.spotify.com/track/7z9Jw5U43JSvsJhqMcDyQh) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [Lunes](https://open.spotify.com/album/5aUdorMtJ3ZQlDUJW1iS6B) | 3:14 | 2021-12-06 | 2022-07-11 |
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 | 2024-05-17 |  |
 | [Manos de Tijera](https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 4:27 | 2021-12-06 | 2024-05-17 |

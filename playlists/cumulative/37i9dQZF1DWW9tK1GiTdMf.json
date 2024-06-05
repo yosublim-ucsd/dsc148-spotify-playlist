@@ -7917,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "PER IL MIO BENE",
+        "url": "https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw"
+      },
+      "artists": [
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "ho perso il cuore",
+      "url": "https://open.spotify.com/track/28jmvssKonCcMnyBrDStYR"
+    },
+    {
+      "album": {
         "name": "Ho Smesso",
         "url": "https://open.spotify.com/album/6WCNWyTxAISoH3fiVg4OWk"
       },

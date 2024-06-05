@@ -8764,7 +8764,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 222255,
       "name": "Summer Ghost",
       "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
@@ -12728,7 +12728,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 223402,
       "name": "\u30cb\u30e5\u30a2\u30f3\u30b9\u3067\u4f1d\u3048\u3066 feat. \u30d2\u30b0\u30c1\u30a2\u30a4",
       "url": "https://open.spotify.com/track/5rObPaxkppROxPy9Xfqps6"
@@ -13404,6 +13404,24 @@
       "duration_ms": 224600,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
+    },
+    {
+      "album": {
+        "name": "Young and Innocent",
+        "url": "https://open.spotify.com/album/3GPBlp6FqYslxHRlQp8m4c"
+      },
+      "artists": [
+        {
+          "name": "Kiyonori Matsuo",
+          "url": "https://open.spotify.com/artist/4BgnR1lZwUCAeDXom6OBDY"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u30ed\u30f3\u30b0\u30fb\u30ed\u30f3\u30b0\u30fb\u30d3\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/6tEg06ODpFCwR6vinfyJ4m"
     },
     {
       "album": {
@@ -14286,6 +14304,32 @@
       "duration_ms": 238000,
       "name": "\u5fd8\u308c\u3089\u308c\u306a\u3044\u306e",
       "url": "https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN"
+    },
+    {
+      "album": {
+        "name": "\u604b\u306e\u3053\u3068",
+        "url": "https://open.spotify.com/album/3MkNefoGCMk027iQWztGK4"
+      },
+      "artists": [
+        {
+          "name": "TOMC",
+          "url": "https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0"
+        },
+        {
+          "name": "YOU IRIE",
+          "url": "https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA"
+        },
+        {
+          "name": "JUNES K",
+          "url": "https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222026,
+      "name": "\u604b\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/1HcKX6tLNunyOcs7RoCzHt"
     },
     {
       "album": {

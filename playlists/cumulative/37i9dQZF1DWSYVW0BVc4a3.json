@@ -19213,6 +19213,24 @@
     },
     {
       "album": {
+        "name": "Xenon",
+        "url": "https://open.spotify.com/album/2Rj6KwcpbsOoVKXXOKXI2m"
+      },
+      "artists": [
+        {
+          "name": "Dhillon",
+          "url": "https://open.spotify.com/artist/0uz2ob916mOA6c21tw0b28"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424767,
+      "name": "Xenon",
+      "url": "https://open.spotify.com/track/2AZ6zilEtOIBedcOpJcyaf"
+    },
+    {
+      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },

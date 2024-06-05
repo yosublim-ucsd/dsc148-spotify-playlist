@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,531 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,585 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 28 | [Go Je Je](https://open.spotify.com/track/1dDFysERIfgY3zxVpkCTLI) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Government Magic](https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO) | 6:38 |
 | 29 | [Dog eat dog](https://open.spotify.com/track/32gtSO10v6vgTl0CvikODe) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Under Burning Skies](https://open.spotify.com/album/0f8mbXuhiXJaYXEhpa7MRj) | 7:05 |
 | 30 | [Asiko \(In a Silent Mix\) \- Motor City Drum Ensemble Remix](https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Dekmantel 10 Years 10.2](https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF) | 7:23 |
-| 31 | [Black Times \- Radio Edit](https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Black Times](https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8) | 4:55 |
+| 31 | [Black Times \- Radio Edit](https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Black Times](https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8) | 4:55 |
 | 32 | [Dram](https://open.spotify.com/track/2z3HXHcCac7pLNPjwThKHK) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/5cStTVCnqe2BrtRRyb0rKk) | 4:03 |
 | 33 | [Truth Don Die](https://open.spotify.com/track/0LcSuLxn3abxhGh0zRnfnP) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/3H963ogFzj0Zxin7NYcZhI) | 6:20 |
 | 34 | [Dirty Money](https://open.spotify.com/track/4NUgN3U3KwPfVAGYrzrQd9) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/3L7y27jC0aSXZAM67oEZCB) | 6:15 |

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 300181,
+  "num_followers": 300253,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 2 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 265945,
-      "name": "Teus Sonhos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 240000,
       "name": "Troco",
       "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
+        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 2 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 265945,
+      "name": "Teus Sonhos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Estou Com Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
@@ -711,30 +731,6 @@
       "duration_ms": 236013,
       "name": "Meu Barquinho",
       "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M",
-          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
-        }
-      ],
-      "duration_ms": 236031,
-      "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -775,22 +771,26 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
+        "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
       },
       "artists": [
         {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
         },
         {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Estou Com Voc\u00ea - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+      "duration_ms": 236031,
+      "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "Valeu a Pena",
-        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        },
-        {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
-        }
-      ],
-      "duration_ms": 237510,
-      "name": "Valeu a Pena",
-      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
         "name": "O Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
       },
@@ -1035,22 +1015,22 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "Primeira Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
+        "name": "Valeu a Pena",
+        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
       "artists": [
         {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
         },
         {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Primeira Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
+      "duration_ms": 237510,
+      "name": "Valeu a Pena",
+      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -1067,6 +1047,26 @@
       "duration_ms": 331544,
       "name": "Ele \u00e9 Exaltado",
       "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
+        "name": "Primeira Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Primeira Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1vXbROI1H0bcVL4TIzV0Yf"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 295674,
+      "name": "A Morte Vai Morrer",
+      "url": "https://open.spotify.com/track/7FG1e1Zl4SWSsk4oJl58Eu"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "Sala De Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 260579,
       "name": "Sala De Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/1vXbROI1H0bcVL4TIzV0Yf"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 295674,
-      "name": "A Morte Vai Morrer",
-      "url": "https://open.spotify.com/track/7FG1e1Zl4SWSsk4oJl58Eu"
     },
     {
       "added_at": "2024-04-26 03:41:46",

@@ -2,7 +2,7 @@
 
 ### [This Is Ma Rainey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RsbvN)
 
-> This is Ma Rainey\. Todos os maiores hits em uma só playlist.
+> This Is Ma Rainey\. Los temas esenciales, todos en una lista.
 
 192 songs - 9 hr 40 min
 

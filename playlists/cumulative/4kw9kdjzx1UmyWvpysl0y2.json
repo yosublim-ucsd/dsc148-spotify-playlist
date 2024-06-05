@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 230334,
       "name": "Dread",
       "url": "https://open.spotify.com/track/1n7nra0AJErSjEXpcrWKg5"
@@ -6210,6 +6210,24 @@
       "duration_ms": 143500,
       "name": "i can feel your eyes on me",
       "url": "https://open.spotify.com/track/3R1lKIXCkHnzKvHkBtdRhP"
+    },
+    {
+      "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/4gMm64L99dgOqHqHiBxjyb"
+      },
+      "artists": [
+        {
+          "name": "Angara",
+          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/1qZaxI41cw3Px4UpJlB5CU"
     },
     {
       "album": {
@@ -10990,7 +11008,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 210857,
       "name": "RIOT - Riot Ten Remix",
       "url": "https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E"
@@ -15096,6 +15114,24 @@
       "duration_ms": 248000,
       "name": "Words Left Unsaid",
       "url": "https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX"
+    },
+    {
+      "album": {
+        "name": "World Wide Web",
+        "url": "https://open.spotify.com/album/6gEqtjzCl19g1SjJu09MgT"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158027,
+      "name": "World Wide Web",
+      "url": "https://open.spotify.com/track/65XS0xY3RjsXdn0Qzy3isF"
     },
     {
       "album": {

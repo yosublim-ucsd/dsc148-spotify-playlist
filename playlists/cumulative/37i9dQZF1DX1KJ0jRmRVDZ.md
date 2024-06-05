@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,146 songs - 2 day 17 hr 21 min
+1,147 songs - 2 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,7 @@
 | [ビーユアセルフ](https://open.spotify.com/track/6fuPQmNR5pwfIxDKOMiTGP) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ビーユアセルフ](https://open.spotify.com/album/1QRiQT3roPTvhmDB0LNuX3) | 3:16 | 2022-06-09 | 2022-07-23 |
 | [ピアスを飲む](https://open.spotify.com/track/0MeVGdMTHtVDu9bYS21BcS) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ピアスを飲む](https://open.spotify.com/album/4gELhndqwqi2hJjO7ljuqp) | 2:42 | 2023-04-06 | 2023-06-09 |
 | [ファイター](https://open.spotify.com/track/1HpLRKbRNAaSHZ2fkQmb8R) | [Gluttony](https://open.spotify.com/artist/217EA5UpsorEzs2VRPvHKZ) | [ファイター](https://open.spotify.com/album/1ie1cCM8g6H1P2PAV9gPGm) | 3:06 | 2023-02-01 | 2023-02-02 |
-| [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 |  |
+| [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 | 2024-06-05 |
 | [フィナーレ](https://open.spotify.com/track/6QvyZ3BBTTu66ynGkY1J41) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [フィナーレ](https://open.spotify.com/album/59JFCRRQCXAU3pb0AbzvD0) | 2:26 | 2022-09-14 | 2022-09-21 |
 | [フィルム](https://open.spotify.com/track/2P4lnrpoDiuwBbaaLZtQ3B) | [青い子](https://open.spotify.com/artist/7kpL1G3ZiRLBZz5nUZBnnp) | [フィルム](https://open.spotify.com/album/3Lg1Hjo8Okr1ypF90lxSKm) | 3:04 | 2024-02-13 | 2024-02-21 |
 | [フェーダー](https://open.spotify.com/track/0c5nSYCww2OAFTjVuQrpDj) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [現在地未明](https://open.spotify.com/album/2D1TbXOxpQj4zm5VlDetnk) | 2:51 | 2022-06-13 | 2022-07-20 |
@@ -1028,6 +1028,7 @@
 | [真昼の月明かり](https://open.spotify.com/track/5bNJXKIjpxsLVU3Gc3RQMo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [真昼の月明かり](https://open.spotify.com/album/0yGm4qMepSKDbetBLx1Zco) | 3:42 | 2022-06-21 | 2022-07-26 |
 | [真生活](https://open.spotify.com/track/0htxEpxbaMo6lgrBCxrMH2) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [真生活](https://open.spotify.com/album/2xIJ7xtbCH4s6hRnFVJmiS) | 4:04 | 2022-06-16 | 2022-06-21 |
 | [眼差し](https://open.spotify.com/track/4X1PWrG6ES3ON8IXaa9uBX) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [眼差し](https://open.spotify.com/album/75snR5tnlN4hOk1Fi4NVOc) | 4:01 | 2023-10-24 | 2023-10-26 |
+| [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-05-30 |  |
 | [知らないままで](https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [知らないままで](https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC) | 2:14 | 2022-06-16 | 2022-11-23 |
 | [知りたい](https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [知りたい](https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec) | 3:07 | 2023-11-28 | 2023-11-30 |
 | [砂嵐](https://open.spotify.com/track/3ixlsKtDOXRKPnAr52s2b9) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [砂嵐](https://open.spotify.com/album/1QkoBNKwXejKLtlOFUDVV1) | 3:38 | 2023-04-11 | 2023-04-26 |

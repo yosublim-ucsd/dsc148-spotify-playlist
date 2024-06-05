@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: Ti\u00ebsto, Dimitri Vegas & Like Mike, Gabry Ponte",
+  "description": "The biggest Dance hits and the ones to come. Cover: Timmy Trumpet, Naeleck, POLTERGST",
   "name": "Main Stage",
   "tracks": [
     {
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 121771,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
@@ -2512,6 +2512,32 @@
       "duration_ms": 148920,
       "name": "Dancing in the Streets",
       "url": "https://open.spotify.com/track/2RyTblYodC8cnGWFxlnSM5"
+    },
+    {
+      "album": {
+        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Danza Kuduro - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
     },
     {
       "album": {
@@ -7003,6 +7029,24 @@
     },
     {
       "album": {
+        "name": "Mama Mia",
+        "url": "https://open.spotify.com/album/5elKzaXleeYQJIo5ur8luO"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158268,
+      "name": "Mama Mia",
+      "url": "https://open.spotify.com/track/3px16DtfikGGjsgZCT2N0E"
+    },
+    {
+      "album": {
         "name": "Marble",
         "url": "https://open.spotify.com/album/1ebWEV561vwcnggag8j9rA"
       },
@@ -7558,6 +7602,36 @@
       "duration_ms": 151690,
       "name": "Mood",
       "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
+    },
+    {
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184942,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA"
     },
     {
       "album": {
@@ -8646,7 +8720,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 163147,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
@@ -11744,7 +11818,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 177646,
       "name": "Too Lost To Be Found",
       "url": "https://open.spotify.com/track/7uu5X0WfUllHJCnLweLFMu"

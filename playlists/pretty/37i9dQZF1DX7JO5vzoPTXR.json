@@ -1,13 +1,149 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff?si=1ScuKID7TOqVHP4NtLFEHQ\">Kelli-Leigh</a>",
-  "num_followers": 70901,
+  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK?si=z-L2he2hTlih1L4oq3QYqQ\">Yimeeka</a>",
+  "num_followers": 70902,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFXxAAAAADp4m4q4o5pq4uFsMiKz5r0",
+  "snapshot_id": "Zl+qCAAAAABhl/23q1jsiljYOvdV8t2l",
   "tracks": [
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5KUMDwDkyP49cod9yh2ZVD"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Joyce Olong",
+          "url": "https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/7CtddlO4AqYmv8oxlVpzpi"
+    },
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/6Hfu17ye4cuDJKMGwX1J1Z"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/77AFJKt0T2fwS1NuTnhZmW"
+    },
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "All On Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "All On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
+    },
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "Harsh",
+        "url": "https://open.spotify.com/album/0S58PInDojmOd597vUpKsw"
+      },
+      "artists": [
+        {
+          "name": "BOBBI",
+          "url": "https://open.spotify.com/artist/7rDW6qMEbfuFk8I631TEMT"
+        }
+      ],
+      "duration_ms": 154750,
+      "name": "Harsh",
+      "url": "https://open.spotify.com/track/4LTZQBgGntLBPN8HlIhCFy"
+    },
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "AKIRA",
+        "url": "https://open.spotify.com/album/55vb8fcsVKgEe0BOKF4hPN"
+      },
+      "artists": [
+        {
+          "name": "Jara Pol",
+          "url": "https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg"
+        }
+      ],
+      "duration_ms": 140948,
+      "name": "Fumando en la ventana",
+      "url": "https://open.spotify.com/track/5MDrqNKmu2NuUS52FdJ0eP"
+    },
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/1xdAZxSmmluHNwmu2t5Mn5"
+      },
+      "artists": [
+        {
+          "name": "KTJ & CARLY",
+          "url": "https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/0H1oGCqjkte5yrgGbyqoh9"
+    },
+    {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/0ywGYczqTNpuAU5jrpG4CU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Bird",
+          "url": "https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/6jw2564EsP1vaWHSr92jJ1"
+    },
     {
       "added_at": "2024-05-12 23:59:00",
       "album": {
@@ -305,6 +441,22 @@
       "url": "https://open.spotify.com/track/7zjT5UAKMHs4P3HuZgKB5j"
     },
     {
+      "added_at": "2024-06-04 23:58:00",
+      "album": {
+        "name": "On Time For Her",
+        "url": "https://open.spotify.com/album/33nyhf9h2ynkn7zvQdaF9B"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 218704,
+      "name": "On Time For Her",
+      "url": "https://open.spotify.com/track/7AHCsgXQS9BcEAx2N948mu"
+    },
+    {
       "added_at": "2024-04-03 00:01:00",
       "album": {
         "name": "JUMP",
@@ -391,22 +543,6 @@
       "duration_ms": 209954,
       "name": "My Theme Song",
       "url": "https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ"
-    },
-    {
-      "added_at": "2024-04-03 00:01:00",
-      "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "Interlude (Full Length)",
-      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
     },
     {
       "added_at": "2024-03-01 09:10:17",
@@ -551,146 +687,6 @@
       "duration_ms": 243214,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7wGBEZamABJVD15MDQG0hl"
-    },
-    {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
-        "name": "Options (feat. Tamera & Bellah)",
-        "url": "https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB"
-      },
-      "artists": [
-        {
-          "name": "kamille",
-          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
-        },
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 224451,
-      "name": "Options (feat. Tamera & Bellah)",
-      "url": "https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Our Version Of Events (Special Edition)",
-        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5O7GKo9emVWK3T03a5sRln"
-    },
-    {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 204990,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "too high",
-      "url": "https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Love Me In Chapters II",
-        "url": "https://open.spotify.com/album/3pyo0VXySJeqCOM4N81Kvg"
-      },
-      "artists": [
-        {
-          "name": "Chrissi",
-          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219207,
-      "name": "Love Me In Chapters II",
-      "url": "https://open.spotify.com/track/0f5BoyLg6qVDsAJ5JemBcO"
     }
   ],
   "unique_name": "Created by Women",

@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Wavedash
 
-577 songs - 1 day 10 hr 41 min
+578 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Love Is Blind](https://open.spotify.com/track/7JWF6zMQnBlbLUNApXcGip) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 3:41 | 2022-07-29 | 2023-04-09 |
 | [Love You Enough](https://open.spotify.com/track/5hGhZiwQvYp3OD9Hakq8Fk) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Love You Enough](https://open.spotify.com/album/4lxf1rPXfR9Juy3nK9dnYu) | 3:26 | 2023-01-27 | 2023-06-18 |
 | [low](https://open.spotify.com/track/0MeVLXYXl55nom0wFD2hZm) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Andreas Stone](https://open.spotify.com/artist/4Z63ecu9ZjtVVsIuuOfua3) | [low](https://open.spotify.com/album/6aZcESFNYUK1sBs6Xf6VnS) | 3:52 | 2023-11-17 | 2023-12-02 |
-| [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 | 2022-12-02 |  |
+| [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 | 2022-12-02 | 2024-06-05 |
 | [Made For](https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Made For](https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS) | 3:20 | 2023-09-01 |  |
 | [Magic](https://open.spotify.com/track/1PGjHonPC2r4vHCAfwEof5) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Magic](https://open.spotify.com/album/5c4t8rwrNtUpQGewiaoHNa) | 2:58 | 2023-02-10 | 2023-08-12 |
 | [Magnets](https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ) | 3:39 | 2022-07-08 | 2022-08-26 |
@@ -347,6 +347,7 @@
 | [Meant To Be Lonely](https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Meant To Be Lonely](https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f) | 3:34 | 2023-03-24 |  |
 | [Melting \(feat\. EASAE\)](https://open.spotify.com/track/0gsPInjPU6qsGGdLnpgTHD) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Easae](https://open.spotify.com/artist/70eIEfuhPsdn3ggtBz3Adc) | [Melting \(feat\. EASAE\)](https://open.spotify.com/album/2E5tSqBeQnfrMGS4UsFZx5) | 4:30 | 2022-07-08 |  |
 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 | 2022-09-16 | 2023-08-12 |
+| [Metamorphosis](https://open.spotify.com/track/20ePZuhPTGozzBTkPH1fKv) | [Alex Kade](https://open.spotify.com/artist/0ZVKohB1rQOFAoKFCB7fLy), [Hashon](https://open.spotify.com/artist/1OCd4OxUD3RZU87JYYbChE), [Mikara](https://open.spotify.com/artist/0xywk5eoWl9ILoCDhteAX3) | [Metamorphosis](https://open.spotify.com/album/7GVWcY59uFRkHjs5AVE6TA) | 2:40 | 2024-05-31 |  |
 | [Metanoia](https://open.spotify.com/track/6d5N6bhv8CR4hvyZ0pcLe3) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [SOLARIA](https://open.spotify.com/artist/3y9HEtE9lgjgcIxA9ANatY) | [Metanoia](https://open.spotify.com/album/6E0aKtWeBMNXsWvggpEiFE) | 5:36 | 2024-03-01 | 2024-04-20 |
 | [Mirage](https://open.spotify.com/track/5qAL96n2U89Nhuo0EjwiDq) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Mirage](https://open.spotify.com/album/6kRox5GbU9QFlqSzwZYc5j) | 3:34 | 2024-02-16 | 2024-03-02 |
 | [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 |  |

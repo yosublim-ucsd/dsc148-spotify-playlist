@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Irepelusa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,005 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,012 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 42 | [Loca // 2:02 am](https://open.spotify.com/track/18qxEBUXaSsmFbBOWWkxER) | [Ariadna](https://open.spotify.com/artist/4YlhuV7FMCEIc8DPz99Mn5) | [Loca // 2:02 am](https://open.spotify.com/album/4awa4QRsRaXmwSJBvD3Xwk) | 3:36 |
 | 43 | [RAVE](https://open.spotify.com/track/4KTWnjdelHt29hM8cUQttf) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [SANGRE1](https://open.spotify.com/album/2qllGMe0g9aAg7pwfwiVaR) | 1:50 |
 | 44 | [Enfrente](https://open.spotify.com/track/0DqPfJDPSgfx1MxA5HFs24) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Enfrente](https://open.spotify.com/album/0gTYBqs6bnAR2t9tv9geJK) | 4:03 |
-| 45 | [Al Borde del Final](https://open.spotify.com/track/7taw2QA3R7xurb0vEAr2jq) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Nunca Es Para Siempre](https://open.spotify.com/album/2IAk0q8xSDLN861dFI9yna) | 3:09 |
+| 45 | [Al borde del final](https://open.spotify.com/track/7taw2QA3R7xurb0vEAr2jq) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Nunca Es Para Siempre](https://open.spotify.com/album/2IAk0q8xSDLN861dFI9yna) | 3:09 |
 | 46 | [Abanicos negros](https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf) | [Belén Cuturi](https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr) | [Abanicos negros](https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR) | 2:42 |
 | 47 | [CARDIO](https://open.spotify.com/track/5iqIWY7nfKVQQMfydhuBT0) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [CARDIO](https://open.spotify.com/album/07yFwMDQW8uDu48chfn9mq) | 2:26 |
 | 48 | [Paisaje](https://open.spotify.com/track/4QalPauP8X8TkaQrBudKCR) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Paisaje](https://open.spotify.com/album/24BxLzsxkoS9JZ279oFhpO) | 2:04 |

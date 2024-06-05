@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1297083,
+  "num_followers": 1297233,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlnLlQAAAABAeNl/FHXg4pQ7r4NTTLz8",
+  "snapshot_id": "Zl75TwAAAAA5dYE2FGVWJGBm4cgo3HaD",
   "tracks": [
     {
       "added_at": "2024-05-31 13:07:33",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "WELCOME TO THE GANG VOL. 2",
-        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "DOWN DOWN",
-      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Trip to Valhalla",
-        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 232950,
-      "name": "Trip to Valhalla",
-      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "I Like To Party",
         "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Trip to Valhalla",
+        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 232950,
+      "name": "Trip to Valhalla",
+      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Never Go To Sleep",
-        "url": "https://open.spotify.com/album/00VujTlzhoi39Bijteh2LD"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Never Go To Sleep",
-      "url": "https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Never Go To Sleep",
+        "url": "https://open.spotify.com/album/00VujTlzhoi39Bijteh2LD"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Never Go To Sleep",
+      "url": "https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "HOOYAH",
-        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 104400,
-      "name": "HOOYAH",
-      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/1IJlUWOEIvjfweNgnGDlmU"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 217503,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/58vvcs6zKY0a5YLOI2ARrE"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "HOOYAH",
+        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "HOOYAH",
+      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1887,30 +1887,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "No Surrender",
-        "url": "https://open.spotify.com/album/2aI3NdkCfpIDWfjaA2dFV5"
-      },
-      "artists": [
-        {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
-        },
-        {
-          "name": "Bass X Machina",
-          "url": "https://open.spotify.com/artist/30qDNUnj7UYaiI59KnYbh0"
-        },
-        {
-          "name": "Alpha",
-          "url": "https://open.spotify.com/artist/21OmTx39RbTeTYzeCR0O0F"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "No Surrender",
-      "url": "https://open.spotify.com/track/5NA3gs8Y5SED7dApNNBkQT"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Keepers Of Our Legacy",
         "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
       },
@@ -1943,6 +1919,30 @@
       "duration_ms": 186424,
       "name": "Together As One",
       "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "No Surrender",
+        "url": "https://open.spotify.com/album/2aI3NdkCfpIDWfjaA2dFV5"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        },
+        {
+          "name": "Bass X Machina",
+          "url": "https://open.spotify.com/artist/30qDNUnj7UYaiI59KnYbh0"
+        },
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/21OmTx39RbTeTYzeCR0O0F"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/5NA3gs8Y5SED7dApNNBkQT"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2479,6 +2479,26 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "Kriss Kross",
+        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 156705,
+      "name": "Kriss Kross",
+      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Speed Of Light (feat. Noubya)",
         "url": "https://open.spotify.com/album/6axtLeXNtG3CzReNkPp4kI"
       },
@@ -2499,22 +2519,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Kriss Kross",
-        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
         }
       ],
-      "duration_ms": 156705,
-      "name": "Kriss Kross",
-      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2539,26 +2559,6 @@
       "duration_ms": 241600,
       "name": "Now Or Never (Toneshifterz Remix)",
       "url": "https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "Turn The Tide Revisited",
-        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
-      },
-      "artists": [
-        {
-          "name": "Lowriderz",
-          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Turn The Tide Revisited",
-      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2623,26 +2623,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Garden Of Magic",
-        "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        },
-        {
-          "name": "Zac Aynsley",
-          "url": "https://open.spotify.com/artist/4n6xUSrgVHhTJoc8JTcrIK"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Garden Of Magic",
-      "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Demons (Restrained Remix)",
         "url": "https://open.spotify.com/album/7FHacZmnEKvYtAybE9S7CU"
       },
@@ -2663,6 +2643,26 @@
       "duration_ms": 240000,
       "name": "Demons - Restrained Remix",
       "url": "https://open.spotify.com/track/4cN1uno0iSzRsOOSE4NvF9"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Garden Of Magic",
+        "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        },
+        {
+          "name": "Zac Aynsley",
+          "url": "https://open.spotify.com/artist/4n6xUSrgVHhTJoc8JTcrIK"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Garden Of Magic",
+      "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2707,26 +2707,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Warrior",
-        "url": "https://open.spotify.com/album/6tJQXtb3xjCzi74z5nXMcs"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/4C38Ho0CQ5Te98cjDWASTl"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "MF KING",
         "url": "https://open.spotify.com/album/0cjV4JAaqhmIih49MA4M6l"
       },
@@ -2767,6 +2747,26 @@
       "duration_ms": 195698,
       "name": "This Deejay",
       "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/6tJQXtb3xjCzi74z5nXMcs"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/4C38Ho0CQ5Te98cjDWASTl"
     },
     {
       "added_at": "2024-05-31 13:07:33",

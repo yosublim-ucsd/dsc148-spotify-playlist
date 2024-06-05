@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers ",
-  "num_followers": 446980,
+  "num_followers": 446953,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Elster Stares the Desert Down",
+        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 221347,
+      "name": "Elster Stares the Desert Down",
+      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Half Album",
         "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Elster Stares the Desert Down",
-        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 221347,
-      "name": "Elster Stares the Desert Down",
-      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Found a Job",
+        "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Found a Job",
+      "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Break You",
         "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Found a Job",
-        "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Found a Job",
-      "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -611,18 +611,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Orange Leaf",
-        "url": "https://open.spotify.com/album/2X33k6Fadw65HP4AbtPuC8"
+        "name": "ANTI-FUN PROPAGANDA",
+        "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
       "artists": [
         {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        },
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
         }
       ],
-      "duration_ms": 159386,
-      "name": "Orange Leaf",
-      "url": "https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu"
+      "duration_ms": 184934,
+      "name": "Girls!",
+      "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -643,22 +647,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "ANTI-FUN PROPAGANDA",
-        "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
+        "name": "Orange Leaf",
+        "url": "https://open.spotify.com/album/2X33k6Fadw65HP4AbtPuC8"
       },
       "artists": [
         {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        },
-        {
-          "name": "Uninvited",
-          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
         }
       ],
-      "duration_ms": 184934,
-      "name": "Girls!",
-      "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
+      "duration_ms": 159386,
+      "name": "Orange Leaf",
+      "url": "https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Ruiner",
-        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
-      },
-      "artists": [
-        {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Ruiner",
-      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Claw",
         "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Hopefully Pitchfork Doesn't Hear This",
-        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
+        "name": "Ruiner",
+        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
       },
       "artists": [
         {
-          "name": "Super American",
-          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
         }
       ],
-      "duration_ms": 146600,
-      "name": "Hopefully Pitchfork Doesn't Hear This",
-      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
+      "duration_ms": 202331,
+      "name": "Ruiner",
+      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -755,6 +739,22 @@
       "duration_ms": 145957,
       "name": "Cry Your Eyes Out",
       "url": "https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Hopefully Pitchfork Doesn't Hear This",
+        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
+      },
+      "artists": [
+        {
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Hopefully Pitchfork Doesn't Hear This",
+      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Close Call",
+        "url": "https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Close Call",
+      "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
         "url": "https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Close Call",
-        "url": "https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50"
+        "name": "Still Nervous",
+        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
       },
       "artists": [
         {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Close Call",
-      "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
+      "duration_ms": 148106,
+      "name": "You've Got The Nerve",
+      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -855,6 +871,22 @@
       "duration_ms": 187998,
       "name": "Lost My Shadow",
       "url": "https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Call A Doctor",
+        "url": "https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "duration_ms": 309184,
+      "name": "Call A Doctor",
+      "url": "https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -891,22 +923,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Call A Doctor",
-        "url": "https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6"
-      },
-      "artists": [
-        {
-          "name": "Girl and Girl",
-          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
-        }
-      ],
-      "duration_ms": 309184,
-      "name": "Call A Doctor",
-      "url": "https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "A Different Life",
         "url": "https://open.spotify.com/album/4ngGXR7o8nJ6QqoVa12Bbg"
       },
@@ -919,38 +935,6 @@
       "duration_ms": 247426,
       "name": "Low",
       "url": "https://open.spotify.com/track/3foGam4O1YsGX4vppR572g"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/7HbR9q2DAVOJuQleC222Q0"
-      },
-      "artists": [
-        {
-          "name": "Jaws the Shark",
-          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
-        }
-      ],
-      "duration_ms": 209736,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4wHJ9q7QZBSEFmpsMyQwkz"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "HAWD THAT",
-        "url": "https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA"
-      },
-      "artists": [
-        {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Stiff Upper Lip",
-      "url": "https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "HAWD THAT",
+        "url": "https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Stiff Upper Lip",
+      "url": "https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 156600,
       "name": "Ultrasound",
       "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/7HbR9q2DAVOJuQleC222Q0"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        }
+      ],
+      "duration_ms": 209736,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4wHJ9q7QZBSEFmpsMyQwkz"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1015,22 +1031,6 @@
       "duration_ms": 205227,
       "name": "Menace",
       "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Still Nervous",
-        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 148106,
-      "name": "You've Got The Nerve",
-      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Make It Better",
-        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
+        "name": "THE HEALING",
+        "url": "https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI"
       },
       "artists": [
         {
-          "name": "Bad News First",
-          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
+          "name": "The OBGMs",
+          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
+        },
+        {
+          "name": "Just John",
+          "url": "https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb"
         }
       ],
-      "duration_ms": 180603,
-      "name": "Make It Better",
-      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
+      "duration_ms": 159506,
+      "name": "I'LL BE OKAY",
+      "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1263,6 +1267,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Make It Better",
+        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
+      },
+      "artists": [
+        {
+          "name": "Bad News First",
+          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
+        }
+      ],
+      "duration_ms": 180603,
+      "name": "Make It Better",
+      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Intermittent Fast Living",
         "url": "https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 167840,
       "name": "Separation Anxiety",
       "url": "https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "THE HEALING",
-        "url": "https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI"
-      },
-      "artists": [
-        {
-          "name": "The OBGMs",
-          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
-        },
-        {
-          "name": "Just John",
-          "url": "https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "I'LL BE OKAY",
-      "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
     },
     {
       "added_at": "2024-05-31 12:31:01",

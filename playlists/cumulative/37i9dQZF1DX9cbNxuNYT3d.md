@@ -103,7 +103,7 @@
 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 | 2023-05-11 | 2023-08-26 |
 | [Voyager](https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:47 | 2022-01-11 |  |
 | [Wake Up](https://open.spotify.com/track/6NV92uKrUBhgesDlgEjwYj) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [A bout de souffle \- EP](https://open.spotify.com/album/0mhVUCE794VwDpB3n9hF3G) | 7:38 | 2022-01-11 | 2023-05-12 |
-| [You Are My High](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 | 2022-01-11 |  |
+| [You Are My High \- 2024 Remastered](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 | 2022-01-11 |  |
 | [Zdarlight](https://open.spotify.com/track/2loA8ulmO8Ec34aaSqzimz) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 5:40 | 2022-01-11 | 2023-08-26 |
 
 \*This playlist was first scraped on 2022-03-19. Prior content cannot be recovered.

@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 301647,
       "name": "Bassa Bassa",
       "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 216640,
       "name": "Bia Bia",
       "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
@@ -4838,7 +4838,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 238236,
       "name": "Guajirando",
       "url": "https://open.spotify.com/track/5SMo4jNE0KldSYzhgQuxdx"
@@ -8017,6 +8017,24 @@
     },
     {
       "album": {
+        "name": "A Trip To Bolgatanga",
+        "url": "https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14"
+      },
+      "artists": [
+        {
+          "name": "African Head Charge",
+          "url": "https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223280,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm"
+    },
+    {
+      "album": {
         "name": "Mientras Unos Mueren",
         "url": "https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ"
       },
@@ -8616,7 +8634,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 208000,
       "name": "Nefertiti - David Walters Remix",
       "url": "https://open.spotify.com/track/1m0OvusfKEUnCp5yeu2n5w"
@@ -9648,7 +9666,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
@@ -11766,7 +11784,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 270586,
       "name": "The Botanist",
       "url": "https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L"
@@ -12844,7 +12862,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 235853,
       "name": "Voulez Vous",
       "url": "https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT"

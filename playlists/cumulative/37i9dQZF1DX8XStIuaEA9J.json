@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: JO1",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u5bcc\u5ca1\u611b",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 199549,
       "name": "gloom",
       "url": "https://open.spotify.com/track/1YfSPVzvMbVvnsL1Q2tUKR"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 148727,
       "name": "junkie",
       "url": "https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6"
@@ -2604,6 +2604,24 @@
       "duration_ms": 200053,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu"
+    },
+    {
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
     },
     {
       "album": {
@@ -6315,6 +6333,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30df\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "\u30cf\u30df\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
+    },
+    {
+      "album": {
         "name": "\u661f\u5de1\u308a\u3001\u541b\u306b\u91d1\u661f",
         "url": "https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS"
       },
@@ -6486,6 +6522,24 @@
       "duration_ms": 220146,
       "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30ed\u30de\u30f3\u30b5\u30fc",
       "url": "https://open.spotify.com/track/63aIvzCIMfbE5H8ZcGXxNy"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30fc\u30ad\u30fc\u30d4\u30fc\u30ad\u30fc",
+        "url": "https://open.spotify.com/album/5bJzNUMuhzL8sthA27e8vL"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u30fc\u308a",
+          "url": "https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128498,
+      "name": "\u30d4\u30fc\u30ad\u30fc\u30d4\u30fc\u30ad\u30fc",
+      "url": "https://open.spotify.com/track/3YEw2eZaZNl7agAfF1mtyu"
     },
     {
       "album": {
@@ -6773,6 +6827,24 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30ec\u5f27",
+        "url": "https://open.spotify.com/album/4HB53OKcI7wFTf5HOQYdUG"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192222,
+      "name": "\u30e6\u30ec\u5f27",
+      "url": "https://open.spotify.com/track/2ylPO5n0vjSPp3CwC3kedb"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
       },
@@ -6994,7 +7066,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 191253,
       "name": "\u4e94\u6708\u96e8 (Samidare)",
       "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
@@ -7174,7 +7246,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 238653,
       "name": "\u5168\u529b\u5c11\u5e74",
       "url": "https://open.spotify.com/track/2UQlnlufT4f07D2NKGjaZP"
@@ -7534,7 +7606,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 215700,
       "name": "\u58f0\u660e",
       "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
@@ -7924,7 +7996,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 221400,
       "name": "\u62dd\u5553\u3001\u4ffa\u305f\u3061\u3078",
       "url": "https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A"
@@ -8134,7 +8206,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 206657,
       "name": "\u671d\u3001\u6708\u9762\u3082\u7b11\u3063\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/5svU70lHljjQlAF57o9jii"
@@ -8744,6 +8816,24 @@
       "duration_ms": 300333,
       "name": "\u8c3a\u3059\u308b",
       "url": "https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5"
+    },
+    {
+      "album": {
+        "name": "POP DELIVERY",
+        "url": "https://open.spotify.com/album/4IDkrDJxwVgTiMzywkPF6x"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214681,
+      "name": "\u8d64\u732b",
+      "url": "https://open.spotify.com/track/1LHWCYSHXcIuCSUO8LvXJi"
     },
     {
       "album": {

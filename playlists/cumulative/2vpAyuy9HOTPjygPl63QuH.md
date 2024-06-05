@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
 
-1,830 songs - 4 day 7 hr 50 min
+1,832 songs - 4 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [Kiss It Better](https://open.spotify.com/track/0Aj52AQxkYz7cn0RN4tCrA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/5agOlrVME8BwiJ9WHKugq3) | 4:17 | 2022-09-30 | 2022-10-08 |
 | [Kissing New People \(feat\. Ty Dolla $ign\) \(Keeld Remix\)](https://open.spotify.com/track/0ZzCCQBq0jANlEFYsC1QRq) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Keeld](https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT) | [When I Hear Your Name \(Remixes\)](https://open.spotify.com/album/2YjWVloHIlkLR6NE6ja2KE) | 3:56 | 2023-09-25 | 2023-09-30 |
 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 | 2023-01-21 | 2023-01-29 |
+| [Knee Deep](https://open.spotify.com/track/3dnnLLWLPPXishJRCTOQ2t) | [Freshcobar](https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd), [Lavelle Dupree](https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m) | [Knee Deep \- EP](https://open.spotify.com/album/4ak8u7RaMqdIWXb1EyV1Js) | 3:48 | 2024-06-04 |  |
 | [Krank](https://open.spotify.com/track/2mpoYNw6rfN2aTIPMWMRvv) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX) | [Krank](https://open.spotify.com/album/0yoJL72KD6KmXNGMfv2WBg) | 3:46 | 2022-10-28 | 2022-11-06 |
 | [KUFF](https://open.spotify.com/track/3OaBKrVRu24DwPVfFBZ2Ap) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [KUFF](https://open.spotify.com/album/5UWVCVX6zdCq7LM98BX02e) | 2:52 | 2023-01-06 | 2023-01-14 |
 | [Kyrenia](https://open.spotify.com/track/3aBYRY9gfl7f04BnLwxwLk) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Kyrenia](https://open.spotify.com/album/2xQRYg2fydr41ILWzguidC) | 3:05 | 2023-10-16 | 2023-10-28 |
@@ -1019,6 +1020,7 @@
 | [Mind Control](https://open.spotify.com/track/3P5mrJ1KloJZG9GKD5daC8) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Mind Control](https://open.spotify.com/album/2SlVkukL15MzfVj0qFivWx) | 2:14 | 2023-11-03 | 2023-11-10 |
 | [Mind Games](https://open.spotify.com/track/5lISAFMmXy1Or0Q1LiTOlG) | [Luxo](https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9), [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Mind Games](https://open.spotify.com/album/4PJuje1FToY2djld6OsoD4) | 3:49 | 2022-06-24 | 2022-07-02 |
 | [Mind Made](https://open.spotify.com/track/0d5po2EWYZKyokhWNRBx7O) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Mind Made](https://open.spotify.com/album/0EjsAJPN8TMOy7MK2u58xt) | 2:31 | 2023-11-10 | 2023-11-18 |
+| [Minimal Jack](https://open.spotify.com/track/36gE53mNBFmVGoyFaMUybj) | [Freshcobar](https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd), [Lavelle Dupree](https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m) | [Knee Deep \- EP](https://open.spotify.com/album/4ak8u7RaMqdIWXb1EyV1Js) | 3:44 | 2024-06-04 |  |
 | [Miracle \(with Ellie Goulding\) \- Mau P Remix](https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Miracle \(with Ellie Goulding\) \[Mau P Remix\]](https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt) | 3:37 | 2023-04-21 | 2023-04-29 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-15 | 2022-07-30 |
 | [Mirror](https://open.spotify.com/track/6UjW0h2wwYPA3nZGiNoE6b) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24) | [Mirror](https://open.spotify.com/album/4VNkV7mwVcBHsPVkvMLdf1) | 3:22 | 2023-07-15 | 2023-08-05 |

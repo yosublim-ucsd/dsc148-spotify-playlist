@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,697 likes - 41 songs - 2 hr 15 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,698 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 22 | [Hopeless](https://open.spotify.com/track/4dV8qOd2Zv62OcT7aSLMlE) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [I Contain Flashing Images](https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER) | 3:43 |
 | 23 | [For You](https://open.spotify.com/track/0xEvlblS25vkCbadCvzVFV) | [SYNSATION](https://open.spotify.com/artist/43coY6d1myeJao0nVz1nhT), [Léøna](https://open.spotify.com/artist/4hl3MHpB3Ig1FYC3XNP592) | [For You](https://open.spotify.com/album/3AMig0sZ9DxelenhRrM0KQ) | 3:11 |
 | 24 | [The Mindshaker](https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [The Mindshaker](https://open.spotify.com/album/5Rwk3LQBqIEIV3F3namFtt) | 2:58 |
-| 25 | [Twilight](https://open.spotify.com/track/2zE76iC9afgr4vjpvaDm7h) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd), [Waves On Waves](https://open.spotify.com/artist/5XMJkXHlXllyndZxjU4HpG) | [Twilight](https://open.spotify.com/album/3ZapfNjtJ97EbkGwPDT1Z8) | 2:49 |
+| 25 | [Twilight](https://open.spotify.com/track/2zE76iC9afgr4vjpvaDm7h) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd), [Waves\_On\_Waves](https://open.spotify.com/artist/4l1KlqrM9fywoEDVKKiR9u) | [Twilight](https://open.spotify.com/album/3ZapfNjtJ97EbkGwPDT1Z8) | 2:49 |
 | 26 | [Another Day \- Paul Denton Remix](https://open.spotify.com/track/1N1NjSIpOsdxTXqtEaJwGi) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [Paul Denton](https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2) | [Another Day \(Paul Denton Remix\)](https://open.spotify.com/album/6pRF4E0sGMJ9jTvxwnkFiC) | 3:28 |
 | 27 | [Summer Crush](https://open.spotify.com/track/4WpbZTylASaKbyubTm5VBa) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 2:35 |
 | 28 | [Who Do You Love](https://open.spotify.com/track/7ptycIbhDwLluruvnR2i9W) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Who Do You Love](https://open.spotify.com/album/1nqOQVumgFjpw0z5CVtGq6) | 3:05 |

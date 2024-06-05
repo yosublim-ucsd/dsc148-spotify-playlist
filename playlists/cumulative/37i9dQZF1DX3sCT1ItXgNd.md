@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Aitana, Sen Senra
 
-467 songs - 23 hr 21 min
+468 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Hermosa Casualidad](https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Hermosa Casualidad](https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj) | 3:25 | 2024-06-03 |  |
 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 | 2023-03-29 | 2023-04-26 |
 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 | 2023-04-17 | 2023-09-26 |
-| [HOMBRE LIBRE](https://open.spotify.com/track/5KNaOXxuRfrR7fHAucOM0H) | [Manu Cort](https://open.spotify.com/artist/1s5yaJ9Dr74CfXADawVeqs) | [HOMBRE LIBRE](https://open.spotify.com/album/7aZEM8ZNEOeOXDf0zdKdwK) | 2:53 | 2024-05-28 |  |
+| [HOMBRE LIBRE](https://open.spotify.com/track/5KNaOXxuRfrR7fHAucOM0H) | [Manu Cort](https://open.spotify.com/artist/1s5yaJ9Dr74CfXADawVeqs) | [HOMBRE LIBRE](https://open.spotify.com/album/7aZEM8ZNEOeOXDf0zdKdwK) | 2:53 | 2024-05-28 | 2024-06-05 |
 | [HONG KONG](https://open.spotify.com/track/6kLzCjDUYV9b6jRykKAd8e) | [Clari Cremaschi](https://open.spotify.com/artist/6Z1grWIzJvaRMAn5XFmDly), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [HONG KONG](https://open.spotify.com/album/6HDMJTazTiLnskQO30BXAC) | 2:34 | 2023-05-30 | 2023-06-13 |
 | [Hoy Festejo](https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Hoy Festejo](https://open.spotify.com/album/2EchHhx889NsqylPaAzboM) | 2:44 | 2023-09-28 | 2023-11-22 |
 | [Ibiza](https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Ibiza](https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX) | 2:59 | 2023-05-03 | 2023-09-26 |
@@ -258,6 +258,7 @@
 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 | 2023-08-14 | 2024-02-13 |
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 | 2023-06-21 |
 | [Me Gustas Tanto](https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Me Gustas Tanto](https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2) | 2:01 | 2023-08-01 | 2023-08-22 |
+| [me he colgado de mi ex](https://open.spotify.com/track/3WEzoedCdyFgSi9GkM1HkF) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [me he colgado de mi ex](https://open.spotify.com/album/7El0ClNnWU2t1aIPdG5B3I) | 2:36 | 2024-06-04 |  |
 | [Me He Pillao x Ti](https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Me He Pillao x Ti](https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG) | 3:22 | 2023-03-13 | 2023-06-21 |
 | [ME MATA\(S\)](https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\)](https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR) | 3:04 | 2023-03-13 | 2023-09-26 |
 | [Me Muero x Ti](https://open.spotify.com/track/07iNPzOVxrNmy3FujFBc5z) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Me Muero x Ti](https://open.spotify.com/album/0sW2blqOU2M9P168xW7vPP) | 2:37 | 2023-03-29 | 2023-04-18 |

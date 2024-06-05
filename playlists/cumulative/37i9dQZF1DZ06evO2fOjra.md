@@ -2,7 +2,7 @@
 
 ### [This Is Korn](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fOjra)
 
-> This Is Korn\. Los temas esenciales, todos en una lista.
+> This is: Korn\. Alle wichtigen Tracks in einer Playlist.
 
 73 songs - 4 hr 40 min
 

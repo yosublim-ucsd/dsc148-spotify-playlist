@@ -1,6 +1,6 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 44054,
+  "num_followers": 44065,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "U.F.O.F.",
+        "url": "https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "UFOF",
+      "url": "https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "This Is How You Smile",
         "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo"
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         }
       ],
-      "duration_ms": 367093,
-      "name": "Not",
-      "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
+      "duration_ms": 126120,
+      "name": "Ghostride",
+      "url": "https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz"
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo"
       },
       "artists": [
         {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 126120,
-      "name": "Ghostride",
-      "url": "https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp"
+      "duration_ms": 367093,
+      "name": "Not",
+      "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1627,22 +1643,6 @@
       "duration_ms": 258143,
       "name": "Daylight Matters",
       "url": "https://open.spotify.com/track/7F3YjEMKZC8ovV7sCpZcRW"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "U.F.O.F.",
-        "url": "https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "UFOF",
-      "url": "https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE"
     }
   ],
   "unique_name": "Best of Indie 2019",

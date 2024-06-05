@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now.  Cover: KOTORI \n ",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: \u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -2472,6 +2472,24 @@
       "duration_ms": 268203,
       "name": "Cult.",
       "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+    },
+    {
+      "album": {
+        "name": "CYAN",
+        "url": "https://open.spotify.com/album/4LyPs0HZouAAK4JWwbkkv5"
+      },
+      "artists": [
+        {
+          "name": "frederic",
+          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246474,
+      "name": "CYAN",
+      "url": "https://open.spotify.com/track/2yZqINHT3713H9A5H4yVmS"
     },
     {
       "album": {
@@ -13164,7 +13182,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 162322,
       "name": "TOKYO ASH",
       "url": "https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz"
@@ -13218,7 +13236,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 248098,
       "name": "TOMODACHI",
       "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
@@ -22355,6 +22373,24 @@
     },
     {
       "album": {
+        "name": "\u590f\u306e\u652f\u5ea6",
+        "url": "https://open.spotify.com/album/5Zg3fcPqzzWq3SVW7SNHrs"
+      },
+      "artists": [
+        {
+          "name": "DOGADOGA",
+          "url": "https://open.spotify.com/artist/5rGVSXTLvetVl0pjdCrDM6"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338064,
+      "name": "\u590f\u306e\u652f\u5ea6",
+      "url": "https://open.spotify.com/track/2VCroTcFJ9CMd1IpS2ua69"
+    },
+    {
+      "album": {
         "name": "\u590f\u604b\u6ce8\u610f\u5831",
         "url": "https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM"
       },
@@ -25155,6 +25191,24 @@
     },
     {
       "album": {
+        "name": "\u7126\u52d5",
+        "url": "https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245145,
+      "name": "\u7126\u52d5",
+      "url": "https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr"
+    },
+    {
+      "album": {
         "name": "\u7159",
         "url": "https://open.spotify.com/album/4vsVm3kF6hvG6bLISAOEGX"
       },
@@ -25804,7 +25858,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 198826,
       "name": "\u7a7a\u8179\u306a\u52d5\u7269\u306e\u305f\u3081\u306e",
       "url": "https://open.spotify.com/track/6p1twNpwpkvnVQJpuzF4yi"
@@ -27213,6 +27267,24 @@
     },
     {
       "album": {
+        "name": "\u9752\u3044\u590f",
+        "url": "https://open.spotify.com/album/2d4SbdHCcwuZzOupXsEPbB"
+      },
+      "artists": [
+        {
+          "name": "TRACK15",
+          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "\u9752\u3044\u590f",
+      "url": "https://open.spotify.com/track/1qBhIAXvFULjaawGIFjztK"
+    },
+    {
+      "album": {
         "name": "FULL OF LOVE",
         "url": "https://open.spotify.com/album/3LdSpParymYK20V21oOI2m"
       },
@@ -27386,7 +27458,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 303466,
       "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
       "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"

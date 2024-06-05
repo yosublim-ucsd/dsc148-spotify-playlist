@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 164191,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 206733,
       "name": "Dark Water",
       "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
@@ -3984,6 +3984,28 @@
       "duration_ms": 180000,
       "name": "Insomnia - Rework",
       "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+    },
+    {
+      "album": {
+        "name": "Insurgence",
+        "url": "https://open.spotify.com/album/0Xpuaz86KmUDJGGwEHvMI6"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Insurgence",
+      "url": "https://open.spotify.com/track/23Aj3x8ZkrVs0gzNnz7qgU"
     },
     {
       "album": {
@@ -8718,7 +8740,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 154400,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/0RzqiT9MYfetkgcd7XUk7b"

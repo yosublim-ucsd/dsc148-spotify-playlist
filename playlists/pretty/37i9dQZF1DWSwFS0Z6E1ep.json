@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 257213,
+  "num_followers": 257267,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Love Potion No. 9",
-        "url": "https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q"
+        "name": "The King of Rhythm & Blues (Remastered)",
+        "url": "https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2"
       },
       "artists": [
         {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+          "name": "Clarence \"Frogman\" Henry",
+          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
         }
       ],
-      "duration_ms": 112280,
-      "name": "Love Potion No.9",
-      "url": "https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak"
+      "duration_ms": 138453,
+      "name": "Ain't Got No Home - Remastered",
+      "url": "https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The King of Rhythm & Blues (Remastered)",
-        "url": "https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2"
+        "name": "Love Potion No. 9",
+        "url": "https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q"
       },
       "artists": [
         {
-          "name": "Clarence \"Frogman\" Henry",
-          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
         }
       ],
-      "duration_ms": 138453,
-      "name": "Ain't Got No Home - Remastered",
-      "url": "https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC"
+      "duration_ms": 112280,
+      "name": "Love Potion No.9",
+      "url": "https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Best of British Rock 'n' Roll / 1956 - 1959, Vol. 2",
         "url": "https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 141426,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly Portrait",
-        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ten Cats Down / Finders Keepers",
         "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 134640,
       "name": "Just In Time - Remastered 1998",
       "url": "https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockabilly Portrait",
+        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 109500,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 119368,
-      "name": "Rockin Daddy",
-      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Bear Cat / Walkin' in the Rain",
         "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 170057,
       "name": "Bear Cat",
       "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 119368,
+      "name": "Rockin Daddy",
+      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
-        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "Drinkin' Wine Spodee-O-Dee",
-      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records - The Rhythm and The Blues",
         "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 188673,
       "name": "The Hucklebuck",
       "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
+        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "Drinkin' Wine Spodee-O-Dee",
+      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2027,8 +2027,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Little Richard (Remastered)",
-        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7jstlbnGMRZ2esWVqVGfoH"
       },
       "artists": [
         {
@@ -2036,9 +2036,9 @@
           "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 142400,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
+      "duration_ms": 137066,
+      "name": "Keep A Knockin",
+      "url": "https://open.spotify.com/track/5n5h1rwx8arEaRureuyNeS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2187,8 +2187,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7jstlbnGMRZ2esWVqVGfoH"
+        "name": "The Essential Little Richard (Remastered)",
+        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
       },
       "artists": [
         {
@@ -2196,9 +2196,9 @@
           "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 137066,
-      "name": "Keep A Knockin",
-      "url": "https://open.spotify.com/track/5n5h1rwx8arEaRureuyNeS"
+      "duration_ms": 142400,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
     }
   ],
   "unique_name": "50s Party",

@@ -2,7 +2,7 @@
 
 ### [This Is Carolina Ross](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fD9Xc)
 
-> This Is Carolina Ross\. Los temas esenciales, todos en una lista.
+> This is Carolina Ross。アーティストの代表曲をひとつのプレイリストに。
 
 64 songs - 3 hr 33 min
 

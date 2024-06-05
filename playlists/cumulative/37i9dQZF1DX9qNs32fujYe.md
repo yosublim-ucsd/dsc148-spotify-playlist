@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Mötley Crüe
 
-886 songs - 2 day 17 hr 9 min
+887 songs - 2 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 | 2023-05-26 | 2024-04-19 |
 | [Bad Company](https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 4:22 | 2022-08-19 | 2023-08-21 |
 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 | 2022-08-19 | 2024-03-09 |
-| [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 | 2024-04-05 |  |
+| [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 | 2024-04-05 | 2024-06-05 |
 | [BANSHEE](https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf) | 3:34 | 2023-04-21 | 2023-05-27 |
 | [Baptized in Blood](https://open.spotify.com/track/1iTjWS1gLL69NRcxUtbnlN) | [Lion's Share](https://open.spotify.com/artist/4yIytMmJ2tx30YdMAMkDSo) | [Baptized in Blood](https://open.spotify.com/album/6vecSH2rsmj751vaPr0SDd) | 3:58 | 2022-01-07 | 2022-06-08 |
 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 | 2022-07-29 | 2023-03-18 |
@@ -96,6 +96,7 @@
 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 | 2022-08-12 |  |
 | [Blood from Above](https://open.spotify.com/track/3OzBsTYpopjRDRwcoC0Cpw) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Blood from Above](https://open.spotify.com/album/1nbTmFgmG415Yl9bZlMMII) | 3:21 | 2022-03-22 | 2022-04-15 |
 | [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 | 2024-06-04 |
+| [Blood Of The Kings](https://open.spotify.com/track/5DNEf9PJN2qLie95vgYWHU) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Blood Of The Kings](https://open.spotify.com/album/5nnEguab5n5fWUIjlzK8HJ) | 4:00 | 2024-05-31 |  |
 | [Blood of the Levant](https://open.spotify.com/track/0PoMcX0HyQDLndrGMaFT2z) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Blood of the Levant](https://open.spotify.com/album/2fU5qEnXRpkEfHIhewAqoL) | 3:27 | 2022-01-28 | 2022-04-15 |
 | [Bloodheads United](https://open.spotify.com/track/6OzJLdiJV3jGUI6dE9YwvS) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Bloodheads United](https://open.spotify.com/album/5QeGSkkZ9J7KzYqBGOMx5J) | 5:20 | 2022-01-07 | 2022-05-25 |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2021-12-17 | 2022-07-29 |

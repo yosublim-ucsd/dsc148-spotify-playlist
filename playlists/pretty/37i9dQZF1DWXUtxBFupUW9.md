@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,299 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,361 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 49 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Ultimate Collection: Four Tops](https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v) | 2:59 |
 | 50 | [The Rubberband Man \- 2003 Remaster](https://open.spotify.com/track/1E3K9QkIWCEL2awcl8kfwN) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Essentials](https://open.spotify.com/album/69mwYIdGUeSEBVxLDIVCZC) | 3:34 |
 
-Snapshot ID: `ZlXsNgAAAACPNjuXPwzPH037bUeO9ICf`
+Snapshot ID: `Zl7wjAAAAABPGKuv2KRVvpDGvotIbISF`

@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-575 songs - 1 day 5 hr 30 min
+578 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Blue Moon](https://open.spotify.com/track/5Ej5z9hWIlNED6HkPT8l2f) | [Shandra Lewis](https://open.spotify.com/artist/6us9lDOOSG2BnBlkWkVO2B) | [Blue Moon](https://open.spotify.com/album/1wJEnxsA2azshg6xkLxZ3D) | 2:43 | 2023-01-05 |  |
 | [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 |  |
 | [Blue Room](https://open.spotify.com/track/0oLNhSMVdZalsr7xuCVTdI) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Blue Room](https://open.spotify.com/album/3tBBW0KtRVyVYyAcFvXuwS) | 2:36 | 2024-05-23 |  |
+| [Bluefields](https://open.spotify.com/track/6nu2ROe5UnrkIzmETZ6iOI) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Bluefields](https://open.spotify.com/album/3h0NL1GvknCr2Ib0MOqLrV) | 2:47 | 2024-06-04 |  |
 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2022-06-14 |  |
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-04-12 | 2022-05-04 |
 | [Body & Soul](https://open.spotify.com/track/3UTEhsBot3p6ym9qUJN2KG) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I Remember You](https://open.spotify.com/album/6Zy69hl6GmvOE141qAZt3t) | 3:43 | 2023-01-05 |  |
@@ -260,6 +261,7 @@
 | [Just A Little Thought](https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Just A Little Thought](https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov) | 3:19 | 2024-02-23 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-28 | 2022-10-07 |
 | [Just Friends](https://open.spotify.com/track/2YsdjtklZEjBXgovsaKFpm) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Just Friends](https://open.spotify.com/album/6zcCzNrc6e9NDKLMvMgKUm) | 3:45 | 2022-08-30 |  |
+| [Just like the old days](https://open.spotify.com/track/27MGIJrErsvBwLfkjtr3DF) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Just like the old days](https://open.spotify.com/album/4upTPn43ZbHEEX6gixNimN) | 3:26 | 2024-06-04 |  |
 | [Just One More](https://open.spotify.com/track/1fE8PAFqmiYaQoMT6zfjUl) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Just One More](https://open.spotify.com/album/3191PgCVvNGrFrQsuBODno) | 3:16 | 2024-03-22 |  |
 | [Knowing Myself](https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Knowing Myself](https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB) | 2:22 | 2023-08-10 |  |
 | [La Luna](https://open.spotify.com/track/6pmKMTiOh1xMF0ngYvurAI) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [La Luna](https://open.spotify.com/album/3koQMMCtwNwhiJyeRLGext) | 2:26 | 2023-06-22 |  |
@@ -347,6 +349,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/6LkO16bRoZItqrR9yIbHQZ) | [Sonny Beckerlee](https://open.spotify.com/artist/0XMT5PoHDKRRWHj40qLg7K) | [Never Let Me Go](https://open.spotify.com/album/2aK4enHcBBbKBIYRwm1iSX) | 2:32 | 2022-05-17 |  |
 | [New Light](https://open.spotify.com/track/6ghT3bOc0eKBxvHf4FzLr9) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [New Light](https://open.spotify.com/album/6zoQTTmNgvGwjIcWC2whcH) | 2:06 | 2023-09-22 |  |
 | [Night And Day](https://open.spotify.com/track/3zd6DRIYrcH8OIn4fcim8k) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Night And Day](https://open.spotify.com/album/7MSOiBvqEcXe549Nq6eKG0) | 3:57 | 2022-11-10 | 2024-06-01 |
+| [Night Becomes Day](https://open.spotify.com/track/59bz4rGfULlFSa4BOxaLLO) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Night Becomes Day](https://open.spotify.com/album/3pOKzw7rgj5pg87rDdwlee) | 2:31 | 2024-06-04 |  |
 | [Night Mood](https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Night Mood](https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF) | 2:51 | 2022-08-10 | 2024-06-01 |
 | [Nightfall](https://open.spotify.com/track/2u0BcOivuEWkzdS12lKQDx) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Nightfall](https://open.spotify.com/album/0xDTqheOH1HbPRb8Bi4K3U) | 2:00 | 2023-05-11 |  |
 | [Nightly conversations](https://open.spotify.com/track/3V4CqyDYGNTUCwzqutFUma) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Nightly conversations](https://open.spotify.com/album/4RRMSsZtm1Qjf8eqUTJvHj) | 3:00 | 2024-05-10 |  |
@@ -387,7 +390,7 @@
 | [Please, Stay](https://open.spotify.com/track/3kQAAjIpIMUtjEYkTiAX32) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Please, Stay](https://open.spotify.com/album/0jqSdbaSayvCUnm8irFAtv) | 2:30 | 2023-06-01 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2022-04-12 | 2022-06-29 |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7sVXqVvhTvRi8f9jdvh4Z0) | [Enzo Green](https://open.spotify.com/artist/5gP1SO0cGYBFIJZy7VG88p) | [I Fall in Love Too Easily](https://open.spotify.com/album/0RbnjRxCrpynyhiBsjf7Kj) | 4:08 | 2022-04-12 |  |
-| [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 |  |
+| [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 | 2024-06-05 |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2022-04-12 |  |
 | [Pretty Are Your Eyes](https://open.spotify.com/track/3NQ3v7gp5iJTtCmKckSmWW) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 3:25 | 2022-08-10 |  |
 | [Quiet Now](https://open.spotify.com/track/6JciTIbmeoooRXZz741E8S) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Quiet Now](https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2) | 2:48 | 2023-04-13 |  |
@@ -498,7 +501,7 @@
 | [The Night Has A Thousand Eyes](https://open.spotify.com/track/2hHvAndHhJuBwO4qh7i2Is) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/6c9zKUBf74WtsSW6zULcnq) | 2:40 | 2023-04-20 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-10 |  |
 | [The Room](https://open.spotify.com/track/4SrVB1XXNAYgeJ1LsZBcvG) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [The Room](https://open.spotify.com/album/75mUFWa6dxBO3Qvnyqz5PX) | 2:13 | 2023-08-10 |  |
-| [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 |  |
+| [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 | 2024-06-05 |
 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 | 2022-10-06 |  |
 | [the second time around](https://open.spotify.com/track/17anQSgIRc8QnvL4L4toUS) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 4:41 | 2022-04-12 |  |
 | [The side effects](https://open.spotify.com/track/3Q1eWOScbVt8k40WMegaSJ) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [The side effects](https://open.spotify.com/album/4f2QHZ8zsd4zx9FFlYkDw0) | 2:31 | 2023-08-10 |  |

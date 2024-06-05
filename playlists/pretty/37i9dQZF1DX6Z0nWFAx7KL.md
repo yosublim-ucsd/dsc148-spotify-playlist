@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,886 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,887 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 67 | [Eagle](https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Eagle](https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs) | 3:04 |
 | 68 | [Anything](https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Anything](https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF) | 2:23 |
 | 69 | [Nomads](https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Nomads](https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI) | 3:49 |
-| 70 | [Can't Stop Thinking](https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Can't Stop Thinking](https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E) | 2:26 |
-| 71 | [Sunshine](https://open.spotify.com/track/1VEziHkHWy6sfVnEXq1j5q) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392) | [Sunshine](https://open.spotify.com/album/286kpjUvHwKKK19JR7OggD) | 2:36 |
-| 72 | [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 |
-| 73 | [Ask \- Edit](https://open.spotify.com/track/5cB5dpTJ2vZTXlJlxKBgFB) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m), [Jim Aves](https://open.spotify.com/artist/1qLdKSJ9LVozxJVnF919s4) | [Ask \(Edit\)](https://open.spotify.com/album/3qFyrdHmIw3AabNAqImxSi) | 2:36 |
+| 70 | [Sunshine](https://open.spotify.com/track/1VEziHkHWy6sfVnEXq1j5q) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392) | [Sunshine](https://open.spotify.com/album/286kpjUvHwKKK19JR7OggD) | 2:36 |
+| 71 | [Can't Stop Thinking](https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Can't Stop Thinking](https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E) | 2:26 |
+| 72 | [Ask \- Edit](https://open.spotify.com/track/5cB5dpTJ2vZTXlJlxKBgFB) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m), [Jim Aves](https://open.spotify.com/artist/1qLdKSJ9LVozxJVnF919s4) | [Ask \(Edit\)](https://open.spotify.com/album/3qFyrdHmIw3AabNAqImxSi) | 2:36 |
+| 73 | [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 |
 | 74 | [Sensing You](https://open.spotify.com/track/0B3DmjQeC1JNkZDNqawmsD) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S) | [Sensing You](https://open.spotify.com/album/520oC74vS6oyPN6NclXKO1) | 2:57 |
 | 75 | [Second Hand Love](https://open.spotify.com/track/2VNyk9xmiWb3J0OPEasXHX) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [FC Commitments](https://open.spotify.com/artist/2ZDiyRudCpoSMiQTa5ZVOt), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Second Hand Love](https://open.spotify.com/album/2tE6xUKn7UOdyHhjdh6G7V) | 3:42 |
 | 76 | [Crazy](https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL), [Matt Wolff](https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G) | [Crazy](https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC) | 2:26 |
 | 77 | [Say Goodbye](https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [ECHŌWALL](https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS) | [Say Goodbye](https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho) | 2:36 |
-| 78 | [the key \- Tim van Werd remix](https://open.spotify.com/track/2HMZhXZhX3ErAds3UmFhem) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [the key \(Tim van Werd remix\)](https://open.spotify.com/album/42qOGIkeeyxxc2i7ZMXrJp) | 4:30 |
+| 78 | [Anybody](https://open.spotify.com/track/1Q3n60SdTJ8uiQn0aNw59Z) | [Will Omit](https://open.spotify.com/artist/0K8j4074Sd01cxPiZflXFe) | [Anybody](https://open.spotify.com/album/0dz8Kbj6OD0DKrxiY1PxtI) | 2:47 |
 | 79 | [Bora Bora](https://open.spotify.com/track/5p9SH2mEUzBMlpkowTf1YM) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Bora Bora](https://open.spotify.com/album/75DrtHei7nrqfm7ThZo6oe) | 2:18 |
-| 80 | [Anybody](https://open.spotify.com/track/1Q3n60SdTJ8uiQn0aNw59Z) | [Will Omit](https://open.spotify.com/artist/0K8j4074Sd01cxPiZflXFe) | [Anybody](https://open.spotify.com/album/0dz8Kbj6OD0DKrxiY1PxtI) | 2:47 |
+| 80 | [the key \- Tim van Werd remix](https://open.spotify.com/track/2HMZhXZhX3ErAds3UmFhem) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [the key \(Tim van Werd remix\)](https://open.spotify.com/album/42qOGIkeeyxxc2i7ZMXrJp) | 4:30 |
 
 Snapshot ID: `Zk+8YAAAAAArYaKeitxc+rMud33NF++4`

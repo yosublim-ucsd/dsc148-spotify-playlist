@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,075 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,200 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 71 | [Her Song](https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Life and Death](https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj) | 2:58 |
 | 72 | [Let's Go](https://open.spotify.com/track/5kYJsf5JPK5Iyqcv92FsmS) | [FLAME](https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp), [Json](https://open.spotify.com/artist/5eAZLsVlw4VKkwtQS9cfrX), [Trubble](https://open.spotify.com/artist/5xh7PeTyRsGDKrlHC01hxt) | [Rewind](https://open.spotify.com/album/0li3bqzi1Mbs3qQqIKHEA4) | 3:13 |
 | 73 | [Get Out The Way](https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Get Out The Way](https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo) | 1:55 |
-| 74 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
-| 75 | [PLAN PLAN](https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [PLAN PLAN](https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX) | 2:48 |
+| 74 | [PLAN PLAN](https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [PLAN PLAN](https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX) | 2:48 |
+| 75 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
 | 76 | [Working it out](https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc) | [Josh Lecroy](https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy), [Hannah Barr](https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty) | [Working it out](https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp) | 2:56 |
 | 77 | [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 |
-| 78 | [MMA FREESTYLE](https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [MMA FREESTYLE](https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv) | 2:31 |
-| 79 | [In My Bible, In My Bag \- Remix](https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1) | [In My Bible, In My Bag \(Remix\)](https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc) | 3:55 |
+| 78 | [In My Bible, In My Bag \- Remix](https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1) | [In My Bible, In My Bag \(Remix\)](https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc) | 3:55 |
+| 79 | [MMA FREESTYLE](https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [MMA FREESTYLE](https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv) | 2:31 |
 | 80 | [Tell Me Why](https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Tell Me Why](https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx) | 3:39 |
 | 81 | [ALOT](https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [ALOT](https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r) | 2:25 |
 | 82 | [Nicely](https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Nicely](https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC) | 2:50 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 96 | [Highs & Lows](https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Highs & Lows](https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY) | 2:42 |
 | 97 | [Free Indeed](https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Free Indeed](https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13) | 3:07 |
 | 98 | [TIL ITS DONE](https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [TIL ITS DONE](https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9) | 2:52 |
-| 99 | [Diamond](https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Diamond](https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV) | 2:43 |
-| 100 | [VICTORY](https://open.spotify.com/track/68sXnlnYdTjzTYuJrKgBTG) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Guerrero De Cristo](https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij) | [VICTORY](https://open.spotify.com/album/6Gjf98zIS6GdZr62zDxkzh) | 3:05 |
+| 99 | [VICTORY](https://open.spotify.com/track/68sXnlnYdTjzTYuJrKgBTG) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Guerrero De Cristo](https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij) | [VICTORY](https://open.spotify.com/album/6Gjf98zIS6GdZr62zDxkzh) | 3:05 |
+| 100 | [Diamond](https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Diamond](https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV) | 2:43 |
 
 Snapshot ID: `Zfq/iwAAAABH+188txHetUHnMHV049VA`

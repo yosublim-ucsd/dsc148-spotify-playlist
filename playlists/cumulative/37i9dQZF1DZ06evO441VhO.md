@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO441VhO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO441VhO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO441VhO)
 
-### [This Is zebrahead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO441VhO)
+### [This Is ゼブラヘッド](https://open.spotify.com/playlist/37i9dQZF1DZ06evO441VhO)
 
-> This is zebrahead\. The essential tracks, all in one playlist.
+> This is ゼブラヘッド。アーティストの代表曲をひとつのプレイリストに。
 
 82 songs - 4 hr 23 min
 

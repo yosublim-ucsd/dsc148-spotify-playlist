@@ -2,7 +2,7 @@
 
 ### [Về Quê](https://open.spotify.com/playlist/37i9dQZF1DX1kCQJbQlZlA)
 
-> Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: NSND Bạch Tuyết, Nal
+> Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: Tố My
 
 144 songs - 11 hr 25 min
 

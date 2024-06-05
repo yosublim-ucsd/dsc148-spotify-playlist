@@ -2,7 +2,7 @@
 
 ### [This Is Steven Price](https://open.spotify.com/playlist/37i9dQZF1DZ06evO20BxpA)
 
-> This is Steven Price\. The essential tracks, all in one playlist.
+> This is Steven Price\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 93 songs - 4 hr 15 min
 

@@ -1,13 +1,33 @@
 {
   "description": "Manal en t\u00eate des hits populaires au Maroc.",
-  "num_followers": 259483,
+  "num_followers": 259586,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl2gugAAAACSLVwxaoerSN+HBbCBu+RD",
+  "snapshot_id": "Zl8G2AAAAAA9Akbb1sEynEkMKPS0/FOE",
   "tracks": [
+    {
+      "added_at": "2024-06-03 10:44:35",
+      "album": {
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+    },
     {
       "added_at": "2024-06-03 10:44:35",
       "album": {
@@ -71,26 +91,6 @@
       "duration_ms": 192000,
       "name": "Magdar",
       "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
-    },
-    {
-      "added_at": "2024-06-03 10:44:35",
-      "album": {
-        "name": "SPIDER",
-        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "added_at": "2024-06-03 10:44:35",

@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ray Volpe",
-  "num_followers": 976171,
+  "num_followers": 976152,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
     },
     {
+      "added_at": "2024-04-05 04:00:45",
+      "album": {
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/2KadoM6f5oT6yXrLBpqZG3"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/1DoFiO1x9P3Ls2LVI40qVj"
+    },
+    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Movement",
@@ -1327,22 +1343,6 @@
       "duration_ms": 192004,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx"
-    },
-    {
-      "added_at": "2024-04-05 04:00:45",
-      "album": {
-        "name": "Don't Tell Me",
-        "url": "https://open.spotify.com/album/2KadoM6f5oT6yXrLBpqZG3"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/1DoFiO1x9P3Ls2LVI40qVj"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1529,26 +1529,6 @@
       "url": "https://open.spotify.com/track/4oZv0tAHrosvWJKPv2oWNT"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "ILLENIUM",
@@ -1571,6 +1551,26 @@
       "duration_ms": 235200,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Bass To The Dome",
-        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 203224,
-      "name": "Bass To The Dome",
-      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Bass To The Dome",
+        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 203224,
+      "name": "Bass To The Dome",
+      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music every week! Cover: Jordan Rakei
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,981 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,002 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 89 | [My Stereo](https://open.spotify.com/track/78oXpMIYlS270uFJu6KRix) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [My Stereo](https://open.spotify.com/album/4GObaPSz5Stlp3kiD8QVcC) | 3:20 |
 | 90 | [Nakie Nakie](https://open.spotify.com/track/18QfA6nedF15GCefoRmbcT) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Nakie Nakie](https://open.spotify.com/album/2hEEMvD5dELumMCQOfNdVg) | 4:38 |
 
-Snapshot ID: `Zlm78QAAAACo9bDV9zqW5z+NjPeMbQA7`
+Snapshot ID: `Zl7w3wAAAADcwzaXljbiBcP6psgP95sh`

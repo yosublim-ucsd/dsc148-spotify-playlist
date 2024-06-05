@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. Todos os maiores hits em uma só playlist.
+> This is Bivolt\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 342 likes - 40 songs - 2 hr 20 min
 
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 39 | [Localiza](https://open.spotify.com/track/1PrpGOiuLHEnZHTcWM32kL) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:14 |
 | 40 | [Olhos Negros \- Ao Vivo](https://open.spotify.com/track/2EjqZpbPUrVgY1oGqfw0WA) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Bivolt no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65) | 5:00 |
 
-Snapshot ID: `Zlu2AAAAAAD2JPKRNDm5WKIt7LJFNmuL`
+Snapshot ID: `Zlu2AAAAAAC7MzjTnM+JL6XOOWIgLMJh`

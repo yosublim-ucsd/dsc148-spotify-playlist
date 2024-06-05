@@ -2,7 +2,7 @@
 
 ### [This Is El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q1hR2)
 
-> This Is El Coyote Y Su Banda Tierra Santa\. Los temas esenciales, todos en una lista.
+> This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
 106 songs - 5 hr 44 min
 

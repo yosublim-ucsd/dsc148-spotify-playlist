@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Crossfaith",
-  "num_followers": 44947,
+  "num_followers": 44955,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "Tank-top Flower for Friends",
-        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 132386,
-      "name": "Blooming the Tank-top",
-      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
-    },
-    {
-      "added_at": "2024-06-03 02:25:10",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 153866,
       "name": "Love song",
       "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+    },
+    {
+      "added_at": "2024-06-03 02:25:10",
+      "album": {
+        "name": "Tank-top Flower for Friends",
+        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
+      },
+      "artists": [
+        {
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
+        }
+      ],
+      "duration_ms": 132386,
+      "name": "Blooming the Tank-top",
+      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
     },
     {
       "added_at": "2024-06-03 02:25:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "ENTH",
-        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
-      },
-      "artists": [
-        {
-          "name": "ENTH",
-          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "SCUM DOGS FART",
-      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
-    },
-    {
-      "added_at": "2024-06-03 02:25:10",
-      "album": {
         "name": "PALEHELL",
         "url": "https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N"
       },
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "living dead!!",
-        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
+        "name": "ENTH",
+        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
       },
       "artists": [
         {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+          "name": "ENTH",
+          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
         }
       ],
-      "duration_ms": 147157,
-      "name": "living dead!!",
-      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
+      "duration_ms": 197200,
+      "name": "SCUM DOGS FART",
+      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
     },
     {
       "added_at": "2024-06-03 02:25:10",
@@ -1531,6 +1511,26 @@
       "duration_ms": 193520,
       "name": "JUNGLE BUN DEM",
       "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
+    },
+    {
+      "added_at": "2024-06-03 02:25:10",
+      "album": {
+        "name": "living dead!!",
+        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "duration_ms": 147157,
+      "name": "living dead!!",
+      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
     },
     {
       "added_at": "2024-06-03 02:25:10",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "VOX",
-        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
+        "name": "\u97f3\u6a02",
+        "url": "https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM"
       },
       "artists": [
         {
-          "name": "Dragon Ash",
-          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
         }
       ],
-      "duration_ms": 250366,
-      "name": "VOX",
-      "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
+      "duration_ms": 169411,
+      "name": "\u3080\u305a\u304b\u3057\u3044\u3066\u308c\u3071\u3057\u3044",
+      "url": "https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K"
     },
     {
       "added_at": "2024-06-03 02:25:10",

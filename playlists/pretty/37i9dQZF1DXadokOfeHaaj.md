@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new indie dance music\. Cover: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,955 likes - 89 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,960 likes - 89 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

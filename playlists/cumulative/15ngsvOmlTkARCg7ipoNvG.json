@@ -15709,6 +15709,24 @@
     },
     {
       "album": {
+        "name": "Lighten",
+        "url": "https://open.spotify.com/album/46nKHIukzxBqFQS5WZIMU8"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60400,
+      "name": "Lighten",
+      "url": "https://open.spotify.com/track/3Huo1LiZqOLz4bd2Tfbk1r"
+    },
+    {
+      "album": {
         "name": "Transformations",
         "url": "https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk"
       },

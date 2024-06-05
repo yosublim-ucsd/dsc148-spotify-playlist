@@ -2,9 +2,9 @@
 
 ### [Soulful House](https://open.spotify.com/playlist/37i9dQZF1DX4q6087QOpL9)
 
-> That real soulful house sound\. Cover: Kerri Chandler
+> That real soulful house sound.
 
-255 songs - 1 day 3 hr 47 min
+256 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Heat Up \- Radio Edit](https://open.spotify.com/track/1gJvChg4l4OfnOhN1K8DrX) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Heat Up](https://open.spotify.com/album/47ZNHA2NLqAZTT7ZcWPVVS) | 3:55 | 2022-09-13 | 2024-04-19 |
 | [Heaven \(feat\. Andreya Triana\) \- Danny Krivit Edit](https://open.spotify.com/track/5Re8DUUAt9ui1Yr6WdNwFm) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2), [Danny Krivit](https://open.spotify.com/artist/0Y5z4slenWMoTz3sg8N6xD) | [Edits by Mr\. K](https://open.spotify.com/album/0cRgDZNg8D4w80HYA3wbkX) | 6:21 | 2022-09-13 |  |
 | [Heaven \- Marlon D\. & G.A\. Club Mix](https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Jellybean Soul Presents: Feel the Spirit, Vol\. 1](https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk) | 8:14 | 2022-09-13 |  |
+| [Here We Go](https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Here We Go](https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge) | 4:46 | 2024-06-04 |  |
 | [Highways \- Dave Lee Medusa Mix](https://open.spotify.com/track/5b2Mjf5TQ7ZqlMHik968cn) | [Akabu](https://open.spotify.com/artist/1wLsQhBKNjZOd8NdXY4kTC), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Highways](https://open.spotify.com/album/1iICsAza05q2fnEm4aHezr) | 6:49 | 2023-11-04 | 2024-04-14 |
 | [History Repeating](https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR) | [Ezel](https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [History Repeating](https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz) | 7:31 | 2023-11-17 |  |
 | [Hold It Down \- Bugz In The Attic's Co\-Operative Mix](https://open.spotify.com/track/32c0Uo9hITRnFqrfrmiQ4f) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L) | [Lifestyle2 \- Dance Grooves Vol 1 \(Budget Version\)](https://open.spotify.com/album/6Y9kELm8endQXLmFnwHiBH) | 7:19 | 2022-09-13 | 2023-09-07 |
@@ -217,7 +218,7 @@
 | [Stand \(feat\. Cor.Ece\) \- Edit](https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv) | [Stand \(feat\. Cor.Ece\)](https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf) | 3:02 | 2024-01-31 |  |
 | [Stop Playing With My Mind \(feat\. Darryl D'Bonneau\) \- Whiplash and Turner Vocal Mix](https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Darryl D'Bonneau](https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw) | [Stop Playing With My Mind \(feat\. Darryl D'Bonneau\)](https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6) | 9:26 | 2022-09-13 | 2023-09-07 |
 | [Straight From The Heart \- Moplen Remix](https://open.spotify.com/track/5Q1WL9Hj1nzSvy4UtRLPgP) | [Loose Change](https://open.spotify.com/artist/6BMcXknXEY3ggl29TpedBF), [Moplen](https://open.spotify.com/artist/3NcMPhTdRUe1VhAX2e6upk) | [Straight From The Heart \(Moplen Remix\)](https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F) | 8:39 | 2024-03-06 |  |
-| [Stronger \- Extended Club Mix](https://open.spotify.com/track/2qdq50vSvWSQZ6jGj94pCX) | [Cafe 432](https://open.spotify.com/artist/08kPo64mjRoqiJVmzl1Wic), [Hannah Khemoh](https://open.spotify.com/artist/0I2kjxFQfKN3h34FA2CLZg) | [Stronger](https://open.spotify.com/album/43KImeFr6rTLyqwSXPFVPu) | 6:10 | 2024-04-18 |  |
+| [Stronger \- Extended Club Mix](https://open.spotify.com/track/2qdq50vSvWSQZ6jGj94pCX) | [Cafe 432](https://open.spotify.com/artist/08kPo64mjRoqiJVmzl1Wic), [Hannah Khemoh](https://open.spotify.com/artist/0I2kjxFQfKN3h34FA2CLZg) | [Stronger](https://open.spotify.com/album/43KImeFr6rTLyqwSXPFVPu) | 6:10 | 2024-04-18 | 2024-06-05 |
 | [Stuck](https://open.spotify.com/track/5fB8D4lc3UNL1xoFoxUOkH) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Power Soul](https://open.spotify.com/album/1uoraNGVpnn5od0VnziIiO) | 4:48 | 2022-09-13 |  |
 | [Swimming Places](https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Defected Presents House Masters: DJ Gregory & Julien Jabre](https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr) | 10:42 | 2022-09-13 |  |
 | [Take a Stand \- Blaze Shelter Mix](https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [The Best of Blaze, Vol\. 2 \- Hubert Street](https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ) | 6:53 | 2022-09-13 | 2023-11-08 |

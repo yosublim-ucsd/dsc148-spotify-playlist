@@ -2,7 +2,7 @@
 
 ### [Spotify House at CMA Fest 2024](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> You never know who will jump up on stage at Spotify House at CMA Fest! Any guesses?
+> Don't miss mgk + so many more artists at Spotify House at Ole Red! June 6\-8 from 10am \- 2am.
 
 322 songs - 17 hr 20 min
 

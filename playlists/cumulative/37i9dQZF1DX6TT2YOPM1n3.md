@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Hai Hai Hoye Hoye Home to current Pakistani Hits\. 🇵🇰 Cover: Hasan Raheem
+> Home to current Pakistani Hits\. 🇵🇰 Cover: Hasan Raheem
 
 149 songs - 9 hr 42 min
 

@@ -4,7 +4,7 @@
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-129 songs - 7 hr 23 min
+130 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 | 2023-03-24 |  |
 | [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-11-03 |  |
 | [Chuck](https://open.spotify.com/track/4LfmJgyInGg96Kaue1ceGZ) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:16 | 2022-04-28 |  |
+| [Colors](https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:30 | 2024-06-04 |  |
 | [D\-DAY](https://open.spotify.com/track/7Kw1ycY0Dfqf3uM25SxImO) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [D\-DAY](https://open.spotify.com/album/4hUoji0XYWp8fJoFCK7h0x) | 3:09 | 2022-04-28 |  |
 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 | 2022-04-28 |  |
 | [Decalcomanie 2021](https://open.spotify.com/track/0nj3n4bJXhBOloivWUOMYc) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 4:12 | 2022-04-28 |  |

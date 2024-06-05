@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-950 songs - 2 day 20 hr 11 min
+951 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bach: Prelude And Fugue In C \- Ulrich Schnauss Rework](https://open.spotify.com/track/6XNeuuAYTmEd04FQPBorJl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [re:works](https://open.spotify.com/album/2hfzcziOuaZXs4H3gZSbRv) | 4:28 | 2019-06-19 | 2020-08-26 |
 | [Balloons \- Radio Edit](https://open.spotify.com/track/7gsBhmfWBTt1SbizSDL1xf) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Balloons](https://open.spotify.com/album/5A7mVowni98nXQptyPID82) | 3:50 | 2019-07-25 | 2020-10-19 |
 | [baxter climb](https://open.spotify.com/track/1sfqPyzweozuYYP7Xg9d7i) | [tstewart](https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [elysian](https://open.spotify.com/album/228l4A41HRKtL3R1rlUNGv) | 4:34 | 2022-04-22 | 2022-07-29 |
+| [Bearded Fireworm](https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Bearded Fireworm](https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG) | 3:18 | 2024-05-24 |  |
 | [Beats Religion](https://open.spotify.com/track/5s8ZQ7R4ECUCqvEzTDjBmc) | [Sieeben Acht](https://open.spotify.com/artist/3zegvv5sdr9Z2sWyai8IRt) | [Beats Religion](https://open.spotify.com/album/03VEW6NyNqE9UBlXVOSUl8) | 3:05 | 2019-06-19\* | 2020-10-21 |
 | [Beba](https://open.spotify.com/track/5eF2ANEj5ZqQhZFAokFjt9) | [PANTyRAiD](https://open.spotify.com/artist/2mdjjabTCK9Xknzl9hakW7) | [The Sauce](https://open.spotify.com/album/2Nw9bUOlJfxIc0gMKtO1yv) | 3:51 | 2019-07-25 | 2020-08-26 |
 | [Because I Feel Synths](https://open.spotify.com/track/3YEYMsIZfF2mU2LQkKJupq) | [VRWRK](https://open.spotify.com/artist/4bvxu5Jz2BJixoh6fxiLbH) | [Because I Feel Things](https://open.spotify.com/album/2GDI7KJkK9maTJrnfVurCL) | 4:29 | 2019-06-19 | 2020-10-22 |
@@ -508,7 +509,7 @@
 | [Memory Arc](https://open.spotify.com/track/74EnBZX68SMjd6rTylcpPe) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 2:13 | 2019-06-19\* | 2022-04-19 |
 | [memphis](https://open.spotify.com/track/1gr3wnx384k5kcQAs2S1FA) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [memphis](https://open.spotify.com/album/2EGO4ULEQ7dq6tW0G1fbYQ) | 3:14 | 2022-03-11 |  |
 | [Mercy Falls](https://open.spotify.com/track/6oSxm8jKgVbrlKo4Ktd1qr) | [CharlestheFirst](https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I) | [The Reach EP](https://open.spotify.com/album/2HVGlBI4fH2y5pDBZ6WhZf) | 3:13 | 2019-06-19\* | 2020-08-26 |
-| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 |  |
+| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 | 2024-06-05 |
 | [Metro](https://open.spotify.com/track/2c6JKsE4PPXOtlD5ehbVIS) | [The EMBR](https://open.spotify.com/artist/5td7Gb5zym0uodrde5koHp) | [Metro](https://open.spotify.com/album/0GV6XG6ygQkjF1JuDdpazQ) | 2:32 | 2019-06-19\* | 2020-08-26 |
 | [Midnite](https://open.spotify.com/track/6hhq4YSYbt8ajR3j3mVcHv) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Midnite](https://open.spotify.com/album/4kxI7zTFmwZcfbLfZ1KgJV) | 3:03 | 2019-06-19\* | 2020-08-26 |
 | [Miniature](https://open.spotify.com/track/2Tt3QTJW4mFiJ8kB97U0pU) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Miniature](https://open.spotify.com/album/4B17VWg6cInzyyzyDl1WV4) | 3:05 | 2019-07-25 | 2022-04-20 |

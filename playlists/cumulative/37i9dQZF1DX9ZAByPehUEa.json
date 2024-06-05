@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 381172,
       "name": "Dancing Down The Path",
       "url": "https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ"
@@ -3134,6 +3134,24 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
+    },
+    {
+      "album": {
+        "name": "Hot Honey",
+        "url": "https://open.spotify.com/album/6jRGHMzuPV5oSphIusq9IL"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Hot Honey",
+      "url": "https://open.spotify.com/track/2zq9JzV4REqw574jN2yyEH"
     },
     {
       "album": {
@@ -6862,7 +6880,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 161904,
       "name": "So Pretty",
       "url": "https://open.spotify.com/track/359LcUDiG0kNC9wj9LJMo8"
@@ -7330,7 +7348,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 144005,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/2KQe7XhWh4T8Ui8StfTrdw"

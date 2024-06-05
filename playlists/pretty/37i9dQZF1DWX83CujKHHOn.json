@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3332786,
+  "num_followers": 3332685,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 248454,
-      "name": "A Symptom Of Being Human",
-      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
         "name": "Not About Angels",
         "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
     },
     {
       "added_at": "2024-04-08 15:25:32",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 256236,
       "name": "People Help the People",
       "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2024-04-08 15:25:32",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
         "name": "Jamie Lawson",
         "url": "https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/2a5VluIESm1JP4Qwvo02H8"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
     },
     {
       "added_at": "2024-04-08 15:25:32",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "arms",
+      "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "arms",
-      "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
     },
     {
       "added_at": "2024-04-08 15:25:32",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
         "name": "1000 Forms Of Fear (Deluxe Version)",
         "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 241693,
       "name": "Chandelier - Piano Version",
       "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9"
     },
     {
       "added_at": "2024-04-08 15:25:32",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
-        "name": "chapter two: red",
-        "url": "https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "like that",
-      "url": "https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
         "name": "what if i took it off for you?",
         "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 136706,
       "name": "what if i took it off for you?",
       "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
+        "name": "chapter two: red",
+        "url": "https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "like that",
+      "url": "https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v"
     },
     {
       "added_at": "2024-04-08 15:25:32",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "One Without the Other",
-      "url": "https://open.spotify.com/track/7Brog3UEWvvH0SePifthzY"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/6qus6fQ4szOs1A2c1d16hP"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 256972,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/5HgYrY0MHqt5Iwd2aRR0xh"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "One Without the Other",
+      "url": "https://open.spotify.com/track/7Brog3UEWvvH0SePifthzY"
     },
     {
       "added_at": "2024-04-08 15:25:32",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-04-08 15:25:32",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2024-04-08 15:25:32",
-      "album": {
         "name": "She's Gone",
         "url": "https://open.spotify.com/album/1TcDaA8yaW6n3h3Kb1fiuA"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 224390,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/1Q7HO1L7KO46VlMH8C3Abh"
+    },
+    {
+      "added_at": "2024-04-08 15:25:32",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2024-04-08 15:25:32",

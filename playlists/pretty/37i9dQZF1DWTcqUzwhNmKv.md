@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Kittie on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,124 likes - 78 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,352 likes - 78 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

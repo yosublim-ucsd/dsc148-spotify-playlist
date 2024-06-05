@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With By The Coast, LAVE, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,774 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Dream](https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:36 |
 | 50 | [Everything Ends Up Ending](https://open.spotify.com/track/20qTnXGVEu1ibpnVugYFc1) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:10 |
 
-Snapshot ID: `Zl5qcAAAAADqjyLch7p8f40H786c1f/+`
+Snapshot ID: `Zl+reAAAAABZ2wksVJhl5VWHchHgyREI`

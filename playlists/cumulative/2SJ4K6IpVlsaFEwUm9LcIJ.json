@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "World of Wonder",
+        "url": "https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Power",
+          "url": "https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269293,
+      "name": "Psychic Mechanic",
+      "url": "https://open.spotify.com/track/3gj2nM2yLd2diSGOqExMvc"
+    },
+    {
+      "album": {
         "name": "Know by Heart",
         "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
       },

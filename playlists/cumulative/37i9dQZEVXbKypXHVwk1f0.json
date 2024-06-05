@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -11110,7 +11110,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 240600,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
@@ -11382,6 +11382,24 @@
       "duration_ms": 180520,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "album": {
+        "name": "LA VIDA BUENA",
+        "url": "https://open.spotify.com/album/3RH2tXKNV8bLF4EmgaBn9i"
+      },
+      "artists": [
+        {
+          "name": "SANTI SERRA",
+          "url": "https://open.spotify.com/artist/160stBXe31uhue2Fb598X4"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "LA VIDA BUENA",
+      "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
     },
     {
       "album": {
@@ -14064,7 +14082,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -22540,7 +22558,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 151395,
       "name": "Toco Perder",
       "url": "https://open.spotify.com/track/7s4njtBxlZ2BQTkKsmMYP1"
@@ -23480,7 +23498,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 213322,
       "name": "T\u00fa Quiz\u00e1s",
       "url": "https://open.spotify.com/track/4HuAlNfrtHrNV4qJi0nOVA"

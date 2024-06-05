@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 ### [This Is The Clash](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fKbHG)
 
-> This Is The Clash\. Los temas esenciales, todos en una lista.
+> This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,471 likes - 42 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,498 likes - 42 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 41 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 | 42 | [Ghetto Defendant \- Remastered](https://open.spotify.com/track/4WidRX7HuOreEGkQ6tKBBi) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 4:43 |
 
-Snapshot ID: `Zlu2AAAAAABQSW3BNmwQ36JbHPcbDfVX`
+Snapshot ID: `Zlu2AAAAAABgO/z+tEiS9tb+c9pokHYc`

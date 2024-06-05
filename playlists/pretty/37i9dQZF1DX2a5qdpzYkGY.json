@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12194,
+  "num_followers": 12192,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
     },
     {
-      "added_at": "2024-04-12 00:45:23",
-      "album": {
-        "name": "Le jour et la nuit du r\u00e9el",
-        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Night looping - Movement I",
-      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "A Living Room Hush",
@@ -793,6 +777,22 @@
       "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
     },
     {
+      "added_at": "2024-04-12 00:45:23",
+      "album": {
+        "name": "Le jour et la nuit du r\u00e9el",
+        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 131120,
+      "name": "Night looping - Movement I",
+      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
+    },
+    {
       "added_at": "2024-03-21 23:52:34",
       "album": {
         "name": "For You, Please",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "The Last Retention",
-      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
-    },
-    {
       "added_at": "2022-02-18 04:38:12",
       "album": {
         "name": "atomic bombs atomic bonds i love you",
@@ -843,6 +827,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "The Last Retention",
+        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
+      },
+      "artists": [
+        {
+          "name": "Ronnie & Clyde",
+          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "The Last Retention",
+      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     },
     {
       "added_at": "2022-09-03 03:31:24",
@@ -1157,6 +1157,38 @@
       "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
     },
     {
+      "added_at": "2022-09-30 02:23:59",
+      "album": {
+        "name": "Marilene (Somewhere in Texas)",
+        "url": "https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 475734,
+      "name": "Marilene - Somewhere in Texas",
+      "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
+    },
+    {
+      "added_at": "2023-01-12 02:01:04",
+      "album": {
+        "name": "I Had Too Much to Dream Last Night",
+        "url": "https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ"
+      },
+      "artists": [
+        {
+          "name": "Celestial",
+          "url": "https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk"
+        }
+      ],
+      "duration_ms": 456976,
+      "name": "THE PERFUMED GARDEN",
+      "url": "https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Beside April",
@@ -1179,62 +1211,6 @@
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
-    },
-    {
-      "added_at": "2023-01-12 02:01:04",
-      "album": {
-        "name": "I Had Too Much to Dream Last Night",
-        "url": "https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ"
-      },
-      "artists": [
-        {
-          "name": "Celestial",
-          "url": "https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk"
-        }
-      ],
-      "duration_ms": 456976,
-      "name": "THE PERFUMED GARDEN",
-      "url": "https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI"
-    },
-    {
-      "added_at": "2022-09-30 02:23:59",
-      "album": {
-        "name": "Marilene (Somewhere in Texas)",
-        "url": "https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 475734,
-      "name": "Marilene - Somewhere in Texas",
-      "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
-    },
-    {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Docutrax, Vol. 2: Serious Incidents",
-        "url": "https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1"
-      },
-      "artists": [
-        {
-          "name": "Adam Saunders",
-          "url": "https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU"
-        },
-        {
-          "name": "Mark Stephen Cousins",
-          "url": "https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF"
-        },
-        {
-          "name": "Mark Cousins",
-          "url": "https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx"
-        }
-      ],
-      "duration_ms": 152321,
-      "name": "Earth's Orbit",
-      "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
     },
     {
       "added_at": "2022-05-24 01:10:33",
@@ -1275,6 +1251,30 @@
       "duration_ms": 629506,
       "name": "1978",
       "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
+    },
+    {
+      "added_at": "2022-02-18 05:44:49",
+      "album": {
+        "name": "Docutrax, Vol. 2: Serious Incidents",
+        "url": "https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1"
+      },
+      "artists": [
+        {
+          "name": "Adam Saunders",
+          "url": "https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU"
+        },
+        {
+          "name": "Mark Stephen Cousins",
+          "url": "https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF"
+        },
+        {
+          "name": "Mark Cousins",
+          "url": "https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx"
+        }
+      ],
+      "duration_ms": 152321,
+      "name": "Earth's Orbit",
+      "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
     },
     {
       "added_at": "2022-01-11 01:31:39",

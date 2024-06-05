@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,627 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,687 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 |
 | 2 | [Tumba](https://open.spotify.com/track/4DDmzgsqbZ2qwKbOnV9Bzp) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/6xRnX8OHHyd71M3zjC6Ths) | 3:00 |
-| 3 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
+| 3 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
 | 4 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
 | 5 | [MAS LENTITO RKT](https://open.spotify.com/track/2K1VdnrPKRQCzLT5EjLwJ9) | [djsantaa](https://open.spotify.com/artist/068E65n4GrnZLh7vEJtxqS), [Bruno Chavez Dj](https://open.spotify.com/artist/6pf1Aic1aYncmOxV1D9gh5) | [MAS LENTITO RKT](https://open.spotify.com/album/69n7QKDtjFcunerQJk4Wr2) | 3:02 |
 | 6 | [Lola](https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs) | [Jedis](https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN), [Gote](https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal), [Nolep](https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau) | [Lola](https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua) | 4:38 |

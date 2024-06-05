@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Morodo",
-  "num_followers": 1200954,
+  "num_followers": 1200969,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-05-10 15:59:57",
       "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
-    },
-    {
-      "added_at": "2024-05-10 15:59:57",
-      "album": {
         "name": "Bonito y Cruel",
         "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 220606,
       "name": "Bonito y Cruel",
       "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
+    },
+    {
+      "added_at": "2024-05-10 15:59:57",
+      "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2024-05-10 15:59:57",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-05-10 15:59:57",
       "album": {
+        "name": "C\u00f3mo Te Hago Entender",
+        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "C\u00f3mo Te Hago Entender",
+      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+    },
+    {
+      "added_at": "2024-05-10 15:59:57",
+      "album": {
         "name": "Cuando Te Tengo Cerca (Sesi\u00f3n en Vivo)",
         "url": "https://open.spotify.com/album/2j6E3OLYfVWhLxxIg6dooN"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 330026,
       "name": "Cuando Te Tengo Cerca - Sesi\u00f3n en Vivo",
       "url": "https://open.spotify.com/track/48lX5TitlRBFfCBx2A8DFE"
-    },
-    {
-      "added_at": "2024-05-10 15:59:57",
-      "album": {
-        "name": "C\u00f3mo Te Hago Entender",
-        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "C\u00f3mo Te Hago Entender",
-      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
     },
     {
       "added_at": "2024-05-10 15:59:57",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-05-10 15:59:57",
       "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 203665,
-      "name": "En La Tormenta",
-      "url": "https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL"
-    },
-    {
-      "added_at": "2024-05-10 15:59:57",
-      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1575,22 +1559,6 @@
     {
       "added_at": "2024-05-10 15:59:57",
       "album": {
-        "name": "Vuela Alto",
-        "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Vuela Alto",
-      "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
-    },
-    {
-      "added_at": "2024-05-10 15:59:57",
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 212533,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
+    },
+    {
+      "added_at": "2024-05-10 15:59:57",
+      "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 203665,
+      "name": "En La Tormenta",
+      "url": "https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL"
+    },
+    {
+      "added_at": "2024-05-10 15:59:57",
+      "album": {
+        "name": "Vuela Alto",
+        "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Vuela Alto",
+      "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
     },
     {
       "added_at": "2024-05-10 15:59:57",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-05-10 15:59:57",
       "album": {
-        "name": "Como Un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 227265,
-      "name": "Como Un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
-    },
-    {
-      "added_at": "2024-05-10 15:59:57",
-      "album": {
         "name": "Llegaste A M\u00ed",
         "url": "https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren"
       },
@@ -1731,6 +1715,46 @@
       "duration_ms": 212342,
       "name": "Llegaste A M\u00ed",
       "url": "https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR"
+    },
+    {
+      "added_at": "2024-05-10 15:59:57",
+      "album": {
+        "name": "Criminal (feat. Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 221042,
+      "name": "Criminal (feat. Elsa y Elmar)",
+      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2024-05-10 15:59:57",
+      "album": {
+        "name": "Como Un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 227265,
+      "name": "Como Un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
     },
     {
       "added_at": "2024-05-10 15:59:57",
@@ -1771,30 +1795,6 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
-    },
-    {
-      "added_at": "2024-05-10 15:59:57",
-      "album": {
-        "name": "Criminal (feat. Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 221042,
-      "name": "Criminal (feat. Elsa y Elmar)",
-      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
     },
     {
       "added_at": "2024-05-10 15:59:57",

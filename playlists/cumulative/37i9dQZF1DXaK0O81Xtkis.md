@@ -4,7 +4,7 @@
 
 > make it pop! cover: Zolita
 
-1,009 songs - 2 day 2 hr 6 min
+1,010 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-03-22 |  |
 | [Can I Make You Jealous?](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous?](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 | 2024-03-01 | 2024-03-30 |
 | [Can We Make It? \(Jim Carrey\)](https://open.spotify.com/track/6cVnHJlv4wVKF7MOTOcHZ6) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:48 | 2022-01-07 | 2022-01-15 |
+| [Can You Feel It?](https://open.spotify.com/track/7JIguoPVeFrm48Mjx7TTvQ) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Can You Feel It?](https://open.spotify.com/album/6WI1Qyo6IcbIq8zPOnaJYq) | 3:04 | 2024-06-04 |  |
 | [Can You Handle My Love??](https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Can You Handle My Love??](https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps) | 4:16 | 2021-11-12 | 2021-12-24 |
 | [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 | 2022-12-16 | 2023-02-11 |
 | [Can't Get Enough](https://open.spotify.com/track/2Vq450y6TsQDrEb7JhwkGv) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Can't Get Enough](https://open.spotify.com/album/6imoV31LQPeosEGAdvjyAJ) | 3:26 | 2023-02-10 | 2023-02-25 |
@@ -169,7 +170,7 @@
 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 | 2024-02-02 | 2024-04-06 |
 | [Clarity](https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Clarity](https://open.spotify.com/album/5NJxsb5bQl5s4JqWRc8uu9) | 3:16 | 2022-01-21 | 2022-02-26 |
 | [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 | 2024-05-03 |  |
-| [Close My Eyes](https://open.spotify.com/track/0CQ4LqiyejeeXRDCce1Mp4) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Close My Eyes](https://open.spotify.com/album/1dsCW9E6mNZxcxfp0zgTH4) | 2:49 | 2024-04-05 |  |
+| [Close My Eyes](https://open.spotify.com/track/0CQ4LqiyejeeXRDCce1Mp4) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Close My Eyes](https://open.spotify.com/album/1dsCW9E6mNZxcxfp0zgTH4) | 2:49 | 2024-04-05 | 2024-06-05 |
 | [closer \(feat\. salem ilese\)](https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [closer \(feat\. salem ilese\)](https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD) | 2:54 | 2024-03-15 | 2024-04-27 |
 | [Closure \(feat\. Calica\)](https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Closure feat\. Calica](https://open.spotify.com/album/1JoKaXrvdh5FbP2nB6VB5R) | 3:36 | 2021-11-05 | 2022-02-26 |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-03-22 | 2024-04-27 |

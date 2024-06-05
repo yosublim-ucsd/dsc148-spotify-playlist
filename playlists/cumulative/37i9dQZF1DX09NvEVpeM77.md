@@ -2,7 +2,7 @@
 
 ### [Dad Rock](https://open.spotify.com/playlist/37i9dQZF1DX09NvEVpeM77)
 
-> Classic rock favorites\. Cover: Bruce Springsteen
+> Celebrating 40 years of Born in the USA\. Cover: Bruce Springsteen
 
 169 songs - 11 hr 49 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Dhruv.",
-  "num_followers": 286910,
+  "num_followers": 286901,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "TIED UP",
+        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 143102,
+      "name": "TIED UP",
+      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "the space between us",
         "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
       },
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v"
-      },
-      "artists": [
-        {
-          "name": "sunkis",
-          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
-        }
-      ],
-      "duration_ms": 141619,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4rUkHeajfrP6YCMGgGcHQj"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "TIED UP",
-        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 143102,
-      "name": "TIED UP",
-      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
         "name": "No Problems",
         "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 224888,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "duration_ms": 141619,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4rUkHeajfrP6YCMGgGcHQj"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "Right About Love",
+        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Chung",
+          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
+        }
+      ],
+      "duration_ms": 122448,
+      "name": "Right About Love",
+      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "Right About Love",
-        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Chung",
-          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
-        }
-      ],
-      "duration_ms": 122448,
-      "name": "Right About Love",
-      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Coyote, My Little Brother - Spotify Singles",
-      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 220484,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "ooweeooweeoo",
-        "url": "https://open.spotify.com/album/329ru3PYSAfzO3K7sl5T19"
-      },
-      "artists": [
-        {
-          "name": "Chanpan",
-          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
-        }
-      ],
-      "duration_ms": 118938,
-      "name": "ooweeooweeoo",
-      "url": "https://open.spotify.com/track/5zVkl4naswYMPDdlY9ENSQ"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
         "name": "EAT / DIRT",
         "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
       },
@@ -1879,22 +1863,18 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "WhAT yoU WaNT",
-        "url": "https://open.spotify.com/album/1aUgJLZeMDUzjyfwTDwJaw"
+        "name": "ooweeooweeoo",
+        "url": "https://open.spotify.com/album/329ru3PYSAfzO3K7sl5T19"
       },
       "artists": [
         {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
         }
       ],
-      "duration_ms": 164477,
-      "name": "WhAT yoU WaNT",
-      "url": "https://open.spotify.com/track/4CvT7E4y1NqrQls9tEmYLn"
+      "duration_ms": 118938,
+      "name": "ooweeooweeoo",
+      "url": "https://open.spotify.com/track/5zVkl4naswYMPDdlY9ENSQ"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1919,6 +1899,26 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "WhAT yoU WaNT",
+        "url": "https://open.spotify.com/album/1aUgJLZeMDUzjyfwTDwJaw"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 164477,
+      "name": "WhAT yoU WaNT",
+      "url": "https://open.spotify.com/track/4CvT7E4y1NqrQls9tEmYLn"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
       },
@@ -1935,6 +1935,22 @@
       "duration_ms": 178346,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1971,18 +1987,18 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V"
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
       "artists": [
         {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5"
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -1999,22 +2015,6 @@
       "duration_ms": 175221,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 196075,
-      "name": "Leave With Me",
-      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
-      },
-      "artists": [
-        {
-          "name": "Emily Mei",
-          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
-        }
-      ],
-      "duration_ms": 147387,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
         "name": "Giggles",
         "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 199136,
       "name": "Shower Song",
       "url": "https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
+      },
+      "artists": [
+        {
+          "name": "Emily Mei",
+          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
+        }
+      ],
+      "duration_ms": 147387,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2187,6 +2187,26 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "TRIBAL",
+        "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Juws",
+          "url": "https://open.spotify.com/artist/53xeEBZ8oXkA7iSQOT1Bbm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "TRIBAL",
+      "url": "https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
       },
@@ -2239,6 +2259,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "Solo Dates",
+        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 161099,
+      "name": "Solo Dates",
+      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "it takes 2",
         "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
       },
@@ -2255,22 +2291,6 @@
       "duration_ms": 220677,
       "name": "it takes 2",
       "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "Solo Dates",
-        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 161099,
-      "name": "Solo Dates",
-      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2319,26 +2339,6 @@
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "TRIBAL",
-        "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
-      },
-      "artists": [
-        {
-          "name": "8RO8",
-          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
-        },
-        {
-          "name": "Juws",
-          "url": "https://open.spotify.com/artist/53xeEBZ8oXkA7iSQOT1Bbm"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "TRIBAL",
-      "url": "https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl"
     },
     {
       "added_at": "2024-05-31 14:21:50",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2024-05-31 14:21:50",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP"
+    },
+    {
+      "added_at": "2024-05-31 14:21:50",
+      "album": {
         "name": "On Everything",
         "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 166941,
       "name": "2.0",
       "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-05-31 14:21:50",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP"
     },
     {
       "added_at": "2024-05-31 14:21:50",

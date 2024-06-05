@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Wussami\(우주왕복선싸이드미러\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
 
-669 songs - 1 day 16 hr 37 min
+670 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [0107](https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo) | [After Thoughts](https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA) | [0107](https://open.spotify.com/album/3f2dEWHhavMsuBP4lTdc7e) | 3:46 | 2022-07-08 | 2022-07-10 |
 | [100 WINS](https://open.spotify.com/track/4y1AEJFXM6RLwAe9EBBaFq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Chief Detective 1958 OST Part.1](https://open.spotify.com/album/155wwFVpY5fG97UX0cY5DS) | 3:25 | 2024-04-22 | 2024-05-10 |
 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 | 2023-05-31 | 2023-06-14 |
-| [2 MINUS 1 \(Bonus Track\)](https://open.spotify.com/track/6o2Pu5qZcinw4mlDlQZFqu) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:10 | 2024-05-28 |  |
+| [2 MINUS 1 \(Bonus Track\)](https://open.spotify.com/track/6o2Pu5qZcinw4mlDlQZFqu) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:10 | 2024-05-28 | 2024-06-05 |
 | [20s](https://open.spotify.com/track/41jvAKlAHXpP6ywHiF30Ld) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [STUDY](https://open.spotify.com/album/5Ui0n470azPnCIBmfTMvCO) | 4:40 | 2024-03-21 | 2024-05-10 |
 | [24 years](https://open.spotify.com/track/4fr96gcFKpf9kAJtvCJROx) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [24 years](https://open.spotify.com/album/326uCTjLWz3BUV85xkuVtX) | 3:20 | 2022-07-08 | 2022-07-10 |
 | [31](https://open.spotify.com/track/5DXbuLQrN6acpjrdd4hUX2) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [31](https://open.spotify.com/album/5rdXLxhpGKj3IchwANaYCT) | 3:14 | 2022-04-22 | 2022-07-23 |
@@ -83,6 +83,7 @@
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 | 2024-03-22 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
 | [bow\-wow](https://open.spotify.com/track/6Dk2MbaVTSQZPj2ZIN5ZyS) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [bow\-wow](https://open.spotify.com/album/1tq9UiuOW8kT9h2fOSPMPA) | 3:17 | 2024-03-21 | 2024-05-10 |
+| [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 | 2024-06-04 |  |
 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-11 | 2024-03-22 |
 | [Break Through](https://open.spotify.com/track/7A45JvsGzoiGPZBFmPIxGp) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Break Through](https://open.spotify.com/album/0NELqOfC7kZ4uXrgo5DDUT) | 4:06 | 2022-07-22 | 2022-08-02 |
 | [break up](https://open.spotify.com/track/1vvnAjGNySweI5iBb1xuOh) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [break up](https://open.spotify.com/album/1HX8lBHyJisMzf5YLyMoKF) | 3:09 | 2022-04-12 | 2022-07-28 |

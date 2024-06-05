@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-555 songs - 1 day 4 hr 27 min
+559 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 | 2022-12-01 |  |
 | [Am I Blue?](https://open.spotify.com/track/1OfgmNmV2MLEJkAWLvAXdr) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Am I Blue?](https://open.spotify.com/album/6aRhuHC2bvD8eKbtYRWwqx) | 2:16 | 2024-03-22 |  |
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-03-16 |  |
+| [And The Angels Sing](https://open.spotify.com/track/3zeA8ODqQsXBFopF1G0O8l) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [And The Angels Sing](https://open.spotify.com/album/6IgxgnjurJBBXoXFQ9b3Af) | 3:28 | 2024-06-04 |  |
 | [And Then](https://open.spotify.com/track/1ZepDoXqsQdiyD87zBxYK1) | [Ben Evans\-Parker](https://open.spotify.com/artist/5ItKNtikXXvdBrzYzwVplB) | [And Then](https://open.spotify.com/album/08zpU0LpH2KBdjP6Cqm2E5) | 2:27 | 2021-12-07 | 2022-02-02 |
 | [Another Night](https://open.spotify.com/track/67CMXgNv85npgVBdnnAmCp) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Another Night](https://open.spotify.com/album/1IwpbsnQGqr2pLaubVvXdG) | 2:25 | 2024-01-12 |  |
 | [Anya](https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Anya](https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f) | 3:43 | 2023-09-22 |  |
@@ -70,6 +71,7 @@
 | [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 |  |
 | [Blue Room](https://open.spotify.com/track/0oLNhSMVdZalsr7xuCVTdI) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Blue Room](https://open.spotify.com/album/3tBBW0KtRVyVYyAcFvXuwS) | 2:36 | 2024-05-23 |  |
 | [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 | 2023-02-09 |  |
+| [Bluefields](https://open.spotify.com/track/6nu2ROe5UnrkIzmETZ6iOI) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Bluefields](https://open.spotify.com/album/3h0NL1GvknCr2Ib0MOqLrV) | 2:47 | 2024-06-04 |  |
 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2022-06-14 |  |
 | [Body And Soul](https://open.spotify.com/track/4lUAG8GuCyKBCDzeEbhJHg) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Body And Soul](https://open.spotify.com/album/5TlUCTFnIHb21H4fvGFPSf) | 4:00 | 2021-12-07 |  |
 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 | 2023-05-11 |  |
@@ -154,6 +156,7 @@
 | [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flaming Katy](https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Flaming Katy](https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J) | 3:21 | 2023-09-22 |  |
+| [Floor 21](https://open.spotify.com/track/75rkXMCUU80CIjpgWADrdz) | [Joel Owen](https://open.spotify.com/artist/0ESPKqwnmULAnGy14BSiZJ) | [Floor 21](https://open.spotify.com/album/7uknfb6brZhOzIBaqEb4IS) | 2:05 | 2024-06-04 |  |
 | [Flowers in the Morning](https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Flowers in the Morning](https://open.spotify.com/album/0tHJZJcfoSTqBZyec9bOOX) | 3:11 | 2024-01-05 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
@@ -175,7 +178,7 @@
 | [Get it done](https://open.spotify.com/track/0iTk4KOJJrUzsnyKfN7bAR) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Get it done](https://open.spotify.com/album/7e6kaFtW0Xmhqfg5jBa5KD) | 3:23 | 2024-05-23 |  |
 | [Get Us a Cab](https://open.spotify.com/track/1drlHh4bqZAhWf3gL9es6t) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Get Us a Cab](https://open.spotify.com/album/1db8KBCLQplZRHSVVPRVts) | 2:36 | 2024-05-10 |  |
 | [Giant Steps](https://open.spotify.com/track/0DZTgBMJcZhfGi5WAhlaLM) | [Cato Connor](https://open.spotify.com/artist/0ScVxBaBLUG41oCsXpyhwJ) | [Giant Steps](https://open.spotify.com/album/3rfsMsMmXGie8emynmy2XA) | 2:50 | 2021-12-07 | 2022-04-12 |
-| [God Bless the Child](https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [God Bless the Child](https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn) | 4:14 | 2022-06-14 |  |
+| [God Bless the Child](https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [God Bless the Child](https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn) | 4:14 | 2022-06-14 | 2024-06-05 |
 | [Goldenrod](https://open.spotify.com/track/6ORT6pvmf2nxS7Aux19L8s) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Goldenrod](https://open.spotify.com/album/6J8XrkRmsTjQNUs6TvnxJh) | 3:05 | 2024-05-30 |  |
 | [Gone With The Wind](https://open.spotify.com/track/5Ipp7U3NUTdLcfUknpqYd3) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Gone With The Wind](https://open.spotify.com/album/5gWixXwisRX4dTF15toKLe) | 3:32 | 2022-12-01 |  |
 | [Good Night](https://open.spotify.com/track/2UatfwTngd99ugjekcg8Kw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Good Night](https://open.spotify.com/album/0N3Zd0I4F8iTTzorbht0xH) | 2:15 | 2022-11-10 |  |
@@ -338,6 +341,7 @@
 | [My One And Only Love](https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My One And Only Love](https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT) | 3:45 | 2021-12-07 |  |
 | [My Romance](https://open.spotify.com/track/6xlT01JRhfE3ihLXZ8UkXZ) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [My Romance](https://open.spotify.com/album/6DythIGgVrUIV8e7RUcubL) | 3:50 | 2022-02-01 |  |
 | [My Roses](https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [My Roses](https://open.spotify.com/album/4PCyvS0REXT2qxvOnOBA6v) | 2:11 | 2022-10-27 |  |
+| [My Slowing Beating Heart](https://open.spotify.com/track/4rXnm1uBvBGq9FoqjGBZRS) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [My Slowing Beating Heart](https://open.spotify.com/album/6spZcODzxgkURlpQy9Tmyw) | 3:35 | 2024-06-04 |  |
 | [My World](https://open.spotify.com/track/0CNwwdWrJPiYuNzgXMXoce) | [Mason Olsen](https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET) | [My World](https://open.spotify.com/album/6Vq1GuiSwp1Sat5cCajS94) | 3:06 | 2024-05-23 |  |
 | [My Writing Time](https://open.spotify.com/track/4YReZY9ljzF8jbIn9wRmUg) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [My Writing Time](https://open.spotify.com/album/13bS4DuoftGDo0Gfun7V7K) | 3:33 | 2024-02-23 |  |
 | [Naima](https://open.spotify.com/track/4OxC4yBBsZ3BNmS9oFAzBx) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Naima](https://open.spotify.com/album/6Zoa4RTHHwt7FY6fxHLja2) | 3:40 | 2021-12-07 |  |
@@ -489,7 +493,7 @@
 | [The Night Wind](https://open.spotify.com/track/7diMQY1YBm8qBNbXCYYhbD) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [The Night Wind](https://open.spotify.com/album/5sOKlzcL2auYwop5kLxr8E) | 2:33 | 2023-06-01 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-09 | 2023-05-26 |
 | [The Room](https://open.spotify.com/track/4SrVB1XXNAYgeJ1LsZBcvG) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [The Room](https://open.spotify.com/album/75mUFWa6dxBO3Qvnyqz5PX) | 2:13 | 2023-08-10 |  |
-| [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 |  |
+| [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 | 2024-06-05 |
 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 | 2022-10-06 |  |
 | [The side effects](https://open.spotify.com/track/3Q1eWOScbVt8k40WMegaSJ) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [The side effects](https://open.spotify.com/album/4f2QHZ8zsd4zx9FFlYkDw0) | 2:31 | 2023-08-10 |  |
 | [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2022-11-24 |  |
@@ -535,7 +539,7 @@
 | [Weeping Willow](https://open.spotify.com/track/4sNwc8wHFoErgbeOZOTKMn) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [Weeping Willow](https://open.spotify.com/album/7r2r5H75pSNMcofFz3zQkW) | 4:20 | 2023-12-08 |  |
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-07 | 2022-08-17 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-09 |  |
-| [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-01 |  |
+| [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-01 | 2024-06-05 |
 | [What do I forget?](https://open.spotify.com/track/15boPUWeof8umVjrSrshfU) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [What do I forget?](https://open.spotify.com/album/6fUQvjjeEUbmvS82ymn5YP) | 2:36 | 2023-08-10 |  |
 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 | 2021-12-07 | 2023-03-31 |
 | [When Hearts Turn Blue](https://open.spotify.com/track/7nsHRk3Dbx5tj8ya1Vw1eF) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [When Hearts Turn Blue](https://open.spotify.com/album/1f6jrrjOGTM7mGcOS8lbrT) | 2:15 | 2023-05-11 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-932 songs - 1 day 22 hr 31 min
+933 songs - 1 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Benim O](https://open.spotify.com/track/0AkvY8WDd022glmGKtP43y) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Benim O](https://open.spotify.com/album/5CPrAKeArzVG4Of99SgO9G) | 3:01 | 2021-05-21 | 2021-07-21 |
 | [Benimle Gel](https://open.spotify.com/track/6TQj22qKkIAd9cuBiFlvKf) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Benimle Gel](https://open.spotify.com/album/3UHVdV8G1u2xI1t1qX9sSJ) | 2:41 | 2022-02-12 | 2022-07-24 |
 | [Benimle Kayboldun](https://open.spotify.com/track/6pJI8iZBKPuMjWDstvO081) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:09 | 2021-04-19 | 2021-05-19 |
-| [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 | 2023-10-10 |  |
+| [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 | 2023-10-10 | 2024-06-05 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
 | [Beyaz Skandalım](https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/2sXpdxb6xQ1t3lOX072al6) | 3:35 | 2021-06-12 | 2022-01-05 |
 | [Beyaz Skandalım](https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/5ux7MVV2OT5BOOLXETC4qL) | 3:35 | 2022-01-04 | 2022-02-13 |
@@ -481,6 +481,7 @@
 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 | 2023-12-02 | 2024-06-04 |
 | [Kader](https://open.spotify.com/track/3F0f7Sn5dKdUHJUcyh38mY) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kader](https://open.spotify.com/album/1WqBaT9UT7Q1onJHbplcWt) | 3:09 | 2021-07-18 | 2021-07-30 |
 | [Kafa Tatili](https://open.spotify.com/track/365h8PI7fkpQMYWpk4HHC1) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kafa Tatili](https://open.spotify.com/album/1kj82OlvIWJcIOx4LupuuF) | 2:59 | 2022-06-11 | 2022-06-16 |
+| [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-06-04 |  |
 | [Kafeste](https://open.spotify.com/track/6R4VTadPfb4GaYAMFg9lSl) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Kafeste](https://open.spotify.com/album/7B3NWvte3Yq5SD8ArkT9En) | 2:59 | 2021-04-26 | 2021-05-09 |
 | [Kafile](https://open.spotify.com/track/4PTjzk0gb6st9Lk5kKBnc6) | [Yüksek Sadakat](https://open.spotify.com/artist/3SrFQDUN5DXQDZc3kygriW) | [Yüksek Sadakat](https://open.spotify.com/album/4nPhHTUeOSvZCNztvyfoGA) | 4:18 | 2022-04-20 | 2022-07-04 |
 | [Kahrettim](https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kahrettim](https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b) | 3:06 | 2021-03-27\* | 2021-04-01 |

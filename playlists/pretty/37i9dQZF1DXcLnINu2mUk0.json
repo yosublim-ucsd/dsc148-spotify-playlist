@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Instinto 26",
-  "num_followers": 45892,
+  "num_followers": 45898,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,18 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "That's Me",
-        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
       },
       "artists": [
         {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
         }
       ],
-      "duration_ms": 203351,
-      "name": "That's Me",
-      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "longe.com",
-        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
       "artists": [
         {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 197511,
-      "name": "longe.com",
-      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
+      "duration_ms": 203351,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
-        "name": "Orgulho",
-        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Dji Tafinha",
-          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
-        }
-      ],
-      "duration_ms": 264496,
-      "name": "Orgulho",
-      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
+        "name": "Orgulho",
+        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Dji Tafinha",
+          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
+        }
+      ],
+      "duration_ms": 264496,
+      "name": "Orgulho",
+      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
     },
     {
       "added_at": "2024-05-30 23:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-05-30 23:00:00",
       "album": {
+        "name": "Volkswagen Antigo",
+        "url": "https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu"
+      },
+      "artists": [
+        {
+          "name": "t. Policarpo",
+          "url": "https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "Volkswagen Antigo",
+      "url": "https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu"
+    },
+    {
+      "added_at": "2024-05-30 23:00:00",
+      "album": {
         "name": "\u00c9 Mentira",
         "url": "https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 244660,
       "name": "\u00c9 Mentira",
       "url": "https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx"
-    },
-    {
-      "added_at": "2024-05-30 23:00:00",
-      "album": {
-        "name": "Volkswagen Antigo",
-        "url": "https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu"
-      },
-      "artists": [
-        {
-          "name": "t. Policarpo",
-          "url": "https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "Volkswagen Antigo",
-      "url": "https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu"
     },
     {
       "added_at": "2024-05-30 23:00:00",

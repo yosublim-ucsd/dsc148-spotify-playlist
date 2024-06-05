@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 100553,
+  "num_followers": 100568,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+        "name": "Mulher Realizada",
+        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+      "duration_ms": 257648,
+      "name": "Mulher Realizada",
+      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -471,22 +487,6 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Mulher Realizada",
-        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 257648,
-      "name": "Mulher Realizada",
-      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "O Jeito Que Voc\u00ea Me Olha",
-        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
-      },
-      "artists": [
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "O Jeito Que Voc\u00ea Me Olha",
-      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "O Jeito Que Voc\u00ea Me Olha",
+        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
+      },
+      "artists": [
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        },
+        {
+          "name": "Marla L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "O Jeito Que Voc\u00ea Me Olha",
+      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
     },
     {
       "added_at": "2023-07-14 16:56:11",

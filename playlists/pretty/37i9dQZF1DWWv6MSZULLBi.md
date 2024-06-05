@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: hey, nothing
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,230 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,232 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 19 | [Lifeline](https://open.spotify.com/track/37Gqg6D070Ahztf2RaDXBb) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Lifeline](https://open.spotify.com/album/2878AXAVVxRpftI4g2Kjh2) | 2:18 |
 | 20 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 |
 | 21 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 |
-| 22 | [Corner of the Universe](https://open.spotify.com/track/6v4DcukmP18C44snCH5Iz3) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Corner of the Universe](https://open.spotify.com/album/6Ysafd8kqETpLQSyjHmU0C) | 3:01 |
+| 22 | [Corner of the Universe](https://open.spotify.com/track/6v4DcukmP18C44snCH5Iz3) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Corner of the Universe](https://open.spotify.com/album/6Ysafd8kqETpLQSyjHmU0C) | 3:00 |
 | 23 | [Valentine](https://open.spotify.com/track/2ZXwbxcnIsB7rxbPj5mEMk) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Valentine](https://open.spotify.com/album/0cvRzBCz5Bxb2zruVPfJ8W) | 4:34 |
 | 24 | [Afraid](https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Afraid](https://open.spotify.com/album/5XEB2cwnwp8SFSmHgql9yV) | 4:04 |
 | 25 | [I Want What I Don't Need](https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [I Want What I Don't Need](https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S) | 3:35 |

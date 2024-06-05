@@ -16430,7 +16430,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
@@ -19870,6 +19870,24 @@
       "duration_ms": 257500,
       "name": "One Desire",
       "url": "https://open.spotify.com/track/74wgevN4xySjnhXlkSLxqM"
+    },
+    {
+      "album": {
+        "name": "Songs Of Sundown",
+        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "One More Story",
+      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
     },
     {
       "album": {

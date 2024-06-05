@@ -1,6 +1,6 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12825,
+  "num_followers": 12829,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Liebling (France version)",
-        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
-      },
-      "artists": [
-        {
-          "name": "Andreas Johnson",
-          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Hit My Heart (Official Recordings Full Package)",
         "url": "https://open.spotify.com/album/61YHzlDAxEShdM2J9506yE"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 196284,
       "name": "Hit My Heart - Sfaction Radio Edit",
       "url": "https://open.spotify.com/track/1gP9feeY5DxLh0gJsIFAoC"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Liebling (France version)",
+        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
+      },
+      "artists": [
+        {
+          "name": "Andreas Johnson",
+          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
     },
     {
       "added_at": "2020-10-27 12:12:52",

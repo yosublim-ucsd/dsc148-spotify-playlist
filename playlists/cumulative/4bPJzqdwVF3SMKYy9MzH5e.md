@@ -4,7 +4,7 @@
 
 > 
 
-1,911 songs - 4 day 7 hr 11 min
+1,912 songs - 4 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1502,6 +1502,7 @@
 | [Sleep Paralysis](https://open.spotify.com/track/1uwzAmgnBBO5fi6N4JQnlt) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:26 | 2021-11-14 |  |
 | [Sleep Walk](https://open.spotify.com/track/2HrgY8IeC2nE5Hrr17jIii) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 2:30 | 2021-11-30 |  |
 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 | 2024-01-14 |  |
+| [Sleepwalking](https://open.spotify.com/track/0gchQwxmBWj5no8NJ8b2yH) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:50 | 2024-06-04 |  |
 | [Slip on a Banana Clip](https://open.spotify.com/track/0XwE208D5TzDLgCJUaYCFv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIERNASTIER$UICIDE](https://open.spotify.com/album/6gjGquz7wIJCvQ6gehf1rO) | 2:17 | 2022-02-18 |  |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2021-08-05 |  |
 | [Smack a Bitch](https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Smack a Bitch](https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii) | 2:18 | 2021-08-05 |  |

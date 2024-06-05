@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,577 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,599 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 35 | [CHILDREN OF THE SLUMS](https://open.spotify.com/track/6xTd7UidPoM8IQ7ONnqxaP) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [CHILDREN OF THE SLUMS](https://open.spotify.com/album/3uhGsFAXshXmRs9qLiYqGz) | 2:55 |
 | 36 | [Still In Shocc](https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Still In Shocc](https://open.spotify.com/album/6gStbu2InOcGRzpUAKxTpN) | 2:29 |
 | 37 | [Can't Lose](https://open.spotify.com/track/057oooH7gg3ph1jaUjge0e) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Can't Lose](https://open.spotify.com/album/19pv8D7jue23OM631QgU4e) | 2:12 |
-| 38 | [Weird](https://open.spotify.com/track/3kwIDHpAZaukc6mstY8V9i) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Weird](https://open.spotify.com/album/2F7Dr30u7LbMsnQxtqghj4) | 2:29 |
+| 38 | [WEIRD](https://open.spotify.com/track/3kwIDHpAZaukc6mstY8V9i) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [WEIRD](https://open.spotify.com/album/2F7Dr30u7LbMsnQxtqghj4) | 2:29 |
 | 39 | [Rollin](https://open.spotify.com/track/4Xq1jF5nPzzP6DQdIRtzPN) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Sleeve Music](https://open.spotify.com/album/2IpZVx5VHq8K6l8x9BeGM1) | 2:04 |
 | 40 | [ROWDYRUFFBOYZ](https://open.spotify.com/track/10qReVRMSdZdak3allFD6M) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [BRODIE WORLD](https://open.spotify.com/album/5EFo4KSj5d5ajfczZiVwlI) | 3:06 |
 | 41 | [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 |

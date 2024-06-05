@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
-  "num_followers": 181936,
+  "num_followers": 181962,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "No Existe",
-        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 204381,
-      "name": "No Existe",
-      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Futuro Contigo",
         "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 213033,
       "name": "Futuro Contigo",
       "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "No Existe",
+        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 204381,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5sYVk2gLIP6kLo39Z1xcGS"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 128421,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/7cbvmZ0VZNtf2RMistBufH"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Llegaste T\u00fa",
         "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5sYVk2gLIP6kLo39Z1xcGS"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 128421,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/7cbvmZ0VZNtf2RMistBufH"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Tu Siervo Pa",
-        "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 310574,
-      "name": "Amor de Hermano",
-      "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Gu\u00edame",
-        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 203790,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 186602,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Tu Siervo Pa",
+        "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 310574,
+      "name": "Amor de Hermano",
+      "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Gu\u00edame",
+        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 203790,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "TBT",
-        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
-      },
-      "artists": [
-        {
-          "name": "Artury Pepper",
-          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "TBT",
-      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
+      },
+      "artists": [
+        {
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+        },
+        {
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
-      },
-      "artists": [
-        {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Para Amarte",
         "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 228000,
       "name": "Para Amarte",
       "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+      },
+      "artists": [
+        {
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1399,30 +1399,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Soy Tan Feliz",
-        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 266571,
-      "name": "Soy Tan Feliz",
-      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5"
       },
@@ -1435,22 +1411,6 @@
       "duration_ms": 200930,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2R9gEY83plghuqlEVHedMa"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1491,6 +1451,66 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Soy Tan Feliz",
+        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 266571,
+      "name": "Soy Tan Feliz",
+      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
+      },
+      "artists": [
+        {
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 152439,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Doble Filo",
         "url": "https://open.spotify.com/album/5yTsLpw3nxNRFq6eFX59qb"
       },
@@ -1527,26 +1547,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Tumba",
-        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
-      },
-      "artists": [
-        {
-          "name": "JXHN PVUL",
-          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 152439,
-      "name": "Tumba",
-      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Se Enamor\u00f3",
         "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
       },
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+        }
+      ],
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Flow Cristiano",
         "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
       },
@@ -1579,30 +1599,6 @@
       "duration_ms": 210337,
       "name": "Flow Cristiano",
       "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Angel Brown",
-          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
-        },
-        {
-          "name": "Ada Betsabe",
-          "url": "https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1647,22 +1643,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         },
         {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+          "name": "Angel Brown",
+          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
+        },
+        {
+          "name": "Ada Betsabe",
+          "url": "https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT"
         }
       ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+      "duration_ms": 188800,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "La Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
@@ -1811,18 +1795,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "El Cielo Llor\u00f3",
-        "url": "https://open.spotify.com/album/6Hf4LJ5XHn65JVzpurhhPD"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI"
       },
       "artists": [
         {
-          "name": "Proyecto 67",
-          "url": "https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW"
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
         }
       ],
-      "duration_ms": 279759,
-      "name": "El Cielo Llor\u00f3",
-      "url": "https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM"
+      "duration_ms": 180173,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1851,6 +1835,22 @@
       "duration_ms": 161965,
       "name": "BEST NIGHT",
       "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "El Cielo Llor\u00f3",
+        "url": "https://open.spotify.com/album/6Hf4LJ5XHn65JVzpurhhPD"
+      },
+      "artists": [
+        {
+          "name": "Proyecto 67",
+          "url": "https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW"
+        }
+      ],
+      "duration_ms": 279759,
+      "name": "El Cielo Llor\u00f3",
+      "url": "https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM"
     },
     {
       "added_at": "2024-05-03 04:00:00",

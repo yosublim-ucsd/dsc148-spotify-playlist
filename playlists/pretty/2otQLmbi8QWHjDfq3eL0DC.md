@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week.\. All the biggest summer dance, house and electronic music to vibe to in 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,355,567 likes - 100 songs - 4 hr 44 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,355,472 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 65 | [Better \(feat\. Decades\)](https://open.spotify.com/track/0NLqDfoF5wlJZSsundDLki) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Decades](https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz) | [Better \(feat\. Decades\)](https://open.spotify.com/album/2TyL6rwm8VVcKynf0PT3ft) | 2:46 |
 | 66 | [Know Better](https://open.spotify.com/track/6MQ3ksdINAphIz32yY29xk) | [CLIK3D](https://open.spotify.com/artist/054AWr3ShpT8e6JVHMC0Gs), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Know Better](https://open.spotify.com/album/6NnxziVp4gJtTed2fdvxKX) | 2:52 |
 | 67 | [Knee Deep](https://open.spotify.com/track/6Zq5Gc6kCBNZfu8gZNWjSG) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto) | [Knee Deep](https://open.spotify.com/album/4lezArnVnbcG9580uJp28v) | 3:03 |
-| 68 | [Off Switch](https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Off Switch](https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk) | 2:52 |
+| 68 | [Off Switch](https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM) | [VASSY](https://open.spotify.com/artist/28FsftFy41U4DM8q7ijvWS) | [Off Switch](https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk) | 2:52 |
 | 69 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 |
 | 70 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 71 | [10:35](https://open.spotify.com/track/0XIHnWfD7RXniUkTzXZTd4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:52 |

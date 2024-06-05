@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. charli
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,808 likes - 132 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,847 likes - 132 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 105 | [lastjune](https://open.spotify.com/track/1welGULVlPbPc61eiGEELm) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:31 |
 | 106 | [hi nice to meet ya](https://open.spotify.com/track/2281dtl2dD4FYjnOf13dwc) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34), [Iankon](https://open.spotify.com/artist/2mpu6oG30YDtaWYiCjStuZ), [Xhulooo](https://open.spotify.com/artist/7Lg7lDO4P5HMTJljr0MV83) | [hi nice to meet ya](https://open.spotify.com/album/6bPN3UG1Ey3LXPyh8Tj3Fi) | 2:20 |
 | 107 | [Silver](https://open.spotify.com/track/7jckam3u2rKAPqwscTcBY1) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:02 |
-| 108 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 |
+| 108 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 |
 | 109 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 |
 | 110 | [STARING AT THE SUN](https://open.spotify.com/track/7rtUWgeSs798smh0Z3HAuH) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [STARING AT THE SUN](https://open.spotify.com/album/13hCVNVfws021KSGhxNlFI) | 1:54 |
 | 111 | [club hospice \(I.WANTED.YOU.TO.KNOW\)](https://open.spotify.com/track/58mrz6T6oMMmSGemae30nV) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [club hospice \(I.WANTED.YOU.TO.KNOW\)](https://open.spotify.com/album/4l6tZWq1inNrZM4k4HJuF1) | 3:00 |
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 118 | [unpredictable thinGs](https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [GORE](https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh) | 2:28 |
 | 119 | [Cyberia](https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Cyberia](https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T) | 2:41 |
 | 120 | [two am](https://open.spotify.com/track/0DFyo7KI5TihXA6xKI7nCO) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [a night in virginia](https://open.spotify.com/album/6hR5LXmqqaonYxc2oQe7EG) | 1:53 |
-| 121 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
+| 121 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
 | 122 | [Sola](https://open.spotify.com/track/6vKq8Q4UCs4q6LqlijQGKE) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Sola](https://open.spotify.com/album/2G8vQf90vV1VaZil0ukv6g) | 3:33 |
 | 123 | [THE RUNAROUND](https://open.spotify.com/track/5S2t7uGKhP8GjUsJeVwv57) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [THE RUNAROUND](https://open.spotify.com/album/3p7WqXW7b0edoEZkgHU0gL) | 4:10 |
 | 124 | [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 |

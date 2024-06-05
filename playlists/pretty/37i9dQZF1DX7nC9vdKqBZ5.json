@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512506,
+  "num_followers": 1512508,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 207861,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Ensaio Ac\u00fastico",
         "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 181276,
       "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 207861,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -463,22 +463,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "OutroEu",
-        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
+        "name": "S\u00f3 Posso Dizer",
+        "url": "https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 258720,
-      "name": "Ai de Mim",
-      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+      "duration_ms": 198765,
+      "name": "S\u00f3 Posso Dizer (S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -499,18 +495,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "S\u00f3 Posso Dizer",
-        "url": "https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw"
+        "name": "OutroEu",
+        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
         }
       ],
-      "duration_ms": 198765,
-      "name": "S\u00f3 Posso Dizer (S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B"
+      "duration_ms": 258720,
+      "name": "Ai de Mim",
+      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
         "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 257282,
       "name": "Outra Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Energia Surreal (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "Energia Surreal - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Casa de Praia 2 (ac\u00fastico)",
         "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 175086,
       "name": "Pijama - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Energia Surreal (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "Energia Surreal - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 196347,
-      "name": "C\u00e9u Azul (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1375,34 +1359,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
       "artists": [
         {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Valeu a Pena (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        }
-      ],
-      "duration_ms": 184062,
-      "name": "Valeu a Pena - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1423,6 +1391,38 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Valeu a Pena (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 184062,
+      "name": "Valeu a Pena - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
       },
@@ -1435,42 +1435,6 @@
       "duration_ms": 142857,
       "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1491,34 +1455,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
       "artists": [
         {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 228470,
-      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1547,6 +1495,58 @@
       "duration_ms": 230107,
       "name": "Novo Ciclo",
       "url": "https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
     },
     {
       "added_at": "2024-03-18 13:00:14",

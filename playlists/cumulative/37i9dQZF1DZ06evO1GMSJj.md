@@ -2,7 +2,7 @@
 
 ### [This Is Boards of Canada](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GMSJj)
 
-> This is Boards of Canada\. Todos os maiores hits em uma só playlist.
+> This is Boards of Canada。アーティストの代表曲をひとつのプレイリストに。
 
 103 songs - 6 hr 19 min
 

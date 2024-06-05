@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 
 ### [This Is Kelli\-Leigh](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08OZ0s)
 
-> This is Kelli\-Leigh\. Todos os maiores hits em uma só playlist.
+> This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 | 49 | [U Got A Friend \- Radio Edit](https://open.spotify.com/track/65vfNxJOeSEfWBiprx22P1) | [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM), [Johnny Bravo](https://open.spotify.com/artist/43OuMHd3wvXYQlNsnzN0Cb), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [U Got A Friend \(Radio Edit\)](https://open.spotify.com/album/4qmA61atcUT9HJxqvL32js) | 3:11 |
 | 50 | [Kill The Lights](https://open.spotify.com/track/5B8d6CO6dbfxPOTf7f1XiL) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Kill The Lights](https://open.spotify.com/album/1iK3k25i2YYQZ5zCxpZx3x) | 2:58 |
 
-Snapshot ID: `Zlu2AAAAAABj+uh+ZmGthIRQdm1CuHY2`
+Snapshot ID: `Zlu2AAAAAACs6Que8tsrKk0Bh+C7KZIB`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 ### [This Is Elevation Worship](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
 
-> This is Elevation Worship\. The essential tracks, all in one playlist.
+> This Is Elevation Worship\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,016 likes - 51 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,112 likes - 51 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 50 | [Gone](https://open.spotify.com/track/2A0GDEZCIvKq38kj2SgENg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 4:10 |
 | 51 | [Only King Forever](https://open.spotify.com/track/0kDdjHylcMnCU4DvsAL7Fi) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Only King Forever](https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h) | 4:57 |
 
-Snapshot ID: `Zlu2AAAAAAA7D/htDyrAwGcabR4CJYKh`
+Snapshot ID: `Zlu2AAAAAABQzRzMwy28/LvPHH+OD3gL`

@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 33263,
+  "num_followers": 33287,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lotus Garden & Healing Serenade",
-        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
       "artists": [
         {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Healing Serenade",
-      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+        "name": "Lotus Garden & Healing Serenade",
+        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
       },
       "artists": [
         {
-          "name": "Luna's Garden",
-          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
         }
       ],
-      "duration_ms": 182361,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+      "duration_ms": 182068,
+      "name": "Healing Serenade",
+      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/0pP3iJlExImW0IusI2wy6Q"
-      },
-      "artists": [
-        {
-          "name": "Sascha Ann Riis",
-          "url": "https://open.spotify.com/artist/4OVKc3I1eQtw2J7xqVCRNs"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/0Xho0q1PiEDX0jrtxYuBUe"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Into The Present",
         "url": "https://open.spotify.com/album/651DX77ds7jckVS1NRH22G"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 199158,
       "name": "Into The Present",
       "url": "https://open.spotify.com/track/5rG57MF8yK7wej6MRlHjs1"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/0pP3iJlExImW0IusI2wy6Q"
+      },
+      "artists": [
+        {
+          "name": "Sascha Ann Riis",
+          "url": "https://open.spotify.com/artist/4OVKc3I1eQtw2J7xqVCRNs"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/0Xho0q1PiEDX0jrtxYuBUe"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Convergence",
-        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
-      },
-      "artists": [
-        {
-          "name": "Logan Ronfeld",
-          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "Convergence",
-      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 144705,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Flute Healing",
         "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 161250,
       "name": "Flute Healing",
       "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Aeonian Hope",
-        "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
-      },
-      "artists": [
-        {
-          "name": "The Peace Within",
-          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Aeonian Hope",
-      "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Himalayan Breeze",
         "url": "https://open.spotify.com/album/0qwpizBQ8iC6VOLE7jdPTh"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 248607,
       "name": "Transcendent Whispers",
       "url": "https://open.spotify.com/track/5MXlWdZ3ESK24lX3u1GU1S"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Aeonian Hope",
+        "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
+      },
+      "artists": [
+        {
+          "name": "The Peace Within",
+          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
+        }
+      ],
+      "duration_ms": 202409,
+      "name": "Aeonian Hope",
+      "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Astral Devotion",
-        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
-      },
-      "artists": [
-        {
-          "name": "FloatSpace",
-          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
-        }
-      ],
-      "duration_ms": 217274,
-      "name": "Astral Devotion - Spa 432Hz",
-      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Captain Speaking",
         "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 169722,
       "name": "The Shimmer",
       "url": "https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Astral Devotion",
+        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        }
+      ],
+      "duration_ms": 217274,
+      "name": "Astral Devotion - Spa 432Hz",
+      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
     },
     {
       "added_at": "2023-12-15 11:35:26",

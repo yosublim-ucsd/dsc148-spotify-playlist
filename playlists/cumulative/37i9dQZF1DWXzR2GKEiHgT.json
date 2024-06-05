@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 140431,
       "name": "Brown Bay",
       "url": "https://open.spotify.com/track/7MaeWklH2fkA3TgQYJpTu5"
@@ -2666,6 +2666,24 @@
       "duration_ms": 173400,
       "name": "September Waves",
       "url": "https://open.spotify.com/track/3nsILhUrRMn7N2Ywfo3rkj"
+    },
+    {
+      "album": {
+        "name": "Serene Waves of the Pacific",
+        "url": "https://open.spotify.com/album/05q6PAOZTKTHivzgVHSXwp"
+      },
+      "artists": [
+        {
+          "name": "Ocean Makers",
+          "url": "https://open.spotify.com/artist/7boWOAsP1MHqkTWt8fyMO1"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124534,
+      "name": "Serene Waves of the Pacific",
+      "url": "https://open.spotify.com/track/0R0eXRziuRNCtJOR2KxhC0"
     },
     {
       "album": {

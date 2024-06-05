@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-292 songs - 16 hr 47 min
+293 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Ovvoru Ponnukkum \- DEAFFROGS RECORDS](https://open.spotify.com/track/7f8jsmd782N8XsqUwk9fV2) | [Voltage B](https://open.spotify.com/artist/1sPbhUJNlDdgq2x9r4if18) | [Ovvoru Ponnukkum \(DEAFFROGS RECORDS\)](https://open.spotify.com/album/4FqX3n33fZ6QbXhd7H9wRV) | 3:19 | 2024-02-23 | 2024-03-09 |
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 | 2024-06-02 |
 | [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 | 2023-09-05 |
+| [Pakano](https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pakano](https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12) | 2:21 | 2024-06-04 |  |
 | [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 | 2024-05-01 |
 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 | 2024-02-09 |  |
 | [Piriyaadhe](https://open.spotify.com/track/2sPa31owePFGZi8je18YkE) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Piriyaadhe](https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh) | 1:27 | 2023-09-12 | 2023-12-12 |

@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg">Year of Dogs</a>
 
-733 songs - 1 day 17 hr 46 min
+734 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Raven's Nest](https://open.spotify.com/track/6lYBx2xoLtFDDBsDjmbf64) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Raven's Nest](https://open.spotify.com/album/2w17nBHfQsOySWxJYBjsed) | 3:21 | 2023-02-16 | 2023-03-25 |
 | [Rhinestone River](https://open.spotify.com/track/7mxcH6Ab9gnVjcVMPEeghZ) | [Amy Lilley](https://open.spotify.com/artist/0HmHTFgk53AKaQwLM3eZi4) | [Petrichor](https://open.spotify.com/album/2lY7kj1yqaqThxVc0ohgcT) | 3:11 | 2022-09-09 | 2022-12-16 |
 | [Ride The Next One](https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu) | [Pat McCay](https://open.spotify.com/artist/1AMLedm2z14uk2eSDbndxK) | [NEARLY ME](https://open.spotify.com/album/1Jdk7zXVJyDFb7fZQ9sXlu) | 3:37 | 2022-09-09 | 2023-02-10 |
+| [Riding](https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Flying Away](https://open.spotify.com/album/4j1AyvNomAzsaT9mi0VkNB) | 3:05 | 2024-05-31 |  |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-03-02 | 2023-05-12 |
 | [Riptide](https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Riptide](https://open.spotify.com/album/0OiuUVfE36MWrMTJHsHgow) | 4:26 | 2023-04-14 | 2023-06-23 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-01-11 | 2024-04-19 |
@@ -703,7 +704,7 @@
 | [Where Are You?](https://open.spotify.com/track/4gSpaf6cVMZgPVqwl3BUrT) | [Katy Hallauer](https://open.spotify.com/artist/7g1bTthu5ETWFuq5igUMRm) | [Not So Bad Down Here](https://open.spotify.com/album/7fCXNPx7cQlXwJZ1G6dd1G) | 3:43 | 2023-10-06 | 2023-12-22 |
 | [Wherever You Go](https://open.spotify.com/track/1BhmdVGe9VdfcoB3MWZQfU) | [Miles Sievwright](https://open.spotify.com/artist/0JlHD2QNc6R8IzoCzdsp08) | [Wherever You Go](https://open.spotify.com/album/6Daj5SCEbrRk4VZAjE673z) | 4:09 | 2023-10-06 | 2023-12-22 |
 | [White Collar Kings](https://open.spotify.com/track/7GH9I49Uz6fU3kqoB1jK2v) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Querencia](https://open.spotify.com/album/5WujsrVJKPjAL7UA9xvN8I) | 5:45 | 2024-01-11 | 2024-01-27 |
-| [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 | 2022-11-17 |  |
+| [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 | 2022-11-17 | 2024-06-05 |
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2024-01-11 | 2024-02-02 |
 | [Who am I to follow](https://open.spotify.com/track/3N1ymSDgFeaApDPTZ8f4lW) | [Double Comfort Safari](https://open.spotify.com/artist/1hIiJTji8IMwDhlYLZSv3O) | [Who am I to follow](https://open.spotify.com/album/54PzuZVWLC8pw4wVzKIptT) | 2:46 | 2022-09-02 | 2022-12-09 |
 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2023-01-12 | 2023-01-21 |

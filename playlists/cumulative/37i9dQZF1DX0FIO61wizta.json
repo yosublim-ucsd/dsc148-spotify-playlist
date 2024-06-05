@@ -1938,36 +1938,6 @@
     {
       "album": {
         "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Ileana Cotrubas",
-          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216706,
-      "name": "La traviata / Act I: \"E strano! ... Ah, fors'\u00e8 lui\"",
-      "url": "https://open.spotify.com/track/3O5ALEXsR3Us1ys00AD7c2"
-    },
-    {
-      "album": {
-        "name": "Verdi: La Traviata",
         "url": "https://open.spotify.com/album/1KxPFNyCkMLYvggGAshs3X"
       },
       "artists": [
@@ -1998,36 +1968,6 @@
       "duration_ms": 213253,
       "name": "La traviata / Act I: \"Un d\u00ec felice, eterea\"",
       "url": "https://open.spotify.com/track/5HjQzLW9SrZIQ0lluMPGVY"
-    },
-    {
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213133,
-      "name": "La traviata / Act II: \"Lunge da lei\" - \"De' miei bollenti spiriti\"",
-      "url": "https://open.spotify.com/track/2wcaQSBshsekwpHINTWHkG"
     },
     {
       "album": {
@@ -2208,6 +2148,66 @@
       "duration_ms": 174000,
       "name": "La traviata*: Gypsy Chorus 'Noi siamo zingarelle'",
       "url": "https://open.spotify.com/track/78qIL92mSpGOm4gH7qgP3a"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "La traviata, Act I: E strano! - Ah, fors'\u00e8 lui",
+      "url": "https://open.spotify.com/track/3O5ALEXsR3Us1ys00AD7c2"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "La traviata, Act II: Lunge da lei - De' miei bollenti spiriti",
+      "url": "https://open.spotify.com/track/2wcaQSBshsekwpHINTWHkG"
     },
     {
       "album": {

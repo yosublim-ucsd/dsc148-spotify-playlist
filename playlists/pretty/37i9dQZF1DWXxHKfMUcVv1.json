@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115539,
+  "num_followers": 115562,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "En Las Calles",
         "url": "https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Aguije",
-        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
       },
       "artists": [
         {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
         }
       ],
-      "duration_ms": 191331,
-      "name": "Aguije",
-      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
+      "duration_ms": 195120,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -703,6 +687,22 @@
       "duration_ms": 267480,
       "name": "El Solo",
       "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "Aguije",
+        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        }
+      ],
+      "duration_ms": 191331,
+      "name": "Aguije",
+      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "El Equilibrio",
-        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 169928,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "Verano \u00b499",
         "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 189658,
       "name": "Soy Latino",
       "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "El Equilibrio",
+        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 169928,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
     },
     {
       "added_at": "2024-04-05 17:19:39",

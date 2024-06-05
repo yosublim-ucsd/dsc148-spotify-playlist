@@ -1,12 +1,12 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Cristian D",
-  "num_followers": 26432,
+  "num_followers": 26440,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlj3HAAAAAA++3GMFT14Pa7xu162gIFH",
+  "snapshot_id": "Zl+OYAAAAACchCni3PLPsHo+qeMfY0Nl",
   "tracks": [
     {
       "added_at": "2024-05-30 22:01:00",
@@ -35,6 +35,22 @@
       "duration_ms": 149507,
       "name": "Anna",
       "url": "https://open.spotify.com/track/0rYjHLCDkqtfzCiQqIqPGa"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Luchtballon",
+        "url": "https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Luchtballon",
+      "url": "https://open.spotify.com/track/024pThriWXJRFgGQuixYs7"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -109,6 +125,22 @@
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
       "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Terug In De Tijd",
@@ -143,6 +175,22 @@
       "duration_ms": 145296,
       "name": "Samen (Niet Alleen)",
       "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -297,6 +345,22 @@
       "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
     },
     {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 133985,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT"
+    },
+    {
       "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Overvloed",
@@ -447,22 +511,6 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "The Code",
-        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 180141,
-      "name": "The Code",
-      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -503,22 +551,6 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
-        "name": "Op De Zeeweg",
-        "url": "https://open.spotify.com/album/73Znb9DymBPQLBEKFDf1M7"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 141069,
-      "name": "Op De Zeeweg",
-      "url": "https://open.spotify.com/track/4JOblmRHWzKGEhbyUybJjs"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -603,6 +635,22 @@
     {
       "added_at": "2024-05-30 22:01:00",
       "album": {
+        "name": "Op De Zeeweg",
+        "url": "https://open.spotify.com/album/73Znb9DymBPQLBEKFDf1M7"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 141069,
+      "name": "Op De Zeeweg",
+      "url": "https://open.spotify.com/track/4JOblmRHWzKGEhbyUybJjs"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
       },
@@ -639,42 +687,6 @@
       "duration_ms": 176666,
       "name": "Out Of This World",
       "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
-        "name": "Op De Zeeweg",
-        "url": "https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 219432,
-      "name": "Droom Sinds Klein",
-      "url": "https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "added_at": "2024-05-30 22:01:00",
@@ -727,22 +739,6 @@
       "duration_ms": 197351,
       "name": "Done With Me",
       "url": "https://open.spotify.com/track/1oTWwkoxxqAqdMSCRwuStJ"
-    },
-    {
-      "added_at": "2024-05-30 22:01:00",
-      "album": {
-        "name": "Un Chance",
-        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
-      },
-      "artists": [
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        }
-      ],
-      "duration_ms": 172385,
-      "name": "Un Chance",
-      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     },
     {
       "added_at": "2024-05-30 22:01:00",

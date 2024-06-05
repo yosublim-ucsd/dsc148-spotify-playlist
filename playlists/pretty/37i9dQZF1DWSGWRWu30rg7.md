@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Jolene Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,477 likes - 103 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,474 likes - 103 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 42 | [Best Laid Plan!](https://open.spotify.com/track/7vGmjFc0wlFHW6e75UU4rS) | [Godeliva Ella](https://open.spotify.com/artist/5LS27tOe5eBERzf4UoDrMh) | [Best Laid Plan!](https://open.spotify.com/album/1iPr72kieO51YULQyVu1oB) | 3:15 |
 | 43 | [Sandiwara](https://open.spotify.com/track/6aTR2zibscYDZG9gmGP5MU) | [BiruMuda](https://open.spotify.com/artist/0RullS1YL4LIW6KEl4Az1s) | [Sandiwara](https://open.spotify.com/album/2fkmqMin8u7eQJdxiCD3fv) | 4:04 |
 | 44 | [NO LIE](https://open.spotify.com/track/29clHvGyExWBhg8kzgCHmQ) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [GLOXINIA](https://open.spotify.com/artist/3dAIRNpFDRZlgUg2oAwrB5), [JOWMAN](https://open.spotify.com/artist/0QKOzxC4fd6loY0oS94QdX) | [NO LIE](https://open.spotify.com/album/1nsET1YwrNfNjpK522bNT6) | 2:57 |
-| 45 | [Salah](https://open.spotify.com/track/2u5tz3X8WN5SLJMUVKoVvP) | [Domestique Club](https://open.spotify.com/artist/5zYdd2o0OeBOSbVigZZP6a) | [Salah](https://open.spotify.com/album/1tyGKn3ddpRAcTYwP2t1nA) | 5:03 |
+| 45 | [Salah](https://open.spotify.com/track/2u5tz3X8WN5SLJMUVKoVvP) | [Domestique Club](https://open.spotify.com/artist/2MsAZb3nzWesXFJ0NwVNcN) | [Salah](https://open.spotify.com/album/1tyGKn3ddpRAcTYwP2t1nA) | 5:03 |
 | 46 | [Noodle](https://open.spotify.com/track/0skPOaR1KzICWLqhzTJoOA) | [Cresensia Naibaho](https://open.spotify.com/artist/2F0SWxOlxawQl2DiguXpCm) | [Cherish in Samba](https://open.spotify.com/album/4NsGUUs73KDI5ugeFyppzQ) | 3:03 |
 | 47 | [Hills Of Rabbit Face \- Live](https://open.spotify.com/track/5QG1LYyysk0UNc0QnqVhWX) | [Answer Sheet](https://open.spotify.com/artist/7jKLXme8VbLEyv5u7o8vXm) | [Serenades Of Istas Parade](https://open.spotify.com/album/5fRLmAnGqtRuXWOgYtNSBm) | 5:40 |
 | 48 | [Harmoni](https://open.spotify.com/track/77vI5MeOmihayYqhz1bxcg) | [Rona Ang](https://open.spotify.com/artist/1BSmfkOiXNpDNI6RgdffQK) | [Harmoni](https://open.spotify.com/album/3pBx4Tr7ulS3NENRVEe9Cn) | 4:15 |

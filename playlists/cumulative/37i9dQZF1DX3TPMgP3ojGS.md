@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,804 songs - 3 day 8 hr 45 min
+1,805 songs - 3 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -915,7 +915,7 @@
 | [Love Is About Daily Leaps](https://open.spotify.com/track/1Ja4NlTHvkVc45El8wpDHC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Love Is \_\_ \(Music From The Original TV Series\)](https://open.spotify.com/album/3CGjYf6qmtumZFTnLXv7iE) | 4:00 | 2021-05-25 | 2022-07-22 |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-02-15 | 2022-10-01 |
 | [Love to Give](https://open.spotify.com/track/197gAis0L7q9xIFreP0cGA) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [The Window](https://open.spotify.com/album/2qZEwFZ6xmtvVAOPaKEMpQ) | 3:17 | 2021-03-18 | 2022-04-07 |
-| [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-21 |  |
+| [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-21 | 2024-06-05 |
 | [Lucida](https://open.spotify.com/track/316nnoeN99STxwMJWNnH0a) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Lucida](https://open.spotify.com/album/5ddAstd0V5H42ABq8olDSE) | 2:07 | 2021-05-14 | 2021-12-20 |
 | [Lucienda](https://open.spotify.com/track/53TDpUUYxE0KGPVhdkNpOn) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Lucienda](https://open.spotify.com/album/65syZRHtM5IwwyjwDbhh0z) | 2:51 | 2022-07-14 | 2022-07-29 |
 | [Lullaby](https://open.spotify.com/track/2x9QbyrXlsIzZkC6vujcha) | [Elvin Adams](https://open.spotify.com/artist/272IydxAD2nQmIsCTMpCJZ) | [Lullaby](https://open.spotify.com/album/2sdvqdVN8jmAHgfcMUayJA) | 2:28 | 2021-03-17 | 2022-07-21 |
@@ -1106,6 +1106,7 @@
 | [On the Other Side](https://open.spotify.com/track/7GhkhTL5VK9Co25CbiBf9T) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [On the Other Side](https://open.spotify.com/album/633hqMGhBHeMIyTOFfNzm7) | 2:50 | 2021-03-07 | 2022-04-14 |
 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 | 2022-03-08 | 2022-07-24 |
 | [One Desire](https://open.spotify.com/track/74wgevN4xySjnhXlkSLxqM) | [Becca](https://open.spotify.com/artist/3REVD4IKt3lmdKJ3j9HTzz) | [One Desire](https://open.spotify.com/album/2SA4UYR7IkBE9dTN9smLtS) | 4:17 | 2021-04-27 | 2022-04-21 |
+| [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 | 2024-05-30 |  |
 | [One Morning In June](https://open.spotify.com/track/3rdau6vlFbeLv9rKPLcaNw) | [Greg Barley](https://open.spotify.com/artist/2vtB2OkNqUjGsqoOUqNAL5) | [Moonbeams](https://open.spotify.com/album/3IycxGGLKapzRlYAtNI8me) | 2:27 | 2021-05-20 | 2022-04-14 |
 | [One With You](https://open.spotify.com/track/1Xiva2KjOYcPIT8VfrfJKS) | [Rick Jolt](https://open.spotify.com/artist/0hzZ0tiSaLHWUUOWNPo5cQ) | [One With You](https://open.spotify.com/album/4mep7pNFHlun9gvlRKkv6Y) | 2:13 | 2021-04-24 | 2022-04-14 |
 | [Only Questions](https://open.spotify.com/track/2Ua2U7enh9ErAF6DaJh4hg) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 1:17 | 2021-05-08 | 2021-05-20 |

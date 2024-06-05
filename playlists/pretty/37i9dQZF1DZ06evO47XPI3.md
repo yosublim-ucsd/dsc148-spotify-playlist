@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 ### [This Is The Delfonics](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47XPI3)
 
-> This is The Delfonics\. The essential tracks, all in one playlist.
+> This is The Delfonics\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,374 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,377 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 49 | [Love On A Two Way Street \- Live](https://open.spotify.com/track/1dZQXLbCGVjkKJXvcJ8CYX) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 4:02 |
 | 50 | [To Be Your One](https://open.spotify.com/track/1q9BIP3IJap9bwjk1h8oj0) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Loren Oden](https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 3:02 |
 
-Snapshot ID: `Zlu2AAAAAADjGbRqeIhrSqhnrY42J/8H`
+Snapshot ID: `Zlu2AAAAAAAcsd3EkeeyLgatmpag5Z9f`

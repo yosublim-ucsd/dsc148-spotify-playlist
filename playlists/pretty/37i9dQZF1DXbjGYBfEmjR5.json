@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 321902,
+  "num_followers": 321971,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -847,8 +847,8 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 124363,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -967,8 +967,8 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+      "duration_ms": 124363,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Showa",
+        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        }
+      ],
+      "duration_ms": 140483,
+      "name": "Showa",
+      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Sessions: Star Guardian Taliyah",
         "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Showa",
-        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 140483,
-      "name": "Showa",
-      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Disco's Revenge",
         "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "Dancefloor Sneakers",
-      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Dance Dance Cochayuyo!",
         "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 167889,
       "name": "Dance Dance Cochayuyo!",
       "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "I Must Be Dreamin'",
         "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 223129,
       "name": "I Must Be Dreamin'",
       "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "First Season",
-        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 295894,
-      "name": "First Season",
-      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/62jdesXaWtAVtMK75zJn4h"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "VTEC",
         "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 243167,
       "name": "VTEC",
       "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/62jdesXaWtAVtMK75zJn4h"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "CHEESECAKE+",
-        "url": "https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO"
-      },
-      "artists": [
-        {
-          "name": "LemKuuja",
-          "url": "https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX"
-        },
-        {
-          "name": "\u30ed\u30fc\u30c9\u30b9Rhodes",
-          "url": "https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0"
-        }
-      ],
-      "duration_ms": 259673,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "TIMERIDER 1983",
         "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
       },
@@ -1583,18 +1563,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Enigma",
-        "url": "https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ"
+        "name": "CHEESECAKE+",
+        "url": "https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO"
       },
       "artists": [
         {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+          "name": "LemKuuja",
+          "url": "https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX"
+        },
+        {
+          "name": "\u30ed\u30fc\u30c9\u30b9Rhodes",
+          "url": "https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17"
+      "duration_ms": 259673,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1659,6 +1643,22 @@
       "duration_ms": 171000,
       "name": "Querelle",
       "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17"
     },
     {
       "added_at": "2023-07-18 02:21:29",

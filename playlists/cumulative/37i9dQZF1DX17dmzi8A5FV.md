@@ -2,7 +2,7 @@
 
 ### [Ultimate Boybands](https://open.spotify.com/playlist/37i9dQZF1DX17dmzi8A5FV)
 
-> All the biggest hits from the biggest boybands!  Cover: \*NSYNC
+> All the biggest hits from the biggest boybands!  Cover: Jonas Brothers
 
 170 songs - 11 hr 7 min
 

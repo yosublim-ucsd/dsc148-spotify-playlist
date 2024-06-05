@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Diss Gacha in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,473 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,481 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 19 | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/track/3Qtj3JgmPqykqclbYIGsYe) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/album/5YYqzDuldow1G4ZTT8XNYM) | 2:42 |
 | 20 | [ODISSEA](https://open.spotify.com/track/3Qqya54XiHvfRFcOz2LXVc) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [ODISSEA](https://open.spotify.com/album/1uqFZjEIJ0EJHZpENyAQgG) | 2:57 |
 | 21 | [Cocaina & Squirting \(feat\. Nerissima Serpe & TwentyTwo\)](https://open.spotify.com/track/31S4RfP6Y02fJDBLbc8f7y) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [TwentyTwo](https://open.spotify.com/artist/2MHmkhhM0YyMaDHtwuW1US) | [Real Talk \- EP 5/4](https://open.spotify.com/album/2KD3QwAQY5sjY5ZSBMLx9x) | 2:30 |
-| 22 | [Maluna](https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Neza](https://open.spotify.com/artist/5P0yIpO0Chwcsh46xx4rWZ) | [Maluna](https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo) | 3:16 |
+| 22 | [Maluna](https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Maluna](https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo) | 3:16 |
 | 23 | [FIUM FIUM](https://open.spotify.com/track/5QhEixLwOaErg4z0kBEauo) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [È \(BANGER\)](https://open.spotify.com/album/1D5qqiF7QgoKwlbnnrmPcT) | 2:32 |
 | 24 | [Bandolero fuma static \(feat\. Fre\_nky\)](https://open.spotify.com/track/5e9e6wuEf5nvj4hT9ZzQ1m) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [BDM Mixtape Vol\. 1](https://open.spotify.com/album/69Wwgurz8xPbkxqwwqKUSG) | 2:54 |
 | 25 | [E Io Gioco A Hockey](https://open.spotify.com/track/58sLGcshW6p5uzZSPVMLZb) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 3:05 |

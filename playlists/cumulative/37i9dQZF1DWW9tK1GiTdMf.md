@@ -4,7 +4,7 @@
 
 > Musica da gridare\. Sxrrxwland in cover con il nuovo album anima macchina.
 
-964 songs - 1 day 20 hr 24 min
+965 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Heartbreaker](https://open.spotify.com/track/51fvbZ3wibIDS8Kz7fBqS5) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [Heartbreaker](https://open.spotify.com/album/3GLDO6nEKcFojsiLQr5tTO) | 2:15 | 2022-07-21 | 2022-08-12 |
 | [Ho perso](https://open.spotify.com/track/4MOb6heVFRG7fwUwQZfLQl) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Ho perso](https://open.spotify.com/album/27vYcHvUYPaT1zEcBQXjQR) | 2:39 | 2022-05-06 | 2022-06-03 |
 | [ho perso \(tempo\)](https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [ho perso \(tempo\)](https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY) | 2:34 | 2023-10-05 | 2023-11-17 |
+| [ho perso il cuore](https://open.spotify.com/track/28jmvssKonCcMnyBrDStYR) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 2:46 | 2024-06-04 |  |
 | [Ho Smesso](https://open.spotify.com/track/5X4ZF5EN7rbZpNnn7Ovc8B) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Ho Smesso](https://open.spotify.com/album/6WCNWyTxAISoH3fiVg4OWk) | 3:00 | 2022-07-07 | 2022-08-19 |
 | [HOLLIWOOD 3000](https://open.spotify.com/track/1uHvkOZBk3k5hd4huHocOo) | [didettagli](https://open.spotify.com/artist/7tQVVoWSMYuWR5jBqRmsBL) | [HOLLIWOOD 3000](https://open.spotify.com/album/0aWjphDAxNE6loH1szXBO3) | 2:31 | 2024-01-11 | 2024-03-01 |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-16 | 2023-03-18 |

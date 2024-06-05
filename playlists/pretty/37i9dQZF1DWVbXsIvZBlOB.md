@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,806 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,803 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [חיבוק אחרון](https://open.spotify.com/track/16a8kHfP9No2P9zqULmhtD) | [ענבל ביבי](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [חיבוק אחרון](https://open.spotify.com/album/6rYUd3vvCwvRdqW0o6W5Ms) | 2:53 |
+| 1 | [חיבוק אחרון](https://open.spotify.com/track/16a8kHfP9No2P9zqULmhtD) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [חיבוק אחרון](https://open.spotify.com/album/6rYUd3vvCwvRdqW0o6W5Ms) | 2:53 |
 | 2 | [תמיד נשאר אני](https://open.spotify.com/track/5MdAD2cDql7KSJeD4tirgW) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [תמיד נשאר אני](https://open.spotify.com/album/0VJgh9nPhyl1XRqvQGQgj4) | 2:36 |
 | 3 | [Flowers](https://open.spotify.com/track/2xr7VXSm9sheaxTjYHpLxc) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [אושר בניסו](https://open.spotify.com/artist/62tsekq9x50c0FxVypfoKJ) | [Flowers](https://open.spotify.com/album/00ulUuiWB1qK3QZQ3gFZZz) | 4:50 |
 | 4 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 |

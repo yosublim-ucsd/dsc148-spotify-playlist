@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 236800,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk"
@@ -1844,6 +1844,32 @@
       "duration_ms": 214201,
       "name": "Hijo De La Luna",
       "url": "https://open.spotify.com/track/3d8mrYLI17XeqylHPPvHGx"
+    },
+    {
+      "album": {
+        "name": "Hit the Road Jack",
+        "url": "https://open.spotify.com/album/0tZx1ijxxochKNgvF2wy7x"
+      },
+      "artists": [
+        {
+          "name": "JKLL",
+          "url": "https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7"
+        },
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Ellene Masri",
+          "url": "https://open.spotify.com/artist/2c6x9IL7EvoUU6XQ642S8c"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/0iIquQLSu3McHEm3wp9ozN"
     },
     {
       "album": {
@@ -2414,7 +2440,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 176258,
       "name": "Lay Low (Radical Redemption Remix)",
       "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
@@ -4000,6 +4026,28 @@
       "duration_ms": 208979,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7"
+    },
+    {
+      "album": {
+        "name": "Turn The Tide",
+        "url": "https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2"
+      },
+      "artists": [
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179938,
+      "name": "Turn The Tide",
+      "url": "https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a"
     },
     {
       "album": {

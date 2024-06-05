@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554810,
+  "num_followers": 554818,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-08 07:15:33",
       "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        }
-      ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
-    },
-    {
-      "added_at": "2024-05-08 07:15:33",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+    },
+    {
+      "added_at": "2024-05-08 07:15:33",
+      "album": {
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
     },
     {
       "added_at": "2024-05-08 07:15:33",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2024-05-08 07:15:33",
       "album": {
-        "name": "Istirahat",
-        "url": "https://open.spotify.com/album/6GHEDkJTajpSdgCzJNrXhK"
+        "name": "Tak Ingin Pisah Lagi",
+        "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
       },
       "artists": [
         {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Istirahat",
-      "url": "https://open.spotify.com/track/0Kf2BOFEcT4d6yKgVDV0xC"
+      "duration_ms": 265518,
+      "name": "Tak Ingin Pisah Lagi",
+      "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
     },
     {
       "added_at": "2024-05-08 07:15:33",
@@ -1231,22 +1235,22 @@
     {
       "added_at": "2024-05-08 07:15:33",
       "album": {
-        "name": "Tak Ingin Pisah Lagi",
-        "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
+        "name": "Buktikan",
+        "url": "https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM"
       },
       "artists": [
         {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         },
         {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+          "name": "VIDI",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
         }
       ],
-      "duration_ms": 265518,
-      "name": "Tak Ingin Pisah Lagi",
-      "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
+      "duration_ms": 239000,
+      "name": "Buktikan",
+      "url": "https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY"
     }
   ],
   "unique_name": "Kopikustik",

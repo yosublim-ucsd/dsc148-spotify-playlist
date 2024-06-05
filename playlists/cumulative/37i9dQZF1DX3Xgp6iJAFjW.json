@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Navidad en Bachata",
+        "url": "https://open.spotify.com/album/6DNQoRC8SfXCer3tSe8yPx"
+      },
+      "artists": [
+        {
+          "name": "Darlyn Made",
+          "url": "https://open.spotify.com/artist/3cVgyCE9htOHDmDCLTCSTz"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197653,
+      "name": "12 Campanadas",
+      "url": "https://open.spotify.com/track/0qbGRXgwj7ejRkIaXuzXxV"
+    },
+    {
+      "album": {
         "name": "Navidad en Merengue (Versi\u00f3n Editada)",
         "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
       },
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 180415,
       "name": "Navidad, Navidad",
       "url": "https://open.spotify.com/track/3kwPNEPLH3jtE5Ug0YTpCz"

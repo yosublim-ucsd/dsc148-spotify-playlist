@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh new Korean independent & rising talents are here. (Cover: PARKJIWOO(\ubc15\uc9c0\uc6b0))(\ud504\ub808\uc26c\ud55c \ud55c\uad6d\uc758 \uc0c8\ub85c\uc6b4 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Fresh new Korean independent & rising talents are here. (Cover: HANRORO(\ud55c\ub85c\ub85c))(\ud504\ub808\uc26c\ud55c \ud55c\uad6d\uc758 \uc0c8\ub85c\uc6b4 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Fresh Finds Korea",
   "tracks": [
     {
@@ -208,6 +208,24 @@
       "duration_ms": 192250,
       "name": "18 (feat. Paloalto)",
       "url": "https://open.spotify.com/track/3ZqR0AfhgdSq3m4Ebd9TmR"
+    },
+    {
+      "album": {
+        "name": "2 Minutes",
+        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120453,
+      "name": "2 Minutes",
+      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
       "album": {
@@ -572,7 +590,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 191386,
       "name": "A Child",
       "url": "https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 206640,
       "name": "A New World!",
       "url": "https://open.spotify.com/track/05qU6gB0wCKCzz7CZcF3MP"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 209701,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/1xwe99Xdw6AbNtBLCePb7p"
@@ -3507,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "Cartier on your wrist",
+        "url": "https://open.spotify.com/album/0rBXKeEZoV1i5x1ISycY5K"
+      },
+      "artists": [
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182210,
+      "name": "Cartier on your wrist",
+      "url": "https://open.spotify.com/track/6PeKbpxVeAwoWxYoqSh0MQ"
+    },
+    {
+      "album": {
         "name": "Casa Rosa",
         "url": "https://open.spotify.com/album/0kBeimZ6up4vSX9G6U1i4S"
       },
@@ -3750,7 +3786,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 174333,
       "name": "christmas recipe (feat. 16)",
       "url": "https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq"
@@ -7685,6 +7721,24 @@
     },
     {
       "album": {
+        "name": "serenade",
+        "url": "https://open.spotify.com/album/72pWzyWNfsulaflLOi7gby"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "for rosie",
+      "url": "https://open.spotify.com/track/4v9hf6bHc3r4n1IrDdi8wS"
+    },
+    {
+      "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/2f8IvbBdJZZkWunMlvg0hg"
       },
@@ -8132,6 +8186,24 @@
       "duration_ms": 178373,
       "name": "Gently, By Your Side",
       "url": "https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ"
+    },
+    {
+      "album": {
+        "name": "Get My Money Back",
+        "url": "https://open.spotify.com/album/1PCF99yRCBu4PYEoBRZks1"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Get My Money Back",
+      "url": "https://open.spotify.com/track/0d9yXZVK8L4mGEdL47vGZX"
     },
     {
       "album": {
@@ -8704,6 +8776,24 @@
       "duration_ms": 224000,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/2MXrOS3umuqgyiqrLMCYv5"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
     },
     {
       "album": {
@@ -9785,6 +9875,24 @@
     },
     {
       "album": {
+        "name": "I don't know what to do",
+        "url": "https://open.spotify.com/album/1XRd9ELKTGzMhleudmRYOL"
+      },
+      "artists": [
+        {
+          "name": "Cheon Dan Bi",
+          "url": "https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262314,
+      "name": "I don't know what to do",
+      "url": "https://open.spotify.com/track/6ZN26kBK0zKxtLahuajsPq"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Want To Do Anything",
         "url": "https://open.spotify.com/album/2ofn9EOJCgLgCoZSfddVUL"
       },
@@ -10302,7 +10410,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 202291,
       "name": "I'll Get Off",
       "url": "https://open.spotify.com/track/5benJ7SrT8nDWv5folm7bi"
@@ -10909,6 +11017,24 @@
     },
     {
       "album": {
+        "name": "Me & My Dog",
+        "url": "https://open.spotify.com/album/6J4eAHhWhTmVVMO03ZXeUE"
+      },
+      "artists": [
+        {
+          "name": "Byul.org",
+          "url": "https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269962,
+      "name": "IntoPieces",
+      "url": "https://open.spotify.com/track/3cgZ5I67WMvN5SVpawIQEs"
+    },
+    {
+      "album": {
         "name": "Young Lady And Gentleman (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/40rXHUGk7PLgbnB84yqMh2"
       },
@@ -11032,7 +11158,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 194186,
       "name": "It Couldn\u2019t Be Better",
       "url": "https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI"
@@ -12518,6 +12644,24 @@
       "duration_ms": 247177,
       "name": "love ends",
       "url": "https://open.spotify.com/track/74FPQJJ6ao6V8NCBKb1Yjl"
+    },
+    {
+      "album": {
+        "name": "Love Equation",
+        "url": "https://open.spotify.com/album/5ZdqTTmvBfWu7uWeZCFBvk"
+      },
+      "artists": [
+        {
+          "name": "Meriberry",
+          "url": "https://open.spotify.com/artist/0Nf0qk7EHwnEfRMgqac3qb"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Love Equation",
+      "url": "https://open.spotify.com/track/03ylCEX3Vtu8VxrJ0xNoKm"
     },
     {
       "album": {
@@ -15633,6 +15777,24 @@
     },
     {
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/5KbEqyO2HLnPfnf3tk2G5S"
+      },
+      "artists": [
+        {
+          "name": "PERC%NT",
+          "url": "https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/2SXOe4jkwaJjFZudAP0uKR"
+    },
+    {
+      "album": {
         "name": "Our Film",
         "url": "https://open.spotify.com/album/2s5m8R3KCGxR4xFwNqKlFi"
       },
@@ -15768,6 +15930,28 @@
       "duration_ms": 206000,
       "name": "OUR LOVE IS",
       "url": "https://open.spotify.com/track/7Ln44yfHEygexUeTgml0F0"
+    },
+    {
+      "album": {
+        "name": "Monthly AP - May, 2024",
+        "url": "https://open.spotify.com/album/6UohaSRYdEPaSvS8SIUvMX"
+      },
+      "artists": [
+        {
+          "name": "Chu Seo Jun",
+          "url": "https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2"
+        },
+        {
+          "name": "GEMma",
+          "url": "https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Out of Breath (Prod. Ryo, hyeminsong)",
+      "url": "https://open.spotify.com/track/1eFgtBIxUe0t8kHQJxfezQ"
     },
     {
       "album": {
@@ -17818,7 +18002,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 175435,
       "name": "Scarlet youth",
       "url": "https://open.spotify.com/track/7AI5Iglkp074EzjqQXtnGn"
@@ -18698,6 +18882,24 @@
       "duration_ms": 222573,
       "name": "Someone Who Only Looks at Me",
       "url": "https://open.spotify.com/track/2Jgmlko3UxydEyRfXRhLmK"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/671MmXvmZ9x9omUge6U2qE"
+      },
+      "artists": [
+        {
+          "name": "Jhnovr",
+          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245309,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/7GYf2XFOAveTxSGeywG5sg"
     },
     {
       "album": {
@@ -20117,6 +20319,24 @@
     },
     {
       "album": {
+        "name": "Text",
+        "url": "https://open.spotify.com/album/27Jj2uD0Tcey3ZZ1cceTSF"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/7jrcU8tSCFQZf1B5mz87h5"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207094,
+      "name": "Text",
+      "url": "https://open.spotify.com/track/4RTvNYp3PHU332DyPAvKJP"
+    },
+    {
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.12",
         "url": "https://open.spotify.com/album/7wBRv1g1DLvzVtH536bC3t"
       },
@@ -21064,7 +21284,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 227562,
       "name": "To me who was love",
       "url": "https://open.spotify.com/track/7uNBPXR917nnTBhVLipKkc"
@@ -21082,7 +21302,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 232580,
       "name": "To my beloved",
       "url": "https://open.spotify.com/track/1DcQbrxxxSwhD94jBTPVWh"
@@ -22384,7 +22604,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 262750,
       "name": "Wave on the sea (feat. Dawool Park)",
       "url": "https://open.spotify.com/track/5qC95MhoHhn9c879EdjLut"
@@ -23236,7 +23456,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 165504,
       "name": "Winter Dance",
       "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
@@ -24732,7 +24952,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 208615,
       "name": "\uc0ac\uc0dd\uacb0\ub2e8 (Ready to Die)",
       "url": "https://open.spotify.com/track/6KvHISjZgIxfAygLw4xbTi"

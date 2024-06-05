@@ -2,9 +2,9 @@
 
 ### [Stray Kids STAY’s SELECTION](https://open.spotify.com/playlist/37i9dQZF1DX7icshDizO3x)
 
-> 【STAYが選ぶスキズ楽曲ベスト】トップ32曲！さらに進化するのでMy Libraryに追加してお楽しみください！
+> 【STAYが選ぶスキズ楽曲ベスト】トップ32曲！メンバーからの音声メッセージ追加！
 
-93 songs - 5 hr 0 min
+101 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,14 @@
 | [Lost Me](https://open.spotify.com/track/4KTK0uE4uJlS2Y8Gtq81I9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:09 | 2024-04-04 |  |
 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 | 2023-02-28 | 2023-06-27 |
 | [MANIAC \-Japanese ver.\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese ver.\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 | 2023-06-26 | 2023-11-01 |
+| [Message from Bang Chan](https://open.spotify.com/track/0y5JToShnEaW7x5PbWdmxj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:46 | 2024-06-04 |  |
+| [Message from Changbin](https://open.spotify.com/track/1csCe35OEVhnbqejxn489g) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 1:17 | 2024-06-04 |  |
+| [Message from Felix](https://open.spotify.com/track/5X1hZsuKKlEQJ0kso9wwZr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 1:16 | 2024-06-04 |  |
+| [Message from HAN](https://open.spotify.com/track/2vhOawAsSLhoHU4Oll45u6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:30 | 2024-06-04 |  |
+| [Message from Hyunjin](https://open.spotify.com/track/0gToIhBn3ARtfUvTYzN6F5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:29 | 2024-06-04 |  |
+| [Message from I.N](https://open.spotify.com/track/6qWXYnpNno4hUW4QLnOj3D) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:46 | 2024-06-04 |  |
+| [Message from Lee Know](https://open.spotify.com/track/51pIYDWy7lFeBuQObhp6A3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:25 | 2024-06-04 |  |
+| [Message from Seungmin](https://open.spotify.com/track/0LFSLUqTbny3x7jtkGoY9w) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:48 | 2024-06-04 |  |
 | [MIROH](https://open.spotify.com/track/4rDHgjmRMYpuXc60VoTcaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:28 | 2023-02-28 |  |
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2023-02-28 | 2023-06-06 |
 | [Mixtape : Time Out](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:55 | 2023-02-28 | 2023-11-01 |

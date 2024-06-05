@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: karan\. Artwork: Isu Kim.
 
-722 songs - 1 day 15 hr 36 min
+722 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [GROOVE](https://open.spotify.com/track/5vYQvFiar2FAKb7Yl5SER6) | [Muratone](https://open.spotify.com/artist/05d3FO1h0tnn4G8yRw3bzp), [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [GROOVE](https://open.spotify.com/album/5SyJszorUWOp0AK2atKngJ) | 2:40 | 2023-03-02 | 2023-06-23 |
 | [Guilty](https://open.spotify.com/track/5a0721eNhawTeTrp5V91AK) | [ABBEY](https://open.spotify.com/artist/025iaeoX6uj3UKZbSG0LcR) | [Guilty](https://open.spotify.com/album/0BFcsokFBzCI4WBcUOoxC6) | 3:09 | 2021-12-01 | 2022-01-14 |
 | [GUNFIGHT](https://open.spotify.com/track/3bH5UrS5OEVnnHe4s5mVe7) | [zekke](https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ) | [GUNFIGHT](https://open.spotify.com/album/34w4f03HV5dR2zM3MSbvm5) | 3:10 | 2024-05-23 |  |
-| [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/track/5g3CxPfRaB0vf8cxGcyzHY) | [Fingerfunk](https://open.spotify.com/artist/3VExmQOtxYaFehYoUFliee), [Fathin Amira](https://open.spotify.com/artist/7lBZLgGlHzkpm2vUtgGjsn) | [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/album/053XZOyjX9h8YIfRwjTAec) | 4:42 | 2024-05-31 |  |
+| [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/track/5g3CxPfRaB0vf8cxGcyzHY) | [Fingerfunk](https://open.spotify.com/artist/3VExmQOtxYaFehYoUFliee), [Fathin Amira](https://open.spotify.com/artist/7lBZLgGlHzkpm2vUtgGjsn) | [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/album/053XZOyjX9h8YIfRwjTAec) | 3:43 | 2024-05-31 |  |
 | [half of my heart](https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [half of my heart](https://open.spotify.com/album/34bZ5TOjUZJ3qfnCPiG49t) | 3:38 | 2023-06-30 | 2024-01-12 |
 | [half of my heart \(Orchestral Version\)](https://open.spotify.com/track/3KJFFP1U9SdJrYLk1f1jRa) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [half of my heart \(Orchestral Version\)](https://open.spotify.com/album/5wZUnmZcrRxyVtkMcmHJ26) | 3:13 | 2023-07-21 | 2024-02-16 |
 | [hands to yourself](https://open.spotify.com/track/7DXEAhWuCuWo3ya6FBI5Jg) | [Jazzy](https://open.spotify.com/artist/2GycKV84bgjhaEtyRtqwJZ), [Alex Yen](https://open.spotify.com/artist/35gMLw7WSqX6NiBv6Rz5KN) | [hands to yourself](https://open.spotify.com/album/5TdnYH9K0ZyQUD4CagIVKb) | 3:11 | 2022-02-10 | 2023-01-13 |

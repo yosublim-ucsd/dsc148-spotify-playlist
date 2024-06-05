@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 83000,
+  "num_followers": 83004,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Go To Work (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt"
+      },
+      "artists": [
+        {
+          "name": "Chris Mula",
+          "url": "https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "duration_ms": 108366,
+      "name": "Go To Work (Jersey Club Remix)",
+      "url": "https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "HATE ME",
         "url": "https://open.spotify.com/album/3iWKVzI8YtUmESnwlwAnV9"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 121532,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Go To Work (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt"
-      },
-      "artists": [
-        {
-          "name": "Chris Mula",
-          "url": "https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB"
-        },
-        {
-          "name": "Ziahfyah",
-          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
-        }
-      ],
-      "duration_ms": 108366,
-      "name": "Go To Work (Jersey Club Remix)",
-      "url": "https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL"
     },
     {
       "added_at": "2024-05-31 04:00:00",

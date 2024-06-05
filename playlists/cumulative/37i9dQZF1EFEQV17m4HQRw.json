@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "M\u00e3e",
+        "url": "https://open.spotify.com/album/5MQOsikb3BzuBsXRTe0I7j"
+      },
+      "artists": [
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199076,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/4EDqnS8xzv7cErqgl7e8tw"
+    },
+    {
+      "album": {
         "name": "La Dr\u00e1cula",
         "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
       },

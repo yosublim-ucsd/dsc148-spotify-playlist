@@ -28209,6 +28209,24 @@
     },
     {
       "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230093,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0gchQwxmBWj5no8NJ8b2yH"
+    },
+    {
+      "album": {
         "name": "DIRTIERNASTIER$UICIDE",
         "url": "https://open.spotify.com/album/6gjGquz7wIJCvQ6gehf1rO"
       },

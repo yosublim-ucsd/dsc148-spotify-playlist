@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 467707,
+  "num_followers": 467715,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2024-05-10 03:03:00",
       "album": {
+        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
+        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
+      },
+      "artists": [
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Manh\u00e3 de Sol - Zuffo Remix",
+      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
+    },
+    {
+      "added_at": "2024-05-10 03:03:00",
+      "album": {
         "name": "EletroTribalistas",
         "url": "https://open.spotify.com/album/1LVeI6iW6g7RvgQBLoSLpb"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 226745,
       "name": "Passe em Casa (feat. Margareth Menezes) - Eletr\u00f4nica",
       "url": "https://open.spotify.com/track/3lnPNtiKdNG5kLhQD4A7XV"
-    },
-    {
-      "added_at": "2024-05-10 03:03:00",
-      "album": {
-        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
-        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
-      },
-      "artists": [
-        {
-          "name": "Zuffo",
-          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
-        },
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Manh\u00e3 de Sol - Zuffo Remix",
-      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
     },
     {
       "added_at": "2024-05-10 03:03:00",

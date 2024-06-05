@@ -2,7 +2,7 @@
 
 ### [This Is Muddy Waters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
 
-> This is Muddy Waters\. Todos os maiores hits em uma só playlist.
+> This is Muddy Waters\. The essential tracks, all in one playlist.
 
 131 songs - 8 hr 43 min
 

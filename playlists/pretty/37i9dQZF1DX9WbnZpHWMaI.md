@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Elkka
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,933 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,936 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 81 | [still?](https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [still?](https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h) | 3:07 |
 | 82 | [All Of Me](https://open.spotify.com/track/07H6zHibXp6CkzTiRoc5Nh) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [All Of Me](https://open.spotify.com/album/2yPbsIMTxSlmO4AW2w89Yd) | 3:17 |
 | 83 | [Freya](https://open.spotify.com/track/42p1yoKQ9c1ER69lveeHG3) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7), [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Freya](https://open.spotify.com/album/0RkiCQjhWKo1FOhAuNIcDs) | 3:49 |
-| 84 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
+| 84 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
 | 85 | [Groove Express](https://open.spotify.com/track/5yas2BgdC0V4Krb6IrzDC3) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Groove Express](https://open.spotify.com/album/4EOTGPBPGET07IxtLjQyST) | 2:43 |
 | 86 | [Gloves](https://open.spotify.com/track/18MUzlttt6JOw6PlUcqSpI) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Serie A](https://open.spotify.com/album/2Fz1NS2puE3dbzCM8fbFrR) | 3:52 |
 | 87 | [The Game](https://open.spotify.com/track/0Rm3QhTh5GZoXdg5wI6MB4) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [The Game](https://open.spotify.com/album/4iVnaLmLr65RfBmzommKb1) | 3:09 |

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 61042,
+  "num_followers": 61050,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
-      },
-      "artists": [
-        {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
-        }
-      ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "From the Valley",
         "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 279451,
       "name": "God Who Saves",
       "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Glorious Ruins",
-        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 245077,
-      "name": "Glorious Ruins",
-      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Nineveh (Live)",
         "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 268347,
       "name": "Nineveh - Live",
       "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Glorious Ruins",
+        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 245077,
+      "name": "Glorious Ruins",
+      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Worship Initiative, Vol. 28 (Live)",
+        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 391413,
+      "name": "Abba - Live",
+      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 237466,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "The Worship Initiative, Vol. 28 (Live)",
-        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 391413,
-      "name": "Abba - Live",
-      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "out of my grave (undone)",
-        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
+        "name": "undone",
+        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 271363,
-      "name": "out of my grave (undone)",
-      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
+      "duration_ms": 291242,
+      "name": "dust to dust/lose myself (undone)",
+      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "undone",
-        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
+        "name": "out of my grave (undone)",
+        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 291242,
-      "name": "dust to dust/lose myself (undone)",
-      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
+      "duration_ms": 271363,
+      "name": "out of my grave (undone)",
+      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
     },
     {
       "added_at": "2023-07-28 04:02:00",

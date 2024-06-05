@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 ### [Về Quê](https://open.spotify.com/playlist/37i9dQZF1DX1kCQJbQlZlA)
 
-> Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: NSND Bạch Tuyết, Nal
+> Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: Tố My
 
 [Spotify](https://open.spotify.com/user/spotify) - 6,173 likes - 75 songs - 5 hr 52 min
 
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Chờ Em Hát Lý Duyên Tình](https://open.spotify.com/track/2tGnkY0nX4pi4isOvA9on1) | [Hồng Quyên](https://open.spotify.com/artist/0c9NixQCAgTUuDUdz845KU), [Long Hồ](https://open.spotify.com/artist/6gp7sKbUq9NOVRgpuwm9Tu) | [Bông Ô Môi](https://open.spotify.com/album/6awipOL8UJeNEQyvyggGqg) | 5:09 |
 | 75 | [Trên Dòng Sông Nhỏ](https://open.spotify.com/track/7dhaxUr0uDCGjgRm9qZSeu) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thà Giết Người Yêu](https://open.spotify.com/album/6sGNU2iucs0IhCUz6LA7NC) | 5:40 |
 
-Snapshot ID: `ZlQ/rQAAAACAJvKQSnF9SyN++bR77S1e`
+Snapshot ID: `Zl+qgAAAAADk+LL/p62qZyzn05C0zYcE`

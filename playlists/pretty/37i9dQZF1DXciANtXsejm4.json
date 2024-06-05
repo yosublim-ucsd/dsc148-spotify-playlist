@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 245245,
+  "num_followers": 245336,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Y Hoy Volvimos A Vernos",
+        "url": "https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc"
+      },
+      "artists": [
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        },
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 203812,
+      "name": "Y Hoy Volvimos A Vernos",
+      "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "La Segunda del Hombre del Acorde\u00f3n",
         "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 260566,
       "name": "La Segunda del Hombre del Acorde\u00f3n",
       "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Y Hoy Volvimos A Vernos",
-        "url": "https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc"
-      },
-      "artists": [
-        {
-          "name": "Nico Mattioli",
-          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
-        },
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
-        }
-      ],
-      "duration_ms": 203812,
-      "name": "Y Hoy Volvimos A Vernos",
-      "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Que Ves",
-        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
+        "name": "Tropi Feats",
+        "url": "https://open.spotify.com/album/7hKApke1KBIFq0neCSVPGk"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 243456,
-      "name": "Que Ves",
-      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
+      "duration_ms": 263836,
+      "name": "No Puedo Olvidarla",
+      "url": "https://open.spotify.com/track/0UMJUEcsyYcFWOH6ojKnM9"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Tropi Feats",
-        "url": "https://open.spotify.com/album/7hKApke1KBIFq0neCSVPGk"
+        "name": "Que Ves",
+        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 263836,
-      "name": "No Puedo Olvidarla",
-      "url": "https://open.spotify.com/track/0UMJUEcsyYcFWOH6ojKnM9"
+      "duration_ms": 243456,
+      "name": "Que Ves",
+      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
     },
     {
       "added_at": "2024-05-24 03:00:00",

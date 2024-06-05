@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 ### [This Is Harold Melvin & The Blue Notes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mDwdN)
 
-> This is Harold Melvin & The Blue Notes\. Todos os maiores hits em uma só playlist.
+> This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,433 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,437 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [Today's your lucky day \(Dub Mix\)](https://open.spotify.com/track/3fvNcuaznCd9wWQQfxJ3Ua) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Instrumental Dubs \#2](https://open.spotify.com/album/4lj9UmaHuc6xQCE3nXZ4Jp) | 7:07 |
 | 50 | [Pucker Your Lips \- Outtake](https://open.spotify.com/track/4x9I7jwgaUnY2OU1uZWo7T) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:34 |
 
-Snapshot ID: `Zlu2AAAAAAD0Lr8BXGCFZZ9tM0M1Yt/n`
+Snapshot ID: `Zlu2AAAAAADz9MO+AREnRdu286Yizz3x`

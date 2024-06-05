@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jhnovr\(존오버\)\)
 
-342 songs - 18 hr 58 min
+343 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100th](https://open.spotify.com/track/3gjAdooisgtbRWjte2k80t) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [100th](https://open.spotify.com/album/7thXuFWxXkNrYx6jL0RIPX) | 4:13 | 2023-12-18 | 2024-04-19 |
 | [12:30 AM \(Feat\. CHEEZE\)](https://open.spotify.com/track/68aR2iFKyhVbPzUHeFkXC6) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Open Ending](https://open.spotify.com/album/04kK84kVwcaCsgbWApQq3N) | 3:57 | 2022-05-28 | 2022-06-10 |
 | [17](https://open.spotify.com/track/14MlkpwxVaIgzezt6Yi7Q3) | [CRYBABY](https://open.spotify.com/artist/5L0fM0LEXIPjky4i5FMTcd) | [17](https://open.spotify.com/album/52WFtZNiJmDRxWHzEYYYnP) | 2:59 | 2023-07-07 | 2023-10-17 |
+| [1993](https://open.spotify.com/track/5OFXhFNNw608Y64izmaNcj) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/1ivOqUQNxIf2HD7oBFCv3K) | 4:41 | 2024-06-04 |  |
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-05-27 |  |
 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-06 |  |
 | [4EVeR](https://open.spotify.com/track/4Tiqs5kuuUIh8iJ1cvxwJQ) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 4:02 | 2022-05-28 | 2022-06-10 |

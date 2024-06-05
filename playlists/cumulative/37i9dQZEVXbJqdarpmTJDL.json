@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 171210,
       "name": "0-100",
       "url": "https://open.spotify.com/track/6m3x4gOuiAqUpCkkx29bmR"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 128181,
       "name": "90s",
       "url": "https://open.spotify.com/track/2qAJyZWRAijMBbmy7kLBml"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 117791,
       "name": "Balkania",
       "url": "https://open.spotify.com/track/6DTlnQA2AodqtvoQJphgYZ"
@@ -13893,6 +13893,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -16408,7 +16426,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 230395,
       "name": "Klise",
       "url": "https://open.spotify.com/track/7ye8dNdcqIH99XNYobyX3I"
@@ -17008,7 +17026,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 208111,
       "name": "KSIRASIA",
       "url": "https://open.spotify.com/track/6y5Nb8Op1TgWCJk1yxeFG8"
@@ -24095,6 +24113,24 @@
     },
     {
       "album": {
+        "name": "Opinion",
+        "url": "https://open.spotify.com/album/2Rs7JqNGweIoPMgmf5zxdW"
+      },
+      "artists": [
+        {
+          "name": "Dahvi",
+          "url": "https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Opinion",
+      "url": "https://open.spotify.com/track/6UtL7HGXA6k5RHBD7kgITn"
+    },
+    {
+      "album": {
         "name": "OPLO",
         "url": "https://open.spotify.com/album/4UH5r8a4WyhAPRJgXl7cEh"
       },
@@ -29398,7 +29434,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"

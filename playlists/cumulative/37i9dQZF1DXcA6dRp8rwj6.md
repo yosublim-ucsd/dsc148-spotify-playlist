@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DABOYWAY\)
 
-2,046 songs - 4 day 7 hr 50 min
+2,047 songs - 4 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1916,6 +1916,7 @@
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-01-27 | 2022-03-04 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-02 | 2022-07-15 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 | 2022-01-20 | 2022-01-28 |
+| [Wanna Be \(with Megan Thee Stallion & Cardi B\) \- Remix](https://open.spotify.com/track/2WaOQ9TCXEpoAMVzT9GUJt) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \[Remix\]](https://open.spotify.com/album/49cRdNg9oX8XyiIVe45BK3) | 3:44 | 2024-06-04 |  |
 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 | 2024-04-11 |  |
 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 | 2024-01-25 | 2024-04-12 |
 | [Wannabe](https://open.spotify.com/track/0ROR97a9Q9SeEkDCON5fmd) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [Wannabe](https://open.spotify.com/album/59ArA4migkYQtlzAvKE7aM) | 3:11 | 2024-02-01 | 2024-03-01 |
@@ -1941,7 +1942,7 @@
 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 | 2024-04-12 | 2024-05-17 |
 | [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 | 2024-03-08 | 2024-05-10 |
 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 | 2022-02-10 | 2022-03-11 |
-| [Weird](https://open.spotify.com/track/3kwIDHpAZaukc6mstY8V9i) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Weird](https://open.spotify.com/album/2F7Dr30u7LbMsnQxtqghj4) | 2:29 | 2024-05-24 |  |
+| [WEIRD](https://open.spotify.com/track/3kwIDHpAZaukc6mstY8V9i) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [WEIRD](https://open.spotify.com/album/2F7Dr30u7LbMsnQxtqghj4) | 2:29 | 2024-05-24 |  |
 | [West Coast](https://open.spotify.com/track/2FZmPZ4JZk4qlCZt20cPAT) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [West Coast](https://open.spotify.com/album/10mdMFxqnTLPcAEMaNUzgr) | 3:02 | 2023-06-01 | 2023-07-07 |
 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 | 2024-04-18 |  |
 | [Wha U Cookin Up](https://open.spotify.com/track/2AkDcq5SLm1bwQGHJFqTjU) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [iAmTrap](https://open.spotify.com/album/3dw1tp54ldzeKlByO6HW6u) | 1:24 | 2023-09-28 | 2023-11-11 |

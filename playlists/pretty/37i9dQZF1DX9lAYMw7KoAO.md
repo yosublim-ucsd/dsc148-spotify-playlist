@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz?si=hZ0DOQA0Qh2kWiUSwFo\-hA">Team Eternity Ghana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,470 likes - 50 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,731 likes - 50 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

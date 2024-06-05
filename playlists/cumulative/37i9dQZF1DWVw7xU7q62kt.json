@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 145272,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/2EFSKB0bUUrfLkirjIKCBg"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 255920,
       "name": "Cap Camarat",
       "url": "https://open.spotify.com/track/4TWtN1Dyc4VpP5pJlpxj0z"
@@ -748,6 +748,28 @@
       "duration_ms": 235463,
       "name": "Divine Timing Is Intuitive",
       "url": "https://open.spotify.com/track/2amzuNCxpoibW6DTUtUk2X"
+    },
+    {
+      "album": {
+        "name": "stealing from cats",
+        "url": "https://open.spotify.com/album/4S8OPIdjL4i4haswpScZwv"
+      },
+      "artists": [
+        {
+          "name": "Farhot",
+          "url": "https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt"
+        },
+        {
+          "name": "Silvan Strauss",
+          "url": "https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "do good, think bad",
+      "url": "https://open.spotify.com/track/1HVNC07lW9XJuOp8HoW3Bg"
     },
     {
       "album": {
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 238706,
       "name": "Fork In The Rhodes",
       "url": "https://open.spotify.com/track/4bnlVHD6HzfiXsSfSR8uWO"
@@ -1989,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/3g9xF6Na7jo3e3QmoaUYrl"
+      },
+      "artists": [
+        {
+          "name": "Tremendous Aron",
+          "url": "https://open.spotify.com/artist/4jsBT3nAKLqkjrxCnPoTi5"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180244,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/3GEofXwdmgFEadz59JngCw"
+    },
+    {
+      "album": {
         "name": "Long Time",
         "url": "https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh"
       },
@@ -2062,6 +2102,24 @@
       "duration_ms": 165606,
       "name": "Machete",
       "url": "https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb"
+    },
+    {
+      "album": {
+        "name": "Mamba Nova",
+        "url": "https://open.spotify.com/album/7uFblvP8914EgohyDVGfcv"
+      },
+      "artists": [
+        {
+          "name": "TWYN",
+          "url": "https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "Mamba Nova",
+      "url": "https://open.spotify.com/track/0BCf4fAcPfqstZ6SwsOWa8"
     },
     {
       "album": {
@@ -2380,7 +2438,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 167710,
       "name": "no, regrets",
       "url": "https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE"
@@ -2571,6 +2629,36 @@
     },
     {
       "album": {
+        "name": "Picadilly",
+        "url": "https://open.spotify.com/album/1aEsXse9pLtnHC0uJ9uONb"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "fl\u00e2neur",
+          "url": "https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx"
+        },
+        {
+          "name": "Beto Braga",
+          "url": "https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h"
+        },
+        {
+          "name": "Raouf",
+          "url": "https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Picadilly",
+      "url": "https://open.spotify.com/track/4GP63RpTwxOCnMq5ZVnKZR"
+    },
+    {
+      "album": {
         "name": "Pinecone (feat. Joe Webb)",
         "url": "https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI"
       },
@@ -2667,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Pour Nael",
+        "url": "https://open.spotify.com/album/3o76poUJDP0TGLe8H3fkm5"
+      },
+      "artists": [
+        {
+          "name": "The Offline",
+          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173180,
+      "name": "Pour Nael",
+      "url": "https://open.spotify.com/track/2XSXhEyZVnirHzWMFJW8yt"
+    },
+    {
+      "album": {
         "name": "Remote Frontiers",
         "url": "https://open.spotify.com/album/2zyYuvpthRJLXQEqGWgNiP"
       },
@@ -2718,6 +2824,28 @@
       "duration_ms": 162000,
       "name": "Remote Planet",
       "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
+    },
+    {
+      "album": {
+        "name": "Repose",
+        "url": "https://open.spotify.com/album/76aywp7ONaQDLJjPLzDcl5"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "JazzyHan",
+          "url": "https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Repose",
+      "url": "https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf"
     },
     {
       "album": {
@@ -2830,7 +2958,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru"
@@ -2874,6 +3002,24 @@
       "duration_ms": 137666,
       "name": "Sista Dansen",
       "url": "https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw"
     },
     {
       "album": {
@@ -3088,7 +3234,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 181289,
       "name": "Sunflowers - Instrumental",
       "url": "https://open.spotify.com/track/0Spn2gcB1w7RYrrvauzZCY"
@@ -3400,7 +3546,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 269988,
       "name": "The Elephant in the Room",
       "url": "https://open.spotify.com/track/3KZkUgDEdCX5RGFYGDN962"

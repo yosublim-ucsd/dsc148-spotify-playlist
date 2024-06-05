@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,957 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,956 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 71 | [真夏のダイヤ](https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG) | [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw), [萩原雪歩 \(CV.浅倉杏美\)](https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh), [Kotoha Tanaka \(CV: Risa Taneda\)](https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr), [双海真美 \(CV.下田麻美\)](https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN) | 3:51 |
 | 72 | [Melty Fantasia](https://open.spotify.com/track/1bxWvoS6ILmvh0BWZ8atgV) | [真壁瑞希 \(CV.阿部里果\)](https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg), [白石 紬 \(CV.南 早紀\)](https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI), [北沢志保 \(CV.雨宮 天\)](https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0) | [THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape](https://open.spotify.com/album/6Gy0t8MgPIC4GMZcYX3hIa) | 4:23 |
 | 73 | [餞の鳥](https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb) | [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH) | [THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal](https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17) | 5:00 |
-| 74 | [Cherry Colored Love](https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj) | [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F), [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw) | [THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry](https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w) | 4:00 |
-| 75 | [Decided](https://open.spotify.com/track/5T10KXbxd6sQ4XuhKvVUBg) | [徳川まつり \(CV.諏訪彩花\)](https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk), [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F) | [THE IDOLM@STER LIVE THE@TER DREAMERS 03](https://open.spotify.com/album/2DmRzqg7VMWUbVjNzLrHt0) | 5:04 |
+| 74 | [LOVE is GAME](https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ) | [天空橋朋花 \(CV.小岩井ことり\)](https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU), [高槻やよい \(CV.仁後真耶子\)](https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb), [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [七尾百合子 \(CV.伊藤美来\)](https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 4:08 |
+| 75 | [Cherry Colored Love](https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj) | [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F), [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw) | [THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry](https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w) | 4:00 |
 
 Snapshot ID: `ZUp/zAAAAAA1qVOIAbr8LeBNsbuB93PP`

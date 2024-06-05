@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is Tassia Reis\. Todos os maiores hits em uma só playlist.
+> This is Tassia Reis\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,861 likes - 50 songs - 3 hr 9 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/track/3u6OOhrZrvw4PpaWx6zay7) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/album/2YUHNOYFpodTVzABOySL8U) | 3:57 |
 | 50 | [Preta](https://open.spotify.com/track/3UfzovrAYda3M8mL3CpGoN) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Selva](https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5) | 3:35 |
 
-Snapshot ID: `Zlu2AAAAAADCz62poUhsbp3HFzO5Flic`
+Snapshot ID: `Zlu2AAAAAAD2vsIiBPGDpralHa1ZvKC1`

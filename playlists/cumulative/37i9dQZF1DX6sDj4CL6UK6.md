@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Dhee
 
-303 songs - 17 hr 25 min
+304 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Imposter](https://open.spotify.com/track/5FNT87UIyz9TehAbTpAdUW) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Imposter](https://open.spotify.com/album/3SIczDLy4INHEsorycPJD1) | 3:28 | 2022-03-25 | 2023-01-13 |
 | [In Denial](https://open.spotify.com/track/5edvBrslsD6xcBK3fWnQ75) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [roradoll](https://open.spotify.com/artist/3C56MZWRI4I9xzg2wp4Zn1), [Ishita Singh](https://open.spotify.com/artist/1hdsXhKriey9WLVnh4iNDO) | [In Denial](https://open.spotify.com/album/7AxIG2v1FOuaZX0L08D3H4) | 3:09 | 2022-06-29 | 2023-01-13 |
 | [In My Zone](https://open.spotify.com/track/51JtkaZ5scmC6VH4PIZNQ1) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [In My Zone](https://open.spotify.com/album/5u5UQEwrlo0XtEYYO93bEP) | 2:45 | 2023-01-10 | 2023-01-18 |
-| [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-18 |  |
+| [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-18 | 2024-06-05 |
 | [Inside Out](https://open.spotify.com/track/7LIAu8r9Zv92LF8ZpKq5Zn) | [Thermal And A Quarter](https://open.spotify.com/artist/6lF7uyAQEbDrnFNAXyyQQ6) | [Inside Out](https://open.spotify.com/album/414ncNsZZbp83LU3VtH8n2) | 5:46 | 2022-03-25 | 2023-01-13 |
 | [Into the Woods](https://open.spotify.com/track/6tS5yFBtVzDEAsbgk4DONu) | [Prashanth Techno](https://open.spotify.com/artist/4JFVZaGeqeKsZTec9xdUwc), [Aashaaa](https://open.spotify.com/artist/5JSviKyDNcTH0oLphFrpVx) | [Into the Woods](https://open.spotify.com/album/3jwR7GNB7jLzHO18nVAzdu) | 3:59 | 2022-03-25 | 2023-01-13 |
 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 | 2023-12-15 | 2024-04-19 |
@@ -157,6 +157,7 @@
 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 | 2022-09-20 |  |
 | [Just for Once](https://open.spotify.com/track/5lxuSTeGvW0d6xoNarXFLP) | [Yohan Marshall](https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Just for Once](https://open.spotify.com/album/4wyHX8oGBIZpe4PXHeGyW4) | 3:04 | 2024-05-10 |  |
 | [Keep](https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [Keep \- Single](https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5) | 2:24 | 2022-03-25 | 2023-05-24 |
+| [Khoj \- Nature Tapes](https://open.spotify.com/track/61v7XhUdOsWktQZmkkSxxA) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nature Tapes, Vol\. 1](https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA) | 3:33 | 2024-05-31 |  |
 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 | 2023-05-19 |  |
 | [L.O.M.L.](https://open.spotify.com/track/7MQelLtQ66g9YiR3fbbCT8) | [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [L.O.M.L.](https://open.spotify.com/album/1NvBy15OHNgf2z7RcF2PH0) | 3:24 | 2023-01-31 | 2023-05-20 |
 | [Lemonade](https://open.spotify.com/track/29YHCfHLkqLLWcf8GhPnA0) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Mood](https://open.spotify.com/album/1KKnwcyHAvHuNkQebSgkxN) | 2:49 | 2022-03-25 | 2022-06-21 |

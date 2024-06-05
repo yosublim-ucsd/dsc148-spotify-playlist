@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Glória Groove, Luisa Sonza com Kayblack, Ana Castela e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,344 likes - 71 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,400 likes - 71 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 54 | [Recomeço](https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Recomeço](https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw) | 2:41 |
 | 55 | [Acústico Altamira \#31 \- Deixa fluir](https://open.spotify.com/track/7GexinQnF0l90dMl3FWVOH) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL), [Éffe](https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW), [Martin](https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo), [PH Original](https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1), [Malibbre](https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Acústico Altamira \#31 \- Deixa fluir](https://open.spotify.com/album/0TcKIQwlSzvPDfKK2geeLq) | 5:36 |
 | 56 | [Cruela](https://open.spotify.com/track/4AITeh5CeeMCSH0s7nEaTD) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Cruela](https://open.spotify.com/album/5ro8QQu1iEdrx1vx8Dme9m) | 3:08 |
-| 57 | [Brasil de Quem? 7](https://open.spotify.com/track/2UeLa5dUZeNOysVJMi97j6) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Brasil de Quem? 7](https://open.spotify.com/album/6N2yPmWP91o6EiZU7rPkI7) | 3:39 |
+| 57 | [Brasil de Quem? 7](https://open.spotify.com/track/2UeLa5dUZeNOysVJMi97j6) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Brasil de Quem? 7](https://open.spotify.com/album/6N2yPmWP91o6EiZU7rPkI7) | 3:39 |
 | 58 | [Abaixo do Radar](https://open.spotify.com/track/3avSwfBE4PjSLBMUGQ0jXi) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [As Incríveis Histórias De: Underground Superhero Vs o Terrível Ladrão de Loops \(Deluxe\)](https://open.spotify.com/album/3yZh6sqDa0RQzQgwciIhZa) | 3:01 |
 | 59 | [Carolina](https://open.spotify.com/track/4QDvm5ELYUTPXEDQpMQkGS) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4) | [Carolina](https://open.spotify.com/album/0xxoQzJK8XEpWJFukN7J9E) | 2:50 |
 | 60 | [Quero Você](https://open.spotify.com/track/7uIGrpgSSBogKlUT6KtmEs) | [Dani Black](https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa) | [o \- Uma cidade chamada eu mesmo \(Parte 1\)](https://open.spotify.com/album/7qkQQ9OiQKuOZJm3IRtW14) | 3:02 |

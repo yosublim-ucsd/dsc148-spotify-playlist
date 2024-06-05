@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 ### [This Is Maverick City Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3186ek)
 
-> This is Maverick City Music\. The essential tracks, all in one playlist.
+> This Is Maverick City Music\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,664 likes - 51 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,727 likes - 51 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 50 | [Simple Adoración \(feat\. Laila Olivera & Johnny Peña\)](https://open.spotify.com/track/0wYot44AfBl47H4dHb9CIF) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 7:44 |
 | 51 | [Conmigo \(feat\. Nate Diaz & Amanda Camille\)](https://open.spotify.com/track/6Ikao91sXHsljCRhkSX20j) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Amanda Camille](https://open.spotify.com/artist/6HGQmlvyrjFK2ZWuSK2YIR) | [Como En El Cielo](https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD) | 5:44 |
 
-Snapshot ID: `Zlu2AAAAAACWnA9DUp37Ejp4eLLNWEuH`
+Snapshot ID: `Zlu2AAAAAABrDq03ptsC7God/iuNcieK`

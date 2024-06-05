@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Destin Laurel, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,557 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,593 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 10 | [Moments](https://open.spotify.com/track/5ZA9IFvOTvAhAhyTIlZ6ML) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Moments](https://open.spotify.com/album/2OxY7YomhRLZKtKGkm6Fv3) | 3:22 |
 | 11 | [Blue](https://open.spotify.com/track/2IqYU1eI7Imk0Kda8rsLZo) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Blue](https://open.spotify.com/album/2cPHGbZ6MXr8jpTHvya4Kj) | 3:05 |
 | 12 | [ICE COLD](https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev) | [Opal OD](https://open.spotify.com/artist/6t9ljQX4QGp8kwH7llR2dw) | [ICE COLD](https://open.spotify.com/album/0kY11UduFEWltlwEzsAov1) | 2:27 |
-| 13 | [Not Enough](https://open.spotify.com/track/44PPbu0DDuc07cnLqjTCvi) | [Betty](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [Not Enough](https://open.spotify.com/album/0xSI4wYud47f2tIKevg9hE) | 2:11 |
+| 13 | [Not Enough](https://open.spotify.com/track/44PPbu0DDuc07cnLqjTCvi) | [Betty\-Belle Thornton](https://open.spotify.com/artist/22sxLD2Y5gUo0ZQzC3KvVn) | [Not Enough](https://open.spotify.com/album/0xSI4wYud47f2tIKevg9hE) | 2:11 |
 | 14 | [Heart Attack](https://open.spotify.com/track/19bn7jpHDdodhzOjSzVWAA) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [Heart Attack](https://open.spotify.com/album/0PCFZMHN4iukApE6nYMraK) | 2:30 |
 | 15 | [Like You Used To](https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Like You Used To](https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR) | 3:50 |
 | 16 | [Pink Chalk](https://open.spotify.com/track/7Ln02AvwrOUal5QYvAZBSg) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [BLOODY](https://open.spotify.com/album/3klnJAeDk9wozwILY0QGoD) | 3:15 |

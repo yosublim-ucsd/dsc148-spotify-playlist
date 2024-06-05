@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 223826,
       "name": "Because I Don't Love You",
       "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
@@ -3142,6 +3142,24 @@
       "duration_ms": 189733,
       "name": "CHECKLIST",
       "url": "https://open.spotify.com/track/4Qs0LHbUWwhHFQ7iflUfht"
+    },
+    {
+      "album": {
+        "name": "Cherry Pink",
+        "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Cherry Pink",
+      "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
     },
     {
       "album": {
@@ -4908,7 +4926,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 188600,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/3rBmDJ7EQrVS44X9zbG2Ga"
@@ -4926,10 +4944,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "album": {
+        "name": "My Love From the Star Part 7",
+        "url": "https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243323,
+      "name": "Every moment of you",
+      "url": "https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC"
     },
     {
       "album": {
@@ -5522,7 +5558,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 198280,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
@@ -5828,7 +5864,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 241586,
       "name": "Fox Rain (The Moon during the Day)",
       "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
@@ -5922,6 +5958,24 @@
       "duration_ms": 216000,
       "name": "Glad You Are Here",
       "url": "https://open.spotify.com/track/1ORdIan1D6FPfw5PpUC1fV"
+    },
+    {
+      "album": {
+        "name": "Glowing Light",
+        "url": "https://open.spotify.com/album/6TSD70PyuuHYCr59KUw3ex"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246002,
+      "name": "Glowing Light",
+      "url": "https://open.spotify.com/track/5lxFv9Aig7R0OZDKbHd0Zb"
     },
     {
       "album": {
@@ -6446,7 +6500,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 257026,
       "name": "Heart",
       "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
@@ -7492,7 +7546,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 248221,
       "name": "I Just Need To Love You More",
       "url": "https://open.spotify.com/track/28Ro8YyELHcEuGHCE9iTEE"
@@ -7768,7 +7822,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 227186,
       "name": "I miss you",
       "url": "https://open.spotify.com/track/0RaZgatkZBbFxWnQ4BL25e"
@@ -8660,6 +8714,24 @@
       "duration_ms": 223973,
       "name": "If i go back",
       "url": "https://open.spotify.com/track/7BLVD2Xu7AvAgxzdH5tLG6"
+    },
+    {
+      "album": {
+        "name": "If I have you only (My love X Nerd Connection)",
+        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250573,
+      "name": "If I have you only (My love X Nerd Connection)",
+      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
       "album": {
@@ -10650,7 +10722,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 216906,
       "name": "Lingering",
       "url": "https://open.spotify.com/track/0rubDl8akBZ3qP5CWDmmV9"
@@ -11620,6 +11692,24 @@
       "duration_ms": 225826,
       "name": "Love..What is it",
       "url": "https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c"
+    },
+    {
+      "album": {
+        "name": "I Live and Mourn, Thus Resketch You",
+        "url": "https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "Lovelorn",
+      "url": "https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g"
     },
     {
       "album": {
@@ -14973,6 +15063,24 @@
     },
     {
       "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/0hKzdrns5SkzuqV1ALfkZj"
+      },
+      "artists": [
+        {
+          "name": "Saebit",
+          "url": "https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247945,
+      "name": "RETURN",
+      "url": "https://open.spotify.com/track/2LBE64f36ImF4tjAWM9dSD"
+    },
+    {
+      "album": {
         "name": "Rhapsody of Sadness",
         "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
       },
@@ -15746,7 +15854,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 207200,
       "name": "Snow Blanket",
       "url": "https://open.spotify.com/track/6TOJpU7DiZnzzncC0OCMQG"
@@ -17350,7 +17458,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 242266,
       "name": "That Love",
       "url": "https://open.spotify.com/track/1WKYIezT02zuM0hlf2s2ve"
@@ -17700,7 +17808,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 217226,
       "name": "the different way",
       "url": "https://open.spotify.com/track/4DWbNWDPmwahzwPtQN2Dtz"
@@ -17960,7 +18068,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 250440,
       "name": "The Moment You Arrive",
       "url": "https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo"
@@ -18618,7 +18726,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 232022,
       "name": "This night",
       "url": "https://open.spotify.com/track/1q2S2sHR7dPTUq27eBh6dk"

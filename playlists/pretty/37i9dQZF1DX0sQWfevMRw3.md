@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > SHA\-LA\-LA\-LALA\-LA\-LA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,765 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,818 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 8 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 |
 | 9 | [Vill du ligga med mig?](https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Vill du ligga med mig?](https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3) | 2:22 |
 | 10 | [Greta Thunberg](https://open.spotify.com/track/4mskXDDAZA0C7p03mPZ5UD) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Greta Thunberg](https://open.spotify.com/album/0gDJyg276NTvKVm1LR6Yqe) | 2:54 |
-| 11 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
+| 11 | [Om du var min Feat\. EMMY](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min Feat\. EMMY](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
 | 12 | [Ayia Napa 2024](https://open.spotify.com/track/58vENLCxezWIAANBgyjEsG) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ayia Napa 2024](https://open.spotify.com/album/6VjOZApRj8SshfhTx82HYQ) | 2:04 |
 | 13 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
 | 14 | [Funny Bunny](https://open.spotify.com/track/17dij4IVZTlTOC0eHpBgOG) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [Funny Bunny](https://open.spotify.com/album/47MgVTqk5A46PCrF4TWacU) | 2:24 |

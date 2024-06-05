@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-925 songs - 2 day 15 hr 20 min
+926 songs - 2 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Cold Stones \- James Holden Remix](https://open.spotify.com/track/70WlQKVZ69JRYMmwCLyav7) | [XAM Duo](https://open.spotify.com/artist/4gkMjhOHSgudaN161imvTQ), [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Cold Stones \(James Holden Remix\)](https://open.spotify.com/album/451e5h6dw72kPMmAGzhH7h) | 11:23 | 2022-09-28 | 2022-10-27 |
 | [Colour Film](https://open.spotify.com/track/1gjuzva1eaMj9nS8mldgmz) | [Joyeria](https://open.spotify.com/artist/4mECc7MwRyuIDdZdXRi5SB) | [Colour Film](https://open.spotify.com/album/4GjmRobInDP4UY65ZOZHI8) | 3:29 | 2022-08-10 | 2022-09-22 |
 | [Colour Film](https://open.spotify.com/track/408Oa7QcbMemnKRH0nqdI9) | [Joyeria](https://open.spotify.com/artist/4mECc7MwRyuIDdZdXRi5SB) | [FIM](https://open.spotify.com/album/4loc7PLJawnWniKqzVts2u) | 3:29 | 2023-01-11 | 2023-02-16 |
+| [COMBAT](https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [COMBAT](https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o) | 4:16 | 2024-06-04 |  |
 | [Come On Baby, Dig!](https://open.spotify.com/track/1cH5V204hnjVfsfJgUJP8B) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Come On Baby, Dig!](https://open.spotify.com/album/7j9nknHlYjFovpiEBXKPla) | 2:49 | 2024-01-31 | 2024-03-21 |
 | [Common Sense](https://open.spotify.com/track/5eRfgHQJUBNO3jhyUieVaA) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [Common Sense](https://open.spotify.com/album/4ubVGpApB6SfHToZDKA05D) | 3:48 | 2022-09-28 | 2022-11-03 |
 | [Con o Sin](https://open.spotify.com/track/1hwnfkrdQEv6p34kaoHSvH) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Resort Island](https://open.spotify.com/album/5Wo4dlvUMAsTVLL86Ud3iA) | 5:39 | 2023-07-05 | 2023-08-10 |

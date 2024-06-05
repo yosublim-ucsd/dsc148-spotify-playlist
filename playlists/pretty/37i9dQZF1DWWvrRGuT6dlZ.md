@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: karan\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,463 likes - 108 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,462 likes - 108 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 6 | [Changes](https://open.spotify.com/track/7lxCtY8sTOlnKvLkt3WDWN) | [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7), [Austin Shugart](https://open.spotify.com/artist/5nRhk1m3BqVpgN9QHupSfQ) | [Changes](https://open.spotify.com/album/2DrvlXXvffBHZku6hdzOtN) | 2:07 |
 | 7 | [Pass You By](https://open.spotify.com/track/68XnEmf2imK8r2yFOoV0UH) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Pass You By](https://open.spotify.com/album/50UngKgkmR20TzyxC5TJPv) | 2:43 |
 | 8 | [breathing, just fine](https://open.spotify.com/track/7B624w4xurrqjerVLU7flg) | [carlixe](https://open.spotify.com/artist/2QPm4y6rPTKDW2cFCzeu9P), [Luck chua](https://open.spotify.com/artist/6Yykd9A07URVYaes3f8x5R) | [breathing, just fine](https://open.spotify.com/album/4DrygYDis1BO1qxeCZLqWG) | 3:12 |
-| 9 | [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/track/5g3CxPfRaB0vf8cxGcyzHY) | [Fingerfunk](https://open.spotify.com/artist/3VExmQOtxYaFehYoUFliee), [Fathin Amira](https://open.spotify.com/artist/7lBZLgGlHzkpm2vUtgGjsn) | [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/album/053XZOyjX9h8YIfRwjTAec) | 4:42 |
+| 9 | [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/track/5g3CxPfRaB0vf8cxGcyzHY) | [Fingerfunk](https://open.spotify.com/artist/3VExmQOtxYaFehYoUFliee), [Fathin Amira](https://open.spotify.com/artist/7lBZLgGlHzkpm2vUtgGjsn) | [Gypsy \(feat\. Fathin Amira\)](https://open.spotify.com/album/053XZOyjX9h8YIfRwjTAec) | 3:43 |
 | 10 | [Men Like Flowers Too](https://open.spotify.com/track/3wsCHr8jXkDszpSPcd7i5k) | [Danial Bogers](https://open.spotify.com/artist/0XxGdPB0f99TZN9ddwdrfN) | [Men Like Flowers Too](https://open.spotify.com/album/7HZzuurQw8RcFiRGlx6mDS) | 3:19 |
 | 11 | [GUNFIGHT](https://open.spotify.com/track/3bH5UrS5OEVnnHe4s5mVe7) | [zekke](https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ) | [GUNFIGHT](https://open.spotify.com/album/34w4f03HV5dR2zM3MSbvm5) | 3:10 |
 | 12 | [GD](https://open.spotify.com/track/3O6Wx3cGuFljZLZ7Sch70j) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [GD](https://open.spotify.com/album/6nKqkVw5u94HKRx4Navbww) | 3:06 |

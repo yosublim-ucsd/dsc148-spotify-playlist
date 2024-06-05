@@ -7348,7 +7348,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 205281,
       "name": "Lucky Ones",
       "url": "https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0"
@@ -7592,6 +7592,32 @@
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/7GVWcY59uFRkHjs5AVE6TA"
+      },
+      "artists": [
+        {
+          "name": "Alex Kade",
+          "url": "https://open.spotify.com/artist/0ZVKohB1rQOFAoKFCB7fLy"
+        },
+        {
+          "name": "Hashon",
+          "url": "https://open.spotify.com/artist/1OCd4OxUD3RZU87JYYbChE"
+        },
+        {
+          "name": "Mikara",
+          "url": "https://open.spotify.com/artist/0xywk5eoWl9ILoCDhteAX3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/20ePZuhPTGozzBTkPH1fKv"
     },
     {
       "album": {

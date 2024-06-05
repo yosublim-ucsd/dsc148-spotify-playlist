@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 ### [This Is Tyga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oLcOc)
 
-> This Is Tyga\. Los temas esenciales, todos en una lista.
+> This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,487 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,522 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ) | 2:17 |
 | 50 | [Skechers \(feat\. Tyga\) \- Remix](https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Skechers \(feat\. Tyga\) \[Remix\]](https://open.spotify.com/album/4y9V5m70YgbZTYNZBsiXBM) | 2:43 |
 
-Snapshot ID: `Zlu2AAAAAAB16FUlTXHsJs3e3JEPar5O`
+Snapshot ID: `Zlu2AAAAAADiTlWDBkUZIFDqbPnxF7k8`

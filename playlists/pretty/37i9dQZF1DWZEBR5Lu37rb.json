@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 62393,
+  "num_followers": 62496,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Sunday Blues",
+        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "duration_ms": 225382,
+      "name": "Sunday Blues",
+      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Broken Lipstick",
         "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 313714,
       "name": "I Do (feat. Amanda Black)",
       "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Sunday Blues",
-        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
-      },
-      "artists": [
-        {
-          "name": "Langa Mavuso",
-          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
-        }
-      ],
-      "duration_ms": 225382,
-      "name": "Sunday Blues",
-      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Ebusuku",
+        "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
+      },
+      "artists": [
+        {
+          "name": "Th&o.",
+          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
+        }
+      ],
+      "duration_ms": 221819,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 191893,
       "name": "Number One",
       "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Ebusuku",
-        "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
-      },
-      "artists": [
-        {
-          "name": "Th&o.",
-          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
-        }
-      ],
-      "duration_ms": 221819,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno music | Submit via Instagram: @subshiftmusic",
-  "num_followers": 10493,
+  "num_followers": 10501,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAiN96WHIu2DHpw7SuJotSx13JzMKfa",
+  "snapshot_id": "AAAiPZ21UXPcRlYqSourFS7RKisNUc2d",
   "tracks": [
     {
       "added_at": "2024-05-28 09:55:08",
@@ -85,6 +85,26 @@
       "url": "https://open.spotify.com/track/6Jxua6Khy8ULDUl1kk6g4o"
     },
     {
+      "added_at": "2024-06-04 14:09:42",
+      "album": {
+        "name": "Knee Deep - EP",
+        "url": "https://open.spotify.com/album/4ak8u7RaMqdIWXb1EyV1Js"
+      },
+      "artists": [
+        {
+          "name": "Freshcobar",
+          "url": "https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd"
+        },
+        {
+          "name": "Lavelle Dupree",
+          "url": "https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Knee Deep",
+      "url": "https://open.spotify.com/track/3dnnLLWLPPXishJRCTOQ2t"
+    },
+    {
       "added_at": "2024-05-02 23:05:12",
       "album": {
         "name": "Lights Out",
@@ -135,6 +155,26 @@
       "duration_ms": 191686,
       "name": "Flex Like Ouu",
       "url": "https://open.spotify.com/track/23yALQrKmnMBrr0IgXD7za"
+    },
+    {
+      "added_at": "2024-06-04 14:09:39",
+      "album": {
+        "name": "Knee Deep - EP",
+        "url": "https://open.spotify.com/album/4ak8u7RaMqdIWXb1EyV1Js"
+      },
+      "artists": [
+        {
+          "name": "Freshcobar",
+          "url": "https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd"
+        },
+        {
+          "name": "Lavelle Dupree",
+          "url": "https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m"
+        }
+      ],
+      "duration_ms": 224955,
+      "name": "Minimal Jack",
+      "url": "https://open.spotify.com/track/36gE53mNBFmVGoyFaMUybj"
     },
     {
       "added_at": "2024-05-20 12:05:22",

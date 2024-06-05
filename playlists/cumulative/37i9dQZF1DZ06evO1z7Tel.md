@@ -2,7 +2,7 @@
 
 ### [This Is Carlos Y Jose](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z7Tel)
 
-> This is Carlos Y Jose\. The essential tracks, all in one playlist.
+> This is Carlos Y Jose\. Todos os maiores hits em uma só playlist.
 
 86 songs - 4 hr 17 min
 

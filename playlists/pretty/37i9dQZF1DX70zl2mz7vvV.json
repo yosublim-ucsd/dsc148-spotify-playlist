@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 52821,
+  "num_followers": 52860,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz"
-      },
-      "artists": [
-        {
-          "name": "Cocoa Tea",
-          "url": "https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Together We Stand",
         "url": "https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK"
       },
@@ -751,22 +731,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Jah Love",
-        "url": "https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz"
       },
       "artists": [
         {
-          "name": "Yami Bolo",
-          "url": "https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o"
+          "name": "Cocoa Tea",
+          "url": "https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R"
         },
         {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
         }
       ],
-      "duration_ms": 241333,
-      "name": "Put Down The Weapon (feat. Capleton)",
-      "url": "https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl"
+      "duration_ms": 227933,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -787,6 +767,26 @@
       "duration_ms": 219013,
       "name": "Trueversation (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Jah Love",
+        "url": "https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG"
+      },
+      "artists": [
+        {
+          "name": "Yami Bolo",
+          "url": "https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Put Down The Weapon (feat. Capleton)",
+      "url": "https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl"
     },
     {
       "added_at": "2020-10-19 09:02:25",

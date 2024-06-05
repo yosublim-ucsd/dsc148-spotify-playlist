@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
+> This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,013 likes - 51 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,014 likes - 51 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 50 | [Charm \(Over "Burundi Cloud"\)](https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 21:30 |
 | 51 | [Paris I](https://open.spotify.com/track/4aEYTBCoBR8j2rqoMDsM30) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [J.A\. Deane](https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [The Surgeon of the Nightsky Restores Dead Things by the Power of Sound](https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF) | 5:48 |
 
-Snapshot ID: `Zlu2AAAAAADLLx+yh+e3AEUnx2xpOIZE`
+Snapshot ID: `Zlu2AAAAAADXs+Y0CP8xd1UM5DKLVw0j`

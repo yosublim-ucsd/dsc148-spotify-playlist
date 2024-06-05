@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This Is JJ Hairston\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,614 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,615 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [The Blood](https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:12 |
 | 50 | [This is the Lord's Doing \(feat\. Crystal Aiken, Kevin Lemons & Higher Calling\)](https://open.spotify.com/track/1YHeESYShbCZxmqqdY8apS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf), [Kevin Lemons & Higher Calling](https://open.spotify.com/artist/6n86jr80ui4KY5OMTyWVUg) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 6:03 |
 
-Snapshot ID: `Zlu2AAAAAABFLq7L4sgtxKyRPKpjSOd+`
+Snapshot ID: `Zlu2AAAAAABiNIqiMIjh4UUaJIFFUy+g`

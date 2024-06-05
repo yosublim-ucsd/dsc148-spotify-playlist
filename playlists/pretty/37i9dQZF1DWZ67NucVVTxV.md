@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,885 likes - 85 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,909 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 36 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 37 | [Sabi Boy](https://open.spotify.com/track/4VeeFeu0B2ZkxsG2dRnNrf) | [Lyta](https://open.spotify.com/artist/2puySLEjl3BYcfWeHUWM9Q) | [Sabi Boy](https://open.spotify.com/album/7o557nIfzSZ8SkFQ8AS5n9) | 2:14 |
 | 38 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 |
-| 39 | [Hustle](https://open.spotify.com/track/2UncVKaFzAm329BmcAhuFl) | [Maxee](https://open.spotify.com/artist/3ysIdQeVG4Gt8Vw6z00Wfj) | [Hustle & Kowoshatipe](https://open.spotify.com/album/6nJb1sTog0EFLWksreSh9M) | 2:36 |
+| 39 | [Hustle](https://open.spotify.com/track/2UncVKaFzAm329BmcAhuFl) | [Maxee](https://open.spotify.com/artist/3ysIdQeVG4Gt8Vw6z00Wfj) | [Hustle & Work & Pray](https://open.spotify.com/album/6nJb1sTog0EFLWksreSh9M) | 2:36 |
 | 40 | [Early Momo](https://open.spotify.com/track/5uuc1JYvK2LrVypVPEM78t) | [Elevated](https://open.spotify.com/artist/5CrY5YQGk93PB7K1nNcM0q), [ZIK](https://open.spotify.com/artist/1yALvmHRxEOu3aRW4A2vEk) | [Early Momo](https://open.spotify.com/album/4CjUunXEZvs92wO406Ciyo) | 2:43 |
 | 41 | [Letter To God](https://open.spotify.com/track/2K6cSdiw0en7cOhEdgNeS3) | [Peeray](https://open.spotify.com/artist/0jhGRljC573bV86q5a16oF) | [Letter To God](https://open.spotify.com/album/6ylQMWLbSVSblqGrVWDCvB) | 2:51 |
 | 42 | [Psalm 23](https://open.spotify.com/track/2EkJ4Qr99JOGQYCKbpyxdh) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Psalm 23](https://open.spotify.com/album/48bDFlqazdDSVr7k4pbT1w) | 2:31 |

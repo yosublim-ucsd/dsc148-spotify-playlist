@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1cSzqU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1cSzqU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1cSzqU)
 
-### [This Is Scorpions](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
+### [This Is スコーピオンズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
 
-> This is Scorpions\. Todos os maiores hits em uma só playlist.
+> This is スコーピオンズ。アーティストの代表曲をひとつのプレイリストに。
 
 85 songs - 6 hr 28 min
 

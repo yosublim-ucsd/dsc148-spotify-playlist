@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Soul Pop City",
+        "url": "https://open.spotify.com/album/1ivOqUQNxIf2HD7oBFCv3K"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281661,
+      "name": "1993",
+      "url": "https://open.spotify.com/track/5OFXhFNNw608Y64izmaNcj"
+    },
+    {
+      "album": {
         "name": "2 Minutes",
         "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
       },

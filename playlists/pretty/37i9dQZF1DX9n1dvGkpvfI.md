@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="spotify:artist:5gznATMVO85ZcLTkE9ULU7">Lenny Kravitz</a> and the songs that shape their alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,704 likes - 32 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,792 likes - 32 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 31 | [Southern Girl](https://open.spotify.com/track/4uC5qREGO0As15g08YCXdX) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Southern Girl](https://open.spotify.com/album/4C5pBubw4PSPJPLNlyQmT8) | 6:51 |
 | 32 | [Jamie's Cryin' \- 2015 Remaster](https://open.spotify.com/track/6MumccCPd4N6qBVdl0gSeM) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:29 |
 
-Snapshot ID: `ZllLQAAAAAB3kUUFqVQwLKTivk4nwqTl`
+Snapshot ID: `Zl9GhQAAAADoQDOmIKpfG1WiMB/1TIgl`

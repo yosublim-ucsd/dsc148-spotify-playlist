@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,763 songs - 1 day 12 hr 28 min
+1,764 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -878,6 +878,7 @@
 | [Light Sky \- Strings Version](https://open.spotify.com/track/6cYjyLd6cUNIOYW6VveBOG) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Light Sky](https://open.spotify.com/album/2iWP1dlviywXYMZbFkc8DC) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Light Soul \- Cello Version](https://open.spotify.com/track/3PnPAs0NM20gLYJAon101C) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soft Cello](https://open.spotify.com/album/2e8LTImP3X4WN7mQBAIRCO) | 1:10 | 2022-01-13 | 2024-02-13 |
 | [Light Years](https://open.spotify.com/track/5mEyyIIj6gSGsRqMN1v7Jw) | [MettaForm](https://open.spotify.com/artist/06gX9DtFjd1muCd2b4qfxq) | [Solar Cooling](https://open.spotify.com/album/5rHfIbbcc4xDiDGkbIfifX) | 3:05 | 2022-01-12 | 2022-12-28 |
+| [Lighten](https://open.spotify.com/track/3Huo1LiZqOLz4bd2Tfbk1r) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Lighten](https://open.spotify.com/album/46nKHIukzxBqFQS5WZIMU8) | 1:00 | 2024-06-04 |  |
 | [Lightly Ringing](https://open.spotify.com/track/4AlyP6alVNMgb5T8JUnPYr) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:02 | 2022-03-18 |  |
 | [Lightness](https://open.spotify.com/track/7GfOZxJAxQyQkBzLnrTCk1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Lightness](https://open.spotify.com/album/3Sp4cmR9KA2hu8RVWwXIlk) | 1:00 | 2024-02-12 |  |
 | [Lightness Appears](https://open.spotify.com/track/5NloHLffvoZluBiGgy6xiq) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:02 | 2022-05-15 |  |

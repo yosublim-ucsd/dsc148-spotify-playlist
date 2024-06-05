@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: bé sau này trở thành diva
+> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Hà Trần
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,755 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,758 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/track/06QKELTP9ofe04C9rpcL0V) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/album/5ATDeLganeKXkR7KETJmfx) | 4:20 |
 | 50 | [Cảm Ơn Vì Đã Không Đợi Em](https://open.spotify.com/track/6pajI4M53hRge5BjYgjXGY) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [Cảm Ơn Vì Đã Không Đợi Em](https://open.spotify.com/album/4OgVXLIXYfmMSVXovSzKlZ) | 3:42 |
 
-Snapshot ID: `Zl2KfQAAAADRmqBCrI4s2TrA5vbUrXq+`
+Snapshot ID: `Zl9IEAAAAAB3qfeeTCBeafle1PzgEwVj`

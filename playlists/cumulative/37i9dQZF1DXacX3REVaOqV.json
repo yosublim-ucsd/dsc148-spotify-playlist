@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0w1IHkAv7qF69rDu0raiDH"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316734,
+      "name": "All Times Disco",
+      "url": "https://open.spotify.com/track/0gc34e2YdDl8fB2bqD4LX2"
+    },
+    {
+      "album": {
         "name": "All We Need (Deep Inside)",
         "url": "https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 257760,
       "name": "Body - Gregor Salto Remix",
       "url": "https://open.spotify.com/track/6HJBwWb1wB1luXYqRifGXc"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 232919,
       "name": "Don't Matter",
       "url": "https://open.spotify.com/track/4HoFpxq4jASORRn0eluKI6"
@@ -5555,6 +5573,28 @@
     },
     {
       "album": {
+        "name": "No Competition",
+        "url": "https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p"
+      },
+      "artists": [
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "Conor Grant",
+          "url": "https://open.spotify.com/artist/6XnqmaX7HOSDoHZYQow9zt"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193258,
+      "name": "No Competition",
+      "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0vxtoBNzecaQcPaq1PySYC"
       },
@@ -7394,7 +7434,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 174435,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
@@ -8208,6 +8248,28 @@
       "duration_ms": 329280,
       "name": "Tondo",
       "url": "https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j"
+    },
+    {
+      "album": {
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/0Hxtes4PBdDwW22sgGf9Z0"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Hotswing",
+          "url": "https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF"
     },
     {
       "album": {

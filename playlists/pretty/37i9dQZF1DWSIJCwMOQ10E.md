@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Fonseca y Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,727 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,731 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 47 | [Travesuras](https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam Hits](https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx) | 3:15 |
 | 48 | [Una Aventura](https://open.spotify.com/track/4WTmcNrXNwJ3Mi0VJhBt2f) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Lo Que Diga el Corazón](https://open.spotify.com/album/68Z5dYqgZXnsNpVgDtiv7f) | 5:43 |
 | 49 | [Las Cuatro Fiestas](https://open.spotify.com/track/6mISZbsWrQ6EMWniWpavvk) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Mi Fiesta Favorita, Vol\. 1](https://open.spotify.com/album/7wWM2cfB37fZ41mASJXscI) | 3:44 |
-| 50 | [Pa' Mayté](https://open.spotify.com/track/72wEtgEkcLQ5x4F4ktiVSH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/4eULyeHcegYFenTA5T0P51) | 3:08 |
+| 50 | [Cachondea](https://open.spotify.com/track/0z1jqSzPEiblIxozrI9Tto) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Power Salsa](https://open.spotify.com/album/6sZTpQ7hYETezmf3qq3p3N) | 4:57 |
 
 Snapshot ID: `Zj3bhQAAAADQc161KOhC6hhRW9eYELRt`

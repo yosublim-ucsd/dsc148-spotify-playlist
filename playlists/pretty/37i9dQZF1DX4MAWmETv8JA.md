@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Delta Species, Middle\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 62 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 62 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

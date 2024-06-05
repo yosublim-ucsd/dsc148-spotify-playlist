@@ -65,7 +65,7 @@
 | [This Is The War](https://open.spotify.com/track/12Y73AQEjYzhQp6lRLzyLq) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [The Art Of War](https://open.spotify.com/album/4BbIEYPPfePNkDKKtsIadJ) | 2:49 | 2014-03-20 |  |
 | [Thrill Is On](https://open.spotify.com/track/3QVdc7bPaAi8bJiiNnIbnP) | [The Scams](https://open.spotify.com/artist/0IFzKoxn4doapN9iDKv9x6) | [Bombs Away](https://open.spotify.com/album/067H4NA6NKvMZ77vS3V1HD) | 5:13 | 2014-03-20 |  |
 | [Whiskey Tango Foxtrot](https://open.spotify.com/track/1PiQOMkPy7uyXNUFqsAzQX) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Riot Avenue](https://open.spotify.com/album/4vcSxuQNjLhQdTzLMRn3C1) | 3:41 | 2014-03-20 |  |
-| [You Are My High](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 | 2014-03-20 |  |
+| [You Are My High \- 2024 Remastered](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 | 2014-03-20 |  |
 | [Än sen](https://open.spotify.com/track/025BoKT3smBbl1JlVuHTjn) | [Mårran](https://open.spotify.com/artist/1rsVdVKAllWtCup9301Qx2) | [Mårran](https://open.spotify.com/album/3nvrerBccvHa4kT757PZcK) | 4:21 | 2014-03-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

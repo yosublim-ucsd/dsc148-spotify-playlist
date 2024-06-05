@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,303 likes - 85 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,407 likes - 85 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 84 | [The Good Life](https://open.spotify.com/track/3sAy4CeesQ2DphWNtckNjW) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Festival International Nuits d'Afrique \- Compilation 2017 \- 31e édition](https://open.spotify.com/album/7EyaIPE1msXaUeFthTUh6B) | 4:11 |
 | 85 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
 
-Snapshot ID: `ZheUqwAAAAAJUbGNsYXhUXUWP1Zn+Yvr`
+Snapshot ID: `Zl7vaQAAAABJGjQxXjI7D7LN79uHFwgv`

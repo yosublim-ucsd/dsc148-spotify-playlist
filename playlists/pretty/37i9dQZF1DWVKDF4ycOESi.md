@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Angelina Mango in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,305 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,376 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 46 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 |
 | 47 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 48 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
-| 49 | [Amami Adesso](https://open.spotify.com/track/5D2PUWAXgPJsfJLrYfiRhb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Effetto Domino EP](https://open.spotify.com/album/0uWOZ23C7xs3jmcDTbcY6K) | 3:08 |
+| 49 | [Amami Adesso](https://open.spotify.com/track/5D2PUWAXgPJsfJLrYfiRhb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Effetto Domino](https://open.spotify.com/album/0uWOZ23C7xs3jmcDTbcY6K) | 3:08 |
 | 50 | [Trasparente](https://open.spotify.com/track/7K51Wblkit2uioRGADynFB) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Trasparente](https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT) | 3:17 |
 | 51 | [Senza Finale](https://open.spotify.com/track/2VitXF1SEYx95J7bi9XZHU) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Senza Finale](https://open.spotify.com/album/3GMy6UByOe8Xuq7AgZtipB) | 3:05 |
 | 52 | [LAMPADA ACCESA](https://open.spotify.com/track/1E430qTa74sQZPSe09VPCF) | [Crimae](https://open.spotify.com/artist/1mRQZSvLNkfXokLDidje3K) | [LAMPADA ACCESA](https://open.spotify.com/album/7An5HfhkJ6E9IdgkF6GxwM) | 2:17 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 85 | [I Do](https://open.spotify.com/track/4lpmTrDLgZeAGinQxRabN1) | [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe) | [I Do](https://open.spotify.com/album/5zEzyahfKKizg2qvUmmn1Z) | 2:35 |
 | 86 | [OKOK](https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [OKOK](https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6) | 1:54 |
 | 87 | [FAKE IT](https://open.spotify.com/track/5XsnaiW0xQhfUK1ZgocZsx) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [FAKE IT](https://open.spotify.com/album/6GPKvmmYisqiN88SvYFkqY) | 2:29 |
-| 88 | [Maluna](https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Neza](https://open.spotify.com/artist/5P0yIpO0Chwcsh46xx4rWZ) | [Maluna](https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo) | 3:16 |
+| 88 | [Maluna](https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Maluna](https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo) | 3:16 |
 | 89 | [UN'ALTRA NOTTE](https://open.spotify.com/track/2i8ekyE2fOjBcYv7ONy5UY) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [UN'ALTRA NOTTE](https://open.spotify.com/album/2p7i6zg9IXX2pKsTA8GNX1) | 2:45 |
 | 90 | [GESÙ BAMBINO](https://open.spotify.com/track/0SPITJflzWbXuGYy3XzpV2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [NOLOTOV](https://open.spotify.com/album/52BDJ4sqrkv91RUyvvaHds) | 2:33 |
 | 91 | [SUPERMERCATI \(su Marte\)](https://open.spotify.com/track/3qe76pScevHNldvFNe6tqz) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [SUPERMERCATI \(su Marte\)](https://open.spotify.com/album/47ugwI6mmMU2WaxDmPoPS2) | 3:38 |

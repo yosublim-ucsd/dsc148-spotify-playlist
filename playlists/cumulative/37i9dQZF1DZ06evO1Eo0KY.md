@@ -2,7 +2,7 @@
 
 ### [This Is Nicholas Craven](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Eo0KY)
 
-> This Is Nicholas Craven\. Los temas esenciales, todos en una lista.
+> This is Nicholas Craven\. The essential tracks, all in one playlist.
 
 69 songs - 3 hr 16 min
 

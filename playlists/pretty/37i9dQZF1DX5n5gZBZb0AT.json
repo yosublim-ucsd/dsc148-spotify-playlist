@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 844317,
+  "num_followers": 844714,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "MONTAGEM INVAS\u00c3O",
+        "url": "https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg"
+      },
+      "artists": [
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        }
+      ],
+      "duration_ms": 74769,
+      "name": "MONTAGEM INVAS\u00c3O",
+      "url": "https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "Life in Rio",
         "url": "https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 94418,
       "name": "Life in Rio",
       "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "MONTAGEM INVAS\u00c3O",
-        "url": "https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg"
-      },
-      "artists": [
-        {
-          "name": "ARXMANE",
-          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
-        }
-      ],
-      "duration_ms": 74769,
-      "name": "MONTAGEM INVAS\u00c3O",
-      "url": "https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n"
     },
     {
       "added_at": "2024-05-08 15:21:25",

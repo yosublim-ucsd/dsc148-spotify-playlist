@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5-3ltZAmQIajFl12I2zImA\">Early B</a> ",
-  "num_followers": 1571,
+  "num_followers": 1569,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -381,24 +381,20 @@
       "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-04-05 04:23:02",
       "album": {
-        "name": "Blokfluit",
-        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
+        "name": "Consistent",
+        "url": "https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy"
       },
       "artists": [
         {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
-        },
-        {
-          "name": "Die Twaalf",
-          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
         }
       ],
-      "duration_ms": 192783,
-      "name": "Blokfluit",
-      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
+      "duration_ms": 128026,
+      "name": "Consistent",
+      "url": "https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -473,20 +469,24 @@
       "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
     },
     {
-      "added_at": "2024-04-05 04:23:02",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Consistent",
-        "url": "https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy"
+        "name": "Blokfluit",
+        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
       },
       "artists": [
         {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
+        },
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
         }
       ],
-      "duration_ms": 128026,
-      "name": "Consistent",
-      "url": "https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo"
+      "duration_ms": 192783,
+      "name": "Blokfluit",
+      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -629,26 +629,6 @@
       "url": "https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Ek Sal Nie Lieg Nie",
-        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        },
-        {
-          "name": "M.Jay",
-          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
-        }
-      ],
-      "duration_ms": 151196,
-      "name": "Ek Sal Nie Lieg Nie",
-      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
-    },
-    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "BOSS NIGGAS ONLY V2",
@@ -675,6 +655,26 @@
       "duration_ms": 196216,
       "name": "Nigel Hulle",
       "url": "https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Ek Sal Nie Lieg Nie",
+        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
+        }
+      ],
+      "duration_ms": 151196,
+      "name": "Ek Sal Nie Lieg Nie",
+      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -707,6 +707,38 @@
       "duration_ms": 183550,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Deh!",
+        "url": "https://open.spotify.com/album/38J1BiT27OyRsI60572LsP"
+      },
+      "artists": [
+        {
+          "name": "Epidemi",
+          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
+        }
+      ],
+      "duration_ms": 159686,
+      "name": "Deh!",
+      "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme"
+      },
+      "artists": [
+        {
+          "name": "Wboy",
+          "url": "https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW"
+        }
+      ],
+      "duration_ms": 121208,
+      "name": "Los Hom",
+      "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -751,38 +783,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Deh!",
-        "url": "https://open.spotify.com/album/38J1BiT27OyRsI60572LsP"
-      },
-      "artists": [
-        {
-          "name": "Epidemi",
-          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
-        }
-      ],
-      "duration_ms": 159686,
-      "name": "Deh!",
-      "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme"
-      },
-      "artists": [
-        {
-          "name": "Wboy",
-          "url": "https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW"
-        }
-      ],
-      "duration_ms": 121208,
-      "name": "Los Hom",
-      "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Big Cee",
         "url": "https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz"
       },
@@ -797,20 +797,24 @@
       "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
     },
     {
-      "added_at": "2024-02-22 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Wat Ek Moet Doen",
-        "url": "https://open.spotify.com/album/3N574squ1VAtisezwlbE8s"
+        "name": "Klaar Praat",
+        "url": "https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5"
       },
       "artists": [
         {
           "name": "KYLEO FROM THE WEST",
           "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "G-BONE",
+          "url": "https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi"
         }
       ],
-      "duration_ms": 142863,
-      "name": "Wat Ek Moet Doen",
-      "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"
+      "duration_ms": 128261,
+      "name": "Klaar Praat",
+      "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -905,24 +909,20 @@
       "url": "https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Klaar Praat",
-        "url": "https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5"
+        "name": "Wat Ek Moet Doen",
+        "url": "https://open.spotify.com/album/3N574squ1VAtisezwlbE8s"
       },
       "artists": [
         {
           "name": "KYLEO FROM THE WEST",
           "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        },
-        {
-          "name": "G-BONE",
-          "url": "https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi"
         }
       ],
-      "duration_ms": 128261,
-      "name": "Klaar Praat",
-      "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
+      "duration_ms": 142863,
+      "name": "Wat Ek Moet Doen",
+      "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

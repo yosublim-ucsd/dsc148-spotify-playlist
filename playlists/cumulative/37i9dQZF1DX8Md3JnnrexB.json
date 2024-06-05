@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 428222,
       "name": "As",
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 239960,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 254550,
       "name": "Futurity",
       "url": "https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 181466,
       "name": "I Can't See Myself Leaving You",
       "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 268666,
       "name": "I Just Wanna Hang Around You",
       "url": "https://open.spotify.com/track/3ngC9miPW6DoEc8OFSxyzY"
@@ -2656,6 +2656,24 @@
       "duration_ms": 236773,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
+    },
+    {
+      "album": {
+        "name": "OLD SONGS, SAME LOVE",
+        "url": "https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170878,
+      "name": "I'M A MAN - MIDNIGHT VERSION",
+      "url": "https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e"
     },
     {
       "album": {
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 200640,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 242133,
       "name": "Just Don't Wanna Be Lonely",
       "url": "https://open.spotify.com/track/2d7XPNOWJ8HS0iSgJXRAJ9"
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284533,
       "name": "Love X Love",
       "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
@@ -3584,7 +3602,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245159,
       "name": "Lovin' you Is Easy",
       "url": "https://open.spotify.com/track/591hJcYCBItu3Io608n5fv"
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 284906,
       "name": "Me and Mrs. Jones",
       "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214546,
       "name": "Midnight Love Affair",
       "url": "https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI"
@@ -3812,7 +3830,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204760,
       "name": "Moody's Mood",
       "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
@@ -4468,7 +4486,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 468653,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
@@ -4594,7 +4612,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185626,
       "name": "Say That You Will",
       "url": "https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br"
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 167468,
       "name": "Sweeter (feat. Terrace Martin)",
       "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
@@ -5381,6 +5399,28 @@
     },
     {
       "album": {
+        "name": "This Close To You",
+        "url": "https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "This Close To You",
+      "url": "https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly"
+    },
+    {
+      "album": {
         "name": "Chill Factor",
         "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
@@ -5446,7 +5486,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
@@ -5522,7 +5562,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
@@ -5688,7 +5728,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 238158,
       "name": "Valentine Love (Slow Version)",
       "url": "https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap"
@@ -5778,7 +5818,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-05",
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
@@ -5880,7 +5920,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219306,
       "name": "With You I'm Born Again",
       "url": "https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7"

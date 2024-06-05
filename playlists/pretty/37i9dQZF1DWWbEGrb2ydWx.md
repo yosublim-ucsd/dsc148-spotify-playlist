@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,635 likes - 59 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,642 likes - 59 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 2 | [CCC](https://open.spotify.com/track/0CbWVYZhKsI0Ss0GS2Qldr) | [Lavurn](https://open.spotify.com/artist/5d49daKe25neM4xGYit9Od) | [Lavurn](https://open.spotify.com/album/6Burf70t95L4FDKc24MO3g) | 2:04 |
 | 3 | [Sky Light](https://open.spotify.com/track/5T09fG328uz3tSc3bK1Tv2) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Sky Light / Hollywood](https://open.spotify.com/album/53LVzwtFqNfUNUaA9ZcGxg) | 4:49 |
 | 4 | [Winzzz](https://open.spotify.com/track/1wi3FybGWQHtjJv3L5BagX) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 4:16 |
-| 5 | [mute](https://open.spotify.com/track/15vgvl0Hd3WI8zD7KrhmQ0) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Club Shy](https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F) | 2:28 |
+| 5 | [mute](https://open.spotify.com/track/15vgvl0Hd3WI8zD7KrhmQ0) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy](https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F) | 2:28 |
 | 6 | [Suesse Cheques](https://open.spotify.com/track/0b6eHqufNgvWmVNsIR15Zg) | [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4) | [Salvador](https://open.spotify.com/album/6yaGP4bQqS3OowkQNs9NiL) | 7:17 |
 | 7 | [El Ritmo](https://open.spotify.com/track/43BWYxqT1GUKAbmEMLBDqy) | [Ketiov](https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR) | [Late Night People](https://open.spotify.com/album/2b970bvbXGO47YGGNmAauW) | 5:34 |
 | 8 | [Untitled 01](https://open.spotify.com/track/36mGQaqY8aAJymroskFw9B) | [Leod](https://open.spotify.com/artist/60s9PC0pLdn1j1fz6PjUT1) | [Untitled 01](https://open.spotify.com/album/2jSRdxux4HW0KWs04bUdkG) | 5:30 |

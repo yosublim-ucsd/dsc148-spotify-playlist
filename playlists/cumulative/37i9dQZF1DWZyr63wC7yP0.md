@@ -4,7 +4,7 @@
 
 > Be like water....<br/>Get into the flow with calming sounds of running streams.
 
-129 songs - 6 hr 49 min
+130 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Down The River](https://open.spotify.com/track/4dU8unK0e42MOkGjnqpu66) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rivers Of Estelí](https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88) | 3:26 | 2022-08-04 |  |
 | [Dreaming by the River](https://open.spotify.com/track/6KvWhDl90J7hLQKt7RdtUu) | [Naturesque](https://open.spotify.com/artist/7A4Vjuj5WfIu5VGpeG6v0x) | [Dreaming by the River](https://open.spotify.com/album/6Ev8t75sLbPjLhYwizjM5q) | 3:36 | 2024-03-25 |  |
 | [El Arenal River's Edge Lullaby](https://open.spotify.com/track/2FwMtSUFVY2qU3zoWSrKDs) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Andean Water Sound Whispers](https://open.spotify.com/album/4e7PwYbFcEcQRIukzZnG1m) | 2:30 | 2024-04-16 |  |
-| [Esopus Creek](https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Esopus Creek](https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy) | 2:44 | 2022-08-04 |  |
+| [Esopus Creek](https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Esopus Creek](https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy) | 2:44 | 2022-08-04 | 2024-06-05 |
 | [Fast Flowing River \- Seamless](https://open.spotify.com/track/0kqEkGV3rpy6BvVuM9x1EB) | [Sleepy Falls](https://open.spotify.com/artist/4YEs6CRrsB6P1JZtNVZ09C) | [Rivers And Streams](https://open.spotify.com/album/3l3fLrLSL3024gMcvVLt9c) | 1:50 | 2022-08-04 | 2023-06-20 |
 | [Fast River on Rocks](https://open.spotify.com/track/6vhtvMNhtj2207rx9j5lH9) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Jungle River Rapids](https://open.spotify.com/album/0ICLrHqdJ36IN30dyM7B7T) | 3:00 | 2022-08-04 |  |
 | [Feel The River](https://open.spotify.com/track/6MLGJkWExg0JHkG5Sq3B50) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Feel The River](https://open.spotify.com/album/54zVwrIbAn0hn99p2cOegi) | 3:20 | 2022-08-04 | 2024-03-26 |
@@ -77,6 +77,7 @@
 | [Relaxing Waterfall](https://open.spotify.com/track/4EqeYEXkNDwCmVAaSDp8Pp) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Relaxing River](https://open.spotify.com/album/4BfNInTI5qDoJX4yRgh6mv) | 3:23 | 2022-08-04 |  |
 | [relaxing with a water stream](https://open.spotify.com/track/5vaqeuk3pPXM1calI5O71T) | [Natural World Sounds](https://open.spotify.com/artist/7fjnlmgSy4rNjBhZgSzZ5D) | [Relaxing Water](https://open.spotify.com/album/4jWY1h7KcnXjqCXa65pmGy) | 3:02 | 2022-08-04 |  |
 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 | 2022-08-04 |  |
+| [River Cleanse](https://open.spotify.com/track/3q9VVbRaCgb9UB0BMAWHLZ) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Cleanse](https://open.spotify.com/album/5aOamlHc4laJH0jUJy5VNJ) | 2:32 | 2024-04-16 |  |
 | [River Cleanse](https://open.spotify.com/track/7FH0vD04glSk5ovGAcpAOb) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Rivers and Forest Sounds](https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m) | 2:56 | 2022-08-04 |  |
 | [River In The Forest](https://open.spotify.com/track/4PZ6DYSODG4ZH5yWGtfOje) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [River Sounds](https://open.spotify.com/album/2ewQue8nskwyf0lyTvZXMT) | 2:07 | 2023-06-19 | 2024-06-01 |
 | [River Ledge Sound](https://open.spotify.com/track/3TDdeIQPCAoz8oVV3Iaz7V) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 2:47 | 2022-08-04 |  |
