@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Nino Augustine ",
-  "num_followers": 664774,
+  "num_followers": 664780,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "FARDOS",
         "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 183335,
       "name": "FARDOS",
       "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Martini",
-        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164365,
-      "name": "Martini",
-      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172503,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172503,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 165880,
       "name": "Le Pido a DIOS",
       "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "FERXXO 151",
-        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "FERXXO 151",
-      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Lo Intent\u00e9",
         "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
       },
@@ -691,6 +671,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "FERXXO 151",
+        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "FERXXO 151",
+      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 156466,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "GATA G",
+      "url": "https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 157999,
       "name": "On My Body",
       "url": "https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "EL CANTANTE DEL GHETTO",
-        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "GATA G",
-      "url": "https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Eva Longoria",
-      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 199850,
+      "name": "Eva Longoria",
+      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "SIGO AL PENDIENTE",
-        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "SIGO AL PENDIENTE",
-      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Una Ni\u00f1a In\u00fatil",
         "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 189666,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "SIGO AL PENDIENTE",
+        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "SIGO AL PENDIENTE",
+      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Gatita Gangster",
-        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Gatita Gangster",
-      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
       },
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Gatita Gangster",
+        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Gatita Gangster",
+      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "ALMA</3",
         "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Medio Friends",
-        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 290053,
       "name": "1% - Remix",
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Medio Friends",
+        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 91371,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "POKE FREESTYLE",
         "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 203293,
       "name": "POKE FREESTYLE",
       "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 91371,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Himalaya",
-        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Himalaya",
-      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Uff",
         "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
       },
@@ -2115,22 +2095,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Dejalos que hablen",
-        "url": "https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv"
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 175407,
-      "name": "Dejalos que hablen",
-      "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
+      "duration_ms": 168871,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2155,6 +2135,26 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Dejalos que hablen",
+        "url": "https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 175407,
+      "name": "Dejalos que hablen",
+      "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "obst\u00e1culo",
         "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
       },
@@ -2415,6 +2395,26 @@
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "GANGSTA LUV",
         "url": "https://open.spotify.com/album/6I831rDMtHx8e17mh5xzsP"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 231454,
       "name": "GANGSTA LUV",
       "url": "https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2675,18 +2675,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Balmain",
-        "url": "https://open.spotify.com/album/3KE1H9I83VTaI6eH4OuUTF"
+        "name": "Cosas Que Enamoran",
+        "url": "https://open.spotify.com/album/3cHgF5EuVjGVQ1P5f35k9J"
       },
       "artists": [
         {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "CRBRO",
+          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
         }
       ],
-      "duration_ms": 127826,
-      "name": "Balmain",
-      "url": "https://open.spotify.com/track/6eLCtyK6VcTrcJy6MiWLzg"
+      "duration_ms": 154105,
+      "name": "Cosas Que Enamoran",
+      "url": "https://open.spotify.com/track/1a49mR9cbwbgpEIZ1Wh20y"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2707,22 +2711,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Cosas Que Enamoran",
-        "url": "https://open.spotify.com/album/3cHgF5EuVjGVQ1P5f35k9J"
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/3KE1H9I83VTaI6eH4OuUTF"
       },
       "artists": [
         {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "CRBRO",
-          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
         }
       ],
-      "duration_ms": 154105,
-      "name": "Cosas Que Enamoran",
-      "url": "https://open.spotify.com/track/1a49mR9cbwbgpEIZ1Wh20y"
+      "duration_ms": 127826,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/6eLCtyK6VcTrcJy6MiWLzg"
     },
     {
       "added_at": "2024-05-31 04:00:00",

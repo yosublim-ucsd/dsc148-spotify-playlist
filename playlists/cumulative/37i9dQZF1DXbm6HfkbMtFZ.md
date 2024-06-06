@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-567 songs - 1 day 10 hr 2 min
+568 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,7 @@
 | [Obaa Y Ewa](https://open.spotify.com/track/40DTvPYNew0qRoyR02Q4Gk) | [Pa Joe](https://open.spotify.com/artist/0iS7PY13GGEjJ2kJi2oABn), [Donne Robert](https://open.spotify.com/artist/0qE1CyKMJ640Iih6q0yUYN), [Alpha Yaya Diallo](https://open.spotify.com/artist/3nuijO3a8pSxPkxeW50cf0), [Madagascar Slim](https://open.spotify.com/artist/47zKci8p5iqybZqG8zsPFT), [Mighty Popo](https://open.spotify.com/artist/7dv44sJXfXnSTMHWklWaNQ), [Kofi Ackah](https://open.spotify.com/artist/6IJp6kPpIT1x7TrzUKAONk), [Theo Yaa Boakye](https://open.spotify.com/artist/4bgUd8x4yVnGVPWgsZApQ8) | [African Guitar Summit](https://open.spotify.com/album/6qNVBhCor4iqR6MJDE5nSv) | 4:43 | 2021-12-16 | 2022-07-29 |
 | [Obvious Guy](https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:21 | 2022-10-14 | 2024-04-11 |
 | [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 | 2022-03-30 | 2022-10-13 |
-| [Ocean Blue](https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH) | [Moniker](https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW) | [Hunt for the Wilderpeople \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg) | 2:25 | 2024-04-10 |  |
+| [Ocean Blue](https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH) | [Moniker](https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW) | [Hunt for the Wilderpeople \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg) | 2:25 | 2024-04-10 | 2024-06-06 |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-25 | 2023-09-20 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-26 | 2023-07-28 |
 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 | 2023-12-21 | 2024-04-19 |
@@ -391,6 +391,7 @@
 | [Pressure](https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Lo Artiz](https://open.spotify.com/artist/471krICBnmucQIpNOf7az7), [Julia Zivic](https://open.spotify.com/artist/14ICub3ucTYRmPTfvyCsh6) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 1:44 | 2024-05-01 |  |
 | [Pretty Dirty \(In the Fading Light\)](https://open.spotify.com/track/2eAtxc1L97UPkxDf4LFtrK) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Produce the Juice](https://open.spotify.com/album/2AWk4Vwrxfr0Ueso81gVLy) | 5:43 | 2022-01-07 | 2022-07-25 |
 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 | 2022-11-11 | 2024-04-19 |
+| [Promises I've Made](https://open.spotify.com/track/3ncX1PNhONlpP8vzeyNIle) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 3:24 | 2024-05-20 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-09-19 |  |
 | [Red Cassette](https://open.spotify.com/track/7g5fV2xoWHuLcTl78M3tGO) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Cheap Hotel](https://open.spotify.com/album/3brZD4dpegCaKmFdJagMoz) | 3:56 | 2022-03-30 | 2022-04-21 |
 | [Red Wine](https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh) | [Grapetooth](https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI) | 3:59 | 2024-04-10 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 305312,
+  "description": "This is Jimi Hendrix. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 305360,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAB6M5mBHXFZi2i5xAr5dHpI",
+  "snapshot_id": "Zl5ZAAAAAADWP5gKS6bm/Ysp640V8Rby",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Gypsy Eyes",
-      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
+      "duration_ms": 130039,
+      "name": "Have You Ever Been (To Electric Ladyland)",
+      "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Long Hot Summer Night",
+      "url": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Can't Use My Name (feat. Jimi Hendrix)",
         "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
       },
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Long Hot Summer Night",
-      "url": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
+      "duration_ms": 284333,
+      "name": "Dolly Dagger",
+      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 426613,
       "name": "Like A Rolling Stone - Live At Monterey",
       "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Dolly Dagger",
-      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live)",
-        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 576360,
-      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
-      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 194653,
       "name": "Killing Floor - Live At Monterey",
       "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Band Of Gypsys (50th Anniversary / Live)",
+        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 576360,
+      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
+      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
     },
     {
       "added_at": null,

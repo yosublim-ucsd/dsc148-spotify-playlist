@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "We're all gonna die anyway,",
+        "url": "https://open.spotify.com/album/5l6SN84f1hv6LrboTqcKKj"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237593,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6xLQnlTtuRXPvzt2Rx7Zke"
+    },
+    {
+      "album": {
         "name": "528 HZ",
         "url": "https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd"
       },

@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123923,
+  "num_followers": 123928,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 222650,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Pull",
-        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Pull",
-      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Pull",
+        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Pull",
+      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Wienerschnitzel",
-        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
+        "name": "Fool For Waiting",
+        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
       },
       "artists": [
         {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
         }
       ],
-      "duration_ms": 176398,
-      "name": "Wienerschnitzel",
-      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
+      "duration_ms": 243200,
+      "name": "Fool For Waiting",
+      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Fool For Waiting",
-        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Fool For Waiting",
-      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "call me when you land",
-        "url": "https://open.spotify.com/album/3IJmWElpsCmDmzZyemFc1h"
+        "name": "Wienerschnitzel",
+        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
       },
       "artists": [
         {
-          "name": "Madilyn Mei",
-          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 92453,
-      "name": "call me when you land",
-      "url": "https://open.spotify.com/track/1jfH3q06PG0Jo0Lb0jD4lB"
+      "duration_ms": 176398,
+      "name": "Wienerschnitzel",
+      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "call me when you land",
+        "url": "https://open.spotify.com/album/3IJmWElpsCmDmzZyemFc1h"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "duration_ms": 92453,
+      "name": "call me when you land",
+      "url": "https://open.spotify.com/track/1jfH3q06PG0Jo0Lb0jD4lB"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "In Plain Sight",
         "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
       },
@@ -1547,6 +1531,38 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "getting older",
+        "url": "https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 166214,
+      "name": "getting older",
+      "url": "https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "A Prayer Of My Own",
         "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "getting older",
-        "url": "https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01"
+        "name": "You Look Like You Can't Swim",
+        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
       },
       "artists": [
         {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 166214,
-      "name": "getting older",
-      "url": "https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL"
+      "duration_ms": 168086,
+      "name": "You Look Like You Can't Swim",
+      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1627,38 +1643,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "You Look Like You Can't Swim",
-        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
+        "name": "The Odd Willow",
+        "url": "https://open.spotify.com/album/6beLTdJjPsKEWYVQJGHXB6"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Big Brutus",
+          "url": "https://open.spotify.com/artist/4RmuiXslqkcgFa0oZ1epVi"
         }
       ],
-      "duration_ms": 168086,
-      "name": "You Look Like You Can't Swim",
-      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
+      "duration_ms": 244866,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0fdYaOG3Dp8t6fhW5Cel84"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

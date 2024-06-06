@@ -1,12 +1,12 @@
 {
-  "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 120395,
+  "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
+  "num_followers": 120464,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABfPLxKe+HKKMoXc+v/UM7x",
+  "snapshot_id": "Zl5ZAAAAAABgcowSs1f2ZSkorSya7eIP",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 213102,
+      "name": "Soy El Jefe",
+      "url": "https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "99 Problemas",
         "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 192718,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 213102,
-      "name": "Soy El Jefe",
-      "url": "https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1ctico",
-        "url": "https://open.spotify.com/album/0FvfpAJbIcL6nGve8NSd3m"
-      },
-      "artists": [
-        {
-          "name": "Martin Castillo",
-          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 193651,
-      "name": "T\u00e1ctico",
-      "url": "https://open.spotify.com/track/6XIEuULRblmE0OINgI5dNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Line Up",
         "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 188481,
       "name": "Vara Alta",
       "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1ctico",
+        "url": "https://open.spotify.com/album/0FvfpAJbIcL6nGve8NSd3m"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 193651,
+      "name": "T\u00e1ctico",
+      "url": "https://open.spotify.com/track/6XIEuULRblmE0OINgI5dNC"
     },
     {
       "added_at": null,

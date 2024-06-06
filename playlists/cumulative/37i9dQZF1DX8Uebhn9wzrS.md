@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,952 songs - 3 day 2 hr 20 min
+1,953 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2023-12-08 |  |
 | [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 |  |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
+| [Autumn View](https://open.spotify.com/track/2kXtNcenzTDK3blNt8Bkpu) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Autumn View](https://open.spotify.com/album/7qSc0qmOJB0hmC9qJq9KDo) | 2:43 | 2024-05-31 |  |
 | [avant garde](https://open.spotify.com/track/4AkXE5K2Zh9qUnTaHsbkPn) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [avant garde](https://open.spotify.com/album/5oYB1uIVN78liVioenI2ro) | 2:00 | 2023-08-31 |  |
 | [Aviate](https://open.spotify.com/track/532CHPJ8XDomggcCqh9kyr) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Aviate](https://open.spotify.com/album/2aj5Rcvstgx3xt0CNviHE3) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Avocades](https://open.spotify.com/track/72VPz6obgR5JjPCv8uRotp) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Avocades](https://open.spotify.com/album/2gBKkx8mHrbY9pZxsjwjYJ) | 2:11 | 2024-01-19 |  |
@@ -1075,7 +1076,7 @@
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
-| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 | 2024-06-04 |
+| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 |  |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2023-03-01 |  |
 | [Miss lavii](https://open.spotify.com/track/4UpMl0ADAnyeLBM1TGbqtu) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:42 | 2022-04-15 | 2023-03-09 |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |
@@ -1580,7 +1581,7 @@
 | [Special Juice](https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31) | [Wally Woo](https://open.spotify.com/artist/3XVKC5nfhl73bqsvMz9coN) | [Special Juice](https://open.spotify.com/album/16VeFUhnt3jgHG8zVNvuK7) | 2:16 | 2022-04-15 | 2022-12-17 |
 | [Specs](https://open.spotify.com/track/5oTOrR69wkWoJbKElUhmRA) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/14nqrIOs4msbZoxrQUa92c) | 1:53 | 2022-08-19 | 2022-11-21 |
 | [Specs](https://open.spotify.com/track/6atHVHvVI6N0TJGGdgFTLR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/37zmqkX5JDc19MVZMBj21w) | 1:53 | 2022-11-18 | 2022-12-24 |
-| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 |  |
+| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 | 2024-06-06 |
 | [spellbounds](https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [spellbounds](https://open.spotify.com/album/5QR42b7gHmNPuK2IqkpDD9) | 3:29 | 2023-01-06 |  |
 | [Spicy Zest](https://open.spotify.com/track/5KFq0sLS7aBkcaARm2OpeR) | [Casino Bianco](https://open.spotify.com/artist/5X7OxBWmTg024LLmavducM) | [Spicy Zest](https://open.spotify.com/album/33zMRhxJCGGkweKfdPvQfR) | 2:30 | 2024-01-05 |  |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
@@ -1686,7 +1687,7 @@
 | [Take Away](https://open.spotify.com/track/079qxR6tndFavZsUUqP6eD) | [Under Surface Express](https://open.spotify.com/artist/6V1fTn88dig3TPy2TXuZ61) | [Take Away](https://open.spotify.com/album/69rPS7tyNHuhvX18GT28pI) | 1:51 | 2022-04-15 | 2023-08-18 |
 | [Take it Slow](https://open.spotify.com/track/4DdZhkt6enwJvYjSSJuyHQ) | [Yugi](https://open.spotify.com/artist/5gKSmbeqGuqoj0uPIDoTbJ), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [Take it Slow](https://open.spotify.com/album/6aN6hYuiTqj6zT7W8RarRo) | 2:11 | 2022-12-09 | 2023-09-16 |
 | [Take us there](https://open.spotify.com/track/4fj0Zv7huXXiZKHk0S5DjM) | [Tactic Frog](https://open.spotify.com/artist/0jKjCXV0B1hkqDjs5rbnjT) | [Take us there](https://open.spotify.com/album/7HsdveANIIbdUPLdltsNxe) | 2:18 | 2022-04-15 | 2022-10-01 |
-| [Takeabreakalready](https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Takeabreakalready](https://open.spotify.com/album/3SWva0m3WplRxy58XAof2n) | 2:12 | 2023-01-06 |  |
+| [Takeabreakalready](https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Takeabreakalready](https://open.spotify.com/album/3SWva0m3WplRxy58XAof2n) | 2:12 | 2023-01-06 | 2024-06-06 |
 | [Taking a Gap Year](https://open.spotify.com/track/3EaQ19sdn6IfNNwAbZlLss) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Taking a Gap Year](https://open.spotify.com/album/3gDT4tudeH7Bcg5TW4Y8aS) | 3:55 | 2022-04-15 | 2022-07-22 |
 | [Taking Flight](https://open.spotify.com/track/73vGZ3fTM303YNDoXHIM3i) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Taking Flight](https://open.spotify.com/album/2CywxdG7exuCBbMqZlcwVh) | 2:35 | 2023-01-13 | 2024-02-09 |
 | [Taking It Slow At The Beach](https://open.spotify.com/track/5xQJTQyGpzI48h8YYldXnD) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Taking It Slow at the Beach](https://open.spotify.com/album/4oNYznjAG04N2Wlvwen4Xn) | 2:05 | 2022-06-24 | 2022-11-26 |

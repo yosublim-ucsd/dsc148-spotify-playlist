@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,144 songs - 6 day 14 hr 15 min
+4,146 songs - 6 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [bay bridge](https://open.spotify.com/track/0Y6RcHx3zWT0B7Zeak5Dss) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId) | [bay bridge](https://open.spotify.com/album/2nXSYXnwDcavlKCM7kRv6n) | 3:24 | 2024-01-11 | 2024-04-26 |
 | [Be Grateful for What You Got](https://open.spotify.com/track/2q66J499bWS25dph3DD4c2) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Be Grateful for What You Got](https://open.spotify.com/album/7bw8AQI6UdUXPHLxksNr4i) | 2:32 | 2019-09-06 | 2020-02-21 |
 | [Be Prepared](https://open.spotify.com/track/0m9uI9t4RRqgUXgqbD4rg4) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Be Prepared](https://open.spotify.com/album/7lskXK2HGFlxyjifEzpVc7) | 2:18 | 2022-08-11 | 2022-09-23 |
+| [Beach Bars](https://open.spotify.com/track/0AZWFFaznQQBh3COx61Nce) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Beach Bars](https://open.spotify.com/album/0ucTkzP2XUrQ1ADwr2Kll4) | 2:00 | 2024-05-30 |  |
 | [Beach Date](https://open.spotify.com/track/28heBSh9X0tpKHcLoSCg5b) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Beach Date](https://open.spotify.com/album/1CnYVaau2HnDSuVoauPFUG) | 2:10 | 2022-09-22 | 2023-01-27 |
 | [Beach Flowers](https://open.spotify.com/track/4rfqbamBmNANSJagibCaal) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Beach Flowers](https://open.spotify.com/album/76CKcn5LDD09atNLtSwn4R) | 1:36 | 2022-05-05 | 2022-06-17 |
 | [Beach House](https://open.spotify.com/track/0kQ5YzsHykC9Z9QYnP1hah) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Beach House](https://open.spotify.com/album/6EehuNbXbStJIShJS0xkNU) | 2:15 | 2023-11-16 | 2023-12-15 |
@@ -2165,6 +2166,7 @@
 | [Maya](https://open.spotify.com/track/1cOskEECLPMl1A81dsRke4) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Maya](https://open.spotify.com/album/1RPX3Ae7En5gDyLn39zlmn) | 3:15 | 2021-11-19 | 2022-03-18 |
 | [Maya](https://open.spotify.com/track/1n8M1bxkSkUw5rsOmKAlhj) | [Yang Nips](https://open.spotify.com/artist/1v8hgBjyWZ6rAzqhICIFrs), [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Maya](https://open.spotify.com/album/6kWZqvwetnCwhiqZKCCuq3) | 1:59 | 2019-06-04 | 2019-09-27 |
 | [maybe](https://open.spotify.com/track/4eUKR4xOmsuNt73oUmvZL0) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/58CozCODSGKsDCPzjO0rw5) | 3:23 | 2020-02-28 | 2020-05-22 |
+| [Mañana](https://open.spotify.com/track/1Be6BhtTjQfvPZbx5H3k6t) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Mañana](https://open.spotify.com/album/2xOKK4chU6tABnT3iD1Ssn) | 2:04 | 2024-05-30 |  |
 | [Measuring the Unmeasurable](https://open.spotify.com/track/1ARwsbKuKWe9ZxchPH4fHc) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Measuring the Unmeasurable](https://open.spotify.com/album/4hdhGTpiX0GlztaofSTzaM) | 1:35 | 2020-05-19 | 2020-08-07 |
 | [Medellin Blues](https://open.spotify.com/track/3DEhmHMzx8X8aFgcOZqnUn) | [sumishii](https://open.spotify.com/artist/7eXNSXnJu1Az7K9PxADwwq) | [Medellin Blues](https://open.spotify.com/album/6UuFdh9geCD4ReEQULBCpo) | 2:15 | 2020-06-29 | 2020-10-09 |
 | [Medication](https://open.spotify.com/track/0SECfQ39aAxnp1tMCIDrCg) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Antidote](https://open.spotify.com/album/2BzfGLYmLSbjHu9GIakgs1) | 2:58 | 2023-02-23 | 2023-06-02 |
@@ -3309,7 +3311,7 @@
 | [Spooks](https://open.spotify.com/track/639Tw8ZzHKRKX8OBPLty3r) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Pascal Schäfer](https://open.spotify.com/artist/5w8GGXfYEU2Ug9EUfBQpNk) | [Spooks](https://open.spotify.com/album/6RGFYDNiDFjlS2kygLyUSw) | 2:33 | 2021-10-01 | 2021-10-29 |
 | [Spotlight](https://open.spotify.com/track/3HBXZ59W3RhleGsKNXK5l9) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Spotlight](https://open.spotify.com/album/26lUxx0GD0hrByiCceuZ2p) | 2:15 | 2021-03-06 | 2021-03-14 |
 | [Spring](https://open.spotify.com/track/55kIpppK4AK3Pb3iLzchLm) | [notliam.](https://open.spotify.com/artist/61LoHXsI9sGJ20BSuDzCCP) | [Spring / Bourbon](https://open.spotify.com/album/44bxg2HFpFnOGvJYzryGSs) | 1:44 | 2019-05-26\* | 2019-08-13 |
-| [Spring](https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Spring](https://open.spotify.com/album/0PpbgST7UfHeR1vSDdPGg2) | 2:30 | 2024-04-25 |  |
+| [Spring](https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Spring](https://open.spotify.com/album/0PpbgST7UfHeR1vSDdPGg2) | 2:30 | 2024-04-25 | 2024-06-06 |
 | [Spring Blender](https://open.spotify.com/track/3yPdG7Zsc5PQ9RCHRwCdzc) | [Bill adlib](https://open.spotify.com/artist/2vtcShcGkXS1SZeLwEOqKz) | [Spring Blender](https://open.spotify.com/album/3V73ymExJca89uuNCYKOG8) | 1:57 | 2019-06-14 | 2019-11-12 |
 | [spring breeze](https://open.spotify.com/track/4hEtLH4D9zXiYuefvhaFDg) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [spring breeze](https://open.spotify.com/album/0P3wtmsHYu5XKitFbK1uPM) | 1:36 | 2022-03-24 | 2023-11-24 |
 | [Spring Cold](https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Spring Cold](https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3) | 2:40 | 2024-02-15 |  |
@@ -3833,7 +3835,7 @@
 | [Vacation Days](https://open.spotify.com/track/3uywJ17iYcUK0niX2wE95F) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/5mxnF5fVvpvWlK4TYW8Dh9) | 2:18 | 2022-04-07 | 2022-05-13 |
 | [Vacation in Malibu](https://open.spotify.com/track/4dVyMShjr4HYK5vYIWHBig) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Vacation in Malibu](https://open.spotify.com/album/3ttlTYSl7Vu9qchwB5ORGQ) | 1:56 | 2021-08-20 | 2021-09-17 |
 | [Valencia](https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/4HMi4x83Z9sJHOUi5MhVsE) | 2:28 | 2022-03-04 | 2022-06-17 |
-| [Vampire in the Sun](https://open.spotify.com/track/5MTEaL89Lokzgf45kTFNox) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Vampire in the Sun](https://open.spotify.com/album/44HvpaBemoZLMgcFsjI4xT) | 2:38 | 2024-05-30 |  |
+| [Vampire in the Sun](https://open.spotify.com/track/5MTEaL89Lokzgf45kTFNox) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Vampire in the Sun](https://open.spotify.com/album/44HvpaBemoZLMgcFsjI4xT) | 2:38 | 2024-05-30 | 2024-06-06 |
 | [Vanilla Moonlight](https://open.spotify.com/track/1Yh58JNWDU7YbmdfoEcIg1) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Vanilla Moonlight](https://open.spotify.com/album/30LrBMSa2ucKIlI5iHGB9s) | 2:24 | 2020-11-13 | 2021-03-06 |
 | [Vapatá](https://open.spotify.com/track/6uSuJp4itZwq5nJaRi30Lt) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Vapatá](https://open.spotify.com/album/2ve29Ze3bPylKGeThIjTNx) | 2:24 | 2022-01-27 | 2022-03-11 |
 | [Vapour Rays](https://open.spotify.com/track/7rcHiOC1tjWqQ4L9QqxqVy) | [Kuartz](https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc) | [Vapour Rays](https://open.spotify.com/album/04RErHIsZfKAUVDk8uYG6Y) | 2:35 | 2020-09-26 | 2021-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4D22jVMhvZgzvt8Hh9AcKY">Brodka</a>, <a href="spotify:artist:6aGmKxXoKrSdovRUn8MBhZ">Margaret</a>, <a href="spotify:artist:65RQbLHJIWPfWwxYJ5a5BZ">Rosalie.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,451 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,548 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [One Minute Behind](https://open.spotify.com/track/1MsQh3c8nXp1tqd91IGIZf) | [Serafine](https://open.spotify.com/artist/2Wxu5iYmxrkbDInfmRmDyv) | [One Minute Behind](https://open.spotify.com/album/6CGcgL1UOZWA7TpQsWwrS1) | 3:04 |
 | 60 | [Kwiaty \- Live](https://open.spotify.com/track/5cWVDCxwyg7Nw1NQMRCabk) | [MONGIRD](https://open.spotify.com/artist/41sW1tNUQ6QgKOonv2sIez) | [Kwiaty \(Live\)](https://open.spotify.com/album/7sPRiQwMQ2pce1q43Eir55) | 6:03 |
 
-Snapshot ID: `Zl+OnAAAAADjL+rKRMt5lGVUGZdoE1iY`
+Snapshot ID: `ZmAbHwAAAABkJgt0m52+/K+EgAAMAxdH`

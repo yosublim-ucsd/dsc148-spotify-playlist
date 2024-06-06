@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,716 songs - 3 day 4 hr 17 min
+1,717 songs - 3 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Aoyama Bochi](https://open.spotify.com/track/6aLLf5UU8GivpvjLxdOog1) | [Saeko Seki](https://open.spotify.com/artist/2g4F9tXkfjvy3BH3CTYBfe) | [Aoyama Bochi](https://open.spotify.com/album/0zhU9dYWdB6AzvShqe2uy2) | 2:03 | 2019-05-26\* | 2020-09-01 |
 | [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2021-02-03 | 2022-01-13 |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-06-03 | 2022-05-21 |
-| [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-20 |  |
+| [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-20 | 2024-06-06 |
 | [Après la pluie](https://open.spotify.com/track/4S5eUtV1PLv6hJI8EcWmBU) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Après la pluie](https://open.spotify.com/album/2XfRxzEXWvADnmxNwEBh91) | 2:32 | 2019-07-25 | 2020-03-31 |
 | [Aquatic](https://open.spotify.com/track/2kz1DrWQsJl1k4lWDsPRsC) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Aquatic](https://open.spotify.com/album/1Wbx7ISrA2F90ohwHYrJsu) | 2:23 | 2019-10-22 | 2022-04-29 |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-02-09 | 2023-11-21 |
@@ -253,6 +253,7 @@
 | [Carvoeiro](https://open.spotify.com/track/6VJ0cJWV19lwXzeDb4f35D) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Carvoeiro](https://open.spotify.com/album/1MdhGVfEl3ITet1idA1eFN) | 2:31 | 2022-10-03 | 2022-11-26 |
 | [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 | 2022-12-20 | 2023-07-19 |
 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 | 2022-11-09 | 2023-12-06 |
+| [Cascade](https://open.spotify.com/track/2c4PSLMgucCOOd8sveoLUL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Cascade](https://open.spotify.com/album/52Ozb1gsB6O7EUaYnLtU1U) | 3:07 | 2024-06-05 |  |
 | [Castor](https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:48 | 2019-06-13 | 2021-03-24 |
 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2023-11-20 |  |
 | [Causality](https://open.spotify.com/track/2HQg7uhg7cLtMmzpwN2Itf) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Causality](https://open.spotify.com/album/7HVzua7bH0DxfiHETR7ytg) | 2:03 | 2019-07-05 | 2021-01-18 |
@@ -371,7 +372,7 @@
 | [Different Beginning](https://open.spotify.com/track/7hH4ev8MOmh3ElZYbS5rei) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Different Beginning](https://open.spotify.com/album/3teb3yGsHX34vNlQGHDxaA) | 1:15 | 2019-07-11 | 2019-11-14 |
 | [Different To Our Daily Lives](https://open.spotify.com/track/6zB9GWgc3mjxnqGgHAwvpU) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Different To Our Daily Lives](https://open.spotify.com/album/4j3t73htSViFibVCVBpLr5) | 2:26 | 2022-04-22 | 2023-09-23 |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2021-02-09 | 2021-08-05 |
-| [Dione](https://open.spotify.com/track/0OyfmSpjOUz6k0swecwQEw) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dione](https://open.spotify.com/album/1xSWJQd6aRwP8ETyHJXyQP) | 2:28 | 2022-07-06 |  |
+| [Dione](https://open.spotify.com/track/0OyfmSpjOUz6k0swecwQEw) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dione](https://open.spotify.com/album/1xSWJQd6aRwP8ETyHJXyQP) | 2:28 | 2022-07-06 | 2024-06-06 |
 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-02-03 |  |
 | [Distant Lapse](https://open.spotify.com/track/7pDD127Pc7US1ZG0sJy3e0) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Distant Lapse](https://open.spotify.com/album/1WdR1q6Tq8PXKRoQAwXl3y) | 2:45 | 2020-01-08 | 2020-09-30 |
 | [Distant Shores](https://open.spotify.com/track/5akwB4g9TXC5B586LAew37) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Distant Shores](https://open.spotify.com/album/0bKOpKhuIFRcUz5U4reXeR) | 2:14 | 2022-10-03 | 2023-09-23 |

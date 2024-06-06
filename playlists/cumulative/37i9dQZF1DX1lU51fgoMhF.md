@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-333 songs - 18 hr 19 min
+334 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 | 2022-08-18 | 2023-07-02 |
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-08 | 2022-08-30 |
 | [Break Ice](https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Break Ice](https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm) | 2:56 | 2021-11-17 | 2022-08-13 |
+| [Bubble Gum](https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:20 | 2024-06-05 |  |
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2023-07-20 |  |
 | [BYE \(feat\. Whee In\)](https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [BYE \(feat\. Whee In\)](https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx) | 3:08 | 2022-08-26 | 2022-10-22 |
 | [California Dream](https://open.spotify.com/track/3ulIMvCtahvAmAQHcCbDFs) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:59 | 2022-07-11 | 2024-04-23 |
@@ -325,7 +326,7 @@
 | [What I Want](https://open.spotify.com/track/252hKOfH7papkuhNV8oq7o) | [NiiHWA](https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q) | [Mad Dog, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/762yxxN19ca3Gvw2O3BJhx) | 3:18 | 2021-11-17 | 2022-06-13 |
 | [What If](https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:44 | 2022-01-09 |  |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-11-17 |  |
-| [When You Call My Name](https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [GATEWAY](https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW) | 3:29 | 2021-11-17 |  |
+| [When You Call My Name](https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [GATEWAY](https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW) | 3:29 | 2021-11-17 | 2024-06-06 |
 | [Whistle](https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:43 | 2022-06-08 | 2022-08-13 |
 | [Who Am I](https://open.spotify.com/track/05FIKEv2c1TiKGzx6uK37S) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [MOMENT](https://open.spotify.com/album/5Lfy8FTaRJzo7vMgnwyuOD) | 3:26 | 2021-11-17 | 2022-07-23 |
 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 | 2021-11-17 |  |

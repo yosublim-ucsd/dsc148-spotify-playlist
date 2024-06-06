@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 33116,
+  "num_followers": 33119,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAD0KxpgdyLqpHwvqqGoRL06",
+  "snapshot_id": "Zl5ZAAAAAAA+9jnZvGbYpH6UDVy3Yxhf",
   "tracks": [
     {
       "added_at": null,
@@ -39,70 +39,6 @@
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Hallows EP",
-        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "The Boy Who Destroyed The World",
-      "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "The Days Of The Phoenix",
-      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 94466,
-      "name": "Prelude 12/21",
-      "url": "https://open.spotify.com/track/6hxa24dKfCoe1EA6g0RHNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Dancing Through Sunday",
-      "url": "https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug"
     },
     {
       "added_at": null,
@@ -148,9 +84,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 165653,
-      "name": "Love Like Winter",
-      "url": "https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT"
+      "duration_ms": 94466,
+      "name": "Prelude 12/21",
+      "url": "https://open.spotify.com/track/6hxa24dKfCoe1EA6g0RHNw"
     },
     {
       "added_at": null,
@@ -164,9 +100,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Silver And Cold",
-      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
+      "duration_ms": 146666,
+      "name": "Dancing Through Sunday",
+      "url": "https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug"
     },
     {
       "added_at": null,
@@ -212,9 +148,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Summer Shudder",
-      "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk"
+      "duration_ms": 165653,
+      "name": "Love Like Winter",
+      "url": "https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT"
     },
     {
       "added_at": null,
@@ -228,9 +164,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 211040,
-      "name": "The Leaving Song Pt. II",
-      "url": "https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb"
+      "duration_ms": 250706,
+      "name": "Silver And Cold",
+      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
     },
     {
       "added_at": null,
@@ -276,9 +212,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 159613,
-      "name": "Kill Caustic",
-      "url": "https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me"
+      "duration_ms": 186973,
+      "name": "Summer Shudder",
+      "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk"
     },
     {
       "added_at": null,
@@ -292,9 +228,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 250360,
-      "name": "This Celluloid Dream",
-      "url": "https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v"
+      "duration_ms": 211040,
+      "name": "The Leaving Song Pt. II",
+      "url": "https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb"
     },
     {
       "added_at": null,
@@ -331,6 +267,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "Kill Caustic",
+      "url": "https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "This Celluloid Dream",
+      "url": "https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Sails In The Sunset",
         "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
@@ -347,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
       "artists": [
         {
@@ -356,9 +324,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 254680,
-      "name": "Bleed Black",
-      "url": "https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN"
+      "duration_ms": 186933,
+      "name": "Ever And A Day",
+      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
     },
     {
       "added_at": null,
@@ -379,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
       "artists": [
         {
@@ -388,9 +356,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Ever And A Day",
-      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
+      "duration_ms": 254680,
+      "name": "Bleed Black",
+      "url": "https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN"
     },
     {
       "added_at": null,
@@ -427,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "End Transmission",
-      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -455,6 +407,22 @@
       "duration_ms": 182133,
       "name": "Wester",
       "url": "https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "End Transmission",
+      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
     },
     {
       "added_at": null,
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
       "artists": [
         {
@@ -596,9 +564,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Too Shy To Scream",
-      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
+      "duration_ms": 184160,
+      "name": "Of Greetings And Goodbyes",
+      "url": "https://open.spotify.com/track/1PzXACkaohcYjcWTZx4lWR"
     },
     {
       "added_at": null,
@@ -615,6 +583,22 @@
       "duration_ms": 93426,
       "name": "Strength Through Wounding",
       "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Too Shy To Scream",
+      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
     },
     {
       "added_at": null,
@@ -651,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Sails In The Sunset",
         "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 182693,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -763,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "Two Of A Kind",
-      "url": "https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
@@ -795,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "Two Of A Kind",
+      "url": "https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shut Your Mouth And Open Your Eyes",
         "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 106400,
       "name": "Lower Your Head And Take It In The Body",
       "url": "https://open.spotify.com/track/2HAjiYgAAh7TKUvsqNUPUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 117960,
+      "name": "Cult Status",
+      "url": "https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY"
     }
   ],
   "unique_name": "This Is AFI",

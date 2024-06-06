@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Baby Gang
 
-542 songs - 1 day 0 hr 59 min
+543 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [21 Freestyle](https://open.spotify.com/track/2WnKNBq12Hf8BzTdrjwEkP) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [21 Freestyle](https://open.spotify.com/album/58apMhROHuGnRpGbjtJ00u) | 2:41 | 2022-12-19 | 2023-01-27 |
 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 | 2022-05-11 | 2022-09-09 |
 | [3uphon](https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:15 | 2023-11-17 | 2024-03-08 |
-| [419](https://open.spotify.com/track/1IlSzZcgzNGjRCZ75RyGUW) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [419](https://open.spotify.com/album/3TtPOALgX7Kmt5ggWD2hoR) | 2:19 | 2024-04-25 |  |
+| [419](https://open.spotify.com/track/1IlSzZcgzNGjRCZ75RyGUW) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [419](https://open.spotify.com/album/3TtPOALgX7Kmt5ggWD2hoR) | 2:19 | 2024-04-25 | 2024-06-06 |
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-16 | 2022-08-13 |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-11 | 2022-05-27 |
 | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo) | 3:07 | 2024-05-09 |  |
@@ -474,6 +474,7 @@
 | [T10](https://open.spotify.com/track/5O4dxlXUhsrpUxojfZTwKW) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [T10](https://open.spotify.com/album/6DlUG1SCjHeq666F4aPoox) | 2:42 | 2024-05-02 | 2024-05-24 |
 | [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 | 2023-07-13 | 2024-01-05 |
 | [Take 4](https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 4](https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr) | 2:50 | 2022-11-09 | 2023-03-25 |
+| [TARANTELLA \(feat\. Kid Yugi & RRARI DAL TACCO\)](https://open.spotify.com/track/5K0u93zeFEfNC2Om1p4CCk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAPO DELLA JERSEY](https://open.spotify.com/album/0MLAg2GbEnu5DB5mQE6Oa1) | 2:10 | 2024-06-05 |  |
 | [TARANTELLE](https://open.spotify.com/track/29DqUutD7L3OEy3Og8Yyss) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [TARANTELLE](https://open.spotify.com/album/0rN3nLra0OmI3Z7gA5d6YU) | 2:08 | 2022-05-11 | 2022-06-10 |
 | [Tarantola](https://open.spotify.com/track/7EE9L2acFBfLl8Z3wA6Wlv) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Tarantola](https://open.spotify.com/album/4ssbmYL7GCoMKzZVTgryES) | 2:08 | 2024-03-07 | 2024-03-22 |
 | [TCHOP](https://open.spotify.com/track/7bn2VpaP4jMnaqZMWwuFxf) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [TCHOP](https://open.spotify.com/album/1EJI81qJI6iM98gmbmzATW) | 3:01 | 2023-02-02 | 2023-04-18 |

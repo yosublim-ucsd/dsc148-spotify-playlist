@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 563254,
+  "num_followers": 563428,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 239639,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Disco Maniac",
-        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
-      },
-      "artists": [
-        {
-          "name": "Billy Vena",
-          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Disco Maniac",
-      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+        "name": "Disco Maniac",
+        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
       },
       "artists": [
         {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+          "name": "Billy Vena",
+          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+      "duration_ms": 144545,
+      "name": "Disco Maniac",
+      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1047,6 +1047,22 @@
       "duration_ms": 197733,
       "name": "<3 beat",
       "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 281780,
+      "name": "Vesuvio",
+      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 281780,
-      "name": "Vesuvio",
-      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "That's Right (Edit)",
-        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "That's Right - Edit",
-      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Workin' On It",
         "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 215823,
       "name": "Workin\u2019 On It",
       "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "That's Right (Edit)",
+        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "That's Right - Edit",
+      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1323,22 +1323,6 @@
       "duration_ms": 158405,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1379,6 +1363,42 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Bring On Up Our Love",
+        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Bring On Up Our Love",
+      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 197297,
       "name": "To the Stars and Back",
       "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Bring On Up Our Love",
-        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Kimchii",
-          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Bring On Up Our Love",
-      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Ordinary Love (Folamour Remix)",
-        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 325706,
-      "name": "Ordinary Love - Folamour Remix",
-      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Be with You Tonight",
         "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
       },
@@ -1511,6 +1491,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Ordinary Love (Folamour Remix)",
+        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 325706,
+      "name": "Ordinary Love - Folamour Remix",
+      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 355480,
       "name": "Poundland Anthem",
       "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 231733,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1647,6 +1647,42 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Into the Ether",
+        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 191061,
+      "name": "Raining in LA",
+      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "girlgetdown",
+        "url": "https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "girlgetdown",
+      "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
@@ -1663,22 +1699,6 @@
       "duration_ms": 230854,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Into the Ether",
-        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 191061,
-      "name": "Raining in LA",
-      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "girlgetdown",
-        "url": "https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "girlgetdown",
-      "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Better Will Come",
         "url": "https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv"
       },
@@ -1787,6 +1787,46 @@
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "So Flute (Blackchild 2024 Remix)",
+        "url": "https://open.spotify.com/album/1LU9yzRWwSMAEgx3ItqYss"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        },
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 352727,
+      "name": "So Flute - Blackchild 2024 Remix",
+      "url": "https://open.spotify.com/track/2VxLh90vYZi0BssOwGh71p"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1879,46 +1919,6 @@
       "duration_ms": 181874,
       "name": "FWD (feat. Rudimental & House Gospel Choir)",
       "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Call On Me & Lifetime (Remixes)",
-        "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Dimitri From Paris",
-          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
-      "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
     }
   ],
   "unique_name": "Poolside Disco",

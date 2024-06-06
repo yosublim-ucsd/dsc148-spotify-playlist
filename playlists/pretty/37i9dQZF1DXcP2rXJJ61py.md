@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 
 ### [House of the Dragon: Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcP2rXJJ61py)
 
-> The official playlist for House of the Dragon \(and House Targaryen\)\. Watch the entire first season on HBO Max.
+> All must choose\. The official playlist for House of the Dragon \(and House Targaryen\) — new season coming soon to Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,184 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,186 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 | 84 | [See You for What You Are](https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:09 |
 | 85 | [Truth](https://open.spotify.com/track/5QKK7785dSYrutocW7lGub) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 3:31 |
 
-Snapshot ID: `Zj6ENAAAAABPXUf/ag5/+0HqGDawT4sj`
+Snapshot ID: `ZmDNXQAAAABsvNGXkL1+kE8kx1IYlppn`

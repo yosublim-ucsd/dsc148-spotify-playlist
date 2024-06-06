@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12192,
+  "num_followers": 12190,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Big Sun",
         "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 239200,
       "name": "Birds, Pt. I",
       "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
     },
     {
       "added_at": "2024-01-05 03:52:17",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
-      "added_at": "2022-02-25 04:13:05",
-      "album": {
-        "name": "Marrow",
-        "url": "https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff"
-      },
-      "artists": [
-        {
-          "name": "Joyful Joyful",
-          "url": "https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90"
-        }
-      ],
-      "duration_ms": 279464,
-      "name": "Marrow",
-      "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Ker Yegu",
@@ -679,6 +663,22 @@
       "duration_ms": 274520,
       "name": "Ker Yegu",
       "url": "https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn"
+    },
+    {
+      "added_at": "2022-02-25 04:13:05",
+      "album": {
+        "name": "Marrow",
+        "url": "https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff"
+      },
+      "artists": [
+        {
+          "name": "Joyful Joyful",
+          "url": "https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90"
+        }
+      ],
+      "duration_ms": 279464,
+      "name": "Marrow",
+      "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
     },
     {
       "added_at": "2022-01-07 01:30:59",
@@ -937,26 +937,6 @@
       "url": "https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Wandering II (Ed Carlsen Rework)",
-        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        },
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Wandering II - Ed Carlsen Rework",
-      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
-    },
-    {
       "added_at": "2022-03-03 00:47:36",
       "album": {
         "name": "El Momento",
@@ -975,6 +955,26 @@
       "duration_ms": 199305,
       "name": "El Momento",
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Wandering II (Ed Carlsen Rework)",
+        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        },
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Wandering II - Ed Carlsen Rework",
+      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Logue",
-        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
-      },
-      "artists": [
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 234292,
-      "name": "Jinja Encounters",
-      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
-    },
-    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Bucolic Architecture (Flug 8 Remix)",
@@ -1155,6 +1139,22 @@
       "duration_ms": 386754,
       "name": "Bucolic Architecture - Flug 8 Remix",
       "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Logue",
+        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
+      },
+      "artists": [
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 234292,
+      "name": "Jinja Encounters",
+      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
     },
     {
       "added_at": "2022-09-30 02:23:59",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
     },
     {
-      "added_at": "2023-05-12 02:51:50",
-      "album": {
-        "name": "Do Make Say Think",
-        "url": "https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy"
-      },
-      "artists": [
-        {
-          "name": "Do Make Say Think",
-          "url": "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
-        }
-      ],
-      "duration_ms": 629506,
-      "name": "1978",
-      "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
-    },
-    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Docutrax, Vol. 2: Serious Incidents",
@@ -1275,6 +1259,22 @@
       "duration_ms": 152321,
       "name": "Earth's Orbit",
       "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
+    },
+    {
+      "added_at": "2023-05-12 02:51:50",
+      "album": {
+        "name": "Do Make Say Think",
+        "url": "https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy"
+      },
+      "artists": [
+        {
+          "name": "Do Make Say Think",
+          "url": "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
+        }
+      ],
+      "duration_ms": 629506,
+      "name": "1978",
+      "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
     },
     {
       "added_at": "2022-01-11 01:31:39",

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Panter B\u00e9lico",
-  "num_followers": 201161,
+  "num_followers": 201193,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
-        "name": "Te Confirmo",
-        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 222130,
-      "name": "Te Confirmo",
-      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
-    },
-    {
-      "added_at": "2024-05-31 18:00:00",
-      "album": {
         "name": "El Malo (Remix)",
         "url": "https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 259910,
       "name": "El Malo - Remix",
       "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
+    },
+    {
+      "added_at": "2024-05-31 18:00:00",
+      "album": {
+        "name": "Te Confirmo",
+        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 222130,
+      "name": "Te Confirmo",
+      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
     },
     {
       "added_at": "2024-05-31 18:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
-        "name": "Que Llueva Tequila",
-        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 189273,
-      "name": "Mira Qui\u00e9n Lo Dice",
-      "url": "https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww"
-    },
-    {
-      "added_at": "2024-05-31 18:00:00",
-      "album": {
         "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
         "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 208461,
       "name": "Ciega Por El",
       "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
+    },
+    {
+      "added_at": "2024-05-31 18:00:00",
+      "album": {
+        "name": "Que Llueva Tequila",
+        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 189273,
+      "name": "Mira Qui\u00e9n Lo Dice",
+      "url": "https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww"
     },
     {
       "added_at": "2024-05-31 18:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
-        "name": "Dulcesito De Chamoy",
-        "url": "https://open.spotify.com/album/7J3zMhP1YP1sdiisRT8FfC"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Dulcesito De Chamoy",
-      "url": "https://open.spotify.com/track/3FsUMWJZOlRzQIOf05PVtr"
-    },
-    {
-      "added_at": "2024-05-31 18:00:00",
-      "album": {
         "name": "Que Llueva Tequila",
         "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 188346,
       "name": "Hojas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ"
+    },
+    {
+      "added_at": "2024-05-31 18:00:00",
+      "album": {
+        "name": "Dulcesito De Chamoy",
+        "url": "https://open.spotify.com/album/7J3zMhP1YP1sdiisRT8FfC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Dulcesito De Chamoy",
+      "url": "https://open.spotify.com/track/3FsUMWJZOlRzQIOf05PVtr"
     },
     {
       "added_at": "2024-05-31 18:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
-        "name": "Que Llueva Tequila",
-        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "Lloras",
-      "url": "https://open.spotify.com/track/7Is1kChOMpPRLA3ZTnoeD6"
-    },
-    {
-      "added_at": "2024-05-31 18:00:00",
-      "album": {
         "name": "Antes De Que Te Vayas",
         "url": "https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
+        "name": "Que Llueva Tequila",
+        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "Lloras",
+      "url": "https://open.spotify.com/track/7Is1kChOMpPRLA3ZTnoeD6"
+    },
+    {
+      "added_at": "2024-05-31 18:00:00",
+      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
-        "name": "El Tenampa",
-        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 134954,
-      "name": "El Tenampa",
-      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
-    },
-    {
-      "added_at": "2024-05-31 18:00:00",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/0H6pKP6ySporHiDCG6DKmu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 183626,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/0iTafmNe563xhFprjGSZyA"
+    },
+    {
+      "added_at": "2024-05-31 18:00:00",
+      "album": {
+        "name": "El Tenampa",
+        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "El Tenampa",
+      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
     },
     {
       "added_at": "2024-05-31 18:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
-    },
-    {
-      "added_at": "2024-05-31 18:00:00",
-      "album": {
         "name": "Yo No Creo En Los Hombres",
         "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 215893,
       "name": "Yo No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+    },
+    {
+      "added_at": "2024-05-31 18:00:00",
+      "album": {
+        "name": "En Tu Sonrisa",
+        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
     },
     {
       "added_at": "2024-05-31 18:00:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-05-31 18:00:00",
       "album": {
-        "name": "En Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 181466,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
     },
     {
       "added_at": "2024-05-31 18:00:00",

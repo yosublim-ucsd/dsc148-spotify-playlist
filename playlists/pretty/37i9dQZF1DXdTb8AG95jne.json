@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: HANRORO(\ud55c\ub85c\ub85c)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 466614,
+  "num_followers": 466670,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
-      },
-      "artists": [
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
-    },
-    {
-      "added_at": "2024-05-29 12:17:37",
-      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -319,18 +299,22 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+      "duration_ms": 195573,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
     },
     {
       "added_at": "2024-05-29 12:17:37",
@@ -347,6 +331,22 @@
       "duration_ms": 204000,
       "name": "GRIPPIN\u2019THEGREEN",
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
+    },
+    {
+      "added_at": "2024-05-29 12:17:37",
+      "album": {
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
       "added_at": "2024-05-29 12:17:37",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
-        "name": "The Land of Fantasy",
-        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 222999,
-      "name": "I Know Where The Rainbow has Fallen",
-      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
-    },
-    {
-      "added_at": "2024-05-29 12:17:37",
-      "album": {
         "name": "HOWEVER",
         "url": "https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 222999,
+      "name": "I Know Where The Rainbow has Fallen",
+      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
+    },
+    {
+      "added_at": "2024-05-29 12:17:37",
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
-        "name": "It's been a while",
-        "url": "https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 294396,
-      "name": "It's been a while",
-      "url": "https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH"
-    },
-    {
-      "added_at": "2024-05-29 12:17:37",
-      "album": {
         "name": "PLEASURES",
         "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 167000,
       "name": "In Love",
       "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+    },
+    {
+      "added_at": "2024-05-29 12:17:37",
+      "album": {
+        "name": "It's been a while",
+        "url": "https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 294396,
+      "name": "It's been a while",
+      "url": "https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH"
     },
     {
       "added_at": "2024-05-29 12:17:37",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
+        "name": "BAPPI",
+        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "BAPPI",
+      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
+    },
+    {
+      "added_at": "2024-05-29 12:17:37",
+      "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
       },
@@ -655,6 +671,22 @@
       "duration_ms": 208773,
       "name": "Forest (feat. Claire Young)",
       "url": "https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G"
+    },
+    {
+      "added_at": "2024-05-29 12:17:37",
+      "album": {
+        "name": "\ub354 \ud32c 2ROUND Part.1",
+        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 236578,
+      "name": "\uba85\ub3d9\ucf5c\ub9c1",
+      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
     },
     {
       "added_at": "2024-05-29 12:17:37",
@@ -679,38 +711,6 @@
       "duration_ms": 205720,
       "name": "Half Asleep (feat. Peakboy, hiko)",
       "url": "https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57"
-    },
-    {
-      "added_at": "2024-05-29 12:17:37",
-      "album": {
-        "name": "BAPPI",
-        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 174900,
-      "name": "BAPPI",
-      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
-    },
-    {
-      "added_at": "2024-05-29 12:17:37",
-      "album": {
-        "name": "\ub354 \ud32c 2ROUND Part.1",
-        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "\uba85\ub3d9\ucf5c\ub9c1",
-      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
     },
     {
       "added_at": "2024-05-29 12:17:37",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
-        "name": "Chum",
-        "url": "https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Chum",
-      "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"
-    },
-    {
-      "added_at": "2024-05-29 12:17:37",
-      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2024-05-29 12:17:37",
       "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+        "name": "Chum",
+        "url": "https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
         }
       ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+      "duration_ms": 225160,
+      "name": "Chum",
+      "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"
     },
     {
       "added_at": "2024-05-29 12:17:37",
@@ -863,6 +843,26 @@
       "duration_ms": 206970,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
+    },
+    {
+      "added_at": "2024-05-29 12:17:37",
+      "album": {
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     }
   ],
   "unique_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",

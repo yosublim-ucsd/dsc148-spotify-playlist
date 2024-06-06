@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 418875,
+  "num_followers": 418970,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-30 15:28:01",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
-    },
-    {
-      "added_at": "2024-05-30 15:28:01",
-      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -735,34 +719,18 @@
     {
       "added_at": "2024-05-30 15:28:01",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
       "artists": [
         {
-          "name": "Linn Hope",
-          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
         }
       ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
-    },
-    {
-      "added_at": "2024-05-30 15:28:01",
-      "album": {
-        "name": "The Way Home",
-        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
-      },
-      "artists": [
-        {
-          "name": "Wendie Solomon",
-          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "The Way Home",
-      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2024-05-30 15:28:01",
@@ -783,18 +751,34 @@
     {
       "added_at": "2024-05-30 15:28:01",
       "album": {
-        "name": "Saying Things",
-        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
       },
       "artists": [
         {
-          "name": "Emanuel Fremont",
-          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
         }
       ],
-      "duration_ms": 123500,
-      "name": "Saying Things",
-      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
+      "duration_ms": 147535,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
+    },
+    {
+      "added_at": "2024-05-30 15:28:01",
+      "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+      },
+      "artists": [
+        {
+          "name": "Linn Hope",
+          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
     },
     {
       "added_at": "2024-05-30 15:28:01",
@@ -811,6 +795,22 @@
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
+    },
+    {
+      "added_at": "2024-05-30 15:28:01",
+      "album": {
+        "name": "Saying Things",
+        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Fremont",
+          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Saying Things",
+      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
     },
     {
       "added_at": "2024-05-30 15:28:01",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-30 15:28:01",
       "album": {
-        "name": "Act Of Reconciling",
-        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
-      },
-      "artists": [
-        {
-          "name": "Herbe Matin",
-          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Act Of Reconciling",
-      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
-    },
-    {
-      "added_at": "2024-05-30 15:28:01",
-      "album": {
         "name": "Silent joy",
         "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 145750,
       "name": "Silent joy",
       "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
+    },
+    {
+      "added_at": "2024-05-30 15:28:01",
+      "album": {
+        "name": "Act Of Reconciling",
+        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
+      },
+      "artists": [
+        {
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Act Of Reconciling",
+      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
     },
     {
       "added_at": "2024-05-30 15:28:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-05-30 15:28:01",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
-    },
-    {
-      "added_at": "2024-05-30 15:28:01",
-      "album": {
         "name": "Stille Sj\u00f8",
         "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 137642,
       "name": "Release from silence",
       "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
+    },
+    {
+      "added_at": "2024-05-30 15:28:01",
+      "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
     },
     {
       "added_at": "2024-05-30 15:28:01",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-05-30 15:28:01",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
-      },
-      "artists": [
-        {
-          "name": "Taganema",
-          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
-        }
-      ],
-      "duration_ms": 145529,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
-    },
-    {
-      "added_at": "2024-05-30 15:28:01",
-      "album": {
         "name": "Liminal ride",
         "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 156705,
       "name": "Liminal ride",
       "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
+    },
+    {
+      "added_at": "2024-05-30 15:28:01",
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
+      },
+      "artists": [
+        {
+          "name": "Taganema",
+          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
+        }
+      ],
+      "duration_ms": 145529,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
     },
     {
       "added_at": "2024-05-30 15:28:01",

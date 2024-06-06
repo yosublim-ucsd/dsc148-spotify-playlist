@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 186850,
+  "num_followers": 186870,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Soy Un Inconsciente",
-      "url": "https://open.spotify.com/track/6NKyD3WhlSo192ah4Vuo97"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Zamba para Olvidarte",
         "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 199960,
       "name": "Zamba para Olvidarte",
       "url": "https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Soy Un Inconsciente",
+      "url": "https://open.spotify.com/track/6NKyD3WhlSo192ah4Vuo97"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Hernan Figueroa Reyes El Unico",
-        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+        "name": "Este Destino Cantor",
+        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
       },
       "artists": [
         {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
         }
       ],
-      "duration_ms": 168948,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+      "duration_ms": 214386,
+      "name": "Mi Luna Cautiva",
+      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Este Destino Cantor",
-        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
+        "name": "Hernan Figueroa Reyes El Unico",
+        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
       },
       "artists": [
         {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
         }
       ],
-      "duration_ms": 214386,
-      "name": "Mi Luna Cautiva",
-      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
+      "duration_ms": 168948,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 207320,
-      "name": "Del Chucaro",
-      "url": "https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu"
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
+      "duration_ms": 207320,
+      "name": "Del Chucaro",
+      "url": "https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Quien Me Quita Lo Cantado",
         "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 201427,
       "name": "Por las costas entrerrianas",
       "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+        "name": "22 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
       },
       "artists": [
         {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
         }
       ],
-      "duration_ms": 233314,
-      "name": "La Pome\u00f1a",
-      "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"
+      "duration_ms": 220866,
+      "name": "La Nochera",
+      "url": "https://open.spotify.com/track/3cMzShrqtSRaEbdTP8nWl9"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "22 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
       },
       "artists": [
         {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
         }
       ],
-      "duration_ms": 220866,
-      "name": "La Nochera",
-      "url": "https://open.spotify.com/track/3cMzShrqtSRaEbdTP8nWl9"
+      "duration_ms": 233314,
+      "name": "La Pome\u00f1a",
+      "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1163,22 +1163,6 @@
       "duration_ms": 132496,
       "name": "La Palavecino",
       "url": "https://open.spotify.com/track/00fjTOsFohOQXJhO5KDuwi"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Balderrama",
-      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1263,6 +1247,22 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Juancito Carnaval",
-        "url": "https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Juancito Carnaval",
-      "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "A Tucum\u00e1n - La Tucumanita y Zamba del regreso",
         "url": "https://open.spotify.com/album/4XWdckYf2UFETP6vmcJLGA"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 216733,
       "name": "Canci\u00f3n para una Mentira",
       "url": "https://open.spotify.com/track/3OeSLQkkbUF5hfDHrmFThs"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "Juancito Carnaval",
+        "url": "https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Juancito Carnaval",
+      "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "22 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Llorar\u00e9",
-      "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Posade\u00f1a Linda",
         "url": "https://open.spotify.com/album/4uusF4qOg0PlRtcdmBevMC"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 271872,
       "name": "Posade\u00f1a Linda",
       "url": "https://open.spotify.com/track/4KcFK0hcj843zVpssjAMBe"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "22 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
+      },
+      "artists": [
+        {
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Llorar\u00e9",
+      "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
+        "name": "Antig\u00fcedades (En Vivo)",
+        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
+      },
+      "artists": [
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+        }
+      ],
+      "duration_ms": 303555,
+      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
+      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
         "name": "Tarumba",
         "url": "https://open.spotify.com/album/07JKpHFQF3FbhridKdBg4A"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 198000,
       "name": "Tarumba",
       "url": "https://open.spotify.com/track/4dkqq32PpBTmzWHiYEYy0Q"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
-        "name": "Antig\u00fcedades (En Vivo)",
-        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
-      },
-      "artists": [
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        }
-      ],
-      "duration_ms": 303555,
-      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
-      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
     },
     {
       "added_at": "2024-05-16 20:48:08",

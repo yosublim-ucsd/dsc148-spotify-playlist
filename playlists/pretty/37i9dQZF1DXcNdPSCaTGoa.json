@@ -1,6 +1,6 @@
 {
   "description": "Remembering <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX-n7beSCAHzBQ\">Brenda Fassie's</a> incredible legacy, 20 years on.",
-  "num_followers": 60472,
+  "num_followers": 60574,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Durbans Finest",
-        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
-      },
-      "artists": [
-        {
-          "name": "Blackwhole",
-          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "1000 Seconds",
-      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 229586,
       "name": "Kaptein",
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Durbans Finest",
+        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
+      },
+      "artists": [
+        {
+          "name": "Blackwhole",
+          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "1000 Seconds",
+      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "2 Shot",
-          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
         }
       ],
-      "duration_ms": 262826,
-      "name": "Mambotjie (feat. 2Shot)",
-      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
+      "duration_ms": 279306,
+      "name": "Weekend Special",
+      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -443,18 +439,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
       "artists": [
         {
-          "name": "Brenda & The Big Dudes",
-          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "2 Shot",
+          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
         }
       ],
-      "duration_ms": 279306,
-      "name": "Weekend Special",
-      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
+      "duration_ms": 262826,
+      "name": "Mambotjie (feat. 2Shot)",
+      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Mkhukhu Funkshen",
+        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Skwatta kamp",
+          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
         }
       ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+      "duration_ms": 275360,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mkhukhu Funkshen",
-        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
       "artists": [
         {
-          "name": "Skwatta kamp",
-          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
         }
       ],
-      "duration_ms": 275360,
-      "name": "Umoya",
-      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2024-05-22 11:00:00",

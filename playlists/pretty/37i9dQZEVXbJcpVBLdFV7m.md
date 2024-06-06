@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,871 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,872 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 49 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 |
 | 50 | [Ronald](https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Ronald](https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2) | 3:16 |
 
-Snapshot ID: `LfJ8GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LfPNmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

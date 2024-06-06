@@ -4,7 +4,7 @@
 
 > The Marías's <a href="spotify:album:03guxdOi12XJbnvxvxbpwG">Submarine</a> is here
 
-2,814 songs - 6 day 7 hr 44 min
+2,816 songs - 6 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1965,7 +1965,7 @@
 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/4hie5sbZpqiMzzZY25dOVp) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:50 | 2023-04-14 | 2023-06-02 |
 | [racetrack](https://open.spotify.com/track/48yA757PIMqJsXhP1snqso) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [racetrack](https://open.spotify.com/album/0RuT3dmCkAsXkurFEXAjfV) | 4:12 | 2021-08-14 | 2021-11-13 |
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2024-02-27 | 2024-05-03 |
-| [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 |  |
+| [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 | 2024-06-06 |
 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2020-11-13 | 2021-06-05 |
 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 | 2023-03-31 | 2023-04-19 |
 | [Rainbow Mind](https://open.spotify.com/track/7GOuFX2n0UqFMJHNXS9zs2) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV) | [Rainbow Mind](https://open.spotify.com/album/1XlfsYZQGXf6VcbyIJmIX6) | 4:33 | 2023-04-28 | 2023-08-26 |
@@ -1993,7 +1993,7 @@
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 | 2023-07-29 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2023-03-10 | 2023-04-01 |
 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 | 2021-01-29 | 2021-02-06 |
-| [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 | 2024-04-26 |  |
+| [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 | 2024-04-26 | 2024-06-06 |
 | [Riding With Me](https://open.spotify.com/track/2gZCXOYWtv3i7bhl870Bqa) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Riding With Me](https://open.spotify.com/album/3v1hXdqqnxJkVDZi9R1pjB) | 2:56 | 2019-09-24 | 2020-05-05 |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-01-10 | 2022-05-07 |
 | [right here](https://open.spotify.com/track/2xnNgKhyMl9MxBmRNGnBJP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [right here](https://open.spotify.com/album/6f8zlDw5RgFhyuc9wPu4BG) | 3:14 | 2019-11-06 | 2020-02-05 |
@@ -2270,7 +2270,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-08 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-08 | 2022-12-25 |
 | [Spit Up](https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [I Don't Like My Chances On The Outside](https://open.spotify.com/album/6aD5li3XAl6aT4oTq8bE2M) | 4:40 | 2023-08-11 | 2023-08-26 |
-| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-11 |  |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-11 | 2024-06-06 |
 | [Splendor](https://open.spotify.com/track/5gtBltnNY2bjlAxy0RPlhf) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [She Only Said](https://open.spotify.com/album/0T7eVLYyDDliWwggDLZ9iU) | 4:13 | 2023-10-11 | 2023-11-11 |
 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 | 2022-05-20 | 2022-07-19 |
 | [sports](https://open.spotify.com/track/4xp4OChbf94rpxwPe9qA5R) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [sports](https://open.spotify.com/album/6bxnyq3skEwaXzcauU7FUs) | 3:00 | 2020-09-25 | 2020-10-13 |
@@ -2639,6 +2639,7 @@
 | [Waiting on You](https://open.spotify.com/track/7204ajWyC38ZbcuCULCI3e) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:31 | 2022-04-15 | 2022-05-28 |
 | [Walk Backwards](https://open.spotify.com/track/4HtwantcVnMCOzGmiyeGmT) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Walk Backwards](https://open.spotify.com/album/0ti1WWYsz8tMMYupwHag7b) | 2:33 | 2021-02-12 | 2021-06-05 |
 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2020-06-19 | 2021-01-12 |
+| [WALLBOY](https://open.spotify.com/track/6Qfgiw4D78yZQsvAmb3MJL) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [WALLBOY](https://open.spotify.com/album/7F7guXxj0PfWJTlPedzy0w) | 3:10 | 2024-06-05 |  |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 | 2022-04-23 |
 | [WANNAGO?](https://open.spotify.com/track/7i48RHkDSR8Llnx8365Bj2) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [The Burden of Fever Dreams](https://open.spotify.com/album/5uLDLgEEZgACeR6JiCeg9H) | 3:14 | 2024-04-05 | 2024-06-01 |
 | [Want Me Back](https://open.spotify.com/track/7IoV5eGR85wUOXjninlmNu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:54 | 2019-08-10 | 2020-11-27 |
@@ -2674,6 +2675,7 @@
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-18 | 2023-03-18 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-12-01 | 2022-01-22 |
 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 | 2023-08-28 | 2024-05-03 |
+| [Weird Fishes/ Arpeggi](https://open.spotify.com/track/1JbI6oy4mq3ANNNoAbpkwS) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/0veYtiZMaSdl8dDipcvSYN) | 5:58 | 2024-06-05 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:18 | 2021-11-20 | 2022-01-22 |
 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 | 2023-01-20 | 2023-03-11 |
 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 | 2024-04-12 |  |

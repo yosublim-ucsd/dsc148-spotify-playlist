@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 24345,
+  "num_followers": 24382,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAIP5AHfCulGCL6Jz0Z88Sv",
+  "snapshot_id": "Zl5ZAAAAAABnMJ9HcQLtSUzQp8SIRfz4",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ven X LA",
-        "url": "https://open.spotify.com/album/0OziSS9Rh7H2xnJwfYeMoS"
+        "name": "Apenas es Martes",
+        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Jaque Mate",
-          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 158026,
-      "name": "Me Ven X LA",
-      "url": "https://open.spotify.com/track/3VVk8rPvZ7xdKzYugKNO42"
+      "duration_ms": 216633,
+      "name": "Apenas es Martes",
+      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
     },
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas es Martes",
-        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
+        "name": "Me Ven X LA",
+        "url": "https://open.spotify.com/album/0OziSS9Rh7H2xnJwfYeMoS"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
         }
       ],
-      "duration_ms": 216633,
-      "name": "Apenas es Martes",
-      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+      "duration_ms": 158026,
+      "name": "Me Ven X LA",
+      "url": "https://open.spotify.com/track/3VVk8rPvZ7xdKzYugKNO42"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHV FLX",
         "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 144426,
       "name": "CHV FLX",
       "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 128759,
-      "name": "Arturon Beltran",
-      "url": "https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pizza Est\u00e1 En El Horno",
         "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 128759,
+      "name": "Arturon Beltran",
+      "url": "https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dr. Simi",
         "url": "https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 173160,
       "name": "Dr. Simi",
       "url": "https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El JP (En Vivo)",
-        "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "El JP (En Vivo)",
-      "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El JP (En Vivo)",
+        "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "El JP (En Vivo)",
+      "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
@@ -811,22 +811,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listos Pal\u00b4 Top\u00f3n",
-        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
+        "name": "Bien Firme el Sombrero",
+        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
+      },
+      "artists": [
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 140341,
+      "name": "Bien Firme el Sombrero",
+      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Johan Bastidas",
-          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
         }
       ],
-      "duration_ms": 136973,
-      "name": "Listos Pal\u00b4 Top\u00f3n",
-      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
+      "duration_ms": 146960,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia"
     },
     {
       "added_at": null,
@@ -851,38 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+        "name": "Listos Pal\u00b4 Top\u00f3n",
+        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Los Ninis",
-      "url": "https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Firme el Sombrero",
-        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
-      },
-      "artists": [
-        {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
         },
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Johan Bastidas",
+          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
         }
       ],
-      "duration_ms": 140341,
-      "name": "Bien Firme el Sombrero",
-      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
+      "duration_ms": 136973,
+      "name": "Listos Pal\u00b4 Top\u00f3n",
+      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
     },
     {
       "added_at": null,

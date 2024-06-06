@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Dimension & Alison Wonderland",
-  "num_followers": 241211,
+  "num_followers": 241269,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 163147,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Click Click Click",
         "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 163147,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Hey Boy Hey Girl (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Hey Boy Hey Girl - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Needle On The Record",
         "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
       },
@@ -1559,6 +1579,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "FAME?",
+        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 142562,
+      "name": "FAME?",
+      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "To Be Real",
         "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
       },
@@ -1579,46 +1619,6 @@
       "duration_ms": 203225,
       "name": "To Be Real",
       "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Hey Boy Hey Girl (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Hey Boy Hey Girl - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "FAME?",
-        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 142562,
-      "name": "FAME?",
-      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Feels Like You",
+        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Feels Like You",
+      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Vibrate / On The Ground",
         "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
       },
@@ -1755,30 +1775,6 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Know Me Better",
-        "url": "https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u"
-      },
-      "artists": [
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        },
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        }
-      ],
-      "duration_ms": 176148,
-      "name": "Know Me Better",
-      "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1803,22 +1799,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Feels Like You",
-        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
+        "name": "Know Me Better",
+        "url": "https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u"
       },
       "artists": [
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
         },
         {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
         }
       ],
-      "duration_ms": 202758,
-      "name": "Feels Like You",
-      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
+      "duration_ms": 176148,
+      "name": "Know Me Better",
+      "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Ghetto EP",
-        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        }
-      ],
-      "duration_ms": 214389,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        }
+      ],
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "808",
-      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Danger (REAPER Remix)",
         "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 187586,
       "name": "Danger - REAPER Remix",
       "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "808",
+      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
     },
     {
       "added_at": "2024-05-31 04:00:00",

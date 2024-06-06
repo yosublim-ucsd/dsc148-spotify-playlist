@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Lena
 
-12,364 songs - 25 day 18 hr 34 min
+12,365 songs - 25 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6083,6 +6083,7 @@
 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-02-08 | 2024-02-16 |
 | [La noia \(feat\. Álvaro De Luna\)](https://open.spotify.com/track/1D94coWwRJT0FXUiuazxFw) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [La noia \(feat\. Álvaro De Luna\)](https://open.spotify.com/album/5TqINO2QeKywKdVK3U5Jbk) | 3:09 | 2024-05-02 | 2024-05-10 |
 | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/album/7KPWHITXB44PYMY7ZdzRDN) | 2:41 | 2024-01-04 | 2024-01-12 |
+| [La Raclure](https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Raclure](https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU) | 3:02 | 2024-05-30 |  |
 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 | 2022-05-19 | 2022-05-27 |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-09 | 2023-03-18 |
 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-05-11 | 2023-05-19 |

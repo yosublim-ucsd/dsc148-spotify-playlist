@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 679189,
+  "num_followers": 679265,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Unearthed",
-        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Suicide Squad: The Album",
         "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 363114,
       "name": "Bohemian Rhapsody",
       "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Unearthed",
+        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "History Books - Short Stories",
-        "url": "https://open.spotify.com/album/4VY9t7aej2aVG6LtmPE1IE"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        },
-        {
-          "name": "Karina Rykman",
-          "url": "https://open.spotify.com/artist/4uiRvtezQs3mZ2OichIhYj"
-        }
-      ],
-      "duration_ms": 183938,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/05AJZpifUJuayIThybzN60"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Lest We Forget - The Best Of",
         "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 288000,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "History Books - Short Stories",
+        "url": "https://open.spotify.com/album/4VY9t7aej2aVG6LtmPE1IE"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        },
+        {
+          "name": "Karina Rykman",
+          "url": "https://open.spotify.com/artist/4uiRvtezQs3mZ2OichIhYj"
+        }
+      ],
+      "duration_ms": 183938,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/05AJZpifUJuayIThybzN60"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "By The People, For The People",
-        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "King Of Pain",
-      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "By The People, For The People",
+        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "King Of Pain",
+      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 255774,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Yellow (Torch Songs)",
-        "url": "https://open.spotify.com/album/27ENhkMbawDNqLdLNeN5vC"
-      },
-      "artists": [
-        {
-          "name": "Mallory Knox",
-          "url": "https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Yellow - Torch Songs",
-      "url": "https://open.spotify.com/track/2b5OTshtoFvtctAsKJOwyw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/6H2VIw0KwJx8YxL23wQfQ3"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 242666,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Yellow (Torch Songs)",
+        "url": "https://open.spotify.com/album/27ENhkMbawDNqLdLNeN5vC"
+      },
+      "artists": [
+        {
+          "name": "Mallory Knox",
+          "url": "https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Yellow - Torch Songs",
+      "url": "https://open.spotify.com/track/2b5OTshtoFvtctAsKJOwyw"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "War Pigs",
-        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 309888,
-      "name": "War Pigs",
-      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "The Metallica Blacklist",
         "url": "https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 262693,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/5zpubzwKoDQupHOCI6kgMf"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "War Pigs",
+        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 309888,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Bellamy",
+          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
+        }
+      ],
+      "duration_ms": 195345,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/3SoKTpu4wPnMItqjA8Ff6p"
       },
@@ -2499,22 +2515,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Bellamy",
-          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
-        }
-      ],
-      "duration_ms": 195345,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Addicted to Love",
         "url": "https://open.spotify.com/album/4XjiLfkxDeGgOamI6hccCl"
       },
@@ -2531,18 +2531,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Greatest Hitz",
-        "url": "https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 146706,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD"
+      "duration_ms": 212647,
+      "name": "Miss Independent - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
     }
   ],
   "unique_name": "Rock Covers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 127 songs - 6 hr 59 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 130 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 125 | [Black & Whites](https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Black & Whites](https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt) | 3:40 |
 | 126 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 |
 | 127 | [A Goat & A Dolphin](https://open.spotify.com/track/3jIngQ3hgLgIv3tMSzrQa6) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer 2](https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv) | 2:29 |
+| 128 | [High John](https://open.spotify.com/track/55liByWjb2T7j0vohSel10) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Laughing so Hard, it Hurts](https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ) | 2:10 |
+| 129 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 |
+| 130 | [Band Practice Pt 2\. Ft\. Phonte & Median](https://open.spotify.com/track/5oMCxf5GrRoeJE8UARbOoj) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [The Wonder Years](https://open.spotify.com/album/0SnnejMBMdgkNyS4XqJBL4) | 1:59 |
 
-Snapshot ID: `AAAcr9lk7NU0xagMJVjhb4b/PSV2R+aF`
+Snapshot ID: `AAAcshm69Qbh+TTBmTf6gacMciyz8zGK`

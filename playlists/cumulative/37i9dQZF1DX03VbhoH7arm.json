@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Morena Tropicana (MTG)",
+        "url": "https://open.spotify.com/album/0882bZ1EHZa1EXJT4VBrkY"
+      },
+      "artists": [
+        {
+          "name": "Malla",
+          "url": "https://open.spotify.com/artist/4w1fJ5YYsYyxQg2DceFrnB"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Morena Tropicana - MTG",
+      "url": "https://open.spotify.com/track/6xCAXCTuUeY2nT0p9cAdvB"
+    },
+    {
+      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -3980,10 +3998,6 @@
         {
           "name": "Mc Leozin",
           "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
       "date_added": "2024-05-31",
@@ -5896,7 +5910,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 163200,
       "name": "Toca o Trompete",
       "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"

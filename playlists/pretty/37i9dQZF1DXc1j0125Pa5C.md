@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Belo
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,723 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,872 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 11 | [Até que enfim / Pra você acreditar / Paciência \- Ao Vivo](https://open.spotify.com/track/5DMZgOgYuMIsyewofxvJzs) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Ferrugem em Casa 2 \(Bloco 1\) \[Ao Vivo\]](https://open.spotify.com/album/46xmD0eirM5ttp8NBf6JSP) | 4:26 |
 | 12 | [Climatizar / Ensaboado \- Ao Vivo](https://open.spotify.com/track/5C4ZMkIL8yWa0eGpwUbbBq) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Ferrugem 10 Anos, Vol\. 2 \- Replay \(Ao Vivo\)](https://open.spotify.com/album/1hazFJ5EVb8clifhIUnV9D) | 3:51 |
 | 13 | [Fissuras De Um Casal / Caixa Postal \- Ao Vivo](https://open.spotify.com/track/45yo7oZ11jYQnM1XcQTLre) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Energia Benzadeus \(Ao Vivo\)](https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2) | 5:24 |
-| 14 | [Pra Mim Não É / Se Eu Te Pego Te Envergo / Instigante](https://open.spotify.com/track/7splE3IVt1JihMGOsSwC5j) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 2](https://open.spotify.com/album/5eDeOFbZmtMfYbmrhMEwPE) | 7:06 |
+| 14 | [Pra Mim Não É / Se Eu Te Pego Te Envergo / Instigante \- Ao Vivo](https://open.spotify.com/track/7splE3IVt1JihMGOsSwC5j) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/5eDeOFbZmtMfYbmrhMEwPE) | 7:06 |
 | 15 | [Amanhã / Loucura do Seu Coração \- Ao Vivo](https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Sorriso Eu Gosto No Pagode \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg) | 6:13 |
 | 16 | [Reinventar / Alucinado / Dorme Com Deus \- Ao Vivo](https://open.spotify.com/track/3ldNWf81VCAO68UIGA3AiU) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1), [Pata de Urso](https://open.spotify.com/artist/3zZuSjl65xxjdtYUMTvbxA) | [Reinventar / Alucinado / Dorme Com Deus \(Ao Vivo\)](https://open.spotify.com/album/7amg22TylDWw2fC8XRAJIP) | 5:34 |
 | 17 | [Evidências / Cara de Pau / Ela É Demais \- Ao Vivo](https://open.spotify.com/track/5hciC7UYwDOMwBNbsCiMDl) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc) | 5:31 |

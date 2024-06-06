@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Sommeren rammer med <a href="spotify:track:3CDYrDINLxRhjvvqbS">Lamin's</a> <a href="spotify:album:3Q4XiWwBXMxMlz9LZ2cZYo">EP</a> 🥵 tjek story og bli' solbrændt 🌅
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,997 likes - 107 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,009 likes - 107 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 3 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |
 | 4 | [Noget Si'r Mig](https://open.spotify.com/track/0VKpZJPkO2PcvwiSOwOvEc) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Noget Si'r Mig](https://open.spotify.com/album/5MkJ9dIJBM7BNJFgtLgmfN) | 3:19 |
 | 5 | [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 |
-| 6 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
+| 6 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
 | 7 | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/track/5NjehIS8G8xWKsIJCiQov8) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/album/2Dj8zC44xsrq1HtjSVGN4o) | 2:44 |
 | 8 | [Ahhh](https://open.spotify.com/track/6rBpQC9k089N9GSumHNZpI) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:22 |
 | 9 | [Lost Child](https://open.spotify.com/track/5Au9Kra41nLUQfH6cWUdp3) | [Julie Pavon](https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs) | [Lost Child](https://open.spotify.com/album/7MKtYdBzKnkQcDh1mQW0PA) | 3:07 |

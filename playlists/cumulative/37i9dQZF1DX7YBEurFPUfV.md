@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-68 songs - 3 hr 56 min
+69 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Kifi](https://open.spotify.com/track/4CIfIG6L3WA1b6FHcR9wVu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Kifi](https://open.spotify.com/album/5MGtHCneW9nJ50NeTdzAvg) | 3:15 | 2024-02-24 |  |
 | [Lambo](https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lambo](https://open.spotify.com/album/1IsWDRBKI9KlqFoSvMIJci) | 3:33 | 2024-05-10 |  |
 | [Layam](https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Layam](https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6) | 4:52 | 2024-02-24 | 2024-05-10 |
-| [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 | 2024-02-24 |  |
+| [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 | 2024-02-24 | 2024-06-06 |
 | [Lella El Baya](https://open.spotify.com/track/0VLispf4BLgivvxIpaW6Ad) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [Lella El Baya](https://open.spotify.com/album/4o0JIe4ijtniXvoCmNvRR4) | 2:56 | 2024-02-24 | 2024-05-04 |
 | [Lezem Lezem](https://open.spotify.com/track/3JAV7VqOYEQDT7tFFfLSqY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Lezem Lezem](https://open.spotify.com/album/46VkK0IxKyKGBCJGt2BgGI) | 2:28 | 2024-02-24 |  |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2024-02-24 |  |
@@ -53,6 +53,7 @@
 | [Mel Galb](https://open.spotify.com/track/1RjZ14m5vJCa47WDmM2RHD) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mel Galb](https://open.spotify.com/album/1V4kGcJm7sh4iX3r5hAF0O) | 3:45 | 2024-02-24 |  |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2024-02-24 | 2024-05-03 |
 | [Messyeba](https://open.spotify.com/track/5PQEjCkpBTcu7ckIHzlFZm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Messyeba](https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr) | 4:43 | 2024-02-24 |  |
+| [MONDAY](https://open.spotify.com/track/2rXwQZu39IkjjlnVOGdLev) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [MONDAY](https://open.spotify.com/album/7bHuP10BZyK6zUjqnMPJTU) | 2:52 | 2024-06-05 |  |
 | [NESSI ENNOUM](https://open.spotify.com/track/79YxZIeHwjSF65yKl03ebx) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [NESSI ENNOUM](https://open.spotify.com/album/64MeBBw7pKbnTuQtUYJndT) | 4:35 | 2024-02-24 | 2024-06-05 |
 | [Nesta3ref](https://open.spotify.com/track/0dIYvl9pLL5lhmTXOWkz5Q) | [2Two](https://open.spotify.com/artist/0mj273jWZNCOCMIorzMjtw), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Nesta3ref](https://open.spotify.com/album/5We6huHN6gtuVPYXXqNw3e) | 3:25 | 2024-02-24 |  |
 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 | 2024-02-24 | 2024-05-04 |

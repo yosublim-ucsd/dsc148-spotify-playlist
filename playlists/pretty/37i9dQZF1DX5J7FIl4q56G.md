@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Bad Omens
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,116 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,192 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 29 | [From the Past Comes the Storms \- Re\-Recorded](https://open.spotify.com/track/1TkZ5zd4E7GTaFCvV5VpdS) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [From the Past Comes the Storms \(Re\-Recorded\)](https://open.spotify.com/album/4Hg5AgwXCCifSA5j0GdWTh) | 4:53 |
 | 30 | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1) | [Nile](https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE) | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy) | 3:50 |
 | 31 | [Frailty](https://open.spotify.com/track/3QCTPXsK1PmuGT3vyo7Y45) | [Gruesome](https://open.spotify.com/artist/3IkWr3wRsPZ4lqcGVKKlqG) | [Frailty](https://open.spotify.com/album/45LMsxGWBKYQ1H3vIZtWPA) | 4:32 |
-| 32 | [Ride the Flatline](https://open.spotify.com/track/1jxurcDJOIetOVKHnommay) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Ride the Flatline](https://open.spotify.com/album/65XttkEWNXaOqE9NreNraS) | 2:49 |
+| 32 | [Ride the Flatline \(feat\. Jami Morgan & Code Orange\)](https://open.spotify.com/track/1jxurcDJOIetOVKHnommay) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv), [Jami Morgan](https://open.spotify.com/artist/6BUDMHs42XiJVjfk0EPHGc), [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Ride the Flatline \(feat\. Jami Morgan & Code Orange\)](https://open.spotify.com/album/65XttkEWNXaOqE9NreNraS) | 2:49 |
 | 33 | [SIZE KING](https://open.spotify.com/track/7fpIvMIwGsEay62dM0x0iF) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [SIZE KING](https://open.spotify.com/album/6QzutCHeLazqlapllPDTJx) | 3:04 |
 | 34 | [REALITY CHECK](https://open.spotify.com/track/1LiFu8n0QNDvTFTtH7vIon) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [REALITY CHECK](https://open.spotify.com/album/077EjT0DDUlrDU6dYcRBGR) | 2:55 |
 | 35 | [One By One](https://open.spotify.com/track/3FHl8efHBFB8TFWv0cs5ZM) | [Never Back Down](https://open.spotify.com/artist/4qyWns3YuVTcRBu3tLfZyS), [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [One By One](https://open.spotify.com/album/6YfF3cO7DlD6n9pd2wbFFZ) | 2:15 |

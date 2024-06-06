@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 844714,
+  "num_followers": 845102,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "FRESH",
-        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
-      },
-      "artists": [
-        {
-          "name": "NXVAMANE",
-          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
-        }
-      ],
-      "duration_ms": 68687,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "AUTOMOTIVO EMPURRA",
         "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 72014,
       "name": "AUTOMOTIVO EMPURRA",
       "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
+      },
+      "artists": [
+        {
+          "name": "NXVAMANE",
+          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
+        }
+      ],
+      "duration_ms": 68687,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "MONTAGEM INVAS\u00c3O",
         "url": "https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 74769,
       "name": "MONTAGEM INVAS\u00c3O",
       "url": "https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2024-05-08 15:21:25",

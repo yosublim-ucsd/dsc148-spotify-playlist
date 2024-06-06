@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-735 songs - 1 day 4 hr 46 min
+738 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Glitch Flower](https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Glitch Flower](https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO) | 2:52 | 2024-02-09 |  |
 | [Glitter](https://open.spotify.com/track/04jmtfMsshOdbhevoSzBxG) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Glitter](https://open.spotify.com/album/4q6i13TRVpaE0xDBOpJAhM) | 1:35 | 2023-01-13 | 2023-09-16 |
 | [Global High](https://open.spotify.com/track/2FNVT0ug04lPM1pR4jnww8) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Yea Yeh Yeah](https://open.spotify.com/album/3ubTgGUXl1nkxQ1kGyShFH) | 1:34 | 2023-04-11 | 2023-10-20 |
+| [Glowing Firefly Waltz](https://open.spotify.com/track/690nc3o39vROr09u2gpU6Q) | [Age of Departures](https://open.spotify.com/artist/6eLOG5NiDw8it9PbnC6WdF) | [Dusty Attic](https://open.spotify.com/album/3mVvMHn47oco4oIogZUXsA) | 2:36 | 2024-06-05 |  |
 | [gm](https://open.spotify.com/track/7tRXsjW8Yoz6xMaxprsQYm) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [gm](https://open.spotify.com/album/14p1U9dldMnEXP1ToIx8YA) | 2:09 | 2023-01-13 |  |
 | [Golden](https://open.spotify.com/track/04KynVoyrEf4OU48Dw9hgS) | [francesca rose](https://open.spotify.com/artist/47i0uOrWb8XXMYQIa9R9qA) | [Golden](https://open.spotify.com/album/7yK2AwASUtViC4CvC3r7qE) | 2:10 | 2024-02-09 |  |
 | [Golden Leaves](https://open.spotify.com/track/7lY30OriUEqDsaywYkEaee) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Golden Leaves](https://open.spotify.com/album/7II0W0CARooGYHE40NIHyU) | 2:34 | 2023-01-13 |  |
@@ -465,6 +466,7 @@
 | [patience](https://open.spotify.com/track/0oQrVn1ug3JFreiugJbmsR) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [patience](https://open.spotify.com/album/3wlYdD1TW3isAv4qaawZSB) | 2:06 | 2023-01-13 |  |
 | [pattern master](https://open.spotify.com/track/3zex5kqxDPxcb1W9yVI62o) | [Beatriction](https://open.spotify.com/artist/4SSr3iApVhqgPLhIKOjrRs) | [pattern master](https://open.spotify.com/album/6h8KaYFGKLfHQrZJlp8Ijf) | 2:20 | 2023-01-13 |  |
 | [patterns of peace](https://open.spotify.com/track/70BO1pxMmy4NW9Erwlymh4) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [kaleidoscopes](https://open.spotify.com/album/4GSUMxsOfySGzYumuJ9i8P) | 3:05 | 2023-01-13 |  |
+| [pawsitive](https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [pawsitive](https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m) | 2:16 | 2024-06-05 |  |
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2023-09-22 |  |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2023-01-13 |  |
 | [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 | 2023-01-13 |  |
@@ -625,6 +627,7 @@
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |
 | [Sushi Brain](https://open.spotify.com/track/6qsaBLpqxkxCkS2pUYDslr) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Sushi Brain](https://open.spotify.com/album/3zwdMxlU8Ups7n2ZyJwL9B) | 2:14 | 2023-10-13 |  |
 | [Sweet Hugs](https://open.spotify.com/track/5VWJ8g4KW5gUovq9JcJQQS) | [Sora](https://open.spotify.com/artist/00JdEIGleCDoyrrKiFu8Vk), [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Sweet Hugs](https://open.spotify.com/album/4LYGfW7qycf3sQFPQRBjdm) | 2:06 | 2023-01-13 | 2023-09-16 |
+| [Switch On](https://open.spotify.com/track/035nWX4IQasCbcGZWobDeC) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Switch On](https://open.spotify.com/album/6wBYFDmR5bQAgw0HM92Ukw) | 2:03 | 2024-06-05 |  |
 | [Synchronicity](https://open.spotify.com/track/6cxcooVFJM3iwRR5ZGR5AP) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Synchronicity](https://open.spotify.com/album/4FJPiRM0vWHfPUDvXiNOuD) | 3:17 | 2023-01-13 | 2023-09-29 |
 | [Take Flight](https://open.spotify.com/track/1EuxBUSDegGfm7nNfbrAmo) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Take Flight](https://open.spotify.com/album/1EjfIfbkzbLljiogISC1xY) | 2:21 | 2023-01-13 |  |
 | [Take us there](https://open.spotify.com/track/4fj0Zv7huXXiZKHk0S5DjM) | [Tactic Frog](https://open.spotify.com/artist/0jKjCXV0B1hkqDjs5rbnjT) | [Take us there](https://open.spotify.com/album/7HsdveANIIbdUPLdltsNxe) | 2:18 | 2023-01-13 |  |

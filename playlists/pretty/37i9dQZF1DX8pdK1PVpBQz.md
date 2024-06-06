@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Pretty Girl<br/>Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,476 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,519 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You're So Cold \(Like My House\)](https://open.spotify.com/track/5lZ4w2PUb6K6JGQM4tIGzK) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [You're So Cold \(Like My House\)](https://open.spotify.com/album/5gSu5GEKdHMb8csHxbz6v8) | 2:56 |
 | 2 | [Snack](https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel) | [Snack](https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg) | 2:33 |
-| 3 | [My Trust, My Love](https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Get Back To Me EP](https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW) | 3:50 |
+| 3 | [My Trust, My Love](https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Get Back To Me](https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW) | 3:50 |
 | 4 | [she's lying to me](https://open.spotify.com/track/7gHrHtCAOX9QAlYnJmW1gP) | [michael duncan](https://open.spotify.com/artist/7G782kqSW5TuwsbkPZJ8NG) | [she's lying to me](https://open.spotify.com/album/4uzCctwtXuFkd6ftGFFQGA) | 2:34 |
 | 5 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
 | 6 | [Wake UP!](https://open.spotify.com/track/0KMvA5OyFqK8zEeWz1II17) | [Darby](https://open.spotify.com/artist/6aNR1pUIhZOYZvSzbWfQOT) | [Wake UP!](https://open.spotify.com/album/5GvTZ0R8n8SVammrc3AVM1) | 2:09 |

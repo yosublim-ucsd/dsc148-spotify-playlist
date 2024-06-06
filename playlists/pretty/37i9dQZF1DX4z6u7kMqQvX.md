@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,214 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,226 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 90 | [Nosotros Dos](https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Nosotros Dos](https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj) | 4:06 |
 | 91 | [Cómo olvidar](https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:15 |
 | 92 | [Una Temporada Más](https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Una Temporada Más](https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl) | 2:59 |
-| 93 | [Canción de Amor](https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay) | [Pato Lange](https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx) | [Canción de Amor](https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4) | 3:19 |
-| 94 | [Ey](https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z) | [Barco](https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom) | [Ey](https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e) | 3:17 |
+| 93 | [Ey](https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z) | [Barco](https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom) | [Ey](https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e) | 3:17 |
+| 94 | [Canción de Amor](https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay) | [Pato Lange](https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx) | [Canción de Amor](https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4) | 3:19 |
 | 95 | [Tu Recuerdo](https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Tu Recuerdo](https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6) | 3:53 |
 | 96 | [Domingo Escarlata](https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Domingo Escarlata](https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf) | 3:49 |
 | 97 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 |
 | 98 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |
 | 99 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
-| 100 | [PISCINA OLÍMPICA](https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [REGIO](https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw) | 3:58 |
+| 100 | [Las Heridas](https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Las Heridas](https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd) | 3:25 |
 
 Snapshot ID: `ZkbIMAAAAADg41dL7l4LY5sPG0HK326i`

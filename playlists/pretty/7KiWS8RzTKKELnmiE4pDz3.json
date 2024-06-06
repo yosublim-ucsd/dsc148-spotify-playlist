@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcr9lk7NU0xagMJVjhb4b/PSV2R+aF",
+  "snapshot_id": "AAAcshm69Qbh+TTBmTf6gacMciyz8zGK",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2267,6 +2267,54 @@
       "duration_ms": 149760,
       "name": "A Goat & A Dolphin",
       "url": "https://open.spotify.com/track/3jIngQ3hgLgIv3tMSzrQa6"
+    },
+    {
+      "added_at": "2024-06-05 12:23:51",
+      "album": {
+        "name": "Laughing so Hard, it Hurts",
+        "url": "https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 130156,
+      "name": "High John",
+      "url": "https://open.spotify.com/track/55liByWjb2T7j0vohSel10"
+    },
+    {
+      "added_at": "2024-06-05 12:27:23",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Life Will Be",
+      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
+    },
+    {
+      "added_at": "2024-06-05 12:40:00",
+      "album": {
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/0SnnejMBMdgkNyS4XqJBL4"
+      },
+      "artists": [
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "duration_ms": 119084,
+      "name": "Band Practice Pt 2. Ft. Phonte & Median",
+      "url": "https://open.spotify.com/track/5oMCxf5GrRoeJE8UARbOoj"
     }
   ],
   "unique_name": "main ",

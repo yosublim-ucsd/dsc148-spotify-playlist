@@ -4,7 +4,7 @@
 
 > The most exciting new music, featuring Featuring RADAR official artist The Marías on the cover.
 
-745 songs - 1 day 14 hr 35 min
+746 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-05-29 |  |
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-09-06 | 2022-11-15 |
 | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) | 2:44 | 2022-05-17 | 2022-06-15 |
+| [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-05-29 |  |
 | [Worse Together](https://open.spotify.com/track/4NUUu2AGJTmeIovsyIHkiV) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Worse Together](https://open.spotify.com/album/2JIgRcXq3CnoRDdNxJRB4N) | 3:01 | 2023-05-08 | 2023-08-31 |
 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2024-02-12 | 2024-04-13 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-04-12 | 2024-06-01 |

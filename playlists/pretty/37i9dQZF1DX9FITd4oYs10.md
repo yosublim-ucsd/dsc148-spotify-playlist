@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,932 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,931 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 56 | [Dior](https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Dior](https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y) | 3:06 |
 | 57 | [A Música da Mãe](https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [A Música da Mãe](https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp) | 3:38 |
 | 58 | [Relação](https://open.spotify.com/track/0LkUf43tCGdwUVBuAssdVD) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Relação](https://open.spotify.com/album/0CU3Cm9HXv6cWv1NxMuqXw) | 3:04 |
-| 59 | [O Vagabundo e a Dama](https://open.spotify.com/track/5Ct7Q1XhI6J2NThehcgb05) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado](https://open.spotify.com/album/0P8XE4f89zBztayYjJj4pa) | 5:07 |
-| 60 | [Facetime](https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Prin$](https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw) | 3:00 |
+| 59 | [Facetime](https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Prin$](https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw) | 3:00 |
+| 60 | [O Vagabundo e a Dama](https://open.spotify.com/track/5Ct7Q1XhI6J2NThehcgb05) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado](https://open.spotify.com/album/0P8XE4f89zBztayYjJj4pa) | 5:07 |
 
 Snapshot ID: `ZdjdPQAAAAD888dLZwR4wICGkSyHVgUn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Chiquis
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,578 likes - 168 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,591 likes - 168 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 27 | [Mira Quién Lo Dice](https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:09 |
 | 28 | [Ando Sentimental](https://open.spotify.com/track/0cTqqYkqNgBcvWtrI9p5Pq) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:41 |
 | 29 | [Sigo Loco Por Su Amor](https://open.spotify.com/track/7wLOWkcEZvOoC3tAWODIXS) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:15 |
-| 30 | [Hotel](https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 2:38 |
-| 31 | [La Molly](https://open.spotify.com/track/0Bc0ETVyHY6ix0NwXjzv1a) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 3:31 |
+| 30 | [Hotel](https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 2:39 |
+| 31 | [La Molly](https://open.spotify.com/track/0Bc0ETVyHY6ix0NwXjzv1a) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 3:29 |
 | 32 | [Volviste](https://open.spotify.com/track/7LxxXsIcWd3HtSCTWtTPuF) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 3:20 |
 | 33 | [Rockstar](https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:47 |
 | 34 | [Recurso Ilimitado](https://open.spotify.com/track/0DA4rkMN6GvnyO5szrGM4I) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z), [Charly Pérez](https://open.spotify.com/artist/1cGbJzKJN7XAI259t8Iwvr) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:25 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,588 songs - 3 day 11 hr 2 min
+1,589 songs - 3 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Advokat](https://open.spotify.com/track/5XfdafM0Av4FbRGucp3Dhl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:45 | 2021-05-30 | 2021-06-13 |
 | [Aerosol](https://open.spotify.com/track/0FXz5HSVciam4DyXqbZJ4e) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 3:48 | 2023-05-13 | 2023-05-27 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-08-27 | 2022-10-23 |
-| [Ahhh](https://open.spotify.com/track/6rBpQC9k089N9GSumHNZpI) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:22 | 2024-06-01 |  |
+| [Ahhh](https://open.spotify.com/track/6rBpQC9k089N9GSumHNZpI) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:22 | 2024-06-01 | 2024-06-06 |
 | [Aldrig Giv Slip \(feat\. Sivas\)](https://open.spotify.com/track/0U7C2kt2ru3iMqLeMzZ69c) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Aldrig Giv Slip \(feat\. Sivas\)](https://open.spotify.com/album/2GuzJuyNrrb36IGtSZI8Kx) | 2:59 | 2021-03-27 | 2021-03-29 |
 | [Alene på Staden](https://open.spotify.com/track/7gicsQeGl908everJciIUN) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:08 | 2022-10-22 | 2022-10-30 |
 | [ALFABET \(ABC\)](https://open.spotify.com/track/5wtZL3jOm24JwIFZrzLbmc) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [ALFABET \(ABC\)](https://open.spotify.com/album/37fZ1SkONFJQssZlxx39QN) | 2:38 | 2023-03-25 | 2023-05-07 |
@@ -962,7 +962,8 @@
 | [MILANO](https://open.spotify.com/track/1OoTCDSgXenIX0ckNg3feM) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MILANO](https://open.spotify.com/album/2JzV2q9oMeufaSqmJqX4OQ) | 2:15 | 2022-01-14 | 2022-01-17 |
 | [MILANO](https://open.spotify.com/track/2aM7lTnRspfKi8PzoudMhu) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MILANO](https://open.spotify.com/album/2Y41QGjAYiIImfOttlFNql) | 2:15 | 2021-12-29 | 2022-01-15 |
 | [Million](https://open.spotify.com/track/2D3WwsWSJWNMnglP4KnDXf) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Million](https://open.spotify.com/album/08e6x4kJclAHeB6qNiYUxU) | 2:16 | 2021-04-04 | 2021-04-26 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-06 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-06 | 2024-06-06 |
 | [Min Mobil \- MGP 2022](https://open.spotify.com/track/1zooMwobWXca8AW6oAzB45) | [7even](https://open.spotify.com/artist/1Qq3fmCUtJ276vlg28OuCr) | [MGP 2022](https://open.spotify.com/album/4O3fsczCwCRwIQuRG8lf6q) | 2:24 | 2022-02-27 | 2022-03-02 |
 | [Min Taske](https://open.spotify.com/track/3t3PTKxs5CGkqfHXG2Lbow) | [Vigga](https://open.spotify.com/artist/00HoAp0u802jjonJowOPxC) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:43 | 2024-02-25 | 2024-02-28 |
 | [Min Ven](https://open.spotify.com/track/6Wq4dNlZXWDXfisVrCY3tc) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:17 | 2023-09-08 | 2023-09-12 |
@@ -1341,7 +1342,7 @@
 | [Stop The Rain](https://open.spotify.com/track/0VuDtcT7H4CAljLZEH021x) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:23 | 2021-10-31 | 2021-11-06 |
 | [Stop!](https://open.spotify.com/track/0HrfS7MVa7e6HNgFQuwFlP) | [Naya](https://open.spotify.com/artist/5z56QjQRpriNYzhnhPIcm0) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:45 | 2024-02-25 | 2024-03-13 |
 | [STOR MAN](https://open.spotify.com/track/3Ogy0Sog7JmnXBn43Dmyv0) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [STOR MAN](https://open.spotify.com/album/2zkfMfrIQicYXK6tEDlavG) | 3:03 | 2023-07-08 | 2023-07-23 |
-| [STOR MAND \(feat\. andreas odbjerg\)](https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:02 | 2022-10-22 | 2024-06-05 |
+| [STOR MAND \(feat\. andreas odbjerg\)](https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:02 | 2022-10-22 |  |
 | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA) | 3:02 | 2021-08-15 | 2022-10-23 |
 | [Storebæltsbroen](https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Storebæltsbroen](https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q) | 2:59 | 2024-04-06 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-13 | 2024-03-10 |

@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 142556,
       "name": "Bagazo",
       "url": "https://open.spotify.com/track/4BpdzdVk4o33Xn6nMObhxD"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 164865,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/2TnkVub0xoURlV40kuM3Pc"
@@ -3245,6 +3245,32 @@
     },
     {
       "album": {
+        "name": "El morenito",
+        "url": "https://open.spotify.com/album/7m0oGRp1darMqHBwYOV6KT"
+      },
+      "artists": [
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "MR el tono vocal",
+          "url": "https://open.spotify.com/artist/0l0IPvzE8IGKgksgElZqMB"
+        },
+        {
+          "name": "Montana Produciendo",
+          "url": "https://open.spotify.com/artist/217czCsa4A1ghI4qZ0xLFA"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113472,
+      "name": "El morenito",
+      "url": "https://open.spotify.com/track/2lit5dICNIO0vLAIHkNiCr"
+    },
+    {
+      "album": {
         "name": "El Motorcito",
         "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
       },
@@ -3970,7 +3996,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 179912,
       "name": "Ense\u00f1ame",
       "url": "https://open.spotify.com/track/7avLdI6b6Yf7XNusIdgWy3"
@@ -4005,7 +4031,7 @@
         },
         {
           "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/5IwRo4xhRz5JM2y5IXHjcU"
+          "url": "https://open.spotify.com/artist/5vSsavQTyozMcG5XDfmmX7"
         }
       ],
       "date_added": "2024-05-30",
@@ -7453,6 +7479,28 @@
     },
     {
       "album": {
+        "name": "Mi MAM\u00c1",
+        "url": "https://open.spotify.com/album/0Jy4D3GURRASGONV9tmIXx"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Daniela Blasco",
+          "url": "https://open.spotify.com/artist/18Vhlc8r07wfrblTyfHEcg"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Mi MAM\u00c1",
+      "url": "https://open.spotify.com/track/0PoX5C2xtEW5sRhoaTgqqV"
+    },
+    {
+      "album": {
         "name": "Exito, Vol 1",
         "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
       },
@@ -7791,6 +7839,32 @@
     },
     {
       "album": {
+        "name": "Mu\u00e9rete",
+        "url": "https://open.spotify.com/album/4yCbdb6WOf1ZJoex5HePit"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        },
+        {
+          "name": "Negrette Game Over",
+          "url": "https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111379,
+      "name": "Mu\u00e9rete",
+      "url": "https://open.spotify.com/track/1vZSraThjz0bOThujbjQQx"
+    },
+    {
+      "album": {
         "name": "M\u00e9telo S\u00e1calo",
         "url": "https://open.spotify.com/album/6VZ651cnktGGtUXxxmFrVH"
       },
@@ -7978,6 +8052,36 @@
       "duration_ms": 118168,
       "name": "No Hay Recreo",
       "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
+    },
+    {
+      "album": {
+        "name": "No La Tienen",
+        "url": "https://open.spotify.com/album/5MQJqC81qqnDKnLXh8sweB"
+      },
+      "artists": [
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164005,
+      "name": "No La Tienen",
+      "url": "https://open.spotify.com/track/1NLjSrU0D6l8unt3hUPTAd"
     },
     {
       "album": {
@@ -9055,6 +9159,32 @@
     },
     {
       "album": {
+        "name": "Pila de Nota (Remix)",
+        "url": "https://open.spotify.com/album/54M7sQOxcApEYT7kzPle8y"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Jeycito",
+          "url": "https://open.spotify.com/artist/41TrVNeFPXJ33Qj7DNtK9v"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146040,
+      "name": "Pila de Nota - Remix",
+      "url": "https://open.spotify.com/track/6lNCZexJ2wVnHp7VBazUEU"
+    },
+    {
+      "album": {
         "name": "PILA DE PEPA",
         "url": "https://open.spotify.com/album/0EkWKglSp4pcGt3hne4JtX"
       },
@@ -9736,7 +9866,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 164397,
       "name": "Que Chimba",
       "url": "https://open.spotify.com/track/0ZeRt4IiV7lkw7PaT0qrdb"
@@ -9868,7 +9998,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 129448,
       "name": "QUE PELUCHE",
       "url": "https://open.spotify.com/track/2FtPkgXoWkAEDkFGxvTwFH"
@@ -11238,7 +11368,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 171793,
       "name": "Super Peluche Panda - En Vivo",
       "url": "https://open.spotify.com/track/5BcBGcymJnNVOK3866ZVkl"
@@ -12477,6 +12607,28 @@
     },
     {
       "album": {
+        "name": "Toy Prendio",
+        "url": "https://open.spotify.com/album/1IhUqxjmStJjQNWtGPEoUF"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160081,
+      "name": "Toy Prendio",
+      "url": "https://open.spotify.com/track/0kMYyxS8Jo4230bAszKiqx"
+    },
+    {
+      "album": {
         "name": "Toy Recho",
         "url": "https://open.spotify.com/album/4ZsZyqUQhrjglhowlpQLje"
       },
@@ -13430,6 +13582,32 @@
       "duration_ms": 359074,
       "name": "Versace - Remix",
       "url": "https://open.spotify.com/track/4y4SfmkcTnFYClU3xhXgrD"
+    },
+    {
+      "album": {
+        "name": "Viene el Chichi",
+        "url": "https://open.spotify.com/album/0lzSvTpw7w703QMSqAFLdG"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116552,
+      "name": "Viene el Chichi",
+      "url": "https://open.spotify.com/track/4UjllgwZyICfjCByvwWJ5u"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:58r1rB5t3VF5X6yXGPequV\">Maverick City Music</a> & <a href=\"spotify:artist:6008gjU9UTUCfLZoSun5SH\">Annatoria</a>",
-  "num_followers": 86639,
+  "num_followers": 86721,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Elijah Level (with Limoblaze)",
         "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 173262,
       "name": "Elijah Level (with Limoblaze)",
       "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 235559,
       "name": "Yesu (Jesus)",
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Holy Impact",
-        "url": "https://open.spotify.com/album/04s7WRi21IjxJtt7dCjiQ5"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 139897,
-      "name": "Working for My Good",
-      "url": "https://open.spotify.com/track/7IwhWWrugXAMbbcyUrj2jg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "This can only be God",
         "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 218644,
       "name": "This can only be God",
       "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Holy Impact",
+        "url": "https://open.spotify.com/album/04s7WRi21IjxJtt7dCjiQ5"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 139897,
+      "name": "Working for My Good",
+      "url": "https://open.spotify.com/track/7IwhWWrugXAMbbcyUrj2jg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
+      },
+      "artists": [
+        {
+          "name": "J Vessel",
+          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
+        }
+      ],
+      "duration_ms": 193596,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Not Gonna Worry",
         "url": "https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 205714,
       "name": "Not Gonna Worry",
       "url": "https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "REASON",
-        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
-      },
-      "artists": [
-        {
-          "name": "J Vessel",
-          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
-        }
-      ],
-      "duration_ms": 193596,
-      "name": "REASON",
-      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Trip of the Faith",
-        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
-      },
-      "artists": [
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Promesse",
-      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 165694,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Trip of the Faith",
+        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
+      },
+      "artists": [
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "CONFIDENCE (Part 1)",
         "url": "https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "No Trouble",
-        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "No Trouble",
-      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Authentic",
         "url": "https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX"
       },
@@ -1371,30 +1371,6 @@
       "duration_ms": 130856,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "MY DAYS",
-        "url": "https://open.spotify.com/album/2iZGyWGhk2Tpz4UcEQEDG7"
-      },
-      "artists": [
-        {
-          "name": "Monaze",
-          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
-        },
-        {
-          "name": "Jayclassic",
-          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
-        },
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "MY DAYS",
-      "url": "https://open.spotify.com/track/1KCkFjHrMKun36MUDiheU6"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1427,6 +1403,30 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "MY DAYS",
+        "url": "https://open.spotify.com/album/2iZGyWGhk2Tpz4UcEQEDG7"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "MY DAYS",
+      "url": "https://open.spotify.com/track/1KCkFjHrMKun36MUDiheU6"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Already Won",
         "url": "https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY"
       },
@@ -1443,6 +1443,30 @@
       "duration_ms": 228979,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Right Here (It Must Be)",
+        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "duration_ms": 189382,
+      "name": "Right Here (It Must Be)",
+      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1483,30 +1507,6 @@
       "duration_ms": 153962,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Right Here (It Must Be)",
-        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        }
-      ],
-      "duration_ms": 189382,
-      "name": "Right Here (It Must Be)",
-      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS"
-      },
-      "artists": [
-        {
-          "name": "Kushim",
-          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 117955,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Banger",
         "url": "https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV"
       },
@@ -1707,22 +1687,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Agba",
-        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS"
       },
       "artists": [
         {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
         },
         {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
         }
       ],
-      "duration_ms": 204434,
-      "name": "Agba",
-      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
+      "duration_ms": 117955,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1747,6 +1727,26 @@
       "duration_ms": 208701,
       "name": "All of My Worship",
       "url": "https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Agba",
+        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 204434,
+      "name": "Agba",
+      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Good 2 Me",
+        "url": "https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Good 2 Me",
+      "url": "https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 194400,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Good 2 Me",
-        "url": "https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m"
-      },
-      "artists": [
-        {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Good 2 Me",
-      "url": "https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX"
     },
     {
       "added_at": "2024-05-24 04:00:00",

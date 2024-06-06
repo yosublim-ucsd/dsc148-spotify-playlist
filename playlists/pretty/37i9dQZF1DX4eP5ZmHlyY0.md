@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: A.B.C\-Z
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,745 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,759 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 13 | [エンドレス・ジャーニー](https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [エンドレス・ジャーニー](https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR) | 2:55 |
 | 14 | [NINNIN JACK](https://open.spotify.com/track/6fG4sExielzxmQlhX7pEr7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [DEPARTURE](https://open.spotify.com/album/2IcaFXt9KAgLFdcNAktqlU) | 2:36 |
 | 15 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 |
-| 16 | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [TAEHYUN](https://open.spotify.com/artist/0ojbIKPNnbwRqKpAJxcIaP) | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4) | 3:04 |
+| 16 | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [TAEHYUN](https://open.spotify.com/artist/2fjOLqKPx5dQ4Af4iMIZf4) | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4) | 3:04 |
 | 17 | [Love Fire](https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE Ⅱ](https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO) | 3:11 |
 | 18 | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/track/3B01GFSfE7zomBwOOLzuO9) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/album/0WBuetifaEDUBcIPqpdrkx) | 3:33 |
 | 19 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 |

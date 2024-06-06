@@ -2,14 +2,14 @@
 
 ### [This Is Elaine Martins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ)
 
-> This is Elaine Martins\. The essential tracks, all in one playlist.
+> This is Elaine Martins\. Todos os maiores hits em uma só playlist.
 
-58 songs - 4 hr 21 min
+59 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe) | 4:09 | 2023-12-13 |  |
-| [Abraão \(Ao Vivo\)](https://open.spotify.com/track/0vuEdss2gXEU0XeRelz6W6) | [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Abraão \(Ao Vivo\)](https://open.spotify.com/album/2HqDF8nrCd14tKBHPTY9K3) | 5:05 | 2024-02-27 |  |
+| [Abraão \(Ao Vivo\)](https://open.spotify.com/track/0vuEdss2gXEU0XeRelz6W6) | [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Abraão \(Ao Vivo\)](https://open.spotify.com/album/2HqDF8nrCd14tKBHPTY9K3) | 5:05 | 2024-02-27 | 2024-06-06 |
 | [Agradeço ao Senhor](https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Agradeço ao Senhor](https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a) | 3:19 | 2023-07-09 |  |
 | [Ainda Existe Solução](https://open.spotify.com/track/0voAoS7sRwXfhWt6Z5Zcq4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda\-me](https://open.spotify.com/album/7kynVcUjINLffSuV90P5yF) | 4:42 | 2023-07-09 | 2023-09-22 |
 | [Alvará \(Ao Vivo\) \(feat\. Elaine Martins\)](https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr) | [Waguinho](https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Samba Adorador \(Ao Vivo\)](https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj) | 3:37 | 2023-07-09 |  |
@@ -49,6 +49,7 @@
 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 | 2023-07-09 |  |
 | [Ouve Senhor](https://open.spotify.com/track/47ScrQ1RpNNmMrFRqwJh64) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:20 | 2023-07-09 | 2023-12-14 |
 | [Palavras Líquidas](https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Palavras Líquidas](https://open.spotify.com/album/633KAVSvTRywDez2dhipDp) | 4:27 | 2023-07-09 |  |
+| [Pode Descansar \(Ao Vivo\)](https://open.spotify.com/track/0fcpopZX2R5ja524L5dlax) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Pode Descansar \(Ao Vivo\)](https://open.spotify.com/album/2S0Y2yVezVgRpxoslsrLJ0) | 4:34 | 2024-06-06 |  |
 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 | 2023-07-09 |  |
 | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/album/075EOV324SMWzffd3uO7QX) | 5:09 | 2023-07-09 |  |
 | [Quem é Este?](https://open.spotify.com/track/7IQ2ohWCn0riWIs580kI0g) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Posso Confiar](https://open.spotify.com/album/3A5WfixvsA44oIkknRbupr) | 7:04 | 2023-07-09 | 2024-01-28 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
-  "num_followers": 79815,
+  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
+  "num_followers": 79834,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAD5VzGM7mTlbasIZF2GTSQL",
+  "snapshot_id": "Zl5ZAAAAAAAelnqy9corNvIW0WcqZRoP",
   "tracks": [
     {
       "added_at": null,
@@ -203,38 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amar No Es Suficiente",
-        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "No Te Preocupes por M\u00ed",
-      "url": "https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amante de Lo Ajeno",
         "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
       },
@@ -251,6 +219,22 @@
       "duration_ms": 245920,
       "name": "Cosas del Amor",
       "url": "https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amar No Es Suficiente",
+        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "No Te Preocupes por M\u00ed",
+      "url": "https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh"
     },
     {
       "added_at": null,
@@ -287,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Completamente Blindada",
+      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amar No Es Suficiente",
         "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
       },
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Completamente Blindada",
-      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
+      "duration_ms": 220133,
+      "name": "Por hablarle de ti",
+      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
     },
     {
       "added_at": null,
@@ -339,54 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amar No Es Suficiente",
-        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 233280,
-      "name": "Si Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Por hablarle de ti",
-      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tributo a",
         "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
       },
@@ -407,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amar No Es Suficiente",
+        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -416,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Procuro Olvidarte",
-      "url": "https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH"
+      "duration_ms": 214000,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
     },
     {
       "added_at": null,
@@ -480,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 173000,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
+      "duration_ms": 185000,
+      "name": "Procuro Olvidarte",
+      "url": "https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH"
     },
     {
       "added_at": null,
@@ -535,6 +503,22 @@
       "duration_ms": 255186,
       "name": "El Amor Acaba (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
     },
     {
       "added_at": null,
@@ -719,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 176440,
-      "name": "El Nido (with Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
+      "duration_ms": 254053,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "El Nido (with Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emociones II",
         "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 254053,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
+      "duration_ms": 236866,
+      "name": "Qu\u00e9 Sabe Nadie - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
       "duration_ms": 199880,
       "name": "Vas A Llorar",
       "url": "https://open.spotify.com/track/65YAbcxJjJ2nHGCgS4Cyw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Qu\u00e9 Sabe Nadie - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf"
     },
     {
       "added_at": null,
@@ -919,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olv\u00eddalo",
-        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
       },
       "artists": [
         {
@@ -928,9 +912,25 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 196760,
-      "name": "Olv\u00eddalo",
-      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
+      "duration_ms": 244280,
+      "name": "Cuando grita la piel",
+      "url": "https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/1hyBatg4EBJtyLQqyiSBFz"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

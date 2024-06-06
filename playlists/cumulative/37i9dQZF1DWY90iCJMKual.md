@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: August Wahh
 
-238 songs - 13 hr 32 min
+239 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-09-06 | 2024-03-30 |
 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 | 2023-09-06 | 2024-01-27 |
 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 1:59 | 2023-09-06 | 2023-11-11 |
+| [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-06-05 |  |
 | [Maikee's Letters](https://open.spotify.com/track/21XjtaAEZxurElfPGSKrv9) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Maikee's Letters](https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ) | 5:00 | 2022-10-12 | 2023-07-29 |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-15 |  |
 | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 | 2024-03-12 | 2024-04-19 |

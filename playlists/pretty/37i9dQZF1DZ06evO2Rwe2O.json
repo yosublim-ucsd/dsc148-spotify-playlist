@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 11399,
+  "num_followers": 11404,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAACk2t3AdeSd9eo2lAoKo4gv",
+  "snapshot_id": "Zl5ZAAAAAABlU5KhKaReodHRdFz3Kgtk",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 326733,
+      "name": "Audience of One",
+      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Speak Jesus",
         "url": "https://open.spotify.com/album/6oJY4rogX1Y9UHL2yL21TY"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 257940,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/3xc5C0e85ZJbXLz0nrANWt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 326733,
-      "name": "Audience of One",
-      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+        "name": "Get the Truth",
+        "url": "https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 265600,
-      "name": "You're Worthy Of My Praise",
-      "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
+      "duration_ms": 257026,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get the Truth",
-        "url": "https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 257026,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU"
+      "duration_ms": 265600,
+      "name": "You're Worthy Of My Praise",
+      "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 205413,
-      "name": "In Christ",
-      "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
+      "duration_ms": 215706,
+      "name": "Friend Like You",
+      "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 215706,
-      "name": "Friend Like You",
-      "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
+      "duration_ms": 205413,
+      "name": "In Christ",
+      "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 339693,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0"
+      "duration_ms": 197786,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
       "duration_ms": 213200,
       "name": "Completely Free",
       "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 339693,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0"
     },
     {
       "added_at": null,
@@ -728,25 +744,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 197786,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Just The Way I Am",
-      "url": "https://open.spotify.com/track/5DWxGimczAZe7byauhrUba"
+      "duration_ms": 226146,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Just The Way I Am",
+      "url": "https://open.spotify.com/track/5DWxGimczAZe7byauhrUba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What I Was Made For",
         "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 313106,
       "name": "Words of Life",
       "url": "https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 273320,
-      "name": "Neighborhoods",
-      "url": "https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fields of Grace",
         "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 208600,
       "name": "New Every Morning",
       "url": "https://open.spotify.com/track/1vC1qUFwuDgTlRg89ZMhcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "Neighborhoods",
+      "url": "https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe"
     }
   ],
   "unique_name": "This Is Big Daddy Weave",

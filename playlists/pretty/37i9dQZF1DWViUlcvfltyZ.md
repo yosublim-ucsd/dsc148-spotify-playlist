@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Giovanni Ti Amo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,256 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,252 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 7 | [GESÙ BAMBINO](https://open.spotify.com/track/0SPITJflzWbXuGYy3XzpV2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [NOLOTOV](https://open.spotify.com/album/52BDJ4sqrkv91RUyvvaHds) | 2:33 |
 | 8 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
 | 9 | [Splendere](https://open.spotify.com/track/1IbTQtCVmIHfixaU02ScIL) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Splendere](https://open.spotify.com/album/7uocoXpqYmz8Z8qHCxENDu) | 3:31 |
-| 10 | [Transpadana](https://open.spotify.com/track/7mTWhWW4OmmdoeEuo9N3a7) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [TYMAH, La Nebbia](https://open.spotify.com/album/0dnPOlg0sHo6zkWt3Fz7Xj) | 3:27 |
+| 10 | [Transpadana](https://open.spotify.com/track/7mTWhWW4OmmdoeEuo9N3a7) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [TYMAH, la nebbia](https://open.spotify.com/album/0dnPOlg0sHo6zkWt3Fz7Xj) | 3:27 |
 | 11 | [Wandervogel](https://open.spotify.com/track/3eMGmtjbJhJR3Fy1zMpuge) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Wandervogel](https://open.spotify.com/album/4hcE4y0a8mOyjPXoqInVrG) | 2:57 |
 | 12 | [SUPERMERCATI \(su Marte\)](https://open.spotify.com/track/3qe76pScevHNldvFNe6tqz) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [SUPERMERCATI \(su Marte\)](https://open.spotify.com/album/47ugwI6mmMU2WaxDmPoPS2) | 3:38 |
 | 13 | [UOMINI NUDI](https://open.spotify.com/track/6EPHqNqrvlwrzjq0jHS85G) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [UOMINI NUDI](https://open.spotify.com/album/2oJchkhLxJBVkfeW0wrp7u) | 4:12 |

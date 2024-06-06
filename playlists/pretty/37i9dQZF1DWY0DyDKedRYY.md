@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music, featuring Featuring RADAR official artist The Marías on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,765 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,773 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,25 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 27 | [Complicated](https://open.spotify.com/track/3pQKpXKVx2VUpt62QIdTQZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:49 |
 | 28 | [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 |
 | 29 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
-| 30 | [Get It Right](https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:28 |
-| 31 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 |
-| 32 | [Cold](https://open.spotify.com/track/3htYFunt7YtsGChtMlHmkc) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Cold](https://open.spotify.com/album/6elmTOi3sOIcpmBNAGfbAV) | 3:21 |
-| 33 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
-| 34 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 |
-| 35 | [Confusion Song](https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5) | 2:41 |
-| 36 | [Maine](https://open.spotify.com/track/6fQehIJ2TZVl82Leud16CL) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Timeline](https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ) | 4:53 |
-| 37 | [Bad Bitty](https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Bad Bitty](https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd) | 1:42 |
-| 38 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 |
-| 39 | [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 |
-| 40 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 |
-| 41 | [The Last Year](https://open.spotify.com/track/5BgoeQzJbjxOc48yH6wPEH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:35 |
-| 42 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 |
-| 43 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 |
-| 44 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 |
-| 45 | [Ur Heart Stops](https://open.spotify.com/track/3nFh3VQoEFJYl1jz2VcWbh) | [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [Ur Heart Stops](https://open.spotify.com/album/5rRJx5COOJRUxk1t07WJf2) | 3:48 |
-| 46 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 |
-| 47 | [Coming Back](https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coming Back](https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ) | 2:38 |
-| 48 | [Passenger Princess](https://open.spotify.com/track/624sas5ydTbWhC8GEOAf5N) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [Passenger Princess](https://open.spotify.com/album/2vZFGSKXWmby199YDoEbN4) | 2:34 |
-| 49 | [Got Me Like](https://open.spotify.com/track/6j5zCVCTLIw4qXRMoseA5r) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Got Me Like](https://open.spotify.com/album/4Nootd0c1osdH2R1I3rAoK) | 2:37 |
+| 30 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 |
+| 31 | [Get It Right](https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:28 |
+| 32 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 |
+| 33 | [Cold](https://open.spotify.com/track/3htYFunt7YtsGChtMlHmkc) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Cold](https://open.spotify.com/album/6elmTOi3sOIcpmBNAGfbAV) | 3:21 |
+| 34 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
+| 35 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 |
+| 36 | [Confusion Song](https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5) | 2:41 |
+| 37 | [Maine](https://open.spotify.com/track/6fQehIJ2TZVl82Leud16CL) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Timeline](https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ) | 4:53 |
+| 38 | [Bad Bitty](https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Bad Bitty](https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd) | 1:42 |
+| 39 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 |
+| 40 | [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 |
+| 41 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 |
+| 42 | [The Last Year](https://open.spotify.com/track/5BgoeQzJbjxOc48yH6wPEH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:35 |
+| 43 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 |
+| 44 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 |
+| 45 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 |
+| 46 | [Ur Heart Stops](https://open.spotify.com/track/3nFh3VQoEFJYl1jz2VcWbh) | [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [Ur Heart Stops](https://open.spotify.com/album/5rRJx5COOJRUxk1t07WJf2) | 3:48 |
+| 47 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 |
+| 48 | [Coming Back](https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coming Back](https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ) | 2:38 |
+| 49 | [Passenger Princess](https://open.spotify.com/track/624sas5ydTbWhC8GEOAf5N) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [Passenger Princess](https://open.spotify.com/album/2vZFGSKXWmby199YDoEbN4) | 2:34 |
+| 50 | [Got Me Like](https://open.spotify.com/track/6j5zCVCTLIw4qXRMoseA5r) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Got Me Like](https://open.spotify.com/album/4Nootd0c1osdH2R1I3rAoK) | 2:37 |
 
 Snapshot ID: `ZldRAAAAAABJuEWLM5wQi7cSGX+ycFIm`

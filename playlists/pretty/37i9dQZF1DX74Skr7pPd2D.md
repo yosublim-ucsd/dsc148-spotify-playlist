@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,912 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,913 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 31 | [My Baby Just Cares For Me \- Live At Vine St\. Bar & Grill, 1987](https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It Be Me \(Live\)](https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9) | 3:01 |
 | 32 | [Reverend Green](https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [The Very Best Of Jeff Lorber](https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg) | 4:22 |
 | 33 | [On The Sunny Side Of The Street](https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY) | 5:40 |
-| 34 | [River](https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 5:24 |
-| 35 | [Nice Work If You Can Get It](https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Buddy And Sweets](https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc) | 4:04 |
+| 34 | [Nice Work If You Can Get It](https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Buddy And Sweets](https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc) | 4:04 |
+| 35 | [River](https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 5:24 |
 | 36 | [Las Vegas Tango](https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 6:35 |
 | 37 | [Stella By Starlight](https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Conversations With Myself](https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv) | 4:50 |
 | 38 | [A Simple Tune](https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 4:11 |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 24768,
+  "num_followers": 24787,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Jambazz",
-        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 139573,
-      "name": "Jambazz",
-      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
+        "name": "Jambazz",
+        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 139573,
+      "name": "Jambazz",
+      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "shadow",
-        "url": "https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "shadow",
-      "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
         "name": "The Messenger",
         "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 177727,
       "name": "Higher Powers",
       "url": "https://open.spotify.com/track/2XcjvBNRpj2ZwRrlco3pvF"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
+        "name": "shadow",
+        "url": "https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "shadow",
+      "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 198709,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
+        "name": "You Trap Me",
+        "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
+      },
+      "artists": [
+        {
+          "name": "General Soundbwoy",
+          "url": "https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS"
+        },
+        {
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
+        }
+      ],
+      "duration_ms": 102863,
+      "name": "You Trap Me",
+      "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
-        "name": "You Trap Me",
-        "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
-      },
-      "artists": [
-        {
-          "name": "General Soundbwoy",
-          "url": "https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS"
-        },
-        {
-          "name": "Nikko Mad",
-          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
-        }
-      ],
-      "duration_ms": 102863,
-      "name": "You Trap Me",
-      "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
     },
     {
       "added_at": "2024-05-31 06:25:37",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-05-31 06:25:37",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 108823,
-      "name": "NAIJA SHAWTY (feat. Victony)",
-      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
-    },
-    {
-      "added_at": "2024-05-31 06:25:37",
-      "album": {
         "name": "Honey & Spice (Remix)",
         "url": "https://open.spotify.com/album/2I7Z3i5s8Ukwl7MRshNquA"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 152319,
       "name": "Honey & Spice - Remix",
       "url": "https://open.spotify.com/track/4oADK0NfY8u1RlW7IKFTFz"
+    },
+    {
+      "added_at": "2024-05-31 06:25:37",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 108823,
+      "name": "NAIJA SHAWTY (feat. Victony)",
+      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
     },
     {
       "added_at": "2024-05-31 06:25:37",

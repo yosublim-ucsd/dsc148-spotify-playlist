@@ -66922,7 +66922,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 108375,
       "name": "Lost in Space",
       "url": "https://open.spotify.com/track/6uYy46Yaqad9NhwlOlHLpY"
@@ -99206,7 +99206,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 93571,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/0QZQqs0ieyCslR6IAJD4cc"
@@ -110704,7 +110704,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 105388,
       "name": "sunday session",
       "url": "https://open.spotify.com/track/4ESXI7aayDsRnMLL4MZPeG"
@@ -124748,6 +124748,24 @@
       "duration_ms": 113513,
       "name": "vuba vuba",
       "url": "https://open.spotify.com/track/7MaoFsEl9mOhTEmmIlrnM2"
+    },
+    {
+      "album": {
+        "name": "Vulk\u00e1n",
+        "url": "https://open.spotify.com/album/2BAcDgcs2TDG41gXVkpjg9"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93272,
+      "name": "Vulk\u00e1n",
+      "url": "https://open.spotify.com/track/1HmRdmNEXUJtxQ0Sw2Sa1d"
     },
     {
       "album": {

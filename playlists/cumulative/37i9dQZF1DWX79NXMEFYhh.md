@@ -4,7 +4,7 @@
 
 > If you’re sappy and you know it, listen to these cheesy tunes.
 
-80 songs - 5 hr 11 min
+82 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-18 |  |
 | [Balisong](https://open.spotify.com/track/4aD5i2sgbsAbSubI8cnr2p) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Rivermaya Silver Series](https://open.spotify.com/album/2wcWG3MbATMobW5HVFTilG) | 3:35 | 2023-10-18 | 2024-01-11 |
 | [Balse ng Gabi](https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb) | [Cesca](https://open.spotify.com/artist/1Zt2D33ZveDAuJdFD2Ef10), [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Balse Ng Gabi](https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC) | 3:32 | 2023-10-18 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-05 |  |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-04-17 |  |
 | [Courage \(Acoustic Ver.\)](https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Courage \(Acoustic Ver.\)](https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u) | 4:46 | 2023-10-18 |  |
 | [Di Na Ako](https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Di Na Ako](https://open.spotify.com/album/1j0PALJJqrFEgDIGpj41Y1) | 4:44 | 2023-10-18 | 2024-04-19 |
@@ -27,7 +28,7 @@
 | [Hanggang Kailan](https://open.spotify.com/track/2y4Dm1k5X8VXAqkeKOHH30) | [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S), [Rox Santos](https://open.spotify.com/artist/6Gkb685FETNxe4IdeQyHEi) | [Hanggang Kailan](https://open.spotify.com/album/5fgiAaMzlod4qElTfAliNl) | 4:31 | 2023-10-18 | 2023-11-11 |
 | [Hanggang Sa Buwan](https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Hanggang Sa Buwan](https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48) | 3:54 | 2023-10-18 |  |
 | [Hard to Leave](https://open.spotify.com/track/2RU8TI2SdFdaB1Z8DcAaOx) | [Marcus Davis](https://open.spotify.com/artist/63mE8E2Q1P6J5ibuqE2Kau), [Sam Concepcion](https://open.spotify.com/artist/2P3aLwJ41aRYkyFFw2FRM7) | [Hard to Leave](https://open.spotify.com/album/3ufwVuLo76jhCUnafcNcHV) | 3:30 | 2023-10-18 | 2023-11-11 |
-| [HINAHANAP\-HANAP](https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [HINAHANAP\-HANAP](https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47) | 2:55 | 2023-11-10 |  |
+| [HINAHANAP\-HANAP](https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [HINAHANAP\-HANAP](https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47) | 2:55 | 2023-11-10 | 2024-06-06 |
 | [Home Is Where The Hurt Is](https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:00 | 2023-10-18 | 2024-04-19 |
 | [Home Is Where The Hurt Is](https://open.spotify.com/track/54uPFCxWYiR7if8q7TAzeo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Home Is Where The Hurt Is](https://open.spotify.com/album/7uLaNqmhGrL05auqyhRorR) | 4:00 | 2024-04-17 |  |
 | [I Need You](https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw) | [I Need You](https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf) | 3:09 | 2024-01-10 |  |
@@ -46,6 +47,7 @@
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-10-18 | 2023-11-11 |
 | [Love Will Keep Us Alive](https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg) | [Nosy & Mila](https://open.spotify.com/artist/1GaGCu3PAD272YCbjJj5lU) | [Greatest Hits](https://open.spotify.com/album/2axCtTfl9UnGW64StC9CWz) | 5:37 | 2023-10-18 | 2024-04-19 |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-10-18 | 2023-11-11 |
+| [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-06-05 |  |
 | [Moving Closer](https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Moving Closer](https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T) | 2:53 | 2023-11-10 |  |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2023-11-10 |  |
 | [Nagbago Ang Daigdig \- From "My Guardian Alien"](https://open.spotify.com/track/05qj2my4Iso6jOI6AW3G1y) | [Zephanie](https://open.spotify.com/artist/3BdpcQRF27n7ZNSL386mNU) | [Nagbago Ang Daigdig \(From "My Guardian Alien"\)](https://open.spotify.com/album/1c4ZWNVY7fH4IDuR8dMCOM) | 4:23 | 2024-05-08 |  |
@@ -79,7 +81,7 @@
 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 | 2024-01-10 |  |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-10-18 | 2024-01-24 |
 | [Treading Water](https://open.spotify.com/track/74sBWCAGLMQv9tEGAn8aJO) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48), [Bamboo](https://open.spotify.com/artist/0c7d9V8rjfT6tzojfBfRf5) | [Treading Water](https://open.spotify.com/album/0vyYaFkP7vtUhy006O934u) | 4:28 | 2023-10-18 | 2024-05-09 |
-| [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-10-18 |  |
+| [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-10-18 | 2024-06-06 |
 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 | 2023-10-18 | 2024-01-11 |
 | [waiting 4 u \(delulu\)](https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [waiting 4 u \(delulu\)](https://open.spotify.com/album/4IT8FqSv8iUlPJUZdwU29r) | 3:28 | 2023-11-10 | 2024-04-19 |
 | [Walking Back Home](https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Walking Back Home](https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS) | 2:16 | 2023-11-10 |  |

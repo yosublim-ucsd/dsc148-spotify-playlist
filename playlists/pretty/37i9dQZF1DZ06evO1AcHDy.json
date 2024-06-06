@@ -1,12 +1,12 @@
 {
-  "description": "This is Rina Sawayama\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 37503,
+  "description": "This Is Rina Sawayama. Los temas esenciales, todos en una lista.",
+  "num_followers": 37508,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAd4Fpa8tfr08bB9s3dyQu9",
+  "snapshot_id": "Zl5ZAAAAAAANNx0iNsf+2v7+FykFE/7E",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Beg for You (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
     },
     {
       "added_at": null,
@@ -564,25 +544,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flicker",
-        "url": "https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 180270,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr"
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,
@@ -603,6 +567,22 @@
       "duration_ms": 106832,
       "name": "Bees & Honey (Bonus Track)",
       "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 180270,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr"
     },
     {
       "added_at": null,
@@ -632,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,

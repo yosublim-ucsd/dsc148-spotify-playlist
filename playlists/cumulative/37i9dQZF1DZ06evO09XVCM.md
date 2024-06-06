@@ -2,7 +2,7 @@
 
 ### [This Is Ziggy Marley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09XVCM)
 
-> This is Ziggy Marley\. The essential tracks, all in one playlist.
+> This Is Ziggy Marley\. Los temas esenciales, todos en una lista.
 
 62 songs - 4 hr 1 min
 
@@ -31,8 +31,8 @@
 | [HOME](https://open.spotify.com/track/017oWEquFg2ieGFYobEsYt) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [HOME](https://open.spotify.com/album/1HhOkRa8wtIhu6mhteXewU) | 3:11 | 2024-04-27 | 2024-05-03 |
 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 | 2024-02-01 |  |
 | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf) | 4:30 | 2024-02-01 |  |
-| [Life Is A Honeymoon](https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:04 | 2024-02-01 |  |
-| [Lift Our Spirits Raise Our Voice](https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ) | 3:56 | 2024-05-22 | 2024-06-03 |
+| [Life Is A Honeymoon](https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:04 | 2024-02-01 | 2024-06-06 |
+| [Lift Our Spirits Raise Our Voice](https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ) | 3:56 | 2024-05-22 |  |
 | [Looking](https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:21 | 2024-02-01 |  |
 | [Love](https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:10 | 2024-02-01 |  |
 | [Love for Love City \(with Ziggy Marley\)](https://open.spotify.com/track/6wrzvEu8Sk7sDf6W9ESVui) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:49 | 2024-02-01 |  |

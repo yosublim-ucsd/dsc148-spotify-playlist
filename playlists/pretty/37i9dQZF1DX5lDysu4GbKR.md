@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,848 likes - 82 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,890 likes - 82 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

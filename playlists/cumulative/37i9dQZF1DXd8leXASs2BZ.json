@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "^rain>\u96e8*",
+        "url": "https://open.spotify.com/album/6OU0rv4vg6qn339eEASkh1"
+      },
+      "artists": [
+        {
+          "name": "Lisa lil vinci",
+          "url": "https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH"
+        },
+        {
+          "name": "PNG\u3078\u3073",
+          "url": "https://open.spotify.com/artist/3CVWL4piIgQeJl30whifOB"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161642,
+      "name": "^rain>\u96e8*",
+      "url": "https://open.spotify.com/track/7eBzLGGP8xNBriOIc40Lzb"
+    },
+    {
+      "album": {
         "name": "against",
         "url": "https://open.spotify.com/album/45WCSaUiLdSYvbNmSXlj3Z"
       },
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 139867,
       "name": "Bite Down",
       "url": "https://open.spotify.com/track/3Xw9ZuvJ9Hhk7cj64QZBYZ"
@@ -2302,6 +2324,24 @@
       "duration_ms": 166463,
       "name": "DREAMIN\u2019 BOI ISSUE",
       "url": "https://open.spotify.com/track/5PpLPAdZGMQ5eMzwwC5HoQ"
+    },
+    {
+      "album": {
+        "name": "DRILL STAR 2024 (from CHIBA)",
+        "url": "https://open.spotify.com/album/2kL7rDyx4vUtQNNmbCqoRN"
+      },
+      "artists": [
+        {
+          "name": "\u96c5",
+          "url": "https://open.spotify.com/artist/1zAsBDEzbbj0CFKtd4M9fJ"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103508,
+      "name": "DRILL STAR 2024 - from CHIBA",
+      "url": "https://open.spotify.com/track/3pTIUgn75jFyfk5i0KjsQK"
     },
     {
       "album": {
@@ -5939,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "NO BODY",
+        "url": "https://open.spotify.com/album/1wrgi8hcFfkRQU9OqhjRkU"
+      },
+      "artists": [
+        {
+          "name": "YOSHIKI EZAKI",
+          "url": "https://open.spotify.com/artist/2vCu121AVUt5km29CjiB7I"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112115,
+      "name": "NO BODY",
+      "url": "https://open.spotify.com/track/084K8j62ylG6n9qNro7cXG"
+    },
+    {
+      "album": {
         "name": "COOL DOWN 2",
         "url": "https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG"
       },
@@ -6130,7 +6188,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 157431,
       "name": "One Way",
       "url": "https://open.spotify.com/track/61X4zRkLsIrWKmtRTqFtdQ"
@@ -9638,7 +9696,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 214580,
       "name": "\u6bce\u56de\u8d85\u3044\u3044",
       "url": "https://open.spotify.com/track/2SopUBvqA2LyqWRk13A1Fb"

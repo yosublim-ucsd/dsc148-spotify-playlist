@@ -1,6 +1,6 @@
 {
   "description": "This week's best new tracks in metal, hard rock, and all things heavy. Cover: Bad Omens",
-  "num_followers": 713116,
+  "num_followers": 713192,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
@@ -539,17 +539,25 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Ride the Flatline",
+        "name": "Ride the Flatline (feat. Jami Morgan & Code Orange)",
         "url": "https://open.spotify.com/album/65XttkEWNXaOqE9NreNraS"
       },
       "artists": [
         {
           "name": "200 Stab Wounds",
           "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        },
+        {
+          "name": "Jami Morgan",
+          "url": "https://open.spotify.com/artist/6BUDMHs42XiJVjfk0EPHGc"
+        },
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
         }
       ],
       "duration_ms": 169461,
-      "name": "Ride the Flatline",
+      "name": "Ride the Flatline (feat. Jami Morgan & Code Orange)",
       "url": "https://open.spotify.com/track/1jxurcDJOIetOVKHnommay"
     },
     {

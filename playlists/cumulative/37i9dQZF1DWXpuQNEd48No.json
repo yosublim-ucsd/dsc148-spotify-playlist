@@ -2163,6 +2163,28 @@
     },
     {
       "album": {
+        "name": "Haryane Ki Chori",
+        "url": "https://open.spotify.com/album/1udxjPTMZLxatQYkRX34iL"
+      },
+      "artists": [
+        {
+          "name": "Dev Lohia",
+          "url": "https://open.spotify.com/artist/6e5BITKRuXj4Xu4Jmfwtnp"
+        },
+        {
+          "name": "SHIVXM",
+          "url": "https://open.spotify.com/artist/4MkqbBBhsHyIGE9nByWUAa"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156687,
+      "name": "Haryane Ki Chori",
+      "url": "https://open.spotify.com/track/2b1SlJpGijp9Br68TTAMuc"
+    },
+    {
+      "album": {
         "name": "Headshot",
         "url": "https://open.spotify.com/album/237fwmNkFmLaypCScLiRN8"
       },
@@ -2884,7 +2906,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -4458,7 +4480,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 152195,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6hH0jv0z1TGx6KhZTCBpe7"
@@ -5012,6 +5034,24 @@
       "duration_ms": 139859,
       "name": "Waah Meri Jaan",
       "url": "https://open.spotify.com/track/55ysXJbDMFiNSHY9fX9LY7"
+    },
+    {
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/0si4WQALdKyVtp5BKlsFCE"
+      },
+      "artists": [
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174300,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/1AJJ89QS4Iegh7ifstG7J5"
     },
     {
       "album": {

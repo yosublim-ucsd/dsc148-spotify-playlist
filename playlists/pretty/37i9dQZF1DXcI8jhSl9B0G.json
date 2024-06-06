@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75188,
+  "num_followers": 75186,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Feel Like Clarity",
+        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+      },
+      "artists": [
+        {
+          "name": "Gaudion",
+          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+        }
+      ],
+      "duration_ms": 188004,
+      "name": "Feel Like Clarity",
+      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Where'd You Go",
         "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 260049,
       "name": "End of the Line",
       "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Feel Like Clarity",
-        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
-      },
-      "artists": [
-        {
-          "name": "Gaudion",
-          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
-        }
-      ],
-      "duration_ms": 188004,
-      "name": "Feel Like Clarity",
-      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
       "artists": [
         {
-          "name": "Make The Moon",
-          "url": "https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 205999,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Make The Moon",
+          "url": "https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+      "duration_ms": 205999,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -975,8 +975,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "By Way of the Sea",
-        "url": "https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg"
+        "name": "Love Is an Open Road",
+        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
         }
       ],
-      "duration_ms": 259250,
-      "name": "By Way of the Sea",
-      "url": "https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC"
+      "duration_ms": 166000,
+      "name": "Love Is an Open Road",
+      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
     }
   ],
   "unique_name": "Summer Daze",

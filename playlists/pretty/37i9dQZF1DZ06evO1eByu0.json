@@ -1,12 +1,12 @@
 {
-  "description": "This Is Aline Barros. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 159267,
+  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 159284,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAA2mQhqZkKEs3p+iceMV5H+",
+  "snapshot_id": "Zl5ZAAAAAADX9r2Q5wfnPw4rx8sg79HY",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 273488,
-      "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
-      "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompendo em F\u00e9",
         "url": "https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 289459,
       "name": "Rompendo em F\u00e9",
       "url": "https://open.spotify.com/track/1KRamNG1BZ192vALVBasZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 273488,
+      "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
+      "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 355265,
-      "name": "Diante da Cruz (At the Cross)",
-      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivo Est\u00e1s",
         "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 392026,
       "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
       "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 355265,
+      "name": "Diante da Cruz (At the Cross)",
+      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 359166,
-      "name": "Poder Pra Salvar (Mighty to Save)",
-      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habr\u00e1 Victoria",
         "url": "https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 247376,
       "name": "Habr\u00e1 Victoria",
       "url": "https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 359166,
+      "name": "Poder Pra Salvar (Mighty to Save)",
+      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros 20 Anos Ao Vivo",
-        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 250682,
       "name": "Lugar Seguro",
       "url": "https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Kizz Daniel",
-  "num_followers": 109191,
+  "num_followers": 109379,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "Osadebe",
-        "url": "https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 156756,
-      "name": "Osadebe",
-      "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
         "name": "Ojapiano",
         "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 168421,
       "name": "Ojapiano",
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Osadebe",
+        "url": "https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 156756,
+      "name": "Osadebe",
+      "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/6dqt5Ig79hptlp4yPQAv9M"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 147857,
       "name": "Element",
       "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "KATIGORI/PIANO",
-        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/6McSBRkkD9JPgGgqYzWPlz"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 178909,
-      "name": "KATIGORI",
-      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
+      "duration_ms": 171000,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1431,34 +1431,18 @@
     {
       "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "The Life I Chose",
-        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
+        "name": "KATIGORI/PIANO",
+        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 144447,
-      "name": "The Life I Chose",
-      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/6McSBRkkD9JPgGgqYzWPlz"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn"
+      "duration_ms": 178909,
+      "name": "KATIGORI",
+      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
     },
     {
       "added_at": "2024-05-31 00:01:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 178936,
       "name": "10 Bottles",
       "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "The Life I Chose",
+        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 144447,
+      "name": "The Life I Chose",
+      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
     }
   ],
   "unique_name": "Gbedu",

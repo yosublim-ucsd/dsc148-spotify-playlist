@@ -4,7 +4,7 @@
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BOWKYLION
 
-493 songs - 1 day 5 hr 19 min
+494 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:34 | 2023-11-09 | 2023-12-16 |
 | [มีเธอมีฉัน \(Safe Zone\)](https://open.spotify.com/track/2UC53K6OpwTxFI7oTKKwdh) | [ไบร์ท นรภัทร](https://open.spotify.com/artist/3CitLsx5P9qFKEHwaiJqIz), [ฟิล์ม ธนภัทร](https://open.spotify.com/artist/0GKloCvkBbc25NBYzuIcgD), [Fluke Gawin](https://open.spotify.com/artist/1OI5LuORfGbstS0VaCMiSo), [แจม รชตะ](https://open.spotify.com/artist/5Ly3FFcd5BAGgP4cchhQOb), [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l), [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo), [Peck Palitchoke](https://open.spotify.com/artist/5rbWOWw5jmpe6zbIHCzMpm), [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [มีเธอมีฉัน \(Safe Zone\) \- Single](https://open.spotify.com/album/3m7BYn24J2INtDV0wZr2Eh) | 4:29 | 2023-11-16 | 2023-12-15 |
 | [มีแค่เธอก็พอ \(365 Days\) \- Magic Ver.](https://open.spotify.com/track/4sCLtvADVVmNkBw9epqKVa) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n), [SMEW](https://open.spotify.com/artist/7I8cyXAoAtRWIXvcHUatTe) | [มีแค่เธอก็พอ \(365 Days\) \[Magic Ver.\]](https://open.spotify.com/album/1qM79NyTqRwCUdwT3JkJIs) | 3:50 | 2024-02-15 | 2024-02-23 |
-| [มีใจทำไมไม่จีบ \(ASAP\)](https://open.spotify.com/track/6KUxEHbQ76q30sYfeWGxIb) | [MOBYe](https://open.spotify.com/artist/3Z5VM48ceWJTBmVqoZKAK5) | [มีใจทำไมไม่จีบ \(ASAP\)](https://open.spotify.com/album/6wH4ykL8qBofLjDRhCwKXz) | 3:28 | 2024-05-23 |  |
+| [มีใจทำไมไม่จีบ \(ASAP\)](https://open.spotify.com/track/6KUxEHbQ76q30sYfeWGxIb) | [MOBYe](https://open.spotify.com/artist/3Z5VM48ceWJTBmVqoZKAK5) | [มีใจทำไมไม่จีบ \(ASAP\)](https://open.spotify.com/album/6wH4ykL8qBofLjDRhCwKXz) | 3:28 | 2024-05-23 | 2024-06-06 |
 | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/track/0ko2QIbamfYiRwG4eQcY4q) | [ATK](https://open.spotify.com/artist/5QKuqbXQ3cujnmrGOh4Qx1) | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/album/1B0vAYFcnVbFg5ySoLi8mX) | 3:53 | 2023-09-15 | 2023-09-23 |
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
 | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS) | 4:10 | 2022-09-15 | 2022-10-13 |
@@ -445,6 +445,7 @@
 | [แกล้งลืม \(Boyfriend\)](https://open.spotify.com/track/1fd0ICmxYdKSlfk9bXmJpx) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [แกล้งลืม \(Boyfriend\)](https://open.spotify.com/album/0aVxWnktRdNsyQiqir7Gxx) | 3:26 | 2023-02-16 | 2023-04-01 |
 | [แค่คืบ \(เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม\)](https://open.spotify.com/track/0m0yjlnu8IeuDddotXQyRQ) | [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv) | [แค่คืบ \- Single](https://open.spotify.com/album/2nuWP2sSzKDOa2g1DH5WkZ) | 3:22 | 2024-01-03 | 2024-01-18 |
 | [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/track/5kO0p4CfIxfU8369CArfe7) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/album/0znjg1ojYEygDWnrvRpK5I) | 4:00 | 2022-10-21 | 2022-11-04 |
+| [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-05 |  |
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-05-26 | 2022-06-10 |
 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-06-02 | 2022-06-24 |
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-05-01 |  |

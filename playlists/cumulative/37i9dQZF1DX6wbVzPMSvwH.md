@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-146 songs - 9 hr 8 min
+148 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Balada Insan Muda](https://open.spotify.com/track/7rt1ze8gO84v4k9vBvb7JB) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [Balada Insan Muda](https://open.spotify.com/album/6fo5cucV7PIbbnwT1Okx2I) | 4:53 | 2022-12-13 |  |
 | [Bandung](https://open.spotify.com/track/7itshdCnfN3pbP88rQYHIr) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:47 | 2022-12-13 |  |
 | [BARU](https://open.spotify.com/track/7GnbOaxU0kJSsI8HPHJ4jD) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [BARU](https://open.spotify.com/album/25wyGu62YUYxavEz9b1p2s) | 3:54 | 2023-03-14 | 2023-03-23 |
+| [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 | 2024-06-05 |  |
 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 | 2022-12-13 | 2023-09-21 |
 | [Benderang!](https://open.spotify.com/track/7MMFSId5CetQIUqgdPXL6u) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Benderang!](https://open.spotify.com/album/6wbdYt8vMTWRpa5VVWevGM) | 4:48 | 2022-12-13 | 2023-08-09 |
 | [Berdua Bersama](https://open.spotify.com/track/37uQDKOul7QOmRFB6kiYyO) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Berdua Bersama](https://open.spotify.com/album/4WQIR3oZmS5ubTvFAqZiiV) | 3:38 | 2022-12-13 |  |
@@ -46,7 +47,7 @@
 | [Desire](https://open.spotify.com/track/48wBjW6siHVJPhYfkAW9su) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [Desire](https://open.spotify.com/album/3kW3zUAjG6JFOA5bHGQtPZ) | 3:38 | 2023-03-23 | 2023-09-17 |
 | [Desire](https://open.spotify.com/track/72tBEGOdJ3hFhJvn7JWOO5) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [Desire](https://open.spotify.com/album/5malPhrB5WRxN66gtSE24v) | 3:38 | 2023-07-13 | 2024-02-01 |
 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-02-23 |  |
-| [Dibuai](https://open.spotify.com/track/5fxoTrI1hsUgTfbOdqYkY3) | [The Paps](https://open.spotify.com/artist/1cx2juvnWgqfbOoikFxCKS) | [Soul](https://open.spotify.com/album/397R2Ydd8yoqr5gHSQekVj) | 3:05 | 2024-05-08 |  |
+| [Dibuai](https://open.spotify.com/track/5fxoTrI1hsUgTfbOdqYkY3) | [The Paps](https://open.spotify.com/artist/1cx2juvnWgqfbOoikFxCKS) | [Soul](https://open.spotify.com/album/397R2Ydd8yoqr5gHSQekVj) | 3:05 | 2024-05-08 | 2024-06-06 |
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-12-13 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-12-13 |  |
 | [Fake Friends](https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Fake Friends](https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu) | 2:34 | 2022-12-13 | 2023-02-24 |
@@ -55,6 +56,7 @@
 | [Flying High](https://open.spotify.com/track/6a1mt15RL1Y3FxeU6Zoh3W) | [ronixd](https://open.spotify.com/artist/4fdvt615NKbd5n2s1cLiQZ) | [Flying High](https://open.spotify.com/album/652jsJs6hnACmycOLVL9wm) | 3:49 | 2023-06-08 |  |
 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-12-13 | 2023-06-08 |
 | [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2022-12-13 |  |
+| [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-06-05 |  |
 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 | 2024-01-31 |  |
 | [Hanya Memuji](https://open.spotify.com/track/6uoNFtgGaGoFJRb5U1UkTb) | [Hedi Yunus](https://open.spotify.com/artist/7Chevtnmm3oUuJmkQaCjfA) | [Hanya Memuji](https://open.spotify.com/album/0UAMINBH93LwLRJquQm3hO) | 3:05 | 2023-12-13 |  |
 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 | 2023-11-14 |  |
@@ -136,7 +138,7 @@
 | [Sinema](https://open.spotify.com/track/21OXhVAGwkueDkmvPVLNPm) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [TIME](https://open.spotify.com/album/3K7DAXAdl6EdEZZkhQLLxX) | 3:29 | 2022-12-13 | 2023-09-21 |
 | [so wrong but so right.](https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [so wrong but so right.](https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq) | 2:59 | 2022-12-13 | 2023-06-08 |
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-12-13 | 2023-09-21 |
-| [switch](https://open.spotify.com/track/6A4XsPmI6glgApuoxfPwth) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [switch](https://open.spotify.com/album/2Zb4aAsyr1zjhladO2rQfW) | 3:25 | 2023-06-07 |  |
+| [switch](https://open.spotify.com/track/6A4XsPmI6glgApuoxfPwth) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [switch](https://open.spotify.com/album/2Zb4aAsyr1zjhladO2rQfW) | 3:25 | 2023-06-07 | 2024-06-06 |
 | [Tak Lagi Lagi](https://open.spotify.com/track/2ugwRdPXiyEgwFXopwPAJw) | [Febinda Tito](https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ) | [Tak Lagi Lagi](https://open.spotify.com/album/35QL7g0uYcnI12reQp8h5z) | 3:32 | 2023-06-07 |  |
 | [Tak Sejalan](https://open.spotify.com/track/2ghjlrrK9u2nIAoDb4oNWA) | [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senandika](https://open.spotify.com/album/7ub6oAQi8e6dzxk5NAyZdA) | 3:47 | 2023-03-22 | 2023-06-08 |
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-11-14 |  |

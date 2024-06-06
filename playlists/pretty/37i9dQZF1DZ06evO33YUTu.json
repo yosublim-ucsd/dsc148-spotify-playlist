@@ -1,12 +1,12 @@
 {
   "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
-  "num_followers": 118544,
+  "num_followers": 118575,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABp4S0oWCcatYCNjKZEijGV",
+  "snapshot_id": "Zl5ZAAAAAADb8RtnVBAPi/ZYwsH3B1S2",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 159187,
       "name": "22",
       "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9cimo Cuarto",
-        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 173796,
-      "name": "Le Viene Bien",
-      "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Tu Amor No Vuelve",
         "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 201040,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9cimo Cuarto",
+        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 173796,
+      "name": "Le Viene Bien",
+      "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ant\u00eddoto",
-        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cartagena ft. Greeicy",
         "url": "https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 163438,
       "name": "Cartagena ft. Greeicy",
       "url": "https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ant\u00eddoto",
+        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
     },
     {
       "added_at": null,

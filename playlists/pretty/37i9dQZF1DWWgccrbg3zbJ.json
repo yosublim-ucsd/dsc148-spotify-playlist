@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 275368,
+  "num_followers": 275814,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,22 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
+        "name": "Mr. Bossa Nova",
+        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
       },
       "artists": [
         {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+          "name": "Quarteto do Rio",
+          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         }
       ],
-      "duration_ms": 128733,
-      "name": "Diz Que Fui Por Ai",
-      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
+      "duration_ms": 146666,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
     },
     {
       "added_at": "2024-03-19 13:50:16",
@@ -347,22 +351,18 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
-        "name": "Mr. Bossa Nova",
-        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
       },
       "artists": [
         {
-          "name": "Quarteto do Rio",
-          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
+      "duration_ms": 128733,
+      "name": "Diz Que Fui Por Ai",
+      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
     },
     {
       "added_at": "2024-03-19 13:50:16",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
+        "name": "Pure Bossa Nova",
+        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
+    },
+    {
+      "added_at": "2024-03-19 13:50:16",
+      "album": {
         "name": "Rio Revisited",
         "url": "https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 181453,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh"
-    },
-    {
-      "added_at": "2024-03-19 13:50:16",
-      "album": {
-        "name": "Pure Bossa Nova",
-        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
     },
     {
       "added_at": "2024-03-19 13:50:16",

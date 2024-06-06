@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lefty Sm. Los temas esenciales, todos en una lista.",
-  "num_followers": 170530,
+  "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
+  "num_followers": 170637,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABJCNfbX5qwS68hMDI3z2ha",
+  "snapshot_id": "Zl5ZAAAAAAD8AvdwkS/yayE+KvXrMjwC",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volvi\u00f3 A Amanecer",
+        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Volvi\u00f3 A Amanecer",
+      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Sali\u00f3 Caro",
         "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 177312,
       "name": "Me Sali\u00f3 Caro",
       "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volvi\u00f3 A Amanecer",
-        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Volvi\u00f3 A Amanecer",
-      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
     },
     {
       "added_at": null,

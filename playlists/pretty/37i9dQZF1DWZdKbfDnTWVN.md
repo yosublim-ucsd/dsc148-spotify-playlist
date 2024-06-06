@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6?si=5ZXbCjEyRKaAWPchCk5bNw">Groovy Jo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,039 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,042 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

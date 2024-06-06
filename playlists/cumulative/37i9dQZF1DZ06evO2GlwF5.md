@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2GlwF5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2GlwF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2GlwF5)
 
-### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
+### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
+> This is 坂本真綾\. The essential tracks, all in one playlist.
 
-114 songs - 8 hr 39 min
+115 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [gravity](https://open.spotify.com/track/5edgQN3CMyQOgPy4SML46l) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 3:23 | 2024-03-22 |  |
 | [Gyakko \-unplugged session\-](https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Dokuhaku \- Yakudo / FGO Disc](https://open.spotify.com/album/7yyduDmSkZ0ZTNjUOs9JoH) | 5:43 | 2022-08-11 | 2023-10-11 |
 | [Hidden Notes](https://open.spotify.com/track/6gfY8im5MigHx4Okp0YzRU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:39 | 2022-11-29 | 2024-05-11 |
+| [Kotoba ni Dekinai](https://open.spotify.com/track/3IwTddh6f5P2C0iVdOBFnt) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Sumire / Kotoba ni Dekinai](https://open.spotify.com/album/4mvCZ2dM4YhKLIvoXneU21) | 4:56 | 2024-06-06 |  |
 | [Mada Tooku ni Iru](https://open.spotify.com/track/1jyGzTc5hANtXv3cYhBxbp) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOW Original Animation "The Fire Hunter" Ending Theme Song / TV Animation "REVENGER" Ending Theme Song Mada Tooku ni Iru / un\_mute](https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn) | 5:14 | 2023-03-22 | 2023-04-06 |
 | [MAP for LOVE](https://open.spotify.com/track/5zFVf5N47rMPLuq7vvc5S1) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KENTO NAGATSUKA \(WONK\)](https://open.spotify.com/artist/6JneWS8m6ZNGjIO4LA8zHQ), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK), [Petrolz](https://open.spotify.com/artist/1DI7HK9920SYDDcxXPWeWw), [Naz](https://open.spotify.com/artist/6kImBuGqfeArVBGal435PO), [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj), [吉田 沙良](https://open.spotify.com/artist/5E60nUd5cJsjVAG6eJ1qmy), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [KANDYTOWN](https://open.spotify.com/artist/7mHhol5QNVG1q32KBz8Xi1) | [MAP for LOVE](https://open.spotify.com/album/5cm2ehQJ6mh9upvgvRno59) | 4:47 | 2022-08-10 |  |
 | [Million Clouds](https://open.spotify.com/track/3AXxeu6r2EvXgndlh7aKRf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:58 | 2022-08-10 |  |
@@ -115,7 +116,7 @@
 | [色彩\-unplugged session\-](https://open.spotify.com/track/3CjlH3sNGezw2gQoDBKGQn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 5:43 | 2022-09-15 | 2022-09-17 |
 | [荒川小景](https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [SUPERFINE](https://open.spotify.com/album/6cMizcqPNkknWPgJNeBi9u) | 6:10 | 2022-10-04 |  |
 | [蒼のエーテル](https://open.spotify.com/track/6paDGwUHD2mYO9vyAodtVb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 3:58 | 2022-11-18 | 2023-03-04 |
-| [言葉にできない](https://open.spotify.com/track/3FP9fSLpNeQmBuezTgGSGu) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:55 | 2023-07-04 |  |
+| [言葉にできない](https://open.spotify.com/track/3FP9fSLpNeQmBuezTgGSGu) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:55 | 2023-07-04 | 2024-06-06 |
 | [言葉にできない](https://open.spotify.com/track/08bJMeQRwtpLnrMF1ScLvn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 4:56 | 2022-08-10 | 2023-06-05 |
 | [躍動](https://open.spotify.com/track/7fi2zDTlIUWMDPHrhm8Qsj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動](https://open.spotify.com/album/5zNh75gt6D4kRCWZXhb3UZ) | 4:09 | 2022-08-10 |  |
 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 | 2022-08-10 |  |

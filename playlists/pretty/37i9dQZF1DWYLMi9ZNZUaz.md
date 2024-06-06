@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Sau này bé lấy 🥖 của mẹ đi cưa ghệ
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,487 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,521 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8) | [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2) | 4:54 |
 | 50 | [So Close](https://open.spotify.com/track/1C7aNWtuAK07clP7lOQnno) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [So Close](https://open.spotify.com/album/1pPpHurYsHHtQUlY3QWygw) | 3:19 |
 
-Snapshot ID: `Zl2XlAAAAACLFl6VrjRnUlA1Hfz2ur7Y`
+Snapshot ID: `ZmA9jwAAAAChx/j41IEXG621hbnz2XDq`

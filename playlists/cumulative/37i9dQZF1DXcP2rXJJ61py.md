@@ -2,7 +2,7 @@
 
 ### [House of the Dragon: Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcP2rXJJ61py)
 
-> The official playlist for House of the Dragon \(and House Targaryen\)\. Watch the entire first season on HBO Max.
+> All must choose\. The official playlist for House of the Dragon \(and House Targaryen\) — new season coming soon to Max.
 
 87 songs - 4 hr 25 min
 

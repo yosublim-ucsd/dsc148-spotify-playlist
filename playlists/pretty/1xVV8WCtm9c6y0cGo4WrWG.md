@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring Eminem, Drake, Kendrick Lamar, GloRilla and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,453 likes - 77 songs - 4 hr 12 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,452 likes - 77 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 23 | [4th Quarter](https://open.spotify.com/track/3lwxlvXfLP6rrBfbIzedk8) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [4th Quarter](https://open.spotify.com/album/36p4WkVI7ibTNqOnzph6sy) | 2:32 |
 | 24 | [Bless \(feat\. Young Thug\)](https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Wheezy](https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bless](https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n) | 2:42 |
 | 25 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
-| 26 | [Bussin \(with Rob49\)](https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Bussin \(with Rob49\)](https://open.spotify.com/album/4k19gVgEFR3eja9YAore44) | 2:44 |
+| 26 | [BUSSIN \(with Rob49\)](https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BUSSIN \(with Rob49\)](https://open.spotify.com/album/4k19gVgEFR3eja9YAore44) | 2:44 |
 | 27 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 |
 | 28 | [Potato Loaded \(feat\. Destroy Lonely\)](https://open.spotify.com/track/79GhK8ZAUQxGFfr6rEpdms) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Potato Loaded \(feat\. Destroy Lonely\)](https://open.spotify.com/album/0bHndITXf6STlJZ2rrk8UK) | 2:18 |
 | 29 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 |

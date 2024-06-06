@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Esteman. The essential tracks, all in one playlist.",
+  "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
   "name": "This Is Esteman",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 199200,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"

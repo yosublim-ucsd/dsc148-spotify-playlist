@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 153733,
+  "num_followers": 153775,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "World on Fire (Bonfire Version)",
-        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "World on Fire - Bonfire Version",
-      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 216551,
       "name": "We Got History - Acoustic",
       "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "All Out Acoustic Sessions",
-        "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
-      },
-      "artists": [
-        {
-          "name": "Austin Williams",
-          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
-        }
-      ],
-      "duration_ms": 187487,
-      "name": "Wanna Be Saved (Acoustic)",
-      "url": "https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "All Out Acoustic Sessions",
+        "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
+      },
+      "artists": [
+        {
+          "name": "Austin Williams",
+          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+        }
+      ],
+      "duration_ms": 187487,
+      "name": "Wanna Be Saved (Acoustic)",
+      "url": "https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Save The Roses (Acoustic)",
-        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Save The Roses (Acoustic)",
-      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Save The Roses (Acoustic)",
+        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Save The Roses (Acoustic)",
+      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Put It In A Song",
-        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Put It In A Song",
-      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Trouble (Piano Version)",
-        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Trouble - Piano Version",
-      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Trouble (Piano Version)",
+        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Trouble - Piano Version",
+      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Austin (Acoustic)",
-        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
+        "name": "What If I Never Get Over You (Piano Version)",
+        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 226179,
-      "name": "Austin - Acoustic",
-      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
+      "duration_ms": 204639,
+      "name": "What If I Never Get Over You - Piano Version",
+      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
     }
   ],
   "unique_name": "Nashville Stripped",

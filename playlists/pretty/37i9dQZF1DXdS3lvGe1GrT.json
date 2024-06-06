@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Angela Autumn",
-  "num_followers": 70395,
+  "num_followers": 70618,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAACJRj/n4KAcQ1hHpiTX59uF",
+  "snapshot_id": "ZmCqwwAAAAD1BugCu49cngD78ebxQglG",
   "tracks": [
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Black Leather Daydream",
+        "url": "https://open.spotify.com/album/6lRyRBVUP5hKmjIDqe23Ie"
+      },
+      "artists": [
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Black Leather Daydream",
+      "url": "https://open.spotify.com/track/4CtV5PEucaBYNpPXg7A8gj"
+    },
     {
       "added_at": "2024-05-29 12:56:53",
       "album": {
@@ -23,6 +39,58 @@
       "duration_ms": 142718,
       "name": "The Rock",
       "url": "https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Lover of Creation",
+        "url": "https://open.spotify.com/album/7DcLxSFcbYDGUG0Oro3hbu"
+      },
+      "artists": [
+        {
+          "name": "Aistis",
+          "url": "https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR"
+        },
+        {
+          "name": "Freida Mari",
+          "url": "https://open.spotify.com/artist/5RqPuMbbZResDnQbhyFIae"
+        }
+      ],
+      "duration_ms": 256722,
+      "name": "Lover of Creation",
+      "url": "https://open.spotify.com/track/3dv1uWmmP9GrYlv07OQtDs"
+    },
+    {
+      "added_at": "2024-06-05 18:13:23",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/2lUUoJrmkwVTYzOKvzSoWN"
+      },
+      "artists": [
+        {
+          "name": "Sister.",
+          "url": "https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY"
+        }
+      ],
+      "duration_ms": 267540,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/3LGptYQodNdJAxgtKPIbRb"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "gut health",
+        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243469,
+      "name": "gut health",
+      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
     },
     {
       "added_at": "2024-05-29 12:56:53",
@@ -41,6 +109,38 @@
       "url": "https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK"
     },
     {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "down the falls",
+        "url": "https://open.spotify.com/album/1SZljZSRYNXAfMy1vi7Atq"
+      },
+      "artists": [
+        {
+          "name": "COULOU",
+          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
+        }
+      ],
+      "duration_ms": 145390,
+      "name": "down the falls",
+      "url": "https://open.spotify.com/track/4uD3YUPqv2iqwz5puK7xru"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Like Lovers Do",
+        "url": "https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 170794,
+      "name": "Like Lovers Do",
+      "url": "https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml"
+    },
+    {
       "added_at": "2024-05-29 12:56:53",
       "album": {
         "name": "Dinner Party",
@@ -55,6 +155,38 @@
       "duration_ms": 200960,
       "name": "Dinner Party",
       "url": "https://open.spotify.com/track/69te7FqNKGo7wP8vpC90T8"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Willow Rose",
+        "url": "https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "duration_ms": 232006,
+      "name": "Willow Rose",
+      "url": "https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/3qH1xXzO5OmBoe3qvcMvd7"
+      },
+      "artists": [
+        {
+          "name": "Tele Novella",
+          "url": "https://open.spotify.com/artist/3yxZJMBn5A2OMEGO7Tvg72"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/3du3GQoC8Tx9Tz9XFxqA4Y"
     },
     {
       "added_at": "2024-05-29 12:56:53",
@@ -1519,358 +1651,6 @@
       "duration_ms": 193600,
       "name": "bones",
       "url": "https://open.spotify.com/track/0g8uX2HdXunlPssYwp6wVR"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "If There\u2019s No God\u2026",
-        "url": "https://open.spotify.com/album/08KweWkvPuTHka5aRXuSVz"
-      },
-      "artists": [
-        {
-          "name": "S. Raekwon",
-          "url": "https://open.spotify.com/artist/13O0dF37al4XD57GenV5wC"
-        }
-      ],
-      "duration_ms": 305067,
-      "name": "If There\u2019s No God\u2026",
-      "url": "https://open.spotify.com/track/1oOWG5YBwW5tegvDPE8WvK"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Nurture",
-        "url": "https://open.spotify.com/album/2C1zMTCPVRj1nf3vVqD1sA"
-      },
-      "artists": [
-        {
-          "name": "youbet",
-          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
-        }
-      ],
-      "duration_ms": 192298,
-      "name": "Nurture",
-      "url": "https://open.spotify.com/track/26Swptg946qdQg550xWHVS"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Middle Of Your Mess",
-        "url": "https://open.spotify.com/album/4L5hA1zCrXygF3wF40hy5R"
-      },
-      "artists": [
-        {
-          "name": "Charm of Finches",
-          "url": "https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "Middle Of Your Mess",
-      "url": "https://open.spotify.com/track/0HUkutrgF90j7Lok80vPKL"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Made your bed",
-        "url": "https://open.spotify.com/album/7wdelmJ9L3KHechBmBl0ey"
-      },
-      "artists": [
-        {
-          "name": "Celia",
-          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
-        }
-      ],
-      "duration_ms": 174264,
-      "name": "Made your bed",
-      "url": "https://open.spotify.com/track/3caqqv8ODxoJXlkTHOttqu"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Early Promise",
-        "url": "https://open.spotify.com/album/3sxMbcOc1l1c1Ua2f5moes"
-      },
-      "artists": [
-        {
-          "name": "Family Stereo",
-          "url": "https://open.spotify.com/artist/4HUyWDdAowsbbtJQQEn5RT"
-        }
-      ],
-      "duration_ms": 183761,
-      "name": "Early Promise",
-      "url": "https://open.spotify.com/track/0O39ah7SfbeDcAM5YeBQLl"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Between the Good & What I Want",
-        "url": "https://open.spotify.com/album/0LTUzxNEzTDg4Ay0pyOBvR"
-      },
-      "artists": [
-        {
-          "name": "Thomas LaVine",
-          "url": "https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/5nTJlBetqJmbP5WHPaKI2e"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Lost in a Dream",
-        "url": "https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Lewis",
-          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
-        }
-      ],
-      "duration_ms": 217805,
-      "name": "Lost in a Dream",
-      "url": "https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/7nqa05TWijHHgxPt7wKQd0"
-      },
-      "artists": [
-        {
-          "name": "Caoilfhionn Rose",
-          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
-        }
-      ],
-      "duration_ms": 214956,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/6kNOw4Xfbpyr4ahbBqFP3b"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/28Rrj9eLCUnMxLI4ksvNSW"
-      },
-      "artists": [
-        {
-          "name": "Abby Walker",
-          "url": "https://open.spotify.com/artist/7jszfbhgcYuNuQt2QR8HCy"
-        }
-      ],
-      "duration_ms": 233177,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4lX29CBmV7ayKkPvSjHVUT"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Let Your Grip Dig In",
-        "url": "https://open.spotify.com/album/3UXJTnZdQOsnl4GwjTVuaG"
-      },
-      "artists": [
-        {
-          "name": "NumbDome",
-          "url": "https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP"
-        }
-      ],
-      "duration_ms": 283913,
-      "name": "Let Your Grip Dig In",
-      "url": "https://open.spotify.com/track/6xukXoM8FBei70MxGw58uD"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/20gw3rAOBS1PWn6WrcaOeG"
-      },
-      "artists": [
-        {
-          "name": "Esme Emerson",
-          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/2nGo49pmg4s4ZLWOj3MsbH"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6nFylBBNvvWG6UgpzsKkf3"
-      },
-      "artists": [
-        {
-          "name": "Frances Whitney",
-          "url": "https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E"
-        }
-      ],
-      "duration_ms": 219238,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/2gru7tFhiQQ2XHYBZlAus2"
-    },
-    {
-      "added_at": "2024-03-27 19:41:04",
-      "album": {
-        "name": "Woke Up and No Feet",
-        "url": "https://open.spotify.com/album/2uwk0HAD7YmULtzePm1iCU"
-      },
-      "artists": [
-        {
-          "name": "Anastasia Coope",
-          "url": "https://open.spotify.com/artist/0L3BgWZcLnRmCNBE6flGZu"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Woke Up and No Feet",
-      "url": "https://open.spotify.com/track/2nkqIRKZjrEKLRWNjTGsiQ"
-    },
-    {
-      "added_at": "2024-03-27 16:21:18",
-      "album": {
-        "name": "Belly",
-        "url": "https://open.spotify.com/album/3gYqdZ0yT5ZLDhlS7jzQGp"
-      },
-      "artists": [
-        {
-          "name": "Niamh Regan",
-          "url": "https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa"
-        }
-      ],
-      "duration_ms": 232936,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/2YoSXoYQVikdIkkNtLbk6L"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "I Miss July",
-        "url": "https://open.spotify.com/album/2BEpBA2cvZEQ0U5HP9PUVJ"
-      },
-      "artists": [
-        {
-          "name": "Marie Dresselhuis",
-          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
-        }
-      ],
-      "duration_ms": 204794,
-      "name": "I Miss July",
-      "url": "https://open.spotify.com/track/765JFRgMylIbuvJJcbqe3V"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "O Gone",
-        "url": "https://open.spotify.com/album/4WbL9vXTwyOQwRQa8umPSt"
-      },
-      "artists": [
-        {
-          "name": "Jay Anderson",
-          "url": "https://open.spotify.com/artist/6VyB5vvy1ftmsGlHfrXEca"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "O Gone",
-      "url": "https://open.spotify.com/track/6O5f0Yl8S3iuuxQYwD1ZlK"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/6dUsUL9Tq9kjH5rs6cTzTG"
-      },
-      "artists": [
-        {
-          "name": "The Hanseroth Twins",
-          "url": "https://open.spotify.com/artist/3WuWtZ0K4xLMVB2tuZswIZ"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/58CeOJiraFnpXp8ul1F9cA"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/22i1EuwuPIc25Z5E8zKdzB"
-      },
-      "artists": [
-        {
-          "name": "h. pruz",
-          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/1E1m6vWbDvApleEu9H2oVT"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Bad Luck Bad Habit",
-        "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
-      },
-      "artists": [
-        {
-          "name": "Alycia Lang",
-          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "Bad Luck Bad Habit",
-      "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "Life of the Forbidden",
-        "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 236479,
-      "name": "Life of the Forbidden",
-      "url": "https://open.spotify.com/track/7r1zWm9l985uKy0cKlhGUl"
-    },
-    {
-      "added_at": "2024-03-06 14:10:40",
-      "album": {
-        "name": "December Song",
-        "url": "https://open.spotify.com/album/7busnS3ClOoXxrNPwdeSg5"
-      },
-      "artists": [
-        {
-          "name": "Lightning Bug",
-          "url": "https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4"
-        }
-      ],
-      "duration_ms": 265191,
-      "name": "December Song",
-      "url": "https://open.spotify.com/track/2zmX9ZW7OXmB5wZ7xJPssM"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Your Eyes Tell Stories",
-        "url": "https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Your Eyes Tell Stories",
-      "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

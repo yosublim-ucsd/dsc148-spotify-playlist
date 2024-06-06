@@ -1,6 +1,6 @@
 {
   "description": "Enjoy your favourite K-drama's OST instrumentals. (Cover: Queen of Tears(\ub208\ubb3c\uc758 \uc5ec\uc655)) (\ud55c\uad6d OST \ubc18\uc8fc\uace1\uacfc \ud568\uaed8 \uc5ec\uc720\ub85c\uc6b4 \uc2dc\uac04\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 200571,
+  "num_followers": 200593,
   "original_name": "Korean OST Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-03-27 14:56:05",
       "album": {
-        "name": "10CM X MY DEMON",
-        "url": "https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d"
+        "name": "Crash Landing on You OST Part 11",
+        "url": "https://open.spotify.com/album/29KU88wZtAigritdYGvgPk"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 261586,
-      "name": "The way to lose you (Inst.)",
-      "url": "https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn"
+      "duration_ms": 280360,
+      "name": "Give You My Heart (Inst.)",
+      "url": "https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH"
     },
     {
       "added_at": "2024-03-27 14:56:05",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-03-27 14:56:05",
       "album": {
-        "name": "Crash Landing on You OST Part 11",
-        "url": "https://open.spotify.com/album/29KU88wZtAigritdYGvgPk"
+        "name": "10CM X MY DEMON",
+        "url": "https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 280360,
-      "name": "Give You My Heart (Inst.)",
-      "url": "https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH"
+      "duration_ms": 261586,
+      "name": "The way to lose you (Inst.)",
+      "url": "https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn"
     },
     {
       "added_at": "2024-03-27 14:56:05",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-27 14:56:05",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h"
-      },
-      "artists": [
-        {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
-        }
-      ],
-      "duration_ms": 236366,
-      "name": "Wish - Instrumental",
-      "url": "https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi"
-    },
-    {
-      "added_at": "2024-03-27 14:56:05",
-      "album": {
         "name": "Snowdrop (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2024-03-27 14:56:05",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
+        "name": "Guardian (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
         }
       ],
-      "duration_ms": 275362,
-      "name": "Is It Still Beautiful - Instrumental",
-      "url": "https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO"
+      "duration_ms": 236366,
+      "name": "Wish - Instrumental",
+      "url": "https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi"
+    },
+    {
+      "added_at": "2024-03-27 14:56:05",
+      "album": {
+        "name": "Snowdrop (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3"
+      },
+      "artists": [
+        {
+          "name": "JeHwi",
+          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
+        }
+      ],
+      "duration_ms": 182849,
+      "name": "Looks like a real thing - Instrumental",
+      "url": "https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1"
     },
     {
       "added_at": "2024-03-27 14:56:05",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-03-27 14:56:05",
       "album": {
-        "name": "Snowdrop (Original Television Soundtrack, Pt. 3)",
-        "url": "https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3"
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
       },
       "artists": [
         {
-          "name": "JeHwi",
-          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 182849,
-      "name": "Looks like a real thing - Instrumental",
-      "url": "https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1"
+      "duration_ms": 275362,
+      "name": "Is It Still Beautiful - Instrumental",
+      "url": "https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO"
     },
     {
       "added_at": "2024-03-27 14:56:05",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-27 14:56:05",
       "album": {
-        "name": "Doctor Slump (Original Television Soundtrack) Pt.3",
-        "url": "https://open.spotify.com/album/19AaWH1Naf7VdrsSDkNtsH"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 209877,
-      "name": "The Way to love myself - Instrumental",
-      "url": "https://open.spotify.com/track/5Hjxg3QBGpcrwqxCVvfuzW"
-    },
-    {
-      "added_at": "2024-03-27 14:56:05",
-      "album": {
         "name": "Rookie Cops (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3NMhbHEMzUQF0BbOXtRR8a"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 223986,
       "name": "What A Wonderful Day - Instrumental",
       "url": "https://open.spotify.com/track/70LlESa3N6MDu6GZ5eKqAj"
+    },
+    {
+      "added_at": "2024-03-27 14:56:05",
+      "album": {
+        "name": "Doctor Slump (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/19AaWH1Naf7VdrsSDkNtsH"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 209877,
+      "name": "The Way to love myself - Instrumental",
+      "url": "https://open.spotify.com/track/5Hjxg3QBGpcrwqxCVvfuzW"
     },
     {
       "added_at": "2024-03-27 14:56:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-27 14:56:05",
       "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/17wx44kco8t7rZW796KlF1"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Those Days (without you) - Instrument",
-      "url": "https://open.spotify.com/track/52cO1XrWkAUNYhCgExD3vy"
-    },
-    {
-      "added_at": "2024-03-27 14:56:05",
-      "album": {
         "name": "A Poem a Day (tvN DRAMA) OST Part.7",
         "url": "https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 212828,
       "name": "That Person - Instrumental",
       "url": "https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy"
+    },
+    {
+      "added_at": "2024-03-27 14:56:05",
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/17wx44kco8t7rZW796KlF1"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Those Days (without you) - Instrument",
+      "url": "https://open.spotify.com/track/52cO1XrWkAUNYhCgExD3vy"
     },
     {
       "added_at": "2024-03-27 14:56:05",

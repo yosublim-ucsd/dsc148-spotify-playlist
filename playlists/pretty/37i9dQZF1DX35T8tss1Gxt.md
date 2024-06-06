@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,953 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,034 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 52 | [Lover of My Soul](https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio) | [Kateri B](https://open.spotify.com/artist/3qeeafMyxZOUjdz19FHjua), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Lover of My Soul](https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd) | 3:22 |
 | 53 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 |
 | 54 | [My Worship](https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [My Worship](https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v) | 3:21 |
-| 55 | [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 |
-| 56 | [Breathe Again](https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Breathe Again](https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww) | 3:06 |
+| 55 | [Breathe Again](https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Breathe Again](https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww) | 3:06 |
+| 56 | [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 |
 | 57 | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG) | 3:12 |
 | 58 | [Fall Back](https://open.spotify.com/track/5tKkyk6FPsNfBUMyT3A3JF) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [Dante' Pride](https://open.spotify.com/artist/2v3KGsTtvQXwQHOMvqtkKS) | [Fall Back](https://open.spotify.com/album/1HaA6TrRiVF8wXl4wqCTAe) | 2:11 |
 | 59 | [who.](https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [polaroids.](https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL) | 2:35 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 63 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 |
 | 64 | [HOMIE](https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [SAO!](https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Alfa Tavares](https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW) | [HOMIE](https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY) | 2:33 |
 | 65 | [Simple Ways](https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a) | [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Simple Ways](https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc) | 2:57 |
-| 66 | [Unconditional](https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Surrender The Will](https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ) | 2:48 |
-| 67 | [Give Myself Away](https://open.spotify.com/track/23XaBkQt12DgsSZk7elnUL) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Give Myself Away](https://open.spotify.com/album/3Sjbg2zl6AaCWxhqhQG0u6) | 3:24 |
+| 66 | [Give Myself Away](https://open.spotify.com/track/23XaBkQt12DgsSZk7elnUL) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Give Myself Away](https://open.spotify.com/album/3Sjbg2zl6AaCWxhqhQG0u6) | 3:24 |
+| 67 | [Unconditional](https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Surrender The Will](https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ) | 2:48 |
 | 68 | [Higher](https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn) | [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [Higher](https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw) | 2:34 |
 | 69 | [True Love](https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [True Love](https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf) | 3:42 |
 | 70 | [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 |

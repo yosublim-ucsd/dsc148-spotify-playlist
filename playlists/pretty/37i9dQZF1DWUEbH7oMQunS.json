@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 61050,
+  "num_followers": 61058,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,30 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 352318,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 237466,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 352318,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
     },
     {
       "added_at": "2023-07-28 04:02:00",

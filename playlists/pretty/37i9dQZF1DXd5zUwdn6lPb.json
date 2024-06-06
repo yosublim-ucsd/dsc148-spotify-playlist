@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 321832,
+  "num_followers": 321899,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
         "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 119146,
       "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
       "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -571,30 +571,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Glass: Tissue No. 7 (Musical Moments)",
-        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Camille Thomas",
-          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
-        },
-        {
-          "name": "Julien Brocal",
-          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
-        }
-      ],
-      "duration_ms": 195712,
-      "name": "Tissue No. 7",
-      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 78066,
       "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
       "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Glass: Tissue No. 7 (Musical Moments)",
+        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Julien Brocal",
+          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
+        }
+      ],
+      "duration_ms": 195712,
+      "name": "Tissue No. 7",
+      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -695,22 +695,22 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
+        "name": "Corea: Children's Song No. 1",
+        "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
       },
       "artists": [
         {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         },
         {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
+      "duration_ms": 111178,
+      "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson)",
+      "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -735,22 +735,22 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Corea: Children's Song No. 1",
-        "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
+        "name": "Try",
+        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
         },
         {
-          "name": "Sean Shibe",
-          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
         }
       ],
-      "duration_ms": 111178,
-      "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson)",
-      "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
+      "duration_ms": 242333,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "duration_ms": 54520,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
+      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
         "name": "Four Hands",
         "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 140626,
       "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
       "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
-        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
-        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
-        }
-      ],
-      "duration_ms": 54520,
-      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
-      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
+        "name": "Lavender Fields",
+        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Lavender Fields",
+      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
         "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
         "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
       },
@@ -907,18 +923,22 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Lavender Fields",
-        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
       "artists": [
         {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
         }
       ],
-      "duration_ms": 216920,
-      "name": "Lavender Fields",
-      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1019,6 +1039,26 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
+        "name": "02:07",
+        "url": "https://open.spotify.com/album/2OvmDHl2A8TQNWmpIQSS4v"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        },
+        {
+          "name": "Maarten Vos",
+          "url": "https://open.spotify.com/artist/0ebjSec5WcmJE7r09zDEE1"
+        }
+      ],
+      "duration_ms": 200762,
+      "name": "02:07",
+      "url": "https://open.spotify.com/track/48cEP4ehxkhonJfyfIL4gM"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1035,26 +1075,6 @@
       "duration_ms": 88573,
       "name": "Invention No. 1 in C Major, BWV 772",
       "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "02:07",
-        "url": "https://open.spotify.com/album/2OvmDHl2A8TQNWmpIQSS4v"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        },
-        {
-          "name": "Maarten Vos",
-          "url": "https://open.spotify.com/artist/0ebjSec5WcmJE7r09zDEE1"
-        }
-      ],
-      "duration_ms": 200762,
-      "name": "02:07",
-      "url": "https://open.spotify.com/track/48cEP4ehxkhonJfyfIL4gM"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Mendelssohn",
         "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
@@ -1195,6 +1195,26 @@
       "duration_ms": 169653,
       "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
       "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1219,26 +1239,6 @@
       "duration_ms": 153640,
       "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
       "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Wachet auf, ruft uns die Stimme, BWV 645",
         "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 354560,
       "name": "Wachet auf, ruft uns die Stimme, BWV 645",
       "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 233642,
-      "name": "Plus t\u00f4t (String Quartet Version) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Beethoven: Piano Sonatas, Vol. 7",
         "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 161961,
       "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Plus t\u00f4t (String Quartet Version) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw"
     },
     {
       "added_at": "2024-05-31 12:49:38",

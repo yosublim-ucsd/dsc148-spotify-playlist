@@ -7932,7 +7932,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 219200,
       "name": "Draumurinn",
       "url": "https://open.spotify.com/track/54zQcBTXpfox7Zf2jRA1MU"
@@ -18176,7 +18176,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 151593,
       "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
       "url": "https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB"
@@ -21388,6 +21388,24 @@
     {
       "album": {
         "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
       "artists": [
@@ -21398,7 +21416,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -23101,6 +23119,24 @@
     },
     {
       "album": {
+        "name": "No No",
+        "url": "https://open.spotify.com/album/7dCRoXFZ5VNLPwvpmQEaRF"
+      },
+      "artists": [
+        {
+          "name": "EchoRaze",
+          "url": "https://open.spotify.com/artist/1UGDXbiGwI8Z5RTdbQ6EdP"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90779,
+      "name": "No No",
+      "url": "https://open.spotify.com/track/5YcJJSdIA02S9R6qPiCXLY"
+    },
+    {
+      "album": {
         "name": "No Painkiller",
         "url": "https://open.spotify.com/album/7GjkPUBcbbPtZqnxt0OdTp"
       },
@@ -23204,6 +23240,24 @@
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "album": {
+        "name": "Nocturnal Glow",
+        "url": "https://open.spotify.com/album/6sgD1qSzvG2aTh8BYHoQd6"
+      },
+      "artists": [
+        {
+          "name": "TST001",
+          "url": "https://open.spotify.com/artist/0PKZPtN7NElKDSvhPn5PN7"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Nocturnal Glow",
+      "url": "https://open.spotify.com/track/20PGfI6hGaWMxhQ4UlPkjE"
     },
     {
       "album": {
@@ -32130,7 +32184,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -33342,6 +33396,28 @@
       "duration_ms": 357800,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
+    },
+    {
+      "album": {
+        "name": "THROWING STACKS",
+        "url": "https://open.spotify.com/album/6azfidKyqiPKbcjSHbuHNX"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209217,
+      "name": "THROWING STACKS",
+      "url": "https://open.spotify.com/track/04bH7vnht0hxL7dZifyFPH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 467969,
+  "description": "This Is Avenged Sevenfold. Los temas esenciales, todos en una lista.",
+  "num_followers": 468224,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAbj+405S9aAnw6XunLk6aE",
+  "snapshot_id": "Zl5ZAAAAAAAY2pnvt3Uj2dOQtP2f6anE",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 451160,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waking The Fallen",
         "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
@@ -427,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 451160,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 315173,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/5o8OdhjVZSF2wCj7M8UpMN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 385400,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 538333,
-      "name": "I Won't See You Tonight Part 1",
-      "url": "https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO"
     },
     {
       "added_at": null,
@@ -507,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Ready to Die (From \"Call of the Dead\")",
-        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },
       "artists": [
         {
@@ -516,9 +484,25 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 425264,
-      "name": "Not Ready to Die - From \"Call of the Dead\"",
-      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
+      "duration_ms": 315173,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/5o8OdhjVZSF2wCj7M8UpMN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 538333,
+      "name": "I Won't See You Tonight Part 1",
+      "url": "https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO"
     },
     {
       "added_at": null,
@@ -539,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 351581,
-      "name": "Dancing Dead",
-      "url": "https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is But a Dream\u2026",
         "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 226066,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Ready to Die (From \"Call of the Dead\")",
+        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 425264,
+      "name": "Not Ready to Die - From \"Call of the Dead\"",
+      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 351581,
+      "name": "Dancing Dead",
+      "url": "https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt"
     },
     {
       "added_at": null,

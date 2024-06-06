@@ -1,12 +1,12 @@
 {
   "description": "The Mar\u00edas's <a href=\"spotify:album:03guxdOi12XJbnvxvxbpwG\">Submarine</a> is here",
-  "num_followers": 1148485,
+  "num_followers": 1148471,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllM0gAAAAC7X4QnYH6ZQ9szLvF2yuip",
+  "snapshot_id": "ZmCymAAAAADEPavdc4kx5FbWxDzX0QxI",
   "tracks": [
     {
       "added_at": "2024-05-31 04:06:42",
@@ -105,20 +105,20 @@
       "url": "https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm"
     },
     {
-      "added_at": "2024-05-31 04:06:42",
+      "added_at": "2024-06-05 18:46:48",
       "album": {
-        "name": "stick of gum",
-        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/0veYtiZMaSdl8dDipcvSYN"
       },
       "artists": [
         {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
         }
       ],
-      "duration_ms": 148400,
-      "name": "stick of gum",
-      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
+      "duration_ms": 358226,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/1JbI6oy4mq3ANNNoAbpkwS"
     },
     {
       "added_at": "2024-05-31 04:06:42",
@@ -135,6 +135,22 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-05-31 04:06:42",
+      "album": {
+        "name": "stick of gum",
+        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "stick of gum",
+      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
     },
     {
       "added_at": "2024-05-14 17:00:48",
@@ -167,6 +183,38 @@
       "duration_ms": 223236,
       "name": "Girls Just Wanna Have Some",
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
+    },
+    {
+      "added_at": "2024-05-31 04:06:42",
+      "album": {
+        "name": "You Can't Put A Price On Fun",
+        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 200449,
+      "name": "Price On Fun",
+      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
+    },
+    {
+      "added_at": "2024-06-05 18:46:48",
+      "album": {
+        "name": "WALLBOY",
+        "url": "https://open.spotify.com/album/7F7guXxj0PfWJTlPedzy0w"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "WALLBOY",
+      "url": "https://open.spotify.com/track/6Qfgiw4D78yZQsvAmb3MJL"
     },
     {
       "added_at": "2024-05-31 04:06:42",
@@ -267,22 +315,6 @@
       "duration_ms": 281807,
       "name": "Inside My Love",
       "url": "https://open.spotify.com/track/64qumU8DunSmNXYQKuIVWv"
-    },
-    {
-      "added_at": "2024-05-31 04:06:42",
-      "album": {
-        "name": "You Can't Put A Price On Fun",
-        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 200449,
-      "name": "Price On Fun",
-      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
     },
     {
       "added_at": "2024-05-31 04:06:42",
@@ -1433,22 +1465,6 @@
       "url": "https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Riding Around In The Dark",
-        "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 206459,
-      "name": "Riding Around In The Dark",
-      "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
-    },
-    {
       "added_at": "2024-04-23 19:42:26",
       "album": {
         "name": "Tejano Blue",
@@ -1601,38 +1617,6 @@
       "url": "https://open.spotify.com/track/3QRwycTXCQrrDaFvQn235B"
     },
     {
-      "added_at": "2024-04-11 21:32:03",
-      "album": {
-        "name": "Spite",
-        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
-    },
-    {
-      "added_at": "2024-02-27 19:07:18",
-      "album": {
-        "name": "Eyes on my baby",
-        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 132737,
-      "name": "Eyes on my baby",
-      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
-    },
-    {
       "added_at": "2023-12-15 16:43:24",
       "album": {
         "name": "Slipping Through My Fingers",
@@ -1679,22 +1663,6 @@
       "duration_ms": 218283,
       "name": "See you soon",
       "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
-    },
-    {
-      "added_at": "2024-04-12 19:45:15",
-      "album": {
-        "name": "Rag",
-        "url": "https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 142449,
-      "name": "Rag",
-      "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1795,6 +1763,22 @@
       "duration_ms": 223986,
       "name": "Hell of A Ride",
       "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
+    },
+    {
+      "added_at": "2024-02-27 19:07:18",
+      "album": {
+        "name": "Eyes on my baby",
+        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 132737,
+      "name": "Eyes on my baby",
+      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
     },
     {
       "added_at": "2024-04-05 23:23:27",

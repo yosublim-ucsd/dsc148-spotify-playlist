@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,379 likes - 100 songs - 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,398 likes - 100 songs - 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 76 | [But Not For Me \- Live](https://open.spotify.com/track/2YgzzUngwKJ193BuITI15o) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Up At Minton's](https://open.spotify.com/album/1G8ODQXuTjHPc0JXNHnT0m) | 11:29 |
 | 77 | [Take The A Train](https://open.spotify.com/track/10cg96POewnGipBTe4oM0j) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Cornell 1964](https://open.spotify.com/album/1x41adRv7tw6tr9LpbikRY) | 17:26 |
 | 78 | [Snowflakes And Sunshine \- Live At The Golden Circle, Stockholm/1965 / Remastered 1999](https://open.spotify.com/track/0vIj8yavF8QCq17FcidSZV) | [Ornette Coleman Trio](https://open.spotify.com/artist/0NRvpjoS4w3WdVSmkqSXgV) | [At The "Golden Circle" Stockholm Vol\. 2 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs) | 10:42 |
-| 79 | [Are You Going With Me? \- Live](https://open.spotify.com/track/3jKCwz2s4wm3djg7Mb2dMI) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Travels](https://open.spotify.com/album/2rxe6u2Pm52WtUbbgcof2c) | 9:18 |
+| 79 | [Are You Going With Me? \- Live](https://open.spotify.com/track/3jKCwz2s4wm3djg7Mb2dMI) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Lyle Mays](https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4), [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Travels](https://open.spotify.com/album/2rxe6u2Pm52WtUbbgcof2c) | 9:18 |
 | 80 | [Autumn Leaves \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/7tyDWNVuIKEDuZS33Fm9S4) | [Joseph Kosma](https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y), [Jacques Enoch](https://open.spotify.com/artist/4mhblJOpL8srpTB3EdhuML), [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 10:24 |
 | 81 | [Teach Me Tonight \- Original Edited Concert \- Live at Sunset School, Carmel\-by\-the\-Sea, CA, September 1955](https://open.spotify.com/track/32mkhw8UkqgsEiDhfz0r1n) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Concert By The Sea](https://open.spotify.com/album/6P8W18Qy0P2vreXHoEeVQL) | 3:44 |
 | 82 | [Mahogany Hall Stomp \- Live At Symphony Hall, Boston, MA/1947](https://open.spotify.com/track/1dmzpoQdOq11XR62yFxs4i) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo At Symphony Hall](https://open.spotify.com/album/3NksAuGTtVtAo1fYFwhO6D) | 3:53 |

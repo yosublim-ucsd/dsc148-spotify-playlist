@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 4766,
+  "num_followers": 4767,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAADF9jl06VwpnGb4VCdDyl1x",
+  "snapshot_id": "Zl5ZAAAAAABtrT5R6XkokIj2nlVMPgsc",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 190680,
-      "name": "Entre Besos Y Copas",
-      "url": "https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB"
+      "duration_ms": 183026,
+      "name": "A Lo Menso",
+      "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 183026,
-      "name": "A Lo Menso",
-      "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
+      "duration_ms": 190680,
+      "name": "Entre Besos Y Copas",
+      "url": "https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Vas a Volver",
-      "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
+      "duration_ms": 206426,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7"
+      "duration_ms": 183413,
+      "name": "Vas a Volver",
+      "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An\u00edmate Y Ver\u00e1s",
-        "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "An\u00edmate Y Ver\u00e1s",
-      "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
         "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 86773,
       "name": "Chuper Amigos - En Vivo",
       "url": "https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An\u00edmate Y Ver\u00e1s",
+        "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 144226,
+      "name": "An\u00edmate Y Ver\u00e1s",
+      "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Regresar\u00e1s",
-        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "No Regresar\u00e1s",
-      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
         "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 188786,
       "name": "No Llega El Olvido - En Vivo",
       "url": "https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Regresar\u00e1s",
+        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "No Regresar\u00e1s",
+      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
     },
     {
       "added_at": null,
@@ -856,9 +856,25 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Gracias Por Tu Participaci\u00f3n",
-      "url": "https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl"
+      "duration_ms": 218906,
+      "name": "Con La Misma Bala",
+      "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Necia",
+        "url": "https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 142117,
+      "name": "La Necia",
+      "url": "https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA"
     },
     {
       "added_at": null,
@@ -883,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Necia",
-        "url": "https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup"
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
       },
       "artists": [
         {
@@ -892,9 +908,25 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 142117,
-      "name": "La Necia",
-      "url": "https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA"
+      "duration_ms": 156173,
+      "name": "No Te Quiero Quemar",
+      "url": "https://open.spotify.com/track/6CpJeEDXJGxiCBmmjMN59K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Gracias Por Tu Participaci\u00f3n",
+      "url": "https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl"
     },
     {
       "added_at": null,
@@ -919,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Con La Misma Bala",
-      "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
         "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 120120,
       "name": "A Lo Menso / Quisieran Tener Mi Lugar - En Vivo",
       "url": "https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "No Te Quiero Quemar",
-      "url": "https://open.spotify.com/track/6CpJeEDXJGxiCBmmjMN59K"
     }
   ],
   "unique_name": "This Is Chiquis",

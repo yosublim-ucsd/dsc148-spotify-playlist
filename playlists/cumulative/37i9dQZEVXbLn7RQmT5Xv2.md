@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-839 songs - 2 day 1 hr 0 min
+840 songs - 2 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,7 +666,7 @@
 | [البخت](https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/2QYOx6iuRhBUDiLQ262eGw) | 3:26 | 2022-03-09 | 2022-04-03 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-02-27 |  |
 | [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 | 2024-03-31 |
-| [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/track/2V6Avd2Cgo2z6Ld8pyVkM6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/album/2Pfpafd4iN7WGjvA3bg0EY) | 3:21 | 2024-04-21 |  |
+| [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/track/2V6Avd2Cgo2z6Ld8pyVkM6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/album/2Pfpafd4iN7WGjvA3bg0EY) | 3:21 | 2024-04-21 | 2024-06-06 |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-23 | 2023-11-14 |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-08-25 | 2022-10-31 |
 | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/track/3Hf81fxwZmFrTgqaSqyTfw) | [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/album/1hzQl9blk5h3tZI5BGbqS7) | 3:31 | 2024-02-05 | 2024-03-17 |
@@ -703,7 +703,8 @@
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-03-24 | 2022-04-17 |
 | [بوم تش](https://open.spotify.com/track/6S6nYPaoZSmXbcbw6pVMvR) | [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48), [كلوشه](https://open.spotify.com/artist/57JzLjScfw2AbQCjCPgvX8) | [بوم تش](https://open.spotify.com/album/6zkkH7fiLnyoKkrqZEpU6L) | 5:11 | 2024-01-19 | 2024-03-23 |
 | [بونجور هلعب جولة وطفو النور](https://open.spotify.com/track/2X6nInxASivyRpPPNToiD0) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [بونجور هلعب جولة وطفو النور](https://open.spotify.com/album/7HF3n8vA2aCNJH0UpZWECf) | 5:55 | 2024-01-01 | 2024-03-15 |
-| [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 | 2024-04-29 |  |
+| [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 | 2024-04-29 | 2024-06-06 |
+| [بيكلموني](https://open.spotify.com/track/4mFb5fW3T7DWPSTTb85Y30) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5AOlSMT6DqsUBN4tgLiikm) | 5:16 | 2024-06-05 |  |
 | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/track/0rkDJCTNLBr97RVyi77z7S) | [Raouf Morsy](https://open.spotify.com/artist/4Me8b17cDKOf8pMkdnH0Hy) | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/album/0yZqqqqkKC8lqEI6pbk3m6) | 3:29 | 2024-01-21 | 2024-01-23 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2021-08-07 | 2022-02-23 |
 | [تراك الموسم](https://open.spotify.com/track/6ACKR9iNKxeBAc7fs52pHa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [تراك الموسم](https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx) | 3:07 | 2022-02-01 | 2022-02-07 |
@@ -762,7 +763,7 @@
 | [ع الصامت](https://open.spotify.com/track/1csotZQdK0em4MN66s3yRS) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 3:30 | 2021-03-27 | 2021-03-31 |
 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 | 2024-02-29 |  |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2021-09-16 | 2022-10-20 |
-| [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 | 2024-06-05 |
+| [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 |  |
 | [عصفورة \- بتنقل الكلام دى مش رجوله](https://open.spotify.com/track/4Y0HYqCtlXqSCZp3C2UoaY) | [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG), [Za3blawy](https://open.spotify.com/artist/7BkpFKhw7N5aeZ3doZ2k8V) | [عصفورة \(بتنقل الكلام دى مش رجوله\)](https://open.spotify.com/album/61ErcbWUlflfi766DtCkG2) | 3:33 | 2021-05-03 | 2021-05-22 |
 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 | 2022-06-29 | 2022-07-07 |
 | [عطشان وبستنى تغيير \| بيبسى](https://open.spotify.com/track/0KnywDnEmEjN6Ul2bOng5v) | [Dar El\-Salam](https://open.spotify.com/artist/3if09cF9yYwphLILD8bnh8), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير \| بيبسى](https://open.spotify.com/album/1A8W5ePeAAyhp5AyugIyVz) | 1:28 | 2022-07-06 | 2022-08-06 |

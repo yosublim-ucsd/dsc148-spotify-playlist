@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,739 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,746 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Harder](https://open.spotify.com/track/5biHJejkpcsUaqGd2jgxMK) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:46 |
-| 2 | [Jolene \- Deluxe](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 |
+| 2 | [Jolene](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 |
 | 3 | [Niyo Ndirimbo](https://open.spotify.com/track/0J8exQMukp4lBP2alsaNWy) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64), [Adrien](https://open.spotify.com/artist/3sw22hr0nnSyb51poFeV1t) | [Niyo Ndirimbo](https://open.spotify.com/album/6U4XtK4eFbBDoHXmGYCZ7f) | 4:06 |
 | 4 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
 | 5 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 |

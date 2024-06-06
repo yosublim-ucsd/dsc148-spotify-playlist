@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: wes mills. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Bad Friends. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 184433,
       "name": "24 Seconds",
       "url": "https://open.spotify.com/track/5lUPLEaIi28YjZ5OJ3jLoW"
@@ -4206,7 +4206,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 423749,
       "name": "Bodywork",
       "url": "https://open.spotify.com/track/4opl27jUT1nEvCiQXTRWPY"
@@ -5202,6 +5202,28 @@
       "duration_ms": 234525,
       "name": "Bumble",
       "url": "https://open.spotify.com/track/17O64wKaZrNG67Lh5Ib4AR"
+    },
+    {
+      "album": {
+        "name": "Buon Giorno",
+        "url": "https://open.spotify.com/album/1D1Eh96eBxj6ZpwviHdiAn"
+      },
+      "artists": [
+        {
+          "name": "Kayps",
+          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132024,
+      "name": "Buon Giorno",
+      "url": "https://open.spotify.com/track/7MR69VEiaimYkAIq9A94QQ"
     },
     {
       "album": {
@@ -9070,7 +9092,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 118026,
       "name": "die for you",
       "url": "https://open.spotify.com/track/2VYRw09BrrRLcUoilTLN43"
@@ -10066,6 +10088,28 @@
       "duration_ms": 239053,
       "name": "Don't Tell Me What To Do",
       "url": "https://open.spotify.com/track/0WutV02Tuz4Ue7Svj4Nngn"
+    },
+    {
+      "album": {
+        "name": "Jewels",
+        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Aizo Clutch",
+          "url": "https://open.spotify.com/artist/52prduwoZJCA7ql3zPG6Bl"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383589,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/5c65o3KNnBQaKTK9Jp2TRr"
     },
     {
       "album": {
@@ -12205,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/4shAGmZo84M1qHekU3SdPC"
+      },
+      "artists": [
+        {
+          "name": "Amber Tambour",
+          "url": "https://open.spotify.com/artist/5xhTYKtRvklgt8OqgaiqZk"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/2c9YFLVH3NPe8KOJu2OIF5"
+    },
+    {
+      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/5XAogfEMF4Lpxg43S4rqMc"
       },
@@ -12876,6 +12938,24 @@
       "duration_ms": 258013,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5S7xGgvd4RWejVhj6mZHMq"
+    },
+    {
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/6hbFLgtg6vbqO5aHMeRIZM"
+      },
+      "artists": [
+        {
+          "name": "Bad Friends",
+          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4"
     },
     {
       "album": {
@@ -15210,7 +15290,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 339681,
       "name": "GOLDEN",
       "url": "https://open.spotify.com/track/1CBKVh2cLLuWyaJR1jE6BC"
@@ -15851,6 +15931,24 @@
     },
     {
       "album": {
+        "name": "havet",
+        "url": "https://open.spotify.com/album/6fQ0pD1xd66tZki5Znw37L"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199570,
+      "name": "havet",
+      "url": "https://open.spotify.com/track/5wJf2MmIa9zSK5VrztQA9B"
+    },
+    {
+      "album": {
         "name": "Hawa",
         "url": "https://open.spotify.com/album/2dIRXdjSAewScDXNCecmP5"
       },
@@ -16388,7 +16486,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 169639,
       "name": "Higher",
       "url": "https://open.spotify.com/track/44BOuprG538ofr0uUO7jRr"
@@ -24599,6 +24697,24 @@
     },
     {
       "album": {
+        "name": "Get Back To Me",
+        "url": "https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230487,
+      "name": "My Trust, My Love",
+      "url": "https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL"
+    },
+    {
+      "album": {
         "name": "MYSM",
         "url": "https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz"
       },
@@ -25054,6 +25170,24 @@
       "duration_ms": 244261,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/3MSaIajYgnM3pZf9uXA0K6"
+    },
+    {
+      "album": {
+        "name": "New World Expression",
+        "url": "https://open.spotify.com/album/2cb8ptTLmpPQldm2RgQ5cX"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204255,
+      "name": "New World Expression",
+      "url": "https://open.spotify.com/track/6h426eeQUnhLOKJbAdCEnX"
     },
     {
       "album": {
@@ -34362,7 +34496,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 243582,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2uByt4EkmHvx0V4jFPrgxO"
@@ -36994,7 +37128,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 233409,
       "name": "Together",
       "url": "https://open.spotify.com/track/5BehfMdJifpFKpqJ48bGcr"
@@ -37052,6 +37186,24 @@
       "duration_ms": 346384,
       "name": "Tonic Ice",
       "url": "https://open.spotify.com/track/5X59aSkzZaBUv2FXmrTXWb"
+    },
+    {
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/3WmT1FrcZAWhvVtLSAz4kI"
+      },
+      "artists": [
+        {
+          "name": "Fresh Laundry",
+          "url": "https://open.spotify.com/artist/2V0ht7cPYfJlSmfFq9cCws"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139090,
+      "name": "TONIGHT",
+      "url": "https://open.spotify.com/track/4oO67Fb9LEokce7SN4rSeg"
     },
     {
       "album": {
@@ -38120,7 +38272,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 174588,
       "name": "Under My Feet",
       "url": "https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y"
@@ -38394,6 +38546,24 @@
       "duration_ms": 250255,
       "name": "Until The Daylight",
       "url": "https://open.spotify.com/track/3Rc8Em7tMP4doYT0B4ahrw"
+    },
+    {
+      "album": {
+        "name": "Untitled 04",
+        "url": "https://open.spotify.com/album/6RJhVxMDYp6hf7bCpHS1WB"
+      },
+      "artists": [
+        {
+          "name": "Leod",
+          "url": "https://open.spotify.com/artist/60s9PC0pLdn1j1fz6PjUT1"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257996,
+      "name": "Untitled 04",
+      "url": "https://open.spotify.com/track/3f5GBsXdQtdLC6yAXzjUsT"
     },
     {
       "album": {
@@ -39456,7 +39626,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 204750,
       "name": "We Are The Risers",
       "url": "https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6"

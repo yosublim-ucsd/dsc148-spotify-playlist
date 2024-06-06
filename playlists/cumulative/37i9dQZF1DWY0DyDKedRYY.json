@@ -13897,6 +13897,24 @@
     },
     {
       "album": {
+        "name": "words fell out",
+        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181480,
+      "name": "words fell out",
+      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
+    },
+    {
+      "album": {
         "name": "Worse Together",
         "url": "https://open.spotify.com/album/2JIgRcXq3CnoRDdNxJRB4N"
       },

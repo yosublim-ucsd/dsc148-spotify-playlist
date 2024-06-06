@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,708 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,755 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 28 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 29 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
 | 30 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
-| 31 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |
+| 31 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
 | 32 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 |
-| 33 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
+| 33 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |
 | 34 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
 | 35 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
 | 36 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 40 | [フロントガラス越しに](https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh) | [Kaoru Sudo](https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3) | [PLANETARIUM](https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh) | 4:49 |
 | 41 | [L.A.NIGHT](https://open.spotify.com/track/49s3vsplHRM2TOOrhnanub) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [GRAVY](https://open.spotify.com/album/7cS1kMkHB5U5O2xXethG7s) | 5:33 |
 | 42 | [雨のケンネル通り](https://open.spotify.com/track/34fPafuMThpNjUuJ3DW8dj) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [GOODIES](https://open.spotify.com/album/60OpUEpnNiPjvMM8ibV3Ur) | 4:34 |
-| 43 | [ふたりの夏物語 NEVER ENDING SUMMER](https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ゴールデン☆ベスト](https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6) | 4:01 |
-| 44 | [誤解](https://open.spotify.com/track/6t4SiWWFR5lDakMBkTlwG6) | [加藤有紀](https://open.spotify.com/artist/6dp5zARUDqalwLO3UXNGoB) | [コンプリート・コレクション 謎はと・か・な・い・で](https://open.spotify.com/album/0Z1nCmI0QETsUMCpgVpU2W) | 3:58 |
+| 43 | [誤解](https://open.spotify.com/track/6t4SiWWFR5lDakMBkTlwG6) | [加藤有紀](https://open.spotify.com/artist/6dp5zARUDqalwLO3UXNGoB) | [コンプリート・コレクション 謎はと・か・な・い・で](https://open.spotify.com/album/0Z1nCmI0QETsUMCpgVpU2W) | 3:58 |
+| 44 | [ふたりの夏物語 NEVER ENDING SUMMER](https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ゴールデン☆ベスト](https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6) | 4:01 |
 | 45 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 |
-| 46 | [WASH\(ウオッシュ\)](https://open.spotify.com/track/0gZCmzblfShtJTjripDYRz) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 4:31 |
-| 47 | [Summer Beach](https://open.spotify.com/track/3CpI6Cqup7J36JblqaJJaX) | [Yukiko Okada](https://open.spotify.com/artist/5KoAVBi3BfwZfbQxwJab0B) | [All Songs Request](https://open.spotify.com/album/5DxOQ9BccP1QlM1s35f82F) | 4:18 |
+| 46 | [Summer Beach](https://open.spotify.com/track/3CpI6Cqup7J36JblqaJJaX) | [Yukiko Okada](https://open.spotify.com/artist/5KoAVBi3BfwZfbQxwJab0B) | [All Songs Request](https://open.spotify.com/album/5DxOQ9BccP1QlM1s35f82F) | 4:18 |
+| 47 | [WASH\(ウオッシュ\)](https://open.spotify.com/track/0gZCmzblfShtJTjripDYRz) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 4:31 |
 | 48 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 |
 | 49 | [SAY GOODBYE](https://open.spotify.com/track/1sRKxcTDO1nYdoc47L1ZqM) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/27M0r1SO7DE7f3IgRkwHB7) | 3:26 |
 | 50 | [SUNDAY BRUNCH](https://open.spotify.com/track/4wC9F4ykpyYjOLJpVhqfvo) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [KANA](https://open.spotify.com/album/5KnNJ4FRoVFyGvlMZDciwE) | 3:55 |

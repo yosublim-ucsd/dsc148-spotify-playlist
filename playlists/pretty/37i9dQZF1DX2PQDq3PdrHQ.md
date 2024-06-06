@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,585 likes - 315 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,857 likes - 315 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 314 | [sheltered love](https://open.spotify.com/track/4Xx2WzhhgaKRtb7993UJO7) | [kairos](https://open.spotify.com/artist/6YHuTrPW5JY4DcamHp2vAa) | [sheltered love](https://open.spotify.com/album/6WuJRLpJCxd3OFjXzKdSiG) | 2:59 |
 | 315 | [memories](https://open.spotify.com/track/1st1h9byLbKUQiooNUN9Xf) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [memories](https://open.spotify.com/album/3nSW0AhPMSuDoajmzenszc) | 2:43 |
 
-Snapshot ID: `ZlcqowAAAAB7BosU1YH9H2CxFGM+Ta9M`
+Snapshot ID: `ZmBOyQAAAAC7JO4h4g7b79+DQ2Kxrk6K`

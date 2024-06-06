@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,326 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,339 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [Último Día](https://open.spotify.com/track/2GEP6BvxNStWmmHkbQmUb3) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Los Sentimientos De un Robot](https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK) | 3:18 |
 | 50 | [2 Pa 2](https://open.spotify.com/track/4BsiIONNXdGeYCA4vnkckR) | [JOTAA](https://open.spotify.com/artist/7qsoMtGvsDHO9EeQ1uQJEr), [Klim](https://open.spotify.com/artist/7wGC5qN0WaLagtSprA8nTe) | [2 Pa 2](https://open.spotify.com/album/4BFV2KUwYnwQo35C2bYfPW) | 2:49 |
 
-Snapshot ID: `LfJ8GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LfPNmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

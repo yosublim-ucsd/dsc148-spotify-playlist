@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Indien.
 
-1,455 songs - 3 day 8 hr 0 min
+1,456 songs - 3 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2022-02-10 | 2022-12-15 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2022-08-02 |
 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-02-09 | 2024-05-20 |
-| [Gist](https://open.spotify.com/track/2hgBaouS3Vg6fg70GCBMAQ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy) | [Gist](https://open.spotify.com/album/5kvBQ9BN4PwSd2mAQtdPTT) | 3:25 | 2024-04-26 |  |
+| [Gist](https://open.spotify.com/track/2hgBaouS3Vg6fg70GCBMAQ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy) | [Gist](https://open.spotify.com/album/5kvBQ9BN4PwSd2mAQtdPTT) | 3:25 | 2024-04-26 | 2024-06-06 |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-03-24 | 2023-01-21 |
 | [Glorious](https://open.spotify.com/track/0nexrndpXBZLP2GIiwHBT4) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Glorious](https://open.spotify.com/album/6Ds19IWuhiVi2iBqyKVRyF) | 3:52 | 2024-05-17 |  |
 | [Glücklich](https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:23 | 2022-03-24 | 2022-09-16 |
@@ -1102,6 +1102,7 @@
 | [Summer Night](https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [Summer Night](https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw) | 2:51 | 2022-02-10 | 2022-08-02 |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-12-07 | 2024-04-19 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-08 | 2024-01-13 |
+| [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 |  |
 | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz) | [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX) | 4:07 | 2022-02-03 | 2022-12-15 |
 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 | 2022-03-24 | 2022-12-15 |
 | [Table Of Fools](https://open.spotify.com/track/0QSJddfRGIfStqy0DZ9pvw) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Table Of Fools](https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk) | 3:24 | 2022-04-12 | 2022-04-20 |

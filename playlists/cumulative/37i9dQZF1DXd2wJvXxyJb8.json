@@ -5663,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+        "url": "https://open.spotify.com/album/4epLXw8yQ5PPRTDyLGErR6"
+      },
+      "artists": [
+        {
+          "name": "Djay L Beats",
+          "url": "https://open.spotify.com/artist/22XiT8DHddIU2VcuGDEU0o"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133125,
+      "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+      "url": "https://open.spotify.com/track/5BpNdbgj7stB4AwaV1Tu2R"
+    },
+    {
+      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -5678,10 +5696,6 @@
         {
           "name": "Mc Leozin",
           "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
       "date_added": "2024-05-21",

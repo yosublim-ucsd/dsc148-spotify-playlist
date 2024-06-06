@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32610,
+  "num_followers": 32619,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAADwjOOTr+ChclBU2XjW8ZI8",
+  "snapshot_id": "Zl5ZAAAAAAAl/wOwYcBFpirOzJbqzd5q",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Coldest",
+        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 202788,
+      "name": "Mike Jack (feat. G Herbo & Rob49)",
+      "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -323,26 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Coldest",
-        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+        "name": "SLICK ALMIGHTY",
+        "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
       },
       "artists": [
         {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 202788,
-      "name": "Mike Jack (feat. G Herbo & Rob49)",
-      "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
+      "duration_ms": 204750,
+      "name": "Drench Gang (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
     },
     {
       "added_at": null,
@@ -367,26 +387,6 @@
       "duration_ms": 183529,
       "name": "Equilibrium (with BabyTron & G Herbo)",
       "url": "https://open.spotify.com/track/3ZrobdWN5kvgpPlwpzCvTt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SLICK ALMIGHTY",
-        "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Drench Gang (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "High Speed",
-      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -487,26 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sick of Myself",
-        "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
       "artists": [
-        {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 223045,
-      "name": "One in the Head",
-      "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
+      "duration_ms": 164770,
+      "name": "High Speed",
+      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
     },
     {
       "added_at": null,
@@ -555,6 +531,30 @@
       "duration_ms": 160145,
       "name": "Stress Relief (with G Herbo)",
       "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sick of Myself",
+        "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 223045,
+      "name": "One in the Head",
+      "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -739,6 +723,62 @@
       "duration_ms": 181080,
       "name": "Swerve (feat. G Herbo)",
       "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Being Honest (Remix) [feat. G Herbo]",
+      "url": "https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 162217,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
     },
     {
       "added_at": null,
@@ -791,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 162217,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -831,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
       "artists": [
         {
@@ -840,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 244329,
-      "name": "2 Chains",
-      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
+      "duration_ms": 198400,
+      "name": "Ridin Wit It",
+      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
     },
     {
       "added_at": null,
@@ -867,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
       "artists": [
         {
@@ -876,9 +896,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Ridin Wit It",
-      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
+      "duration_ms": 244329,
+      "name": "2 Chains",
+      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
     },
     {
       "added_at": null,
@@ -1063,22 +1083,6 @@
       "duration_ms": 209454,
       "name": "Chicago to Memphis (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164992,
-      "name": "Letter to My Love",
-      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
     }
   ],
   "unique_name": "This Is G Herbo",

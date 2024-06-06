@@ -747,6 +747,28 @@
     },
     {
       "album": {
+        "name": "Drifting Together",
+        "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Siegel",
+          "url": "https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE"
+        },
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193269,
+      "name": "Drifting Together",
+      "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
+    },
+    {
+      "album": {
         "name": "Trust and Ritual",
         "url": "https://open.spotify.com/album/7kYBaUfFo6CCBsEgdacAJj"
       },
@@ -1248,7 +1270,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 204870,
       "name": "Hope And Glory",
       "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"

@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,803 songs - 2 day 21 hr 49 min
+1,806 songs - 2 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1176,6 +1176,7 @@
 | [One Flame](https://open.spotify.com/track/4Ff9CW1dMdIqupiUG3yn3q) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [One Flame](https://open.spotify.com/album/2P1KFMTCzA09BPBrqtmJID) | 2:44 | 2023-10-27 |  |
 | [Onia](https://open.spotify.com/track/1MeOp7tGTBgGDVgQ55GW1E) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Onia](https://open.spotify.com/album/3FWL321KpyvxPAgo5cdT9c) | 1:32 | 2022-09-23 | 2022-09-30 |
 | [Only For Looks](https://open.spotify.com/track/6TFdrqLpy6B8deFs4W7i7O) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Only For Looks](https://open.spotify.com/album/0K0vC0KAiO6doAkZ6SH8tK) | 2:23 | 2024-05-13 |  |
+| [Only Rain](https://open.spotify.com/track/2vaUnU3VBm2nQSBRRsvq8v) | [Violet Blanca](https://open.spotify.com/artist/2CeqZvB8v9HCGr2tVb42rj) | [Only Rain](https://open.spotify.com/album/2EyIiOcne80XZXClTQHHxe) | 2:17 | 2024-06-05 |  |
 | [Only You](https://open.spotify.com/track/7lvR0KGFEUTmEO91iPWxpb) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Only You](https://open.spotify.com/album/0SbpURG1orW0ZM56ArFyd8) | 1:58 | 2022-09-23 | 2022-09-30 |
 | [oof](https://open.spotify.com/track/5sY3HbCZXyKPzTNewxoleJ) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [oof](https://open.spotify.com/album/4E8sL8LR4ixCI5O0BlL3EO) | 2:16 | 2021-12-07 | 2022-11-12 |
 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 | 2023-10-13 | 2023-11-11 |
@@ -1197,6 +1198,7 @@
 | [patience](https://open.spotify.com/track/0oQrVn1ug3JFreiugJbmsR) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [patience](https://open.spotify.com/album/3wlYdD1TW3isAv4qaawZSB) | 2:06 | 2021-12-07 | 2022-10-29 |
 | [pattern master](https://open.spotify.com/track/3zex5kqxDPxcb1W9yVI62o) | [Beatriction](https://open.spotify.com/artist/4SSr3iApVhqgPLhIKOjrRs) | [pattern master](https://open.spotify.com/album/6h8KaYFGKLfHQrZJlp8Ijf) | 2:20 | 2022-05-27 |  |
 | [patterns of peace](https://open.spotify.com/track/70BO1pxMmy4NW9Erwlymh4) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [kaleidoscopes](https://open.spotify.com/album/4GSUMxsOfySGzYumuJ9i8P) | 3:05 | 2021-12-07 | 2023-07-14 |
+| [pawsitive](https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [pawsitive](https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m) | 2:16 | 2024-06-05 |  |
 | [Peace](https://open.spotify.com/track/6ivY5r6kbT1t8WQeWBK0kc) | [Eddie & George](https://open.spotify.com/artist/5aYybCPaexHcWutawAyUvv) | [Peace](https://open.spotify.com/album/56y7dcDWWN47pDCuaecWA0) | 2:06 | 2021-12-07 | 2022-09-10 |
 | [Peace and Stone](https://open.spotify.com/track/4P3flpTrYtN1VcVuK4BhPf) | [Skyplanter](https://open.spotify.com/artist/7iaPZbKQSJ5Sw9ThZNfJw7) | [Equivalence](https://open.spotify.com/album/63yQb9VeujB0rdz1m4g5jb) | 2:43 | 2021-12-07 | 2022-08-19 |
 | [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
@@ -1211,7 +1213,7 @@
 | [Phobia](https://open.spotify.com/track/5KURpSGFPfnYuDLOBxtSwn) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Phobia](https://open.spotify.com/album/2H5jmEE6LTjdZCSYJr6mN6) | 3:01 | 2021-12-07 | 2022-04-08 |
 | [Pick Up Your Phone Please](https://open.spotify.com/track/2BGgpYR3jw1WtdJXiNupRm) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Pick Up Your Phone Please](https://open.spotify.com/album/0pZatCRgjMHMddIYmc5L7o) | 2:20 | 2022-06-24 | 2022-09-17 |
 | [Picture Of You](https://open.spotify.com/track/1LZMjHboXQs1sIRXseh39G) | [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5), [her.story](https://open.spotify.com/artist/6C8MeXJkwcF5AiHVMFNPoO), [eiji](https://open.spotify.com/artist/1wzqhHInXSYezJHke90Jeo) | [Picture Of You](https://open.spotify.com/album/3pGdLE1T1U0BWIcsqfnoST) | 1:42 | 2022-10-14 | 2023-01-20 |
-| [Pieces](https://open.spotify.com/track/1qDa9mCKZLRjBZqqYISfPX) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Pieces](https://open.spotify.com/album/3lxV2gRJjYy6OWJEJZvesD) | 1:40 | 2023-01-20 |  |
+| [Pieces](https://open.spotify.com/track/1qDa9mCKZLRjBZqqYISfPX) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Pieces](https://open.spotify.com/album/3lxV2gRJjYy6OWJEJZvesD) | 1:40 | 2023-01-20 | 2024-06-06 |
 | [pillow dreams](https://open.spotify.com/track/3VolXPYyNr222J89OHl8u0) | [evelina mist](https://open.spotify.com/artist/0AUIG5gLgUZhMGeCNBLfcr) | [pillow dreams](https://open.spotify.com/album/5vaW6YNNd77zXYVrAAVTpL) | 2:01 | 2024-03-22 |  |
 | [Pines](https://open.spotify.com/track/3TMx3pq2zJKPKYxEkhwAra) | [enjo](https://open.spotify.com/artist/0diyNvnhXZMJZiLaV25Lc4) | [The Forest](https://open.spotify.com/album/1uRTMdwaKmXO3sW7yGdCTn) | 1:44 | 2022-12-02 | 2023-10-20 |
 | [pink dawn](https://open.spotify.com/track/3a5drO67gyZUWtswFKvcMT) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [pink dawn](https://open.spotify.com/album/67SmpfkjjRmXJzWXS9pZOc) | 3:06 | 2023-12-08 |  |
@@ -1518,6 +1520,7 @@
 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 |  |
 | [Sunny Day Inside](https://open.spotify.com/track/1BIsAZOGS9pBgAX0fMToQS) | [Kamden Kids](https://open.spotify.com/artist/1fYoFQk1JknPQfbNP7L7j8) | [Hand Me Your Honey](https://open.spotify.com/album/0GxXZyyiBNfFAcAezHkm0B) | 2:47 | 2023-03-08 | 2023-08-22 |
 | [Sunny Disposition](https://open.spotify.com/track/7CX7qLKeVyrq0ZHMHDce5Z) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Sunny Disposition](https://open.spotify.com/album/1dshJRPcKcWD91qRMeSeGm) | 2:13 | 2022-08-05 | 2022-10-14 |
+| [Sunny Side](https://open.spotify.com/track/50IYpgJ4swioyNFfti9M6l) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [Sunny Side](https://open.spotify.com/album/3qhjESGg47HWA4vcRdS8TZ) | 1:58 | 2024-06-05 |  |
 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 | 2022-08-19 | 2023-08-22 |
 | [sunnyside](https://open.spotify.com/track/06aZ7uvDM57xAOssXhf1Kj) | [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [sunnyside](https://open.spotify.com/album/3lRBsv5enZKp1NiQweYV3j) | 2:00 | 2022-04-22 | 2022-11-12 |
 | [Sunrise Valley](https://open.spotify.com/track/52jSbLcIs76Odcwhwkouyj) | [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ), [lifeboat](https://open.spotify.com/artist/7EjZNBvNe81OgATW2RGr8U) | [Sunrise Valley](https://open.spotify.com/album/402W2Bo604rmvzeI6BD0I1) | 2:43 | 2022-12-16 | 2023-10-20 |

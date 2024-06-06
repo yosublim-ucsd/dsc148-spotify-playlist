@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 185268,
+  "num_followers": 185341,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "Dios Es Capaz",
+        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
+      },
+      "artists": [
+        {
+          "name": "Neil Velez",
+          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Cristo Vive En Mi",
+      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "Nunca Fallas",
         "url": "https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 339202,
       "name": "Nunca Fallas",
       "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Dios Es Capaz",
-        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
-      },
-      "artists": [
-        {
-          "name": "Neil Velez",
-          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Cristo Vive En Mi",
-      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1491,8 +1491,8 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
+        "name": "Somos Iglesia",
+        "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
       },
       "artists": [
         {
@@ -1500,17 +1500,13 @@
           "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
         },
         {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        },
-        {
           "name": "Kim Richards",
           "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 279858,
-      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
-      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
+      "duration_ms": 288800,
+      "name": "Jesucristo basta",
+      "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1527,6 +1523,22 @@
       "duration_ms": 201946,
       "name": "Te Dejo Ganar",
       "url": "https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1579,6 +1591,30 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 279858,
+      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
+      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1599,42 +1635,6 @@
       "duration_ms": 444330,
       "name": "Digno",
       "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Somos Iglesia",
-        "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Jesucristo basta",
-      "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 447491,
+      "name": "Lo Unico Que Quiero",
+      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "Santo Es Tu Nombre",
         "url": "https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 386426,
       "name": "Cielo En La Tierra",
       "url": "https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 447491,
-      "name": "Lo Unico Que Quiero",
-      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
     },
     {
       "added_at": "2024-03-20 11:30:32",

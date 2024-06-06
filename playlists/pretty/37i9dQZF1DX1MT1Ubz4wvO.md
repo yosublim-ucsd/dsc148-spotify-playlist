@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Repion en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,952 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,957 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 19 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 |
 | 20 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 |
 | 21 | [escape](https://open.spotify.com/track/6eibOhaF0alXmPXvEwZVhA) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [escape](https://open.spotify.com/album/51qRUu5YFqpzwYtj1JVEUA) | 2:53 |
-| 22 | [Calma](https://open.spotify.com/track/2Z952whyWWqTNX4m305lK2) | [Angelo Pierattini](https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf), [Carlos Cabezas](https://open.spotify.com/artist/64qyErWq0ieALSFbxDpScT) | [Cordillera](https://open.spotify.com/album/4Ahy0uY74PCiBip439PKjh) | 5:10 |
+| 22 | [Calma](https://open.spotify.com/track/2Z952whyWWqTNX4m305lK2) | [Cordillera](https://open.spotify.com/artist/0iSm5MQZZD0zPfDUyPIL8w) | [Cordillera](https://open.spotify.com/album/4Ahy0uY74PCiBip439PKjh) | 5:10 |
 | 23 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 |
 | 24 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |
 | 25 | [\(d\)arte](https://open.spotify.com/track/2FGDunMNIMiYKjGOkp0sKz) | [nopornada](https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU) | [\(d\)arte](https://open.spotify.com/album/4UiUj3x5ovTo6KqjPs9qEJ) | 3:18 |

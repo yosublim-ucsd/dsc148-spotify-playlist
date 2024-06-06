@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14287,
+  "num_followers": 14293,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABIbHfemnojG+0hxtWAT4ra",
+  "snapshot_id": "Zl5ZAAAAAADf8fmJbnH+TmpHe5+SucHx",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
       "duration_ms": 128000,
       "name": "GEEKALEEK (feat. BIA)",
       "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Mami (feat. BIA)",
-      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
     },
     {
       "added_at": null,
@@ -547,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "nights and weekends",
-        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 137003,
-      "name": "back it up",
-      "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -583,6 +543,26 @@
       "duration_ms": 125440,
       "name": "BIA BIA (feat. Lil Jon)",
       "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 137003,
+      "name": "back it up",
+      "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
       },
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "PLATE",
+      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOR CERTAIN (Deluxe)",
         "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 153618,
       "name": "BIG DEAL (feat. Sevyn Streeter)",
       "url": "https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "PLATE",
-      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
     },
     {
       "added_at": null,

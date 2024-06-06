@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. Todos os maiores hits em uma só playlist.
+> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,388 likes - 48 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,415 likes - 48 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 32 | [Assault \(Rio\)](https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Assault \(Rio\)](https://open.spotify.com/album/1vQDSvZfK37xqxEmza4uha) | 5:24 |
 | 33 | [Puxando Lança no Barco Cheio de Piranha](https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Alex da Baixada](https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm) | [Puxando Lança no Barco Cheio de Piranha](https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy) | 2:35 |
 | 34 | [Hoje Tem Baile](https://open.spotify.com/track/2DFdNmpQumYmwmFrUpG6Yq) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Um Toque de Malandragem](https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy) | 4:00 |
-| 35 | [Cria do Rio](https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Cria do Rio](https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ) | 1:46 |
-| 36 | [Tá Fluindo](https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Tá Fluindo](https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk) | 2:39 |
+| 35 | [Tá Fluindo](https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Tá Fluindo](https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk) | 2:39 |
+| 36 | [Cria do Rio](https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Cria do Rio](https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ) | 1:46 |
 | 37 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 |
 | 38 | [Fica à Vontade](https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Fica à Vontade](https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX) | 4:36 |
 | 39 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 47 | [A Cara do Crime \- Remix](https://open.spotify.com/track/1gW5XDbjG3TFOcmjAirKNI) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [A Cara do Crime \(Remix\)](https://open.spotify.com/album/295jaj4kZbKaytU5cgbp7m) | 3:00 |
 | 48 | [Safadinha](https://open.spotify.com/track/1vuRoYIGP57PR4Vf5erTqP) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Safadinha](https://open.spotify.com/album/7qLJZYDUWFY4JhwSkhqazr) | 2:21 |
 
-Snapshot ID: `Zlu2AAAAAACAJIkfUYDGRdC6Iewt2jD+`
+Snapshot ID: `Zl5ZAAAAAADVPaWXYwUMilw3P+pcf6rI`

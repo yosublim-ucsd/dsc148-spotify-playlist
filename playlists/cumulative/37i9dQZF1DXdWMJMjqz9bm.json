@@ -11927,6 +11927,24 @@
     },
     {
       "album": {
+        "name": "Warning Shot",
+        "url": "https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145851,
+      "name": "Warning Shot",
+      "url": "https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh"
+    },
+    {
+      "album": {
         "name": "Waste Ur Time",
         "url": "https://open.spotify.com/album/33QDlSkMgGlvjYpTWk11wr"
       },

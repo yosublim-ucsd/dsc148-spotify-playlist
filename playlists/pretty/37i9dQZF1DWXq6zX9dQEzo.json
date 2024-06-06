@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 234200,
+  "num_followers": 234340,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Kinna Wanna",
-        "url": "https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "Kinna Wanna",
-      "url": "https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "NOPE",
         "url": "https://open.spotify.com/album/5RwiHu9QOCzjyoCjBeH4fR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 148000,
       "name": "NOPE",
       "url": "https://open.spotify.com/track/1xpUpmKZsGwQWYFV0XkH8u"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Kinna Wanna",
+        "url": "https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Kinna Wanna",
+      "url": "https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "BREAK ME DOWN",
         "url": "https://open.spotify.com/album/4KaVPVFVdQwGqZZODLkHfI"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 196736,
       "name": "BREAK ME DOWN",
       "url": "https://open.spotify.com/track/2WRTsWXngQLDtvv9geDEah"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "NITE-N-DAY - EP",
-        "url": "https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 149765,
-      "name": "NITE-N-DAY",
-      "url": "https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4aOCSAYlQdAGDnvhOQTkjo"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 187648,
       "name": "Higher",
       "url": "https://open.spotify.com/track/10g3Hp8RheTQqJMrfyNgf1"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "NITE-N-DAY - EP",
+        "url": "https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 149765,
+      "name": "NITE-N-DAY",
+      "url": "https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 219399,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "ALOT",
         "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 145011,
       "name": "ALOT",
       "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 219399,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "STRONGER",
         "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Deraj",
+          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
         }
       ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+      "duration_ms": 158400,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1739,38 +1755,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Nowhere to Hide",
-        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
-      },
-      "artists": [
-        {
-          "name": "Deraj",
-          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Check Me Out",
-        "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
-      },
-      "artists": [
-        {
-          "name": "Caleb McCoy",
-          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
-        }
-      ],
-      "duration_ms": 167727,
-      "name": "Check Me Out",
-      "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7"
       },
@@ -1791,26 +1775,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Love It Here (Remix)",
-        "url": "https://open.spotify.com/album/6pvzr08QDOVVdVE4fbZK87"
+        "name": "Check Me Out",
+        "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
       },
       "artists": [
         {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        },
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        },
-        {
-          "name": "Christ Jr",
-          "url": "https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho"
+          "name": "Caleb McCoy",
+          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Love It Here - Remix",
-      "url": "https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX"
+      "duration_ms": 167727,
+      "name": "Check Me Out",
+      "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1835,6 +1811,30 @@
       "duration_ms": 147910,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Love It Here (Remix)",
+        "url": "https://open.spotify.com/album/6pvzr08QDOVVdVE4fbZK87"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        },
+        {
+          "name": "Christ Jr",
+          "url": "https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Love It Here - Remix",
+      "url": "https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX"
     },
     {
       "added_at": "2024-03-20 10:50:51",

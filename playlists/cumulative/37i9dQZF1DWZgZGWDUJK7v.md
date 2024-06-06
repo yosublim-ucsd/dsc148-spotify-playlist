@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: No Office Romance!\(사내연애 사절!\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: A Not So Fairy Tale\(선녀외전\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-176 songs - 10 hr 45 min
+177 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,11 @@
 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 | 2022-07-08 |  |
 | [a trace of you](https://open.spotify.com/track/6tyvohlALbw5BFxF4coKIA) | [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [가짜 공녀님의 만렙 토끼 OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/5y7G9hLSy3gym4N4E3ZyEU) | 4:08 | 2023-09-20 |  |
 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 | 2023-05-02 |  |
+| [After](https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [After \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I) | 3:45 | 2024-06-05 |  |
 | [Again, Goodbye](https://open.spotify.com/track/3z3bLtpy3MYFEChJ4HmA8i) | [Choe Yeong Jun](https://open.spotify.com/artist/4eh2KdcEPuclJXPn0eJmmX) | [The Holy Idol \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix) | 3:25 | 2023-01-26 |  |
 | [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG) | 4:26 | 2022-05-09 | 2023-02-23 |
 | [Anymore](https://open.spotify.com/track/3vKX4347uUOuEECpHJwITb) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Anymore \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2A6nEYKyCf7nF5uGlR24Ds) | 2:47 | 2022-05-09 |  |
-| [As if nothing had happened](https://open.spotify.com/track/1R5QflmLVc3SvSTLRS0Nc2) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Café Anchorage OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/5Qoe81SSf2cpo4QpYV0NU4) | 3:35 | 2023-03-31 |  |
+| [As if nothing had happened](https://open.spotify.com/track/1R5QflmLVc3SvSTLRS0Nc2) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Café Anchorage OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/5Qoe81SSf2cpo4QpYV0NU4) | 3:35 | 2023-03-31 | 2024-06-06 |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2022-05-09 | 2023-12-11 |
 | [Beautiful world \(Warm Black Tea Original Soundtrack\)](https://open.spotify.com/track/14iSjtKMGWN8lGsaOgBZwm) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Warm Black Tea \(Original Soundtrack\)](https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc) | 3:03 | 2023-04-18 |  |
 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 | 2022-05-09 |  |
@@ -172,8 +173,8 @@
 | [몫](https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1) | [05](https://open.spotify.com/artist/4vItQUuV7osVvOHUARHBnS) | [바이트미 \(Original Webtoon Soundtrack\) Pt.20](https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi) | 4:02 | 2022-12-22 | 2024-05-18 |
 | [바람이 불면](https://open.spotify.com/track/4zq4UL2YHc50NB4KGfwdRF) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [바이트미 \(Original Webtoon Soundtrack\) Pt.23](https://open.spotify.com/album/3NFXkReFhOYDZdwVsc5tqW) | 3:52 | 2023-01-25 | 2024-05-19 |
 | [별이 지고 있네요](https://open.spotify.com/track/7uF6STZnY2IDIdxoPsD0uh) | [Huie](https://open.spotify.com/artist/3YLz1R7PcLpYtTue8dGWlW) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.18](https://open.spotify.com/album/2wPVlr6UUDhEkmVjRUJhmX) | 3:50 | 2023-03-27 | 2024-05-10 |
-| [붙잡고 싶었어](https://open.spotify.com/track/4eGVd6EScWz6MNZBqzGMaD) | [Huh Gong](https://open.spotify.com/artist/2vV9tyqzm5Tz6TeeJaPAQj) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.11](https://open.spotify.com/album/0msxFMPXqR7Vl6KYlYyxjT) | 4:26 | 2023-01-26 |  |
-| [사랑이었다면 사랑했었다면](https://open.spotify.com/track/3xbqvnMWtjMkvtYHbShgZl) | [CANDO](https://open.spotify.com/artist/0xO9wbV9n5wWpzsVqtxK7a) | [PETER PANDA \(Original Webtoon Soundtrack\) Pt.5](https://open.spotify.com/album/70IKwOIoIauNtfMRTSlKUr) | 3:05 | 2023-04-17 | 2024-06-03 |
+| [붙잡고 싶었어](https://open.spotify.com/track/4eGVd6EScWz6MNZBqzGMaD) | [Huh Gong](https://open.spotify.com/artist/2vV9tyqzm5Tz6TeeJaPAQj) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.11](https://open.spotify.com/album/0msxFMPXqR7Vl6KYlYyxjT) | 4:26 | 2023-01-26 | 2024-06-06 |
+| [사랑이었다면 사랑했었다면](https://open.spotify.com/track/3xbqvnMWtjMkvtYHbShgZl) | [CANDO](https://open.spotify.com/artist/0xO9wbV9n5wWpzsVqtxK7a) | [PETER PANDA \(Original Webtoon Soundtrack\) Pt.5](https://open.spotify.com/album/70IKwOIoIauNtfMRTSlKUr) | 3:05 | 2023-04-17 |  |
 | [연](https://open.spotify.com/track/6UQUim9WrXBBlBlZODLA0t) | [전하연](https://open.spotify.com/artist/4pJfr9tmGQ8VU6AaLZ2sNp) | [버려진 왕녀는 반역한다\(Original Webtoon Soundtrack\) Pt.28](https://open.spotify.com/album/0ASiUU8wKeZDaZ1N2INV1F) | 4:17 | 2024-04-05 |  |
 | [온세상이 너](https://open.spotify.com/track/6sWpb7Ked0QP1LuVCKmcJZ) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 28](https://open.spotify.com/album/6qo1VC3B2K7WaiZZNTa3LF) | 3:39 | 2023-05-15 |  |
 | [왜 사랑하게 했니](https://open.spotify.com/track/5SIOX7fHJsYXbs1GRBUaE0) | [금나라](https://open.spotify.com/artist/5b7jOv3a6jUtgOmPiCcbEs) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.15](https://open.spotify.com/album/5fkLsPU9j82Jbp32POjrFa) | 3:22 | 2023-02-22 | 2024-05-10 |

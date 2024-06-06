@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,027 songs - 4 day 12 hr 5 min
+2,028 songs - 4 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1097,7 +1097,8 @@
 | [Mikä\-Mikä\-Maa \(feat\. EME\)](https://open.spotify.com/track/63hKnwYYmoR9CxKzdthRHG) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [EME](https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5) | [Mikä\-Mikä\-Maa \(feat\. EME\)](https://open.spotify.com/album/1vXFTa1Qxp5pN5hDaswmZM) | 3:02 | 2021-12-12 | 2022-04-03 |
 | [Milla \(Vain elämää kausi 12\)](https://open.spotify.com/track/6m1uB82NorXLKTgkBJWV50) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Milla \(Vain elämää kausi 12\)](https://open.spotify.com/album/24fuz8GcGr6nh2IrZ4vxmT) | 3:08 | 2021-10-18 | 2021-10-23 |
 | [Milla Magia](https://open.spotify.com/track/1TN6MFzUFHXARl6eVzbtyf) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Milla Magia](https://open.spotify.com/album/76s5lePjs8q3eKmsjbmsXd) | 3:20 | 2022-07-02 | 2022-07-17 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-10 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-10 | 2024-06-06 |
 | [Minimi \(feat\. Purplape\)](https://open.spotify.com/track/3YS6ps8C4Dh3DbizRvgpjc) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Minimi \(feat\. Purplape\)](https://open.spotify.com/album/65xRptwAW4alJtexDzKfci) | 2:59 | 2023-10-21 | 2023-10-23 |
 | [Minna](https://open.spotify.com/track/4k4V1bugfnZ6ps7VMSXlFd) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Minna](https://open.spotify.com/album/5sAUtnTRgtsRMy3wnSw0yg) | 3:44 | 2023-12-02 | 2024-01-02 |
 | [Minne ikinä sä meet](https://open.spotify.com/track/5jvVMZK9HdLY31bNJwDEt0) | [Ressu Redford](https://open.spotify.com/artist/2gAcO16AKQdceAd36Oxe18), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Minne ikinä sä meet](https://open.spotify.com/album/4KR53Dg7HEAtpWXt1zyEp8) | 3:22 | 2022-02-19 | 2022-02-26 |

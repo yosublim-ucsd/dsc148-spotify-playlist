@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DABOYWAY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,391 likes - 123 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,413 likes - 123 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,6 +130,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 120 | [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 |
 | 121 | [beauty](https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [genre : sadboy](https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY) | 3:16 |
 | 122 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 |
-| 123 | [Bussin \(with Rob49\)](https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Bussin \(with Rob49\)](https://open.spotify.com/album/4k19gVgEFR3eja9YAore44) | 2:44 |
+| 123 | [BUSSIN \(with Rob49\)](https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BUSSIN \(with Rob49\)](https://open.spotify.com/album/4k19gVgEFR3eja9YAore44) | 2:44 |
 
 Snapshot ID: `Zl7njgAAAAAEE6AnD8IEbJ/k/0pVzq5V`

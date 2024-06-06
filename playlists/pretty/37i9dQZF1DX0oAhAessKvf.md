@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,653 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,681 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 49 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 | 50 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
 | 51 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 |
-| 52 | [Bailando](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
-| 53 | [Quiero Estar Contigo](https://open.spotify.com/track/38ItcgEkN3anw5LbfYihJX) | [Maicol & Manuel](https://open.spotify.com/artist/7wwygDw32gRhhUshm3ZGYN) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
+| 52 | [Quiero Estar Contigo](https://open.spotify.com/track/38ItcgEkN3anw5LbfYihJX) | [Maicol & Manuel](https://open.spotify.com/artist/7wwygDw32gRhhUshm3ZGYN) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
+| 53 | [Bailando](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
 | 54 | [Meneaito Mega\-Mix \(feat\. Aldo Ranks, Kungfu & Robert Dance\)](https://open.spotify.com/track/2yxKrSbzkk1O7E2Hps3yU1) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k), [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn), [Jam](https://open.spotify.com/artist/0vI3bsRWpEBvKSDQ3Av1dC), [Cocoman](https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2), [Suppose](https://open.spotify.com/artist/1Q3OP8iAWXyM4pzBx23v8P), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3), [Kung Fu](https://open.spotify.com/artist/553xiHYRTLufVtTSroanwc), [Robert Dance](https://open.spotify.com/artist/0y4znT63W9LaVXJJMnR33g) | [Meneaito Mega\-Mix \(feat\. Robert Dance, Aldo Ranks & Kungfu\)](https://open.spotify.com/album/3cHiF5hk7IaKrguowPvOwu) | 7:09 |
 | 55 | [Interlude \- Don Che Tra Mix](https://open.spotify.com/track/6CBjYv25BAXI0cyPuHwnRI) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:38 |
 | 56 | [Si El Hombre Quiere](https://open.spotify.com/track/7oJVjywLnYWS7FDDqjiQhw) | [Rude Girl \(La Atrevida\)](https://open.spotify.com/artist/27YpHzMcm3VgsSmGCLjkqv) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:32 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 65 | [Baila El Mambo](https://open.spotify.com/track/31tEgzedhAb2zllml0m50n) | [Notty Play](https://open.spotify.com/artist/1m5LVKalSAbpqNSOLGwCkr) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:14 |
 | 66 | [Outro \- Vamos A Darle Slow](https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3) | [El Hombre Tra](https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:23 |
 | 67 | [Desnudate](https://open.spotify.com/track/7a5dK2QQPkWMMebGely7Zq) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
-| 68 | [San Yó!](https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
-| 69 | [Tira Un Ritmo Sandunguero](https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5) | [Great Kilo](https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:56 |
+| 68 | [Tira Un Ritmo Sandunguero](https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5) | [Great Kilo](https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:56 |
+| 69 | [San Yó!](https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
 | 70 | [Interlude \- Prende El](https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 0:58 |
 | 71 | [Callate](https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S) | [Dj Gian](https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw) | [DJ Joe presenta: A Mover...](https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6) | 3:14 |
 | 72 | [Unknown \(Hector & Tito / Gargolas 1\)](https://open.spotify.com/track/4oLaSA8zC6SYJTxhLodNSZ) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Gargolas 1](https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In) | 2:08 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-185 songs - 10 hr 19 min
+186 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 |  |
 | [Moar Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/1iAzwiJpnYXCI3xRfoEuYk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [For Lack of A Better Name \(The Extended Mixes\)](https://open.spotify.com/album/2KAXIfaWLIK2WJFL9bBubR) | 4:57 | 2023-08-11 | 2023-08-19 |
 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-24 |  |
+| [Monster \- Don Diablo VIP Mix](https://open.spotify.com/track/27vl3TEItJk29fllQ3LD9V) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster \(Don Diablo VIP Mix\)](https://open.spotify.com/album/4tOwtG1yNJspwp0tWvU1GG) | 3:03 | 2024-05-31 |  |
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-06 |  |
 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 | 2024-01-26 | 2024-03-16 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
@@ -117,7 +118,7 @@
 | [Oblivion](https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Oblivion](https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa) | 2:01 | 2024-04-19 |  |
 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 | 2024-05-17 |  |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2023-08-11 | 2023-08-19 |
-| [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 | 2023-10-13 |  |
+| [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 | 2023-10-13 | 2024-06-06 |
 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 | 2023-08-11 | 2023-08-26 |
 | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/track/4ygydEkcYBt05oS9sHxZ8h) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/album/1tx6xMbBZE2CbstHPHVWo5) | 3:39 | 2024-02-16 |  |
 | [OPEN YOUR MIND](https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE) | 3:25 | 2023-08-11 | 2023-08-30 |

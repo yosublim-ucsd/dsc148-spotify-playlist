@@ -5151,6 +5151,28 @@
     },
     {
       "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "album": {
         "name": "Bae",
         "url": "https://open.spotify.com/album/3sI2NjVOrYjtv6zu90gtVN"
       },
@@ -8629,6 +8651,24 @@
     },
     {
       "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145742,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
+    },
+    {
+      "album": {
         "name": "boys don\u2019t cry",
         "url": "https://open.spotify.com/album/0vfdaU8XkSjixvd5RcTWm7"
       },
@@ -11659,6 +11699,32 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+    },
+    {
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -14678,6 +14744,24 @@
       "duration_ms": 203202,
       "name": "Deja Que Te Lleve",
       "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
+    },
+    {
+      "album": {
+        "name": "Delincuente Con Traje",
+        "url": "https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Delincuente Con Traje",
+      "url": "https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM"
     },
     {
       "album": {
@@ -34661,6 +34745,24 @@
     },
     {
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213460,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
         "name": "The Night Shift",
         "url": "https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR"
       },
@@ -37964,11 +38066,15 @@
         {
           "name": "SG Lewis",
           "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
         }
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 149506,
       "name": "mr useless",
       "url": "https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg"
@@ -38278,6 +38384,24 @@
       "duration_ms": 174928,
       "name": "My Body (feat. B.O.G. Vonnie)",
       "url": "https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0"
+    },
+    {
+      "album": {
+        "name": "The Notebook (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
+      },
+      "artists": [
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222239,
+      "name": "My Days",
+      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
     },
     {
       "album": {
@@ -47657,6 +47781,24 @@
     },
     {
       "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168199,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
+    },
+    {
+      "album": {
         "name": "What Had Happened Was\u2026",
         "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
       },
@@ -56971,6 +57113,24 @@
     },
     {
       "album": {
+        "name": "Thal\u00eda",
+        "url": "https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Thal\u00eda",
+      "url": "https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo"
+    },
+    {
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -60563,6 +60723,24 @@
     },
     {
       "album": {
+        "name": "Los Reyes Del Mar",
+        "url": "https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152079,
+      "name": "Uff",
+      "url": "https://open.spotify.com/track/6pw7KggD2vbvxRTV2iASxK"
+    },
+    {
+      "album": {
         "name": "Ufo",
         "url": "https://open.spotify.com/album/0DVzKdr6IC9obZkRnohmD6"
       },
@@ -62621,6 +62799,28 @@
     },
     {
       "album": {
+        "name": "We Groovin (with Jazzy)",
+        "url": "https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "We Groovin (with Jazzy)",
+      "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
+    },
+    {
+      "album": {
         "name": "For the Better",
         "url": "https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE"
       },
@@ -63792,7 +63992,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/6vt0ZVQyX3Oq3BNR1W5Pdo"

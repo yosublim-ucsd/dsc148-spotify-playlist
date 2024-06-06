@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,872 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,901 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 40 | [how u feel](https://open.spotify.com/track/4iMNys9dTJ1DTAamO8IV53) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [how u feel](https://open.spotify.com/album/6EmduoDGQ6FhaYfPmm0TQl) | 2:27 |
 | 41 | [Angela](https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Angela](https://open.spotify.com/album/1XyGvGvrTfxboCatcdf3tA) | 3:01 |
 | 42 | [Into the Blue](https://open.spotify.com/track/7Mu7mPglHwMXWljvR0m8X1) | [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4), [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Dan Padley](https://open.spotify.com/artist/5wzjeKTAZ8BfvhVorTLvGx) | [Into the Blue](https://open.spotify.com/album/4gxd2OypBLF8OEadRXj9p8) | 3:12 |
-| 43 | [Down With the King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With the King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 |
+| 43 | [Down With The King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With the King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 |
 | 44 | [Be Myself](https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [Be Myself](https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW) | 3:47 |
 | 45 | [I Hate U](https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Her Thoughts](https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD) | 2:48 |
 | 46 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 |

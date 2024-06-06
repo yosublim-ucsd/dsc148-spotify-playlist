@@ -2,7 +2,7 @@
 
 ### [Cancionero Mexicano](https://open.spotify.com/playlist/37i9dQZF1DWXP3HyjUhW1b)
 
-> Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
+> Aquí están las meras\-meras petateras de nuestro cancionero.
 
 233 songs - 13 hr 1 min
 

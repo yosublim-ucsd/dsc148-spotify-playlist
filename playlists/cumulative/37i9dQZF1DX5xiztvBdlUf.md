@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-378 songs - 1 day 11 hr 3 min
+379 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Looking For The Light](https://open.spotify.com/track/2aKi0hmZ7M5wVnd69RUEu7) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [Luxe Agoris](https://open.spotify.com/artist/6ejyZKJqfU1trzNHiAA3Ro) | [Looking For The Light](https://open.spotify.com/album/0TPIkCygwT8QuomYuRi7sW) | 2:57 | 2023-11-14 |  |
 | [Lore](https://open.spotify.com/track/0QswOQrUWKn93eOYBh6wWC) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:58 | 2021-11-26 | 2022-06-17 |
 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 | 2022-11-25 |  |
+| [Lost in the Night](https://open.spotify.com/track/3fA2w0xu3tSm7wkZir0gCE) | [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Lost in the Night](https://open.spotify.com/album/6UubkVoAIvcBcRfpphrfuU) | 6:45 | 2023-11-14 |  |
 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 | 2023-04-28 |  |
 | [Love Language \- Imad Remix](https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU) | [Love Language \(Imad Remix\)](https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W) | 6:02 | 2022-06-24 | 2023-04-29 |
 | [Love Language \- Imad Remix](https://open.spotify.com/track/6fjSw7ljeXV60z7QJyI7SB) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU) | [Love Language \(Imad Remix\)](https://open.spotify.com/album/1JUMdLLxgtUt54n7LIDm5V) | 6:02 | 2021-11-26 | 2022-07-29 |
@@ -287,7 +288,7 @@
 | [Roskill](https://open.spotify.com/track/0SaXnvFBhh9xbSH68xUxli) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Roskill](https://open.spotify.com/album/3Mj7BTnNRpcRQwUM0u1ugc) | 7:00 | 2021-11-26 | 2022-07-18 |
 | [Route](https://open.spotify.com/track/2yz4C04AMcaF9E0eqOcpzm) | [Jad Alexander](https://open.spotify.com/artist/0DKfIiOQ0DDhfjktwIvCOk) | [Route](https://open.spotify.com/album/2P8s5zruKe6It0wFtDXev1) | 3:42 | 2021-11-26 | 2022-04-05 |
 | [Run Run Run \- Adam Port Remix](https://open.spotify.com/track/6ILgZZZnxyXRSvzSlpuNIz) | [Yeah But No](https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [White Noise Romantica](https://open.spotify.com/album/2srIYLeeLr0DpqhpfYJ5Bl) | 5:41 | 2021-11-26 | 2022-08-13 |
-| [Runaway](https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Runaway](https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5) | 3:58 | 2022-11-15 |  |
+| [Runaway](https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Runaway](https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5) | 3:58 | 2022-11-15 | 2024-06-06 |
 | [Running up That Hill](https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Running up That Hill](https://open.spotify.com/album/7fKT7JDZJvg0LhaXp9Tltw) | 5:07 | 2022-02-18 |  |
 | [Second Chance](https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 7:45 | 2021-11-26 | 2022-07-29 |
 | [Second Line](https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Second Line](https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO) | 4:11 | 2023-02-17 | 2024-04-20 |

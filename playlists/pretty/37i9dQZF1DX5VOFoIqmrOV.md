@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,349 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,495 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 23 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 | 24 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 |
 | 25 | [Ninnila](https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Tholi Prema](https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb) | 3:54 |
-| 26 | [Crazy Feeling](https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nenu Sailaja](https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp) | 3:29 |
-| 27 | [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 |
+| 26 | [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 |
+| 27 | [Crazy Feeling](https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nenu Sailaja](https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp) | 3:29 |
 | 28 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
 | 29 | [Gaaju Bomma](https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 4:26 |
 | 30 | [Unnatundi Gundey](https://open.spotify.com/track/7MO3e3jJ8iczmix3WeDMFO) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Ninnu Kori](https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8) | 4:38 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 63 | [Yenno Yenno](https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Malli Malli Idi Rani Roju](https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7) | 4:31 |
 | 64 | [Bullet](https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [George Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT) | 3:26 |
 | 65 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/3NF3c438tAguEcWvU4b5iA) | [Jaspreet Jasz , Shreya Ghoshal](https://open.spotify.com/artist/0SrOoISCcqWMq27CrEA5vo) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 4:12 |
-| 66 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
-| 67 | [Vachinde](https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH) | [Madhu Priya, Ramky](https://open.spotify.com/artist/5RNLzvTwXeXjA4hDobza2v) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 5:24 |
+| 66 | [Vachinde](https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH) | [Madhu Priya, Ramky](https://open.spotify.com/artist/5RNLzvTwXeXjA4hDobza2v) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 5:24 |
+| 67 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
 | 68 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 |
 | 69 | [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 |
 | 70 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |

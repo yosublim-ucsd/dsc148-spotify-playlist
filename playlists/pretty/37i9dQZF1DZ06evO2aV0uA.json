@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 127415,
+  "num_followers": 127458,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAACmxV0vIRG1TthzhWGO/Oap",
+  "snapshot_id": "Zl5ZAAAAAADyJl5JM5vBo4DhfvOmYdUm",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 270693,
-      "name": "Ghost Walking",
-      "url": "https://open.spotify.com/track/7ox7vxy21ttBt1o7xIp1Si"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacrament (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 220880,
       "name": "Redneck",
       "url": "https://open.spotify.com/track/1WZVnw0YWc7OLkVijEargx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Ghost Walking",
+      "url": "https://open.spotify.com/track/7ox7vxy21ttBt1o7xIp1Si"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Descending",
-      "url": "https://open.spotify.com/track/2rvQ8M4T6rbpc2c63pwNMu"
+      "duration_ms": 224093,
+      "name": "11th Hour",
+      "url": "https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 224093,
-      "name": "11th Hour",
-      "url": "https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM"
+      "duration_ms": 215240,
+      "name": "Descending",
+      "url": "https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 230256,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
+      "duration_ms": 270746,
+      "name": "New Colossal Hate",
+      "url": "https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
       },
       "artists": [
         {
@@ -360,25 +360,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 270746,
-      "name": "New Colossal Hate",
-      "url": "https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 288657,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
+      "duration_ms": 230256,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
     },
     {
       "added_at": null,
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
+      "duration_ms": 288657,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
     },
     {
       "added_at": null,
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
         {
@@ -440,29 +424,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 239940,
-      "name": "Grayscale",
-      "url": "https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+      "duration_ms": 233466,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
     },
     {
       "added_at": null,
@@ -483,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 239940,
+      "name": "Grayscale",
+      "url": "https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 270508,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 236466,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "Again We Rise",
+      "url": "https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "Again We Rise",
-      "url": "https://open.spotify.com/track/5b7PFsHhtWAFV2AZC869Mf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As The Palaces Burn",
         "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 223466,
       "name": "For Your Malice",
       "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Still Echoes",
-      "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 271120,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ"
+      "duration_ms": 262333,
+      "name": "Still Echoes",
+      "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
     },
     {
       "added_at": null,

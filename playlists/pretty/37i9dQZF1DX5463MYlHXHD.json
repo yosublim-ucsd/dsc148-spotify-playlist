@@ -1,6 +1,6 @@
 {
   "description": "Cumbia pa' volar la chapa con Damas Gratis.",
-  "num_followers": 565432,
+  "num_followers": 565471,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 182808,
-      "name": "Sera que nunca le sucedio",
-      "url": "https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 144000,
       "name": "TRUCHO",
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 182808,
+      "name": "Sera que nunca le sucedio",
+      "url": "https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
-      },
-      "artists": [
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
-        }
-      ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "6to Sentido (Una Vuelta)",
+        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
+      },
+      "artists": [
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DJ Cronox",
+          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
+        }
+      ],
+      "duration_ms": 128265,
+      "name": "6to Sentido (Una Vuelta)",
+      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "La Repandilla",
+        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 208631,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Cumbia del Recuerdo",
         "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 177340,
       "name": "Cumbia del Recuerdo",
       "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "La Repandilla",
-        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
-      },
-      "artists": [
-        {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
-        }
-      ],
-      "duration_ms": 208631,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "KaKa Nene",
+        "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Traigo Una Rosa",
+      "url": "https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
@@ -1719,6 +1735,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+      },
+      "artists": [
+        {
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+        }
+      ],
+      "duration_ms": 207121,
+      "name": "D\u00e9jala",
+      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -1739,38 +1771,6 @@
       "duration_ms": 164531,
       "name": "PICA",
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "KaKa Nene",
-        "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
-      },
-      "artists": [
-        {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Traigo Una Rosa",
-      "url": "https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "A Todo Remix",
-        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
-      },
-      "artists": [
-        {
-          "name": "Puro Movimiento DJ",
-          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
-        }
-      ],
-      "duration_ms": 207121,
-      "name": "D\u00e9jala",
-      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Mi \u00danico Amor",
-      "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Tamo Chelo (Remix)",
         "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 338437,
       "name": "Tamo Chelo - Remix",
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Mi \u00danico Amor",
+      "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+        "name": "Y Pinto... El Arrebato Guacho",
+        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
       "artists": [
         {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
         }
       ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+      "duration_ms": 177093,
+      "name": "Quiero Que Escuches",
+      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Y Pinto... El Arrebato Guacho",
-        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
       },
       "artists": [
         {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         }
       ],
-      "duration_ms": 177093,
-      "name": "Quiero Que Escuches",
-      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "CD1",
-        "url": "https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
-        }
-      ],
-      "duration_ms": 163108,
-      "name": "La cajita feliz",
-      "url": "https://open.spotify.com/track/7xonDv1Le9tMf7F4ZXTzTT"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "CD1",
+        "url": "https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
+        }
+      ],
+      "duration_ms": 163108,
+      "name": "La cajita feliz",
+      "url": "https://open.spotify.com/track/7xonDv1Le9tMf7F4ZXTzTT"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -2303,26 +2303,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "CD2",
-        "url": "https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0"
-      },
-      "artists": [
-        {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
-        },
-        {
-          "name": "Hamster Records",
-          "url": "https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6"
-        }
-      ],
-      "duration_ms": 166863,
-      "name": "Mujer Yo te amo",
-      "url": "https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "En Este Mundo",
         "url": "https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "CD2",
+        "url": "https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
+        },
+        {
+          "name": "Hamster Records",
+          "url": "https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6"
+        }
+      ],
+      "duration_ms": 166863,
+      "name": "Mujer Yo te amo",
+      "url": "https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ"
     }
   ],
   "unique_name": "Cumbia de Barrio",

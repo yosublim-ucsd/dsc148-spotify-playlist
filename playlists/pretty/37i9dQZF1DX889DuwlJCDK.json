@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-  "num_followers": 13900,
+  "num_followers": 13910,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-04 15:16:47",
       "album": {
-        "name": "Now is the best!!!",
-        "url": "https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
-        }
-      ],
-      "duration_ms": 146896,
-      "name": "Now is the best!!!",
-      "url": "https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf"
-    },
-    {
-      "added_at": "2024-06-04 15:16:47",
-      "album": {
         "name": "\u6c7a\u5fc3",
         "url": "https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 269732,
       "name": "\u6c7a\u5fc3",
       "url": "https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y"
+    },
+    {
+      "added_at": "2024-06-04 15:16:47",
+      "album": {
+        "name": "Now is the best!!!",
+        "url": "https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 146896,
+      "name": "Now is the best!!!",
+      "url": "https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf"
     },
     {
       "added_at": "2024-06-04 15:16:47",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-04 15:16:47",
       "album": {
-        "name": "\u9762\u5f71",
-        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "\u9762\u5f71",
-      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
-    },
-    {
-      "added_at": "2024-06-04 15:16:47",
-      "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 239970,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
+    },
+    {
+      "added_at": "2024-06-04 15:16:47",
+      "album": {
+        "name": "\u9762\u5f71",
+        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "\u9762\u5f71",
+      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
     },
     {
       "added_at": "2024-06-04 15:16:47",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-04 15:16:47",
       "album": {
-        "name": "\u305f\u304b\u3089\u3082\u306e",
-        "url": "https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT"
-      },
-      "artists": [
-        {
-          "name": "UNFAIR RULE",
-          "url": "https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W"
-        }
-      ],
-      "duration_ms": 71853,
-      "name": "\u30d0\u30fc\u30ab!",
-      "url": "https://open.spotify.com/track/6JFOoi6YmB31AXVvs5EVJy"
-    },
-    {
-      "added_at": "2024-06-04 15:16:47",
-      "album": {
         "name": "\u5927\u4eba\u306e\u6d99",
         "url": "https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-06-04 15:16:47",
       "album": {
-        "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
-        "url": "https://open.spotify.com/album/5E3CquCa3c6NH3Z4mtGS9B"
+        "name": "\u305f\u304b\u3089\u3082\u306e",
+        "url": "https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT"
       },
       "artists": [
         {
-          "name": "Fish and Lips",
-          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
+          "name": "UNFAIR RULE",
+          "url": "https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W"
         }
       ],
-      "duration_ms": 225256,
-      "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
-      "url": "https://open.spotify.com/track/2ofXUTtrhwCWgsX3ia3Kvt"
+      "duration_ms": 71853,
+      "name": "\u30d0\u30fc\u30ab!",
+      "url": "https://open.spotify.com/track/6JFOoi6YmB31AXVvs5EVJy"
     },
     {
       "added_at": "2024-06-04 15:16:47",
@@ -1527,6 +1511,22 @@
       "duration_ms": 181618,
       "name": "\u590f\u306b\u9858\u3044\u3092",
       "url": "https://open.spotify.com/track/4pb8LEHZGvygnrq1fmFoNn"
+    },
+    {
+      "added_at": "2024-06-04 15:16:47",
+      "album": {
+        "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
+        "url": "https://open.spotify.com/album/5E3CquCa3c6NH3Z4mtGS9B"
+      },
+      "artists": [
+        {
+          "name": "Fish and Lips",
+          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
+        }
+      ],
+      "duration_ms": 225256,
+      "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
+      "url": "https://open.spotify.com/track/2ofXUTtrhwCWgsX3ia3Kvt"
     },
     {
       "added_at": "2024-06-04 15:16:47",

@@ -4,7 +4,7 @@
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: 2Ectasy
 
-186 songs - 11 hr 42 min
+187 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2023-11-21 | 2024-03-29 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2022-09-15 | 2023-04-14 |
 | [แค่ \(what if\)](https://open.spotify.com/track/04QOxY5s2wHKj7WMPc3qDf) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [แค่ \(what if\)](https://open.spotify.com/album/2JnFmBAUZDudhnWSzbBGqf) | 3:00 | 2023-08-25 | 2023-08-29 |
+| [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-05 |  |
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-09-15 | 2023-07-22 |
 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-09-15 | 2023-04-14 |
 | [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-03-28 |  |

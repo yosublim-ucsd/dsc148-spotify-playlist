@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 70022,
+  "num_followers": 70049,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-05-31 17:23:38",
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "Si Alguna Vez",
+      "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
+    },
+    {
+      "added_at": "2024-05-31 17:23:38",
+      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/11JyLJwjtga29NFZwreG6o"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 236058,
       "name": "Pa'lante",
       "url": "https://open.spotify.com/track/2Zh91nwJJNTyE6WzXfuZrO"
-    },
-    {
-      "added_at": "2024-05-31 17:23:38",
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "Si Alguna Vez",
-      "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
     },
     {
       "added_at": "2024-05-31 17:23:38",

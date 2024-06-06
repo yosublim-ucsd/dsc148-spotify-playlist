@@ -4,7 +4,7 @@
 
 > LUCKI, born and raised on the internet.
 
-1,013 songs - 1 day 17 hr 15 min
+1,014 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [FEAST \(Remix\)](https://open.spotify.com/track/2wiS5tnwJVkzwe3fo3WG7F) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [FEAST feat\. TiaCorine \(Remix\)](https://open.spotify.com/album/7keEE34WdMFUy8bcWNSYvi) | 2:14 | 2023-03-29 | 2023-06-03 |
 | [FED UP](https://open.spotify.com/track/0ZZgCLtt6QvRIKIWjeByaO) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FED UP](https://open.spotify.com/album/1wFO7GlDJCrVXWFO3tu64r) | 5:02 | 2023-04-28 | 2023-06-10 |
 | [FIGURE IT OUT](https://open.spotify.com/track/0RQDBCsED70Qfq1CdRvavd) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Stafford Beats](https://open.spotify.com/artist/4qqIES4SbIokB88LtwFGyr) | [FIGURE IT OUT](https://open.spotify.com/album/2BVEQwM4nRjkVEgEXu8C0L) | 2:30 | 2023-06-27 | 2023-10-07 |
-| [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-04-03 |  |
+| [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-04-03 | 2024-06-06 |
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-10 | 2022-01-22 |
 | [Finger Food](https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ) | [Rolling Loud](https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Finger Food](https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1) | 3:38 | 2023-01-04 | 2023-03-23 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-15 | 2022-05-28 |
@@ -577,6 +577,7 @@
 | [lying awake at night](https://open.spotify.com/track/2WrzzEli411E3VBQGBTOIj) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7), [ashes.](https://open.spotify.com/artist/5OE3Wlcw4QHvjj2vlt1rJd) | [lying awake at night](https://open.spotify.com/album/7c0pMFhtMjKdbrmPUuTDrT) | 2:29 | 2022-12-02 | 2022-12-14 |
 | [Macintosh Plus 2k17](https://open.spotify.com/track/3bMO8vLuKlFFH9uvVO036u) | [Yung Frown](https://open.spotify.com/artist/6oeFYeDMdvczwH78h8il8P) | [We Don't Matter \(Remastered\)](https://open.spotify.com/album/30izpgLnNATYy0YzHD196V) | 4:47 | 2023-03-22 | 2023-05-27 |
 | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/track/0Jfh9rhwPoegyTVul05yR4) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/album/3yIPZjDDMqsnxze575vzbF) | 2:26 | 2024-01-12 | 2024-05-01 |
+| [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 | 2024-06-05 |  |
 | [Make A Mess](https://open.spotify.com/track/3MoCeDRquwHSzZRqqvaw57) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Make A Mess](https://open.spotify.com/album/4QrnccACWPDraCUtRKK2Yg) | 1:26 | 2023-08-11 | 2023-10-28 |
 | [Makeda](https://open.spotify.com/track/0oPujI3egA7QltnWHRfRzN) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Makeda](https://open.spotify.com/album/6j3zmceONaa7BpjGYjZFIu) | 1:36 | 2022-05-10 | 2022-06-21 |
 | [Making Love](https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H) | [Treety](https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL) | [Making Love](https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9) | 2:58 | 2023-08-11 | 2023-10-14 |

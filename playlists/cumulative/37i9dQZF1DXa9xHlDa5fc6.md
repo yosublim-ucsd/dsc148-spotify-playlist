@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-380 songs - 23 hr 26 min
+382 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-14 | 2023-06-23 |
 | [63 Days](https://open.spotify.com/track/7ohqcy0MESjxurNED68okJ) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [63 Days](https://open.spotify.com/album/5aGVzJSl9a7wixznvz995F) | 3:07 | 2019-06-16\* | 2020-07-10 |
 | [A Message to Myself](https://open.spotify.com/track/1ekPZ9Hap8myGdLqFHcza2) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [A Message to Myself](https://open.spotify.com/album/4mGJ34ZkeoUfHLzyjQ0oN5) | 3:08 | 2019-08-09 | 2019-08-30 |
-| [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 | 2019-06-16\* |  |
+| [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 | 2019-06-16\* | 2024-06-06 |
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2023-02-17 |  |
 | [Ain't Scared](https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO) | [The Tragic Thrills](https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys) | [Ain't Scared](https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw) | 4:20 | 2019-06-16\* | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [11:11](https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE) | 2:05 | 2023-02-17 |  |
@@ -251,6 +251,7 @@
 | [Nothin' in the World Can Stop Me Worryin' 'Bout That Girl](https://open.spotify.com/track/1uyMt86IAF7ThubwlnGujX) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [Nothin' in the World Can Stop Me Worryin' 'Bout That Girl](https://open.spotify.com/album/4o8LRlFXJhPBfopuyR3kBt) | 3:05 | 2019-06-16\* | 2022-07-29 |
 | [Nothing Personal](https://open.spotify.com/track/04WFKaQNQcH23eezAMbPsH) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Nothing Personal](https://open.spotify.com/album/6Wcl5gUQ52zyElbqMeYjMW) | 3:26 | 2019-06-16\* | 2022-04-21 |
 | [Nothing Personal](https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:26 | 2022-10-28 | 2024-04-19 |
+| [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 | 2024-06-05 |  |
 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 | 2021-02-12 |  |
 | [Oh Daniel](https://open.spotify.com/track/7rlxIu2meDFu8RXr0s02CL) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Story of an Immigrant](https://open.spotify.com/album/4tUP3nAuTXeDabkPsNmuDL) | 4:53 | 2019-06-16\* | 2019-08-13 |
 | [One Phone Call](https://open.spotify.com/track/7HmidlzuDjRPQwEMj8L9yo) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [One Phone Call](https://open.spotify.com/album/6iIdVONiMWhf53j36nB9jo) | 3:52 | 2020-07-10 | 2020-08-06 |
@@ -338,6 +339,7 @@
 | [The Feel](https://open.spotify.com/track/2w9bvFZOHo6I1ZWEkNKSpa) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [The Feel](https://open.spotify.com/album/4wMtlquxyRVtSk6nNOWDOT) | 2:35 | 2021-07-09 | 2022-11-13 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2019-06-16\* |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-17 | 2022-09-17 |
+| [The River](https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [The River](https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE) | 4:44 | 2024-06-05 |  |
 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 | 2023-05-02 |  |
 | [The Way We Say Goodbye](https://open.spotify.com/track/7J4inwHlV4Bf0qhe9xGGpS) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What’s It Like Over There?](https://open.spotify.com/album/75HYUZI2d0FDMlsIEfp6Kj) | 4:03 | 2019-06-16\* | 2022-07-29 |
 | [The Way We Say Goodbye](https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 4:03 | 2022-04-11 | 2024-04-19 |
@@ -374,7 +376,7 @@
 | [Wild Horses \- Acoustic](https://open.spotify.com/track/1XcAJkpQVrveFPZKo152Is) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Wild Horses \(Acoustic\)](https://open.spotify.com/album/0gLeWEanPN39aMeYDLvnBD) | 3:08 | 2019-06-16\* | 2020-07-10 |
 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 | 2019-06-16\* |  |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-26 |  |
-| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-08-17 |  |
+| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-08-17 | 2024-06-06 |
 | [You & I](https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:21 | 2019-06-16\* | 2022-11-13 |
 | [You and I](https://open.spotify.com/track/26WlFnTlUSM5R0xg5p6epW) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [You and I](https://open.spotify.com/album/5OIAqBy4qyDIO2HOMzwCTz) | 4:30 | 2019-06-16\* | 2022-11-13 |
 | [You and I](https://open.spotify.com/track/6mIHP19RfAUXTPdxxUqtfn) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise \(Deluxe Version\)](https://open.spotify.com/album/68kO84eoAPgWxQB1mJ2P1w) | 4:30 | 2023-05-26 | 2024-04-19 |

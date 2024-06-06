@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: uju(\uc6b0\uc8fc))",
+  "description": "New & best K-Electronic music is here. (Cover: RIIZE)",
   "name": "Electronii'K",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 424000,
       "name": "Euphoric Forest",
       "url": "https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy"
@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "iScreaM Vol.32 : Impossible Remix",
+        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        },
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211818,
+      "name": "Impossible - Darius Remix",
+      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.15 : INVU Remixes",
         "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
       },
@@ -1436,6 +1458,28 @@
       "duration_ms": 121406,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
+    },
+    {
+      "album": {
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163480,
+      "name": "LOOP (feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
       "album": {
@@ -2480,7 +2524,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 173557,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/0EQ599Ifl0DBLMcrTvv7Iu"

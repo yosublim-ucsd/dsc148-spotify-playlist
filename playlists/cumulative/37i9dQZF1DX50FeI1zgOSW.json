@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "I'm Just Fine",
+        "url": "https://open.spotify.com/album/1RNC4DxSlo0Wgnx641pzTy"
+      },
+      "artists": [
+        {
+          "name": "Akira Da Rapwolf",
+          "url": "https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218483,
+      "name": "I'm Just Fine",
+      "url": "https://open.spotify.com/track/4zN6Dvjgmo9riaT7JgAKHF"
+    },
+    {
+      "album": {
         "name": "Idhai Yaar Solvaaro (Deaffrogs Records)",
         "url": "https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA"
       },

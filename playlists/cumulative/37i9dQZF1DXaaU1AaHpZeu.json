@@ -20995,6 +20995,24 @@
     },
     {
       "album": {
+        "name": "doctor tiempo",
+        "url": "https://open.spotify.com/album/44SKwDYgfXgiS6ghtMm34B"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176232,
+      "name": "doctor tiempo",
+      "url": "https://open.spotify.com/track/7FboiW5Lxsn1hyOdAnPm2L"
+    },
+    {
+      "album": {
         "name": "Dolor",
         "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
       },

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-676 songs - 1 day 20 hr 10 min
+677 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 | 2023-11-05 | 2024-03-15 |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2023-10-30 |  |
 | [Amén](https://open.spotify.com/track/1OhlcrOBfQYntksbcryXKC) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 0:57 | 2024-01-12 |  |
-| [An Endless Cycle \(Wayne’s Theme\)](https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Mason Lindroth](https://open.spotify.com/artist/351QVu3AeeqlLWDqy2CBIH) | [Moonage Lobotomy \- A Hylics 2 Musical Expansion](https://open.spotify.com/album/2Cl3Bk4c2oUCapf8yQuFXb) | 6:00 | 2024-02-23 |  |
+| [An Endless Cycle \(Wayne’s Theme\)](https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Mason Lindroth](https://open.spotify.com/artist/351QVu3AeeqlLWDqy2CBIH) | [Moonage Lobotomy \- A Hylics 2 Musical Expansion](https://open.spotify.com/album/2Cl3Bk4c2oUCapf8yQuFXb) | 6:00 | 2024-02-23 | 2024-06-06 |
 | [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 | 2024-01-26 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-06-16 |  |
 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 | 2024-01-02 |  |
@@ -199,6 +199,7 @@
 | [Erase You](https://open.spotify.com/track/6arK7mjjvqG3cVLJrYVYYW) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:17 | 2024-02-15 |  |
 | [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2024-01-06 |  |
 | [Every Girl](https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:45 | 2024-01-05 |  |
+| [Every Now and Then](https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Descendants of Cain](https://open.spotify.com/album/0yhyMBfxKhjy1f7TsXXssl) | 3:34 | 2024-06-05 |  |
 | [Everybody Up](https://open.spotify.com/track/2aQM2qQ09QdBv0OUC6SbaV) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [A Martyr's Reward](https://open.spotify.com/album/5MOODX5ZNXcbIyMLSluNbw) | 2:48 | 2023-03-25 |  |
 | [Everyday](https://open.spotify.com/track/0ameyezi8mF5HdFqBp7DLF) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 6:31 | 2023-05-06 |  |
 | [Everyone I Went to High School with Is Dead](https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74) | [Mr\. Bungle](https://open.spotify.com/artist/2zq0uqN9Wq12tqrQQt1ozw) | [Disco Volante](https://open.spotify.com/album/0DK10k39r9LAZ7HgP1EPuB) | 2:45 | 2023-06-06 |  |
@@ -224,7 +225,7 @@
 | [Foil](https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:04 | 2024-02-14 |  |
 | [Follow The Lights](https://open.spotify.com/track/0iHClWd9kbQEvcCsriEHJS) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Birthday](https://open.spotify.com/album/2KgYcD8b9rxkROAPeYEnjh) | 4:12 | 2024-03-04 |  |
 | [For You](https://open.spotify.com/track/5PxB654Q7n3w3NKPdolOLE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [BiRd\-BrAiNs](https://open.spotify.com/album/7oVySVWjCqQwLSuJ7450sV) | 1:50 | 2023-10-30 |  |
-| [For Your Consideration](https://open.spotify.com/track/7cQ4rqHX5LBC8fDbxxwK6e) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 | 2024-03-24 |  |
+| [For Your Consideration](https://open.spotify.com/track/7cQ4rqHX5LBC8fDbxxwK6e) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 | 2024-03-24 | 2024-06-06 |
 | [Four Point Steel Star](https://open.spotify.com/track/5f8B1wdJbXv1DUz6KR4drD) | [Kumo 99](https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5) | [Body N\. Will](https://open.spotify.com/album/4yTeZlcwc5fCoNPQFD2ZNX) | 2:20 | 2024-01-17 |  |
 | [Four Years and One Day](https://open.spotify.com/track/1N46EUnUiBP4lhLMCLwnFG) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:17 | 2024-02-14 |  |
 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 | 2023-06-08 |  |

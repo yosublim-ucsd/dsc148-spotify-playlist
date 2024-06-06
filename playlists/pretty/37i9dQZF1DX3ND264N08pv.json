@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 73167,
+  "num_followers": 73182,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "Viens je t'emm\u00e8ne",
-        "url": "https://open.spotify.com/album/0yjaLZtMyOWb0Y4o6ziT03"
-      },
-      "artists": [
-        {
-          "name": "D-Frek",
-          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
-        }
-      ],
-      "duration_ms": 194937,
-      "name": "Viens je t'emm\u00e8ne",
-      "url": "https://open.spotify.com/track/4nKtQohelkyxRL4YMXarlq"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
         "name": "Can You Feel My Heart",
         "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 152093,
       "name": "Can You Feel My Heart",
       "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
+        "name": "Viens je t'emm\u00e8ne",
+        "url": "https://open.spotify.com/album/0yjaLZtMyOWb0Y4o6ziT03"
+      },
+      "artists": [
+        {
+          "name": "D-Frek",
+          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
+        }
+      ],
+      "duration_ms": 194937,
+      "name": "Viens je t'emm\u00e8ne",
+      "url": "https://open.spotify.com/track/4nKtQohelkyxRL4YMXarlq"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1139,6 +1139,30 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
+        "name": "Fear Means Nothing",
+        "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8IS",
+          "url": "https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5"
+        },
+        {
+          "name": "NATHN",
+          "url": "https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L"
+        },
+        {
+          "name": "Zentryc",
+          "url": "https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7"
+        }
+      ],
+      "duration_ms": 353374,
+      "name": "Fear Means Nothing",
+      "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1191,26 +1215,6 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
-        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        },
-        {
-          "name": "Dave Revan",
-          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
-        }
-      ],
-      "duration_ms": 235734,
-      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
-      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
         "name": "Path Of Passion",
         "url": "https://open.spotify.com/album/3SkFXqcFzEwXLVYWZTkb1P"
       },
@@ -1231,26 +1235,22 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "Fear Means Nothing",
-        "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
+        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
+        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
       "artists": [
         {
-          "name": "L\u00d8IS",
-          "url": "https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5"
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
         },
         {
-          "name": "NATHN",
-          "url": "https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L"
-        },
-        {
-          "name": "Zentryc",
-          "url": "https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7"
+          "name": "Dave Revan",
+          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
         }
       ],
-      "duration_ms": 353374,
-      "name": "Fear Means Nothing",
-      "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
+      "duration_ms": 235734,
+      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
+      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "Dopameme",
-        "url": "https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "SIUU!",
-      "url": "https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 217411,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
+        "name": "Dopameme",
+        "url": "https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "SIUU!",
+      "url": "https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
+        "name": "Without Respect",
+        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+      },
+      "artists": [
+        {
+          "name": "System of Fury",
+          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Without Respect",
+      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
         "name": "MUSICA DEL DIABLO",
         "url": "https://open.spotify.com/album/4PkQtuOcU1u6elX3rbFfxu"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 160437,
       "name": "MUSICA DEL DIABLO",
       "url": "https://open.spotify.com/track/1jzH4XLGopI4nm0hgq6g9B"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
-        "name": "Without Respect",
-        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
-      },
-      "artists": [
-        {
-          "name": "System of Fury",
-          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Without Respect",
-      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
+        "name": "PURSUIT",
+        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "PURSUIT",
+      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 217652,
       "name": "Woo",
       "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
-        "name": "PURSUIT",
-        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "PURSUIT",
-      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
         "name": "The Oni Retribution",
         "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 265900,
       "name": "The Oni Retribution",
       "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2024-05-31 13:02:41",

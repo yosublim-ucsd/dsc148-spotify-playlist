@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa AHTI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,263 likes - 119 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,284 likes - 119 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 3 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |
 | 4 | [ILY](https://open.spotify.com/track/0jBgpqrjZsjAxgWGYE6cs7) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [ILY](https://open.spotify.com/album/7MUhZHTwzadlxv6g1ysJYq) | 2:20 |
 | 5 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
-| 6 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
+| 6 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
 | 7 | [Häitä pidelly](https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Häitä pidelly](https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB) | 3:02 |
 | 8 | [ENEMMÄ](https://open.spotify.com/track/5OXgHNbtTU1OfAMgF4nJb6) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [ENEMMÄ](https://open.spotify.com/album/3TofQnqhTDizHyQhJmzs1J) | 2:17 |
 | 9 | [TIED UP](https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [TIED UP](https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG) | 2:23 |

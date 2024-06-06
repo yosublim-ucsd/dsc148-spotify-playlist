@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 931814,
+  "num_followers": 931826,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "2HEARTs dlux",
         "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 239047,
       "name": "my luv - bonus track",
       "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "GET UP",
+        "url": "https://open.spotify.com/album/5ff7DSLlZzySv5O852661B"
+      },
+      "artists": [
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "GET UP",
+      "url": "https://open.spotify.com/track/4ctWoGhGaw8mwgF3fwn3gr"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "U & Me (Vincent Remix)",
         "url": "https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 238806,
       "name": "U & Me - Vincent Remix",
       "url": "https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "GET UP",
-        "url": "https://open.spotify.com/album/5ff7DSLlZzySv5O852661B"
-      },
-      "artists": [
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "GET UP",
-      "url": "https://open.spotify.com/track/4ctWoGhGaw8mwgF3fwn3gr"
     },
     {
       "added_at": "2024-05-31 04:00:00",

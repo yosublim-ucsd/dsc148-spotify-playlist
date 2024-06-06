@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6n6D2g1FuTmnFiMDD4RT42">Madiel Lara</a> y <a href="spotify:artist:1E2ZsvpZKP4qMPNARv36W5">Gocho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,854 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,886 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

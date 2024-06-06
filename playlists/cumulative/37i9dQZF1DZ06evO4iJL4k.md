@@ -2,9 +2,9 @@
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. Todos os maiores hits em uma só playlist.
+> This is Filipe Ret\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 50 min
+77 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Nova Sorte](https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:10 | 2024-05-15 |  |
 | [Novinha Grandona](https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Novinha Grandona](https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ) | 3:00 | 2023-11-10 | 2023-12-15 |
 | [Não Desista Agora](https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 3:15 | 2023-09-21 |  |
-| [Nós Combina](https://open.spotify.com/track/2WULr6KUyzyPWZl9jmfW6k) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Nós Combina](https://open.spotify.com/album/7dWQJNTzIyN4StYCr4E6xk) | 3:24 | 2024-05-14 |  |
+| [Nós Combina](https://open.spotify.com/track/2WULr6KUyzyPWZl9jmfW6k) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Nós Combina](https://open.spotify.com/album/7dWQJNTzIyN4StYCr4E6xk) | 3:24 | 2024-05-14 | 2024-06-06 |
+| [Nós Combina](https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [CONFIA](https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3) | 3:24 | 2024-06-06 |  |
 | [Obstinado](https://open.spotify.com/track/6qR1DhILkxhbxivh8HUDaP) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Obstinado](https://open.spotify.com/album/10Zjpt0jIDzij9ojE7vAui) | 4:11 | 2023-09-21 | 2023-12-30 |
 | [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 | 2023-09-21 | 2024-03-16 |
 | [Poesia Acústica \#6: Era uma Vez](https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Maquiny](https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica \#6: Era uma Vez](https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX) | 9:37 | 2023-09-21 |  |

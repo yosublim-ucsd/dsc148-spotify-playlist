@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,357 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,400 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 64 | [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 |
 | 65 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 |
 | 66 | [Hit It Back](https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Hit It Back](https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK) | 2:18 |
-| 67 | [Digital Dream](https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Ella Balinska](https://open.spotify.com/artist/2hMRVW8ZuKpftAZBtEbGCf) | [Digital Dream](https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr) | 3:14 |
+| 67 | [Digital Dream](https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Digital Dream](https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr) | 3:14 |
 | 68 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 |
 | 69 | [Atonal](https://open.spotify.com/track/1qwiIF0ZFccNxii3oHE2UJ) | [Psyk](https://open.spotify.com/artist/5OQp6nl0ksrzGTpzlBytZM), [ORBE](https://open.spotify.com/artist/24kYt2MnqryNuu4eiHTapf) | [Atonal](https://open.spotify.com/album/7MNoWVjXfV5NotFBZlsHPH) | 6:35 |
 | 70 | [Spiritum](https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Spiritum](https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn) | 3:13 |

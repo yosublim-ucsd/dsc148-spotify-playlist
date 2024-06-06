@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Poze do Rodo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 111388,
+  "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
+  "num_followers": 111415,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAACAJIkfUYDGRdC6Iewt2jD+",
+  "snapshot_id": "Zl5ZAAAAAADVPaWXYwUMilw3P+pcf6rI",
   "tracks": [
     {
       "added_at": null,
@@ -1067,6 +1067,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "T\u00e1 Fluindo",
+      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cria do Rio",
         "url": "https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 106784,
       "name": "Cria do Rio",
       "url": "https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "T\u00e1 Fluindo",
-      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
     },
     {
       "added_at": null,

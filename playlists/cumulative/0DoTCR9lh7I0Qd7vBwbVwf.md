@@ -4,7 +4,7 @@
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-141 songs - 4 hr 42 min
+142 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Veiled Tranquility](https://open.spotify.com/track/28NTFWQDS48FLKpLYmZQQf) | [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Veiled Tranquility](https://open.spotify.com/album/0aaJWjMtPOEayffHuYjdxp) | 2:06 | 2024-02-05 |  |
 | [Velvet Dreams](https://open.spotify.com/track/5efgE6JbrVdxnKwf0NCF54) | [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG), [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV) | [Floating on Air](https://open.spotify.com/album/4vGUX1nQpp99O1kMMwJXlE) | 1:38 | 2024-02-05 |  |
 | [Velvet Moonlight](https://open.spotify.com/track/03tCR6itTgfKsyEIAdxR4V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Echoes of Stardust](https://open.spotify.com/album/4xFwIg2DthGNA0bSRhgmsY) | 2:07 | 2024-02-05 |  |
+| [Visions](https://open.spotify.com/track/7w5yYf2qeUy0PKh9Zb1kKe) | [Light Skies](https://open.spotify.com/artist/6OUp6ipOCWmLsyzmviGrmn) | [Visions](https://open.spotify.com/album/4QNz7P01yHHv5CfbA6Dbqf) | 2:12 | 2024-06-05 |  |
 | [Whispered Echoes](https://open.spotify.com/track/6EsEPab36vYh18z5ETObTG) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Harmonic Wanderlust](https://open.spotify.com/album/5xHSvK424GXmtHEFeIuHWj) | 2:35 | 2024-02-05 |  |
 | [Whispered Illumination](https://open.spotify.com/track/6yYtELIQqEKjN0gpUhhyCQ) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Harmonic Cascade](https://open.spotify.com/album/1vXLtMA5S8GU2pnPjUU5XF) | 1:49 | 2024-02-05 |  |
 | [Whispering Mirages](https://open.spotify.com/track/7ohgwL1YVcD6LDGngujGl5) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Melodic Phantasm](https://open.spotify.com/album/5t2nM6VQelYKAFm0NpceFZ) | 2:15 | 2024-02-05 |  |

@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "giving up everything",
+        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184750,
+      "name": "giving up everything",
+      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
+    },
+    {
+      "album": {
         "name": "Glide (cover)",
         "url": "https://open.spotify.com/album/7ocua9hYnh95mgXEibBKmc"
       },
@@ -13982,7 +14000,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 168929,
       "name": "Train Goes Faster",
       "url": "https://open.spotify.com/track/1tYOveOD0d2Pu0DYO7jJ4J"

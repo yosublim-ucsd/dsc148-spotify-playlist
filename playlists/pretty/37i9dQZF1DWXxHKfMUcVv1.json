@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115562,
+  "num_followers": 115574,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Tu Loquito Vos Mi Loquita",
-        "url": "https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE"
-      },
-      "artists": [
-        {
-          "name": "Japiaguar",
-          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
-        }
-      ],
-      "duration_ms": 198833,
-      "name": "Tu Loquito Vos Mi Loquita",
-      "url": "https://open.spotify.com/track/3NC2VUVsR6BsM1qC3qtqvk"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 279614,
       "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "Tu Loquito Vos Mi Loquita",
+        "url": "https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE"
+      },
+      "artists": [
+        {
+          "name": "Japiaguar",
+          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
+        }
+      ],
+      "duration_ms": 198833,
+      "name": "Tu Loquito Vos Mi Loquita",
+      "url": "https://open.spotify.com/track/3NC2VUVsR6BsM1qC3qtqvk"
     },
     {
       "added_at": "2024-04-05 17:19:39",

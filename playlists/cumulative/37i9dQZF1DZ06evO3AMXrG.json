@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
+  "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
   "name": "This Is Cultura Prof\u00e9tica",
   "tracks": [
     {
@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/5DqMyO2bBZhSw2f11IX0y6"
+    },
+    {
+      "album": {
+        "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
       "artists": [
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 280574,
       "name": "Caracoles",
       "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 263933,
       "name": "Fruto de la Tierra",
       "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
@@ -286,10 +304,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 343963,
       "name": "Herida Mortal",
       "url": "https://open.spotify.com/track/0xrZ27yKrvpPeCeQwVlGNO"
+    },
+    {
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343963,
+      "name": "Herida Mortal",
+      "url": "https://open.spotify.com/track/2WIwsUshsqeBrAt7jHaHOg"
     },
     {
       "album": {
@@ -546,10 +582,28 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 308756,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
+    },
+    {
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/3P5Rurr1VBvsJmlTODMdWj"
     },
     {
       "album": {
@@ -976,10 +1030,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 267764,
       "name": "Sobrevolando",
       "url": "https://open.spotify.com/track/3DGeQ66WnH65T5f4SpnzAY"
+    },
+    {
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267764,
+      "name": "Sobrevolando",
+      "url": "https://open.spotify.com/track/43R5n6DUZ0zW6cVwC65z1e"
     },
     {
       "album": {
@@ -1190,7 +1262,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 834546,
       "name": "\u00bfQu\u00e9 Ser\u00e1? / Ritmo Que Pesa / Suelta los Amarres / Revoluci\u00f3n en Est\u00e9reo / Lo de M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg"

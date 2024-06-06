@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,124 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,189 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
+| 1 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
 | 2 | [Digitando](https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Digitando](https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM) | 3:15 |
 | 3 | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 |
 | 4 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Simone Mendes \- Só Hits](https://open.spotify.com/album/1LftNEPKrkFye3xoJ8kjQ7) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Coração de Vaqueiro](https://open.spotify.com/track/1BSsJm88q13n15TgJqvqBp) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Coração de Vaqueiro](https://open.spotify.com/album/4Al6Lvg48mCHN0V1nKx358) | 3:42 |
 | 50 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/6vq7r1Pqd3pyI07u63cPZV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/7lLjDECsr4tJUs0BEulGbU) | 2:58 |
 
-Snapshot ID: `LfJ8GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LfPNmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

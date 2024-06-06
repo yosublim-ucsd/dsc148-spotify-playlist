@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,918 songs - 4 day 3 hr 9 min
+1,919 songs - 4 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1126,7 +1126,8 @@
 | [MIKEY](https://open.spotify.com/track/0I93VgSamyAka0fD0xPOso) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [ASKER](https://open.spotify.com/album/2FBCD1CwSiLcZANLypghei) | 2:07 | 2024-01-16 | 2024-01-28 |
 | [Milli](https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Milli](https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG) | 2:07 | 2022-01-10 | 2022-02-14 |
 | [Million](https://open.spotify.com/track/7llI2gidaQmDzWFtxQzWSG) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sista 12](https://open.spotify.com/album/1PSxZ7Mfbvn1yXWuoI5M2G) | 2:44 | 2021-10-17 | 2021-10-23 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-07 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-07 | 2024-06-06 |
 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-08-05 | 2023-08-13 |
 | [Mimosa](https://open.spotify.com/track/0r6uP3bakGB2SlfA5JEotS) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:51 | 2021-03-27\* | 2021-06-20 |
 | [Min gata i stan](https://open.spotify.com/track/5qXKuapHkxosZWkYjwrzj3) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Neutronstjärnan](https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx) | 6:37 | 2023-09-23 | 2023-09-28 |

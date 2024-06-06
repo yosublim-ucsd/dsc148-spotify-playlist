@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest hip\-hop, refreshed weekly\. Cover: Big Hit, Hit\-Boy, The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,659 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,671 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 12 | [KALEIDOSCOPE \(feat\. Travis Thompson\)](https://open.spotify.com/track/3eSElYs735MuCi85mRzItQ) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc) | [KALEIDOSCOPE \(feat\. Travis Thompson\)](https://open.spotify.com/album/01tOQrm12lW4OXCHuPsGEO) | 3:53 |
 | 13 | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
 | 14 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 |
-| 15 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/3yeSAlkAYcOAEctpmDnGSB), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
+| 15 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
 | 16 | [25 Bricks](https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Asun Eastwood](https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9), [Rvlr Magz](https://open.spotify.com/artist/2UIa4vOV6icoZNqeugaLIv) | [25 Bricks](https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U) | 3:58 |
 | 17 | [The Greatest](https://open.spotify.com/track/0yiP9YTs4J4eQVU5Zc42QL) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [The Greatest](https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX) | 2:14 |
 | 18 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |

@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Alejandro Fernández en portada.
 
-1,016 songs - 2 day 6 hr 37 min
+1,017 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Gangsta](https://open.spotify.com/track/5IjpHNHbdbSGfBP8rg2uxO) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Gangsta](https://open.spotify.com/album/387ZKmWvAQEtEgypCHU72z) | 3:38 | 2024-02-16 | 2024-02-24 |
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-15 | 2022-12-24 |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-22 | 2023-05-13 |
-| [Gato Ñero](https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Gato Ñero](https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB) | 2:55 | 2024-05-03 |  |
+| [Gato Ñero](https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Gato Ñero](https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB) | 2:55 | 2024-05-03 | 2024-06-06 |
 | [Gente Corriente](https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Gente Corriente](https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84) | 2:13 | 2023-03-28 | 2023-04-29 |
 | [Gente del Nini](https://open.spotify.com/track/6pw1JhdFisuezjcr4DwJXY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Gente del Nini](https://open.spotify.com/album/1LRhDW3RKbXS0jCgl7Y1R8) | 3:31 | 2023-06-09 | 2023-06-16 |
 | [Gimme A Second](https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Gimme A Second](https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ) | 2:53 | 2024-05-24 |  |
@@ -905,6 +905,7 @@
 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 | 2022-01-13 | 2022-03-10 |
 | [Toma 4](https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 4](https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt) | 3:20 | 2022-05-06 | 2022-05-14 |
 | [Tony Montana](https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Tony Montana](https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2) | 3:05 | 2024-04-19 |  |
+| [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 | 2024-05-31 |  |
 | [Torpe](https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Torpe](https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4) | 4:12 | 2022-02-24 | 2022-04-24 |
 | [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 | 2024-03-15 | 2024-04-27 |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-05-19 | 2024-03-16 |

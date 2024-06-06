@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69250,
+  "num_followers": 69260,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+      "duration_ms": 230800,
+      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "7 Years (Later) [Live]",
-        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 256896,
-      "name": "7 Years - (Later) [Live]",
-      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
@@ -963,18 +947,34 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+        "name": "7 Years (Later) [Live]",
+        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
+      "duration_ms": 256896,
+      "name": "7 Years - (Later) [Live]",
+      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Everything - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1011,34 +1011,34 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+        "name": "Live Friday The 13th",
+        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Everything - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+      "duration_ms": 379013,
+      "name": "She Will Be Loved - Live",
+      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
     },
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Havana (Live)",
-        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
         }
       ],
-      "duration_ms": 248572,
-      "name": "Havana - Live",
-      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live Friday The 13th",
-        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
+        "name": "Havana (Live)",
+        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 379013,
-      "name": "She Will Be Loved - Live",
-      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+      "duration_ms": 248572,
+      "name": "Havana - Live",
+      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Warwick Avenue (Live)",
-        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Warwick Avenue - Live",
-      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Warwick Avenue (Live)",
+        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Stop - Live In Madrid, Spain / 1998",
-      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 267263,
       "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Stop - Live In Madrid, Spain / 1998",
+      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
-      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "BADLANDS (Live From Webster Hall)",
         "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 197996,
       "name": "Roman Holiday - Live From Webster Hall",
       "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
+      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live 8 (Live, July 2005)",
-        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 316192,
-      "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
-      "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Fanatic Live from Caesars Colosseum",
         "url": "https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 262173,
       "name": "Alone - Live",
       "url": "https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Live 8 (Live, July 2005)",
+        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 316192,
+      "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
+      "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
     },
     {
       "added_at": "2024-02-13 05:00:00",

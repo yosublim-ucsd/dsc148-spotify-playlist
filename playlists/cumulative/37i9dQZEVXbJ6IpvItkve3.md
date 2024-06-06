@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,000 songs - 2 day 8 hr 48 min
+1,001 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-02-25 | 2022-08-10 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-10-29 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-08 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-08 | 2024-06-06 |
 | [Mirror](https://open.spotify.com/track/5LOiuvbH62YGtnwe6Ltt4T) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:16 | 2022-05-14 | 2022-05-16 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-14 | 2023-01-17 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-30 | 2023-04-21 |
@@ -577,7 +578,7 @@
 | [את חסרה לי](https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 2:49 | 2022-03-26 | 2024-05-24 |
 | [את חסרה לי & אורות](https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [את חסרה לי & אורות](https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14) | 4:28 | 2022-10-09 | 2024-03-22 |
 | [באור גדול](https://open.spotify.com/track/2VlUJabkhkXenAPhdeNtL6) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [להיות מאושר](https://open.spotify.com/album/793n3eYaBcW0IHs7zHmrnI) | 3:10 | 2021-03-27\* | 2021-07-10 |
-| [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe), [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-05-31 |  |
+| [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-05-31 |  |
 | [באנו חושך לגרש](https://open.spotify.com/track/6oOmpBInMQ3uOzgfRB4Z71) | [100 First Songs' Participants](https://open.spotify.com/artist/7nAL6HRisO90oRTDWIF2IC) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:53 | 2021-11-30 | 2023-12-10 |
 | [באתי להציל אותך](https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [באתי להציל אותך](https://open.spotify.com/album/2KS3eItXsWb5mrgzG7yfA8) | 3:07 | 2021-11-10 | 2023-04-07 |
 | [בואי נדבר](https://open.spotify.com/track/3IiaTxdKgDe9NvmosLM8bM) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [בואי נדבר](https://open.spotify.com/album/75MDW0r1GEJ8G5WNgldzoo) | 2:52 | 2023-11-13 |  |
@@ -726,7 +727,7 @@
 | [ככה כל יום](https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [ככה כל יום](https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC) | 2:55 | 2022-02-10 | 2022-07-10 |
 | [כל הזמן](https://open.spotify.com/track/2Tj40SM6JmwopRXGP47hrE) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [שטח אפור](https://open.spotify.com/album/6wqHpH5HDBbGleU9BnjFS9) | 4:34 | 2023-04-26 | 2023-04-28 |
 | [כל הזמן הזה](https://open.spotify.com/track/60GvepzSwgGx8kaZNln4L0) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [שפל וגאות](https://open.spotify.com/album/5JoChxeUG2tSn3EWUAEtrh) | 4:58 | 2023-01-09 | 2024-01-20 |
-| [כל הכוכבים](https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:41 | 2021-12-18 |  |
+| [כל הכוכבים](https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:41 | 2021-12-18 | 2024-06-06 |
 | [כלום](https://open.spotify.com/track/6EUHRgL59SPenygocr5G9j) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 2:52 | 2023-02-11 | 2023-03-19 |
 | [כמו שאני](https://open.spotify.com/track/4OuoS8NAur7tj6rMDpTVjJ) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [כמו שאני](https://open.spotify.com/album/7C2J1726TKx0QfQXoIkkEl) | 3:22 | 2022-04-04 | 2022-09-01 |
 | [כנען \(12 מרגלים\)](https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [כנען \(12 מרגלים\)](https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy) | 4:50 | 2022-10-29 | 2022-11-28 |
@@ -986,7 +987,7 @@
 | [שמש](https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [שמש](https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U) | 3:58 | 2021-08-25 | 2023-03-27 |
 | [שני ילדים בעולם](https://open.spotify.com/track/3qWDOGP2SBMLQ3nzMIkNbz) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [שני ילדים בעולם](https://open.spotify.com/album/0LtCEsb3XEhynpgFLiWcLV) | 3:06 | 2021-03-27\* | 2021-09-26 |
 | [שער הרחמים](https://open.spotify.com/track/6OVPuT8LP83moqJYC1GpDm) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU) | [וביניהם](https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU) | 3:46 | 2022-05-05 | 2022-05-07 |
-| [שקיעות אדומות](https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:32 | 2021-12-07 | 2024-06-01 |
+| [שקיעות אדומות](https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:32 | 2021-12-07 |  |
 | [שקיעות אדומות](https://open.spotify.com/track/74pfNNxGlwSyokwtqxHcDa) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [שקיעות אדומות](https://open.spotify.com/album/4xfBD4GDwXMPHczd2pts2j) | 3:32 | 2021-03-27\* | 2021-12-07 |
 | [שרק תחייך](https://open.spotify.com/track/7vn9SIc4NraLuIMzUeCK2o) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [שרק תחייך](https://open.spotify.com/album/07tEZylbG1KjXkvzsRnLqb) | 3:16 | 2021-03-27\* | 2021-07-10 |
 | [תופס לך את הדמעות](https://open.spotify.com/track/2aNH7JeBJa6eRPBpaSQipk) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [2023](https://open.spotify.com/album/1rK9oII8KSQLi5WRYhVaVk) | 3:33 | 2023-03-29 | 2023-04-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Becky Hill \(pictured\), Disclosure, Leigh\-Anne and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,829 likes - 116 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,882 likes - 116 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 31 | [Fucked Up](https://open.spotify.com/track/37bFATT8sxbVSJfPWegCSK) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Fucked Up](https://open.spotify.com/album/2k7gCTS8KGqowNfOpSkEJz) | 3:51 |
 | 32 | [Be No Rain](https://open.spotify.com/track/13GXo8z2wqy2B4MqDkuXiu) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Be No Rain](https://open.spotify.com/album/3ZC0mjUMcd88fvqq8jnJQv) | 3:41 |
 | 33 | [Bitch Get Out My Car](https://open.spotify.com/track/4O5lLmu32GcqTsNM8CTL0L) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Bitch Get Out My Car](https://open.spotify.com/album/7wBWhre9MI2woi5fLq24W1) | 2:15 |
-| 34 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
+| 34 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
 | 35 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 |
 | 36 | [Go Loud](https://open.spotify.com/track/3a1OvOqAQ1vFA9obqcgkfY) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Go Loud](https://open.spotify.com/album/4u4Z2qTlZUsRuP0746sitX) | 2:55 |
 | 37 | [Close Your Eyes](https://open.spotify.com/track/11ZLztlvXKdaortTq9gDaG) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Close Your Eyes](https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H) | 2:37 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 105 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 106 | [Dumb](https://open.spotify.com/track/5GEzH6WcUZTtCYWebUQul0) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Dumb](https://open.spotify.com/album/0WkxDkNFIf6Ei5FkESfD30) | 2:52 |
 | 107 | [It's Okay \(Not To Be Okay\)](https://open.spotify.com/track/1isf0vTh3vDIwSU4gxmsWl) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [One More Night](https://open.spotify.com/album/0vL403WO0K50uRt3m5RYwo) | 3:42 |
-| 108 | [Diamonds & Pearls \- Radio Edit](https://open.spotify.com/track/7luHCchYt8HAjfqIAie3zq) | [Beth](https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17) | [Diamonds & Pearls EP](https://open.spotify.com/album/4tAQx03ggPl6MUess8EgvZ) | 3:26 |
+| 108 | [Diamonds & Pearls \- Edit](https://open.spotify.com/track/7luHCchYt8HAjfqIAie3zq) | [Beth](https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17) | [Diamonds & Pearls EP](https://open.spotify.com/album/4tAQx03ggPl6MUess8EgvZ) | 3:26 |
 | 109 | [Wild Rose](https://open.spotify.com/track/1zdeu4liXQiaPdMWePOtba) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Many Times](https://open.spotify.com/album/6hQLoM0XyVsgy2abBZZpZN) | 2:59 |
 | 110 | [Summer Dream Of Love](https://open.spotify.com/track/0MVE9HTEIXWG7igtwzcoUM) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Summer Dream Of Love](https://open.spotify.com/album/2YDuCid6amS8XgedMk0Mxt) | 2:10 |
 | 111 | [Cotton Wool](https://open.spotify.com/track/6qLpvNC53zSzKRBC3H2ayz) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Dream, Forever](https://open.spotify.com/album/4fVrPpUvcsP2Yf3YX5aZsh) | 2:51 |

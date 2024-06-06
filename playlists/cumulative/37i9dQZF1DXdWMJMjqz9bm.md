@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Russ
 
-656 songs - 1 day 6 hr 1 min
+657 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [wanna know](https://open.spotify.com/track/2ndm1VnWUzQfz5boYElZq8) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS), [JD Moon](https://open.spotify.com/artist/3aFZe6Sx7dHhVkeKO2H7e9) | [wanna know](https://open.spotify.com/album/6UWlNXrYXJzvrTwFyB2BzB) | 2:11 | 2023-04-04 | 2023-06-10 |
 | [Wannabe](https://open.spotify.com/track/6y1jpW735dAaH4nzkoo8Qy) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [A Desperate Attempt To Love Everything](https://open.spotify.com/album/4IWIvRyOHKEUFHYPbHdPah) | 2:41 | 2023-05-26 | 2024-01-23 |
 | [Wanted More](https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Wanted More](https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj) | 2:55 | 2022-12-22 | 2024-02-23 |
+| [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 | 2024-06-05 |  |
 | [Waste Ur Time](https://open.spotify.com/track/6c7YABBOLl7jB6F0bntYcy) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Waste Ur Time](https://open.spotify.com/album/33QDlSkMgGlvjYpTWk11wr) | 2:21 | 2023-07-14 | 2024-01-23 |
 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2022-06-03 | 2022-07-07 |
 | [way back 2 you](https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [way back 2 you](https://open.spotify.com/album/0ZKlsBdvVS0vGbLZF8DBZ9) | 2:05 | 2022-02-04 | 2022-03-17 |

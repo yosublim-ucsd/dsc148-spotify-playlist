@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
 
-648 songs - 1 day 10 hr 49 min
+649 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [BIG SMALL BUSINESS](https://open.spotify.com/track/1fbbMX7XyYqGCWyrY1MSKm) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [BIG SMALL BUSINESS](https://open.spotify.com/album/1lA0feIJJeQKEzTCbkHFcr) | 2:02 | 2022-06-24 | 2022-07-02 |
 | [Big Steppa](https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Big Steppa](https://open.spotify.com/album/35ZiUwGPSNxSSMVbt8WSgr) | 4:01 | 2021-09-03 | 2022-06-14 |
 | [Bing Bong \(feat\. Fat Joe, Busta Rhymes & Styles P\) \- Remix](https://open.spotify.com/track/5TMiDIESljV4K7yCBE9U4y) | [Nems](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Bing Kong](https://open.spotify.com/album/1arsb5zt7yy7ezUu7chQg4) | 3:57 | 2022-03-18 | 2022-04-04 |
-| [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 | 2023-08-11 |  |
+| [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 | 2023-08-11 | 2024-06-06 |
 | [Blame On Me](https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 4:01 | 2023-04-28 | 2023-09-06 |
 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 | 2022-06-03 | 2022-08-14 |
 | [Bless \(feat\. MIKE & Sideshow\)](https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 2:59 | 2023-06-30 | 2023-11-04 |
@@ -192,6 +192,7 @@
 | [FATHER FIGURE](https://open.spotify.com/track/4tamxu3gTVkEDzgpTDvDv0) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [CINCORIGINALS](https://open.spotify.com/album/0Dig7jayR5ts18aaMPFbPP) | 4:21 | 2021-09-03 | 2022-04-19 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 | 2022-07-15 | 2023-04-22 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-06-03 | 2022-07-29 |
+| [Fight For Love](https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Fight For Love](https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1) | 2:56 | 2024-05-31 |  |
 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 | 2022-08-19 | 2022-09-03 |
 | [Fireplace \(feat\. Jennifair\)](https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Jennifair](https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 2:52 | 2023-06-30 | 2023-08-03 |
 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 | 2023-09-22 | 2024-05-05 |

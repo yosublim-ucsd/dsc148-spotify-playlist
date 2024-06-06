@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Kane Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,776 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,896 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 40 | [ALV \- Remix](https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ALV \(Remix\)](https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x) | 2:57 |
 | 41 | [Amiri](https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Amiri](https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI) | 3:31 |
 | 42 | [Morro](https://open.spotify.com/track/4awv86vKJ63MzgLngfpdUv) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Morro](https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K) | 2:44 |
-| 43 | [Hotel](https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 2:38 |
+| 43 | [Hotel](https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 2:39 |
 | 44 | [Ferrero Chocolate](https://open.spotify.com/track/6AtgcU7xtBKvROVGLMv9mI) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Ferrero Chocolate](https://open.spotify.com/album/05pXPE51JcCfRiFPz8srgy) | 2:47 |
 | 45 | [Anitta "Fresita"](https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Anitta "Fresita"](https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5) | 2:48 |
 | 46 | [Rosita Fresita](https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Rosita Fresita](https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn) | 2:05 |

@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Devastating",
+        "url": "https://open.spotify.com/album/40t3SifnsKA3Pb5gB1KVeH"
+      },
+      "artists": [
+        {
+          "name": "Andy Farley",
+          "url": "https://open.spotify.com/artist/72CaUE8XtaTjIKDN595DCf"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511465,
+      "name": "Beef Jerky",
+      "url": "https://open.spotify.com/track/6QwoQQLc9JoWz7XK7jymzQ"
+    },
+    {
+      "album": {
         "name": "Belgium",
         "url": "https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7"
       },
@@ -797,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Dream About You",
+        "url": "https://open.spotify.com/album/2cJQODHsqsrvAq77IpZQSB"
+      },
+      "artists": [
+        {
+          "name": "Khatune",
+          "url": "https://open.spotify.com/artist/5s3BACCVGk6HKKxWpdXILj"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Dream About You",
+      "url": "https://open.spotify.com/track/59O6FExRHIkzQoTa4txv34"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/4T3U7vTIGN1NpIVj71nRoH"
       },
@@ -906,7 +946,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 369361,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/0v4k7Ntn8o9IciQPP8mWw5"
@@ -946,6 +986,28 @@
       "duration_ms": 398769,
       "name": "Exeter",
       "url": "https://open.spotify.com/track/4gIfnIBiCsO5zsIVntz2IF"
+    },
+    {
+      "album": {
+        "name": "Extasy",
+        "url": "https://open.spotify.com/album/2oiADHTr7IMN2jH0XMt7HR"
+      },
+      "artists": [
+        {
+          "name": "Advokate",
+          "url": "https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA"
+        },
+        {
+          "name": "Benefice",
+          "url": "https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Extasy",
+      "url": "https://open.spotify.com/track/4Idph69XE5K8xrdFOgKrJb"
     },
     {
       "album": {
@@ -1065,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Generation Z",
+        "url": "https://open.spotify.com/album/3V7Ij0ErXVMIw1zXiwktCM"
+      },
+      "artists": [
+        {
+          "name": "Timmo",
+          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215823,
+      "name": "Generation Z",
+      "url": "https://open.spotify.com/track/1DYlsShcEnB0bXsJQVV0ps"
+    },
+    {
+      "album": {
         "name": "Get Busy",
         "url": "https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob"
       },
@@ -1080,6 +1160,42 @@
       "duration_ms": 200744,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX"
+    },
+    {
+      "album": {
+        "name": "Get Real Low",
+        "url": "https://open.spotify.com/album/7IwhlpcdYnRIXCauhD1FzL"
+      },
+      "artists": [
+        {
+          "name": "SIKOTI",
+          "url": "https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298039,
+      "name": "Get Real Low",
+      "url": "https://open.spotify.com/track/2BkUyMpQtvrRtD2rzqLDwl"
+    },
+    {
+      "album": {
+        "name": "Ghost Kiss",
+        "url": "https://open.spotify.com/album/5hkkowvZvsjSG6KAEgDeiW"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233430,
+      "name": "Ghost Kiss",
+      "url": "https://open.spotify.com/track/25czN86DWwXmhOS0BmkwRR"
     },
     {
       "album": {
@@ -1330,6 +1446,32 @@
       "duration_ms": 252102,
       "name": "I Am Free - Metodi Hristov Remix 2024",
       "url": "https://open.spotify.com/track/1d4qyBvLEsB0VJ16dMaamW"
+    },
+    {
+      "album": {
+        "name": "I Am Free - (Oscar L Remix)",
+        "url": "https://open.spotify.com/album/2FHbom4z3bJGIedcshgh5s"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "I Am Free - Oscar L Remix",
+      "url": "https://open.spotify.com/track/3uxPWfCPabSiogBzsC6ZTa"
     },
     {
       "album": {
@@ -1873,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "The Fat of the Land",
+        "url": "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339906,
+      "name": "Mindfields",
+      "url": "https://open.spotify.com/track/2N9HhkmQe0uhp4Pp76x4l3"
+    },
+    {
+      "album": {
         "name": "Mirazh",
         "url": "https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A"
       },
@@ -2056,7 +2216,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 235111,
       "name": "New Generation - Space 92 Remix",
       "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
@@ -2233,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "Open Up The Night (X-Coast Remix)",
+        "url": "https://open.spotify.com/album/0fQpW2er88psARpgcgXPgy"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169374,
+      "name": "Open Up The Night - X-Coast Remix",
+      "url": "https://open.spotify.com/track/3ehVl9NZhGa1YiORJvaWxh"
+    },
+    {
+      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
       },
@@ -2248,7 +2430,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 201569,
       "name": "ORION",
       "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
@@ -2488,6 +2670,24 @@
       "duration_ms": 210216,
       "name": "Premonition",
       "url": "https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA"
+    },
+    {
+      "album": {
+        "name": "R009",
+        "url": "https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD"
+      },
+      "artists": [
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368912,
+      "name": "Profiler",
+      "url": "https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM"
     },
     {
       "album": {
@@ -2899,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "The Chant",
+        "url": "https://open.spotify.com/album/7MLHFcsLvgaL9nYzCf0AhL"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238888,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/54OqYb2uQmbmAydjxLjSqV"
+    },
+    {
+      "album": {
         "name": "Throwback",
         "url": "https://open.spotify.com/album/5IFGVbjggruEnI6fhDvSIt"
       },
@@ -3030,6 +3248,28 @@
       "duration_ms": 384009,
       "name": "Solar Deity",
       "url": "https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6"
+    },
+    {
+      "album": {
+        "name": "Respekt Reworks, Vol. 3",
+        "url": "https://open.spotify.com/album/07aWBStKOikJhnL4ASKddf"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        },
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379701,
+      "name": "Something Inside Us - Kos:mo Remix",
+      "url": "https://open.spotify.com/track/2vc5qKv5ZhckNUS4TTLFxc"
     },
     {
       "album": {
@@ -3616,7 +3856,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 209600,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/5Y1SndahLemyQ1M9ydCf6N"
@@ -3761,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "We Want Your Soul",
+        "url": "https://open.spotify.com/album/3BHip8nwTF93BHlZwh6vvZ"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217664,
+      "name": "We Want Your Soul",
+      "url": "https://open.spotify.com/track/43K2wzrSapU9EIpQaofNcm"
+    },
+    {
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/4WflvBXm4dOAYTFbtfD5OI"
       },
@@ -3798,7 +4056,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"

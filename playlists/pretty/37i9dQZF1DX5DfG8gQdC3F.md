@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Shaboozey, Jessie Reyez, Ayra Starr, Ruby Waters and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,794 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,815 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 91 | [Lover of Creation](https://open.spotify.com/track/3dv1uWmmP9GrYlv07OQtDs) | [Aistis](https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR), [Freida Mari](https://open.spotify.com/artist/5RqPuMbbZResDnQbhyFIae) | [Lover of Creation](https://open.spotify.com/album/7DcLxSFcbYDGUG0Oro3hbu) | 4:16 |
 | 92 | [Aey Nehin](https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:45 |
 | 93 | [Be Easy](https://open.spotify.com/track/5tv5rkoitqnA3uM8JkJOK5) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [EVERYTHING IS HERE](https://open.spotify.com/album/7DkQnGdBaHe7BvDRkCH3gl) | 3:32 |
-| 94 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/3yeSAlkAYcOAEctpmDnGSB), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
+| 94 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
 | 95 | [25 Bricks](https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Asun Eastwood](https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9), [Rvlr Magz](https://open.spotify.com/artist/2UIa4vOV6icoZNqeugaLIv) | [25 Bricks](https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U) | 3:58 |
 | 96 | [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 |
 | 97 | [Didn't Stand a Chance](https://open.spotify.com/track/3RmykO7gbuWxJNpMMHAMmA) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Nightshifts EP](https://open.spotify.com/album/5uR1YpVjWQMHPkRKzIZx8J) | 3:32 |

@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-41 songs - 2 hr 33 min
+43 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,8 @@
 | [Ritual Dance](https://open.spotify.com/track/5hdIAY7Vnb2w2NPOAocWsQ) | [CHUDAHYE CHAGIS](https://open.spotify.com/artist/3ttQR1taRsySrYIc2U3iAA) | [Underneath the Dangsan Tree Tonight](https://open.spotify.com/album/4SkfT9eMrYvk41vRVRXwX0) | 5:22 | 2024-05-07 |  |
 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 | 2024-05-07 |  |
 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 | 2024-05-07 |  |
+| [Starry in the night](https://open.spotify.com/track/6Cw1Fwhp7TYasVZpzXFQCD) | [JOOCHAN](https://open.spotify.com/artist/7HwlOvVl1xZZKlIzfFy9vV) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 5 \- Starry in the night](https://open.spotify.com/album/3nEBuNJSnd2SQ4XhlMFjBw) | 3:55 | 2024-06-05 |  |
+| [Starry in the night \- Instrumental](https://open.spotify.com/track/0SROzJoq5VLrOdLsLmeEm6) | [JOOCHAN](https://open.spotify.com/artist/7HwlOvVl1xZZKlIzfFy9vV) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 5 \- Starry in the night](https://open.spotify.com/album/3nEBuNJSnd2SQ4XhlMFjBw) | 3:55 | 2024-06-05 |  |
 | [Stay By My Side](https://open.spotify.com/track/00KKGGoRlVzfpynN7gUdh5) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 2 \- Stay By My Side](https://open.spotify.com/album/3GadMHEuq7T1GicyzIo1KJ) | 3:53 | 2024-05-17 |  |
 | [Stay By My Side \- Instrumental](https://open.spotify.com/track/1jTpKfF8rfSv4LBa3BABlH) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 2 \- Stay By My Side](https://open.spotify.com/album/3GadMHEuq7T1GicyzIo1KJ) | 3:53 | 2024-05-17 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-05-07 |  |

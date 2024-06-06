@@ -1,12 +1,12 @@
 {
   "description": "This Is BIGBANG. Los temas esenciales, todos en una lista.",
-  "num_followers": 612201,
+  "num_followers": 612226,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAACarD/wIlBBCRegVK6HV4FX",
+  "snapshot_id": "Zl5ZAAAAAAC088joh7fQfnzL7Sgelvbo",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me Goodbye",
-        "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 205200,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
     },
     {
       "added_at": null,
@@ -791,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
-      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
@@ -819,6 +787,22 @@
       "duration_ms": 241186,
       "name": "Foolish Love",
       "url": "https://open.spotify.com/track/3zXL187ljM6hMO5PdhmjFk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
+      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
     }
   ],
   "unique_name": "This Is BIGBANG",

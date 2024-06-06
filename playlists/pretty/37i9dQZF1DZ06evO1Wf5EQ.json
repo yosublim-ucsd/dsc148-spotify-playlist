@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 503,
+  "num_followers": 504,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABN3FQ2LRNKbI/XSVD1jOmC",
+  "snapshot_id": "Zl5ZAAAAAAD8MuRs8CpuIv2Hgdh9uWGV",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 59669,
-      "name": "THE LAST CIGARETTE",
-      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
+      "duration_ms": 70364,
+      "name": "La Cajita de M\u00fasica",
+      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 70364,
-      "name": "La Cajita de M\u00fasica",
-      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
+      "duration_ms": 59669,
+      "name": "THE LAST CIGARETTE",
+      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

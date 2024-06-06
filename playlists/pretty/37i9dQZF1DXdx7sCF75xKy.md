@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 ### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
 
-> Listen to women at full volume\.  Cover: Iman Fandi
+> Listen to women at full volume\. Iman Fandi is co\-curating EQUAL Singapore & Malaysia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,336 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,355 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Sunflower](https://open.spotify.com/track/2T9zcghy7tEDh2flQNftwn) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES) | [Let's Talk About Love](https://open.spotify.com/album/7keqZmk1fm6mUd8XWVTK1b) | 2:59 |
 | 50 | [You Got This](https://open.spotify.com/track/5nawgAeuUEqfyMumoflBEL) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ), [Munah Bagharib](https://open.spotify.com/artist/3oBQ7ewna5bYNetZBKUZQj) | [You Got This](https://open.spotify.com/album/2zGwurbXSagLIRNuR3b8Jj) | 2:57 |
 
-Snapshot ID: `Zl86AAAAAAC3pAZ3CrCkLumiyZejoHwT`
+Snapshot ID: `Zl/aJwAAAADDm6BnqXO3r155sMgAG0Nl`

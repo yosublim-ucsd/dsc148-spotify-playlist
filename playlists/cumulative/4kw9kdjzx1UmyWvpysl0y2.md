@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-742 songs - 1 day 18 hr 44 min
+743 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Amatista](https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Amatista](https://open.spotify.com/album/5w3tcd7riGxhbFSvjXdSp2) | 3:24 | 2023-04-18 | 2023-07-14 |
 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 | 2022-08-25 | 2022-11-01 |
 | [Anna](https://open.spotify.com/track/3IMhLID7oyBD0agguYFAkO) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Astroleaf](https://open.spotify.com/artist/0bt0mRWS5att8pFhUkToj4) | [Anna](https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz) | 4:27 | 2022-07-29 | 2022-10-11 |
-| [Another Light](https://open.spotify.com/track/5EwM7BZizrzcJYY3CXLKC0) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Another Light](https://open.spotify.com/album/246lmuP4COwpbWT4jpDuM8) | 3:56 | 2024-03-19 |  |
+| [Another Light](https://open.spotify.com/track/5EwM7BZizrzcJYY3CXLKC0) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Another Light](https://open.spotify.com/album/246lmuP4COwpbWT4jpDuM8) | 3:56 | 2024-03-19 | 2024-06-06 |
 | [Another World](https://open.spotify.com/track/2zzdZqzq6GZ5Vlr4Z2Ghep) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Another World](https://open.spotify.com/album/1F2S0yuHSOnWaEjQRyMSq6) | 3:43 | 2024-05-24 |  |
 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 | 2023-06-19 | 2023-09-26 |
 | [Arcus](https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:59 | 2022-11-14 | 2022-11-16 |
@@ -321,6 +321,7 @@
 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 | 2024-02-09 | 2024-05-01 |
 | [Ignite](https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Haus of Panda](https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Ignite](https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR) | 3:16 | 2023-08-29 | 2023-12-14 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
+| [Immortal](https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Immortal](https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D) | 3:40 | 2024-06-05 |  |
 | [In Loving Memories](https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [In Loving Memories](https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR) | 3:03 | 2023-05-08 | 2023-08-02 |
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 | 2023-01-14 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |

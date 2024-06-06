@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 40 min 30 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One Way Or Another](https://open.spotify.com/track/1gKmnrz6SzJlGMNRKBLx1V) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:36 |
-| 2 | [Sexbomb](https://open.spotify.com/track/2pSy0BEMwzMjCXoroQmlUI) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Die Helene Fischer Show \- Meine schönsten Momente \(Vol\. 1\)](https://open.spotify.com/album/46RjcxrrWRFiOuq1V7MPHR) | 4:47 |
-| 3 | [Me Rindo](https://open.spotify.com/track/4WcALP7TNQyoxPAYBXDhUW) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [LAS MEJORES BANDAS DEL 2023](https://open.spotify.com/album/6P2R1sTfvloA852ugJqdXk) | 3:40 |
-| 4 | [The Commanded](https://open.spotify.com/track/2OVQDDxd2JT3n9hqn7agwI) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 3:31 |
-| 5 | [Intro](https://open.spotify.com/track/5K0oXdtd3W1M3OjgaaWBk1) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Dead In My Arms](https://open.spotify.com/album/2a438TPhWUKXhfiYdgH07V) | 0:41 |
-| 6 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
-| 7 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/2miAut6dp9BWdGmOxwSGEC) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/6V8b6itvyd7N3IRMXkjSi7) | 4:53 |
-| 8 | [Vermilion \- Alternate Mix; U.S\. Edit Full Length \[U.S\. Edit Full Length\]](https://open.spotify.com/track/2P3InepiBsZzL9riFWgqql) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 5:25 |
-| 9 | [Regret It](https://open.spotify.com/track/6EdSQmDDc8n9jz3bEphwRp) | [sandy crow](https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC) | [Regret It](https://open.spotify.com/album/0a2sbZKn8nU5J33DZZ62A9) | 2:31 |
-| 10 | [Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Crimes Of Passion](https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ) | 2:51 |
-| 11 | [Ritmo Sideral](https://open.spotify.com/track/1qNWQVlCXwHrP4avM2WzZV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [C\-Lurico & Area 31](https://open.spotify.com/artist/6kJdjyzfM8K5m0mmtQNwaD) | [Ritmo Sideral](https://open.spotify.com/album/7f13tGN1ULmqGIMQMF5pIs) | 2:50 |
-| 12 | [Nobody Can Save Me](https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:45 |
+| 1 | [Somos Tontos No Pesados](https://open.spotify.com/track/7wd91IeMp8six7kNcb362x) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 4:20 |
+| 2 | [All Along The Watchtower \(Jimi Hendrix cover\)](https://open.spotify.com/track/7DTT3yzroCA7SOGW1wysMR) | [Envy On The Coast](https://open.spotify.com/artist/6RvruFAgvsAb4B82u8wsSH) | [Punk Goes Classic Rock](https://open.spotify.com/album/1D3Oe6Xqu66gBulYtwSoPZ) | 3:51 |
+| 3 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 |
+| 4 | [Manic Monday](https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd) | 3:04 |
+| 5 | [I Was Once, Possibly, Maybe, Perhaps A Cowboy King](https://open.spotify.com/track/5yPvK5HzwTrJNYJUNscZWC) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 3:41 |
+| 6 | [Tuk Tuk](https://open.spotify.com/track/0nhVVN2PUImbII3dY3F7tz) | [Dogmanjones](https://open.spotify.com/artist/3LZuWycCqpivjq1GP0TpvT) | [Tuk Tuk](https://open.spotify.com/album/1Ej3MhImiYwTWz6HyfpCzg) | 2:48 |
+| 7 | [A Cut in a Place](https://open.spotify.com/track/1YVHHllbkA4t7i8tVSgQvj) | [Ashbury Heights](https://open.spotify.com/artist/3rclGaNhwMNMcU2GkN91j9), [Madil Hardis](https://open.spotify.com/artist/5M4jh8kK3nVKRG3FB0qKnI) | [A Cut in a Place](https://open.spotify.com/album/1OPD0HPegjen9cXTgViZSE) | 5:00 |
+| 8 | [Como Olvidarte](https://open.spotify.com/track/4pKZHwUmU3THOsJAPwbmaM) | [Santi Valencia](https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX) | [Como Olvidarte](https://open.spotify.com/album/735bSTrsVYRTyRvQgTkonO) | 3:02 |
+| 9 | [Walking in a Vacuum](https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [Walking in a Vacuum](https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93) | 4:27 |
+| 10 | [Don't Go \(feat\. Lights\)](https://open.spotify.com/track/7wOInrhCRiWaXdzvQ7oUvN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [There is a Hell Believe Me I've Seen It\. There is a Heaven Let's Keep it a Secret](https://open.spotify.com/album/6PlQacVc09348OiGAHoEkt) | 4:58 |
+| 11 | [Aeroplane](https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:45 |
+| 12 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
 
-Snapshot ID: `AAAAiBA+e4y4H/yHPZTwskAHJ+V8FDlG`
+Snapshot ID: `AAAAiQX1/zE7vi9yuj4JiWHKAnlhbLsB`

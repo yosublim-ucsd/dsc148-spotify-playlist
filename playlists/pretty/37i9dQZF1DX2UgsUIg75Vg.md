@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Nippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,342,623 likes - 153 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,342,690 likes - 153 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

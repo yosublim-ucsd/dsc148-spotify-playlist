@@ -96,7 +96,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 196040,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
@@ -4455,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
+    },
+    {
+      "album": {
         "name": "Octopus",
         "url": "https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7"
       },
@@ -6029,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284111,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
       },
@@ -6692,7 +6728,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"

@@ -2,9 +2,9 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. The essential tracks, all in one playlist.
+> This is Suzanne Ciani\. Todos os maiores hits em uma só playlist.
 
-112 songs - 9 hr 21 min
+113 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [432 \- Suzanne Ciani Rework](https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Conatus](https://open.spotify.com/album/3qPX9UNS4kdWpouc7c5FCa) | 4:29 | 2022-06-11 | 2024-04-19 |
 | [A Higher Place \- Live](https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation on Four Sequences Live at Festival Antigel](https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ) | 3:55 | 2022-09-21 | 2024-06-04 |
 | [A New Day](https://open.spotify.com/track/0FSw4ppnsTatvOcjKYlofZ) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [FRKWYS Vol\. 13: Sunergy](https://open.spotify.com/album/23lc2uS9fRiCApwcNhCvUT) | 23:08 | 2022-06-27 | 2022-09-21 |
-| [A Sonic Womb Pt\. 2](https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:48 | 2022-06-09 |  |
+| [A Sonic Womb Pt\. 2](https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:48 | 2022-06-09 | 2024-06-06 |
 | [A Sonic Womb Pt\. 3](https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:15 | 2022-06-07 |  |
 | [A Sonic Womb Pt\. 4](https://open.spotify.com/track/6PauezcrjQSTFsPPIgJmD7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 4:07 | 2023-03-25 | 2024-05-14 |
 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 2:54 | 2022-10-27 |  |
@@ -55,14 +55,15 @@
 | [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 | 2022-05-31 |  |
 | [Improvisation On Four Sequences Pt.1](https://open.spotify.com/track/3gE5fhbWGw66EdEz8OJSOW) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation On Four Sequences](https://open.spotify.com/album/4lRCOMQrNZJFQPhkIgs6bT) | 19:00 | 2023-09-25 | 2023-10-11 |
 | [Inverness](https://open.spotify.com/track/1xeHo019QG0x1zh3Hob3tX) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 4:08 | 2022-06-09 | 2023-04-12 |
+| [Inverness](https://open.spotify.com/track/48JhTqs0UOTzEJqoO9sBPd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:36 | 2024-06-06 |  |
 | [Italia \(From Hotel Luna\)](https://open.spotify.com/track/0u3W3lf8rbN2NuB7ky4SMy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:23 | 2022-05-29 |  |
 | [L'Azzuro](https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 5:12 | 2022-05-29 |  |
-| [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 | 2022-05-30 | 2024-06-04 |
+| [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 | 2022-05-30 |  |
 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 | 2022-05-29 |  |
 | [Lime Marmalade Reverie](https://open.spotify.com/track/4u4ziYdZXAINlX6ASYxJMo) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:01 | 2022-06-22 | 2022-06-24 |
 | [Love Song](https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:49 | 2022-06-09 | 2024-05-15 |
 | [Lumiere](https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:55 | 2022-05-29 | 2022-10-09 |
-| [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 | 2022-05-29 |  |
+| [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 | 2022-05-29 | 2024-06-06 |
 | [Meeting Mozart](https://open.spotify.com/track/0QQNf1doJ6TzGZjOGtAv7v) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:46 | 2022-05-31 | 2024-01-01 |
 | [Meeting Mozart](https://open.spotify.com/track/3i8nE1O4lO7ohT654OM1VV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:48 | 2022-05-29 |  |
 | [Megan's Dream](https://open.spotify.com/track/3ALDShaf3QEX1OcfvwLURW) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 3:38 | 2022-05-29 | 2022-11-16 |

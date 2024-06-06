@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
-  "num_followers": 181962,
+  "num_followers": 181993,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3bNF1FxN1oofpgzJjq8LeT"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 181732,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Somos Las Voces",
         "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3bNF1FxN1oofpgzJjq8LeT"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 181732,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1451,18 +1451,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
       },
       "artists": [
         {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
         }
       ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
+      "duration_ms": 152439,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1491,22 +1495,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Tumba",
-        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
+        "name": "Noches Enteras",
+        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
       "artists": [
         {
-          "name": "JXHN PVUL",
-          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         },
         {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 152439,
-      "name": "Tumba",
-      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
+      "duration_ms": 231008,
+      "name": "Noches Enteras",
+      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1527,22 +1531,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Noches Enteras",
-        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
         }
       ],
-      "duration_ms": 231008,
-      "name": "Noches Enteras",
-      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Siempre Est\u00e1s",
         "url": "https://open.spotify.com/album/0VwhVOHqEtIZIx5CInCChd"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 263538,
       "name": "Siempre Est\u00e1s",
       "url": "https://open.spotify.com/track/4HFuTWvUqHcpI1IV9Au5Xi"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "La Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
-      },
-      "artists": [
-        {
-          "name": "Rudy Torres",
-          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
-        }
-      ],
-      "duration_ms": 157100,
-      "name": "Los Bendigo",
-      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 180173,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "La Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
+      },
+      "artists": [
+        {
+          "name": "Rudy Torres",
+          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
+        }
+      ],
+      "duration_ms": 157100,
+      "name": "Los Bendigo",
+      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2024-05-03 04:00:00",

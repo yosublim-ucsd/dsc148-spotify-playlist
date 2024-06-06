@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Kehlani
 
-1,417 songs - 3 day 3 hr 30 min
+1,418 songs - 3 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Boone](https://open.spotify.com/track/51f7zfTF0TggcBQJ95GZVe) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Boone](https://open.spotify.com/album/7h6gWHMJfwlyZD8IY73uXr) | 2:47 | 2023-02-01 | 2023-03-02 |
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-09-06 | 2023-10-05 |
 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-05-03 | 2023-06-08 |
-| [Bounce](https://open.spotify.com/track/7bkKI9UPmLGvZIXucvADTK) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Bounce](https://open.spotify.com/album/4wUHk5cCjBATO6meJXsUmf) | 2:07 | 2024-06-01 |  |
+| [Bounce](https://open.spotify.com/track/7bkKI9UPmLGvZIXucvADTK) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Bounce](https://open.spotify.com/album/4wUHk5cCjBATO6meJXsUmf) | 2:07 | 2024-06-01 | 2024-06-06 |
 | [boy crazy.](https://open.spotify.com/track/6GlMlyTTDhzMJO1EzvAa5H) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [boy crazy.](https://open.spotify.com/album/1QbzS32RcFDFKLWzD0ovf0) | 2:37 | 2022-07-06 | 2022-08-04 |
 | [Boy From Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 | 2023-08-02 | 2023-09-07 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-11-30 | 2023-07-06 |
@@ -642,6 +642,7 @@
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-02-01 | 2023-03-02 |
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-07-06 | 2022-08-04 |
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2022-08-03 | 2023-03-02 |
+| [i'm just a grrrl](https://open.spotify.com/track/0vbeGbXrJC4zFAbRr3eOhc) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [i'm just a grrrl](https://open.spotify.com/album/1TO4DJZhsMRThCE5o3XA7F) | 3:04 | 2024-06-01 |  |
 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 | 2022-02-02 | 2022-03-09 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-11-02 | 2023-01-05 |
 | [I've Changed a Lot](https://open.spotify.com/track/24nOWJI4FCRuAtMSGcDQxU) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I've Changed a Lot](https://open.spotify.com/album/1mnDUOBwlCuibZOhb6lfs2) | 2:46 | 2024-01-26 | 2024-03-02 |

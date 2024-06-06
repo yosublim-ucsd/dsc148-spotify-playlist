@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is James Newton Howard. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
   "name": "This Is James Newton Howard",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 276200,
       "name": "Central Park - From King Kong Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/38bOgEEJoYMGjdVX2GDDjK"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 91426,
       "name": "I Cannot See His Color - Score",
       "url": "https://open.spotify.com/track/1kah7CwP1lws4gMPbopnPe"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 299800,
       "name": "Rue's Farewell",
       "url": "https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 115533,
       "name": "To the Spaceport - From \"Treasure Planet\"/Score",
       "url": "https://open.spotify.com/track/0do7XjC62nDUC2HKE6XKR1"

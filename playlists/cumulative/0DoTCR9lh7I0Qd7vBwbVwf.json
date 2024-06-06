@@ -3455,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/4QNz7P01yHHv5CfbA6Dbqf"
+      },
+      "artists": [
+        {
+          "name": "Light Skies",
+          "url": "https://open.spotify.com/artist/6OUp6ipOCWmLsyzmviGrmn"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132631,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/7w5yYf2qeUy0PKh9Zb1kKe"
+    },
+    {
+      "album": {
         "name": "Harmonic Wanderlust",
         "url": "https://open.spotify.com/album/5xHSvK424GXmtHEFeIuHWj"
       },

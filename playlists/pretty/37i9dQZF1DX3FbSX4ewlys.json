@@ -1,6 +1,6 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 37659,
+  "num_followers": 37689,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Superexitos Vol. 2",
-        "url": "https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz"
-      },
-      "artists": [
-        {
-          "name": "The Sacados",
-          "url": "https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6"
-        }
-      ],
-      "duration_ms": 219454,
-      "name": "Mas de Lo Que Te Imaginas (Classic Version)",
-      "url": "https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 204753,
       "name": "Stop",
       "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Superexitos Vol. 2",
+        "url": "https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz"
+      },
+      "artists": [
+        {
+          "name": "The Sacados",
+          "url": "https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6"
+        }
+      ],
+      "duration_ms": 219454,
+      "name": "Mas de Lo Que Te Imaginas (Classic Version)",
+      "url": "https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 164280,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "La Chica Dorada",
         "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 225866,
       "name": "M\u00edo",
       "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 164280,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Saints & Sinners",
-        "url": "https://open.spotify.com/album/2gQvc1j1WnM5EAORW7u01W"
-      },
-      "artists": [
-        {
-          "name": "All Saints",
-          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/6ZLGthToczpvnL5Eoy6yrY"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "You Can't Stop The Bum Rush",
         "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Saints & Sinners",
+        "url": "https://open.spotify.com/album/2gQvc1j1WnM5EAORW7u01W"
+      },
+      "artists": [
+        {
+          "name": "All Saints",
+          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+        }
+      ],
+      "duration_ms": 268746,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/6ZLGthToczpvnL5Eoy6yrY"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 232066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
     },
     {
       "added_at": "2024-02-16 20:23:30",

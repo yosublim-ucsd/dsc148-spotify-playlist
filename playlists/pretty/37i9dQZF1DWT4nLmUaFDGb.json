@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 497939,
+  "num_followers": 498104,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Standards (Deluxe)",
-        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 250546,
       "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Standards (Deluxe)",
+        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "The Very Best Of Diana Krall",
-        "url": "https://open.spotify.com/album/6V0wO3QCv5hk6Y2ZAIICV4"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/7FJNoj4PwKGfkQJJu7I5GG"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "The Very Best Of Diana Krall",
+        "url": "https://open.spotify.com/album/6V0wO3QCv5hk6Y2ZAIICV4"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/7FJNoj4PwKGfkQJJu7I5GG"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "They Oughta Write a Song",
         "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
       "artists": [
         {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
         }
       ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1283,6 +1267,22 @@
       "duration_ms": 321256,
       "name": "Someone Like You - Spotify Singles",
       "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
+      },
+      "artists": [
+        {
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+        }
+      ],
+      "duration_ms": 150349,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "Always Seem to Get Things Wrong",
         "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 183523,
       "name": "Sometimes Today Seems Like Yesterday",
       "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
-      },
-      "artists": [
-        {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
-        }
-      ],
-      "duration_ms": 150349,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 216746,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/5ZfhrMkluDMI7eMyCqqR7O"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
     },
     {
       "added_at": "2024-04-12 13:06:45",

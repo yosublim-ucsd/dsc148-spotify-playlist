@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring aimei媚
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,623 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,649 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 33 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 |
 | 34 | [The Thrill Of It \- NOISY Remix \- Hyper Edit](https://open.spotify.com/track/30TBp8FbR4EqJkff8e5You) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [The Thrill Of It \(NOISY Remixes\)](https://open.spotify.com/album/1JOU3Q6pnKLpQd1OjJWcrg) | 3:07 |
 | 35 | [Arintintin](https://open.spotify.com/track/0gExQivfnTQxzD85envbyy) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Arintintin](https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T) | 2:28 |
-| 36 | [Clarity](https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY), [Soak XP](https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl) | [Clarity](https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP) | 2:40 |
+| 36 | [Clarity](https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY), [Soak XP](https://open.spotify.com/artist/692VNmy3ODXsrALPWOVyi2) | [Clarity](https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP) | 2:40 |
 | 37 | [Running Water](https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Running Water](https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt) | 4:00 |
 | 38 | [In and Out](https://open.spotify.com/track/4NHZvvyxAMNT1bjKDdtv75) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [In My Mind We're Great](https://open.spotify.com/album/0XnHb0OOc96m5JrEulfqTB) | 2:16 |
 | 39 | [Better Days](https://open.spotify.com/track/6xmMBY754l7guTzNokbzos) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Better Days](https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp) | 3:31 |

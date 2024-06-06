@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-341 songs - 19 hr 23 min
+342 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Malang Sa \- Acoustic](https://open.spotify.com/track/2Eai5asMu911MtRd4eyHHF) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Malang Sa \(Acoustic\)](https://open.spotify.com/album/2Rzu58Cx0ajSRkqcDPNGap) | 2:54 | 2023-05-17 | 2023-07-08 |
 | [Malang Sajna \- Jamming Version](https://open.spotify.com/track/5emwpQvSRKbYlIcUziCZN9) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Achha Lag Raha Hai](https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML) | 3:04 | 2024-04-26 |  |
 | [Mangoge Na ?](https://open.spotify.com/track/4Mpj5odhILzZEMylxorNOs) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [Mangoge Na ?](https://open.spotify.com/album/1ynBnifQXmEeDrKTbIi9w7) | 3:07 | 2024-04-12 |  |
-| [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 | 2023-09-27 |  |
+| [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 | 2023-09-27 | 2024-06-06 |
+| [Manzoor Hai \(Acoustic\)](https://open.spotify.com/track/3d5g0GTGnb3BjHz5zzLJic) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Manzoor Hai \(Acoustic\)](https://open.spotify.com/album/4BsWJq2U1Wo0H9OlDzNlOI) | 3:58 | 2024-06-05 |  |
 | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/track/1t0ZUIee2xJubPCjHbE5A7) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk) | 3:53 | 2023-08-09 | 2023-09-22 |
 | [Masoom](https://open.spotify.com/track/1Bq5DRGjTStmHKIScZ4poF) | [Aneet Padda](https://open.spotify.com/artist/3mhogAa7LlKVkgcm1P7CGI) | [Big Girls Don’t Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 4:27 | 2024-03-11 | 2024-05-07 |
 | [Maula Mere Maula \(Unplugged\)](https://open.spotify.com/track/6e0qTj2XNMxtOnPLU1HPDm) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Maula Mere Maula \(Unplugged\) \- Single](https://open.spotify.com/album/2P4Ah2ZCSihdOfama7aMJy) | 2:59 | 2023-05-17 | 2023-07-01 |

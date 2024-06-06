@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 216053,
       "name": "\"From Now On We Are Enemies\"",
       "url": "https://open.spotify.com/track/2hC4LPebn0xctVGsVPOwJX"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Champion",
       "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 236754,
       "name": "Heaven, Iowa",
       "url": "https://open.spotify.com/track/3GKg5UKHIi1Tj2Noz5N0F5"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "Immortals",
       "url": "https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 179266,
       "name": "Jet Pack Blues",
       "url": "https://open.spotify.com/track/7d0R90VzB45UWf3Aey0X22"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 211026,
       "name": "Miss Missing You",
       "url": "https://open.spotify.com/track/05Z77MHLPcBA2Wd5eDSJzl"
@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291299,
+      "name": "So Much (For) Stardust",
+      "url": "https://open.spotify.com/track/2svOhUXIy2932LBNEFdNcq"
+    },
+    {
+      "album": {
         "name": "So Much (For) Stardust [Edit]",
         "url": "https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 232300,
       "name": "So Much (For) Stardust - Edit",
       "url": "https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 210426,
       "name": "Tell That Mick He Just Made My List of Things to Do Today",
       "url": "https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 203840,
       "name": "The Carpal Tunnel Of Love",
       "url": "https://open.spotify.com/track/6FAUi2Xm6RCF0wpwG8oXGZ"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 260920,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/3x7NGlfDKQYN2wnwEnL7r9"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 203506,
       "name": "Thnks fr th Mmrs",
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 211573,
       "name": "Uma Thurman",
       "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 243040,
       "name": "Where Did The Party Go",
       "url": "https://open.spotify.com/track/3Q7jFW6nxqhwbUctqqthSa"

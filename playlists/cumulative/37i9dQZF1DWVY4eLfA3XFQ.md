@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Martin Ikin\. 50% techno, 50% house
 
-1,620 songs - 3 day 19 hr 7 min
+1,621 songs - 3 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [BAMBITO](https://open.spotify.com/track/41qrV3hsCirBvF4UaABY7Y) | [TIEDYE](https://open.spotify.com/artist/5FTnAWGdw8HMTn5KKYDSox) | [BAMBITO](https://open.spotify.com/album/0hb26adq3Kdb9pOaQo2UAP) | 2:52 | 2024-03-22 | 2024-04-27 |
 | [Bamboleo](https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Bamboleo](https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC) | 3:00 | 2023-02-10 | 2023-05-20 |
 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 | 2022-10-28 | 2023-02-04 |
+| [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:48 | 2024-06-05 |  |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-07-21 | 2023-11-24 |
 | [Baseline Happiness](https://open.spotify.com/track/0FF9trm5pWMyUeyfP70ga6) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Baseline Happiness](https://open.spotify.com/album/26d46EFUTm8Yo4Z9pU5l6D) | 3:06 | 2023-03-10 | 2023-04-23 |
 | [Basement](https://open.spotify.com/track/7vHxzcZnozXPfGL38WSTnD) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Basement](https://open.spotify.com/album/5CgVD2Zrx4dzAMU5Sqh35Z) | 3:44 | 2022-03-04 | 2022-05-07 |
@@ -732,7 +733,7 @@
 | [Kick Drums](https://open.spotify.com/track/0tpw2iisVlCnG0QG8SCIG1) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Kick Drums](https://open.spotify.com/album/2bi3SgXvYcAfJyMnzEmscq) | 2:54 | 2023-03-31 | 2023-06-10 |
 | [Kid You Not](https://open.spotify.com/track/1i5IG4bNyPhq20WfeCT8HM) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Kid You Not](https://open.spotify.com/album/1Cw5KYlQDjL45X9DfrTvus) | 3:08 | 2024-04-26 | 2024-06-01 |
 | [Kiki](https://open.spotify.com/track/1ktkHmRDSvH971zF5Re1Ha) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Kiki](https://open.spotify.com/album/5cqz8kbQQzovPfT5vAMxa7) | 3:32 | 2023-02-10 | 2023-03-06 |
-| [Kiki](https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Kiki](https://open.spotify.com/album/1vgL9oPn4HIi62mPSntLBP) | 3:04 | 2024-03-30 |  |
+| [Kiki](https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Kiki](https://open.spotify.com/album/1vgL9oPn4HIi62mPSntLBP) | 3:04 | 2024-03-30 | 2024-06-06 |
 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 | 2024-05-31 |  |
 | [Killing Papa](https://open.spotify.com/track/1Doiq7cx2iQsju9ysyU14s) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Killing Papa](https://open.spotify.com/album/2x1e6uUdxOVT0hcLLRqSL5) | 2:01 | 2023-05-26 | 2023-07-08 |
 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 | 2022-12-02 | 2023-02-25 |

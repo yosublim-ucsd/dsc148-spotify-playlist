@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,730 songs - 3 day 16 hr 59 min
+1,731 songs - 3 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,7 +903,8 @@
 | [millenium](https://open.spotify.com/track/5EUUrt6DYirGyFtm1tbOVp) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Lata Dwudzieste](https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj) | 3:41 | 2022-10-22 | 2022-11-13 |
 | [MILLIE WALKY](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [MILLIE WALKY](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 | 2023-05-18 | 2023-11-19 |
 | [MILLIE WALKY](https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 2:14 | 2023-11-18 |  |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-08 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-08 | 2024-06-06 |
 | [Milord](https://open.spotify.com/track/5JAkf7fy1RpcHX2GdvYWG4) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Polski Bandyta](https://open.spotify.com/artist/28sAoA15FJGXV5mkkEvNnb), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [Milord](https://open.spotify.com/album/00vfJoOOPrJv7GRS1qcB6j) | 2:42 | 2023-01-28 | 2023-02-04 |
 | [Minimini2](https://open.spotify.com/track/4sNqUUe7HSxkD0ZYobXlWz) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Quiz](https://open.spotify.com/artist/5GvwPBszaFVYwZS9eMX6vX) | [Dom Dla Zmyślonych Przyjaciół Pana Mateusza](https://open.spotify.com/album/0msLBh7Jo7cFkvTrigflxi) | 2:38 | 2022-04-08 | 2022-04-14 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-04-23 | 2023-07-25 |

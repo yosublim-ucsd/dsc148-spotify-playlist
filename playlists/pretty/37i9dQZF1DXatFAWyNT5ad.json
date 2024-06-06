@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 140207,
+  "num_followers": 140212,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "beat up car",
         "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 214555,
       "name": "beat up car",
       "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 161475,
       "name": "hell of a good time",
       "url": "https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Eras Of Us",
-        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 168668,
-      "name": "Eras Of Us",
-      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 157504,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Eras Of Us",
+        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 168668,
+      "name": "Eras Of Us",
+      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "First To Go",
-        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "First To Go",
-      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "BANG BANG!",
-        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+        "name": "First To Go",
+        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 136387,
-      "name": "BANG BANG!",
-      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+      "duration_ms": 173066,
+      "name": "First To Go",
+      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "BANG BANG!",
+        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 136387,
+      "name": "BANG BANG!",
+      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "CRYBABY",
         "url": "https://open.spotify.com/album/4N1kb8sxL6pVnKgpWMW3s6"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "JUMP!",
         "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 194928,
       "name": "JUMP!",
       "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Paperweight",
-        "url": "https://open.spotify.com/album/7iF0XrBnBkv0fUaTbeLDLe"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 159891,
-      "name": "Paperweight",
-      "url": "https://open.spotify.com/track/6rL8VTEBaWTWBK9eGeXoz8"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "God Save The Teen",
         "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 190137,
       "name": "Shelter (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Paperweight",
+        "url": "https://open.spotify.com/album/7iF0XrBnBkv0fUaTbeLDLe"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 159891,
+      "name": "Paperweight",
+      "url": "https://open.spotify.com/track/6rL8VTEBaWTWBK9eGeXoz8"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 212414,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Bloodstream",
-        "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Year 3000 2.0",
         "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Bloodstream",
+        "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "DO YOU LIKE ME?",
-        "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 177808,
-      "name": "DO YOU LIKE ME?",
-      "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "everything is fine",
         "url": "https://open.spotify.com/album/1hIWhSH68cnnjZotwiqHHq"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 208289,
       "name": "everything is fine",
       "url": "https://open.spotify.com/track/0nbDPiQsfmrXwt2bxaKqtl"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "DO YOU LIKE ME?",
+        "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 177808,
+      "name": "DO YOU LIKE ME?",
+      "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "I Love You, I\u2019m Trying",
-        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 164899,
-      "name": "Half My Heart",
-      "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "I Think I'm in Love",
         "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 179000,
       "name": "I Think I'm in Love",
       "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "I Love You, I\u2019m Trying",
+        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 164899,
+      "name": "Half My Heart",
+      "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "better than this",
-        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 178165,
-      "name": "better than this",
-      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "BLAME IT ON ME",
         "url": "https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 162377,
       "name": "BLAME IT ON ME",
       "url": "https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "better than this",
+        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "better than this",
+      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2235,18 +2235,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "2 of us",
-        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+        "name": "Hazy",
+        "url": "https://open.spotify.com/album/0VAy378vBLuRUFlRaqVv7Q"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Hey Violet",
+          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
         }
       ],
-      "duration_ms": 166522,
-      "name": "2 of us",
-      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
+      "duration_ms": 201087,
+      "name": "Hazy",
+      "url": "https://open.spotify.com/track/55ZGLH13fxQ5vyTLwd9AuG"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2263,6 +2263,22 @@
       "duration_ms": 203467,
       "name": "hurt like it should",
       "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "2 of us",
+        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "2 of us",
+      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2299,22 +2315,6 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "Hazy",
-        "url": "https://open.spotify.com/album/0VAy378vBLuRUFlRaqVv7Q"
-      },
-      "artists": [
-        {
-          "name": "Hey Violet",
-          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
-        }
-      ],
-      "duration_ms": 201087,
-      "name": "Hazy",
-      "url": "https://open.spotify.com/track/55ZGLH13fxQ5vyTLwd9AuG"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2387,42 +2387,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "u & the tin man",
-        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148602,
-      "name": "u & the tin man",
-      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "fmk (with blackbear)",
-        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "fmk (with blackbear)",
-      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Liquor and Kerosene (feat. The Maine)",
         "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
       },
@@ -2435,6 +2399,22 @@
       "duration_ms": 214024,
       "name": "Liquor and Kerosene (feat. The Maine)",
       "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "u & the tin man",
+        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 148602,
+      "name": "u & the tin man",
+      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2471,6 +2451,26 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "fmk (with blackbear)",
+      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "Maybe You Saved Me",
         "url": "https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY"
       },
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 159308,
       "name": "Say It (To My Face)",
       "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
     },
     {
       "added_at": "2024-05-31 22:30:56",

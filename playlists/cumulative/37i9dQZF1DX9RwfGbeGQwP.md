@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,397 songs - 2 day 4 hr 38 min
+1,398 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
 | [Don't Go](https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL) | [Okinawa\-ARN](https://open.spotify.com/artist/5nrNy29dvYPOfRSE8m07cp) | [Don't Go](https://open.spotify.com/album/4jQRoP0tEDHtDCfxzEUEso) | 2:16 | 2023-01-13 | 2024-05-25 |
 | [Don't regret anything](https://open.spotify.com/track/6j2K1xEGP4BwA2vZSnV95o) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Don't regret anything](https://open.spotify.com/album/2sYmhP2eYMsXHayapKk5kv) | 1:57 | 2022-09-02 | 2023-09-16 |
+| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 |  |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 |  |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-01-27 | 2022-09-09 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-01-27 | 2022-09-17 |
@@ -828,7 +829,7 @@
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-01-27 | 2022-09-03 |
 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 | 2022-01-27 | 2022-06-10 |
-| [Neurons](https://open.spotify.com/track/3gsZFTu3zxzRjnQlUvzgJo) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Neurons](https://open.spotify.com/album/5TjJ5jPREgKfGRrgyAZC1U) | 2:07 | 2022-10-28 |  |
+| [Neurons](https://open.spotify.com/track/3gsZFTu3zxzRjnQlUvzgJo) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Neurons](https://open.spotify.com/album/5TjJ5jPREgKfGRrgyAZC1U) | 2:07 | 2022-10-28 | 2024-06-06 |
 | [Never Been In Love Before](https://open.spotify.com/track/64MZPwDiSG4udvwVf0b3ha) | [Harvey Scratch](https://open.spotify.com/artist/6GKglKnJTnDw3ZMhACD5fv), [Iamcloud](https://open.spotify.com/artist/6bzWspcEBMECSYiZ4ynQCK) | [All Shook Up Till Moonglow](https://open.spotify.com/album/34hJvhbpNEPjQFnwJWNX29) | 1:41 | 2022-07-29 | 2022-09-17 |
 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2022-01-27 | 2022-10-15 |
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-01-27 | 2023-05-20 |

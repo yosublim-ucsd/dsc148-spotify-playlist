@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,796 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,795 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sagrado Profano](https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:16 |
 | 2 | [Morena Tropicana \- MTG](https://open.spotify.com/track/6xCAXCTuUeY2nT0p9cAdvB) | [Malla](https://open.spotify.com/artist/4w1fJ5YYsYyxQg2DceFrnB) | [Morena Tropicana \(MTG\)](https://open.spotify.com/album/0882bZ1EHZa1EXJT4VBrkY) | 2:16 |
-| 3 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
+| 3 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
 | 4 | [Sonho Dela \(Cowboy\)](https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Félix](https://open.spotify.com/artist/3KdqkzCC6uPPxW3ZV9vLtT), [Léo Souzza](https://open.spotify.com/artist/32q95UvnNYSiflLio02DnS) | [Sonho Dela \(Cowboy\)](https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq) | 1:53 |
 | 5 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 |
 | 6 | [Piração](https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm) | [Kaká e Pedrinho](https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ) | [Piração 2.0](https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Deixa Eu Botar](https://open.spotify.com/track/7bBD12XmRKP577rmXmcyho) | [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz), [dj andreoli](https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Deixa Eu Botar](https://open.spotify.com/album/6qrfUroN8CeYDn87ORpFcc) | 1:44 |
 | 50 | [CONFISSÕES PT1](https://open.spotify.com/track/4OMSfAavn8k6HxZ0HwVtV1) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 3:33 |
 
-Snapshot ID: `LfJ8GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LfPNmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,604 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,633 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 79 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 80 | [Guardian](https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Guardian](https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq) | 7:23 |
 | 81 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 |
-| 82 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 |
-| 83 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 |
+| 82 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 |
+| 83 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 |
 | 84 | [Break Down \- Dennis Cruz Remix](https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Break Down EP](https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK) | 5:42 |
 | 85 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
 | 86 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 |
 | 87 | [Vamo](https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Vamo](https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA) | 3:36 |
-| 88 | [What's Your Name](https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [What's Your Name](https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59) | 7:24 |
-| 89 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 |
+| 88 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 |
+| 89 | [What's Your Name](https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [What's Your Name](https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59) | 7:24 |
 | 90 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
-| 91 | [7am Germany](https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx) | [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [DR\-EP\-2068](https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y) | 3:52 |
-| 92 | [Disco Trip](https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w) | [Disco Trip EP](https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY) | 3:35 |
-| 93 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
+| 91 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
+| 92 | [7am Germany](https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx) | [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [DR\-EP\-2068](https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y) | 3:52 |
+| 93 | [Disco Trip](https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w) | [Disco Trip EP](https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY) | 3:35 |
 | 94 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 |
 | 95 | [Step Forward](https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Step Forward EP](https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I) | 5:35 |
 | 96 | [Strictly Ruffneck \(Come Again\)](https://open.spotify.com/track/2tMKcXPjZ99DvFYBUd7k1t) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Strictly Ruffneck \(Come Again\)](https://open.spotify.com/album/6GP5G8aPWZgBmyOf5Wv7rJ) | 5:44 |
 | 97 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
 | 98 | [What We Got](https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [What We Got](https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy) | 5:20 |
 | 99 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
-| 100 | [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 |
+| 100 | [Inter State](https://open.spotify.com/track/6nSQSAS1yKm9IMgAUeLrEV) | [Mihai Popoviciu](https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM) | [Inter State](https://open.spotify.com/album/46yfbx30ZO55aNONkpN3MD) | 8:19 |
 
 Snapshot ID: `ZllLQAAAAAD5CUgGtqCyfoVUfATs9aRa`

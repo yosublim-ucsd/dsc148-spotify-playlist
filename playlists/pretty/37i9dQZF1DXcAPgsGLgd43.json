@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 44131,
+  "num_followers": 45349,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Pliva",
-        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 244570,
-      "name": "Pliva",
-      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "El Baile",
         "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 124921,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Serena",
@@ -1287,6 +1271,22 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 124921,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1381,26 +1381,6 @@
       "url": "https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Catuca",
-        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Catuca",
-      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Barah\u00fanda",
@@ -1419,18 +1399,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Bim Boom Bam",
-        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
+        "name": "Catuca",
+        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
       },
       "artists": [
         {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
         }
       ],
-      "duration_ms": 144023,
-      "name": "Bim Boom Bam",
-      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+      "duration_ms": 398986,
+      "name": "Catuca",
+      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1453,40 +1437,20 @@
       "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Una Copa M\u00e1s",
-        "url": "https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "LVGA",
-          "url": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Una Copa M\u00e1s",
-      "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+        "name": "Bim Boom Bam",
+        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
         }
       ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+      "duration_ms": 144023,
+      "name": "Bim Boom Bam",
+      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1511,22 +1475,38 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Una Copa M\u00e1s",
+        "url": "https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "LVGA",
+          "url": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Una Copa M\u00e1s",
+      "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1547,6 +1527,26 @@
       "duration_ms": 323763,
       "name": "Toma Dale",
       "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Ay",
         "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
       },
@@ -1753,24 +1737,20 @@
       "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/6z89dz0pfcAJ25nPd4lOJR"
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
       },
       "artists": [
         {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        },
-        {
-          "name": "Cosmo",
-          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 137343,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6"
+      "duration_ms": 263680,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1793,24 +1773,24 @@
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/6z89dz0pfcAJ25nPd4lOJR"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
         },
         {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
         }
       ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+      "duration_ms": 137343,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1835,6 +1815,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Dimini",
+        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        }
+      ],
+      "duration_ms": 142447,
+      "name": "Dimini",
+      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -1851,6 +1851,26 @@
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Que Pasa",
+        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1875,26 +1895,6 @@
       "duration_ms": 205161,
       "name": "Ya Me Voy",
       "url": "https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Que Pasa",
-        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Que Pasa",
-      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
     },
     {
       "added_at": "2024-04-19 04:00:00",

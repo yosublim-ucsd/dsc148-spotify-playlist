@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,057 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,069 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 |
 | 2 | [Run Away \(OMALICHA\) \- Acoustic](https://open.spotify.com/track/2QHh2ysUSow4S6GX4tswYB) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 3:37 |
-| 3 | [Jolene \- Deluxe](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 |
+| 3 | [Jolene](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 |
 | 4 | [Lonely At The Top \- Acoustic](https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top EP](https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN) | 2:40 |
 | 5 | [American Love \- Acoustic](https://open.spotify.com/track/4KxTDnSUNHtoN4Y0fYSUMd) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [American Love](https://open.spotify.com/album/2GobXOMJEUsQPJj4TPfiYl) | 3:01 |
 | 6 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/22s7GSnCQ2DlIaeM3mR9Bt) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Notes](https://open.spotify.com/album/7yHniZiIQiLjnDFJ2bgMen) | 3:04 |

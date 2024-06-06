@@ -1,12 +1,12 @@
 {
-  "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 179674,
+  "description": "This is Tate McRae. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 179784,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAnehHgYmWmy6uyUG4yaaHd",
+  "snapshot_id": "Zl5ZAAAAAABzpOuDlJ30WeyoLIabR/ym",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -75,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "that way",
-      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -103,6 +107,22 @@
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "that way",
+      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
     },
     {
       "added_at": null,
@@ -139,30 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -195,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 175533,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "uh oh",
         "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
       },
@@ -223,6 +203,22 @@
       "duration_ms": 169721,
       "name": "uh oh",
       "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM"
     },
     {
       "added_at": null,
@@ -259,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "what's your problem?",
-      "url": "https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -287,6 +267,22 @@
       "duration_ms": 173826,
       "name": "stupid",
       "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "what's your problem?",
+      "url": "https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL"
     },
     {
       "added_at": null,
@@ -343,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
       "artists": [
         {
@@ -352,9 +348,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 166946,
-      "name": "what would you do?",
-      "url": "https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw"
+      "duration_ms": 187880,
+      "name": "slower",
+      "url": "https://open.spotify.com/track/4X3Br7EVc8oy44zUwU1z5w"
     },
     {
       "added_at": null,
@@ -415,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "slower",
-      "url": "https://open.spotify.com/track/4X3Br7EVc8oy44zUwU1z5w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "working",
         "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
       },
@@ -447,6 +427,22 @@
       "duration_ms": 210219,
       "name": "working",
       "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "r u ok",
+      "url": "https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv"
     },
     {
       "added_at": null,
@@ -483,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "r u ok",
-      "url": "https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -511,38 +491,6 @@
       "duration_ms": 165240,
       "name": "tear myself apart",
       "url": "https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/5iyYTjDj9kt0rz8kjrnayq"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 171899,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/1RI4G0KZES2ZQgKCF3mgOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "vicious",
-        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 182929,
-      "name": "vicious",
-      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
     },
     {
       "added_at": null,
@@ -563,6 +511,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/5iyYTjDj9kt0rz8kjrnayq"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 171899,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/1RI4G0KZES2ZQgKCF3mgOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "hate myself",
+      "url": "https://open.spotify.com/track/1bXm6XU3SYSqQGLTRhUSfm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -575,6 +555,38 @@
       "duration_ms": 186213,
       "name": "all my friends are fake",
       "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "bad ones",
+      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "vicious",
+        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 182929,
+      "name": "vicious",
+      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
     },
     {
       "added_at": null,
@@ -611,22 +623,6 @@
       "duration_ms": 201256,
       "name": "Hung up on You",
       "url": "https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "bad ones",
-      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
     },
     {
       "added_at": null,

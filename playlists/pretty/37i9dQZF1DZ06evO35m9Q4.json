@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 150683,
+  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 150720,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAADodGXwoH66XFjLi440wtob",
+  "snapshot_id": "Zl5ZAAAAAADrIQSJdBOcfS27nHfmDve2",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Step",
-        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Love Me Darlin'",
-      "url": "https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -415,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solos, Sessions & Encores",
-        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
       },
       "artists": [
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        },
-        {
-          "name": "Dick Dale",
-          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
+      "duration_ms": 198666,
+      "name": "Love Me Darlin'",
+      "url": "https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D"
     },
     {
       "added_at": null,
@@ -647,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
       },
       "artists": [
         {
@@ -656,9 +636,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 101973,
-      "name": "Slip Slidin' Slim",
-      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
+      "duration_ms": 188533,
+      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,
@@ -679,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
       "artists": [
         {
@@ -688,25 +668,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
-      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "Come On, Pt. III",
-      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
+      "duration_ms": 101973,
+      "name": "Slip Slidin' Slim",
+      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
     },
     {
       "added_at": null,
@@ -727,6 +691,22 @@
       "duration_ms": 537226,
       "name": "Don't Lie To Me",
       "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "Come On, Pt. III",
+      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
     },
     {
       "added_at": null,

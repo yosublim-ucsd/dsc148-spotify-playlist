@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Agnes Nunes
 
-295 songs - 13 hr 46 min
+296 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,13 +98,14 @@
 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 | 2022-01-14 | 2022-04-13 |
 | [Eu Dou Tchau](https://open.spotify.com/track/1e6R5m4tE8aCMbRRMrMPjN) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Eu Dou Tchau](https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI) | 2:30 | 2022-01-14 | 2022-01-30 |
 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [O \(IM\)POSSÍVEL \- PARTE 1 \[Ao Vivo\]](https://open.spotify.com/album/6b87opgcfElb3XS3aFO677) | 2:52 | 2022-03-11 | 2022-06-13 |
+| [Exclusiva](https://open.spotify.com/track/6ZayYFgk4cfVRgGEsDxWmY) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [EXCLUSIVA: As mais românticas da IZA](https://open.spotify.com/album/4EAZe1EZ9aJWWPHFcAWkpJ) | 3:13 | 2024-06-05 |  |
 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Hodari](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-01-14 | 2022-02-05 |
 | [Fake Amor 2](https://open.spotify.com/track/78J51AcYXlVFK0J5xHOjs1) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Fake Amor 2](https://open.spotify.com/album/2MYnqMrNTUNGwvkrl5Ktqd) | 2:39 | 2022-02-04 | 2022-04-07 |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 | 2022-01-14 | 2022-04-13 |
 | [FALA MAL DE MIM](https://open.spotify.com/track/5glMxRMRHGBRj6bydBjoPM) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [FALA MAL DE MIM](https://open.spotify.com/album/3x3CccLoOFQN8jnFJxF91n) | 2:34 | 2022-01-14 | 2022-10-01 |
 | [Faz Direito](https://open.spotify.com/track/4Tg3dITSSQFs49V1DhIotM) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Faz Direito](https://open.spotify.com/album/2yDkDOLyUy36AyBr88Gjb0) | 2:34 | 2022-07-19 | 2022-07-30 |
 | [FBI](https://open.spotify.com/track/1njlseyMEPqQANyj9K3Khf) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [FBI](https://open.spotify.com/album/6Lu78aAF95EFbMEtCfBgav) | 3:37 | 2022-05-06 | 2022-09-03 |
-| [Femme Fatale \(Júpiter\)](https://open.spotify.com/track/0gq7WAf5gmnKjPj5vk86qe) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Femme Fatale \(Júpiter\)](https://open.spotify.com/album/4rCfMYVqRt13AODPqakN4n) | 3:28 | 2024-04-12 |  |
+| [Femme Fatale \(Júpiter\)](https://open.spotify.com/track/0gq7WAf5gmnKjPj5vk86qe) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Femme Fatale \(Júpiter\)](https://open.spotify.com/album/4rCfMYVqRt13AODPqakN4n) | 3:28 | 2024-04-12 | 2024-06-06 |
 | [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 | 2022-11-11 | 2023-08-26 |
 | [FIQUE BEM!](https://open.spotify.com/track/7Md18J8NOcpM25Vyt7N9WM) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [DISCO VOADOR \[DELUXE\]](https://open.spotify.com/album/59pai4WqNIembDQV6xcast) | 3:16 | 2023-07-14 | 2023-08-16 |
 | [Fiu Fiu](https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:24 | 2023-12-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71331,
+  "num_followers": 71336,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAADIwpY48Hiy55ze78qysfBf",
+  "snapshot_id": "Zl5ZAAAAAAAeT5+/C395UPO+zE3ZEc8g",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 186573,
       "name": "The Nighttrain",
       "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208316,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
     },
     {
       "added_at": null,
@@ -231,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -275,42 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -331,6 +335,22 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
     },
     {
       "added_at": null,
@@ -395,30 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Keeper",
-        "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Dallerium",
-          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 190354,
-      "name": "Time Keeper",
-      "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
@@ -439,22 +435,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+        "name": "Time Keeper",
+        "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Dallerium",
+          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+      "duration_ms": 190354,
+      "name": "Time Keeper",
+      "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -731,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 140477,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 158958,
       "name": "Why Do I Call",
       "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 140477,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
     },
     {
       "added_at": null,
@@ -831,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To The Floor (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
+      },
+      "artists": [
+        {
+          "name": "Loud 'N Bright",
+          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "To The Floor (Nicky Romero Edit)",
+      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bittersweet (ft. Quarterback) [Remixes]",
         "url": "https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6"
       },
@@ -859,26 +899,6 @@
       "duration_ms": 180952,
       "name": "Bittersweet (ft. Quarterback) - Firelite Remix",
       "url": "https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To The Floor (Nicky Romero Edit)",
-        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
-      },
-      "artists": [
-        {
-          "name": "Loud 'N Bright",
-          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "To The Floor (Nicky Romero Edit)",
-      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
     },
     {
       "added_at": null,
@@ -1083,26 +1103,6 @@
       "duration_ms": 168000,
       "name": "Distance",
       "url": "https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Clap",
-        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Everybody Clap",
-      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
     }
   ],
   "unique_name": "This Is Nicky Romero",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Lyna Mahyem \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,822 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,865 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 42 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
 | 43 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 |
 | 44 | [Ce soir](https://open.spotify.com/track/7z6qjtc8VJcJ9G10n03P4i) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:46 |
-| 45 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 |
-| 46 | [garder le sourire](https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [garder le sourire](https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8) | 2:41 |
-| 47 | [SUICIDE](https://open.spotify.com/track/3xOyE3QC4M3CtiM8bLB1c7) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 3:24 |
-| 48 | [Trop Mimi](https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Trop Mimi](https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c) | 2:27 |
-| 49 | [Djali](https://open.spotify.com/track/7iJs4F8o2mV3HXntkQrYO7) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Story](https://open.spotify.com/album/2RF2jT1Uuyyo9b65GQzJ6y) | 3:35 |
+| 45 | [All My Life](https://open.spotify.com/track/6xLQnlTtuRXPvzt2Rx7Zke) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [We're all gonna die anyway,](https://open.spotify.com/album/5l6SN84f1hv6LrboTqcKKj) | 3:57 |
+| 46 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 |
+| 47 | [garder le sourire](https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [garder le sourire](https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8) | 2:41 |
+| 48 | [SUICIDE](https://open.spotify.com/track/3xOyE3QC4M3CtiM8bLB1c7) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 3:24 |
+| 49 | [Trop Mimi](https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Trop Mimi](https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c) | 2:27 |
+| 50 | [Djali](https://open.spotify.com/track/7iJs4F8o2mV3HXntkQrYO7) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Story](https://open.spotify.com/album/2RF2jT1Uuyyo9b65GQzJ6y) | 3:35 |
 
 Snapshot ID: `Zl+OYAAAAAAUqhPY5XqTEelf+eFapsIf`

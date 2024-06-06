@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Winnie Nwagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,158 likes - 61 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,174 likes - 61 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 5 | [Pepepepe](https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Pepepepe](https://open.spotify.com/album/2Wy6NBtz5cWdiMcpFkVude) | 3:19 |
 | 6 | [MAD \- INFINITY REMIX](https://open.spotify.com/track/4Yjd8cctVhkhYFgugKv2fp) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [MAD \(INFINITY REMIX\)](https://open.spotify.com/album/2kEa8JfCMLMjnaPH94L2Da) | 3:00 |
 | 7 | [Bailando \- Latin Urbano Remix](https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Bailando \(Latin Urbano Remix\)](https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao) | 3:07 |
-| 8 | [Alone \- Deluxe](https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 4:02 |
+| 8 | [Alone](https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 4:02 |
 | 9 | [Embaga Ya Isma Na’mina](https://open.spotify.com/track/2boSNe9SlveKjsVTSvueHA) | [Gravity Omutujju](https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko) | [Embaga Ya Isma Na’mina](https://open.spotify.com/album/6PKoBd0ZatvAmaYhrP2AHd) | 2:25 |
 | 10 | [After 10:30](https://open.spotify.com/track/14VxAHYAoIxL6OZAhvUnL5) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [After 10:30](https://open.spotify.com/album/6KAZHte6Hf1iL1Y6VKwzwZ) | 2:12 |
 | 11 | [Mind Your Business](https://open.spotify.com/track/3ndAqWz3OJZ7adPyS4yhm9) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Mind Your Business](https://open.spotify.com/album/4c4rNpKzG8uoVIBrvjlrjz) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,577 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,569 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 5 | [Shooting Star](https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez) | 3:03 |
 | 6 | [BADVILLAIN](https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 3:09 |
 | 7 | [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 |
-| 8 | [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32: Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 |
+| 8 | [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 |
 | 9 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 |
 | 10 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 |
 | 11 | [FLOWER](https://open.spotify.com/track/34uUrBhqDqQs28Ac4fumRJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [FLOWER](https://open.spotify.com/album/4PkvOK0vWqNxNxJlSXBRnk) | 3:38 |

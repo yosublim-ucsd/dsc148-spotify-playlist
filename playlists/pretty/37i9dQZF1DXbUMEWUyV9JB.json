@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Nicki Nicole",
-  "num_followers": 272607,
+  "num_followers": 272613,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 300840,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Formas De Amor",
-        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Klaz Y Keroz",
-          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Suave Y Tierno",
-      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 254883,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Formas De Amor",
+        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Klaz Y Keroz",
+          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Suave Y Tierno",
+      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Tuyo Siempre",
-        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Tuyo Siempre",
-      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Yo Quiero Chupar / Solo Exitos",
         "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215524,
       "name": "Yo Quiero Chupar",
       "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Se Agradece",
-        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 221211,
-      "name": "Se Agradece",
-      "url": "https://open.spotify.com/track/5zOxGBR8fT1a7P58vkKTCs"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Se Me Hizo Tarde",
         "url": "https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 167927,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 221211,
+      "name": "Se Agradece",
+      "url": "https://open.spotify.com/track/5zOxGBR8fT1a7P58vkKTCs"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Cumbia Del Clavi",
-        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
-      },
-      "artists": [
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        },
-        {
-          "name": "El Clavijas",
-          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
-        }
-      ],
-      "duration_ms": 169738,
-      "name": "Cumbia Del Clavi",
-      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Ser\u00e1",
         "url": "https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f"
       },
@@ -1259,6 +1239,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Cumbia Del Clavi",
+        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "El Clavijas",
+          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
+        }
+      ],
+      "duration_ms": 169738,
+      "name": "Cumbia Del Clavi",
+      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "La Negra",
         "url": "https://open.spotify.com/album/1YaB98YlipNhjR5WYDOE7V"
       },
@@ -1275,6 +1275,30 @@
       "duration_ms": 184080,
       "name": "La Negra",
       "url": "https://open.spotify.com/track/5CjsiSWhEvSK433qJAZ8EI"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Qu\u00e9 Pensaste",
+        "url": "https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes"
+      },
+      "artists": [
+        {
+          "name": "Grupo Dominio",
+          "url": "https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 200232,
+      "name": "Qu\u00e9 Pensaste",
+      "url": "https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1303,30 +1327,6 @@
       "duration_ms": 177994,
       "name": "LADRONA - con Mario Luis",
       "url": "https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 Pensaste",
-        "url": "https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes"
-      },
-      "artists": [
-        {
-          "name": "Grupo Dominio",
-          "url": "https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 200232,
-      "name": "Qu\u00e9 Pensaste",
-      "url": "https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Amores Como el Nuestro",
-        "url": "https://open.spotify.com/album/1676169Nezgo33tdsUOdIe"
+        "name": "De aqui para siempre",
+        "url": "https://open.spotify.com/album/21DHxGNZBb3pRc7qDRRo9p"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        },
-        {
-          "name": "Flor De Cumbia",
-          "url": "https://open.spotify.com/artist/0vU2vjB0JnqPkuYV7zkYtW"
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/5B5ESVyQywgJI0kD0gUlHJ"
+      "duration_ms": 157931,
+      "name": "De aqui para siempre",
+      "url": "https://open.spotify.com/track/6VfdXl0d29QlfEzyHkTJTI"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1515,18 +1511,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "De aqui para siempre",
-        "url": "https://open.spotify.com/album/21DHxGNZBb3pRc7qDRRo9p"
+        "name": "Amores Como el Nuestro",
+        "url": "https://open.spotify.com/album/1676169Nezgo33tdsUOdIe"
       },
       "artists": [
         {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        },
+        {
+          "name": "Flor De Cumbia",
+          "url": "https://open.spotify.com/artist/0vU2vjB0JnqPkuYV7zkYtW"
         }
       ],
-      "duration_ms": 157931,
-      "name": "De aqui para siempre",
-      "url": "https://open.spotify.com/track/6VfdXl0d29QlfEzyHkTJTI"
+      "duration_ms": 199520,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/5B5ESVyQywgJI0kD0gUlHJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Pedazo de papel",
+        "url": "https://open.spotify.com/album/1HfXPWyVeJyUfE6Wi9ILCa"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Pedazo de papel",
+      "url": "https://open.spotify.com/track/7wfkddz9GOQwhp4XpnCbUs"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "25 Exitos De Oro",
         "url": "https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 252883,
       "name": "Te vez Buena",
       "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Pedazo de papel",
-        "url": "https://open.spotify.com/album/1HfXPWyVeJyUfE6Wi9ILCa"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Pedazo de papel",
-      "url": "https://open.spotify.com/track/7wfkddz9GOQwhp4XpnCbUs"
     },
     {
       "added_at": "2024-05-17 04:00:00",

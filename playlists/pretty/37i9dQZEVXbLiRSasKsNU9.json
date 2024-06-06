@@ -1,12 +1,12 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1763601,
+  "num_followers": 1763655,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LfJ8GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LfPNmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-06-04 20:03:53",
@@ -230,10 +230,6 @@
         {
           "name": "Mc Leozin",
           "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
       "duration_ms": 123692,

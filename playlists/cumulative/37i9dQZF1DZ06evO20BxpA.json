@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "This is Steven Price. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "description": "This is Steven Price. The essential tracks, all in one playlist.",
   "name": "This Is Steven Price",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 66280,
       "name": "Beauty Turns Men to Beasts",
       "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 211506,
       "name": "Mythical Creatures Follow - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/2QRgLk0yjfdxguI59pUyVk"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 111506,
       "name": "Regeneration - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/6OX1oIfF6RpfYWEeoHLfCl"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 102080,
       "name": "Who Are You Greeting My Love?",
       "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"

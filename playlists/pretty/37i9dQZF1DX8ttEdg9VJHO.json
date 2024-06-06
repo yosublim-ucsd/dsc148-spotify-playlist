@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 353190,
+  "num_followers": 353213,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 190326,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY"
-      },
-      "artists": [
-        {
-          "name": "ELI",
-          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
-        }
-      ],
-      "duration_ms": 173675,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 269538,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY"
+      },
+      "artists": [
+        {
+          "name": "ELI",
+          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
+        }
+      ],
+      "duration_ms": 173675,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "I swear to god",
-        "url": "https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 155187,
-      "name": "I swear to god",
-      "url": "https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+        "name": "I swear to god",
+        "url": "https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
         }
       ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
+      "duration_ms": 155187,
+      "name": "I swear to god",
+      "url": "https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Small Steps",
-        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
-      },
-      "artists": [
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "Small Steps",
-      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Small Steps",
+        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Small Steps",
+      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Keep It Low",
-        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
-      },
-      "artists": [
-        {
-          "name": "Martis",
-          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Keep It Low",
-      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 226946,
       "name": "Nangilima",
       "url": "https://open.spotify.com/track/75eWcdirphZClDeEinSvnp"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Keep It Low",
+        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
+      },
+      "artists": [
+        {
+          "name": "Martis",
+          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Keep It Low",
+      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
     }
   ],
   "unique_name": "Feelgood Pop",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lauren Daigle. Los temas esenciales, todos en una lista.",
-  "num_followers": 357963,
+  "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
+  "num_followers": 357982,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAATQe+GHdZd4+4kKJGqz28y",
+  "snapshot_id": "Zl5ZAAAAAACH7nqu67/IPaNodS5AClhT",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold On To Me",
         "url": "https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 185346,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
     },
     {
       "added_at": null,
@@ -100,25 +100,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 183013,
-      "name": "Look Up Child",
-      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
     },
     {
       "added_at": null,
@@ -139,6 +123,22 @@
       "duration_ms": 316666,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "First",
+      "url": "https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Come Alive (Dry Bones)",
-      "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It (feat. Lauren Daigle)",
         "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
       },
@@ -207,58 +191,6 @@
       "duration_ms": 338194,
       "name": "Believe For It (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Earth (Live)",
-        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 486944,
-      "name": "Peace Be Still - Live",
-      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "Still Rolling Stones",
-      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "To Know Me",
-      "url": "https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo"
     },
     {
       "added_at": null,
@@ -283,6 +215,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "To Know Me",
+      "url": "https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Still Rolling Stones",
+      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O' Lord (Radio Version)",
         "url": "https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy"
       },
@@ -299,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -327,6 +275,38 @@
       "duration_ms": 238026,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA"
     },
     {
       "added_at": null,
@@ -363,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Your Wings",
-      "url": "https://open.spotify.com/track/50xNWlzb3BOyCUgjB2nlv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -395,6 +359,22 @@
       "duration_ms": 225240,
       "name": "Power to Redeem (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Your Wings",
+      "url": "https://open.spotify.com/track/50xNWlzb3BOyCUgjB2nlv8"
     },
     {
       "added_at": null,
@@ -615,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "North Point Music: Beginnings",
-        "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
       "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 250186,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
+      "duration_ms": 241640,
+      "name": "Salt & Light",
+      "url": "https://open.spotify.com/track/2LdbfpQ2gXgD0968RYarlx"
     },
     {
       "added_at": null,
@@ -647,6 +623,26 @@
       "duration_ms": 225760,
       "name": "Wordless - Bonus Track",
       "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "North Point Music: Beginnings",
+        "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
     },
     {
       "added_at": null,

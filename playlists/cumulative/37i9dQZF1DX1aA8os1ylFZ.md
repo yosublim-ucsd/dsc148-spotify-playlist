@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-502 songs - 1 day 2 hr 1 min
+503 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2021-12-16 | 2023-01-13 |
 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2023-01-12 | 2023-09-01 |
 | [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 | 2023-08-24 |  |
-| [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 | 2023-05-08 |  |
+| [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 | 2023-05-08 | 2024-06-06 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-01 | 2023-03-23 |
 | [Motelroom](https://open.spotify.com/track/0emBQxoWVuIZVOhp6Q2fq4) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Motelroom](https://open.spotify.com/album/1XNOwpXeam0cEpuOBGODm9) | 3:41 | 2021-12-16 | 2022-07-29 |
 | [Motelroom](https://open.spotify.com/track/6LVHn4DZxdd3G8RspektRm) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [All That We Are](https://open.spotify.com/album/6O8TYTxtP9MWYGNwTd7MyX) | 3:41 | 2022-07-22 | 2023-01-13 |
@@ -309,6 +309,7 @@
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-03-01 | 2023-03-23 |
 | [Never Need You](https://open.spotify.com/track/2cOIXOqu6Sj7TPjeYLcrF2) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Never Need You](https://open.spotify.com/album/0I8t7ydYrZp0QOZHQKYjel) | 2:23 | 2023-11-09 | 2023-11-21 |
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-08-31 |  |
+| [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 | 2024-06-05 |  |
 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 | 2024-04-18 |  |
 | [NINA](https://open.spotify.com/track/32HIXa1zzJJxfCslCIQ9QK) | [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [NINA](https://open.spotify.com/album/54I14zucBYar1VfmZnNTIa) | 3:09 | 2022-03-25 | 2023-01-13 |
 | [No Fake Love \(with YoungBoy Never Broke Again\)](https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [No Fake Love \(with YoungBoy Never Broke Again\)](https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA) | 2:28 | 2023-09-01 | 2023-11-10 |

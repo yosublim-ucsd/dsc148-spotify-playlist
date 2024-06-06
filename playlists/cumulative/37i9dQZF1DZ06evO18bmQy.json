@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is Djonga. The essential tracks, all in one playlist.",
+  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Djonga",
   "tracks": [
     {
@@ -402,6 +402,28 @@
       "duration_ms": 219466,
       "name": "CORRA",
       "url": "https://open.spotify.com/track/660jt1ifpZZJK6j4g9GX0Q"
+    },
+    {
+      "album": {
+        "name": "Best Seller of Djonga 2 (Instrumentals)",
+        "url": "https://open.spotify.com/album/70LB3oV6djXYDs92mFd97G"
+      },
+      "artists": [
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216061,
+      "name": "Corra - Instrumental",
+      "url": "https://open.spotify.com/track/6n6cuAeadhCd9beluHBAzq"
     },
     {
       "album": {
@@ -1472,7 +1494,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 292881,
       "name": "P\u00f3dio",
       "url": "https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV"
@@ -1948,7 +1970,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 218410,
       "name": "Zero Chances - Ao Vivo",
       "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"

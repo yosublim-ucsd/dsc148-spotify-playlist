@@ -1,12 +1,12 @@
 {
-  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3608,
+  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 3614,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAB/f4g6tzw7WEz6SlE6pRPC",
+  "snapshot_id": "Zl5ZAAAAAAAdkGN2ln4VZWkBrpEvwPa2",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enquanto",
-        "url": "https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 183243,
-      "name": "Enquanto",
-      "url": "https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V\u00caNUS\u2260netuno",
         "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 183380,
       "name": "APOCAL\u00cdPTIKA",
       "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enquanto",
+        "url": "https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 183243,
+      "name": "Enquanto",
+      "url": "https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED"
     },
     {
       "added_at": null,
@@ -891,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECL\u00c9TICO",
-        "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 253884,
-      "name": "Chamo Ela Vem",
-      "url": "https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momento (feat. Luccas Carlos)",
         "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
       },
@@ -939,38 +915,6 @@
       "duration_ms": 202218,
       "name": "Momento (feat. Luccas Carlos)",
       "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "VIDA DE ARTISTA",
-      "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
     },
     {
       "added_at": null,
@@ -1043,6 +987,62 @@
       "duration_ms": 387692,
       "name": "Set Dj Br da Tijuca 4",
       "url": "https://open.spotify.com/track/3xvHrndua7QATZiN34fiD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "VIDA DE ARTISTA",
+      "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ECL\u00c9TICO",
+        "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 253884,
+      "name": "Chamo Ela Vem",
+      "url": "https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tipo Trem Bala",
+        "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 181313,
+      "name": "Tipo Trem Bala",
+      "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Levo Daqui",
         "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
       },
@@ -1179,8 +1199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tipo Trem Bala",
-        "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
+        "name": "Festa na Piscina",
+        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
       },
       "artists": [
         {
@@ -1188,13 +1208,21 @@
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
         }
       ],
-      "duration_ms": 181313,
-      "name": "Tipo Trem Bala",
-      "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
+      "duration_ms": 268085,
+      "name": "Festa na Piscina",
+      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
     },
     {
       "added_at": null,
@@ -1247,34 +1275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Piscina",
-        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 268085,
-      "name": "Festa na Piscina",
-      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Que Vai Ser De Mim",
         "url": "https://open.spotify.com/album/0RF7AQDptSuhkg2Z711xaQ"
       },
@@ -1291,6 +1291,26 @@
       "duration_ms": 225600,
       "name": "O Que Vai Ser De Mim",
       "url": "https://open.spotify.com/track/2RkTX1WTeUS5VLCF20zAos"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ta Bom",
+        "url": "https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ta Bom",
+      "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"
     },
     {
       "added_at": null,
@@ -1327,8 +1347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ta Bom",
-        "url": "https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl"
+        "name": "Time dos Sonhos",
+        "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"
       },
       "artists": [
         {
@@ -1336,13 +1356,29 @@
           "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
+          "name": "MC Charada",
+          "url": "https://open.spotify.com/artist/3dbwE7BndV7CQ3m7XkphXv"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        },
+        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Ta Bom",
-      "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"
+      "duration_ms": 411428,
+      "name": "Time dos Sonhos",
+      "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
     },
     {
       "added_at": null,
@@ -1391,42 +1427,6 @@
       "duration_ms": 354545,
       "name": "SET DJ BR DA TIJUCA 5",
       "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time dos Sonhos",
-        "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"
-      },
-      "artists": [
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "MC Charada",
-          "url": "https://open.spotify.com/artist/3dbwE7BndV7CQ3m7XkphXv"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Fe Ribeiro",
-          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 411428,
-      "name": "Time dos Sonhos",
-      "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
     }
   ],
   "unique_name": "This Is Hyperanhas",

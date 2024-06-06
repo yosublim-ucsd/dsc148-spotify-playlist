@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,607 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,611 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 24 | [Charme](https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 5:44 |
 | 25 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 |
 | 26 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
-| 27 | [Come With Me](https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Cybass](https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p) | [Come With Me](https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7) | 4:17 |
-| 28 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 |
+| 27 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 |
+| 28 | [Come With Me](https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Cybass](https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p) | [Come With Me](https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7) | 4:17 |
 | 29 | [Flame of the Pine Cone \- Spaniol's Blue Note Remix](https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r) | [ITAI](https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Flame of the Pine Cone](https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW) | 6:49 |
 | 30 | [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 |
 | 31 | [Colapso](https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb) | [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6) | [Nocturnal Fear](https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP) | 5:36 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 42 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 |
 | 43 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 |
 | 44 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 |
-| 45 | [Festa](https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 3:58 |
-| 46 | [If I Never See U Again](https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF) | [nørus](https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz) | [Our Spacial Place](https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3) | 7:20 |
+| 45 | [If I Never See U Again](https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF) | [nørus](https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz) | [Our Spacial Place](https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3) | 7:20 |
+| 46 | [Festa](https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 3:58 |
 | 47 | [No Rave](https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9) | [Mootron](https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv) | [Easytiiger\_\_001](https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt) | 6:26 |
 | 48 | [Incarne](https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa) | [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK), [Davis](https://open.spotify.com/artist/5eF6YOSwkaoA4qUp3J6SYc), [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Incarne](https://open.spotify.com/album/4Zg2HeCfAX1Yb6arpZxv3s) | 8:03 |
-| 49 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 |
-| 50 | [High Hopes](https://open.spotify.com/track/6bfBSZ82q0rtngNnK4qVP0) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [The Underground](https://open.spotify.com/album/0tJTczdxdEPDVrlNQepLov) | 4:48 |
+| 49 | [High Hopes](https://open.spotify.com/track/6bfBSZ82q0rtngNnK4qVP0) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [The Underground](https://open.spotify.com/album/0tJTczdxdEPDVrlNQepLov) | 4:48 |
+| 50 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 |
 
 Snapshot ID: `ZU2dZAAAAAADg7ZxM2BkLgmIDYeH2v8k`

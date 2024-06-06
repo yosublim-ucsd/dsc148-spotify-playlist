@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-230 songs - 12 hr 56 min
+231 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 | 2022-05-11 | 2024-03-09 |
 | [Can you stay](https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [Can you stay \(From Semantic Error\)](https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU) | 3:02 | 2023-06-13 | 2024-03-09 |
 | [Can you stay](https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [Can you stay \(From Semantic Error\)](https://open.spotify.com/album/2RBkeoL7bQvL2Ty0p0Uvhq) | 3:02 | 2022-05-11 | 2023-06-04 |
+| [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 | 2024-06-05 |  |
 | [Clear Desk, Reminisce The Past 시험기간 책상정리](https://open.spotify.com/track/5vyoMxPGiaXrYsozWOlRoA) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:41 | 2022-05-11 | 2022-07-09 |
 | [Close to You \(feat\. sunwoojunga\)](https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 2:55 | 2023-02-03 | 2023-05-15 |
 | [Come Close](https://open.spotify.com/track/7nQmQlxomSUbzMK91vLMma) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Come Close](https://open.spotify.com/album/5AjxhleLjnHXeuCsR4IwlX) | 3:23 | 2022-06-20 | 2022-07-28 |
@@ -178,7 +179,7 @@
 | [Some \(feat\. Lil Boi\)](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Some](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) | 3:31 | 2022-05-11 |  |
 | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW) | 3:01 | 2024-03-08 |  |
 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 | 2024-03-08 |  |
-| [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-05-11 |  |
+| [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-05-11 | 2024-06-06 |
 | [Song for you](https://open.spotify.com/track/7KpssobVSCiZRZFaZITSLv) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [The letter.](https://open.spotify.com/album/0mY8uzr0C1JbMQFO6E4f4t) | 3:13 | 2022-05-11 | 2022-07-29 |
 | [Spoiler \(feat\. Limit\)](https://open.spotify.com/track/1Peet7rqBIuwqdAOdOqKDz) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Scène](https://open.spotify.com/album/5FPuHTtKefhfHjypv3YVcQ) | 3:16 | 2022-05-11 | 2022-06-30 |
 | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q) | 3:05 | 2023-05-02 | 2023-10-16 |

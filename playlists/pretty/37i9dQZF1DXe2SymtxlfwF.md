@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 
 > Your essential Max Richter, all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,440 likes - 93 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,514 likes - 93 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 |
 | 2 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 1](https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:33 |
-| 3 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
+| 3 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
 | 4 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 2](https://open.spotify.com/track/4lyY06kGvzvmG6ErToOVLe) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:22 |
 | 5 | [A Catalogue of Afternoons](https://open.spotify.com/track/42c1ppLBsSbUjFNDzYLY10) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Catalogue Of Afternoons](https://open.spotify.com/album/3EmrqoUaH8b96oBjtbwfl5) | 1:50 |
 | 6 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 |

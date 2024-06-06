@@ -1,6 +1,6 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Tanner Adell",
-  "num_followers": 489378,
+  "num_followers": 489466,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2024-06-01 00:49:01",
       "album": {
-        "name": "Light On In The Kitchen",
-        "url": "https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G"
+        "name": "hole in the bottle (with Shania Twain)",
+        "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
       "artists": [
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 212120,
-      "name": "Light On In The Kitchen",
-      "url": "https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm"
+      "duration_ms": 156275,
+      "name": "hole in the bottle (with Shania Twain)",
+      "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
     },
     {
       "added_at": "2024-06-01 00:49:01",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2024-06-01 00:49:01",
       "album": {
-        "name": "hole in the bottle (with Shania Twain)",
-        "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
+        "name": "Light On In The Kitchen",
+        "url": "https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 156275,
-      "name": "hole in the bottle (with Shania Twain)",
-      "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
+      "duration_ms": 212120,
+      "name": "Light On In The Kitchen",
+      "url": "https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm"
     },
     {
       "added_at": "2024-06-01 00:49:01",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-06-01 00:49:01",
       "album": {
-        "name": "Should Have Known Better",
-        "url": "https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c"
-      },
-      "artists": [
-        {
-          "name": "Jessie James Decker",
-          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
-        }
-      ],
-      "duration_ms": 146520,
-      "name": "Should Have Known Better",
-      "url": "https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV"
-    },
-    {
-      "added_at": "2024-06-01 00:49:01",
-      "album": {
         "name": "Come Get Your Wife",
         "url": "https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 222680,
       "name": "Love Go By",
       "url": "https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6"
+    },
+    {
+      "added_at": "2024-06-01 00:49:01",
+      "album": {
+        "name": "Should Have Known Better",
+        "url": "https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        }
+      ],
+      "duration_ms": 146520,
+      "name": "Should Have Known Better",
+      "url": "https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV"
     },
     {
       "added_at": "2024-06-01 00:49:01",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-06-01 00:49:01",
       "album": {
-        "name": "True North / Parking Lot",
-        "url": "https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV"
-      },
-      "artists": [
-        {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx"
-    },
-    {
-      "added_at": "2024-06-01 00:49:01",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 212666,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu"
+    },
+    {
+      "added_at": "2024-06-01 00:49:01",
+      "album": {
+        "name": "True North / Parking Lot",
+        "url": "https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx"
     }
   ],
   "unique_name": "Women of Country",

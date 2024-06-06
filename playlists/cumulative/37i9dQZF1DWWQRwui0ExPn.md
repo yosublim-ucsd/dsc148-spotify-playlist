@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,809 songs - 10 day 18 hr 5 min
+6,810 songs - 10 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3443,7 +3443,7 @@
 | [Lost in Lyon](https://open.spotify.com/track/4zoUYuXrmE5y3VhanFWYlK) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Lost in Lyon](https://open.spotify.com/album/2ucNQ7DGxFEcEnzns1fEdQ) | 2:08 | 2022-11-18 | 2022-12-15 |
 | [Lost in Lyon](https://open.spotify.com/track/5e231EdDLkN8gOKIkQxXHN) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Lost in Lyon](https://open.spotify.com/album/5YzxRD73D1wiAy40rYZCvN) | 2:08 | 2022-09-23 | 2022-11-20 |
 | [Lost in Space](https://open.spotify.com/track/0Ss6tjjEO0l0mR9Z3Td1m0) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Lost in Space](https://open.spotify.com/album/3GobtfT8xI4x2zSIWZBRsP) | 2:48 | 2022-07-01 | 2022-10-14 |
-| [Lost in Space](https://open.spotify.com/track/6uYy46Yaqad9NhwlOlHLpY) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Lost in Space](https://open.spotify.com/album/38pQlrEnjfW6hoUB2ug5dj) | 1:48 | 2024-05-24 | 2024-06-03 |
+| [Lost in Space](https://open.spotify.com/track/6uYy46Yaqad9NhwlOlHLpY) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Lost in Space](https://open.spotify.com/album/38pQlrEnjfW6hoUB2ug5dj) | 1:48 | 2024-05-24 |  |
 | [Lost in the Heart](https://open.spotify.com/track/4X1LvbCS1RQu7dWOya1e3W) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Lost in the Heart](https://open.spotify.com/album/67qbeT9mh3nFOx6aRqykZR) | 2:20 | 2022-11-11 | 2022-12-16 |
 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 | 2024-03-08 |  |
 | [Lost Memori](https://open.spotify.com/track/0dt6qlCNRGKteTduSJQfbe) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Lost Memori](https://open.spotify.com/album/3lxlqpA9fslKODlF7HwNsL) | 3:29 | 2021-12-17 | 2022-07-01 |
@@ -5095,7 +5095,7 @@
 | [Sepia](https://open.spotify.com/track/3j5h3naYislAW6l3wA7Kp7) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Sepia](https://open.spotify.com/album/0I4X1KJPvVFnp4DecelDLW) | 1:45 | 2022-12-16 | 2023-02-11 |
 | [September](https://open.spotify.com/track/7uu7u0v9IOOvDFpab8Yf6t) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Boss Hogg](https://open.spotify.com/album/59CYVZphliSm8ekQ6z1jP5) | 1:46 | 2023-09-29 |  |
 | [Sequoia](https://open.spotify.com/track/0l0qFPzOUeW7wFu8OI5egZ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [ornaut](https://open.spotify.com/artist/0RNomvzbv3GepTSlgM26sv) | [Sequoia](https://open.spotify.com/album/5Ey1VyDMAJTJwa0gssy3pm) | 2:20 | 2023-09-15 | 2024-01-05 |
-| [Serenade](https://open.spotify.com/track/0QZQqs0ieyCslR6IAJD4cc) | [Fourtinz](https://open.spotify.com/artist/6XrTlvliUXeN2VYaWk0euI) | [Serenade](https://open.spotify.com/album/7Lzuxfynj7PdgieomyNdQg) | 1:33 | 2024-02-23 |  |
+| [Serenade](https://open.spotify.com/track/0QZQqs0ieyCslR6IAJD4cc) | [Fourtinz](https://open.spotify.com/artist/6XrTlvliUXeN2VYaWk0euI) | [Serenade](https://open.spotify.com/album/7Lzuxfynj7PdgieomyNdQg) | 1:33 | 2024-02-23 | 2024-06-06 |
 | [Serendipity](https://open.spotify.com/track/7wv5ybUzYXGhig5gVBxpXS) | [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Serendipity](https://open.spotify.com/album/45U8AOR9TUfvNOGri91LnS) | 2:25 | 2021-07-04 | 2022-03-12 |
 | [Serenity](https://open.spotify.com/track/3eAdR9jtvFHQE6qvhrzEXr) | [analogwave](https://open.spotify.com/artist/68kAl0PEp87MJch9snWct0), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Rainy Nights](https://open.spotify.com/album/2pq83TfJ9u6H4PgaXRoEcK) | 2:02 | 2022-09-30 | 2023-01-13 |
 | [Serenity](https://open.spotify.com/track/6mhtXeCxycdmzJYbf1rm7x) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [Serenity](https://open.spotify.com/album/0BqyuXdZ7YgveyRbS2xkVt) | 2:09 | 2020-08-23 | 2021-10-02 |
@@ -5688,7 +5688,7 @@
 | [Sunday Morning](https://open.spotify.com/track/7HmJwO5LDSrQ205Y0Jjsnf) | [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U), [DJ CERK](https://open.spotify.com/artist/2pCYNnHahOmKzXBSATnhG1) | [Sunday Morning](https://open.spotify.com/album/5gCJQhYMIuZecBYLENMAR6) | 2:06 | 2022-11-18 | 2022-12-09 |
 | [sunday morning vibes](https://open.spotify.com/track/4K6aHm8TzVYm55b6bPM6eb) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/5lRvO7AufpEDUZH2uNt2pK) | 1:30 | 2022-03-11 | 2022-07-29 |
 | [sunday morning vibes](https://open.spotify.com/track/5tQ5qokHOPrk0sySwuijrq) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/0az7EHTxxaCsSHzCaZKeJw) | 1:30 | 2022-07-29 | 2022-08-05 |
-| [sunday session](https://open.spotify.com/track/4ESXI7aayDsRnMLL4MZPeG) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [sunday session](https://open.spotify.com/album/5OD1anzL2G04X0eb0sWI3y) | 1:45 | 2024-05-24 |  |
+| [sunday session](https://open.spotify.com/track/4ESXI7aayDsRnMLL4MZPeG) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [sunday session](https://open.spotify.com/album/5OD1anzL2G04X0eb0sWI3y) | 1:45 | 2024-05-24 | 2024-06-06 |
 | [Sunday Swamp](https://open.spotify.com/track/2YiDJMp5tdg2dYjEFqT82S) | [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Sunday Swamp](https://open.spotify.com/album/7AhwSFEkCGp6t6yfcIc8Wk) | 2:49 | 2022-10-14 | 2024-02-16 |
 | [Sunday Travels](https://open.spotify.com/track/41XpM95vesA6FLXijrpInL) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Morning Chirping](https://open.spotify.com/album/45LxdcZfcCZ2GTIBqOvsEC) | 2:24 | 2020-06-23 | 2021-10-02 |
 | [Sunday Vibe](https://open.spotify.com/track/0XCm6GKaDufW9S1LPNOUnI) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Sunday Vibe](https://open.spotify.com/album/0mYQ7K3LkBc53bTrlN9wcm) | 1:40 | 2022-09-30 | 2022-11-20 |
@@ -6409,6 +6409,7 @@
 | [Voyage](https://open.spotify.com/track/42GhletESlrhyhtFkjkf6Q) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Mind Garden](https://open.spotify.com/album/0Z0NSgN7AjR0uquTt0lqK1) | 2:19 | 2019-06-07 | 2020-05-03 |
 | [Voyager I](https://open.spotify.com/track/25KGduR0rSOLrdvzzZ2a0E) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Simplices](https://open.spotify.com/album/5aG0k2DdxV3robs8RhEtrd) | 2:08 | 2022-06-10 | 2022-06-17 |
 | [vuba vuba](https://open.spotify.com/track/7MaoFsEl9mOhTEmmIlrnM2) | [mellan.](https://open.spotify.com/artist/7kLB19gMrkKiS5OOPRiRLt) | [vuba vuba](https://open.spotify.com/album/6wPdenFzDr5aa5CRmLjyPc) | 1:53 | 2022-08-05 | 2022-12-09 |
+| [Vulkán](https://open.spotify.com/track/1HmRdmNEXUJtxQ0Sw2Sa1d) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Vulkán](https://open.spotify.com/album/2BAcDgcs2TDG41gXVkpjg9) | 1:33 | 2024-05-31 |  |
 | [vvvvv](https://open.spotify.com/track/730sSA8L3lWdNdejWdboOn) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci) | [vvvvv](https://open.spotify.com/album/2DwOxRDvGy5s9kzDLKoKq9) | 1:31 | 2022-07-15 | 2022-10-28 |
 | [vwls](https://open.spotify.com/track/0EFAxDTJ8y47Hx1pyRMpdB) | [Amroa](https://open.spotify.com/artist/2AIg9PIc338sj4DkVvCkmb) | [vwls](https://open.spotify.com/album/1CiKCgCGMA3uxVqHzjRWSk) | 1:57 | 2022-09-09 | 2022-11-21 |
 | [vwls](https://open.spotify.com/track/398cP4rSn4eVP9l3QUiVzT) | [Amroa](https://open.spotify.com/artist/2AIg9PIc338sj4DkVvCkmb) | [vwls](https://open.spotify.com/album/54r00HScSMFARkYWbmUo7B) | 1:57 | 2022-11-18 | 2022-12-09 |

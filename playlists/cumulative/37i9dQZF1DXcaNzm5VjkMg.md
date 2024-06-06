@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-115 songs - 7 hr 47 min
+117 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anugerah Terindah Yang Pernah Kumiliki](https://open.spotify.com/track/41OCQS2Mul3MluLUUsfadr) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:28 | 2023-02-03 |  |
 | [Are You My Valentine?](https://open.spotify.com/track/6Z3vBLF6uUfjUCNmgPcuwr) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [Are You My Valentine?](https://open.spotify.com/album/6hnIKTqfvJ2mkmemiaiDnF) | 4:04 | 2023-02-03 | 2023-05-04 |
 | [Bahasa Kalbu](https://open.spotify.com/track/7c98gah3Qah9o76kgkzfrV) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Bahasa Kalbu](https://open.spotify.com/album/4rwf3B24qEi1QgQLz9R1nh) | 5:51 | 2023-02-03 |  |
+| [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 | 2024-06-05 |  |
 | [Benar Orang Bilang](https://open.spotify.com/track/6vHOfjfzvqg5D4HrBe16iT) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Benar Orang Bilang](https://open.spotify.com/album/2M1qUZ2YHHYgthMON0g7al) | 2:55 | 2023-02-03 | 2024-05-09 |
 | [Bentuk Cinta](https://open.spotify.com/track/4J12uL4aNKzRco173fPyYQ) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Cerita](https://open.spotify.com/album/4vaUET4fqubUUtx1TuOfjF) | 4:23 | 2023-02-03 |  |
 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2023-09-12 |  |
@@ -90,6 +91,7 @@
 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 | 2024-05-15 |  |
 | [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 | 2023-06-23 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-02-03 |  |
+| [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 | 2024-06-05 |  |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-02-13 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas \(Original Soundtrack\)](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 | 2023-02-03 |  |
 | [Percaya.](https://open.spotify.com/track/0lTMtrca6Bx8PS1UgldD1r) | [Ivan Gojaya](https://open.spotify.com/artist/7FCcRddXD2jm7nTIEX5S4W), [Agustin Oendari](https://open.spotify.com/artist/1AoG8XhI0jjfx4buab3qqI) | [Percaya.](https://open.spotify.com/album/2Q2TaokFQqWAyCTcp25t4z) | 3:04 | 2023-02-03 | 2024-03-06 |

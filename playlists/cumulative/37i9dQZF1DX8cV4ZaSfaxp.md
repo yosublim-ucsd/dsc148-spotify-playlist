@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Taeha\(태하\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-328 songs - 20 hr 19 min
+329 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Button \- Remastered](https://open.spotify.com/track/4FSxhl9bOTmzcMKAypj7Bb) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 4:02 | 2022-05-11 | 2022-06-28 |
 | [Caffeine](https://open.spotify.com/track/0mkvgFOolIEphzPjRN1xgN) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7EjK4oHHAV8v7hvYAMqfLo) | 3:15 | 2022-05-11 | 2022-07-29 |
 | [Caffeine](https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki) | 3:15 | 2022-07-22 | 2024-04-19 |
+| [Candy Crush](https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 3:00 | 2024-06-05 |  |
 | [Cherries Jubiles](https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:05 | 2022-07-22 | 2024-04-19 |
 | [Cherries Jubiles](https://open.spotify.com/track/5JQeqAohyUPvxTY9cM1SN3) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:05 | 2022-05-11 | 2022-07-29 |
 | [Cherries Jubiles 좋아하고 있어요](https://open.spotify.com/track/6d4KDJHsMbyJHVeGHnu78m) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Cherris Jubiles 좋아하고 있어요](https://open.spotify.com/album/119Uyc0tvV9C9XeCGnijkb) | 4:05 | 2022-05-11 | 2022-07-28 |
@@ -68,7 +69,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E) | 3:39 | 2022-07-22 | 2023-06-04 |
 | [Cherry Blossom](https://open.spotify.com/track/6chkvSijAsVW32AkSZKyza) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/03JBIkmy6FCwDRUX6ToxgB) | 3:39 | 2022-05-11 | 2022-07-29 |
 | [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 | 2022-07-04 |  |
-| [City 1:00](https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 2:26 | 2022-05-11 |  |
+| [City 1:00](https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 2:26 | 2022-05-11 | 2024-06-06 |
 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-11 |  |
 | [City Girl City Boy](https://open.spotify.com/track/6mWRDboiaEyDHFehyjEAPX) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [City Girl City Boy](https://open.spotify.com/album/3cvNrNF9w8NfFbGF4gPw4x) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [City Light](https://open.spotify.com/track/4pVqvBttw55NmUSqishQXH) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [City Light](https://open.spotify.com/album/1tDEBYIEhLQiaru9SQ7S15) | 3:19 | 2022-05-11 | 2022-07-29 |

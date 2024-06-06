@@ -1,13 +1,109 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Norah Hendriks Artwork by Paola Saliby",
-  "num_followers": 210852,
+  "description": "The best new pop music by independent artists and labels. Cover: Peyton McMahon Artwork by Paola Saliby",
+  "num_followers": 210908,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlc1LAAAAAA3XvTWPXyveBmMTeIzLAEt",
+  "snapshot_id": "ZmAoQAAAAABnZ5mETkpAnCRhrIXmEjBv",
   "tracks": [
+    {
+      "added_at": "2024-06-05 08:56:32",
+      "album": {
+        "name": "Fear of the Unknown",
+        "url": "https://open.spotify.com/album/60olbifny6PT6tQ67u0k89"
+      },
+      "artists": [
+        {
+          "name": "Peyton McMahon",
+          "url": "https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ"
+        }
+      ],
+      "duration_ms": 223127,
+      "name": "Fear of the Unknown",
+      "url": "https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy"
+    },
+    {
+      "added_at": "2024-06-05 08:56:32",
+      "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 186827,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F"
+    },
+    {
+      "added_at": "2024-06-05 08:56:32",
+      "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/23d1emidtu5ij25FKWEtxe"
+      },
+      "artists": [
+        {
+          "name": "Gzelle C",
+          "url": "https://open.spotify.com/artist/44Q2SrNWZLqAPbqlwojsJ4"
+        }
+      ],
+      "duration_ms": 154335,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/1kK58GF4QqwnD5px2S1Gcq"
+    },
+    {
+      "added_at": "2024-06-05 08:56:32",
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/5BiFVPU7IMHSDLO9ItJeYD"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        }
+      ],
+      "duration_ms": 179236,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/7HgiJTptTSMYrF9gNAOOnx"
+    },
+    {
+      "added_at": "2024-06-05 08:56:32",
+      "album": {
+        "name": "No Love Story",
+        "url": "https://open.spotify.com/album/50Cus6YoKBaECyhdAmDpIl"
+      },
+      "artists": [
+        {
+          "name": "Maggie Ries",
+          "url": "https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "No Love Story",
+      "url": "https://open.spotify.com/track/4lbyxlocmi3KVFmGdGdOc0"
+    },
+    {
+      "added_at": "2024-06-05 08:56:32",
+      "album": {
+        "name": "Don't Wanna Be Saved",
+        "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 180436,
+      "name": "Don't Wanna Be Saved",
+      "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
+    },
     {
       "added_at": "2024-05-29 13:26:51",
       "album": {
@@ -183,22 +279,6 @@
       "duration_ms": 271475,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/3hCX0yEonCeJxVVO09FMOL"
-      },
-      "artists": [
-        {
-          "name": "Peyton McMahon",
-          "url": "https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ"
-        }
-      ],
-      "duration_ms": 199535,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/0D0bi3xh6KJVmZGf27bKR3"
     },
     {
       "added_at": "2024-05-29 13:26:51",
@@ -755,22 +835,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "What You Wanted",
-        "url": "https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 177803,
-      "name": "What You Wanted",
-      "url": "https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Underwater Bubble Pop",
         "url": "https://open.spotify.com/album/3wpZjWD9ILPNPyaN2A4gKK"
       },
@@ -959,22 +1023,6 @@
       "duration_ms": 189579,
       "name": "Red Sleeves",
       "url": "https://open.spotify.com/track/1Qqdue32M5hZRxrqXtPCbu"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/4etUDQRuWlkbZpGUvGayPe"
-      },
-      "artists": [
-        {
-          "name": "Maggie Ries",
-          "url": "https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4"
-        }
-      ],
-      "duration_ms": 136829,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/7jkLkvAvKIftqUsR4fU6wL"
     },
     {
       "added_at": "2024-05-22 11:00:00",

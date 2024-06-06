@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Siickbrain
 
-2,432 songs - 5 day 8 hr 28 min
+2,433 songs - 5 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1687,6 +1687,7 @@
 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 | 2023-03-10 | 2023-05-13 |
 | [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 | 2024-05-25 |
 | [Rag Doll](https://open.spotify.com/track/2Z9BEKyEfi58oeLUYkreZM) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Rag Doll](https://open.spotify.com/album/4pgWzbgUQmQUNwJpGmu9yY) | 3:18 | 2022-07-08 | 2022-09-03 |
+| [RAINBOWS](https://open.spotify.com/track/0wdjhXjhEdOfX5Jra0sfB3) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:44 | 2024-06-05 |  |
 | [Raincoat](https://open.spotify.com/track/3rINJNnwaopXb1Y9TWhxCD) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Raincoat](https://open.spotify.com/album/3uA7y6MSBtMh16QFaMw43H) | 2:34 | 2024-05-10 |  |
 | [Raise a Glass](https://open.spotify.com/track/1UwpZNg32X1fTcCFBrmNpp) | [LJ Benet](https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb) | [Raise a Glass](https://open.spotify.com/album/37HQhgUUwSX0eqxQ1E54jD) | 3:50 | 2022-01-05 | 2022-03-18 |
 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-08-05 | 2022-09-24 |

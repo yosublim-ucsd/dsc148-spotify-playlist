@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-675 songs - 2 day 14 hr 15 min
+676 songs - 2 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
 | [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-10-27 |  |
 | [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2023-02-08 |
+| [Calypso](https://open.spotify.com/track/7vHf001EyCd2PuII1wrmBV) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Calypso](https://open.spotify.com/album/5DD5RN39R2Xl9j5TpP9fC1) | 4:31 | 2024-05-31 |  |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 | 2024-02-06 |
 | [Candela](https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Candela](https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA) | 6:08 | 2023-07-28 |  |
@@ -572,7 +573,7 @@
 | [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-01-06 | 2023-04-03 |
 | [Supervivencia \- Original Mix](https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n) | [Julian Iannone](https://open.spotify.com/artist/01mHkY7IVrdNlF1KJm1hkQ), [Ramon Bedoya](https://open.spotify.com/artist/7bca0jrEcYw3lqIHQp3wl2) | [Supervivencia](https://open.spotify.com/album/0wAqQzMRN0RIsjYdb27Xs5) | 7:21 | 2021-04-21 | 2022-05-02 |
 | [Surrender](https://open.spotify.com/track/71MpAo1R3xHEZkk50j5JU8) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Surrender](https://open.spotify.com/album/5AKjyc73t13n0crY5Uy57T) | 3:34 | 2022-04-22 | 2022-07-27 |
-| [Sutra](https://open.spotify.com/track/4zE7xIXG4SAWsJJXIkRFYD) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sutra](https://open.spotify.com/album/1ZHiL8Pb2qKdQeDDevehMq) | 4:04 | 2024-04-19 |  |
+| [Sutra](https://open.spotify.com/track/4zE7xIXG4SAWsJJXIkRFYD) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sutra](https://open.spotify.com/album/1ZHiL8Pb2qKdQeDDevehMq) | 4:04 | 2024-04-19 | 2024-06-06 |
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |

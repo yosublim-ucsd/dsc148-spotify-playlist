@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,502 songs - 2 day 21 hr 49 min
+1,503 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,8 @@
 | [MIDNIGHT](https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG) | 2:02 | 2022-05-18 | 2022-05-28 |
 | [Million](https://open.spotify.com/track/4umjgYILQbHyV41ZmaemQm) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:14 | 2021-10-23 | 2022-07-16 |
 | [Million](https://open.spotify.com/track/5Z8YDahqRCzMQRwKZPk5dC) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6t86ndvrKX2Vw5RXdkcxNr) | 2:14 | 2023-03-01 | 2023-03-03 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-03 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-03 | 2024-06-06 |
 | [MiMiMaMaMu](https://open.spotify.com/track/476dvxGAAmX276frToEqcy) | [Exile](https://open.spotify.com/artist/42rZstEQvY674V2GLw50XP), [STOPBAN](https://open.spotify.com/artist/65EH7lOIu7ZCy7Hlynm6Es), [DILBLIN](https://open.spotify.com/artist/4G9g3ebaBdoEKVKNn7t7ra) | [MiMiMaMaMu](https://open.spotify.com/album/4Ygq7DTs7xabVV97WKfAYG) | 3:04 | 2023-05-29 | 2023-07-08 |
 | [Minor](https://open.spotify.com/track/5m5rShfBQk4UpG7vpsEKzf) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [YAMAKASI](https://open.spotify.com/album/6xuT7rum2qqggIhmzyrvFU) | 2:55 | 2021-04-14 | 2021-10-03 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-23 |
@@ -626,7 +627,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2021-11-07 | 2021-11-19 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2021-11-25 | 2022-06-17 |
 | [Saloon](https://open.spotify.com/track/6hoU9YjR1Roq2Zez5qTPWU) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 2:46 | 2022-10-29 | 2022-11-05 |
-| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 | 2024-06-04 |
+| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 |  |
 | [SANTA DADDY](https://open.spotify.com/track/1AHMBgE9uJ5VFObhPxsbCK) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [SANTA DADDY](https://open.spotify.com/album/6FCa38abpdriSzHAxERCur) | 2:10 | 2022-12-24 | 2022-12-29 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2022-01-01 | 2024-01-03 |
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-23 | 2021-05-25 |
@@ -664,7 +665,7 @@
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-20 | 2024-01-22 |
 | [SKINNY](https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:39 | 2024-05-18 | 2024-05-22 |
 | [skyline ryodan](https://open.spotify.com/track/4ststUuYxArgyAl3INmQUg) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [jzxdx](https://open.spotify.com/artist/0ZOhCwxnsNQwEbnHgtXfx7) | [skyline ryodan](https://open.spotify.com/album/2946ME8Qq8jZ0ONyqtSW7a) | 2:00 | 2023-05-27 | 2023-09-27 |
-| [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-03-31 |  |
+| [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-03-31 | 2024-06-06 |
 | [SLEEPKNOT](https://open.spotify.com/track/0bUTovzE275S4sfnJU1DMw) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [SLEEPKNOT](https://open.spotify.com/album/6uGFJwioCBRo5SmLgZFaoD) | 2:02 | 2021-12-12 | 2021-12-19 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2022-01-01 | 2024-01-03 |
 | [Slime Love](https://open.spotify.com/track/36W02sCbiFy6lQTEHCV7Ci) | [uglystephan archive](https://open.spotify.com/artist/4De9u0pfKn6Eu4qSZgDnKZ) | [Slime Love](https://open.spotify.com/album/0CztyGcRJxeiQxekV49lst) | 3:08 | 2021-07-28 | 2021-08-29 |

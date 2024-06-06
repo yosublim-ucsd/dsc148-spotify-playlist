@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 386891,
+  "num_followers": 386893,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,18 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "Miku",
-        "url": "https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL"
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
       },
       "artists": [
         {
-          "name": "Anamanaguchi",
-          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 223124,
-      "name": "Miku",
-      "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
+      "duration_ms": 178000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -503,18 +499,22 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "GRL GVNG",
-        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
+        "name": "Miku",
+        "url": "https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Anamanaguchi",
+          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
-      "duration_ms": 188093,
-      "name": "GRL GVNG",
-      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
+      "duration_ms": 223124,
+      "name": "Miku",
+      "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 178000,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 171240,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "WINTER WITHOUT YOU",
-        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "WINTER WITHOUT YOU",
-      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "Danger Danger",
         "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 152288,
       "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
       "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "WINTER WITHOUT YOU",
+        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "WINTER WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "YW",
         "url": "https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "OKACHIMACHI FRIDAY NIGHT",
         "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
       },
@@ -1327,22 +1311,18 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "GO!!",
-        "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
       "artists": [
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 202093,
-      "name": "GO!!",
-      "url": "https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t"
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1371,6 +1351,42 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
+        "name": "GO!!",
+        "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "GO!!",
+      "url": "https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "\u521d\u604b",
+        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 195657,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
         "name": "RISE TOGETHER",
         "url": "https://open.spotify.com/album/15BXpNu8SXEPh9TVKse4ng"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u521d\u604b",
-        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
+        "name": "Unlucky!!",
+        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 195657,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
+      "duration_ms": 215221,
+      "name": "Unlucky!!",
+      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "Unlucky!!",
-        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 215221,
-      "name": "Unlucky!!",
-      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "Sesame",
         "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
       },
@@ -1459,30 +1459,6 @@
       "duration_ms": 212306,
       "name": "Sesame",
       "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/30Igugtlr2EieiG5Ug24PP"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1S8IvwFCo2f8mWIXHwsXGz"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1555,6 +1531,30 @@
       "duration_ms": 187862,
       "name": "Drink!",
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/30Igugtlr2EieiG5Ug24PP"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1S8IvwFCo2f8mWIXHwsXGz"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u5b9f\u611f",
-        "url": "https://open.spotify.com/album/2UK51SZ1pcCWX4OSKzNcA8"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "\u5b9f\u611f",
-      "url": "https://open.spotify.com/track/4WNEZez1VdU0iCJox2SYDF"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 186926,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "\u5b9f\u611f",
+        "url": "https://open.spotify.com/album/2UK51SZ1pcCWX4OSKzNcA8"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "\u5b9f\u611f",
+      "url": "https://open.spotify.com/track/4WNEZez1VdU0iCJox2SYDF"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "happy im",
-        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "happy im",
-      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
         "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 203011,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "happy im",
+        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "happy im",
+      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
     }
   ],
   "unique_name": "Tokyo Rising",

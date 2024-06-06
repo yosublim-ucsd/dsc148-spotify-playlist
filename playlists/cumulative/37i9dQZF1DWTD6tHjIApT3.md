@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Aimer
 
-2,502 songs - 6 day 16 hr 37 min
+2,503 songs - 6 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1654,6 +1654,7 @@
 | [イケメンタル](https://open.spotify.com/track/1exFPjNa3Kyrod6p2BhAX0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [United Queens](https://open.spotify.com/album/0DBMXQZEOb7fiGQlXlaQ2y) | 2:15 | 2023-08-08 | 2023-08-10 |
 | [イツメン。](https://open.spotify.com/track/6S1fhXHt8tzOhdERyq3Qqa) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [イツメン。](https://open.spotify.com/album/08bOlAZpzJnBoKAsHRvh6H) | 3:00 | 2022-11-03 | 2022-11-30 |
 | [イマジン](https://open.spotify.com/track/4feGdGnL0YIUhEQbiQLhTn) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [イマジン](https://open.spotify.com/album/610DjzHmV6tPQhsZxp4mQN) | 3:56 | 2024-01-30 | 2024-02-07 |
+| [イロドリ](https://open.spotify.com/track/4OqUFJkoUZA7RNtEyvilS1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [イロドリ](https://open.spotify.com/album/2DJBLrJSA045LLJGhtFqgP) | 3:15 | 2024-06-04 |  |
 | [イロノナカ](https://open.spotify.com/track/2DxGYtgOeMvPZwEkRVVMqF) | [久保あおい](https://open.spotify.com/artist/6tQv9pBC2QYU5InvkNoN0k) | [イロノナカ](https://open.spotify.com/album/2aH36W9Ma7mYKewSrZ8esd) | 4:00 | 2024-04-09 | 2024-04-17 |
 | [インスタントジョーク](https://open.spotify.com/track/4DLhoNZw9OR8s0ovueelH8) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [インスタントジョーク / マイラブリー](https://open.spotify.com/album/6OYEgnr0XA0TcNsfmo1NDb) | 3:14 | 2024-01-16 | 2024-01-24 |
 | [インタビュー](https://open.spotify.com/track/28plgD4ChGKy9DD6CJw9Iu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 2:52 | 2022-08-18 | 2022-08-20 |
@@ -1749,7 +1750,7 @@
 | [スタート](https://open.spotify.com/track/1GIsaJcD5PEc2EOLH3ePpy) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [メトロパルス](https://open.spotify.com/album/180vwCyLRoHCw1IsusDz3s) | 4:03 | 2022-12-13 | 2023-01-04 |
 | [スタートライン](https://open.spotify.com/track/6fPqN3CbNZ4w403xlgQeWC) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [スタートライン](https://open.spotify.com/album/0uKDWCzo91Vll8J6XJbhYD) | 3:07 | 2022-09-15 | 2022-09-28 |
 | [スナネコのうた \(feat\. ぷにぷに電機\)](https://open.spotify.com/track/0m2cVkt96dK1av4lFtTeVo) | [NASU ANIMAL KINGDOM](https://open.spotify.com/artist/0mHUJsVSwZpVzse093VBQ3), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [スナネコのうた \(feat\. ぷにぷに電機\)](https://open.spotify.com/album/1NnL96V7evgbpPYTVBQxfw) | 1:51 | 2022-09-20 | 2022-09-28 |
-| [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 | 2023-11-23 |  |
+| [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 | 2023-11-23 | 2024-06-06 |
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2022-05-31 | 2023-02-22 |
 | [スピカ](https://open.spotify.com/track/6KPwP0oNLvpA3rcYubavV6) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [スピカ](https://open.spotify.com/album/168ddXtulEtirTBd5hgj0z) | 4:23 | 2023-02-23 | 2023-03-01 |
 | [スピカ](https://open.spotify.com/track/5rbMpWcf6xIlvWR57XpuK2) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [スピカ](https://open.spotify.com/album/7hFD7KnnT6EhV0XifRYT6N) | 5:23 | 2024-04-23 | 2024-05-08 |

@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "A Cut in a Place",
+        "url": "https://open.spotify.com/album/1OPD0HPegjen9cXTgViZSE"
+      },
+      "artists": [
+        {
+          "name": "Ashbury Heights",
+          "url": "https://open.spotify.com/artist/3rclGaNhwMNMcU2GkN91j9"
+        },
+        {
+          "name": "Madil Hardis",
+          "url": "https://open.spotify.com/artist/5M4jh8kK3nVKRG3FB0qKnI"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300472,
+      "name": "A Cut in a Place",
+      "url": "https://open.spotify.com/track/1YVHHllbkA4t7i8tVSgQvj"
+    },
+    {
+      "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },
@@ -661,6 +683,24 @@
     },
     {
       "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285066,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
+    },
+    {
+      "album": {
         "name": "Agua por el rio",
         "url": "https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio"
       },
@@ -756,6 +796,24 @@
       "duration_ms": 231800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/5OdASXpa3UvbwDXFshJETQ"
+    },
+    {
+      "album": {
+        "name": "Punk Goes Classic Rock",
+        "url": "https://open.spotify.com/album/1D3Oe6Xqu66gBulYtwSoPZ"
+      },
+      "artists": [
+        {
+          "name": "Envy On The Coast",
+          "url": "https://open.spotify.com/artist/6RvruFAgvsAb4B82u8wsSH"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "All Along The Watchtower (Jimi Hendrix cover)",
+      "url": "https://open.spotify.com/track/7DTT3yzroCA7SOGW1wysMR"
     },
     {
       "album": {
@@ -3511,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Como Olvidarte",
+        "url": "https://open.spotify.com/album/735bSTrsVYRTyRvQgTkonO"
+      },
+      "artists": [
+        {
+          "name": "Santi Valencia",
+          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182052,
+      "name": "Como Olvidarte",
+      "url": "https://open.spotify.com/track/4pKZHwUmU3THOsJAPwbmaM"
+    },
+    {
+      "album": {
         "name": "Corte en Tr\u00e1mite",
         "url": "https://open.spotify.com/album/2MVBXkYLJQrkRAjYHMTmfc"
       },
@@ -4596,6 +4672,28 @@
       "duration_ms": 209747,
       "name": "Don't Give Up On Love",
       "url": "https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR"
+    },
+    {
+      "album": {
+        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
+        "url": "https://open.spotify.com/album/6PlQacVc09348OiGAHoEkt"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298480,
+      "name": "Don't Go (feat. Lights)",
+      "url": "https://open.spotify.com/track/7wOInrhCRiWaXdzvQ7oUvN"
     },
     {
       "album": {
@@ -7516,7 +7614,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 171266,
       "name": "Hit Me With Your Best Shot",
       "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
@@ -8175,6 +8273,24 @@
     },
     {
       "album": {
+        "name": "Stand Up And Scream",
+        "url": "https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221186,
+      "name": "I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
+      "url": "https://open.spotify.com/track/5yPvK5HzwTrJNYJUNscZWC"
+    },
+    {
+      "album": {
         "name": "I Will Let You Go",
         "url": "https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV"
       },
@@ -8782,7 +8898,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 41453,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5K0oXdtd3W1M3OjgaaWBk1"
@@ -10681,6 +10797,24 @@
     },
     {
       "album": {
+        "name": "Different Light",
+        "url": "https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Manic Monday",
+      "url": "https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0"
+    },
+    {
+      "album": {
         "name": "Weird Kids",
         "url": "https://open.spotify.com/album/4JSUu9uqvCUXN1q8V7XCsi"
       },
@@ -10908,7 +11042,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/4WcALP7TNQyoxPAYBXDhUW"
@@ -12196,7 +12330,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 225546,
       "name": "Nobody Can Save Me",
       "url": "https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz"
@@ -12556,7 +12690,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 216400,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/1gKmnrz6SzJlGMNRKBLx1V"
@@ -13249,6 +13383,28 @@
     },
     {
       "album": {
+        "name": "The Virgin Suicides (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Gordon Tracks",
+          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Playground Love",
+      "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
+    },
+    {
+      "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/4DoE1Dn71AX9K2QQaqnRdb"
       },
@@ -13830,7 +13986,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 151775,
       "name": "Regret It",
       "url": "https://open.spotify.com/track/6EdSQmDDc8n9jz3bEphwRp"
@@ -14130,7 +14286,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 170426,
       "name": "Ritmo Sideral",
       "url": "https://open.spotify.com/track/1qNWQVlCXwHrP4avM2WzZV"
@@ -14930,7 +15086,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 287146,
       "name": "Sexbomb",
       "url": "https://open.spotify.com/track/2pSy0BEMwzMjCXoroQmlUI"
@@ -15568,6 +15724,24 @@
       "duration_ms": 281413,
       "name": "Somos Mar y Arena",
       "url": "https://open.spotify.com/track/4dnTmXysdcGv01gPyLe0HR"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Somos Tontos No Pesados",
+      "url": "https://open.spotify.com/track/7wd91IeMp8six7kNcb362x"
     },
     {
       "album": {
@@ -16310,7 +16484,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 293293,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2miAut6dp9BWdGmOxwSGEC"
@@ -17014,7 +17188,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 211746,
       "name": "The Commanded",
       "url": "https://open.spotify.com/track/2OVQDDxd2JT3n9hqn7agwI"
@@ -17720,6 +17894,24 @@
       "duration_ms": 250539,
       "name": "The Ransom",
       "url": "https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34"
+    },
+    {
+      "album": {
+        "name": "The Reason (15th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
     },
     {
       "album": {
@@ -18489,6 +18681,24 @@
     },
     {
       "album": {
+        "name": "Tuk Tuk",
+        "url": "https://open.spotify.com/album/1Ej3MhImiYwTWz6HyfpCzg"
+      },
+      "artists": [
+        {
+          "name": "Dogmanjones",
+          "url": "https://open.spotify.com/artist/3LZuWycCqpivjq1GP0TpvT"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168191,
+      "name": "Tuk Tuk",
+      "url": "https://open.spotify.com/track/0nhVVN2PUImbII3dY3F7tz"
+    },
+    {
+      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/3s7abfHktH3ljR7fAXPZPp"
       },
@@ -18998,7 +19208,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 325666,
       "name": "Vermilion - Alternate Mix; U.S. Edit Full Length [U.S. Edit Full Length]",
       "url": "https://open.spotify.com/track/2P3InepiBsZzL9riFWgqql"
@@ -19374,6 +19584,24 @@
       "duration_ms": 151173,
       "name": "Walking Contradiction",
       "url": "https://open.spotify.com/track/2IsDzQIr4Uxmii7m67QBdQ"
+    },
+    {
+      "album": {
+        "name": "Walking in a Vacuum",
+        "url": "https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93"
+      },
+      "artists": [
+        {
+          "name": "test plan",
+          "url": "https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267301,
+      "name": "Walking in a Vacuum",
+      "url": "https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t"
     },
     {
       "album": {
@@ -20166,7 +20394,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 115390,
       "name": "without youuuuuu",
       "url": "https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM"

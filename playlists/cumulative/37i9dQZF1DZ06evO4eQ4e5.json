@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
+  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
   "name": "This Is Edith M\u00e1rquez",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 245920,
       "name": "Cosas del Amor",
       "url": "https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz"
+    },
+    {
+      "album": {
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244280,
+      "name": "Cuando grita la piel",
+      "url": "https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz"
     },
     {
       "album": {
@@ -566,7 +584,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 226440,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 196760,
       "name": "Olv\u00eddalo",
       "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
@@ -710,7 +728,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 204613,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/1hyBatg4EBJtyLQqyiSBFz"

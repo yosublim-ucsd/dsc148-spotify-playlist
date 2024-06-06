@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Check out new and recommended songs from Korea's legendary rock vocalist Kim Kyung-ho! (\ub300\ud55c\ubbfc\uad6d \uc804\uc124\uc801\uc778 \ub85d \ubcf4\uceec \uae40\uacbd\ud638\uc758 \uc2e0\uace1\uacfc \ucd94\ucc9c\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "name": "v o K a l: Kim Kyung Ho Takeover",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Kyung Ho(\uae40\uacbd\ud638)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "name": "v o K a l",
   "tracks": [
     {
       "album": {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 214906,
       "name": "A Flying Butterfly",
       "url": "https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 317318,
       "name": "A story only you and I know (Feat. \uae40\uacbd\ud638)",
       "url": "https://open.spotify.com/track/7243DP3shrEE3QuC1INWSz"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 240740,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1S2yPl9cU7Dh6iU1qcFXBw"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 258308,
       "name": "An Unfinished Song",
       "url": "https://open.spotify.com/track/58yWhSlvdBSB0rZbUO9KyS"
@@ -712,6 +712,24 @@
       "duration_ms": 239667,
       "name": "Around You",
       "url": "https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq"
+    },
+    {
+      "album": {
+        "name": "As always",
+        "url": "https://open.spotify.com/album/6tMA69q44j87tm123uSouo"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "As always",
+      "url": "https://open.spotify.com/track/2vwbkdH4deV947bonfeKI4"
     },
     {
       "album": {
@@ -838,7 +856,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 162586,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 231775,
       "name": "Fall in Fall",
       "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 247544,
       "name": "First Love",
       "url": "https://open.spotify.com/track/4yUoyhDXnBOYdHYo8ybDli"
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 257750,
       "name": "Fly Again",
       "url": "https://open.spotify.com/track/6gSQJHJl4vGncVvEvdBGf5"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 443500,
       "name": "For 2000 Ad (feat. Kim Jong Seo, Yoon Do Hyun, Park Wan Kyu, Jeong Hongil, Yoon Seong Ki & Kwak dong hyun) - 2024 Version",
       "url": "https://open.spotify.com/track/3cE6kIBoERgomJ8SFy8JMh"
@@ -2794,6 +2812,24 @@
       "duration_ms": 160306,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/2mvZNCT457rEgTRvedTiJV"
+    },
+    {
+      "album": {
+        "name": "Glowing Light",
+        "url": "https://open.spotify.com/album/6TSD70PyuuHYCr59KUw3ex"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246002,
+      "name": "Glowing Light",
+      "url": "https://open.spotify.com/track/5lxFv9Aig7R0OZDKbHd0Zb"
     },
     {
       "album": {
@@ -3338,7 +3374,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 218546,
       "name": "I can't forget you",
       "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
@@ -4022,7 +4058,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
@@ -4448,7 +4484,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 207857,
       "name": "Lazenca, Save Us (\uc6b0\ub9ac \ub3d9\ub124 \uc74c\uc545\ub300\uc7a5) (Bonus Track)",
       "url": "https://open.spotify.com/track/0tokbEw27FxVHubsv8ZYN4"
@@ -4700,7 +4736,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 218592,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/5pHYQ1TuV7Ye5WWYcAxFjE"
@@ -4772,7 +4808,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 241640,
       "name": "Looking For Love (Man Ver.)",
       "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
@@ -5394,10 +5430,28 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 297751,
       "name": "Messiah of the fallen angel (Feat. Kim Kyung-ho)",
       "url": "https://open.spotify.com/track/6lZDNTwAn9AAaLAGogIoUv"
+    },
+    {
+      "album": {
+        "name": "Milky Way",
+        "url": "https://open.spotify.com/album/70xMwQrKnp7WZfXZEZPyi3"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/7JQvi6tRsN59p9PRSkoX6g"
     },
     {
       "album": {
@@ -5618,7 +5672,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 174990,
       "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
@@ -5690,7 +5744,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 263946,
       "name": "My own your shape",
       "url": "https://open.spotify.com/track/6RwXNN4mtex2XRN3bKlE1D"
@@ -6286,7 +6340,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -7140,7 +7194,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
@@ -7230,7 +7284,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
@@ -7270,7 +7324,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -7378,7 +7432,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 266986,
       "name": "Such a thing",
       "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
@@ -7432,7 +7486,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 356066,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
@@ -7612,7 +7666,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 593897,
       "name": "The Destruction Of The Shell",
       "url": "https://open.spotify.com/track/62V1fAl9jYjZiXNuxuSoFI"
@@ -8182,7 +8236,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 246720,
       "name": "To. Me",
       "url": "https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e"
@@ -8384,7 +8438,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 3416,
       "name": "voKal_Kim Kyung Ho",
       "url": "https://open.spotify.com/track/3ZljB1BOL6kHZU0O5gNn0w"
@@ -8402,7 +8456,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 4500,
       "name": "voKal_Kim Kyung Ho",
       "url": "https://open.spotify.com/track/3EnUqfVZyac1sDXMN1Hshp"
@@ -9338,7 +9392,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 271626,
       "name": "\uae08\uc9c0\ub41c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/0JtYYcQ330UyNftbi1tM0H"
@@ -9436,7 +9490,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 260838,
       "name": "\ub098\ub97c \uc2ac\ud504\uac8c \ud558\ub294 \uc0ac\ub78c\ub4e4",
       "url": "https://open.spotify.com/track/2p66I5H2IQco9xh6egJjTE"
@@ -9526,7 +9580,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 239480,
       "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
       "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
@@ -9616,7 +9670,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 236693,
       "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
@@ -9742,7 +9796,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 270889,
       "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
       "url": "https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2"
@@ -9796,7 +9850,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 252186,
       "name": "\uc544\ub984\ub2e4\uc6b4 \uad6c\uc18d",
       "url": "https://open.spotify.com/track/5CE7Q33bONpzjgKAjRkDxv"
@@ -9944,7 +9998,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 266292,
       "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"

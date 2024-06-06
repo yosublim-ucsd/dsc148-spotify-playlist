@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mumford & Sons. Los temas esenciales, todos en una lista.",
-  "num_followers": 472245,
+  "description": "This is Mumford & Sons. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 472292,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABDtj3ezLBiB6ZN0RVf4NOz",
+  "snapshot_id": "Zl5ZAAAAAAAsodwcnT1odDBepd/Jzgfi",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 247002,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 217984,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+      "duration_ms": 247002,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
     },
     {
       "added_at": null,

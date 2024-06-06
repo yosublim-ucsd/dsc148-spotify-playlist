@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,155 songs - 1 day 19 hr 52 min
+1,157 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [18+](https://open.spotify.com/track/4usEuG3E0kerFVVaKJizQ3) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Cyan Stroller](https://open.spotify.com/album/3cnALOy7T6USEL8N6Nps4Y) | 1:45 | 2021-11-10 | 2022-06-03 |
 | [19](https://open.spotify.com/track/6p347KMUUvTqTfQmRX8TIk) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [19](https://open.spotify.com/album/6LNUtRzdna1vmq3oGmMuab) | 2:46 | 2022-09-16 | 2023-10-06 |
 | [2 unreal](https://open.spotify.com/track/3UCygC7JAMINFBr2fQL91x) | [heavy tone](https://open.spotify.com/artist/7E4tM3LfCNhRISIXPPprFE) | [2 unreal](https://open.spotify.com/album/61lwGB5uZ3W8FQk233sGHE) | 2:10 | 2021-11-10 | 2022-07-22 |
+| [2.05am](https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [2.05am](https://open.spotify.com/album/2ZN7gvIcWxomdsqecufEWe) | 3:50 | 2024-06-05 |  |
 | [305 sky](https://open.spotify.com/track/3gIJheKHSVrhs5EkxHdNpA) | [Rory Callum](https://open.spotify.com/artist/25DH1fXhuHYG3JDDydqbpY) | [305 sky](https://open.spotify.com/album/3iPp8nXQprbUgcYZP89fKy) | 2:01 | 2021-11-10 | 2022-10-08 |
 | [4am](https://open.spotify.com/track/7rcjGfeuIseoe4fgaP9r78) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [4am](https://open.spotify.com/album/4avUNfmB4btjnI77Bw5t3R) | 2:05 | 2022-11-11 | 2023-08-04 |
 | [5am in cairo](https://open.spotify.com/track/1HO5CGNK9d9zGUXpDAxigN) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:57 | 2022-10-07 | 2022-10-15 |
@@ -445,7 +446,7 @@
 | [Him & Her](https://open.spotify.com/track/6kUwrt8mM8wf0Od8UvoxOa) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Him & Her](https://open.spotify.com/album/0OCVJHGPMUguZzz8jxSiPb) | 1:53 | 2023-07-13 |  |
 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 | 2023-10-20 |  |
 | [Holding Hands](https://open.spotify.com/track/79QzmNjV2Xmei1z4Fdzb1V) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Bouju Beach](https://open.spotify.com/album/5LVeb10gfIZkCK9NdkQSvC) | 2:09 | 2022-06-17 | 2023-04-12 |
-| [holibay](https://open.spotify.com/track/59bssvn3WWvm7n8HlVDOuJ) | [breeze inn](https://open.spotify.com/artist/24KZ9h5aLXhkyzn90D7rVd) | [holibay](https://open.spotify.com/album/0w3CVjCoDg5bKMN80fFQCU) | 1:56 | 2022-01-27 |  |
+| [holibay](https://open.spotify.com/track/59bssvn3WWvm7n8HlVDOuJ) | [breeze inn](https://open.spotify.com/artist/24KZ9h5aLXhkyzn90D7rVd) | [holibay](https://open.spotify.com/album/0w3CVjCoDg5bKMN80fFQCU) | 1:56 | 2022-01-27 | 2024-06-06 |
 | [hollows](https://open.spotify.com/track/1LsBuFMHgiUlXYcH4PT2nv) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [hollows](https://open.spotify.com/album/2S50kPdsCPHNGvUiUeW7A4) | 2:50 | 2021-11-10 | 2022-10-29 |
 | [hollywood](https://open.spotify.com/track/4YRFVSoRT3GFyd0rPaUnhe) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [hollywood](https://open.spotify.com/album/4NvozMjJNnXVtnhEPzKuhp) | 2:25 | 2021-11-10 | 2022-04-08 |
 | [Home](https://open.spotify.com/track/7af9w0uRr13jR1Zg0rgPOp) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Forever Changing](https://open.spotify.com/album/2ShFGMi4aKdIC12sjHeaKr) | 2:50 | 2021-11-10 | 2022-07-22 |
@@ -820,6 +821,7 @@
 | [rainy night](https://open.spotify.com/track/1lKjy0ktW6cm4JLivAAD6K) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Hello Winter '23](https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl) | 1:46 | 2022-12-16 |  |
 | [rainy nights](https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy) | [qchill](https://open.spotify.com/artist/1tHzEsnYvhIY39B3HbDw0E), [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [rainy nights](https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U) | 2:12 | 2022-11-11 |  |
 | [Random Girl](https://open.spotify.com/track/4Gd2D4u0EJvg6FZfyuCLmv) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [True Story](https://open.spotify.com/album/2TOM5h9ZYdaVsKLIhQ3zsf) | 1:46 | 2022-04-22 |  |
+| [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-06-05 |  |
 | [raw paper](https://open.spotify.com/track/09NBdMpEm7J661F6XVo1SD) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [perplexia](https://open.spotify.com/album/0V0tjYfGhwsNCVxBdFPMVy) | 2:03 | 2022-04-08 |  |
 | [re: Remind](https://open.spotify.com/track/6Rx0eHYO4oDp4RNSbYVlSK) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [re: Remind](https://open.spotify.com/album/30XS0l1fSX5bKyOJUFhcX6) | 2:21 | 2022-12-09 | 2023-08-04 |
 | [reality check](https://open.spotify.com/track/3DCxtRl4R8YpLKIZlDRoU9) | [Radiocosmo](https://open.spotify.com/artist/3HvDYPOZuI4QsWFCE6exMf) | [reality check](https://open.spotify.com/album/04GeePvtKH1YtIA4eD9lcw) | 2:09 | 2022-09-02 | 2023-10-06 |
@@ -1103,7 +1105,7 @@
 | [Visions](https://open.spotify.com/track/02yenYooBHpsyauoHBQKIl) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Visions](https://open.spotify.com/album/4HC4zLu973VKZzEATKwmjY) | 1:58 | 2023-05-19 | 2023-11-18 |
 | [Voice of the Mist](https://open.spotify.com/track/5GW0971KKCidCg5Uru7vn2) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH), [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Voice of the Mist](https://open.spotify.com/album/1f7pYlG3FhaBautSgvJwfv) | 2:13 | 2022-11-25 |  |
 | [Voices In My Head](https://open.spotify.com/track/5qcuzoVn3eqQiDPIcSqo6g) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [Voices In My Head](https://open.spotify.com/album/6j2sv5DzZKnZxOgIZgalrY) | 2:20 | 2021-11-10 |  |
-| [Vortex.](https://open.spotify.com/track/3l7UqpS6fuxwkzAyhQPRro) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Vortex.](https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC) | 1:41 | 2022-09-02 |  |
+| [Vortex.](https://open.spotify.com/track/3l7UqpS6fuxwkzAyhQPRro) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Vortex.](https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC) | 1:41 | 2022-09-02 | 2024-06-06 |
 | [Waiting For You](https://open.spotify.com/track/58uuxvsGr3cpFxJrwHAVfQ) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Waiting For You](https://open.spotify.com/album/2KpDhAglVEswhtYXXLupts) | 2:10 | 2022-06-03 | 2022-07-29 |
 | [wake up dream](https://open.spotify.com/track/6KJECUHc9yQfowRBFSLNhA) | [Qushy](https://open.spotify.com/artist/156wti6EEtzclFPBm50lUH) | [wake up dream](https://open.spotify.com/album/2MOuiisV4x9nRhWwOs1F2A) | 2:15 | 2022-06-24 | 2022-10-01 |
 | [Walchensee](https://open.spotify.com/track/3MoTz259DAhWf822rjW0Qb) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Walchensee](https://open.spotify.com/album/1ZAERRi2Ej8VxlFzypJMcL) | 1:59 | 2023-04-20 |  |

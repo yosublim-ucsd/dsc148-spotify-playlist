@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: uju\(우주\)\)
+> New & best K\-Electronic music is here\. \(Cover: RIIZE\)
 
-117 songs - 6 hr 52 min
+119 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 | 2024-04-05 |  |
 | [EGO \(Feat\. June One\)](https://open.spotify.com/track/4tkn2ku7YCNkuiVUEgE1GC) | [swimrabbit](https://open.spotify.com/artist/7klsHI12mBDasOWDaVt5tY), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [EGO/INNOCENCE](https://open.spotify.com/album/2eDQ2WiQ4CwTJzpAcrnst9) | 3:36 | 2024-04-18 | 2024-05-03 |
 | [Eternity](https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Eternity](https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg) | 2:14 | 2024-04-05 |  |
-| [Euphoric Forest](https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy) | [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [Forest](https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs) | 7:04 | 2024-04-05 |  |
+| [Euphoric Forest](https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy) | [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [Forest](https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs) | 7:04 | 2024-04-05 | 2024-06-06 |
 | [Fabulous \- GINJO Remix, Bonus Track](https://open.spotify.com/track/6U2cbwRR7YeNM2H49opI7J) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM) | [iScreaM Vol.30 : To\. X Remixes](https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x) | 4:44 | 2024-04-05 |  |
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/7BtKnsfFs2zXcpIty9mMqP) | 3:45 | 2024-04-05 | 2024-04-19 |
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx) | 3:45 | 2024-04-18 |  |
@@ -67,6 +67,7 @@
 | [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2024-04-05 |  |
 | [Hot Sauce \- Hitchhiker Remix](https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.9 : Hot Sauce Remixes](https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk) | 3:15 | 2024-04-05 |  |
 | [I DON'T CARE](https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [IF U WANT IT](https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr) | 5:40 | 2024-04-05 |  |
+| [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 | 2024-06-05 |  |
 | [INVU \- GINJO Remix](https://open.spotify.com/track/06BJz7zKXR60rv2EM6JpSH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:40 | 2024-04-18 |  |
 | [INVU \- Moon Kyoo Remix](https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 4:11 | 2024-04-18 |  |
 | [INVU \- ZHU Remix](https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:39 | 2024-04-05 | 2024-04-19 |
@@ -75,6 +76,7 @@
 | [Kick It \- Hitchhiker Remix](https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:10 | 2024-04-05 |  |
 | [Kick It \- Valentino Khan Remix](https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:09 | 2024-04-05 |  |
 | [Lift Me Up](https://open.spotify.com/track/2lahORylPr5NKed4le9ODg) | [DUE](https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m) | [Lift Me Up](https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A) | 2:01 | 2024-04-05 |  |
+| [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-06-05 |  |
 | [Los Angeles \- Moksi Remix](https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes](https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb) | 2:59 | 2024-04-05 |  |
 | [Lose You](https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Lose You](https://open.spotify.com/album/7JA5UFGSEQVPlU9yXnZwWw) | 2:37 | 2024-04-05 |  |
 | [Make A Wish \(Birthday Song\) \- Wuki Remix](https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 3:14 | 2024-04-05 |  |
@@ -124,6 +126,6 @@
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2024-04-05 |  |
 | [Wish](https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 5:55 | 2024-04-05 |  |
 | [Worries](https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 7:48 | 2024-04-05 |  |
-| [Young Again](https://open.spotify.com/track/0EQ599Ifl0DBLMcrTvv7Iu) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Young Again](https://open.spotify.com/album/04A2MlzNmWlnAVYCm9lR7f) | 2:53 | 2024-04-05 |  |
+| [Young Again](https://open.spotify.com/track/0EQ599Ifl0DBLMcrTvv7Iu) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Young Again](https://open.spotify.com/album/04A2MlzNmWlnAVYCm9lR7f) | 2:53 | 2024-04-05 | 2024-06-06 |
 
 \*This playlist was first scraped on 2024-04-06. Prior content cannot be recovered.

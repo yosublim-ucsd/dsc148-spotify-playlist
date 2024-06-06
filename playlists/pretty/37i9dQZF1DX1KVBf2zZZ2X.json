@@ -1,6 +1,6 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 47267,
+  "num_followers": 47365,
   "original_name": "Calming Nature Music",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
-        "name": "Vibo Nuovo",
-        "url": "https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Vibo Nuovo",
-      "url": "https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
         "name": "Hommage \u00e0 la for\u00eat",
         "url": "https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200000,
       "name": "drifting (with morning birds)",
       "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
+        "name": "Vibo Nuovo",
+        "url": "https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Vibo Nuovo",
+      "url": "https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
-        "name": "Above The Sea",
-        "url": "https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh"
-      },
-      "artists": [
-        {
-          "name": "Hans Westerstr\u00f6m",
-          "url": "https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Above The Sea",
-      "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
         "name": "Pentode",
         "url": "https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 159808,
       "name": "Pentode",
       "url": "https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
+        "name": "Above The Sea",
+        "url": "https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh"
+      },
+      "artists": [
+        {
+          "name": "Hans Westerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Above The Sea",
+      "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
-        "name": "Morning Calm",
-        "url": "https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC"
-      },
-      "artists": [
-        {
-          "name": "Emil Bod\u00e9n",
-          "url": "https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Morning Calm",
-      "url": "https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 167678,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
+        "name": "Morning Calm",
+        "url": "https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC"
+      },
+      "artists": [
+        {
+          "name": "Emil Bod\u00e9n",
+          "url": "https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Morning Calm",
+      "url": "https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
-        "name": "Dasik\u00f3 Plankt\u00f3n",
-        "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
-      },
-      "artists": [
-        {
-          "name": "Olhans",
-          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Dasik\u00f3 Plankt\u00f3n",
-      "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
         "name": "Hands In The Sky",
         "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
+        "name": "Dasik\u00f3 Plankt\u00f3n",
+        "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
+      },
+      "artists": [
+        {
+          "name": "Olhans",
+          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Dasik\u00f3 Plankt\u00f3n",
+      "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
         "name": "Balcons Verdoyants",
         "url": "https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 205605,
       "name": "Balcons Verdoyants",
       "url": "https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
+        "name": "Noche De Oto\u00f1o",
+        "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Noche De Oto\u00f1o",
+      "url": "https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1447,22 +1463,6 @@
       "duration_ms": 180353,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
-        "name": "Noche De Oto\u00f1o",
-        "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Noche De Oto\u00f1o",
-      "url": "https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
+        "name": "Noruega",
+        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 225019,
+      "name": "Noruega",
+      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
         "name": "By The Window",
         "url": "https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 161124,
       "name": "Giardino Di Corde",
       "url": "https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
-        "name": "Noruega",
-        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 225019,
-      "name": "Noruega",
-      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1675,6 +1675,38 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
+        "name": "Arbores",
+        "url": "https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr"
+      },
+      "artists": [
+        {
+          "name": "Amber Bisa",
+          "url": "https://open.spotify.com/artist/329rG1xMpCkB0hhBUv10CK"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Arbores",
+      "url": "https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
+        "name": "Relaxing Dreams",
+        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 281904,
+      "name": "Relaxing Dreams",
+      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
         "name": "Forest Dreams (432 Hz)",
         "url": "https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ"
       },
@@ -1707,22 +1739,6 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
-        "name": "Arbores",
-        "url": "https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr"
-      },
-      "artists": [
-        {
-          "name": "Amber Bisa",
-          "url": "https://open.spotify.com/artist/329rG1xMpCkB0hhBUv10CK"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Arbores",
-      "url": "https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/6cCeoHK61KUkKWuE06Orel"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 147786,
       "name": "Nova",
       "url": "https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
-        "name": "Relaxing Dreams",
-        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "Relaxing Dreams",
-      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
-        "name": "Hygrometer",
-        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
-      },
-      "artists": [
-        {
-          "name": "Vastos Trofeos",
-          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Hygrometer",
-      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
         "name": "Flying Wireless",
         "url": "https://open.spotify.com/album/5vR779W9Z1GkqQatPy1Ti5"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 253000,
       "name": "Flying Wireless",
       "url": "https://open.spotify.com/track/63EfgFrmklwDHZe6bNQl7Y"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
+        "name": "Hygrometer",
+        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
+      },
+      "artists": [
+        {
+          "name": "Vastos Trofeos",
+          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Hygrometer",
+      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
+        "name": "Angelic Birds",
+        "url": "https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX"
+      },
+      "artists": [
+        {
+          "name": "Inara Rex",
+          "url": "https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Angelic Birds",
+      "url": "https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
         "name": "Winter Lake",
         "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
-        "name": "Softly Now",
-        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
-      },
-      "artists": [
-        {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Softly Now",
-      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
     },
     {
       "added_at": "2024-06-03 10:17:39",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-06-03 10:17:39",
       "album": {
-        "name": "Angelic Birds",
-        "url": "https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX"
-      },
-      "artists": [
-        {
-          "name": "Inara Rex",
-          "url": "https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Angelic Birds",
-      "url": "https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5"
-    },
-    {
-      "added_at": "2024-06-03 10:17:39",
-      "album": {
         "name": "Serene Dream",
         "url": "https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 271384,
       "name": "Serene Dream",
       "url": "https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I"
+    },
+    {
+      "added_at": "2024-06-03 10:17:39",
+      "album": {
+        "name": "Softly Now",
+        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Softly Now",
+      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
     },
     {
       "added_at": "2024-06-03 10:17:39",

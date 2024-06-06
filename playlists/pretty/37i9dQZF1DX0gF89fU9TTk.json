@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 132256,
+  "num_followers": 132286,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Worship: The Remix Project, Vol. 3",
         "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
     },
     {
       "added_at": "2023-02-18 04:35:24",

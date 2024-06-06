@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 235556,
+  "num_followers": 235672,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "20 Valses Instrumentales",
+        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
+      },
+      "artists": [
+        {
+          "name": "Bodas y 15 A\u00f1os",
+          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "20 Valses Instrumentales",
-        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
-      },
-      "artists": [
-        {
-          "name": "Bodas y 15 A\u00f1os",
-          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -455,6 +455,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The Leroy Anderson Collection",
         "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
-      },
-      "artists": [
-        {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
-        }
-      ],
-      "duration_ms": 383933,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 194840,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+      },
+      "artists": [
+        {
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+        }
+      ],
+      "duration_ms": 383933,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
-        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "M\u00e9lissa (de \"Bilitis\")",
-      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "16 Joyas Del New Age",
         "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 228213,
       "name": "Aria on Air",
       "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
+        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "M\u00e9lissa (de \"Bilitis\")",
+      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Die Zauberwelt der Panfl\u00f6te",
-        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
-      },
-      "artists": [
-        {
-          "name": "Edward Simoni",
-          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Gefangenenchor aus \"Nabucco\"",
-      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
         "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Die Zauberwelt der Panfl\u00f6te",
+        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
+      },
+      "artists": [
+        {
+          "name": "Edward Simoni",
+          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Gefangenenchor aus \"Nabucco\"",
+      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
     },
     {
       "added_at": "2020-12-08 19:02:01",

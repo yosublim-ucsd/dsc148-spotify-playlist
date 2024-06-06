@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125980,
+  "num_followers": 125975,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASeBIOewQEyvgQhj6oVzhl6bDOE3As",
+  "snapshot_id": "AAASekUFroztXWTdKi5X+ftA6WYQaF8U",
   "tracks": [
+    {
+      "added_at": "2024-06-05 14:43:56",
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D"
+      },
+      "artists": [
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip"
+    },
     {
       "added_at": "2024-06-04 15:56:28",
       "album": {
@@ -1159,30 +1175,6 @@
       "duration_ms": 178758,
       "name": "BEAMS",
       "url": "https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS"
-    },
-    {
-      "added_at": "2024-03-19 16:52:14",
-      "album": {
-        "name": "Another Light",
-        "url": "https://open.spotify.com/album/246lmuP4COwpbWT4jpDuM8"
-      },
-      "artists": [
-        {
-          "name": "Banaati",
-          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
-        },
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Another Light",
-      "url": "https://open.spotify.com/track/5EwM7BZizrzcJYY3CXLKC0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

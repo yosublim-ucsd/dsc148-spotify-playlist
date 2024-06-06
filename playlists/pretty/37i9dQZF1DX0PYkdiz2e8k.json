@@ -1,6 +1,6 @@
 {
   "description": "POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon",
-  "num_followers": 112783,
+  "num_followers": 112787,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "grave inside my head",
-        "url": "https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk"
-      },
-      "artists": [
-        {
-          "name": "GUTTER",
-          "url": "https://open.spotify.com/artist/4crqbpbdd2bQuRbuWL07RS"
-        },
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 120943,
-      "name": "grave inside my head",
-      "url": "https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "invenc\u00edvel",
         "url": "https://open.spotify.com/album/6cdnMQRkPmCmkXezyeLuJe"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 177597,
       "name": "invenc\u00edvel",
       "url": "https://open.spotify.com/track/7ejU704CmdK5EJzNpTLv14"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "grave inside my head",
+        "url": "https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk"
+      },
+      "artists": [
+        {
+          "name": "GUTTER",
+          "url": "https://open.spotify.com/artist/4crqbpbdd2bQuRbuWL07RS"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 120943,
+      "name": "grave inside my head",
+      "url": "https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK"
     },
     {
       "added_at": "2024-05-31 03:01:00",

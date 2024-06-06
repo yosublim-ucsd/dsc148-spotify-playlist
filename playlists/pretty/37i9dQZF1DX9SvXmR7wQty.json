@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Sarahm\u00e9e",
-  "num_followers": 40844,
+  "num_followers": 40846,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Adieu",
         "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Tout g\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+        "name": "Imad",
+        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         }
       ],
-      "duration_ms": 150029,
-      "name": "Tout g\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+      "duration_ms": 184680,
+      "name": "Si \u00e7a va",
+      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -495,22 +511,6 @@
       "duration_ms": 138585,
       "name": "RSQ3",
       "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Imad",
-        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Si \u00e7a va",
-      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "DLPDA",
+        "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 170946,
+      "name": "YOMB",
+      "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "L'\u00e9cole des Stars",
         "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
       },
@@ -707,22 +727,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "DLPDA",
-        "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
+        "name": "GINGER BOY",
+        "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
       },
       "artists": [
         {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
         },
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 170946,
-      "name": "YOMB",
-      "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
+      "duration_ms": 151410,
+      "name": "Bodyguard",
+      "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -759,46 +779,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "GINGER BOY",
-        "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 151410,
-      "name": "Bodyguard",
-      "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "PCC",
-        "url": "https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "PCC",
-      "url": "https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "47\u00b0",
         "url": "https://open.spotify.com/album/2u1FFQgZEDlhdQtXVqjaw4"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 144001,
       "name": "Double appel",
       "url": "https://open.spotify.com/track/1O8JyjQbRtGDNCaKbyvWPl"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "PCC",
+        "url": "https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "PCC",
+      "url": "https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "RECOMMENCE-MOI",
+        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 272413,
+      "name": "La Diff\u00e9rence",
+      "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Trap House",
         "url": "https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 178574,
       "name": "Trap House",
       "url": "https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "RECOMMENCE-MOI",
-        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 272413,
-      "name": "La Diff\u00e9rence",
-      "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
     },
     {
       "added_at": "2024-05-31 04:00:00",

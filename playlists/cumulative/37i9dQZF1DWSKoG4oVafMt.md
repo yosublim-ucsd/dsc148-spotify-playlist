@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ammy Virk
 
-861 songs - 1 day 22 hr 49 min
+862 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,7 @@
 | [Teri Bewafai](https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Teri Bewafai](https://open.spotify.com/album/32GB0B0w1MC5qOfU9jwzBi) | 3:41 | 2022-11-07 | 2022-12-16 |
 | [Teri Hoi Na Hundi \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/27SnwZ40otkoLWiTTQvZ74) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Akashdeep Sandhu](https://open.spotify.com/artist/56mpW2dC9yQg8BaMRdoMdD) | [Teri Hoi Na Hundi \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/3ZAPmg4nneMGHjDpc9hLtg) | 5:01 | 2023-09-21 |  |
 | [Teri Khair Mangaan](https://open.spotify.com/track/1d5WDpIIi6lxYdKlh2GolI) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deeba Kiran](https://open.spotify.com/artist/3JQr8bw6qBKg1snoIe6cZv) | [Teri Khair Mangaan](https://open.spotify.com/album/6XPN1xzy7xQYYRtRAkkdfO) | 4:10 | 2022-02-11 | 2022-02-19 |
-| [Teri Maa](https://open.spotify.com/track/057455SFTBD3YjrzQtsF4p) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Teri Maa](https://open.spotify.com/album/6xJV3TQrVAX3mrtoLlS1rr) | 3:13 | 2024-04-03 |  |
+| [Teri Maa](https://open.spotify.com/track/057455SFTBD3YjrzQtsF4p) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Teri Maa](https://open.spotify.com/album/6xJV3TQrVAX3mrtoLlS1rr) | 3:13 | 2024-04-03 | 2024-06-06 |
 | [Teri Main Hogayi \- From Tufang](https://open.spotify.com/track/34RZB1JvacxRuV8SY6zYbK) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Teri Main Hogayi \(From Tufang\)](https://open.spotify.com/album/1jsYMVjnjTuMoWqM7d2VNa) | 3:26 | 2023-07-07 | 2024-01-13 |
 | [Teri Meri Gal](https://open.spotify.com/track/5xDHYn57Qo3DQL0kWYguil) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Teri Meri Gal](https://open.spotify.com/album/7cS93JAZcki9VeUz4udf1u) | 2:53 | 2022-12-05 | 2023-01-28 |
 | [Teri Meri Kahani](https://open.spotify.com/track/5ftyuvT3jQotZvo6sJnyce) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Teri Meri Kahani](https://open.spotify.com/album/1xIyxjMzRm9npN8olJlz67) | 2:35 | 2022-07-29 | 2022-08-18 |
@@ -842,6 +842,7 @@
 | [Whenever](https://open.spotify.com/track/4pFDMbftahto1oz8SZx2qQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/4wYzAxoYguNudxzUXPTGtC) | 3:30 | 2023-06-26 | 2024-04-19 |
 | [Whenever](https://open.spotify.com/track/75NrYaibnoCgQZASqWrcYs) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/0sQRiOLXkzvK9b3r1LVZHK) | 3:30 | 2024-04-08 |  |
 | [Whip](https://open.spotify.com/track/3xJwcFXAHXjlNQZOpAa2BQ) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Whip](https://open.spotify.com/album/5GU2aCSt5rdDWYdpEu1h0p) | 3:02 | 2022-06-22 | 2022-07-06 |
+| [Who’s That Girl](https://open.spotify.com/track/1mbDRFQEnfgUHdHs3iBWMC) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 2:58 | 2024-06-05 |  |
 | [Why Cry](https://open.spotify.com/track/4V35lnM3sBuVQYUhm9E5vJ) | [Abhishek Bakhshi](https://open.spotify.com/artist/0XnfQkaJNBwnCCxrusdgAy) | [Patthar](https://open.spotify.com/album/1K8bZd1kecTp2F353DuNCv) | 2:52 | 2022-08-19 | 2022-09-01 |
 | [Why Nachdi Na](https://open.spotify.com/track/3vAuT0b6jFNuS6yylkJWbG) | [Jasbir Jassi](https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3) | [Why Nachdi Na](https://open.spotify.com/album/76rFVsaTmYQcSTKI3H5F83) | 2:27 | 2022-01-17 | 2022-02-01 |
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-21 | 2023-11-08 |

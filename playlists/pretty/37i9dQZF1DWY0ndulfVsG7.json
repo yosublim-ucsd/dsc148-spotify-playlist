@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Melly Goeslaw",
-  "num_followers": 54633,
+  "num_followers": 54662,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "Sheila On 7",
-        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 288706,
-      "name": "Dan...",
-      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
-    },
-    {
-      "added_at": "2024-05-23 13:33:48",
-      "album": {
         "name": "Seperti Seharusnya",
         "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 266306,
       "name": "Separuh Aku",
       "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
+    },
+    {
+      "added_at": "2024-05-23 13:33:48",
+      "album": {
+        "name": "Sheila On 7",
+        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 288706,
+      "name": "Dan...",
+      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
+        "name": "07 Des",
+        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Seberapa Pantas",
+      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
+    },
+    {
+      "added_at": "2024-05-23 13:33:48",
+      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "And the Story Continues...",
-        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 241763,
-      "name": "Takkan Terganti",
-      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
-    },
-    {
-      "added_at": "2024-05-23 13:33:48",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "07 Des",
-        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
+        "name": "And the Story Continues...",
+        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
         }
       ],
-      "duration_ms": 241293,
-      "name": "Seberapa Pantas",
-      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
+      "duration_ms": 241763,
+      "name": "Takkan Terganti",
+      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -303,18 +303,22 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+        "name": "Aku Cinta Kau Dan Dia",
+        "url": "https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF"
       },
       "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        },
         {
           "name": "Dewa 19",
           "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 222029,
-      "name": "Separuh Nafas",
-      "url": "https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv"
+      "duration_ms": 283214,
+      "name": "Aku Cinta Kau Dan Dia",
+      "url": "https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -335,22 +339,34 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "Aku Cinta Kau Dan Dia",
-        "url": "https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF"
+        "name": "OST. 30 Hari Mencari Cinta",
+        "url": "https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB"
       },
       "artists": [
         {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        },
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Melompat Lebih Tinggi",
+      "url": "https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg"
+    },
+    {
+      "added_at": "2024-05-23 13:33:48",
+      "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
         {
           "name": "Dewa 19",
           "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 283214,
-      "name": "Aku Cinta Kau Dan Dia",
-      "url": "https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu"
+      "duration_ms": 222029,
+      "name": "Separuh Nafas",
+      "url": "https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -383,22 +399,6 @@
       "duration_ms": 251454,
       "name": "Terima Kasih Cinta",
       "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
-    },
-    {
-      "added_at": "2024-05-23 13:33:48",
-      "album": {
-        "name": "OST. 30 Hari Mencari Cinta",
-        "url": "https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Melompat Lebih Tinggi",
-      "url": "https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+        "name": "Tak Lekang Oleh Waktu",
+        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
         }
       ],
-      "duration_ms": 274539,
-      "name": "Panah Asmara",
-      "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
+      "duration_ms": 282474,
+      "name": "Demi Cinta",
+      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -483,6 +483,22 @@
       "duration_ms": 273120,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq"
+    },
+    {
+      "added_at": "2024-05-23 13:33:48",
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 274539,
+      "name": "Panah Asmara",
+      "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "Tak Lekang Oleh Waktu",
-        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 282474,
-      "name": "Demi Cinta",
-      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
-    },
-    {
-      "added_at": "2024-05-23 13:33:48",
-      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "Live to Love",
-        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
         }
       ],
-      "duration_ms": 245232,
-      "name": "Jodoh Pasti Bertemu",
-      "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
+      "duration_ms": 235280,
+      "name": "Sekali Ini Saja",
+      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
       },
       "artists": [
         {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 235280,
-      "name": "Sekali Ini Saja",
-      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
+      "duration_ms": 245232,
+      "name": "Jodoh Pasti Bertemu",
+      "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
     },
     {
       "added_at": "2024-05-23 13:33:48",

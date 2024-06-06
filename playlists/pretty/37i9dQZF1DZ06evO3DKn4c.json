@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 33512,
+  "description": "This is Black Alien. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 33540,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAbnHEtVcVCENV8GCACKZkC",
+  "snapshot_id": "Zl5ZAAAAAACfS6lEJ1HA2Ut8yPYFfQQp",
   "tracks": [
     {
       "added_at": null,
@@ -491,42 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "Sangue de Free - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 67576,
-      "name": "1972 (Intro)",
-      "url": "https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crian\u00e7as Selvagens",
         "url": "https://open.spotify.com/album/5KD6a45jKqFqE7HrhcfghS"
       },
@@ -555,6 +519,42 @@
       "duration_ms": 235413,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/3PMXcwMCEcFx5ZmSmUFXSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 67576,
+      "name": "1972 (Intro)",
+      "url": "https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Sangue de Free - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
     },
     {
       "added_at": null,

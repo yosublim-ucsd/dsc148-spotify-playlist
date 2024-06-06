@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Harag\u00e1n y Compa\u00f1\u00eda. Los temas esenciales, todos en una lista.",
-  "num_followers": 31456,
+  "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
+  "num_followers": 31463,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAADVVSBOOcioMG1Gd90btGcT",
+  "snapshot_id": "Zl5ZAAAAAADpEPwSwnTaGAZq6miP8Sxh",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 261503,
-      "name": "En el Coraz\u00f3n No Hay Nada",
-      "url": "https://open.spotify.com/track/4b3DzbDuJ04bWTV79nSUFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Capella, Vol. 2",
         "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 157524,
       "name": "Purgante de Amor",
       "url": "https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 261503,
+      "name": "En el Coraz\u00f3n No Hay Nada",
+      "url": "https://open.spotify.com/track/4b3DzbDuJ04bWTV79nSUFv"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 275266,
-      "name": "Mujer de Hotel",
-      "url": "https://open.spotify.com/track/4e04rx2va5YIQE1s231gi1"
+      "duration_ms": 197044,
+      "name": "La Ultima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2K2ezQeRp5uqmZxZdMrEAJ"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capella, Vol. 2",
-        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 197044,
-      "name": "La Ultima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2K2ezQeRp5uqmZxZdMrEAJ"
+      "duration_ms": 275266,
+      "name": "Mujer de Hotel",
+      "url": "https://open.spotify.com/track/4e04rx2va5YIQE1s231gi1"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Tiempo de Lluvia",
+      "url": "https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock Que Se Comparte",
         "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
@@ -383,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capella, Vol. 2",
-        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+        "name": "Rock Sin Visa, Vol. 5",
+        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
       },
       "artists": [
         {
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 172106,
-      "name": "Tiempo de Lluvia",
-      "url": "https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX"
+      "duration_ms": 264493,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh"
     },
     {
       "added_at": null,
@@ -419,38 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Sin Visa, Vol. 5",
-        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Amor por Nada",
-      "url": "https://open.spotify.com/track/5L2umLhtRL6iZGnZjZuto3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barata y Descont\u00f3n",
         "url": "https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 250011,
       "name": "Barata y Descont\u00f3n",
       "url": "https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Amor por Nada",
+      "url": "https://open.spotify.com/track/5L2umLhtRL6iZGnZjZuto3"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 223468,
-      "name": "Tu Te las Tomaste S\u00f3lo",
-      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delincuentes Con Placa",
         "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 229426,
       "name": "Polic\u00eda Chacal",
       "url": "https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 223468,
+      "name": "Tu Te las Tomaste S\u00f3lo",
+      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 212601,
-      "name": "Tengo un Acoholico en Mi Casa",
-      "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 266890,
       "name": "Aguja en la Ciudad",
       "url": "https://open.spotify.com/track/3RtmmS2IxTLbmOalW5cIk3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 212601,
+      "name": "Tengo un Acoholico en Mi Casa",
+      "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico en Vivo",
-        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 347013,
-      "name": "Nena - En Vivo",
-      "url": "https://open.spotify.com/track/0g0dTi9c09eqbyezuzR1v6"
+      "duration_ms": 183576,
+      "name": "Sue\u00f1os de la Ciudad",
+      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
     }
   ],
   "unique_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",

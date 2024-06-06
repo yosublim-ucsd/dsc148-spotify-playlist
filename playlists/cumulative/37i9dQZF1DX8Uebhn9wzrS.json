@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Autumn View",
+        "url": "https://open.spotify.com/album/7qSc0qmOJB0hmC9qJq9KDo"
+      },
+      "artists": [
+        {
+          "name": "Tune in with Chewie",
+          "url": "https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163310,
+      "name": "Autumn View",
+      "url": "https://open.spotify.com/track/2kXtNcenzTDK3blNt8Bkpu"
+    },
+    {
+      "album": {
         "name": "avant garde",
         "url": "https://open.spotify.com/album/5oYB1uIVN78liVioenI2ro"
       },
@@ -20226,7 +20244,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 171880,
       "name": "Mir\u00f3",
       "url": "https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1"
@@ -29692,7 +29710,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 111546,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM"
@@ -31700,7 +31718,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 132000,
       "name": "Takeabreakalready",
       "url": "https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc"

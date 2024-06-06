@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,105 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,200 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 47 | [Running Water](https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Running Water](https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt) | 4:00 |
 | 48 | [I Just Wanna Dance](https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [I Just Wanna Dance](https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts) | 2:43 |
 | 49 | [Assumptions \- Jengi Remix](https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:06 |
-| 50 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |
-| 51 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
+| 50 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
+| 51 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |
 | 52 | [Hostage](https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hostage](https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G) | 3:28 |
 | 53 | [cracked screen](https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [no sleep in LA](https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe) | 3:32 |
 | 54 | [Not Today](https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Not Today](https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14) | 4:12 |

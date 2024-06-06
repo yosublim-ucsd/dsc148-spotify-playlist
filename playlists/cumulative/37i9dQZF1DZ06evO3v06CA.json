@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 185409,
       "name": "Funny How Time Slips Away",
       "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "I Wrote This Song For You",
+      "url": "https://open.spotify.com/track/6gpaIGuQVDZYPvZaPVtmPl"
+    },
+    {
+      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
@@ -1136,6 +1154,24 @@
       "duration_ms": 147453,
       "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+    },
+    {
+      "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Many A Long And Lonesome Highway",
+      "url": "https://open.spotify.com/track/1SMQpPCS7nDXC0YbQz015u"
     },
     {
       "album": {
@@ -1906,7 +1942,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 29843,
       "name": "SMOKE HOUR II",
       "url": "https://open.spotify.com/track/5tInFhbFRLTM4rFu6yVSJA"
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"

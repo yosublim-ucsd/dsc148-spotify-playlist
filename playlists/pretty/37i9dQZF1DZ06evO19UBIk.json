@@ -1,13 +1,29 @@
 {
-  "description": "This Is The Doors. Los temas esenciales, todos en una lista.",
-  "num_followers": 650300,
+  "description": "This is The Doors. The essential tracks, all in one playlist.",
+  "num_followers": 650401,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAADny36TUN+V1C73phvUM/s7",
+  "snapshot_id": "Zl5ZAAAAAACImwUWnvJlzammMO1Lve46",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
     {
       "added_at": null,
       "album": {
@@ -107,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -123,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -151,6 +167,22 @@
       "duration_ms": 152000,
       "name": "The Crystal Ship",
       "url": "https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
     },
     {
       "added_at": null,
@@ -187,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Soul Kitchen",
+      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riders On The Storm (Fredwreck Remix)",
         "url": "https://open.spotify.com/album/4Amv0hrD1UuVHSnexg1iqP"
       },
@@ -203,22 +251,6 @@
       "duration_ms": 382240,
       "name": "Riders On The Storm - Fredwreck Remix",
       "url": "https://open.spotify.com/track/0RcYEWXtbu4ehdv1tiBOi0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Alabama Song (Whisky Bar)",
-      "url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
     },
     {
       "added_at": null,
@@ -259,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Alabama Song (Whisky Bar)",
+      "url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -271,22 +319,6 @@
       "duration_ms": 259265,
       "name": "The Changeling",
       "url": "https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Soul Kitchen",
-      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
     },
     {
       "added_at": null,
@@ -323,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Been down so Long",
-      "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -351,6 +367,22 @@
       "duration_ms": 212426,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Been down so Long",
+      "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
     },
     {
       "added_at": null,
@@ -403,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -412,9 +444,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Hyacinth House",
-      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
+      "duration_ms": 178306,
+      "name": "Spanish Caravan",
+      "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
     },
     {
       "added_at": null,
@@ -435,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
@@ -444,9 +476,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 178306,
-      "name": "Spanish Caravan",
-      "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
+      "duration_ms": 190200,
+      "name": "Hyacinth House",
+      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
     },
     {
       "added_at": null,
@@ -503,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
       },
       "artists": [
         {
@@ -512,9 +544,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 200266,
-      "name": "Tell All the People",
-      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
+      "duration_ms": 30893,
+      "name": "Yachting (Hyper)",
+      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
     },
     {
       "added_at": null,
@@ -535,38 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Nights of Stone",
-        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 30893,
-      "name": "Yachting (Hyper)",
-      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Summer's Almost Gone",
-      "url": "https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Soft Parade",
         "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
       },
@@ -579,38 +579,6 @@
       "duration_ms": 155493,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "Unhappy Girl",
-      "url": "https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Cars Hiss by My Window",
-      "url": "https://open.spotify.com/track/2Sjez1CwJv8Pz018CxKjWa"
     },
     {
       "added_at": null,
@@ -651,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 175826,
-      "name": "Wishful Sinful",
-      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Town (Live)",
         "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
       },
@@ -679,6 +631,38 @@
       "duration_ms": 96643,
       "name": "Mack The Knife - Live 1968",
       "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Tell All the People",
+      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Summer's Almost Gone",
+      "url": "https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 39229,
       "name": "I Am Troubled - 2019 Remaster",
       "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 175826,
+      "name": "Wishful Sinful",
+      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
     },
     {
       "added_at": null,

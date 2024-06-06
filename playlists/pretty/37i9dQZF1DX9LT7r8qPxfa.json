@@ -1,6 +1,6 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 321458,
+  "num_followers": 321435,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Here Goes Nothing!",
+        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "I'm Afraid I Love You",
+      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Here Goes Nothing!",
-        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "I'm Afraid I Love You",
-      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Can't Stop The Dawn",
-        "url": "https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Sun Bear",
-      "url": "https://open.spotify.com/track/6QwBW6cnRH06QhIi7aZVCf"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 244198,
       "name": "I\u2019ll Still Have Me - Aquilo Remix",
       "url": "https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Can't Stop The Dawn",
+        "url": "https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Sun Bear",
+      "url": "https://open.spotify.com/track/6QwBW6cnRH06QhIi7aZVCf"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "How to Break a Fall",
         "url": "https://open.spotify.com/album/4BdwmZr2Z7T7evaxK3FuAn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 180415,
       "name": "Better and Better",
       "url": "https://open.spotify.com/track/1o24Xqw0n5tQHJqpZDCXp7"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Family Album",
-        "url": "https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD"
-      },
-      "artists": [
-        {
-          "name": "Lia Ices",
-          "url": "https://open.spotify.com/artist/2hy115qI1RfVvSeSvKfZj3"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Family Album",
-      "url": "https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/2VjbYwRMFgUqBidz9hFb3D"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 168175,
       "name": "Power",
       "url": "https://open.spotify.com/track/2kFyCHyFejiVShz10BILgU"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Family Album",
+        "url": "https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD"
+      },
+      "artists": [
+        {
+          "name": "Lia Ices",
+          "url": "https://open.spotify.com/artist/2hy115qI1RfVvSeSvKfZj3"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "Family Album",
+      "url": "https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/3MnInies0fUg0hmzYwELpo"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 313296,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/2WtZ0pGY93BnZfuGVenMb9"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Heavy Head (Keep It Near)",
         "url": "https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 257147,
       "name": "Heavy Head (Keep It Near)",
       "url": "https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/3MnInies0fUg0hmzYwELpo"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 313296,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2WtZ0pGY93BnZfuGVenMb9"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "The Little Dipper",
-        "url": "https://open.spotify.com/album/5PiaITO6fNZudAx6muATEb"
-      },
-      "artists": [
-        {
-          "name": "Career Woman",
-          "url": "https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y"
-        }
-      ],
-      "duration_ms": 229761,
-      "name": "The Little Dipper",
-      "url": "https://open.spotify.com/track/3GhDIsQqR6DCkK9cZ6McTM"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Jesus and Your Living Room Floor",
-        "url": "https://open.spotify.com/album/3fn6jfVVNtogBRyYf38Oe9"
+        "name": "The Little Dipper",
+        "url": "https://open.spotify.com/album/5PiaITO6fNZudAx6muATEb"
       },
       "artists": [
         {
-          "name": "Sloppy Jane",
-          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+          "name": "Career Woman",
+          "url": "https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y"
         }
       ],
-      "duration_ms": 201146,
-      "name": "Party Anthem",
-      "url": "https://open.spotify.com/track/2MdwGmJXbMSL0KJHgYKm6z"
+      "duration_ms": 229761,
+      "name": "The Little Dipper",
+      "url": "https://open.spotify.com/track/3GhDIsQqR6DCkK9cZ6McTM"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1279,6 +1263,22 @@
       "duration_ms": 230066,
       "name": "Garden Dove",
       "url": "https://open.spotify.com/track/3wYl7lRiqN3Z685E7LuA6k"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Jesus and Your Living Room Floor",
+        "url": "https://open.spotify.com/album/3fn6jfVVNtogBRyYf38Oe9"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jane",
+          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Party Anthem",
+      "url": "https://open.spotify.com/track/2MdwGmJXbMSL0KJHgYKm6z"
     },
     {
       "added_at": "2023-10-13 19:48:40",

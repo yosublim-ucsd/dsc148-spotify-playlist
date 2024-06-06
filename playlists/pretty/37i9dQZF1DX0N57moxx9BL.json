@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 150614,
+  "num_followers": 150675,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "The Executioner",
         "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
       },
@@ -535,34 +519,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
       "artists": [
         {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -583,18 +551,34 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -611,6 +595,38 @@
       "duration_ms": 333370,
       "name": "Send Forth Laborers",
       "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Futures",
         "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Real Emotion",
         "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 254866,
       "name": "Balconies",
       "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
-      },
-      "artists": [
-        {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
-        },
-        {
-          "name": "Ryan Kirby",
-          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
-        }
-      ],
-      "duration_ms": 237522,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 253740,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
+      },
+      "artists": [
+        {
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+        },
+        {
+          "name": "Ryan Kirby",
+          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
+        }
+      ],
+      "duration_ms": 237522,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 211906,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Future Golden Age",
-        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
-      },
-      "artists": [
-        {
-          "name": "Fallstar",
-          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Radio (NW Hesh)",
-      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Blood of the Son",
         "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 340000,
       "name": "Blood of the Son",
       "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Future Golden Age",
+        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
+      },
+      "artists": [
+        {
+          "name": "Fallstar",
+          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Radio (NW Hesh)",
+      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "feel nothing.",
-        "url": "https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf"
-      },
-      "artists": [
-        {
-          "name": "Corey Wise",
-          "url": "https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "feel nothing.",
-      "url": "https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/3GXG3VarQFE1fn0RwBGapZ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 234342,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5bzYivepxtHfBzE7tBvUPs"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "feel nothing.",
+        "url": "https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf"
+      },
+      "artists": [
+        {
+          "name": "Corey Wise",
+          "url": "https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "feel nothing.",
+      "url": "https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h"
     },
     {
       "added_at": "2024-05-10 04:01:29",

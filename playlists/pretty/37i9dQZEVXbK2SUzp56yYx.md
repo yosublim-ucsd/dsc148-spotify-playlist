@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [голая](https://open.spotify.com/track/3OT0OE6syV3wS5xSr1jqKc) | [Rozalia](https://open.spotify.com/artist/5YRpAgLPVUfeXtoRMWkj7C) | [голая](https://open.spotify.com/album/0MyBQLvndfcefJULyrPpzV) | 1:46 |
 | 50 | [Droom Groot](https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Droom Groot](https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U) | 3:00 |
 
-Snapshot ID: `LfJ8GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LfPNmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

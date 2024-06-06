@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 2010s.",
-  "num_followers": 579505,
+  "num_followers": 579585,
   "original_name": "10s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-11-15 17:58:11",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+        "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+        "url": "https://open.spotify.com/album/5MxXY7DbFMUiHFTPUabgJJ"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 260004,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+      "duration_ms": 245200,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
+      "url": "https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0"
     }
   ],
   "unique_name": "10s Love Songs",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Jessie Reyez & Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,236 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,269 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 7 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |
 | 8 | [Come Outside](https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7) | 3:18 |
 | 9 | [25 Bricks](https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Asun Eastwood](https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9), [Rvlr Magz](https://open.spotify.com/artist/2UIa4vOV6icoZNqeugaLIv) | [25 Bricks](https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U) | 3:58 |
-| 10 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/3yeSAlkAYcOAEctpmDnGSB), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
+| 10 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
 | 11 | [DaLouIsBack](https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [DaLouIsBack](https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U) | 2:37 |
 | 12 | [Tequila Lemonade](https://open.spotify.com/track/4HAIzOwhlBvR0mT3LDXqtp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Tequila Lemonade](https://open.spotify.com/album/4AyMWs1j2OK25zLosPfMl7) | 3:05 |
 | 13 | [1 into 2](https://open.spotify.com/track/6wz0RnxaTOeQFO9QSek3T5) | [Jellytoofly](https://open.spotify.com/artist/5CiTexZSB5koj9qCPwZwrY) | [Reels 2 Deals \(Vol.1\)](https://open.spotify.com/album/1MOMQucRyYuqg1vQMFh2Rh) | 1:40 |

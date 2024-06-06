@@ -1,13 +1,29 @@
 {
-  "description": "Future K-Pop hits! Cover: TREASURE",
-  "num_followers": 808168,
+  "description": "Future K-Pop hits! Cover: TWS",
+  "num_followers": 808226,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl6dXgAAAADZuB8NB9pxfmhYQSEDtHVV",
+  "snapshot_id": "ZmApEAAAAAAdmgFFZ2iJ9QP5xG50ZcqZ",
   "tracks": [
+    {
+      "added_at": "2024-06-05 09:00:00",
+      "album": {
+        "name": "hey! hey!",
+        "url": "https://open.spotify.com/album/6yGdGCWksLfDes9U81SRkP"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "hey! hey!",
+      "url": "https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC"
+    },
     {
       "added_at": "2024-06-04 04:51:42",
       "album": {
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-05-28 09:34:28",
       "album": {
-        "name": "The 1st Mini Album 'WE UNIS'",
-        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
-      },
-      "artists": [
-        {
-          "name": "UNIS",
-          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "SUPERWOMAN",
-      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
-    },
-    {
-      "added_at": "2024-05-28 09:34:28",
-      "album": {
         "name": "Planet Nine : ISOTROPY",
         "url": "https://open.spotify.com/album/7gwFXZUmeGXQhMimYtujWN"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 164266,
       "name": "Like Magic",
       "url": "https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk"
-    },
-    {
-      "added_at": "2024-05-28 09:34:28",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/41b0hsQwhVkMc3NQcvB0NF"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX"
     }
   ],
   "unique_name": "K-Pop Rising",

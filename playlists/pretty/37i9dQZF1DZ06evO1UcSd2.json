@@ -1,33 +1,13 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 70911,
+  "num_followers": 70916,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABO/HTpRVTIvKTAWHBa9te0",
+  "snapshot_id": "Zl5ZAAAAAADKs0IUnBV97opnA2Ybrb+j",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/5whWBmGn90pVWhexc88Scc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Lo Diria",
-        "url": "https://open.spotify.com/album/068CcwdCGAxiwTCBrgZfTm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Kmill",
-          "url": "https://open.spotify.com/artist/71NWy7AVTtkHMgSJKFmV8e"
-        }
-      ],
-      "duration_ms": 147082,
-      "name": "Quien Lo Diria",
-      "url": "https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eso Es La Riqueza",
         "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 174693,
       "name": "Eso Es La Riqueza",
       "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Lo Diria",
+        "url": "https://open.spotify.com/album/068CcwdCGAxiwTCBrgZfTm"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Kmill",
+          "url": "https://open.spotify.com/artist/71NWy7AVTtkHMgSJKFmV8e"
+        }
+      ],
+      "duration_ms": 147082,
+      "name": "Quien Lo Diria",
+      "url": "https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a"
     },
     {
       "added_at": null,
@@ -575,46 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuanto hay que invertir",
-        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Cuanto Hay Que Invertir",
-      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi 45 (En Vivo)",
         "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
       },
@@ -635,6 +595,82 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belicotas",
+        "url": "https://open.spotify.com/album/6A8vjQalHzuquuXeRVOkUu"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Flako",
+          "url": "https://open.spotify.com/artist/1eQ6mMfISnp987IhbwUlEh"
+        },
+        {
+          "name": "El Ca$h",
+          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
+        },
+        {
+          "name": "Mc Window",
+          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
+        },
+        {
+          "name": "Atirus",
+          "url": "https://open.spotify.com/artist/5mUGcYc3GorwZ8k1dfvsTV"
+        }
+      ],
+      "duration_ms": 210398,
+      "name": "Belicotas",
+      "url": "https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuanto hay que invertir",
+        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Cuanto Hay Que Invertir",
+      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
     },
     {
       "added_at": null,
@@ -731,42 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belicotas",
-        "url": "https://open.spotify.com/album/6A8vjQalHzuquuXeRVOkUu"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Flako",
-          "url": "https://open.spotify.com/artist/1eQ6mMfISnp987IhbwUlEh"
-        },
-        {
-          "name": "El Ca$h",
-          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
-        },
-        {
-          "name": "Mc Window",
-          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
-        },
-        {
-          "name": "Atirus",
-          "url": "https://open.spotify.com/artist/5mUGcYc3GorwZ8k1dfvsTV"
-        }
-      ],
-      "duration_ms": 210398,
-      "name": "Belicotas",
-      "url": "https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Conquista",
         "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 246946,
       "name": "Las Vueltas de la Vida",
       "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 163477,
+      "name": "Conmigo Ya No Cuentas",
+      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
     },
     {
       "added_at": null,
@@ -923,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 163477,
-      "name": "Conmigo Ya No Cuentas",
-      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 163198,
       "name": "El Blontezon",
       "url": "https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 166634,
+      "name": "Francia",
+      "url": "https://open.spotify.com/track/6f40tXp3mcTpSbZAs4vs8b"
     },
     {
       "added_at": null,
@@ -979,34 +995,6 @@
       "duration_ms": 137011,
       "name": "Ay Amigo (En Vivo)",
       "url": "https://open.spotify.com/track/3KeK6yOzzaJS9Mi0Bj9hxw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gente del Este",
-        "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
-      },
-      "artists": [
-        {
-          "name": "Oscar Cortez",
-          "url": "https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        }
-      ],
-      "duration_ms": 186972,
-      "name": "DEL Rojo",
-      "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

@@ -4,7 +4,7 @@
 
 > 
 
-710 songs - 1 day 10 hr 3 min
+713 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bad Day](https://open.spotify.com/track/0NKJVhQtRkLAmJUmPltuuo) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:00 | 2022-12-01 | 2023-04-12 |
 | [Bad Man](https://open.spotify.com/track/5RhZdLHnlX7xnBb2KaofGL) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Bad Man](https://open.spotify.com/album/3hyAgSOD6vYwS1N3tQC3pd) | 2:49 | 2023-01-04 | 2024-03-05 |
 | [Balënci Feet](https://open.spotify.com/track/3V2m7RCXPNi0EFdioIx6g5) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 3:18 | 2022-08-31 | 2023-05-09 |
+| [Band Practice Pt 2\. Ft\. Phonte & Median](https://open.spotify.com/track/5oMCxf5GrRoeJE8UARbOoj) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [The Wonder Years](https://open.spotify.com/album/0SnnejMBMdgkNyS4XqJBL4) | 1:59 | 2024-06-05 |  |
 | [bank account \(with Lil Uzi Vert\)](https://open.spotify.com/track/5BvfdAtqZXGbR3Ub1Bejb6) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:34 | 2023-12-10 |  |
 | [BBY GRL](https://open.spotify.com/track/7fDyrRLIOfnr7ccgNyfm8n) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [BBY GRL](https://open.spotify.com/album/6qqHGDoUtQTV9ib3BRlSb9) | 2:17 | 2022-10-27 | 2023-05-09 |
 | [Bby Pluto](https://open.spotify.com/track/4X8mODoYMS286wauCWV5If) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:40 | 2023-07-12 | 2023-12-14 |
@@ -264,6 +265,7 @@
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 |  |
 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2023-03-21 | 2023-12-14 |
 | [HIDEOUT \(feat\. Fijimacintosh\)](https://open.spotify.com/track/3gauWyhhIKYnKdhROrTRcc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:50 | 2023-01-20 | 2023-04-24 |
+| [High John](https://open.spotify.com/track/55liByWjb2T7j0vohSel10) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Laughing so Hard, it Hurts](https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ) | 2:10 | 2024-06-05 |  |
 | [High Rode Out](https://open.spotify.com/track/2SQYJlliOXGs2hMGZzRQ5i) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 1:46 | 2023-01-03 | 2023-05-09 |
 | [Higher & Flyer](https://open.spotify.com/track/1NsPLOtUGQpGCBLnO86bFy) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:07 | 2023-01-07 | 2023-04-24 |
 | [Hipnotica \(feat\. Trippie Redd, Zelly Ocho\)](https://open.spotify.com/track/5nWnJjAIldZeHEREjwrFan) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 2:44 | 2023-03-11 | 2023-12-14 |
@@ -343,6 +345,7 @@
 | [Levels Vol\. 2](https://open.spotify.com/track/4j8F7ySiiH5wm7vP66n0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 1:51 | 2024-03-04 |  |
 | [Lif3](https://open.spotify.com/track/5CYq30RE6u1z0MXPUGD5tn) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:37 | 2022-11-22 | 2023-05-09 |
 | [Life Is Great](https://open.spotify.com/track/1394EvWgfpb0cHpQWTX4zY) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:25 | 2022-06-10 | 2023-12-14 |
+| [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 | 2024-06-05 |  |
 | [Light It Up](https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:29 | 2023-11-29 | 2024-03-05 |
 | [Like Me \(feat\. Kevin Gates and Stroke tha Don\)](https://open.spotify.com/track/2v2bCAheJHzMGsqT1oxCxp) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Stroke Tha Don](https://open.spotify.com/artist/4GZkKCpdq61U2k0Yeiu00F) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 4:16 | 2022-06-17 | 2023-03-21 |
 | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/track/19DxfiuqUiuAB2QtDkgTPj) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/album/2F3ecFWb26F4F67H1ChUJk) | 2:13 | 2023-02-28 | 2023-05-09 |

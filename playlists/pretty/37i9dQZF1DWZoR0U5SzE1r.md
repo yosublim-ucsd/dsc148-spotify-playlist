@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,022 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,103 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 82 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |
 | 83 | [A Thousand More \- Live](https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y) | 5:59 |
 | 84 | [As the Deer](https://open.spotify.com/track/5XlTnOh6vZQxZY4BHrIp5e) | [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Awaken Love](https://open.spotify.com/album/5uSSpMIa05OUxsuYat8LvG) | 4:43 |
-| 85 | [Maker](https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Live](https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt) | 8:13 |
+| 85 | [Let It Be Known](https://open.spotify.com/track/3bojX1OcJOZwAR1fXcffxV) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:08 |
 | 86 | [The More of You I See](https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:15 |
-| 87 | [Let It Be Known](https://open.spotify.com/track/3bojX1OcJOZwAR1fXcffxV) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:08 |
+| 87 | [Maker](https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Live](https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt) | 8:13 |
 | 88 | [Not One Thing \(feat\. Meredith Mauldin\)](https://open.spotify.com/track/514QrzCj7ESCQbNozP9ueU) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 5:35 |
 | 89 | [Catch the Wind \(Spontaneous\)](https://open.spotify.com/track/3erH1jt2kFCJAXtaScDCe8) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Moments: Mighty Sound](https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3) | 9:49 |
 | 90 | [Upon Him \- Live](https://open.spotify.com/track/2utobW1ZSUCAWYprpSWArd) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Let There Be Wonder \(Live\)](https://open.spotify.com/album/3Etp5gtUAjoxlincRcFrih) | 4:58 |

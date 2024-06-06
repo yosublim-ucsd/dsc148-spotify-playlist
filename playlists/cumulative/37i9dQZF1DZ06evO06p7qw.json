@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
+  "description": "This Is Manuel Medrano. Los temas esenciales, todos en una lista.",
   "name": "This Is Manuel Medrano",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 225838,
       "name": "Bajo El Agua",
       "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 183422,
       "name": "Cielo (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
@@ -144,6 +144,24 @@
       "duration_ms": 235611,
       "name": "Complicidad (feat. Manuel Medrano)",
       "url": "https://open.spotify.com/track/6lah9kMrDgQDcPLgmJfRdG"
+    },
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195778,
+      "name": "Cuando Te Pensaba",
+      "url": "https://open.spotify.com/track/2I09Co8RN3FnUjz8dp1ier"
     },
     {
       "album": {
@@ -220,7 +238,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 187375,
       "name": "El Swing De La Propuesta",
       "url": "https://open.spotify.com/track/6kKv0GKLaBCvB021uBNhDL"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 183926,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
@@ -698,7 +716,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 221606,
       "name": "Sin Saber Por Qu\u00e9",
       "url": "https://open.spotify.com/track/6BnRwKaF2bRuA3bbrPjBJg"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 190605,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 252447,
       "name": "A Tale of Us",
       "url": "https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 207307,
       "name": "Maling Panahon",
       "url": "https://open.spotify.com/track/1YPIUdTByuxklKaTiNlVaN"
@@ -1408,6 +1408,24 @@
       "duration_ms": 232320,
       "name": "Marikit Sa Dilim",
       "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
+    },
+    {
+      "album": {
+        "name": "Mas Gusto Kita",
+        "url": "https://open.spotify.com/album/1Tqdtyo89IGVfIQA5fCMDB"
+      },
+      "artists": [
+        {
+          "name": "Yden",
+          "url": "https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202641,
+      "name": "Mas Gusto Kita",
+      "url": "https://open.spotify.com/track/0Fz4n1CHMWRoJOViHFKCXV"
     },
     {
       "album": {
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 147916,
       "name": "Napagod Na",
       "url": "https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4"
@@ -1714,6 +1732,24 @@
       "duration_ms": 166569,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/5d9QunA2YMB6gKQ65fE8cs"
+    },
+    {
+      "album": {
+        "name": "Oh, Giliw",
+        "url": "https://open.spotify.com/album/7naEAFv60JMoihI6OABet9"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Oh, Giliw",
+      "url": "https://open.spotify.com/track/5oV4B6QECdCASfEfElcIQA"
     },
     {
       "album": {
@@ -1941,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Pauwi Na 'Ko (Dito Ka Na Lang)",
+        "url": "https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230005,
+      "name": "Pauwi Na 'Ko (Dito Ka Na Lang)",
+      "url": "https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq"
+    },
+    {
+      "album": {
         "name": "PLANETA",
         "url": "https://open.spotify.com/album/4X8lD1CYW5tonDqQ9iUTSc"
       },
@@ -1992,6 +2046,28 @@
       "duration_ms": 135860,
       "name": "pwede ba kitang ligawan?",
       "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
+    },
+    {
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/1YoZaseeQUSZ16qgD8qAet"
+      },
+      "artists": [
+        {
+          "name": "apl.de.ap",
+          "url": "https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt"
+        },
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/4JZocgyzKHdRF0iSOcodJn"
     },
     {
       "album": {
@@ -2384,10 +2460,46 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 210000,
       "name": "Tequila Rose",
       "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
+    },
+    {
+      "album": {
+        "name": "DRUGS",
+        "url": "https://open.spotify.com/album/5g7qNOVyfZA3sZIFIcb6ia"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164419,
+      "name": "Thug",
+      "url": "https://open.spotify.com/track/0PTYkBpalg3l8p3ABlfVNE"
+    },
+    {
+      "album": {
+        "name": "Thanks For Everything",
+        "url": "https://open.spotify.com/album/2x4KmypZUlBJ7YYsKYeYnr"
+      },
+      "artists": [
+        {
+          "name": "Mayonnaise",
+          "url": "https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/2dLNWQzhAn3w9iBUVnXZb3"
     },
     {
       "album": {
@@ -2540,7 +2652,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 212943,
       "name": "Yoko Na",
       "url": "https://open.spotify.com/track/6SIaYQUPOJpO8XFWeTl5dC"

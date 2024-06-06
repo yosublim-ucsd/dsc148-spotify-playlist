@@ -1,6 +1,6 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 114790,
+  "num_followers": 114875,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "How Much Can You Take",
+        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
+      },
+      "artists": [
+        {
+          "name": "M.C. A.D.E.",
+          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "How Much Can You Take?",
+      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "Sweet And Short",
         "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
       },
@@ -839,38 +855,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "How Much Can You Take",
-        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
       "artists": [
         {
-          "name": "M.C. A.D.E.",
-          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
         }
       ],
-      "duration_ms": 202866,
-      "name": "How Much Can You Take?",
-      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Ce n'est q'un d\u00e9but (Remastered)",
-        "url": "https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs"
-      },
-      "artists": [
-        {
-          "name": "Alexander Robotnick",
-          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
-        },
-        {
-          "name": "Martine Michellod",
-          "url": "https://open.spotify.com/artist/7pIXHr4dSVcJmi6a4LOIZE"
-        }
-      ],
-      "duration_ms": 270008,
-      "name": "Probl\u00e8mes d'Amour",
-      "url": "https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9"
+      "duration_ms": 221600,
+      "name": "Needle to the Groove",
+      "url": "https://open.spotify.com/track/1K73A7cn70zjKqmdAR8PSl"
     }
   ],
   "unique_name": "808 Classics",

@@ -1,13 +1,33 @@
 {
-  "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49497,
+  "description": "This Is Hayley Kiyoko. Los temas esenciales, todos en una lista.",
+  "num_followers": 49501,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAnVa+bhczV+MAerZCXtVlG",
+  "snapshot_id": "Zl5ZAAAAAAD6pQYz11YrzfRhxtQiHx9H",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cherry (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 152511,
+      "name": "Cherry (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
+    },
     {
       "added_at": null,
       "album": {
@@ -63,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 157685,
-      "name": "for the girls",
-      "url": "https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
       },
@@ -99,6 +103,22 @@
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
     },
     {
       "added_at": null,
@@ -135,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
@@ -183,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
@@ -195,22 +215,6 @@
       "duration_ms": 233893,
       "name": "Sleepover",
       "url": "https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 185995,
-      "name": "sugar at the bottom",
-      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
     },
     {
       "added_at": null,
@@ -247,38 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 214463,
-      "name": "found my friends",
-      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Too Sensitive For This Shit",
         "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
       },
@@ -295,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "somewhere between the sand and the stardust",
         "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
       },
@@ -307,22 +295,6 @@
       "duration_ms": 210918,
       "name": "somewhere between the sand and the stardust",
       "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Wanna Be Missed",
-      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
     },
     {
       "added_at": null,
@@ -367,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Wanna Be Missed",
+      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
@@ -379,22 +367,6 @@
       "duration_ms": 167433,
       "name": "luna",
       "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "He'll Never Love You (HNLY)",
-      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
     },
     {
       "added_at": null,
@@ -435,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "He'll Never Love You (HNLY)",
+      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
       },
@@ -467,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 191175,
-      "name": "She",
-      "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -495,6 +467,22 @@
       "duration_ms": 235466,
       "name": "One Bad Night",
       "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 191175,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
     },
     {
       "added_at": null,
@@ -515,6 +503,38 @@
       "duration_ms": 154324,
       "name": "Missed Calls (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "well\u2026",
+      "url": "https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
     },
     {
       "added_at": null,
@@ -555,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
         {
@@ -564,15 +584,15 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
+      "duration_ms": 175159,
+      "name": "panorama",
+      "url": "https://open.spotify.com/track/7CM0JwhONajGpNY2a2KIra"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
       "artists": [
         {
@@ -580,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 150787,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM"
+      "duration_ms": 210312,
+      "name": "Feeding the Fire",
+      "url": "https://open.spotify.com/track/2g8GG331WBCnyYp3gVBT94"
     },
     {
       "added_at": null,
@@ -603,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
       },
       "artists": [
         {
@@ -612,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 210312,
-      "name": "Feeding the Fire",
-      "url": "https://open.spotify.com/track/2g8GG331WBCnyYp3gVBT94"
+      "duration_ms": 150787,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM"
     },
     {
       "added_at": null,
@@ -643,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Belle to Remember",
-        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 181587,
-      "name": "Maple",
-      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
@@ -671,6 +675,22 @@
       "duration_ms": 230711,
       "name": "Given It All",
       "url": "https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 181587,
+      "name": "Maple",
+      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
     },
     {
       "added_at": null,

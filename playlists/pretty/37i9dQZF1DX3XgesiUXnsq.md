@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,576 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,654 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 8 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
 | 9 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
 | 10 | [NORTHSIDE](https://open.spotify.com/track/6gGfplhh2VslZlRvWcLNEQ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF) | [Northside](https://open.spotify.com/album/0hLjVlDpKDXTevkmF8AwqW) | 2:50 |
-| 11 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/3yeSAlkAYcOAEctpmDnGSB), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
+| 11 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 |
 | 12 | [How To Rob](https://open.spotify.com/track/7bJ6lqDOQnfHq0V1o8TixL) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [The Madd Rapper](https://open.spotify.com/artist/6Z9xidOHeSY1fdkS5Ioldz) | [Best Of 50 Cent](https://open.spotify.com/album/3Sbt1eefEMSN33HqdhOM3g) | 4:24 |
 | 13 | [Mind Playing Tricks on Me](https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [We Can't Be Stopped](https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4) | 5:08 |
 | 14 | [Define My Name](https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Define My Name](https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu) | 3:10 |

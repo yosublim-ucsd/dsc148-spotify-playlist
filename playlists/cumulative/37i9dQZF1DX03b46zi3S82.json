@@ -5131,6 +5131,24 @@
     },
     {
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/56IoZKAkTuT3ijsKRgSV1D"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141376,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/42hTduGQP9QSjUAeP7Lbno"
+    },
+    {
+      "album": {
         "name": "Slow Movements",
         "url": "https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX"
       },

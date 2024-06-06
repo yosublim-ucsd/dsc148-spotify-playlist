@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 9457,
+  "num_followers": 9467,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAACxmki4Vir5NNhlcO7mCvPk",
+  "snapshot_id": "Zl5ZAAAAAACy2H3H7jVjK44EbcbKPVoH",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+        "name": "More Than Music (Transcendent Worship)",
+        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
       },
       "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 312980,
-      "name": "Only You Satisfy",
-      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
+      "duration_ms": 222380,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/6Aq4dA9I7vSrYq4OMqWrwF"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Music (Transcendent Worship)",
-        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
       "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 222380,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/6Aq4dA9I7vSrYq4OMqWrwF"
+      "duration_ms": 312980,
+      "name": "Only You Satisfy",
+      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Gold (feat. Mercy Chinwo)",
-        "url": "https://open.spotify.com/album/4QP90L3ERwtmYKHlAeGgya"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 338688,
-      "name": "More Than Gold (feat. Mercy Chinwo)",
-      "url": "https://open.spotify.com/track/2IZCXvstPOgnhxAu57cl89"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -439,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+        "name": "More Than Gold (feat. Mercy Chinwo)",
+        "url": "https://open.spotify.com/album/4QP90L3ERwtmYKHlAeGgya"
       },
       "artists": [
         {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 262321,
-      "name": "COME AND SEE",
-      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
+      "duration_ms": 338688,
+      "name": "More Than Gold (feat. Mercy Chinwo)",
+      "url": "https://open.spotify.com/track/2IZCXvstPOgnhxAu57cl89"
     },
     {
       "added_at": null,
@@ -479,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bank Statements",
-        "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
       },
       "artists": [
         {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
         },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 265168,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
+      "duration_ms": 262321,
+      "name": "COME AND SEE",
+      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
       "duration_ms": 504108,
       "name": "My Lover - Live",
       "url": "https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bank Statements",
+        "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
+      },
+      "artists": [
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 265168,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 220265,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/1LLNos2Ev8dPehkESiwNZn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amaram Onyewem (Live)",
         "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 220265,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/1LLNos2Ev8dPehkESiwNZn"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 266140,
-      "name": "My Responsibility",
-      "url": "https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Father",
         "url": "https://open.spotify.com/album/5k84qngUSbyctnYupuRAyI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 331388,
       "name": "Good Father",
       "url": "https://open.spotify.com/track/0yJHx5EKGIoJ7E5fJjyvWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 266140,
+      "name": "My Responsibility",
+      "url": "https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc"
     },
     {
       "added_at": null,

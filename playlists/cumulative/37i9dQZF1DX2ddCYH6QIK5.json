@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: LoSin, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: FRIEDRICH, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 234081,
       "name": "A Little Lost",
       "url": "https://open.spotify.com/track/0X1vcEkmxMvFUS8xfmy4GL"
@@ -4780,7 +4780,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 220047,
       "name": "Don't Buy It",
       "url": "https://open.spotify.com/track/1mq7jqyw8Tdw2VBl24syXD"
@@ -6733,6 +6733,28 @@
     },
     {
       "album": {
+        "name": "Frankenstein & Cinderella",
+        "url": "https://open.spotify.com/album/4kZ4prtkxDYS7IRcTasApv"
+      },
+      "artists": [
+        {
+          "name": "Kiksio",
+          "url": "https://open.spotify.com/artist/3bJz2GHDJ6SFRAJlX4uCMG"
+        },
+        {
+          "name": "Skili",
+          "url": "https://open.spotify.com/artist/04rFSfbOzAuoaDSikfpkeM"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Frankenstein & Cinderella",
+      "url": "https://open.spotify.com/track/7BzX987kOARQpMWbwAM2cU"
+    },
+    {
+      "album": {
         "name": "Fresh Ownder",
         "url": "https://open.spotify.com/album/1EFmBKBuSMIjIKaHxP3j1U"
       },
@@ -8124,7 +8146,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 181687,
       "name": "heimfahren (steuerfrei)",
       "url": "https://open.spotify.com/track/3GIOhdxqWwkcjmnNaSa3Qi"
@@ -10861,6 +10883,24 @@
     },
     {
       "album": {
+        "name": "Lieben und Zerst\u00f6ren",
+        "url": "https://open.spotify.com/album/5CJVwptBouh4Vt8Jmfy8vY"
+      },
+      "artists": [
+        {
+          "name": "FRIEDRICH",
+          "url": "https://open.spotify.com/artist/4oZOjbIPQRgnjvtMhGYU2c"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221299,
+      "name": "Lieben und Zerst\u00f6ren",
+      "url": "https://open.spotify.com/track/1ghCtU5zL5wVNuB2mj227i"
+    },
+    {
+      "album": {
         "name": "Liebesbriefe",
         "url": "https://open.spotify.com/album/75WcHRxhZRy1zGlzoRTeFa"
       },
@@ -11600,6 +11640,24 @@
       "duration_ms": 134244,
       "name": "Mein derzeitiges Leben in Kurzform",
       "url": "https://open.spotify.com/track/0xr2QqkYP5Nb8l5naWyQfn"
+    },
+    {
+      "album": {
+        "name": "Mein Kummer Ist Anders",
+        "url": "https://open.spotify.com/album/2GLlbh4VYko1AjZcQ7046M"
+      },
+      "artists": [
+        {
+          "name": "LLES",
+          "url": "https://open.spotify.com/artist/57zhlHV7X2NuPiiM3bsRqt"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123380,
+      "name": "Mein Kummer Ist Anders",
+      "url": "https://open.spotify.com/track/1anNCWkPsNzTlZWozahSxX"
     },
     {
       "album": {
@@ -16748,7 +16806,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 159207,
       "name": "Spiegel",
       "url": "https://open.spotify.com/track/3fBtHpo38El3GynEYL9XTZ"
@@ -19196,6 +19254,24 @@
       "duration_ms": 153887,
       "name": "Verlierer",
       "url": "https://open.spotify.com/track/5AB3MVHFVMqEK1OSMdeXxv"
+    },
+    {
+      "album": {
+        "name": "vermis",
+        "url": "https://open.spotify.com/album/4bHNkhRUd2Mu5yc0UxeWlE"
+      },
+      "artists": [
+        {
+          "name": "westermann",
+          "url": "https://open.spotify.com/artist/3CpxEgAzIvRyjyzRM8pWAc"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445081,
+      "name": "vermis",
+      "url": "https://open.spotify.com/track/7LlnGj6eWF37IaJKOuZmfH"
     },
     {
       "album": {

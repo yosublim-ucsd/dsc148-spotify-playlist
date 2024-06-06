@@ -1,6 +1,6 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 720504,
+  "num_followers": 720619,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "30th Anniversary",
-        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261146,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 257920,
       "name": "Magdalena, Mi Amor (Quimbara)",
       "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "30th Anniversary",
+        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
         }
       ],
-      "duration_ms": 267693,
-      "name": "Hoy Quiero Confesar",
-      "url": "https://open.spotify.com/track/5I3skDSMEYBLhKQBBkGIyF"
+      "duration_ms": 253266,
+      "name": "Sue\u00f1o Contigo",
+      "url": "https://open.spotify.com/track/211kE9JH4gEvvyaZAuz6wC"
     },
     {
       "added_at": "2023-10-19 19:33:14",

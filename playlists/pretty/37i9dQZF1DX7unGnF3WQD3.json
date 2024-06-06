@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 77201,
+  "num_followers": 77242,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 209415,
       "name": "TULUM",
       "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Adi\u00f3s Amor / Oye Mujer",
-        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 407573,
-      "name": "Adi\u00f3s Amor / Oye Mujer",
-      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Tus Mentiras",
         "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 253857,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "Adi\u00f3s Amor / Oye Mujer",
+        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 407573,
+      "name": "Adi\u00f3s Amor / Oye Mujer",
+      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 350760,
+      "name": "Amor de Madre",
+      "url": "https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
         "name": "Felic\u00edtalo",
         "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 186226,
       "name": "Felic\u00edtalo",
       "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 350760,
-      "name": "Amor de Madre",
-      "url": "https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "La Amante",
-        "url": "https://open.spotify.com/album/5QkNCgBdG30U0yRRHOolPq"
-      },
-      "artists": [
-        {
-          "name": "Grupo 5",
-          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        }
-      ],
-      "duration_ms": 229407,
-      "name": "La Culebritica",
-      "url": "https://open.spotify.com/track/5XnvzXPcvukZZI3woD08Fc"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Serie Fiesta",
         "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "La Amante",
+        "url": "https://open.spotify.com/album/5QkNCgBdG30U0yRRHOolPq"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        }
+      ],
+      "duration_ms": 229407,
+      "name": "La Culebritica",
+      "url": "https://open.spotify.com/track/5XnvzXPcvukZZI3woD08Fc"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "El Final De Nuestra Historia",
-        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
         }
       ],
-      "duration_ms": 235853,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1251,18 +1231,22 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+        "name": "El Final De Nuestra Historia",
+        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
       "artists": [
         {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
         }
       ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
+      "duration_ms": 235853,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1279,6 +1263,22 @@
       "duration_ms": 196637,
       "name": "Cumbia Yemaya",
       "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Tuyo Siempre",
-        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Tuyo Siempre",
-      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Yo Quiero Chupar / Solo Exitos",
         "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 215524,
       "name": "Yo Quiero Chupar",
       "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
     },
     {
       "added_at": "2024-05-31 15:35:40",

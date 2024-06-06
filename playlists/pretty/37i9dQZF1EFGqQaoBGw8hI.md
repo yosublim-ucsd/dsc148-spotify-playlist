@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,778 likes - 575 songs - 1 day 16 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,779 likes - 575 songs - 1 day 16 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,8 +185,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 175 | [Runaway Train](https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:22 |
 | 176 | [Whispers](https://open.spotify.com/track/3LT82gwyObsF1vpOVpJcMR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:26 |
 | 177 | [Sixty Years On \- Album Edit](https://open.spotify.com/track/4SOuQPxWb4Bddwj4bLb8Hd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:35 |
-| 178 | [\(Gotta Get A\) Meal Ticket](https://open.spotify.com/track/5jMHhjn0ijWcz1WapsnoHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:01 |
-| 179 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
+| 178 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
+| 179 | [\(Gotta Get A\) Meal Ticket](https://open.spotify.com/track/5jMHhjn0ijWcz1WapsnoHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:01 |
 | 180 | [Candle in the Wind \(Goodbye England's Rose\)](https://open.spotify.com/track/7sVVvWa0036ac97LiGYwor) | [Timothy Eaton Ensemble](https://open.spotify.com/artist/1mD1xrYY0PxnYZbwL9ub4w) | [England's Rose](https://open.spotify.com/album/4AC6mUo3BQlPop3DMI7NYS) | 4:05 |
 | 181 | [My Quicksand](https://open.spotify.com/track/5vp8VizhP11k9iAnTdiBCH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:46 |
 | 182 | [Claw Hammer](https://open.spotify.com/track/3eLc9F6UeyvjQ6QUwEocZg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:22 |
@@ -421,8 +421,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 411 | [Shoulder Holster](https://open.spotify.com/track/3zW27M7GKnolAlgTrwNIds) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:10 |
 | 412 | [Too Many Tears](https://open.spotify.com/track/6NaTklchYJQzaPdWiinSim) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:14 |
 | 413 | [The Fox \- Remastered 2003](https://open.spotify.com/track/6lOCElinpBuk7uwvSEdaGo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:20 |
-| 414 | [It's Getting Dark In Here](https://open.spotify.com/track/7APVB4MJZlDRDudXvt6fp9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:50 |
-| 415 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 414 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 415 | [It's Getting Dark In Here](https://open.spotify.com/track/7APVB4MJZlDRDudXvt6fp9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:50 |
 | 416 | [Hoop Of Fire](https://open.spotify.com/track/5E77V6ErhqNdoEsDumSFeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:15 |
 | 417 | [Chasing The Crown](https://open.spotify.com/track/2rm6U6Q9tb48T8puxaRMBp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:34 |
 | 418 | [The Scaffold](https://open.spotify.com/track/3RiHICh0pAvLGTluo12D5V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:18 |
@@ -554,8 +554,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 544 | [Bonnie's Gone Away \- Piano/Guitar Demo](https://open.spotify.com/track/62SPBDd5oppm1q3dQ1RSAH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:37 |
 | 545 | [In The Morning \- Band Demo](https://open.spotify.com/track/5I3HgpihNmO4wu6xulYyXW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:47 |
 | 546 | [There's Still Time For Me \- Piano/Guitar/Tambourine Demo](https://open.spotify.com/track/7jxJ7V5UnyNFiMixZSyuto) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:45 |
-| 547 | [Rolling Western Union \- Piano Demo](https://open.spotify.com/track/2QEQVJ5HhOHtgyLnzjyOPz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:54 |
-| 548 | [No Man Hires Me, No Man Fires Me](https://open.spotify.com/track/70yXgu7vJ4cxHT8p6PhMcF) | [David Hirschfelder](https://open.spotify.com/artist/5JAUs92Wa8WKj9pnsVVRRY), [Mark Lizotte](https://open.spotify.com/artist/1MDj3dcfltIKyFc6UosvZU) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/7qJca0MP5NukFEn4xTNqEg) | 2:06 |
+| 547 | [No Man Hires Me, No Man Fires Me](https://open.spotify.com/track/70yXgu7vJ4cxHT8p6PhMcF) | [David Hirschfelder](https://open.spotify.com/artist/5JAUs92Wa8WKj9pnsVVRRY), [Mark Lizotte](https://open.spotify.com/artist/1MDj3dcfltIKyFc6UosvZU) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/7qJca0MP5NukFEn4xTNqEg) | 2:06 |
+| 548 | [Rolling Western Union \- Piano Demo](https://open.spotify.com/track/2QEQVJ5HhOHtgyLnzjyOPz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:54 |
 | 549 | [Dame de la ville basse](https://open.spotify.com/track/3UpWO91m2pBHinwisCYkjP) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:54 |
 | 550 | [For Wanting You](https://open.spotify.com/track/39rKSdrwUVbABCRCzx2nan) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Vagabond Ways](https://open.spotify.com/album/7wsLsmGMUaIjDvJlld38td) | 3:57 |
 | 551 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/5DtOZ2znupMpscIP7okRno) | [The Macdonald Bros.](https://open.spotify.com/artist/3yltnsPc3wbqWjVYrZ2iSb) | [With Love](https://open.spotify.com/album/5Fw0KGKf3qRWDohItJueR0) | 3:27 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbTL2AAAAABpMA0tQqxAUX+NjZEWB9kY`
+Snapshot ID: `AbTRtAAAAACLy1mxo/fwgKY2OyZxqGpU`

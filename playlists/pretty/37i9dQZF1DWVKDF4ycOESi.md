@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Angelina Mango in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,376 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,424 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 73 | [NON HO VOGLIA](https://open.spotify.com/track/3c0qarnOZIcni6K3o4wJsn) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [NON HO VOGLIA](https://open.spotify.com/album/2hLTmkDyQXffcytdsMKgaC) | 2:53 |
 | 74 | [SOUTH MANICOMIO](https://open.spotify.com/track/1hsWanzRenfDfghS93SG2D) | [FANTASMA DI ME](https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l) | [SOUTH MANICOMIO](https://open.spotify.com/album/3Uw4AL4TVQFF8zl8jAlA8T) | 2:57 |
 | 75 | [\(cose in cui hai messo cuore\)](https://open.spotify.com/track/5kXZu0IKDp67jQlEi31Q3x) | [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [\(cose in cui hai messo cuore\), MANI DI UMANI / scegliere](https://open.spotify.com/album/18qyWu5xA6AMftcWpu2S74) | 1:40 |
-| 76 | [Transpadana](https://open.spotify.com/track/7mTWhWW4OmmdoeEuo9N3a7) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [TYMAH, La Nebbia](https://open.spotify.com/album/0dnPOlg0sHo6zkWt3Fz7Xj) | 3:27 |
+| 76 | [Transpadana](https://open.spotify.com/track/7mTWhWW4OmmdoeEuo9N3a7) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [TYMAH, la nebbia](https://open.spotify.com/album/0dnPOlg0sHo6zkWt3Fz7Xj) | 3:27 |
 | 77 | [DIAMANTI](https://open.spotify.com/track/7t2rpasMsB8D8CTw9k9G9I) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [DIAMANTI](https://open.spotify.com/album/0s6hzucJTj9Z7VDGoa7pOr) | 2:22 |
 | 78 | [Game Over](https://open.spotify.com/track/1UvidmTdCoLM1gUB4INwWs) | [panetto](https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx) | [Game Over](https://open.spotify.com/album/7JDbqS1lenkORKdiPsfFMu) | 2:57 |
 | 79 | [PAGINEDIME](https://open.spotify.com/track/3D3Bdw0RVBp8jlsQK6DdjG) | [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [PAGINEDIME](https://open.spotify.com/album/6TO5bahPT0Q4vcpbxfVE05) | 2:22 |

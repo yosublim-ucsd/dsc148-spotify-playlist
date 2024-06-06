@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 719449,
+  "num_followers": 719520,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
     },
     {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Autoflower",
+        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "duration_ms": 184983,
+      "name": "Smoke Machine",
+      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
+    },
+    {
       "added_at": "2024-05-20 19:12:41",
       "album": {
         "name": "People Never Change",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Autoflower",
-        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
-      },
-      "artists": [
-        {
-          "name": "Jesse Woods",
-          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
-        }
-      ],
-      "duration_ms": 184983,
-      "name": "Smoke Machine",
-      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Base Camp",
         "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 205107,
       "name": "Base Camp",
       "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1163,6 +1147,22 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Just Another Honky",
-      "url": "https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 209280,
       "name": "Dos Uvas",
       "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Just Another Honky",
+      "url": "https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "honey thighs",
-        "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 284441,
-      "name": "honey thighs",
-      "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Tenemos Todo (Taggy Matcher Remix)",
         "url": "https://open.spotify.com/album/4epOrZkmpUY2W85SOfxcKv"
       },
@@ -1955,18 +1939,34 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
+        "name": "honey thighs",
+        "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
       },
       "artists": [
         {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
         }
       ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
+      "duration_ms": 284441,
+      "name": "honey thighs",
+      "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Promises I've Made",
+      "url": "https://open.spotify.com/track/3ncX1PNhONlpP8vzeyNIle"
     }
   ],
   "unique_name": "Feel Good Dinner",

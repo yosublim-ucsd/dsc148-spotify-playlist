@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 483972,
+  "num_followers": 483996,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-05-14 13:50:00",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+        "name": "YOU AND I",
+        "url": "https://open.spotify.com/album/5YK3qLjNjkCNx3OzQf5oIV"
       },
       "artists": [
         {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
         }
       ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+      "duration_ms": 161386,
+      "name": "YOU AND I",
+      "url": "https://open.spotify.com/track/1B82Lto0ciRfVwtTG3scSl"
     },
     {
       "added_at": "2024-05-14 13:50:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-05-14 13:50:00",
       "album": {
-        "name": "YOU AND I",
-        "url": "https://open.spotify.com/album/5YK3qLjNjkCNx3OzQf5oIV"
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
       },
       "artists": [
         {
-          "name": "dori",
-          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
         }
       ],
-      "duration_ms": 161386,
-      "name": "YOU AND I",
-      "url": "https://open.spotify.com/track/1B82Lto0ciRfVwtTG3scSl"
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2024-05-14 13:50:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-05-14 13:50:00",
       "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2024-05-14 13:50:00",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 210158,
       "name": "Jenga (feat. Gaeko)",
       "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
+    },
+    {
+      "added_at": "2024-05-14 13:50:00",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
       "added_at": "2024-05-14 13:50:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-05-14 13:50:00",
       "album": {
-        "name": "Fxxxnds",
-        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
-      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2024-05-14 13:50:00",
-      "album": {
         "name": "Do monsters love too?",
         "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
       },
@@ -891,22 +871,22 @@
     {
       "added_at": "2024-05-14 13:50:00",
       "album": {
-        "name": "Boys and Girls Music Vol.1",
-        "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
+        "name": "Fxxxnds",
+        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
         }
       ],
-      "duration_ms": 239837,
-      "name": "Think About' Chu",
-      "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
+      "duration_ms": 209400,
+      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
+      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
     },
     {
       "added_at": "2024-05-14 13:50:00",
@@ -923,6 +903,26 @@
       "duration_ms": 184565,
       "name": "Hope You're Doing Well",
       "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
+    },
+    {
+      "added_at": "2024-05-14 13:50:00",
+      "album": {
+        "name": "Boys and Girls Music Vol.1",
+        "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 239837,
+      "name": "Think About' Chu",
+      "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
     },
     {
       "added_at": "2024-05-14 13:50:00",

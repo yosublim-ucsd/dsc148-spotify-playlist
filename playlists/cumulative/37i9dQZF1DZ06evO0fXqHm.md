@@ -2,7 +2,7 @@
 
 ### [This Is Mac Júlia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fXqHm)
 
-> This is Mac Júlia\. The essential tracks, all in one playlist.
+> This is Mac Júlia\. Todos os maiores hits em uma só playlist.
 
 73 songs - 3 hr 13 min
 
@@ -15,7 +15,7 @@
 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 | 2023-12-30 |  |
 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 | 2023-12-30 |  |
 | [Bandoleira](https://open.spotify.com/track/6aWbI0RvWo0DA1IiZFL145) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Bill](https://open.spotify.com/artist/3oKstmzHpDn18vb0SrDrQf), [Breno Ras](https://open.spotify.com/artist/0d43omBFCUmJVliehuSMvB) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:29 | 2023-12-30 | 2024-03-16 |
-| [Bitch](https://open.spotify.com/track/4SaKtdmM5FihfO4LInrsXy) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 2:17 | 2023-12-30 | 2024-06-04 |
+| [Bitch](https://open.spotify.com/track/4SaKtdmM5FihfO4LInrsXy) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 2:17 | 2023-12-30 |  |
 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 | 2023-12-30 |  |
 | [Bolso Cheio](https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk) | [Bolso Cheio](https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83) | 2:27 | 2023-12-30 | 2024-04-10 |
 | [Casal](https://open.spotify.com/track/1wSVpw9pC31zldj3pGnkOp) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Suasória](https://open.spotify.com/album/2Aq4cexoooJTkd0mUmwtAu) | 1:55 | 2023-12-30 | 2024-03-12 |
@@ -40,7 +40,7 @@
 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 | 2023-12-30 |  |
 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 | 2023-12-30 |  |
 | [Medley](https://open.spotify.com/track/6FA0auhg0L75rRKIoYwpAx) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:26 | 2023-12-30 | 2024-05-19 |
-| [Meio](https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf) | [Kult](https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Meio](https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7) | 2:50 | 2023-12-30 |  |
+| [Meio](https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf) | [Kult](https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Meio](https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7) | 2:50 | 2023-12-30 | 2024-06-06 |
 | [Minha Cara Metade](https://open.spotify.com/track/4OJ3BZdgIUwAjx75SCi6wE) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [DJ 2w](https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 2:11 | 2024-05-24 |  |
 | [Minha Vida](https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Minha Vida](https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav) | 2:45 | 2023-12-30 |  |
 | [Money Make](https://open.spotify.com/track/1Wv5iyCi1kEeKYvFf0Ruha) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:11 | 2023-12-30 | 2024-02-16 |

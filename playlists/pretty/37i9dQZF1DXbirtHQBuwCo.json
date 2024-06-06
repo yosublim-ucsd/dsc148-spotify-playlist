@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park)",
-  "num_followers": 1004297,
+  "num_followers": 1004672,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-05-30 05:50:26",
       "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Don't ever say love me (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
-    },
-    {
-      "added_at": "2024-05-30 05:50:26",
-      "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+    },
+    {
+      "added_at": "2024-05-30 05:50:26",
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
     },
     {
       "added_at": "2024-05-30 05:50:26",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-05-30 05:50:26",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4oqcaxJLVmr0mMdYkPxIf2"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/33D9IBi6eTFEPldy7jQ8og"
-    },
-    {
-      "added_at": "2024-05-30 05:50:26",
-      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
       },
@@ -1295,22 +1279,6 @@
       "duration_ms": 197533,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
-    },
-    {
-      "added_at": "2024-05-30 05:50:26",
-      "album": {
-        "name": "I Hate You (2024) - Spotify Singles",
-        "url": "https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA"
-      },
-      "artists": [
-        {
-          "name": "SHOWNU X HYUNGWON (MONSTA X)",
-          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "I Hate You (2024) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
     },
     {
       "added_at": "2024-05-30 05:50:26",
@@ -1335,6 +1303,38 @@
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
+    },
+    {
+      "added_at": "2024-05-30 05:50:26",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4oqcaxJLVmr0mMdYkPxIf2"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/33D9IBi6eTFEPldy7jQ8og"
+    },
+    {
+      "added_at": "2024-05-30 05:50:26",
+      "album": {
+        "name": "I Hate You (2024) - Spotify Singles",
+        "url": "https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "I Hate You (2024) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
     }
   ],
   "unique_name": "TrenChill K-R&B",

@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Holden
 
-425 songs - 19 hr 38 min
+426 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [GRETA](https://open.spotify.com/track/5UmOOuF0uHZ7qMmSgAwMuE) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [GRETA](https://open.spotify.com/album/5bpW91E9krBVNx7enxPriy) | 2:56 | 2023-12-15 | 2024-01-05 |
 | [GUAGLIÒ](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 | 2023-12-15 |  |
 | [Ho Fatto Un Sogno](https://open.spotify.com/track/5OiSAWiUSwWQJdmQ5dtFEb) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Ho Fatto Un Sogno](https://open.spotify.com/album/2aLaFLGNQdGkiUicivMLQ1) | 2:40 | 2024-04-25 | 2024-05-17 |
+| [ho perso il cuore](https://open.spotify.com/track/28jmvssKonCcMnyBrDStYR) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 2:46 | 2024-06-05 |  |
 | [I colori dell'alba](https://open.spotify.com/track/2vDF8vtgjK2PRbeea9QAYS) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [I colori dell'alba](https://open.spotify.com/album/4czY6mzx9up6r6QWHjDvKO) | 2:54 | 2024-05-09 | 2024-05-24 |
 | [i ragazzi perduti](https://open.spotify.com/track/36iRSpKuwRLq4A9mTbE3eu) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [tutti i colori del buio](https://open.spotify.com/album/6r8Lnm93NaqRStMPUBKhSy) | 3:39 | 2024-05-16 |  |
 | [IENA](https://open.spotify.com/track/0jC7hX8ygrDtNAXYq2sinP) | [KIA](https://open.spotify.com/artist/0NMIwaObVtRr1LIwZylGKG) | [IENA](https://open.spotify.com/album/1RY6BuajfKHnxwGj9azBRL) | 2:36 | 2024-03-07 | 2024-03-21 |

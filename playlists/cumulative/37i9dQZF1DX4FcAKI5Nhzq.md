@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: TREASURE
+> Future K\-Pop hits! Cover: TWS
 
-1,074 songs - 2 day 10 hr 47 min
+1,075 songs - 2 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Dystopia](https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. Ⅵ\. Mujin](https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go) | 3:34 | 2023-03-24 | 2023-05-18 |
 | [EARLY \(feat\. DUT2\)](https://open.spotify.com/track/4WZUZ7izRSUYhocujt9uDh) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:02 | 2023-02-17 | 2023-04-14 |
 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-15 |  |
-| [Easy](https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Easy](https://open.spotify.com/album/41b0hsQwhVkMc3NQcvB0NF) | 3:02 | 2024-03-14 |  |
+| [Easy](https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Easy](https://open.spotify.com/album/41b0hsQwhVkMc3NQcvB0NF) | 3:02 | 2024-03-14 | 2024-06-06 |
 | [Easy](https://open.spotify.com/track/3KLkc1h39HhbuXIYB5xgAq) | [WJSN THE BLACK](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) | [My attitude](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) | 3:08 | 2021-05-15 | 2021-07-14 |
 | [Eat My Love](https://open.spotify.com/track/0nkmvo78mFGGRab2BwK37i) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Eat My Love](https://open.spotify.com/album/7tZUSDEIMXqOg5rsSszQKR) | 2:42 | 2021-02-01 | 2021-03-01 |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-06-18 |
@@ -420,6 +420,7 @@
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-07-01 | 2021-09-07 |
 | [Hero](https://open.spotify.com/track/1hXs7BduDW3yGSSwolP8eh) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [LOVE EPISODE](https://open.spotify.com/album/3HG5kKZPdKRspJFUvShae7) | 3:20 | 2024-06-04 |  |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2021-02-22 | 2021-03-01 |
+| [hey! hey!](https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [hey! hey!](https://open.spotify.com/album/6yGdGCWksLfDes9U81SRkP) | 3:12 | 2024-06-05 |  |
 | [HEYDAY \(Prod\. Czaer\)](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 2:24 | 2022-09-22 | 2023-03-07 |
 | [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-03-02 | 2023-06-23 |
 | [Higher](https://open.spotify.com/track/26n7qRPECV3eRym4ZNmv6g) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [Higher](https://open.spotify.com/album/3XCbt9ptOV4VMvHedWOj5V) | 3:26 | 2023-08-03 | 2023-09-02 |
@@ -895,7 +896,7 @@
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-02-03 | 2022-04-09 |
 | [SUPADUPA](https://open.spotify.com/track/0rzOt0WKIC2JcMD06OHWsQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [PO\~MYGIRL](https://open.spotify.com/album/5XsxSx1C8PSdv9ygcqtL6v) | 2:57 | 2020-10-13\* | 2020-11-05 |
 | [SUPERPOWERS](https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l) | 2:55 | 2023-10-12 | 2023-12-09 |
-| [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-30 |  |
+| [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-30 | 2024-06-06 |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-08 | 2022-10-15 |
 | [SWEAT](https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG) | 3:11 | 2024-04-26 | 2024-04-30 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-17 | 2022-09-02 |

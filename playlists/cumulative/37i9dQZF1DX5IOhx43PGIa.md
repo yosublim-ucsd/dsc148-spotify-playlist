@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\.  Cover: Dhruv.
 
-813 songs - 1 day 17 hr 59 min
+814 songs - 1 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2022-10-07 | 2024-05-03 |
 | [Give It To Me](https://open.spotify.com/track/1S4HPRUxROzKH5fVenmN9t) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Give It To Me \- Single](https://open.spotify.com/album/46xzbUFY7h7vDG4ZdLHaqx) | 2:52 | 2023-08-25 | 2023-11-13 |
 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 | 2022-05-27 | 2023-08-12 |
+| [giving up everything](https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [giving up everything](https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3) | 3:04 | 2024-05-31 |  |
 | [Glide \- cover](https://open.spotify.com/track/7K3oVOub8m4XQr54pcOhqr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Glide \(cover\)](https://open.spotify.com/album/7ocua9hYnh95mgXEibBKmc) | 3:41 | 2022-06-03 | 2022-06-18 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 | 2023-09-02 |
 | [GLORY \(feat\. 9m88\)](https://open.spotify.com/track/2PefXz7ZxU9nVbYNCEy8OQ) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [GLORY \(feat\. 9m88\)](https://open.spotify.com/album/7imMycAb3PirBmXDCUq4fz) | 2:53 | 2022-05-27 | 2022-07-29 |
@@ -725,7 +726,7 @@
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-05-27 | 2022-07-29 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 |  |
 | [Tragic Love](https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tragic Love](https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS) | 3:23 | 2024-02-23 | 2024-05-11 |
-| [Train Goes Faster](https://open.spotify.com/track/1tYOveOD0d2Pu0DYO7jJ4J) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Train Goes Faster](https://open.spotify.com/album/0wX5y6h9xocq3xvcZgeuD9) | 2:48 | 2024-05-15 |  |
+| [Train Goes Faster](https://open.spotify.com/track/1tYOveOD0d2Pu0DYO7jJ4J) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Train Goes Faster](https://open.spotify.com/album/0wX5y6h9xocq3xvcZgeuD9) | 2:48 | 2024-05-15 | 2024-06-06 |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 | 2024-03-23 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-25 |  |
 | [traveling](https://open.spotify.com/track/6OxxzC0HsX7zK3ZO3q79H6) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [DEEP RIVER](https://open.spotify.com/album/5xcIRLlQWJBqN8fpmlskGr) | 5:13 | 2022-09-23 | 2022-10-08 |

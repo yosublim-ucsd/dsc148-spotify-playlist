@@ -1,13 +1,29 @@
 {
   "description": "All your favourite Country songs in one place! Featuring: <a href=\"https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75_EbuOhDg\"> Zach Bryan</a>, The Castellows, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more",
-  "num_followers": 34815,
+  "num_followers": 34814,
   "original_name": "Complete Country",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAZmEK6D2KnZsNNTxjugTSEdppk/QAR",
+  "snapshot_id": "AAAZwMI2U/PFgYK7AFOxNOsoai/FddIw",
   "tracks": [
+    {
+      "added_at": "2024-06-05 15:44:15",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
     {
       "added_at": "2024-03-22 13:29:05",
       "album": {
@@ -23,6 +39,162 @@
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/1i07MlxQIuFSqNX3x3LkJH"
+    },
+    {
+      "added_at": "2024-06-05 15:44:23",
+      "album": {
+        "name": "Hell or High Water (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "Hell or High Water (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
+    },
+    {
+      "added_at": "2024-06-05 15:45:04",
+      "album": {
+        "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+        "url": "https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 218878,
+      "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+      "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
+    },
+    {
+      "added_at": "2024-06-05 15:47:59",
+      "album": {
+        "name": "Old No. 7",
+        "url": "https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "duration_ms": 199392,
+      "name": "Just Like Johnny",
+      "url": "https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq"
+    },
+    {
+      "added_at": "2024-06-05 15:44:10",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "added_at": "2024-03-22 13:29:05",
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
+    },
+    {
+      "added_at": "2024-03-22 13:29:05",
+      "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "added_at": "2024-06-05 15:44:06",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2024-06-05 15:48:11",
+      "album": {
+        "name": "Forever To Me",
+        "url": "https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Forever To Me",
+      "url": "https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP"
+    },
+    {
+      "added_at": "2024-06-05 15:48:25",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
     },
     {
       "added_at": "2024-03-22 13:29:05",
@@ -45,6 +217,90 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
+      "added_at": "2024-06-05 15:47:57",
+      "album": {
+        "name": "Betrayal",
+        "url": "https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 180282,
+      "name": "Betrayal",
+      "url": "https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V"
+    },
+    {
+      "added_at": "2024-06-05 15:44:58",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        },
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        },
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "duration_ms": 131949,
+      "name": "BLACKBIIRD",
+      "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
+    },
+    {
+      "added_at": "2024-06-05 15:44:42",
+      "album": {
+        "name": "How Far Will We Take It?",
+        "url": "https://open.spotify.com/album/0FkHwJW4XbyvYKzD1GVh3Y"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 172929,
+      "name": "How Far Will We Take It?",
+      "url": "https://open.spotify.com/track/3FFQvAIq4grvS6nb6IwY3h"
+    },
+    {
+      "added_at": "2024-06-05 15:44:49",
+      "album": {
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 293971,
+      "name": "Lonely Cowboy",
+      "url": "https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy"
+    },
+    {
       "added_at": "2024-03-22 13:29:05",
       "album": {
         "name": "Holy Smokes",
@@ -61,7 +317,7 @@
       "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
-      "added_at": "2024-03-22 13:29:05",
+      "added_at": "2024-06-05 15:47:46",
       "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
@@ -72,9 +328,25 @@
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 211413,
-      "name": "The Painter",
-      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
+      "duration_ms": 239346,
+      "name": "Dirt Cheap",
+      "url": "https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa"
+    },
+    {
+      "added_at": "2024-06-05 15:48:19",
+      "album": {
+        "name": "A Little Goes A Long Way",
+        "url": "https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "duration_ms": 249625,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4hZFGQ9KzFUIem8RQr9KAt"
     },
     {
       "added_at": "2024-03-22 13:29:05",
@@ -127,22 +399,6 @@
     {
       "added_at": "2024-03-22 13:29:05",
       "album": {
-        "name": "Devil You Know",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Devil You Know",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
-    },
-    {
-      "added_at": "2024-03-22 13:29:05",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/58gOlBZH1HhW3D3ryZV8KO"
       },
@@ -155,22 +411,6 @@
       "duration_ms": 249625,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt"
-    },
-    {
-      "added_at": "2024-03-22 13:29:05",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2024-03-22 13:29:05",
@@ -479,22 +719,6 @@
     {
       "added_at": "2024-03-22 13:29:05",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
-    },
-    {
-      "added_at": "2024-03-22 13:29:05",
-      "album": {
         "name": "Purple Irises",
         "url": "https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea"
       },
@@ -695,22 +919,6 @@
     {
       "added_at": "2024-03-22 13:29:05",
       "album": {
-        "name": "Old Dirt Roads",
-        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 227891,
-      "name": "Old Dirt Roads",
-      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
-    },
-    {
-      "added_at": "2024-03-22 13:29:05",
-      "album": {
         "name": "My Stupid Life",
         "url": "https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3"
       },
@@ -755,22 +963,6 @@
       "duration_ms": 180000,
       "name": "We All Grow Up",
       "url": "https://open.spotify.com/track/4MYVzXhpm5iMnRZj6cWkSu"
-    },
-    {
-      "added_at": "2024-03-22 13:29:05",
-      "album": {
-        "name": "Religiously",
-        "url": "https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Religiously",
-      "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
     },
     {
       "added_at": "2024-03-22 13:29:05",
@@ -911,6 +1103,22 @@
     {
       "added_at": "2024-03-22 13:29:05",
       "album": {
+        "name": "Old Dirt Roads",
+        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 227891,
+      "name": "Old Dirt Roads",
+      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
+    },
+    {
+      "added_at": "2024-03-22 13:29:05",
+      "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
@@ -959,22 +1167,6 @@
       "duration_ms": 170760,
       "name": "Left Me In The Dusk",
       "url": "https://open.spotify.com/track/06gWq2O5V29LniLkheByNS"
-    },
-    {
-      "added_at": "2024-03-22 13:29:05",
-      "album": {
-        "name": "One Thing At A Time (Sampler)",
-        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 206864,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
     },
     {
       "added_at": "2024-03-22 13:29:05",

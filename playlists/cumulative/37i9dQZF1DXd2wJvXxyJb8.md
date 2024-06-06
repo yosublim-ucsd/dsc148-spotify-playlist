@@ -4,7 +4,7 @@
 
 > amo mpb
 
-412 songs - 19 hr 26 min
+413 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [MTG \- Mega das Tchutchucas 2](https://open.spotify.com/track/0c0QqyqhoiUVco4LdZjTdX) | [Davi Lemos DJ](https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL), [MALHA FUNK](https://open.spotify.com/artist/7Aoq22DL55gHycti1JPL4z), [Os Caçadores](https://open.spotify.com/artist/0kD0mHs63ci8Zw1vvPDjYx), [Pansa Beats](https://open.spotify.com/artist/4oxPArmOSLN23wu2qy72xZ) | [MTG \- Mega das Tchutchucas 2](https://open.spotify.com/album/547whR3WlZWzCFXSckVqHG) | 2:11 | 2024-05-02 |  |
 | [Mtg Beat Fino Dança do Pombo](https://open.spotify.com/track/2lcH5EDMtDvFtMYHmitM6B) | [DJ MESQUITA DE NV](https://open.spotify.com/artist/7yM7Kxl5jirT0l5XRFNDiz), [DJ MESQUITA](https://open.spotify.com/artist/220TJrG9rRDB9M8ZLqUsxg) | [Mtg Beat Fino Dança do Pombo](https://open.spotify.com/album/3kddxToI1XUeGv8mUEyVK6) | 1:38 | 2022-11-28 | 2022-12-16 |
 | [Mtg Forró e Desmantelo](https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV) | [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Mtg Forró e Desmantelo](https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc) | 2:29 | 2024-04-19 |  |
-| [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 | 2024-05-21 |  |
+| [MTG Já Que Cê Gosta Tanto de Rua](https://open.spotify.com/track/5BpNdbgj7stB4AwaV1Tu2R) | [Djay L Beats](https://open.spotify.com/artist/22XiT8DHddIU2VcuGDEU0o) | [MTG Já Que Cê Gosta Tanto de Rua](https://open.spotify.com/album/4epLXw8yQ5PPRTDyLGErR6) | 2:13 | 2024-06-05 |  |
+| [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 | 2024-05-21 |  |
 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 | 2024-03-12 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-05-26 | 2022-06-23 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-10 | 2024-01-30 |

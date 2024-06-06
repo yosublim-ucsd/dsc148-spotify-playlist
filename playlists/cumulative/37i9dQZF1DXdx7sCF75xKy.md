@@ -2,7 +2,7 @@
 
 ### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
 
-> Listen to women at full volume\.  Cover: Iman Fandi
+> Listen to women at full volume\. Iman Fandi is co\-curating EQUAL Singapore & Malaysia this month.
 
 1,127 songs - 2 day 17 hr 15 min
 

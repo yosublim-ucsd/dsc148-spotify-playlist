@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-466 songs - 23 hr 40 min
+467 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 | 2023-02-23 | 2023-05-02 |
 | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os) | 2:55 | 2023-02-23 | 2023-11-10 |
 | [Banana](https://open.spotify.com/track/6IbHxN543uDJ31Y8wpiHgZ) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Banana](https://open.spotify.com/album/76cChFmTxUn0kQVX7Asimp) | 2:21 | 2023-07-10 | 2024-01-09 |
+| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-05 |  |
 | [Barbaras Rhabarberbar](https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W) | [Bodo Wartke](https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Zungenbrecher 4.0 \- Staffel 4](https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC) | 1:25 | 2024-03-06 |  |
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2023-06-26 | 2023-07-11 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-10 | 2023-11-01 |

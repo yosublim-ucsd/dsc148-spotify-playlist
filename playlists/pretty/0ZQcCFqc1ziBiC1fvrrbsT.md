@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,804 likes - 21 songs - 1 hr 17 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,808 likes - 21 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 5 | [EUPHROSYNE](https://open.spotify.com/track/40ju8ywXC7xIli11jKHZ0h) | [Porcupine](https://open.spotify.com/artist/4rrIbI0N9a7wXxXKARCVeN) | [EUPHROSYNE](https://open.spotify.com/album/76ykaMfhMHrktWlMjSd352) | 3:32 |
 | 6 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 |
 | 7 | [Steady As I Am](https://open.spotify.com/track/15VonMhGNoK2D0r1oUo5Gh) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Steady As I Am](https://open.spotify.com/album/0j4RFHOIJqykcXteGF9Nxe) | 2:14 |
-| 8 | [Ride the Flatline](https://open.spotify.com/track/1jxurcDJOIetOVKHnommay) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Ride the Flatline](https://open.spotify.com/album/65XttkEWNXaOqE9NreNraS) | 2:49 |
+| 8 | [Ride the Flatline \(feat\. Jami Morgan & Code Orange\)](https://open.spotify.com/track/1jxurcDJOIetOVKHnommay) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv), [Jami Morgan](https://open.spotify.com/artist/6BUDMHs42XiJVjfk0EPHGc), [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Ride the Flatline \(feat\. Jami Morgan & Code Orange\)](https://open.spotify.com/album/65XttkEWNXaOqE9NreNraS) | 2:49 |
 | 9 | [Blood Soaked Death Dream](https://open.spotify.com/track/7uqhFyyXbE0j6OZzbgzajW) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Blood Soaked Death Dream](https://open.spotify.com/album/38LpPqOan6RdUbUwQcifXs) | 2:47 |
 | 10 | [Nourish a Thug](https://open.spotify.com/track/3a3IVG5G7EH6w2mAyxNIOV) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Nourish a Thug](https://open.spotify.com/album/0pWoAGpfVZgxORd9lsCmeI) | 2:45 |
 | 11 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C) | 2:36 |

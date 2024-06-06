@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 124593,
+  "num_followers": 124601,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-30 16:00:00",
       "album": {
-        "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
-        "url": "https://open.spotify.com/album/0poaQZmzUoFK0I4vGaFIJq"
-      },
-      "artists": [
-        {
-          "name": "Sandy Lam",
-          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
-        }
-      ],
-      "duration_ms": 201675,
-      "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
-      "url": "https://open.spotify.com/track/04tUeaYn8y9H1qohdFoajG"
-    },
-    {
-      "added_at": "2024-05-30 16:00:00",
-      "album": {
         "name": "\u4eba\u751f,\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d?",
         "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176673,
       "name": "\u5b89",
       "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
+    },
+    {
+      "added_at": "2024-05-30 16:00:00",
+      "album": {
+        "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
+        "url": "https://open.spotify.com/album/0poaQZmzUoFK0I4vGaFIJq"
+      },
+      "artists": [
+        {
+          "name": "Sandy Lam",
+          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
+        }
+      ],
+      "duration_ms": 201675,
+      "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/04tUeaYn8y9H1qohdFoajG"
     },
     {
       "added_at": "2024-05-30 16:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-05-30 16:00:00",
       "album": {
-        "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
-        "url": "https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN"
+        "name": "\u6211\u7684\u96f7\u96e8\u5b63\u96fb\u53f0",
+        "url": "https://open.spotify.com/album/1attG5PJNgR3NbWsVRAHF1"
       },
       "artists": [
         {
-          "name": "Anni Hung",
-          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+          "name": "\u7f85\u8a00",
+          "url": "https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf"
         }
       ],
-      "duration_ms": 231154,
-      "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
-      "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
+      "duration_ms": 162653,
+      "name": "\u5f8c\u8996\u93e1",
+      "url": "https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI"
     },
     {
       "added_at": "2024-05-30 16:00:00",

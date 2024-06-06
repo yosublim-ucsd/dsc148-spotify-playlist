@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 8963,
+  "num_followers": 8962,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -36,7 +36,7 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
@@ -607,22 +607,18 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "De Her Timer",
-        "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
+        "name": "Who Did You Touch?",
+        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Hva Du P\u00e5 (feat. Gilli)",
-      "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
+      "duration_ms": 208732,
+      "name": "Who Did You Touch?",
+      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -647,18 +643,22 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "Who Did You Touch?",
-        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
+        "name": "De Her Timer",
+        "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
         }
       ],
-      "duration_ms": 208732,
-      "name": "Who Did You Touch?",
-      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
+      "duration_ms": 158666,
+      "name": "Hva Du P\u00e5 (feat. Gilli)",
+      "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 133985,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
         "name": "Voices In My Head / Flashing Lights",
         "url": "https://open.spotify.com/album/3kNdbvSLi5XZGCyEQ0lCVZ"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "No Hard Feelings",
-        "url": "https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci"
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
       },
       "artists": [
         {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 133985,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT"
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -807,18 +823,18 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "The First Train Home",
-        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 212373,
-      "name": "The First Train Home",
-      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 155000,
       "name": "WOULD YOU?",
       "url": "https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/5YGQ29f9zUVj1gSmUxRBTv"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/5YGQ29f9zUVj1gSmUxRBTv"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/3TTs73XPopNMV7Sw7OWIGi"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 165547,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/435hrvKro7Lgs60sxE1Ps5"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
         "name": "LUBE // WET DREAM",
         "url": "https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy"
       },
@@ -1131,22 +1115,18 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "Breakfast Club",
-        "url": "https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu"
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/3TTs73XPopNMV7Sw7OWIGi"
       },
       "artists": [
         {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        },
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Breakfast Club",
-      "url": "https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x"
+      "duration_ms": 165547,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/435hrvKro7Lgs60sxE1Ps5"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1167,22 +1147,22 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "happy later",
-        "url": "https://open.spotify.com/album/2pho4eRYdrP6qeIkVDrreE"
+        "name": "Breakfast Club",
+        "url": "https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu"
       },
       "artists": [
         {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
         },
         {
-          "name": "gavn!",
-          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
         }
       ],
-      "duration_ms": 166554,
-      "name": "happy later",
-      "url": "https://open.spotify.com/track/7g8T8aD1LetMjiMTISXvAt"
+      "duration_ms": 189120,
+      "name": "Breakfast Club",
+      "url": "https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 230526,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/04UuPln30oxyJeoufFB1cg"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
+        "name": "happy later",
+        "url": "https://open.spotify.com/album/2pho4eRYdrP6qeIkVDrreE"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        },
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "duration_ms": 166554,
+      "name": "happy later",
+      "url": "https://open.spotify.com/track/7g8T8aD1LetMjiMTISXvAt"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/6N8a80dwH6JDDZ7Ze1WCDz"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        },
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/72pHUjZmkTmscezhPflMzN"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
         "name": "Hvit sommer",
         "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 175392,
       "name": "December (honey, honey)",
       "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/6N8a80dwH6JDDZ7Ze1WCDz"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        },
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/72pHUjZmkTmscezhPflMzN"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "Love is Dumb",
-        "url": "https://open.spotify.com/album/5pxNdmDnHaGqf374wl38S3"
-      },
-      "artists": [
-        {
-          "name": "Raleigh Ritchie",
-          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Love is Dumb",
-      "url": "https://open.spotify.com/track/1Su3RFbL88MJGofnuHgEMK"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
         "name": "Fortified",
         "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
       },
@@ -1435,6 +1419,38 @@
       "duration_ms": 212870,
       "name": "Fortified",
       "url": "https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Enchant\u00e9",
+      "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
+        "name": "Love is Dumb",
+        "url": "https://open.spotify.com/album/5pxNdmDnHaGqf374wl38S3"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Ritchie",
+          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Love is Dumb",
+      "url": "https://open.spotify.com/track/1Su3RFbL88MJGofnuHgEMK"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1475,38 +1491,6 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Enchant\u00e9",
-      "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
-        "name": "Go Fast Go Slow",
-        "url": "https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG"
-      },
-      "artists": [
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 219612,
-      "name": "Go Fast Go Slow",
-      "url": "https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
+        "name": "Go Fast Go Slow",
+        "url": "https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "duration_ms": 219612,
+      "name": "Go Fast Go Slow",
+      "url": "https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
         "name": "IRONIC",
         "url": "https://open.spotify.com/album/7lUBgIbmj4ZPt88TzLwwDQ"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 165000,
       "name": "IRONIC",
       "url": "https://open.spotify.com/track/36CNs7ICeyb1D8m6qlm4nf"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1571,42 +1587,6 @@
       "duration_ms": 188321,
       "name": "The Bridge (feat. Kim Wilde)",
       "url": "https://open.spotify.com/track/6GvQQq5RIDiH1sn5HN2Yg2"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
-        "name": "I Just Needed You To Know",
-        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "I Just Needed You To Know",
-      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
-        "name": "Heart - EP",
-        "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        },
-        {
-          "name": "Nedja",
-          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
     },
     {
       "added_at": "2024-05-31 00:00:00",
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
+        "name": "Heart - EP",
+        "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Nedja",
+          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
         "name": "OXYGEN",
         "url": "https://open.spotify.com/album/6UGojBF1k2dK7SX2D0X3S8"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-31 00:00:00",
       "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/7MKtYdBzKnkQcDh1mQW0PA"
-      },
-      "artists": [
-        {
-          "name": "Julie Pavon",
-          "url": "https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/5Au9Kra41nLUQfH6cWUdp3"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
         "name": "Here By Now (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 211771,
       "name": "Here By Now (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
+    },
+    {
+      "added_at": "2024-05-31 00:00:00",
+      "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/7MKtYdBzKnkQcDh1mQW0PA"
+      },
+      "artists": [
+        {
+          "name": "Julie Pavon",
+          "url": "https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/5Au9Kra41nLUQfH6cWUdp3"
     },
     {
       "added_at": "2024-05-31 00:00:00",

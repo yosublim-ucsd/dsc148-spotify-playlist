@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. The essential tracks, all in one playlist.
+> This is Suzanne Ciani\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,349 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,348 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,29 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 | 24 | [Coral Reef](https://open.spotify.com/track/55XSfNp6o9TVp8F7Xjp0va) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:46 |
 | 25 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 2:54 |
 | 26 | [Rain](https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 2:34 |
-| 27 | [Andalusian Dream](https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:21 |
+| 27 | [Meeting Mozart](https://open.spotify.com/track/3i8nE1O4lO7ohT654OM1VV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:48 |
 | 28 | [Sonar](https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 3:19 |
 | 29 | [Italia \(From Hotel Luna\)](https://open.spotify.com/track/0u3W3lf8rbN2NuB7ky4SMy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:23 |
 | 30 | [Aegean Wave](https://open.spotify.com/track/6umfm9P4dsJFympcydmVtQ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:15 |
 | 31 | [Bel Canto](https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:03 |
 | 32 | [Oceanium](https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 7:58 |
-| 33 | [Meeting Mozart](https://open.spotify.com/track/3i8nE1O4lO7ohT654OM1VV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:48 |
+| 33 | [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 |
 | 34 | [Tuscany](https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:38 |
-| 35 | [Mother's Song](https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:38 |
-| 36 | [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 |
-| 37 | [Ondine \(From Hotel Luna\)](https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:52 |
+| 35 | [Go Gently](https://open.spotify.com/track/0vY6jcdgXhuZcVfAjqZx7r) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:57 |
+| 36 | [Inverness](https://open.spotify.com/track/48JhTqs0UOTzEJqoO9sBPd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:36 |
+| 37 | [Full Moon Sonata](https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 5:06 |
 | 38 | [A Sonic Womb Pt\. 3](https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:15 |
-| 39 | [Go Gently](https://open.spotify.com/track/0vY6jcdgXhuZcVfAjqZx7r) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:57 |
-| 40 | [Full Moon Sonata](https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 5:06 |
-| 41 | [Open Seas](https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:36 |
-| 42 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 |
+| 39 | [Andalusian Dream](https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:21 |
+| 40 | [Ondine \(From Hotel Luna\)](https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:52 |
+| 41 | [Butterflies](https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:45 |
+| 42 | [Open Seas](https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:36 |
 | 43 | [Time Stops](https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:12 |
-| 44 | [Butterflies](https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:45 |
-| 45 | [Closed Circuit](https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Closed Circuit](https://open.spotify.com/album/3KTOLx2jl7FYJG93VGvs6F) | 5:24 |
-| 46 | [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 |
-| 47 | [A Sonic Womb Pt\. 2](https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:48 |
-| 48 | [Pretend](https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:45 |
-| 49 | [Dentecane](https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:11 |
-| 50 | [Midnight Rendezvous](https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:31 |
+| 44 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 |
+| 45 | [Pretend](https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:45 |
+| 46 | [Midnight Rendezvous](https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:31 |
+| 47 | [Mother's Song](https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:38 |
+| 48 | [Dentecane](https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:11 |
+| 49 | [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 |
+| 50 | [Closed Circuit](https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Closed Circuit](https://open.spotify.com/album/3KTOLx2jl7FYJG93VGvs6F) | 5:24 |
 
-Snapshot ID: `Zlu2AAAAAABLQ3VnbP6emFDuF44ApD9G`
+Snapshot ID: `Zl5ZAAAAAAA07hakVSLOleeyxOjJbH3u`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Coi Leray. The essential tracks, all in one playlist.",
+  "description": "This is Coi Leray. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Coi Leray",
   "tracks": [
     {
@@ -660,7 +660,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 205701,
       "name": "Everything BoZ (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 168013,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 208822,
       "name": "Slide (with Gunna)",
       "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 117066,
       "name": "TWINNEM",
       "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 224038,
       "name": "What U Want",
       "url": "https://open.spotify.com/track/4wOyrbNG5eEv5ZF5oVqHtX"

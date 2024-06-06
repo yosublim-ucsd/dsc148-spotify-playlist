@@ -4,7 +4,7 @@
 
 > 
 
-279 songs - 18 hr 47 min
+280 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Behind The Sun](https://open.spotify.com/track/7tRXTDi87CiAqU5sIBQfIC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Behind The Sun](https://open.spotify.com/album/7KcUnyTc5PxSkO2O1p8uob) | 4:10 | 2022-04-26 | 2022-09-21 |
 | [Behind the Sun \(Live\)](https://open.spotify.com/track/4gKFQ6sGKfZr44NXw6wjym) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye Tour Live](https://open.spotify.com/album/1Sr34Sc0yqB4SlxanOrit0) | 3:09 | 2024-05-31 |  |
 | [Bended Light](https://open.spotify.com/track/4Rv8cCe4oO9tRR2vkoXSHp) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Bended Light](https://open.spotify.com/album/5MA3BeStjVJwUIHRSX7QgR) | 2:23 | 2023-04-20 | 2023-05-04 |
+| [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-05 |  |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-02 | 2022-07-14 |
 | [big daddy ya](https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:09 | 2022-06-20 | 2022-11-01 |
 | [Birth4000](https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Birth4000](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx) | 4:46 | 2023-10-17 | 2024-06-01 |
@@ -199,7 +200,7 @@
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-21 | 2023-07-14 |
 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 | 2023-08-14 | 2024-04-11 |
-| [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-02-07 |  |
+| [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-02-07 | 2024-06-06 |
 | [Ressaca](https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Ressaca](https://open.spotify.com/album/6XDY3vEmW4Y2FDrIEnaht5) | 3:25 | 2022-08-19 | 2022-09-17 |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-09 | 2023-07-08 |
 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2023-12-19 | 2024-05-10 |

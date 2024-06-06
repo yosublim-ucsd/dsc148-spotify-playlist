@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Lena
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,351 likes - 97 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,615 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

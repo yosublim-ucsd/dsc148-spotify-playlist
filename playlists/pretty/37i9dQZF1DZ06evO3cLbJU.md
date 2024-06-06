@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 
 ### [This Is El Mató a un Policía Motorizado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cLbJU)
 
-> This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
+> This Is El Mató a un Policía Motorizado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,868 likes - 49 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,907 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 18 | [Fuego](https://open.spotify.com/track/7mhHTogBD9THpIUeLE6atl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:11 |
 | 19 | [Un Segundo Plan](https://open.spotify.com/track/40a6HU6cI4BGv0fJmR0Dfq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 4:37 |
 | 20 | [Mujeres Bellas y Fuertes](https://open.spotify.com/track/1DmEGR1gWk4YZAItLGtbzF) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 3:06 |
-| 21 | [La Casa Fantasmal](https://open.spotify.com/track/6yTsxAaH03k68AQtErgU7h) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 5:19 |
+| 21 | [Espacio Vacío](https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Espacio Vacío](https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp) | 3:53 |
 | 22 | [Alguien Que Lo Merece](https://open.spotify.com/track/2CfhFZfUYfb62O82qaJzv5) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 2:16 |
 | 23 | [El Universo](https://open.spotify.com/track/6Lv326vIrChUYjAuXMXz78) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 2:16 |
 | 24 | [Terror](https://open.spotify.com/track/38jOdi0uFY0EbSfW0Uc790) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 2:12 |
-| 25 | [Espacio Vacío](https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Espacio Vacío](https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp) | 3:53 |
+| 25 | [La Casa Fantasmal](https://open.spotify.com/track/6yTsxAaH03k68AQtErgU7h) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 5:19 |
 | 26 | [El Día del Huracán \- Versión 2021](https://open.spotify.com/track/2x0prtVhSBk4fESMpqrTdg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:25 |
 | 27 | [Mi Próximo Movimiento](https://open.spotify.com/track/4bTrhfTOvC4X3KvFCvnz0I) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 4:27 |
 | 28 | [Violencia](https://open.spotify.com/track/5yd0LDuANSZTnOGMozk2g1) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 3:27 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 48 | [Nuestro Verano](https://open.spotify.com/track/50wYKEBgPlO1oDdMqTFqAc) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:22 |
 | 49 | [El Rey de la Tv Italiana](https://open.spotify.com/track/55g3VSm0eR8VzszV5Uc4oP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:28 |
 
-Snapshot ID: `Zlu2AAAAAAC/Rf3GQX47aGApWT2gB3IS`
+Snapshot ID: `Zl5ZAAAAAAA1n3O9akELjZNhOI602FsM`

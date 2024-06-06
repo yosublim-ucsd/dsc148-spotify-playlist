@@ -1,6 +1,6 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 10804,
+  "num_followers": 10808,
   "original_name": "BrooklynVegan Weekly Playlist",
   "owner": {
     "name": "BrooklynVegan",
@@ -123,17 +123,25 @@
     {
       "added_at": "2024-05-31 21:05:25",
       "album": {
-        "name": "Ride the Flatline",
+        "name": "Ride the Flatline (feat. Jami Morgan & Code Orange)",
         "url": "https://open.spotify.com/album/65XttkEWNXaOqE9NreNraS"
       },
       "artists": [
         {
           "name": "200 Stab Wounds",
           "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        },
+        {
+          "name": "Jami Morgan",
+          "url": "https://open.spotify.com/artist/6BUDMHs42XiJVjfk0EPHGc"
+        },
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
         }
       ],
       "duration_ms": 169461,
-      "name": "Ride the Flatline",
+      "name": "Ride the Flatline (feat. Jami Morgan & Code Orange)",
       "url": "https://open.spotify.com/track/1jxurcDJOIetOVKHnommay"
     },
     {

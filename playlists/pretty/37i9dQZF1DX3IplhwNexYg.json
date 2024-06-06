@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Orla Gartland",
-  "num_followers": 114432,
+  "num_followers": 114429,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "I Want You To Know Me",
         "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203037,
       "name": "Sickly Sweet",
       "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "24 hours",
         "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 220000,
       "name": "24 hours",
       "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Bucket",
-        "url": "https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS"
-      },
-      "artists": [
-        {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
-        }
-      ],
-      "duration_ms": 179563,
-      "name": "Bucket",
-      "url": "https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 204407,
       "name": "Struggle - Single Version",
       "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Bucket",
+        "url": "https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 179563,
+      "name": "Bucket",
+      "url": "https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150897,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Fishbrain",
         "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 205884,
       "name": "Hello Alien",
       "url": "https://open.spotify.com/track/4apqIevNZl1POiQccrGWls"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
     }
   ],
   "unique_name": "pulp",

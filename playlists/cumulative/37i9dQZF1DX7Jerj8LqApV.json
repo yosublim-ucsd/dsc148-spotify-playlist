@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "dahan-dahan",
+        "url": "https://open.spotify.com/album/0xWLRLBLyorsbEwOeWzklC"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264341,
+      "name": "dahan-dahan",
+      "url": "https://open.spotify.com/track/3pT7wGF5w6Jhgj7w08dCeQ"
+    },
+    {
+      "album": {
         "name": "Dal'wang Patinig",
         "url": "https://open.spotify.com/album/5e1cXY60hFMJYetPBFl2di"
       },
@@ -388,6 +406,24 @@
       "duration_ms": 196981,
       "name": "DELULU",
       "url": "https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv"
+    },
+    {
+      "album": {
+        "name": "edsa",
+        "url": "https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y"
+      },
+      "artists": [
+        {
+          "name": "PABLO",
+          "url": "https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208283,
+      "name": "edsa",
+      "url": "https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX"
     },
     {
       "album": {
@@ -442,7 +478,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 253500,
       "name": "Gunita",
       "url": "https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho"
@@ -1037,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Pasulong",
+        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210782,
+      "name": "Maharani",
+      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
+    },
+    {
+      "album": {
         "name": "Mahika",
         "url": "https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4"
       },
@@ -1132,6 +1186,24 @@
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "album": {
+        "name": "Misteryoso",
+        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221641,
+      "name": "Misteryoso",
+      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
     },
     {
       "album": {
@@ -1456,7 +1528,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 240000,
       "name": "PAPALAYO",
       "url": "https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz"
@@ -1586,7 +1658,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 269250,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
@@ -1908,7 +1980,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 272941,
       "name": "Untrue",
       "url": "https://open.spotify.com/track/53LYqBW6TwwecPGxs2CQ7c"

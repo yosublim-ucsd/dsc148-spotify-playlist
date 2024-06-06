@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,061 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,410 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 3 | [Cornfield Chase \- Piano\-Cello Version](https://open.spotify.com/track/0dn7lN2ky5BnUJNoELXh3i) | [Michael Forster](https://open.spotify.com/artist/0TORlmlTHaneG9k4nWPn0V) | [Piano Chill](https://open.spotify.com/album/01O3K6QN4xR3YR2j00ONtr) | 2:04 |
 | 4 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 |
 | 5 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |
-| 6 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
+| 6 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
 | 7 | [Howl's Moving Castle \- Merry\-Go\-Round of Life](https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding, Vol\. 2: The Sequel](https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W) | 3:04 |
 | 8 | [A Hidden Life](https://open.spotify.com/track/6VhExWbPovba3QfMY1sw7U) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:50 |
 | 9 | [The Balcony Scene \(From "Romeo and Juliet"\)](https://open.spotify.com/track/5X5x6oRSCHtHEz28ncMVd5) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Classic FM At The Movies](https://open.spotify.com/album/5TI5SRLYZyS9R9tYEkrB1O) | 5:48 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 572228,
+  "num_followers": 572198,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 258004,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 258004,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "don't come back",
-      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Light Switch (Instrumental)",
         "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 187703,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Meteorite",
         "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Burning Bridges",
+        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
+      },
+      "artists": [
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 239053,
+      "name": "Burning Bridges - Acoustic Version",
+      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD"
       },
       "artists": [
         {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 239053,
-      "name": "Burning Bridges - Acoustic Version",
-      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
+      "duration_ms": 163560,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Bird Sing",
-        "url": "https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Bird Sing",
-      "url": "https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "what would you do?",
         "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Bird Sing",
+        "url": "https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Bird Sing",
+      "url": "https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1603,6 +1587,22 @@
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "American Clich\u00e9",
-        "url": "https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "American Clich\u00e9",
-      "url": "https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Fool's Gold",
         "url": "https://open.spotify.com/album/5KS3QQBO5pvA2IOvHhrVcC"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 141984,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/4rw4ME6nh2kFfpivQyOYyA"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "American Clich\u00e9",
+        "url": "https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 203389,
+      "name": "American Clich\u00e9",
+      "url": "https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb"
     },
     {
       "added_at": "2023-01-13 21:02:37",

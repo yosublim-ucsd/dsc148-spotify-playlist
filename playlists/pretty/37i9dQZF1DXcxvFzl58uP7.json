@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Clairo",
-  "num_followers": 1108927,
+  "num_followers": 1108949,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 214504,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/26tFSM2HfVCB0a4OLVxU4f"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 233871,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4XYo3W8U6IY42EbB01rnR4"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 214504,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "i do luv u",
+        "url": "https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u"
+      },
+      "artists": [
+        {
+          "name": "okayceci",
+          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
+        }
+      ],
+      "duration_ms": 148775,
+      "name": "i do luv u",
+      "url": "https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Nothing 2 See",
         "url": "https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "i do luv u",
-        "url": "https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u"
-      },
-      "artists": [
-        {
-          "name": "okayceci",
-          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
-        }
-      ],
-      "duration_ms": 148775,
-      "name": "i do luv u",
-      "url": "https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Baby Baby",
         "url": "https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Her and All of My Friends",
-        "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Wormwood",
-      "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 193478,
       "name": "July",
       "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Her and All of My Friends",
+        "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Wormwood",
+      "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Little One",
+        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "Little One",
+      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
+    },
+    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Robes",
@@ -1535,6 +1551,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "NIGHTTIME",
+        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 147783,
+      "name": "NIGHTTIME",
+      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -1547,22 +1579,6 @@
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Little One",
-        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
-      },
-      "artists": [
-        {
-          "name": "Surely Shirley",
-          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "Little One",
-      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 183080,
       "name": "What Should I Do?",
       "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "NIGHTTIME",
-        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 147783,
-      "name": "NIGHTTIME",
-      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
     },
     {
       "added_at": "2024-05-24 04:00:00",

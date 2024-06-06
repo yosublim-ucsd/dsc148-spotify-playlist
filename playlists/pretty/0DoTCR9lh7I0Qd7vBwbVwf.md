@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,064 likes - 142 songs - 4 hr 44 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,064 likes - 143 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 140 | [Sleep in Your Dream](https://open.spotify.com/track/40bwXB8yC68sgKkxNeIyAL) | [aswellas](https://open.spotify.com/artist/6CuHbpF36W0v7cEsrzqCkn) | [Sleep in Your Dream](https://open.spotify.com/album/39iWkaM314iuC5KfxK3xfy) | 2:28 |
 | 141 | [Same Feeling](https://open.spotify.com/track/1W2QJ2XT5XVfbseSuFTMh5) | [Eccho](https://open.spotify.com/artist/2P6ilsRk53hUPgnH3YJWpU) | [Same Feeling](https://open.spotify.com/album/1BIEdvjZGr0NEfUvemWfEl) | 2:34 |
 | 142 | [Afternoon Land](https://open.spotify.com/track/0KZOjaq2rwBWemfh1DGAPR) | [QS Code](https://open.spotify.com/artist/1lrXTB4ZvNLal6JcYhryjH) | [Afternoon Land](https://open.spotify.com/album/4yuBbUndwYRhlzk395JtSW) | 2:38 |
+| 143 | [Visions](https://open.spotify.com/track/7w5yYf2qeUy0PKh9Zb1kKe) | [Light Skies](https://open.spotify.com/artist/6OUp6ipOCWmLsyzmviGrmn) | [Visions](https://open.spotify.com/album/4QNz7P01yHHv5CfbA6Dbqf) | 2:12 |
 
-Snapshot ID: `AAAARSNKDRhB/fd4M+P/U7ja4GlyQPpC`
+Snapshot ID: `AAAARq8T5CNa7pL94YiZKEUqQTJpz66U`

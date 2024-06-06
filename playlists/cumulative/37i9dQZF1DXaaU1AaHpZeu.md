@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Irepelusa en portada.
 
-4,292 songs - 9 day 21 hr 34 min
+4,293 songs - 9 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,6 +1093,7 @@
 | [Divino Desmadre](https://open.spotify.com/track/5wg1pk6zwQ3gWQLrd3A5rO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Boohoo](https://open.spotify.com/album/3BmA5Ekn7N20KrfyenuwE8) | 2:39 | 2024-03-08 | 2024-03-23 |
 | [DNA](https://open.spotify.com/track/4gBJmEtZ2TkgzKvVdTEL5F) | [yung gasper](https://open.spotify.com/artist/34b64KROUW4J6XGi0ZHIis), [Foudeqush](https://open.spotify.com/artist/1qEAUmIsYYzrVrk8oUYovZ) | [DNA](https://open.spotify.com/album/7IbSJnuCp9Lq7V0sSsabBB) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Do Not Disturb](https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Do Not Disturb](https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV) | 1:26 | 2023-07-14 | 2023-07-22 |
+| [doctor tiempo](https://open.spotify.com/track/7FboiW5Lxsn1hyOdAnPm2L) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [doctor tiempo](https://open.spotify.com/album/44SKwDYgfXgiS6ghtMm34B) | 2:56 | 2024-05-31 |  |
 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 | 2023-07-07 | 2023-07-15 |
 | [Domingo](https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Domingo](https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1) | 3:18 | 2024-03-22 | 2024-04-06 |
 | [Domingo](https://open.spotify.com/track/7miLrPsBBMr8Vf4KzSCJ8D) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Domingo](https://open.spotify.com/album/1z45A7fBB7Yz94cvG7cNx0) | 3:27 | 2022-09-23 | 2022-10-01 |

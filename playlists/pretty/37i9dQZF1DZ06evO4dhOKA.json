@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lalo Mora. Los temas esenciales, todos en una lista.",
-  "num_followers": 56830,
+  "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
+  "num_followers": 56849,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAFv3chEvHDtQVH0jCYATwP",
+  "snapshot_id": "Zl5ZAAAAAADANfgvkYc1I4HZ1b2K/+S6",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 190360,
-      "name": "El Rey De Mil Coronas",
-      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+      "duration_ms": 178000,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az"
     },
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 129226,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF"
+      "duration_ms": 168000,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az"
+      "duration_ms": 177306,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
+      "duration_ms": 193893,
+      "name": "Me Refiero A Ti",
+      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 177306,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
+      "duration_ms": 137853,
+      "name": "Necesito Verte",
+      "url": "https://open.spotify.com/track/1VRKxi5SI03hPMZiSs1QSG"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Me Refiero A Ti",
-      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
+      "duration_ms": 156773,
+      "name": "Me Rompieron Tu Retrato",
+      "url": "https://open.spotify.com/track/5dPX6HwqzqafCuhzrHCEjU"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
-      },
-      "artists": [
-        {
-          "name": "Carlo Mora",
-          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X Aniversario",
         "url": "https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 196385,
       "name": "Se Vale Llorar",
       "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
+      },
+      "artists": [
+        {
+          "name": "Carlo Mora",
+          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+        "name": "15 Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 191986,
-      "name": "La Casita De Adobe",
-      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
+      "duration_ms": 163013,
+      "name": "Flor de Dalia",
+      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Casita De Adobe",
+      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 20 \u00c9xitos Con Banda",
         "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
       "artists": [
         {
@@ -668,9 +684,25 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Flor de Dalia",
-      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
+      "duration_ms": 199706,
+      "name": "Los Sauces Llorones",
+      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
+        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "Bajo Mil Llaves - En Vivo",
+      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
     },
     {
       "added_at": null,
@@ -716,15 +748,15 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Los Sauces Llorones",
-      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
-        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
       },
       "artists": [
         {
@@ -732,25 +764,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 168773,
-      "name": "Bajo Mil Llaves - En Vivo",
-      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las + Tocadas",
-        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 180860,
-      "name": "El Corrido de Ramiro Quiroz",
-      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
+      "duration_ms": 154880,
+      "name": "Mi Caballo El Invasor",
+      "url": "https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB"
     },
     {
       "added_at": null,
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
       },
       "artists": [
         {
@@ -780,25 +796,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Con el Brazo Derecho",
-      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 154880,
-      "name": "Mi Caballo El Invasor",
-      "url": "https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB"
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
     },
     {
       "added_at": null,

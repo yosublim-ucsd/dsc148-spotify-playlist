@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-186 songs - 8 hr 1 min
+187 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [lux](https://open.spotify.com/track/04MiXeA0SSdcVHYSLz9yuZ) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r) | [lux](https://open.spotify.com/album/4sh9RMTuXgrmOFp5spS7zR) | 3:02 | 2024-04-20 | 2024-04-22 |
 | [MAKE UP \(FBL\)](https://open.spotify.com/track/6KYhmIY3N11aSweAZdZwDs) | [Japssii](https://open.spotify.com/artist/0hbaN5CWD4d7U0U98AxbBU) | [MAKE UP \(FBL\)](https://open.spotify.com/album/5WPQSiRMmFpe1A19A8SqI8) | 1:14 | 2024-03-08 | 2024-03-10 |
 | [maybe](https://open.spotify.com/track/5DEx6lvmwvnaL0J1ehB6vZ) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [maybe](https://open.spotify.com/album/0NS2VvLcnboY9p1wLWTGjx) | 2:21 | 2024-03-02 | 2024-03-04 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-06 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-06 | 2024-06-06 |
 | [MiMiMaMaMu](https://open.spotify.com/track/476dvxGAAmX276frToEqcy) | [Exile](https://open.spotify.com/artist/42rZstEQvY674V2GLw50XP), [STOPBAN](https://open.spotify.com/artist/65EH7lOIu7ZCy7Hlynm6Es), [DILBLIN](https://open.spotify.com/artist/4G9g3ebaBdoEKVKNn7t7ra) | [MiMiMaMaMu](https://open.spotify.com/album/4Ygq7DTs7xabVV97WKfAYG) | 3:04 | 2024-04-10 | 2024-04-12 |
 | [Miu Miu](https://open.spotify.com/track/71QJGJwpOwzpZEEinX345r) | [VisaGangBeatz](https://open.spotify.com/artist/5DlS0oWdN1UCcF7uiMzLuN), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Miu Miu](https://open.spotify.com/album/4mCdKqEsGhI7i7ZneWdQcC) | 2:21 | 2024-01-30 | 2024-02-01 |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-29 | 2024-04-06 |

@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Frankly Speaking\. \(비밀은 없어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-31 songs - 1 hr 35 min
+35 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,8 @@
 | [Freeze! \- Instrumental](https://open.spotify.com/track/1fHqVLVSFv5ByEhkAfeGQk) | [SEO HO](https://open.spotify.com/artist/0H0QZpyLzGxHzPKj5wO0pV), [LEE DO](https://open.spotify.com/artist/0vk4sQbPHoawGCfhj0RnCe) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1M18eNtuc8l3I5AxFOWJhL) | 3:13 | 2024-05-13 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2024-05-13 |  |
 | [Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 | 2024-05-13 |  |
+| [Looks like the universe](https://open.spotify.com/track/5j5vK4zn80NgH47f6oTJdm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 3:27 | 2024-06-05 |  |
+| [Looks like the universe \- Instrumental](https://open.spotify.com/track/6sDYCpbd5La8t8fGSwotQf) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 3:27 | 2024-06-05 |  |
 | [Loving You](https://open.spotify.com/track/1IvOxLYTstsq5Z6pN3l3zm) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:32 | 2024-05-13 |  |
 | [Money Bag](https://open.spotify.com/track/4GkgHODPGClQyzDEN4tTGO) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Money Bag](https://open.spotify.com/album/0hDEcd0coq8QIe5FL736TV) | 3:08 | 2024-05-13 |  |
 | [No Lowkey](https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [No Lowkey](https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E) | 2:19 | 2024-05-13 |  |
@@ -38,6 +40,8 @@
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2024-05-13 |  |
 | [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-05-13 |  |
 | [Unrealtime](https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi) | [임광균](https://open.spotify.com/artist/5uNWaCVmTX58YBaaE9E3Nv) | [Unrealtime](https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303) | 4:54 | 2024-05-13 |  |
+| [Your sense](https://open.spotify.com/track/3x8SXnXqw1neynfw4XQ0Oj) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 2:44 | 2024-06-05 |  |
+| [Your sense \- Instrumental](https://open.spotify.com/track/4fWevQQkVjxxBpkd6XTzW7) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7Le4mXdEqAHKsPBYXzXmLM) | 2:44 | 2024-06-05 |  |
 | [니가 왜 거기서 나와 \(Narr\. 고은아\)](https://open.spotify.com/track/13sAZcJP2b6D6Qjck3Ixc3) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [고은아](https://open.spotify.com/artist/1RAArFwqMgWgpABSTRAjFD) | [니가 왜 거기서 나와](https://open.spotify.com/album/1eajlFLiGB8pNVdg1FdwUE) | 3:10 | 2024-05-13 |  |
 
 \*This playlist was first scraped on 2024-05-15. Prior content cannot be recovered.

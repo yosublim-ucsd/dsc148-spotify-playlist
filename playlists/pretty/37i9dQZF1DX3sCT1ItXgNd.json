@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana, Sen Senra",
-  "num_followers": 962303,
+  "num_followers": 962334,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2024-06-03 09:03:35",
       "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 182242,
+      "name": "COMO EST\u00c1S BB",
+      "url": "https://open.spotify.com/track/2N2t5tqxcIUn8F9fQb2dIR"
+    },
+    {
+      "added_at": "2024-06-03 09:03:35",
+      "album": {
         "name": "Rotos",
         "url": "https://open.spotify.com/album/1OGl64dIotP5N5tIvamqvO"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 177000,
       "name": "Sin Filtro",
       "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
-    },
-    {
-      "added_at": "2024-06-03 09:03:35",
-      "album": {
-        "name": "EL TIBUR\u00d3N",
-        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 182242,
-      "name": "COMO EST\u00c1S BB",
-      "url": "https://open.spotify.com/track/2N2t5tqxcIUn8F9fQb2dIR"
     },
     {
       "added_at": "2024-06-03 09:03:35",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-06-03 09:03:35",
       "album": {
+        "name": "PETER PAN",
+        "url": "https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 169721,
+      "name": "PETER PAN",
+      "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
+    },
+    {
+      "added_at": "2024-06-03 09:03:35",
+      "album": {
         "name": "Lo Dejo Todo",
         "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 159163,
       "name": "Lo Dejo Todo",
       "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
-    },
-    {
-      "added_at": "2024-06-03 09:03:35",
-      "album": {
-        "name": "PETER PAN",
-        "url": "https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "PETER PAN",
-      "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
     },
     {
       "added_at": "2024-06-03 09:03:35",

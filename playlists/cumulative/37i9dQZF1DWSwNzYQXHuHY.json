@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Cherry Pink",
+        "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Cherry Pink",
+      "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
+    },
+    {
+      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP"
       },
@@ -3264,7 +3282,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 209866,
       "name": "Something Precious",
       "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"

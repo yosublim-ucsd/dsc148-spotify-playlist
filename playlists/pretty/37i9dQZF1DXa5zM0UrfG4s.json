@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 109707,
+  "num_followers": 109718,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Min psykolog",
         "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 160868,
-      "name": "Best p\u00e5 fest",
-      "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -319,6 +303,22 @@
       "duration_ms": 148124,
       "name": "Mekke bil (feat. Tor-Anders Ringnes)",
       "url": "https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 160868,
+      "name": "Best p\u00e5 fest",
+      "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -355,38 +355,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "P\u00e5 hytta g\u00e5r det bra",
-        "url": "https://open.spotify.com/album/6Hg5gU51YHaRdBts9GXmqs"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 129485,
-      "name": "P\u00e5 hytta g\u00e5r det bra",
-      "url": "https://open.spotify.com/track/1bmRqWCbN925Pk8A19g1EE"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Polare",
         "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 205666,
       "name": "Polare",
       "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Harry stil",
+        "url": "https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 161299,
+      "name": "Harry stil",
+      "url": "https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Harry stil",
-        "url": "https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy"
+        "name": "P\u00e5 hytta g\u00e5r det bra",
+        "url": "https://open.spotify.com/album/6Hg5gU51YHaRdBts9GXmqs"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 161299,
-      "name": "Harry stil",
-      "url": "https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn"
+      "duration_ms": 129485,
+      "name": "P\u00e5 hytta g\u00e5r det bra",
+      "url": "https://open.spotify.com/track/1bmRqWCbN925Pk8A19g1EE"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Har du lyst har du lov",
-        "url": "https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 147785,
-      "name": "Har du lyst har du lov",
-      "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Ja likav\u00e4l",
         "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Har du lyst har du lov",
+        "url": "https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 147785,
+      "name": "Har du lyst har du lov",
+      "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Her er det liv",
-        "url": "https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv"
-      },
-      "artists": [
-        {
-          "name": "Br\u00e5tabrann",
-          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
-        }
-      ],
-      "duration_ms": 183104,
-      "name": "Her er det liv",
-      "url": "https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Rull\u00e6r",
         "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 147934,
       "name": "Rull\u00e6r",
       "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Her er det liv",
+        "url": "https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "duration_ms": 183104,
+      "name": "Her er det liv",
+      "url": "https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp"
     },
     {
       "added_at": "2024-05-30 22:00:00",

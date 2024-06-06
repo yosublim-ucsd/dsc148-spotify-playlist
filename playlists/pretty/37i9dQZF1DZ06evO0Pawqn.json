@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9200,
+  "num_followers": 9201,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAiPCQJNldEO7fT6FgqNsAX",
+  "snapshot_id": "Zl5ZAAAAAAB2QaXKJu7gHHmNkRKnHUCv",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Crei",
+      "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Asomate a Mi Alma",
         "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 168594,
       "name": "Anillo Grabado",
       "url": "https://open.spotify.com/track/22AeO4I8LrDlgWVx970V8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 158275,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
     },
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 158275,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -111,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Renunciacion",
-      "url": "https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Mi Reina",
         "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
@@ -139,6 +139,22 @@
       "duration_ms": 210546,
       "name": "Nosotros Tambien Podemos",
       "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Renunciacion",
+      "url": "https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3"
     },
     {
       "added_at": null,
@@ -207,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Arrepientete",
-      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Quisiera Amarte Menos",
-      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -267,6 +251,54 @@
       "duration_ms": 181002,
       "name": "Nada Contigo-La Banqueta",
       "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Cien Anos",
+      "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Arrepientete",
+      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Quisiera Amarte Menos",
+      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
     },
     {
       "added_at": null,
@@ -296,25 +328,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 195291,
-      "name": "Cien Anos",
-      "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 122984,
-      "name": "La Huella de Mis Besos",
-      "url": "https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw"
+      "duration_ms": 195004,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
     },
     {
       "added_at": null,
@@ -331,6 +347,22 @@
       "duration_ms": 177706,
       "name": "Dulce Morena",
       "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 190563,
+      "name": "Un Engano Mas",
+      "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
     },
     {
       "added_at": null,
@@ -360,25 +392,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 195004,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 190563,
-      "name": "Un Engano Mas",
-      "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
+      "duration_ms": 206236,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
     },
     {
       "added_at": null,
@@ -399,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "MI Amiga,MI Amor",
-      "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 206236,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 177502,
-      "name": "Extravio",
-      "url": "https://open.spotify.com/track/4WpmldTXZXmy2n2SQi3HQE"
+      "duration_ms": 122984,
+      "name": "La Huella de Mis Besos",
+      "url": "https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 161026,
       "name": "Cajita De Cart\u00f3n",
       "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "MI Amiga,MI Amor",
+      "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homenaje A Los Grandes: Si No Hay Dinero",
+        "url": "https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Grupo Silverado",
+          "url": "https://open.spotify.com/artist/1vM02XMErBg8ukQrjgtprm"
+        }
+      ],
+      "duration_ms": 147243,
+      "name": "Homenaje A Los Grandes: Si No Hay Dinero",
+      "url": "https://open.spotify.com/track/7EvjaFNG178iozRotq59ke"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tesoros de Coleccion, Vol. 2",
         "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
       },
@@ -687,22 +707,6 @@
       "duration_ms": 190720,
       "name": "Amor de Ayer",
       "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes \u00c9xitos (En Vivo)",
-        "url": "https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 146920,
-      "name": "Mares de Licor - En Vivo",
-      "url": "https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m"
     },
     {
       "added_at": null,
@@ -723,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje A Los Grandes: Si No Hay Dinero",
-        "url": "https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk"
+        "name": "Grandes \u00c9xitos (En Vivo)",
+        "url": "https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Grupo Silverado",
-          "url": "https://open.spotify.com/artist/1vM02XMErBg8ukQrjgtprm"
         }
       ],
-      "duration_ms": 147243,
-      "name": "Homenaje A Los Grandes: Si No Hay Dinero",
-      "url": "https://open.spotify.com/track/7EvjaFNG178iozRotq59ke"
+      "duration_ms": 146920,
+      "name": "Mares de Licor - En Vivo",
+      "url": "https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m"
     },
     {
       "added_at": null,

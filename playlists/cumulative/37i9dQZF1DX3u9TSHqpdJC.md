@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music by independent artists and labels\. Cover: Norah Hendriks Artwork by Paola Saliby
+> The best new pop music by independent artists and labels\. Cover: Peyton McMahon Artwork by Paola Saliby
 
-3,473 songs - 7 day 8 hr 43 min
+3,479 songs - 7 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,8 @@
 | [Don't Speak](https://open.spotify.com/track/5lH2EChSyHjd8oB5wXIuG6) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Don't Speak](https://open.spotify.com/album/2nmYJgDcmugXNbCKVbr5Fc) | 3:18 | 2022-05-25 | 2022-07-07 |
 | [Don't Take Me Home](https://open.spotify.com/track/1EzBl3B4BwfNfrfM4ijheK) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [Don't Take Me Home](https://open.spotify.com/album/65oWIAPrQd39K0yn3CGZ8X) | 3:29 | 2022-03-30 | 2022-04-28 |
 | [Don't Treat Me Like a Stranger](https://open.spotify.com/track/047tmDFTI74Qadk9yGhDGQ) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Don't Treat Me Like a Stranger](https://open.spotify.com/album/66kmdhsKd1V2Pa8hlE0nZc) | 2:45 | 2021-07-29 | 2021-08-26 |
+| [Don't Wake Me Up](https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Don't Wake Me Up](https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC) | 3:06 | 2024-06-05 |  |
+| [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 | 2024-06-05 |  |
 | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/track/4YclYSWapHdn8vgX7oiFez) | [SAVI MINDS](https://open.spotify.com/artist/2PPIKWhRLKnWL4HTip0Osd) | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/album/55MdLhIW8009bP54fhkQcU) | 3:40 | 2020-12-03 | 2020-12-08 |
 | [DON'T WANT YOUR LOVE](https://open.spotify.com/track/1IS3Uc40zYIWnxCAdquoKk) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [DON'T WANT YOUR LOVE](https://open.spotify.com/album/0krOMNmAC1vqyL91cf2Ti8) | 1:56 | 2022-03-30 | 2022-04-14 |
 | [Don't Waste Time](https://open.spotify.com/track/5fYte5OMWPZ6SHKUcaYzqg) | [Imogen Mahdavi](https://open.spotify.com/artist/450tFMCNJ78XtzcjODoWly) | [Don't Waste Time](https://open.spotify.com/album/4N4fYfriNJd7pC2rNxcsPF) | 3:32 | 2020-12-03 | 2020-12-08 |
@@ -999,6 +1001,7 @@
 | [Favourite Clothes](https://open.spotify.com/track/7oUpTUajw3HrcbEoCjKpCt) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Favourite Clothes](https://open.spotify.com/album/3mWnjokIlIO78gJvXYAj2X) | 3:06 | 2021-08-20 | 2021-09-24 |
 | [Fear Of Heights](https://open.spotify.com/track/1Uz9zIn7s9jrUIIWPXiZkA) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Fear Of Heights](https://open.spotify.com/album/39MmlNCMxfdIUzXljtPY8e) | 2:40 | 2021-07-02 | 2021-07-22 |
 | [Fear Of Heights](https://open.spotify.com/track/2lzi9rwIt4ZEnWK7i2xJul) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Outta Line](https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ) | 2:40 | 2021-07-16 | 2021-09-16 |
+| [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 | 2024-06-05 |  |
 | [FEEL IT](https://open.spotify.com/track/6o7XZ3myqqTxtEjZV0Z6jD) | [Bobbi Arlo](https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB) | [FEEL IT](https://open.spotify.com/album/0bYxNQijpmzGVm9PwPIX49) | 3:31 | 2021-03-06 | 2021-04-01 |
 | [Feel Like Forever](https://open.spotify.com/track/7vYwKSpzyel2L7FD3YgVLo) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Feel Like Forever](https://open.spotify.com/album/6ezhc3rnhliC2LRjdo1IG8) | 2:40 | 2022-01-12 | 2022-02-24 |
 | [Feel Like Home](https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Feel Like Home](https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx) | 3:19 | 2020-11-27 | 2020-12-08 |
@@ -2153,6 +2156,7 @@
 | [No Competition](https://open.spotify.com/track/2suZEP7Ksg0ozl91PzdGkV) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [What's Going On !](https://open.spotify.com/album/5rCGxHBPgoLfqLou8MbyzZ) | 3:03 | 2023-05-03 | 2023-11-16 |
 | [NO HALO](https://open.spotify.com/track/2UDmpdnADZIOYzKePhsIo7) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [NO HALO](https://open.spotify.com/album/5OmFuJ0OkD55KqjrgnULTy) | 3:07 | 2021-10-21 | 2021-12-01 |
 | [No Label](https://open.spotify.com/track/37mGmTx3B8282tjd9yqEhX) | [Aiida](https://open.spotify.com/artist/1L3BPRjQGL7d6f38Uj8koo) | [No Label](https://open.spotify.com/album/7nS4n4uZOa445HR2xFaQXO) | 2:18 | 2021-04-01 | 2021-05-13 |
+| [No Love Story](https://open.spotify.com/track/4lbyxlocmi3KVFmGdGdOc0) | [Maggie Ries](https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4) | [No Love Story](https://open.spotify.com/album/50Cus6YoKBaECyhdAmDpIl) | 2:52 | 2024-06-05 |  |
 | [No More](https://open.spotify.com/track/6cQdHu5dZZzIyIjAewqyvT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Princess of the Dead, Vol\. II](https://open.spotify.com/album/3sU90X7RIL5mbanGEjCT0p) | 3:20 | 2020-12-03 | 2020-12-08 |
 | [No One 2 Blame](https://open.spotify.com/track/0PKhJL9BHwc9A45DsQ5cz1) | [deciBelboy](https://open.spotify.com/artist/5HuNrHxhUfN1rvASmeXx0o) | [No One 2 Blame](https://open.spotify.com/album/2VTusMlZ2YnBlizJTOd7xh) | 3:17 | 2020-10-13\* | 2020-11-05 |
 | [No One Is Safe](https://open.spotify.com/track/6X4a9ebR59X1LvoKdnLm1G) | [HØVDING](https://open.spotify.com/artist/1bHdDAbF5gbuKGgOa3APda) | [No One Is Safe](https://open.spotify.com/album/4H0J9Rn0VmbKyZ3MXBP3aZ) | 2:53 | 2022-06-08 | 2022-07-21 |
@@ -2402,7 +2406,7 @@
 | [Pretend](https://open.spotify.com/track/5ZdXp6ruQlKZhd0udym6Ud) | [Sebastian Javier](https://open.spotify.com/artist/7jEax0MCKxovBHDU6AaFca) | [Pretend](https://open.spotify.com/album/6t1xNIVOiLRS8Kz45mp4xm) | 2:41 | 2022-03-30 | 2022-05-05 |
 | [Prettiest Bitch](https://open.spotify.com/track/4nb74on2zXeU0Klk48wL0A) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Prettiest Bitch](https://open.spotify.com/album/0JJLIOAjG35L0gePSTWtYK) | 2:50 | 2023-04-12 | 2023-06-01 |
 | [pretty](https://open.spotify.com/track/5Lz5Uinbzye5zMLt7HZoma) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [pretty](https://open.spotify.com/album/5ljh5pxiw7vbYwdFmMipq6) | 2:18 | 2020-11-18 | 2020-12-08 |
-| [Pretty](https://open.spotify.com/track/7jkLkvAvKIftqUsR4fU6wL) | [Maggie Ries](https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4) | [Pretty](https://open.spotify.com/album/4etUDQRuWlkbZpGUvGayPe) | 2:16 | 2024-04-17 |  |
+| [Pretty](https://open.spotify.com/track/7jkLkvAvKIftqUsR4fU6wL) | [Maggie Ries](https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4) | [Pretty](https://open.spotify.com/album/4etUDQRuWlkbZpGUvGayPe) | 2:16 | 2024-04-17 | 2024-06-06 |
 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 | 2022-11-09 | 2022-12-01 |
 | [Pretty Blue Jeans & Me](https://open.spotify.com/track/5jgEDq4DihrSZV8u4igfIV) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Pretty Blue Jeans & Me](https://open.spotify.com/album/3lzJBYA6Yc7FcjJG1hf1vO) | 2:51 | 2021-10-07 | 2021-11-11 |
 | [Pretty Boy](https://open.spotify.com/track/3wzjs9jgyha7FRp8cdJMzV) | [Maya's Revenge](https://open.spotify.com/artist/2n2S5DTbYFtrLkdhVfRrg3) | [Pretty Boy](https://open.spotify.com/album/1F9XrnjbzV2LBufT8DFLX3) | 2:38 | 2022-09-14 | 2022-11-10 |
@@ -2507,6 +2511,7 @@
 | [Revisionist History](https://open.spotify.com/track/6WqzyO5fcTGpkVMkVwMeVd) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Everything You Wish For](https://open.spotify.com/album/0Pt70D1U1cdRQcOEUJACrn) | 2:57 | 2022-11-09 | 2022-12-01 |
 | [RHS](https://open.spotify.com/track/12thkPhxxUZgfMYDWQI3vA) | [Amanda Rose](https://open.spotify.com/artist/5ocRt6hgJ7Nq01vzjf4jBb) | [RHS](https://open.spotify.com/album/1WohC3QajNwulbCfYNyYln) | 1:33 | 2023-03-15 | 2023-04-27 |
 | [Rich B!tch](https://open.spotify.com/track/1SNNwV0FOTPZK32dLoqdQg) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Rich B!tch](https://open.spotify.com/album/0rN9Wp6354C9lyGGP5jWZd) | 2:39 | 2022-10-12 | 2022-12-01 |
+| [Rich Girl](https://open.spotify.com/track/1kK58GF4QqwnD5px2S1Gcq) | [Gzelle C](https://open.spotify.com/artist/44Q2SrNWZLqAPbqlwojsJ4) | [Rich Girl](https://open.spotify.com/album/23d1emidtu5ij25FKWEtxe) | 2:34 | 2024-06-05 |  |
 | [Rich Girl](https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Rich Girl](https://open.spotify.com/album/4yqJZLW1d2RvtiwnhxsMVa) | 3:45 | 2020-10-13\* | 2021-01-15 |
 | [Ride](https://open.spotify.com/track/3HZgQNLNcrIYQZOO10lxZX) | [Obeeyay](https://open.spotify.com/artist/16CbxK4vGxHUHFD47SJh16) | [Ride](https://open.spotify.com/album/2OxorM1EAEHLLOFbsZFREo) | 2:32 | 2024-02-28 | 2024-06-01 |
 | [Ride Away](https://open.spotify.com/track/7rGr50G03XbBnlzrPu4uSY) | [Chris Billi](https://open.spotify.com/artist/22nAqnu3senYoWsdgd24HF) | [Ride Away](https://open.spotify.com/album/4KjC8rM8fsai3Bnaad2ioQ) | 2:44 | 2021-05-27 | 2021-06-18 |
@@ -2744,7 +2749,7 @@
 | [Someday](https://open.spotify.com/track/5rVDYgucibeNEu3FyaA3gB) | [Kayla Hall](https://open.spotify.com/artist/4AmUGb0jed9TEc5NFINRyv) | [Someday](https://open.spotify.com/album/2ZXCuyC3jTAprnfunrmOev) | 3:47 | 2021-02-25 | 2021-04-22 |
 | [Someday](https://open.spotify.com/track/4fda3DHfuJXdrWOUuQpbzt) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Someday](https://open.spotify.com/album/7EOUlFpxWwFKISRGeqI7NN) | 3:19 | 2023-10-11 | 2023-11-30 |
 | [Somehow, Someway](https://open.spotify.com/track/15XMtA0i97cVlTaiiwuaGq) | [Chad Price](https://open.spotify.com/artist/6u5YH2Wjt9eMPj5RjHEou1) | [Somehow, Someway](https://open.spotify.com/album/67GaUoz2Sf4rNWw8IcRPYF) | 3:18 | 2021-11-11 | 2021-12-01 |
-| [Someone](https://open.spotify.com/track/0D0bi3xh6KJVmZGf27bKR3) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Someone](https://open.spotify.com/album/3hCX0yEonCeJxVVO09FMOL) | 3:19 | 2024-05-22 |  |
+| [Someone](https://open.spotify.com/track/0D0bi3xh6KJVmZGf27bKR3) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Someone](https://open.spotify.com/album/3hCX0yEonCeJxVVO09FMOL) | 3:19 | 2024-05-22 | 2024-06-06 |
 | [Someone Else](https://open.spotify.com/track/2ht6nrwWgId7U7Dl2JSx74) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Someone Else](https://open.spotify.com/album/2VGi7CzoyQpRf85qoZ0Ara) | 3:11 | 2021-10-07 | 2021-12-01 |
 | [Someone Else](https://open.spotify.com/track/6qU02BR4vmHsU1XmIJGDcr) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Someone Else](https://open.spotify.com/album/7vnY4acOcuq15Qf2yIOsDA) | 3:11 | 2021-12-01 | 2022-01-13 |
 | [Someone Else's Problem](https://open.spotify.com/track/73VZ8IXjvmGkYQIxbIAsjQ) | [The New Crowns](https://open.spotify.com/artist/1mBcmA1LnhnRQ4oveognHz) | [Someone Else's Problem](https://open.spotify.com/album/3Tlq2wEzAiT2hUmXuRFCpE) | 2:54 | 2021-07-22 | 2021-09-30 |
@@ -3328,7 +3333,7 @@
 | [What You Don't Know](https://open.spotify.com/track/7nHlGMwQVgU4yeUmNg0AdE) | [Dawson Gamble](https://open.spotify.com/artist/6L26gB3hS9pXEzOvjb6CS7) | [What You Don't Know](https://open.spotify.com/album/17glUrO494KQOnQu0LGma6) | 3:25 | 2020-11-27 | 2020-12-08 |
 | [What You Want](https://open.spotify.com/track/655mg5D5jkLLGKrxZfaftj) | [Liam Barr Jones](https://open.spotify.com/artist/1HfNvK2jJoamFjTBXaRpho) | [What You Want](https://open.spotify.com/album/4G7ZyYQjRCNn6jDVA6soe7) | 2:46 | 2021-04-01 | 2021-05-13 |
 | [WHAT YOU WANT?](https://open.spotify.com/track/5qmkQlGvAsjEMdWfrUUwKP) | [BXB LOVE](https://open.spotify.com/artist/03k90jclqTrew2X2DFnRCC) | [WHAT YOU WANT?](https://open.spotify.com/album/0iNEVpQO8rPShioeA2ndCc) | 2:58 | 2021-10-28 | 2021-12-01 |
-| [What You Wanted](https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [What You Wanted](https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe) | 2:57 | 2024-04-24 |  |
+| [What You Wanted](https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [What You Wanted](https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe) | 2:57 | 2024-04-24 | 2024-06-06 |
 | [What You Wanted](https://open.spotify.com/track/1VQXqN3a32DEnbd90KvGDh) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [What You Wanted](https://open.spotify.com/album/0JiLJmTMMoSR8FDhVy982F) | 3:18 | 2021-04-29 | 2021-05-27 |
 | [What You're Doing](https://open.spotify.com/track/0EGXPBH3xFqLEfZa7BoiLb) | [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [What You're Doing](https://open.spotify.com/album/5sUg9Tumh53ll1OkyEigvv) | 3:04 | 2021-10-28 | 2021-12-01 |
 | [What You're Made Of](https://open.spotify.com/track/3yarLd7RGr79F1jUk5WLlX) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [What You're Made Of](https://open.spotify.com/album/3V1JAPu9uyL0n7DU1hdrzP) | 2:52 | 2021-06-03 | 2021-08-05 |
@@ -3445,6 +3450,7 @@
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2021-09-02 | 2021-09-24 |
 | [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 | 2022-07-06 | 2022-08-04 |
 | [You Don’t Know Me Yet](https://open.spotify.com/track/5iZuZah6zg3CRQzQGi51Vf) | [Alyssa Baker](https://open.spotify.com/artist/6B69HCFm8HCDgGzeAwy1K9) | [You Don’t Know Me Yet](https://open.spotify.com/album/1flU6YH5h4mdG2b8rkoOtw) | 3:20 | 2020-12-03 | 2020-12-08 |
+| [You Got Me](https://open.spotify.com/track/7HgiJTptTSMYrF9gNAOOnx) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [You Got Me](https://open.spotify.com/album/5BiFVPU7IMHSDLO9ItJeYD) | 2:59 | 2024-06-05 |  |
 | [You Got That \(Hometown Smile\)](https://open.spotify.com/track/4hQ4hVrKXZny7ytwlKwf0l) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [You Got That \(Hometown Smile\)](https://open.spotify.com/album/03uOBr7LmsCjOOJJc7aqVj) | 2:56 | 2020-11-27 | 2020-12-08 |
 | [you made me like this](https://open.spotify.com/track/4tFdFGySFruNkHlTwoIlLf) | [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [ALL THE WORDS WE NEVER SAID](https://open.spotify.com/album/52xreJuWQUsl0gKdnBK1ue) | 2:38 | 2023-04-12 | 2023-06-29 |
 | [you make me feel](https://open.spotify.com/track/3fSXG6hm7U9zHja6zgTsUG) | [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [you make me feel](https://open.spotify.com/album/4GH2Qzq4oWm62V84FYYg38) | 3:11 | 2022-03-02 | 2022-04-28 |

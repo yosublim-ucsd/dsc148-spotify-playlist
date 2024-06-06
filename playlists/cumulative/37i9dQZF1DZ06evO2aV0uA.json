@@ -52,10 +52,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 270440,
       "name": "Again We Rise",
       "url": "https://open.spotify.com/track/5b7PFsHhtWAFV2AZC869Mf"
+    },
+    {
+      "album": {
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270440,
+      "name": "Again We Rise",
+      "url": "https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU"
     },
     {
       "album": {
@@ -351,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Descending",
+      "url": "https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ"
+    },
+    {
+      "album": {
         "name": "Sacrament",
         "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
@@ -362,7 +398,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 215240,
       "name": "Descending",
       "url": "https://open.spotify.com/track/2rvQ8M4T6rbpc2c63pwNMu"

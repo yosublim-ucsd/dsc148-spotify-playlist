@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Valentina Marquez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,369 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,427 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 62 | [Atrévete](https://open.spotify.com/track/0g9ThXviJTdKDhj8StP5EE) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Atrévete](https://open.spotify.com/album/56CyDTKDVVyUgrKmXqAbq9) | 3:17 |
 | 63 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 |
 | 64 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 |
-| 65 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
-| 66 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 |
+| 65 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 |
+| 66 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
 | 67 | [Sé que no](https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sé que no](https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC) | 3:00 |
 | 68 | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS) | 4:24 |
 | 69 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 89 | [Adiós](https://open.spotify.com/track/0XVsiJUIo8kvErfwsNJQwH) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Adiós](https://open.spotify.com/album/0HzyU2gL1sMMkkkJwiE5YH) | 2:39 |
 | 90 | [No Dire Que Si](https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Pia Ka](https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix) | [No Dire Que Si](https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj) | 3:33 |
 | 91 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 |
-| 92 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
-| 93 | [Te extraño](https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Te extraño](https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b) | 3:03 |
+| 92 | [Te extraño](https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Te extraño](https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b) | 3:03 |
+| 93 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
 | 94 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 |
 | 95 | [A la mitad](https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A la mitad](https://open.spotify.com/album/1V0M7xCGLG8SEFZVf7OOTJ) | 1:58 |
 | 96 | [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 |
 | 97 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
-| 98 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
-| 99 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 |
+| 98 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 |
+| 99 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 | 100 | [En Esta Boca](https://open.spotify.com/track/2qoViFH47tZDwL86vBOKyL) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez) | [En Esta Boca](https://open.spotify.com/album/0cD8iuFFMVEOpYhpImvyiq) | 3:24 |
 
 Snapshot ID: `ZlovuAAAAAAiWhqztCdJ0KuS0g4u1c40`

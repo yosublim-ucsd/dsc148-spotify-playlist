@@ -1,6 +1,6 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Seph Schlueter",
-  "num_followers": 613651,
+  "num_followers": 613786,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Saved",
-        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
+        "name": "Bright Faith Bold Future",
+        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
       "artists": [
         {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
         }
       ],
-      "duration_ms": 174285,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Bright Faith Bold Future",
-        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+        "name": "Saved",
+        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
         }
       ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+      "duration_ms": 174285,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "CHOOSE TO WORSHIP",
+        "url": "https://open.spotify.com/album/2YkuRwXmz9uCPklzmKZ69L"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "I CHOOSE TO WORSHIP",
+      "url": "https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "All My Hope",
         "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "CHOOSE TO WORSHIP",
-        "url": "https://open.spotify.com/album/2YkuRwXmz9uCPklzmKZ69L"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "I CHOOSE TO WORSHIP",
-      "url": "https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
       },
@@ -1511,26 +1511,6 @@
       "duration_ms": 276574,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Lead On Good Shepherd",
-        "url": "https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO"
-      },
-      "artists": [
-        {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Lead On Good Shepherd",
-      "url": "https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1555,6 +1535,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Lead On Good Shepherd",
+        "url": "https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Lead On Good Shepherd",
+      "url": "https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Prize Worth Fighting For",
         "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 200520,
       "name": "Prize Worth Fighting For",
       "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Unstoppable God",
-        "url": "https://open.spotify.com/album/1A4SJIJYSZ90HyNFiePRIW"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Unstoppable God",
-      "url": "https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 256782,
       "name": "Greater Than All My Regrets",
       "url": "https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Unstoppable God",
+        "url": "https://open.spotify.com/album/1A4SJIJYSZ90HyNFiePRIW"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Unstoppable God",
+      "url": "https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1695,18 +1695,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
       "artists": [
         {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        },
+        {
+          "name": "Courtney",
+          "url": "https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV"
         }
       ],
-      "duration_ms": 197800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+      "duration_ms": 323946,
+      "name": "Pioneers",
+      "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
     }
   ],
   "unique_name": "Christian Mix",

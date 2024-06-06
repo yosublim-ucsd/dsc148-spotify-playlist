@@ -2,7 +2,7 @@
 
 ### [K\-Club Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: Yves\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: <br/> ARTMS\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
 695 songs - 1 day 13 hr 42 min
 

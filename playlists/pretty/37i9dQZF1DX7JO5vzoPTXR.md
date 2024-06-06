@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK?si=z\-L2he2hTlih1L4oq3QYqQ">Yimeeka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,902 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,920 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 2 | [Here With You](https://open.spotify.com/track/7CtddlO4AqYmv8oxlVpzpi) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Alter Ego](https://open.spotify.com/album/5KUMDwDkyP49cod9yh2ZVD) | 2:44 |
 | 3 | [Escapism](https://open.spotify.com/track/77AFJKt0T2fwS1NuTnhZmW) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Escapism](https://open.spotify.com/album/6Hfu17ye4cuDJKMGwX1J1Z) | 3:08 |
 | 4 | [All On Me \- Spotify Singles](https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [All On Me \(Spotify Singles\)](https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7) | 3:04 |
-| 5 | [Harsh](https://open.spotify.com/track/4LTZQBgGntLBPN8HlIhCFy) | [BOBBI](https://open.spotify.com/artist/7rDW6qMEbfuFk8I631TEMT) | [Harsh](https://open.spotify.com/album/0S58PInDojmOd597vUpKsw) | 2:34 |
-| 6 | [Fumando en la ventana](https://open.spotify.com/track/5MDrqNKmu2NuUS52FdJ0eP) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [AKIRA](https://open.spotify.com/album/55vb8fcsVKgEe0BOKF4hPN) | 2:20 |
-| 7 | [Forever Young](https://open.spotify.com/track/0H1oGCqjkte5yrgGbyqoh9) | [KTJ & CARLY](https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M) | [Forever Young](https://open.spotify.com/album/1xdAZxSmmluHNwmu2t5Mn5) | 2:44 |
-| 8 | [When We Were Young](https://open.spotify.com/track/6jw2564EsP1vaWHSr92jJ1) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [When We Were Young](https://open.spotify.com/album/0ywGYczqTNpuAU5jrpG4CU) | 3:12 |
+| 5 | [Fumando en la ventana](https://open.spotify.com/track/5MDrqNKmu2NuUS52FdJ0eP) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [AKIRA](https://open.spotify.com/album/55vb8fcsVKgEe0BOKF4hPN) | 2:20 |
+| 6 | [Forever Young](https://open.spotify.com/track/0H1oGCqjkte5yrgGbyqoh9) | [KTJ & CARLY](https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M) | [Forever Young](https://open.spotify.com/album/1xdAZxSmmluHNwmu2t5Mn5) | 2:44 |
+| 7 | [When We Were Young](https://open.spotify.com/track/6jw2564EsP1vaWHSr92jJ1) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [When We Were Young](https://open.spotify.com/album/0ywGYczqTNpuAU5jrpG4CU) | 3:12 |
+| 8 | [Harsh](https://open.spotify.com/track/4LTZQBgGntLBPN8HlIhCFy) | [BOBBI](https://open.spotify.com/artist/7rDW6qMEbfuFk8I631TEMT) | [Harsh](https://open.spotify.com/album/0S58PInDojmOd597vUpKsw) | 2:34 |
 | 9 | [Forbidden Feelingz](https://open.spotify.com/track/6c21bVRfGC8IOXvQVQ2UTb) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:46 |
 | 10 | [Anyone I Want \- Flava D Remix](https://open.spotify.com/track/3yKfXgsfIxtTvJYIBea3o1) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Anyone I Want \(Flava D Remix\)](https://open.spotify.com/album/6iIzb7K84jMU6j1JzGPQpe) | 3:54 |
 | 11 | [Don't Let It Stop](https://open.spotify.com/track/3xH49rV1s1gcLjv88SdAcp) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Don't Let It Stop](https://open.spotify.com/album/5SNweEWlo0pIpMMgBtSAoU) | 2:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 40 | [Golden Child](https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Golden Child](https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa) | 4:03 |
 
-Snapshot ID: `Zl+qCAAAAABhl/23q1jsiljYOvdV8t2l`
+Snapshot ID: `ZmBVxgAAAACTxwmOESUro5YY6RPGQc+f`

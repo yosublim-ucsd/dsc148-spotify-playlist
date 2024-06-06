@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-10",
-  "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
+  "description": "This is Lana Del Rey. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Lana Del Rey",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 314533,
       "name": "Black Beauty",
       "url": "https://open.spotify.com/track/63hHlajVLQnlFMAqSyePxO"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 300683,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 274293,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 285050,
       "name": "Did you know that there's a tunnel under Ocean Blvd",
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 202192,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 272485,
       "name": "Happiness is a butterfly",
       "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 247150,
       "name": "Mariners Apartment Complex",
       "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 234146,
       "name": "Pretty When You Cry",
       "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 323280,
       "name": "Religion",
       "url": "https://open.spotify.com/track/1Yh4lOCbcskjSfYPDnn7EW"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 281093,
       "name": "Salvatore",
       "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 215295,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/6x8g6DxglrzCSwKhv2Q1ee"

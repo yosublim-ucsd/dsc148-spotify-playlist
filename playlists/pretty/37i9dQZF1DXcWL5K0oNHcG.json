@@ -1,13 +1,97 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie.",
-  "num_followers": 218317,
+  "num_followers": 218475,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZldRDAAAAADPsCFMAQ+HYmtgtgS9oP1A",
+  "snapshot_id": "Zl/iwAAAAACXt+nkiEwwcPf0TaRbycDg",
   "tracks": [
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Moon Kin",
+        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "QWALE",
+          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        },
+        {
+          "name": "Vincenzo Lato",
+          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+        }
+      ],
+      "duration_ms": 156838,
+      "name": "Samo",
+      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Hello Sunshine",
+        "url": "https://open.spotify.com/album/6UT5hjlcmki1GQumy4MKB7"
+      },
+      "artists": [
+        {
+          "name": "TAMMIE",
+          "url": "https://open.spotify.com/artist/6jRwwKnIyUB02nBzse5T4B"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/06eqjfPposQZfedZhoNTdH"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 219281,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "FUNky Times",
+        "url": "https://open.spotify.com/album/0d45OchIMYFoiFv79GMDGF"
+      },
+      "artists": [
+        {
+          "name": "Hania Derej Quintet",
+          "url": "https://open.spotify.com/artist/4Vzko1vyJTE1freRkh8F6P"
+        },
+        {
+          "name": "Hania Derej",
+          "url": "https://open.spotify.com/artist/2IU2updV8nCbwezu453ame"
+        }
+      ],
+      "duration_ms": 348786,
+      "name": "FUNky Times",
+      "url": "https://open.spotify.com/track/7J5CbXTXO0pIdPza9Pytpe"
+    },
     {
       "added_at": "2024-05-29 16:00:12",
       "album": {
@@ -663,22 +747,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Scorched Earth",
-        "url": "https://open.spotify.com/album/4XXEzNOWb07Ioo54JSX5FI"
-      },
-      "artists": [
-        {
-          "name": "Orbit Kid",
-          "url": "https://open.spotify.com/artist/02JAIOhEOWVb66sekCzGqz"
-        }
-      ],
-      "duration_ms": 177516,
-      "name": "Scorched Earth",
-      "url": "https://open.spotify.com/track/2my7N8zznV6BICQDkWNK7Z"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Oumuamua",
         "url": "https://open.spotify.com/album/6nuVkm6dza8i2UAhTppVIg"
       },
@@ -831,90 +899,6 @@
       "duration_ms": 179560,
       "name": "Cosmic Traveler",
       "url": "https://open.spotify.com/track/4EqND1UdBuVqDnuzXw5J11"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "From the Fire",
-        "url": "https://open.spotify.com/album/1bbB0rXdfZ8jO7TWuOZMmo"
-      },
-      "artists": [
-        {
-          "name": "Audrey Powne",
-          "url": "https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm"
-        }
-      ],
-      "duration_ms": 298733,
-      "name": "From the Fire",
-      "url": "https://open.spotify.com/track/7ptZN3udg7LZzmAcT2p85E"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "LUA",
-        "url": "https://open.spotify.com/album/3BSlZ8TJHd7PjFhjBGdErn"
-      },
-      "artists": [
-        {
-          "name": "Filipe Rosset",
-          "url": "https://open.spotify.com/artist/35w950duS41GbEsWV2DQEq"
-        },
-        {
-          "name": "benjamin francis",
-          "url": "https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "phonon",
-          "url": "https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y"
-        },
-        {
-          "name": "David Binney",
-          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Dave Eggar",
-          "url": "https://open.spotify.com/artist/76H3P1c4PIomESKq0JDiLn"
-        },
-        {
-          "name": "Michael Wang",
-          "url": "https://open.spotify.com/artist/5WBi8jHnllY29gnOGltewV"
-        },
-        {
-          "name": "Ben Sutin",
-          "url": "https://open.spotify.com/artist/5U6QYt1Lx7JNVbeg2zkgdz"
-        },
-        {
-          "name": "Dan Hitchcock",
-          "url": "https://open.spotify.com/artist/2PsETi89TqApSKLwVY50mq"
-        }
-      ],
-      "duration_ms": 351283,
-      "name": "LUA",
-      "url": "https://open.spotify.com/track/327ApgUIoKw0KAe9CSmJzY"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Plays",
-        "url": "https://open.spotify.com/album/0dDBTho3KpdknTeHgfOgS0"
-      },
-      "artists": [
-        {
-          "name": "Nicole Glover",
-          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
-        }
-      ],
-      "duration_ms": 287226,
-      "name": "The Fox",
-      "url": "https://open.spotify.com/track/2ONZE0FG9CkmclhyXtsa2s"
     },
     {
       "added_at": "2024-04-03 04:00:00",

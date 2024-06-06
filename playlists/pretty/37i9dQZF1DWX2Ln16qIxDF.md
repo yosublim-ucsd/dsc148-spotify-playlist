@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Lo más pegado, lo más trendy, o sea Luck Ra, Maluma & KHEA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,944 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,274 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 43 | [Otra Noche](https://open.spotify.com/track/6RMnctkTxWZgzrFlxCHjXG) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/72SN7yLFYzocX4639W6YJj) | 3:15 |
 | 44 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 |
 | 45 | [Noche de Estrellas](https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Noche de Estrellas](https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r) | 3:08 |
-| 46 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
+| 46 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/2pX7mTbVFlbojNogeVs5G1), [El negro tecla](https://open.spotify.com/artist/7Hom0kx4MtW8NsLO5jB0NE) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
 | 47 | [BRINCANDO](https://open.spotify.com/track/2rDr08hLBZLu4aVFKuQRuY) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [BRINCANDO](https://open.spotify.com/album/4BgSbrA8QJn6ygkAbWYkb5) | 1:55 |
 | 48 | [tinta 90](https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:46 |
 | 49 | [THE ROOF IS ON FIRE](https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [THE ROOF IS ON FIRE](https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4) | 1:52 |

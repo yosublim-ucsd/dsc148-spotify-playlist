@@ -1,12 +1,12 @@
 {
-  "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 296049,
+  "description": "This is Akon. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 296149,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAF67MXw2e+qwZO8+5Awxyg",
+  "snapshot_id": "Zl5ZAAAAAAAxrlIsAtknMJVLv803PnN9",
   "tracks": [
     {
       "added_at": null,
@@ -83,30 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Play Hard (feat. Ne-Yo & Akon)",
-      "url": "https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
       },
@@ -123,22 +99,6 @@
       "duration_ms": 238800,
       "name": "Bartender (feat. Akon)",
       "url": "https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "Don't Matter",
-      "url": "https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4"
     },
     {
       "added_at": null,
@@ -183,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra-One",
-        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Hamsika Iyer",
-          "url": "https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61"
-        }
-      ],
-      "duration_ms": 227091,
-      "name": "Chammak Challo",
-      "url": "https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Konvicted",
         "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
@@ -219,6 +159,26 @@
       "duration_ms": 247066,
       "name": "I Wanna Love You",
       "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ra-One",
+        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Hamsika Iyer",
+          "url": "https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61"
+        }
+      ],
+      "duration_ms": 227091,
+      "name": "Chammak Challo",
+      "url": "https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs"
     },
     {
       "added_at": null,
@@ -403,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 235306,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
@@ -447,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curtis",
-        "url": "https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "I'll Still Kill",
-      "url": "https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
@@ -483,6 +439,26 @@
       "duration_ms": 237173,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curtis",
+        "url": "https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "I'll Still Kill",
+      "url": "https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5"
     },
     {
       "added_at": null,
@@ -587,6 +563,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Bananza (Belly Dancer)",
+      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colby O",
         "url": "https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3"
       },
@@ -619,6 +631,34 @@
       "duration_ms": 260866,
       "name": "Keep You Much Longer",
       "url": "https://open.spotify.com/track/6yDvLWVeAdIFTmEZYyqEQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+        "url": "https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+      "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
     },
     {
       "added_at": null,
@@ -699,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra-One",
-        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
-        }
-      ],
-      "duration_ms": 306503,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Right Now (Na Na Na) [Sped Up]",
         "url": "https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw"
       },
@@ -743,6 +759,30 @@
       "duration_ms": 226709,
       "name": "Right Now (Na Na Na) - Sped Up",
       "url": "https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ra-One",
+        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "duration_ms": 306503,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X"
     },
     {
       "added_at": null,
@@ -787,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "I Wanna Love You - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -823,26 +883,6 @@
       "duration_ms": 241253,
       "name": "Snitch",
       "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "I Wanna Love You - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi"
     },
     {
       "added_at": null,
@@ -983,50 +1023,6 @@
       "duration_ms": 183206,
       "name": "Enjoy That",
       "url": "https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chop My Money",
-        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "May D",
-          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
-        }
-      ],
-      "duration_ms": 272297,
-      "name": "Chop My Money - Remix",
-      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Boss' Life",
-      "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
     }
   ],
   "unique_name": "This Is Akon",

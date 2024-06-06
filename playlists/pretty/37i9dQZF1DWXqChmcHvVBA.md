@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: elaggume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,156 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,410 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 20 | [30 GRADOS](https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg) | 2:31 |
 | 21 | [SIN PATENTE \(feat\. Croniko\)](https://open.spotify.com/track/4BW8CjPqTC2kmVdV12DLWl) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Dinámica](https://open.spotify.com/artist/1VnVowUweu4H27ObVYDYyF), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Croniko](https://open.spotify.com/artist/48zNOMeloS59dYMVEKwZdb) | [SIN PATENTE \(feat\. Croniko\)](https://open.spotify.com/album/0igbSHYet98otWeYUMOndq) | 2:37 |
 | 22 | [FIESTA PUNKY](https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [FIESTA PUNKY](https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8) | 2:24 |
-| 23 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
+| 23 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/2pX7mTbVFlbojNogeVs5G1), [El negro tecla](https://open.spotify.com/artist/7Hom0kx4MtW8NsLO5jB0NE) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
 | 24 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 |
 | 25 | [Rompe](https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Rompe](https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X) | 2:21 |
 | 26 | [Azote \- Remix](https://open.spotify.com/track/6862W0OJNwhytsXSpCQZ5k) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Azote \(Remix\)](https://open.spotify.com/album/7uFvIYuaRywnVcpPKYNd5y) | 3:46 |

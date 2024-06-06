@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Dutch Criminal Record
 
-273 songs - 15 hr 31 min
+274 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 | 2024-02-23 |  |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2023-01-10 |  |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2023-01-10 | 2023-02-24 |
+| [FUNEMPLOYED](https://open.spotify.com/track/0dJSowlbPfKjd37EsCJiEK) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Tales of a Likely Lad](https://open.spotify.com/album/4JZPmUsxxFpKkn4jvjnmai) | 3:02 | 2024-05-31 |  |
 | [Gaslight](https://open.spotify.com/track/0Ow0xBXS5g4q7vYvdcZIqi) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Gaslight](https://open.spotify.com/album/6Trkgc0inzePZjY1R6flBi) | 3:27 | 2024-05-31 |  |
 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 | 2024-04-15 |  |
 | [Get Me Started](https://open.spotify.com/track/1hc98h2pyMvYo6MAS18aDN) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Get Me Started](https://open.spotify.com/album/4sn2Ucedh0ERO2flaG1KdB) | 3:41 | 2024-04-15 |  |
@@ -242,7 +243,7 @@
 | [The Enemy](https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa) | 3:08 | 2023-01-10 | 2023-03-09 |
 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 | 2023-02-24 | 2024-01-06 |
 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 | 2023-01-10 |  |
-| [the story after they're gone](https://open.spotify.com/track/5ostObKG4ipzOoad4BANQT) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [the story after they're gone](https://open.spotify.com/album/3sjR9zaEdAsOmOzHWUEjcb) | 3:14 | 2024-04-15 |  |
+| [the story after they're gone](https://open.spotify.com/track/5ostObKG4ipzOoad4BANQT) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [the story after they're gone](https://open.spotify.com/album/3sjR9zaEdAsOmOzHWUEjcb) | 3:14 | 2024-04-15 | 2024-06-06 |
 | [The Sulking Poet](https://open.spotify.com/track/1WxuWPQNbgeeGUgXk5Te8P) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/0bOTBOc1p5IbwQqjDXoC2C) | 3:34 | 2024-04-15 |  |
 | [The Sulking Poet](https://open.spotify.com/track/4RpGkjgHNP8DjB6mp7uvsz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/3hf9qJwWDOOjfyNI1esiGG) | 3:34 | 2023-01-10 | 2023-06-08 |
 | [The Wedding](https://open.spotify.com/track/4GUEDu38RFFLqv74a403kb) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [New Last Name](https://open.spotify.com/album/7DnPfehpIKOC7BVsUc0a8H) | 3:49 | 2024-01-26 | 2024-04-09 |

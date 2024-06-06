@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > Si la rompe está acá\. Foto: Los Ángeles Azules & Emilia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,374,116 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,374,274 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 | 13 | [Tal Para Cual](https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tal Para Cual](https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy) | 2:31 |
 | 14 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 |
 | 15 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 |
-| 16 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
+| 16 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/2pX7mTbVFlbojNogeVs5G1), [El negro tecla](https://open.spotify.com/artist/7Hom0kx4MtW8NsLO5jB0NE) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
 | 17 | [M.A.I](https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:04 |
 | 18 | [El Super Junte Rkt](https://open.spotify.com/track/1dtFrIzrr4DJZOHHESVwbt) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [El Super Junte Rkt](https://open.spotify.com/album/4kRkwZhpcxCFWP7NfWAGtY) | 6:23 |
 | 19 | [BBY BOO \- REMIX](https://open.spotify.com/track/43PiEypaceH339CSNiggyj) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BBY BOO \(REMIX\)](https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9) | 4:35 |

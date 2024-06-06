@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 7749,
+  "num_followers": 7754,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABLn7rNZT8Efeirzosn3JFD",
+  "snapshot_id": "Zl5ZAAAAAAAJtTAaDe9J3V+JmhTKVxla",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 231720,
-      "name": "Dead In The Water",
-      "url": "https://open.spotify.com/track/1vvzn2ZqR7p31b5ohClWhO"
+      "duration_ms": 222240,
+      "name": "Where Can I Stab Myself In The Ears",
+      "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 222240,
-      "name": "Where Can I Stab Myself In The Ears",
-      "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK"
+      "duration_ms": 231720,
+      "name": "Dead In The Water",
+      "url": "https://open.spotify.com/track/1vvzn2ZqR7p31b5ohClWhO"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
@@ -580,25 +564,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 222673,
-      "name": "Holy Coast",
-      "url": "https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg"
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -619,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
       },
       "artists": [
         {
@@ -628,9 +596,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 163605,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+      "duration_ms": 222673,
+      "name": "Holy Coast",
+      "url": "https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 171733,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 163605,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 266314,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 162160,
       "name": "Abandoned Driveways",
       "url": "https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 266314,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
     },
     {
       "added_at": null,

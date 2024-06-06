@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Feel Like Hell Today",
+        "url": "https://open.spotify.com/album/7A5cd8etZqqXpbXUsnLdE5"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Feel Like Hell Today",
+      "url": "https://open.spotify.com/track/2vAb9wcdtpEEo076TgO0GV"
+    },
+    {
+      "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },

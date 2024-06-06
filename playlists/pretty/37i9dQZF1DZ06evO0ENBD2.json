@@ -1,12 +1,12 @@
 {
-  "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4849493,
+  "description": "This is Queen. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 4849769,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAAAJVC1qezNMyc78t886XgGR",
+  "snapshot_id": "Zl5ZAAAAAABj/QZk1vUF4KdutqinuvJB",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face It Alone",
-        "url": "https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Face It Alone",
-      "url": "https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen II (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
       },
@@ -767,22 +751,6 @@
       "duration_ms": 78666,
       "name": "Nevermore - Remastered 2011",
       "url": "https://open.spotify.com/track/6n7zeRIrGj8hTFxNWGb9k1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Tie Your Mother Down - Remastered 2011",
-      "url": "https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu"
     },
     {
       "added_at": null,
@@ -803,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Tie Your Mother Down - Remastered 2011",
+      "url": "https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Night At The Opera (2011 Remaster)",
         "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
       },
@@ -819,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Miracle (2011 Remaster)",
-        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
       },
       "artists": [
         {
@@ -828,9 +812,29 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 237680,
-      "name": "The Invisible Man - Remastered 2011",
-      "url": "https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8"
+      "duration_ms": 213826,
+      "name": "Princes Of The Universe - Remastered 2011",
+      "url": "https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits III",
+        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
+      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
     }
   ],
   "unique_name": "This Is Queen",

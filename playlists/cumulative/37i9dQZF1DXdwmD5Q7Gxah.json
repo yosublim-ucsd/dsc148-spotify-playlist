@@ -36586,7 +36586,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 142449,
       "name": "Rag",
       "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
@@ -37098,7 +37098,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 206459,
       "name": "Riding Around In The Dark",
       "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
@@ -42260,7 +42260,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 159213,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
@@ -49143,6 +49143,24 @@
     },
     {
       "album": {
+        "name": "WALLBOY",
+        "url": "https://open.spotify.com/album/7F7guXxj0PfWJTlPedzy0w"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190129,
+      "name": "WALLBOY",
+      "url": "https://open.spotify.com/track/6Qfgiw4D78yZQsvAmb3MJL"
+    },
+    {
+      "album": {
         "name": "Wannabe - Spotify Singles",
         "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
       },
@@ -49786,6 +49804,24 @@
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "album": {
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/0veYtiZMaSdl8dDipcvSYN"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358226,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/1JbI6oy4mq3ANNNoAbpkwS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-438 songs - 1 day 3 hr 3 min
+439 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2023-03-20 |  |
 | [Mars Walk](https://open.spotify.com/track/0xAh6kOHUk9mWKNEH60aut) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Mars Walk](https://open.spotify.com/album/1mwBt9QErZLgnSVNfbfTdm) | 4:03 | 2022-02-17 | 2022-04-29 |
 | [May As Well Be](https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [May As Well Be](https://open.spotify.com/album/0Exes1EGyeTL8Sw5to9tVo) | 4:00 | 2022-02-17 | 2022-11-26 |
+| [May This Dance Last Forever](https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [May This Dance Last Forever](https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq) | 2:49 | 2024-05-24 |  |
 | [maybe as his skies are wide](https://open.spotify.com/track/71ub8FJO1gg3OmLfBdrl53) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [maybe as his skies are wide](https://open.spotify.com/album/5ukrLKfu9H82bixRgKGFTL) | 3:43 | 2022-02-17 | 2022-04-23 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2023-03-20 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-03-20 |  |
@@ -375,7 +376,7 @@
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-03-20 |  |
 | [The Message](https://open.spotify.com/track/1L6cVfyVnlkd3Heg8Ylb0M) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The Message](https://open.spotify.com/album/6eYurS4v6bT0aOsnXwYnVa) | 4:10 | 2022-02-17 | 2022-07-28 |
 | [The Message](https://open.spotify.com/track/4coCk3GIa2lYd2y5uySZja) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 4:10 | 2022-06-22 | 2022-10-07 |
-| [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-20 |  |
+| [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-20 | 2024-06-06 |
 | [The Other Side](https://open.spotify.com/track/6QQhvz6gvWh6r9SJLkWDPi) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Other Side](https://open.spotify.com/album/1h1lCBNb4OinPezoP17VBW) | 3:38 | 2022-03-03 | 2022-06-03 |
 | [The People's Changes](https://open.spotify.com/track/7uYrtiRSwgK6KccFG9iJo7) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matt Dal Din](https://open.spotify.com/artist/7M4LaKk6OEcNxF4cKKhEsX), [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Aron Ottignon](https://open.spotify.com/artist/6iRKnXGoDegUsRqRZ5SBlK), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV) | [The People's Changes](https://open.spotify.com/album/7pMXg7uSgfZTt3lNYksc64) | 3:42 | 2022-02-17 | 2022-12-16 |
 | [The Resurrection](https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te) | 4:03 | 2022-06-22 | 2023-03-21 |

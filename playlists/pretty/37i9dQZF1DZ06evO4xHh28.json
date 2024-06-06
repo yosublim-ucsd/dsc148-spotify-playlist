@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 560678,
+  "num_followers": 560749,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAACUKsgDauW/mIkUDGTPgCLG",
+  "snapshot_id": "Zl5ZAAAAAADl8tW964YsAsKlZvfOJ0w1",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -119,86 +135,6 @@
       "duration_ms": 366560,
       "name": "Demolition Lovers",
       "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Bulletproof Heart",
-      "url": "https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "The Ghost of You",
-      "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Boy Division",
-      "url": "https://open.spotify.com/track/7wzNovIu5urOjulGX4VzFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Planetary (GO!)",
-      "url": "https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo"
     },
     {
       "added_at": null,
@@ -228,9 +164,25 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 173733,
-      "name": "You Know What They Do to Guys Like Us in Prison",
-      "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
+      "duration_ms": 194253,
+      "name": "The Ghost of You",
+      "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 296733,
+      "name": "Bulletproof Heart",
+      "url": "https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO"
     },
     {
       "added_at": null,
@@ -251,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous Last Words",
-        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
@@ -260,9 +212,57 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 268883,
-      "name": "Kill All Your Friends",
-      "url": "https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a"
+      "duration_ms": 142973,
+      "name": "Cancer",
+      "url": "https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "You Know What They Do to Guys Like Us in Prison",
+      "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Planetary (GO!)",
+      "url": "https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Boy Division",
+      "url": "https://open.spotify.com/track/7wzNovIu5urOjulGX4VzFo"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 142973,
-      "name": "Cancer",
-      "url": "https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number Three",
-        "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
+        "name": "Famous Last Words",
+        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 312760,
-      "name": "The Light Behind Your Eyes",
-      "url": "https://open.spotify.com/track/3HyDpKAuR3e4l6QB7hSB2l"
+      "duration_ms": 268883,
+      "name": "Kill All Your Friends",
+      "url": "https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 299226,
-      "name": "Famous Last Words",
-      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
+      "duration_ms": 195520,
+      "name": "Dead!",
+      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Number Three",
+        "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 312760,
+      "name": "The Light Behind Your Eyes",
+      "url": "https://open.spotify.com/track/3HyDpKAuR3e4l6QB7hSB2l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Parade Is Dead!",
-        "url": "https://open.spotify.com/album/7N29psReKsIR8HOltPJqYS"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 81653,
-      "name": "Blood - End Credits",
-      "url": "https://open.spotify.com/track/0Kt9sF46S7DFKrQOsXqidV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 305053,
       "name": "Early Sunsets Over Monroeville",
       "url": "https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Parade Is Dead!",
+        "url": "https://open.spotify.com/album/7N29psReKsIR8HOltPJqYS"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 81653,
+      "name": "Blood - End Credits",
+      "url": "https://open.spotify.com/track/0Kt9sF46S7DFKrQOsXqidV"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to the Black Parade",
-        "url": "https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 174613,
-      "name": "Heaven Help Us",
-      "url": "https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 272906,
-      "name": "DESTROYA",
-      "url": "https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Five",
         "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 207666,
       "name": "Surrender the Night",
       "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to the Black Parade",
+        "url": "https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 174613,
+      "name": "Heaven Help Us",
+      "url": "https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number Four",
-        "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Kiss the Ring",
-      "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "May Death Never Stop You",
         "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 200786,
       "name": "Fake Your Death",
       "url": "https://open.spotify.com/track/2M8g01v2vUMn39YQ10l7ef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number Four",
+        "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Kiss the Ring",
+      "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 7281,
+  "num_followers": 7328,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlu2AAAAAABVaWbGhkyTGMY62oZYThGx",
+  "snapshot_id": "Zl5ZAAAAAABqbEITpBmfA0ywYOH2COKD",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
       },
       "artists": [
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 130307,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
     },
     {
       "added_at": null,
@@ -615,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
       },
       "artists": [
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 163970,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+      "duration_ms": 130307,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
     },
     {
       "added_at": null,

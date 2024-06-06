@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-2,181 songs - 4 day 13 hr 28 min
+2,183 songs - 4 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,7 +619,7 @@
 | [EUPHORIA](https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [EUPHORIA](https://open.spotify.com/album/3lbRR6P1ii0y7Hwg4Fef77) | 2:18 | 2023-07-15 | 2023-07-17 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-11 |  |
 | [Eurosport](https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Eurosport](https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8) | 2:42 | 2024-04-13 | 2024-05-14 |
-| [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-02-28 |  |
+| [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-02-28 | 2024-06-06 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2022-11-01 | 2022-11-03 |
 | [Everywhere \(feat\. Sophie Hunger\)](https://open.spotify.com/track/3tclrcMq55RBexbs0hg77O) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:09 | 2022-10-01 | 2022-10-03 |
 | [Ewa Zina](https://open.spotify.com/track/6bwKe4LzFLvoXRYtHpims4) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Ewa Zina](https://open.spotify.com/album/0T7Tgbd6oN5KSofV69PPnB) | 2:31 | 2023-02-04 | 2023-02-06 |
@@ -1244,7 +1244,8 @@
 | [mietfrei](https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:21 | 2023-10-14 | 2023-11-05 |
 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 | 2023-07-15 | 2023-10-15 |
 | [Milano](https://open.spotify.com/track/4wXJldkJcvxENCYs5ghbNj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Himmel über Berlin](https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK) | 1:41 | 2022-09-30 | 2022-10-03 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-04 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-04 | 2024-06-06 |
 | [Millionär](https://open.spotify.com/track/0QltWldlWMsdcxCgmJss3k) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Millionär](https://open.spotify.com/album/3C0Z7ww2Fhw1FENZy8yRGZ) | 2:58 | 2022-10-29 | 2022-10-31 |
 | [MINIMUM \(feat\. Bonez MC\)](https://open.spotify.com/track/0eLwzWx2WsbZfQQ335bLPQ) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [HARAGA](https://open.spotify.com/album/3V3AIKtUap0JXwWP4QKaUp) | 3:29 | 2023-05-20 | 2023-05-30 |
 | [Mir geht's gut :\):](https://open.spotify.com/track/77mILV6S1Tn90DC03KEcjP) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:47 | 2023-08-26 | 2023-09-01 |
@@ -1369,6 +1370,7 @@
 | [Nie wieder Tilidin](https://open.spotify.com/track/59uDpo0zIDbxrefqRRdpDo) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [DUNJA EP](https://open.spotify.com/album/6UnNAVzYYL7iXlCivZRlxQ) | 2:23 | 2023-05-20 | 2023-05-23 |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-03-30 | 2022-05-15 |
 | [Night Time](https://open.spotify.com/track/5ZlDH3QGtOYUDZEhrI5XiE) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Night Time](https://open.spotify.com/album/17YQMQgiuWyXGimN5MSOGM) | 2:51 | 2024-01-13 | 2024-01-17 |
+| [Night Time](https://open.spotify.com/track/7HPrXEq6YR2b6TWRScTQVR) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Night Time](https://open.spotify.com/album/2fdafzxDMqDRUUBIRotisz) | 2:51 | 2024-06-05 |  |
 | [Nightcrawler \(feat\. Swae Lee & Chief Keef\)](https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:21 | 2024-02-16 | 2024-02-18 |
 | [nimm mit](https://open.spotify.com/track/4uDyEmWYoyfi2azbGS4IVs) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [kleine Feuer](https://open.spotify.com/album/7pEVxmXGwVioPkQtRI1frc) | 2:39 | 2024-05-11 | 2024-05-13 |
 | [NINA](https://open.spotify.com/track/0j4WzFni16kp0YquOHOwL8) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [NINA](https://open.spotify.com/album/3AcyNtY9jjJYscS49sdntl) | 2:24 | 2024-04-13 | 2024-04-29 |

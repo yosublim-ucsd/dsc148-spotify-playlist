@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Lyna Mahyem \(du titre \#1 au \#15\).
 
-1,253 songs - 2 day 17 hr 1 min
+1,254 songs - 2 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-08-01 | 2023-09-06 |
 | [All about You](https://open.spotify.com/track/4VaHgBmYEJbOjbdUGq2irJ) | [Bonnie Li](https://open.spotify.com/artist/1mswgtBZE0xMQkJU4NhWpH) | [Le Bleu du Rouge](https://open.spotify.com/album/4GhxCRcuL82Y0SOyrhLjB8) | 3:16 | 2022-05-03 | 2022-06-01 |
 | [All I Want](https://open.spotify.com/track/4ULbFe9TkGcHbK8nkDnHL6) | [Roseland](https://open.spotify.com/artist/00D0fRKvSoYVOiyMwCfuZn) | [Unsaid Words](https://open.spotify.com/album/3RP3YVrZNX1aUaJzUttj1O) | 3:55 | 2022-04-05 | 2022-05-04 |
+| [All My Life](https://open.spotify.com/track/6xLQnlTtuRXPvzt2Rx7Zke) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [We're all gonna die anyway,](https://open.spotify.com/album/5l6SN84f1hv6LrboTqcKKj) | 3:57 | 2024-06-04 |  |
 | [Aller retour](https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [528 HZ](https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd) | 3:18 | 2024-01-09 | 2024-03-06 |
 | [Allô, à l'eau](https://open.spotify.com/track/7a2OfQXytJH62sGZTa4Cx5) | [Roxanne](https://open.spotify.com/artist/7KJvchd58yNBv7FNAvIk2W) | [Allô, à l'eau](https://open.spotify.com/album/1l51nWSucsizq6b3HK8zuO) | 2:55 | 2023-07-04 | 2023-09-06 |
 | [Alma](https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Alma](https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he) | 3:40 | 2022-04-05 | 2022-05-04 |

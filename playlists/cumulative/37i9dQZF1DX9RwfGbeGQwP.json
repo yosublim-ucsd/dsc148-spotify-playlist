@@ -5837,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l"
+      },
+      "artists": [
+        {
+          "name": "Lueco",
+          "url": "https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122086,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ"
+    },
+    {
+      "album": {
         "name": "donut worry",
         "url": "https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR"
       },
@@ -15752,7 +15770,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 127884,
       "name": "Neurons",
       "url": "https://open.spotify.com/track/3gsZFTu3zxzRjnQlUvzgJo"

@@ -1070,6 +1070,24 @@
     {
       "album": {
         "name": "First Steps",
+        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
+    },
+    {
+      "album": {
+        "name": "First Steps",
         "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
       "artists": [
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-06",
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"

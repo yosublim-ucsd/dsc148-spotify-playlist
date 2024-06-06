@@ -1,12 +1,12 @@
 {
   "description": "Kittie on top of today's best Metal playlist.",
-  "num_followers": 1495352,
+  "num_followers": 1495589,
   "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllL7AAAAADdRejUU5vqAxZmpjmURlIi",
+  "snapshot_id": "ZmC59wAAAAAweFKJ/2osT45ZvIl8tQ/T",
   "tracks": [
     {
       "added_at": "2024-05-31 04:02:52",
@@ -119,26 +119,6 @@
     {
       "added_at": "2024-05-31 04:02:52",
       "album": {
-        "name": "RATATATA",
-        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "RATATATA",
-      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
-    },
-    {
-      "added_at": "2024-05-31 04:02:52",
-      "album": {
         "name": "MAGNETIC",
         "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
       },
@@ -211,6 +191,26 @@
     {
       "added_at": "2024-05-31 04:02:52",
       "album": {
+        "name": "RATATATA",
+        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "RATATATA",
+      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
+    },
+    {
+      "added_at": "2024-05-31 04:02:52",
+      "album": {
         "name": "Brave New World",
         "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
       },
@@ -267,6 +267,38 @@
     {
       "added_at": "2024-05-31 04:02:52",
       "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Granite",
+      "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
+    },
+    {
+      "added_at": "2024-05-31 04:02:52",
+      "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 208399,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1l2AhmjfTTmo5lxTej3XcJ"
+    },
+    {
+      "added_at": "2024-05-31 04:02:52",
+      "album": {
         "name": "Chaotic",
         "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
       },
@@ -279,26 +311,6 @@
       "duration_ms": 171794,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
-    },
-    {
-      "added_at": "2024-05-31 04:02:52",
-      "album": {
-        "name": "AfterLife (Deluxe)",
-        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 167264,
-      "name": "This Is The Way (feat. DMX)",
-      "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
     },
     {
       "added_at": "2024-05-31 04:02:52",
@@ -355,6 +367,26 @@
     {
       "added_at": "2024-05-31 04:02:52",
       "album": {
+        "name": "AfterLife (Deluxe)",
+        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 167264,
+      "name": "This Is The Way (feat. DMX)",
+      "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
+    },
+    {
+      "added_at": "2024-05-31 04:02:52",
+      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -375,38 +407,6 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
-    },
-    {
-      "added_at": "2024-05-31 04:02:52",
-      "album": {
-        "name": "Take Me Back To Eden",
-        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Granite",
-      "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
-    },
-    {
-      "added_at": "2024-05-31 04:02:52",
-      "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 208399,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1l2AhmjfTTmo5lxTej3XcJ"
     },
     {
       "added_at": "2024-05-31 04:02:52",
