@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
+  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
   "name": "This Is Eros Ramazzotti",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 232613,
       "name": "Perfetto",
       "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 203320,
       "name": "Un Angelo Disteso Al Sole",
       "url": "https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 253240,
       "name": "Yo sin ti - Remastered 2021",
       "url": "https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq"

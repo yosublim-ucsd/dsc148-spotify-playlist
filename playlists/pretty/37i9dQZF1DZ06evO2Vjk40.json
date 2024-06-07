@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 614049,
+  "num_followers": 614298,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAAAtm4ed/txad0WKRK5LDgFZ",
+  "snapshot_id": "Zl+qgAAAAADvajmXUAVyjvO1paLExmh+",
   "tracks": [
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 242466,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QZMOZaXCN7GQjr3qKWAwA"
+      "duration_ms": 203400,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/13CG7pABtW9ZgttdS49935"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/13CG7pABtW9ZgttdS49935"
+      "duration_ms": 242466,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QZMOZaXCN7GQjr3qKWAwA"
     },
     {
       "added_at": null,

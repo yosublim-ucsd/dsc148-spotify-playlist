@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 23859,
+  "num_followers": 23858,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAABhZNZyBXGx0PT1LAbTLqYP",
+  "snapshot_id": "Zl+qgAAAAADeaMQ5F3hBQCfW6WIB7gXE",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Acoustic Covers Vol 1",
-        "url": "https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb"
-      },
-      "artists": [
-        {
-          "name": "Kurt Hugo Schneider",
-          "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 233375,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
         "url": "https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 164613,
       "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
       "url": "https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Acoustic Covers Vol 1",
+        "url": "https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Hugo Schneider",
+          "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 233375,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
     },
     {
       "added_at": null,

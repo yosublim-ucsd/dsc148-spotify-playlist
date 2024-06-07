@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Bunbury con Arde Bogotá.
+> Lo mejor del rock de aquí, como Estopa.
 
-408 songs - 1 day 2 hr 27 min
+409 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Luz de las Velas](https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 4:03 | 2024-03-14 | 2024-04-12 |
 | [Lápiz y tinta](https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Astronomía Razonable](https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS) | 3:46 | 2023-10-26 | 2024-04-12 |
 | [Madrid, Madrid, Madrid](https://open.spotify.com/track/72ko9QbSW0PIR8rD0WItAH) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Madrid, Madrid, Madrid](https://open.spotify.com/album/6aCaSgOJi2AgrnWCjk9Zo1) | 2:21 | 2024-05-23 |  |
+| [Mal Acompañado](https://open.spotify.com/track/1bTN3Da5Uf5qVgszKxclFV) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [Barato y Romántico](https://open.spotify.com/album/67YZLavU5Cbm6AiwvwalLb) | 2:54 | 2024-06-06 |  |
 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 | 2022-05-19 |  |
 | [Malas Noticias \(En Directo\)](https://open.spotify.com/track/0Z8d26MEynF542z5TIZGp7) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Malas Noticias \(En Directo\)](https://open.spotify.com/album/7rfiUVDE8q7b7YGbaVmjoY) | 3:24 | 2022-05-19 | 2022-06-17 |
 | [Malicia 1 \- Demo](https://open.spotify.com/track/6v7y5EddXfbd5JNnukIghN) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Malicia 1 \(Demo\)](https://open.spotify.com/album/3mGBD7Frblo0ZZGNho3UMc) | 3:16 | 2022-09-08 | 2022-09-23 |
@@ -282,7 +283,7 @@
 | [Ni Yo para Ti, Ni Tú para Mí](https://open.spotify.com/track/0en5Nqka9QXEuUQGrHRO2g) | [Uge](https://open.spotify.com/artist/05JI76GAuZpyhT7W9y54Ut), [Pau Donés](https://open.spotify.com/artist/29g0ReLnpcvjzLZoAmAzKJ), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Ni Yo para Ti, Ni Tú para Mí](https://open.spotify.com/album/0PfoFrcdQNDSPiAFCHpVoe) | 4:29 | 2022-06-23 | 2022-07-22 |
 | [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 | 2022-07-21 | 2024-04-19 |
 | [No Hay Tregua](https://open.spotify.com/track/40lauWDcbFQgigWgrVyoqM) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Todo Barricada](https://open.spotify.com/album/5dFoK9nYAxK0JXgDoSz61f) | 2:58 | 2022-05-19 | 2022-07-29 |
-| [No Me Gusta Conducir](https://open.spotify.com/track/2nEdNloA4GhrVBvh2oEXaq) | [Luis Carrillo](https://open.spotify.com/artist/0ZSHJBv0OtASJEtM4VBESg) | [No Me Gusta Conducir](https://open.spotify.com/album/20WEXzdTZEibWECXYvWzU5) | 3:00 | 2024-05-30 |  |
+| [No Me Gusta Conducir](https://open.spotify.com/track/2nEdNloA4GhrVBvh2oEXaq) | [Luis Carrillo](https://open.spotify.com/artist/0ZSHJBv0OtASJEtM4VBESg) | [No Me Gusta Conducir](https://open.spotify.com/album/20WEXzdTZEibWECXYvWzU5) | 3:00 | 2024-05-30 | 2024-06-07 |
 | [No pasarán](https://open.spotify.com/track/19tQYmXLw10IJ6dguaSrJD) | [Jesús Cifuentes](https://open.spotify.com/artist/4ne6IMY0VZ8acKd2Rkv5fA), [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [No pasarán](https://open.spotify.com/album/0ujCMP1AojVi5qdzcNYZlf) | 2:36 | 2023-07-20 | 2023-07-28 |
 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 | 2022-05-19 |  |
 | [Noche Oscura \(feat\. Leiva\)](https://open.spotify.com/track/5YHKrFUEX8aQJRPCS1Yl9W) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Noche Oscura \(feat\. Leiva\)](https://open.spotify.com/album/1jPnCEyNgE8SSiSZn3qq5b) | 3:50 | 2022-06-16 | 2022-06-21 |

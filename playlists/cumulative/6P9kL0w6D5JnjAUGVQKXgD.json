@@ -27555,6 +27555,32 @@
     },
     {
       "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/33faDdsC76mgbWQGBTAw7Z"
+      },
+      "artists": [
+        {
+          "name": "Ocean Roses",
+          "url": "https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4"
+        },
+        {
+          "name": "L.A",
+          "url": "https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2"
+        },
+        {
+          "name": "XiVi",
+          "url": "https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/1LPMktEFTcExqYm2x4D0Rf"
+    },
+    {
+      "album": {
         "name": "Start Over",
         "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
       },
@@ -31902,7 +31928,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 165120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5URUwwIzuK3yNX3j652Cza"

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Melly",
-  "num_followers": 344104,
+  "num_followers": 344123,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -351,38 +351,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Eu n\u00e3o t\u00f4 bem",
-        "url": "https://open.spotify.com/album/377PD3X26PookRc8iWwcu2"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Eu n\u00e3o t\u00f4 bem",
-      "url": "https://open.spotify.com/track/05SC9r9wlESAkkxWhzv2aL"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Neste Contexto",
-        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "Neste Contexto",
-      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -403,18 +371,34 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "FICA",
-        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
         }
       ],
-      "duration_ms": 206781,
-      "name": "FICA",
-      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Eu n\u00e3o t\u00f4 bem",
+        "url": "https://open.spotify.com/album/377PD3X26PookRc8iWwcu2"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Eu n\u00e3o t\u00f4 bem",
+      "url": "https://open.spotify.com/track/05SC9r9wlESAkkxWhzv2aL"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -431,6 +415,22 @@
       "duration_ms": 144000,
       "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
       "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "FICA",
+        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 206781,
+      "name": "FICA",
+      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -467,6 +467,38 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Sons da Lagoa",
+        "url": "https://open.spotify.com/album/02tnPTnWp0MT6UREYoJhbP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Diniz",
+          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "Sons da Lagoa",
+      "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Golpe Baixo",
+        "url": "https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 158749,
+      "name": "Golpe Baixo",
+      "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Faz Parte Do Meu Show",
         "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
       },
@@ -483,22 +515,6 @@
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Sons da Lagoa",
-        "url": "https://open.spotify.com/album/02tnPTnWp0MT6UREYoJhbP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Diniz",
-          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
-        }
-      ],
-      "duration_ms": 135346,
-      "name": "Sons da Lagoa",
-      "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 249554,
       "name": "At\u00e9 o fim",
       "url": "https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Golpe Baixo",
-        "url": "https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 158749,
-      "name": "Golpe Baixo",
-      "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -803,30 +803,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Abre Alas",
-        "url": "https://open.spotify.com/album/6FJnOvFisHuRl54X9wedcP"
-      },
-      "artists": [
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        },
-        {
-          "name": "George Robert",
-          "url": "https://open.spotify.com/artist/4xGPulLtcIrFb9lddYv2lT"
-        },
-        {
-          "name": "Leo Amuedo",
-          "url": "https://open.spotify.com/artist/0ucoRtPFoLQTjyPahQZz4Y"
-        }
-      ],
-      "duration_ms": 332106,
-      "name": "Abre Alas",
-      "url": "https://open.spotify.com/track/5uMzEzOgJv7tfhV5CxgyVJ"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/6FJnOvFisHuRl54X9wedcP"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        },
+        {
+          "name": "George Robert",
+          "url": "https://open.spotify.com/artist/4xGPulLtcIrFb9lddYv2lT"
+        },
+        {
+          "name": "Leo Amuedo",
+          "url": "https://open.spotify.com/artist/0ucoRtPFoLQTjyPahQZz4Y"
+        }
+      ],
+      "duration_ms": 332106,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5uMzEzOgJv7tfhV5CxgyVJ"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Depois Da Meia Noite",
+        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Depois Da Meia Noite",
+      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Cheguei pra ficar",
         "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
@@ -959,26 +979,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Depois Da Meia Noite",
-        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "Depois Da Meia Noite",
-      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Qual \u00c9 a Sua?",
         "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Esporte Fino",
-        "url": "https://open.spotify.com/album/3H6f4PgTDEa5yj25b4FkqU"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 148037,
-      "name": "Esporte Fino",
-      "url": "https://open.spotify.com/track/6PEIWY9GXsQCAEf0671GJR"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Vaga-Lumes",
         "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 181226,
       "name": "Vaga-Lumes",
       "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Esporte Fino",
+        "url": "https://open.spotify.com/album/3H6f4PgTDEa5yj25b4FkqU"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Esporte Fino",
+      "url": "https://open.spotify.com/track/6PEIWY9GXsQCAEf0671GJR"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Sambur\u00e1",
         "url": "https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg"
       },
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Mar dos desejos",
+        "url": "https://open.spotify.com/album/7t0rgbtuvmEb8s4ep1gnHC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 222101,
+      "name": "Amanh\u00e3 talvez",
+      "url": "https://open.spotify.com/track/3PncaZwjzGlIIP4x7U86vy"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "O Vento",
         "url": "https://open.spotify.com/album/40Rsk68l9BWUbTqlbZKJH7"
       },
@@ -1167,22 +1199,6 @@
       "duration_ms": 214992,
       "name": "O Vento",
       "url": "https://open.spotify.com/track/4LkoWJaD6nAftnz9w6r4Lr"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 142921,
       "name": "quentinha",
       "url": "https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Mar dos desejos",
-        "url": "https://open.spotify.com/album/7t0rgbtuvmEb8s4ep1gnHC"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        }
-      ],
-      "duration_ms": 222101,
-      "name": "Amanh\u00e3 talvez",
-      "url": "https://open.spotify.com/track/3PncaZwjzGlIIP4x7U86vy"
     },
     {
       "added_at": "2024-05-31 03:00:00",

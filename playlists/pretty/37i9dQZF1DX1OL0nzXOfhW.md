@@ -2,36 +2,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: sanjay.
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:  Zelos Wong 黃凱逸
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,926 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,924 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOT OVER YOU \- Demo](https://open.spotify.com/track/0NAKaGZeBHWYXOEFwDahb5) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [NOT OVER YOU \(Demo\)](https://open.spotify.com/album/4syqsrCwBHxiAoAILBEPyG) | 3:45 |
-| 2 | [2myself](https://open.spotify.com/track/7vRKbFoml08cLlOip1DHhv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [2myself](https://open.spotify.com/album/6Zcsm5NSEf0aqEeYtsEMi2) | 1:59 |
-| 3 | [21](https://open.spotify.com/track/74qTkUdWvA41zDIETDRlzb) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [21](https://open.spotify.com/album/0Ft9M2KyqYSKuBm6cxi138) | 1:36 |
-| 4 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
-| 5 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
-| 6 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 |
-| 7 | [5pm](https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [5pm](https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W) | 3:44 |
-| 8 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 |
-| 9 | [這裡等](https://open.spotify.com/track/0oMRpIiFKeVinsWubA39bv) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [十月八日記](https://open.spotify.com/album/6Ulo2WTKUB1feiJ89URvci) | 3:30 |
-| 10 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 |
-| 11 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 |
-| 12 | [heartbreak\_demo](https://open.spotify.com/track/7paQoUMrXYEFJvucVmS8nl) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [heartbreak\_demo](https://open.spotify.com/album/0uS2NDetcgz7WXm98XdLHw) | 3:39 |
-| 13 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 |
-| 14 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 |
-| 15 | [Tender Lover](https://open.spotify.com/track/4t4kEwlfJXNmEnnCLNHKwm) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:24 |
-| 16 | [Soufflé](https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Soufflé](https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB) | 3:02 |
-| 17 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 |
-| 18 | [ODDESSY](https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9) | 2:42 |
-| 19 | [Mr\. Nobody](https://open.spotify.com/track/4BLLabgvIOkn6nJF0flywa) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [Mr\. Nobody](https://open.spotify.com/album/4BHmoJJ6w2fZOXiXgtZWmd) | 2:56 |
-| 20 | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/track/1ECUIV8lgeLLKx4FP92aX7) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I), [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/album/3JuWMejLdX2RxP0VhL3WiM) | 3:22 |
-| 21 | [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 |
-| 22 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 |
-| 23 | [三人床](https://open.spotify.com/track/1ldAqS0wQSO2kDcfD3mkdU) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [EmergenZy](https://open.spotify.com/album/05OOs0NKwloQvg96FITa2M) | 2:38 |
-| 24 | [吟鈴](https://open.spotify.com/track/4BMXFGL8U6FjzUSWHty6LD) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [EmergenZy](https://open.spotify.com/album/05OOs0NKwloQvg96FITa2M) | 2:54 |
+| 1 | [三人床](https://open.spotify.com/track/1ldAqS0wQSO2kDcfD3mkdU) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [EmergenZy](https://open.spotify.com/album/05OOs0NKwloQvg96FITa2M) | 2:38 |
+| 2 | [吟鈴](https://open.spotify.com/track/4BMXFGL8U6FjzUSWHty6LD) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [EmergenZy](https://open.spotify.com/album/05OOs0NKwloQvg96FITa2M) | 2:54 |
+| 3 | [NOT OVER YOU \- Demo](https://open.spotify.com/track/0NAKaGZeBHWYXOEFwDahb5) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [NOT OVER YOU \(Demo\)](https://open.spotify.com/album/4syqsrCwBHxiAoAILBEPyG) | 3:45 |
+| 4 | [2myself](https://open.spotify.com/track/7vRKbFoml08cLlOip1DHhv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [2myself](https://open.spotify.com/album/6Zcsm5NSEf0aqEeYtsEMi2) | 1:59 |
+| 5 | [21](https://open.spotify.com/track/74qTkUdWvA41zDIETDRlzb) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [21](https://open.spotify.com/album/0Ft9M2KyqYSKuBm6cxi138) | 1:36 |
+| 6 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
+| 7 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
+| 8 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 |
+| 9 | [5pm](https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [5pm](https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W) | 3:44 |
+| 10 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 |
+| 11 | [這裡等](https://open.spotify.com/track/0oMRpIiFKeVinsWubA39bv) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [十月八日記](https://open.spotify.com/album/6Ulo2WTKUB1feiJ89URvci) | 3:30 |
+| 12 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 |
+| 13 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 |
+| 14 | [heartbreak\_demo](https://open.spotify.com/track/7paQoUMrXYEFJvucVmS8nl) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [heartbreak\_demo](https://open.spotify.com/album/0uS2NDetcgz7WXm98XdLHw) | 3:39 |
+| 15 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 |
+| 16 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 |
+| 17 | [Tender Lover](https://open.spotify.com/track/4t4kEwlfJXNmEnnCLNHKwm) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:24 |
+| 18 | [Soufflé](https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Soufflé](https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB) | 3:02 |
+| 19 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 |
+| 20 | [ODDESSY](https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9) | 2:42 |
+| 21 | [Mr\. Nobody](https://open.spotify.com/track/4BLLabgvIOkn6nJF0flywa) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [Mr\. Nobody](https://open.spotify.com/album/4BHmoJJ6w2fZOXiXgtZWmd) | 2:56 |
+| 22 | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/track/1ECUIV8lgeLLKx4FP92aX7) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I), [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/album/3JuWMejLdX2RxP0VhL3WiM) | 3:22 |
+| 23 | [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 |
+| 24 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 |
 | 25 | [半空](https://open.spotify.com/track/3WQrsXin9ApgBiCvmbtfOg) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [半空](https://open.spotify.com/album/4u30oOR3tTkzO0QHrYteIu) | 4:26 |
 | 26 | [Like A Fool](https://open.spotify.com/track/74KUVmTg0RB1lqyfNIRN2Z) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Like A Fool](https://open.spotify.com/album/6aSI7yKwnsDDr6JL0oSZud) | 2:24 |
 | 27 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 47 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 48 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `ZliigAAAAAC6FalnttNQS9k3L80XIT7n`
+Snapshot ID: `ZmHdAAAAAADEqv3QgFo0qyNrlqwtIU8g`

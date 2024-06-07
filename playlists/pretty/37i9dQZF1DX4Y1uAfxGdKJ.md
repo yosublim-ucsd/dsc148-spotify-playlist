@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,989 likes - 130 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,051 likes - 130 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 33 | [Sunset Sauvage](https://open.spotify.com/track/6AKBxFKtsDSfggV52LU6Z1) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Sunset Sauvage](https://open.spotify.com/album/4Qh4c8iOP2bGziPsObVRQm) | 3:24 |
 | 34 | [Edges](https://open.spotify.com/track/4nizdi2QD1J01AmmYRjehu) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Edges](https://open.spotify.com/album/1VzddjE5R4TV7rdtl5rQaA) | 3:43 |
 | 35 | [Don't Let Me Go](https://open.spotify.com/track/7uwJpCvlcyfG54bSjhTt6y) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Don't Let Me Go](https://open.spotify.com/album/148BXYzHTXdCTiu5iK4drv) | 2:28 |
-| 36 | [Redo](https://open.spotify.com/track/3gizIvFngufBoa5KWCSh6b) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Redo](https://open.spotify.com/album/6XwqnKNgyYm16VylDGgbnO) | 3:14 |
+| 36 | [Redo](https://open.spotify.com/track/3gizIvFngufBoa5KWCSh6b) | [ABSTRCT](https://open.spotify.com/artist/72XZynqAgAS9w2ZCdvrNYz) | [Redo](https://open.spotify.com/album/6XwqnKNgyYm16VylDGgbnO) | 3:14 |
 | 37 | [Rio](https://open.spotify.com/track/6YfOCDOSc45vW6TBwFlYPL) | [JKP](https://open.spotify.com/artist/25MKxy3PlF0H2OePJX3ryf) | [Rio](https://open.spotify.com/album/3RlNPcbUzQRBTYLkGx4PI1) | 4:39 |
 | 38 | [Inner Light](https://open.spotify.com/track/2ohFbsoB7uVvTTgCk7aWY3) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Inner Light](https://open.spotify.com/album/0kyY8NnooE5jHa3TBB2Dd9) | 3:57 |
 | 39 | [Glacier](https://open.spotify.com/track/2W8nY0OmBoOaPtGxtJ3chw) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Glacier](https://open.spotify.com/album/73k8K7hyjXrHqmfEXpOyZf) | 2:12 |

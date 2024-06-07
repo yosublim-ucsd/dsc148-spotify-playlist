@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Merayu (Live)",
+        "url": "https://open.spotify.com/album/7CDKnC3gJuKaiiMYL5v1du"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276995,
+      "name": "Merayu - Live",
+      "url": "https://open.spotify.com/track/50fiMmuMbK6NacXfcxQ1yB"
+    },
+    {
+      "album": {
         "name": "Midua Cinta 2",
         "url": "https://open.spotify.com/album/0XBrWExffE5qF8PM66ATkn"
       },

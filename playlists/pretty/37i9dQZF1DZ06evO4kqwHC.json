@@ -1,29 +1,13 @@
 {
-  "description": "This is Foo Fighters. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1063231,
+  "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
+  "num_followers": 1063347,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAACCBmYHHya5639afGJLNazT",
+  "snapshot_id": "Zl+qgAAAAABrgPa0m4FLzT60gIzf2p6Z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
     {
       "added_at": null,
       "album": {
@@ -475,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 321053,
-      "name": "Stranger Things Have Happened",
-      "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 248266,
       "name": "Hey, Johnny Park!",
       "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 321053,
+      "name": "Stranger Things Have Happened",
+      "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
     },
     {
       "added_at": null,
@@ -539,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -567,6 +535,22 @@
       "duration_ms": 83800,
       "name": "Doll",
       "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
     },
     {
       "added_at": null,
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 208706,
       "name": "No Son Of Mine",
       "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
     },
     {
       "added_at": null,
@@ -683,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Alone + Easy Target",
-      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -711,6 +679,22 @@
       "duration_ms": 257426,
       "name": "Shame Shame",
       "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Alone + Easy Target",
+      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
     },
     {
       "added_at": null,
@@ -747,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 310600,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 135573,
+      "name": "Up In Arms",
+      "url": "https://open.spotify.com/track/05TcC5ZN9rp8Glx8A9C2Nd"
     },
     {
       "added_at": null,

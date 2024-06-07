@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : Dadju x Tayc",
+  "description": "Le meilleur des hits ! Photo : Sia",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 188960,
       "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/3MFphLI59LK2MqvVY9ZMTZ"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Facile \u00e0 danser",
+        "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Facile \u00e0 danser",
+      "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
+    },
+    {
+      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/2U2BM552LnpdQaBfh1TkRs"
       },
@@ -1773,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "album": {
         "name": "In The Stars (French Version)",
         "url": "https://open.spotify.com/album/2VmbPgtq2R4rqZbZQjWD3u"
       },
@@ -2081,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -2212,7 +2266,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 207035,
       "name": "Les \u00e9toiles",
       "url": "https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3"
@@ -2444,7 +2498,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 181388,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
@@ -2462,7 +2516,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 172727,
       "name": "Madrid City",
       "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
@@ -3011,6 +3065,28 @@
     },
     {
       "album": {
+        "name": "Queen of My Castle",
+        "url": "https://open.spotify.com/album/6sV8sz1lhDo4JFyMnUa8mx"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156290,
+      "name": "Queen of My Castle",
+      "url": "https://open.spotify.com/track/5svpgXwbxHqyZcvTJFBWa2"
+    },
+    {
+      "album": {
         "name": "Recommence-moi",
         "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
       },
@@ -3186,7 +3262,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 192991,
       "name": "SEMPRE / JAMAIS (feat. Ang\u00e8le)",
       "url": "https://open.spotify.com/track/4kPslR1KKiN9QOZnK5he23"

@@ -4,10 +4,11 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: Tố My
 
-144 songs - 11 hr 25 min
+146 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Anh Sáu về quê](https://open.spotify.com/track/3zS3OfAs1Qm1c65jcbSax3) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP), [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Tâm Sự Với Em](https://open.spotify.com/album/32UlNLpuEyZoeqi53lurja) | 5:05 | 2024-06-06 |  |
 | [Ba Khía Giao Duyên](https://open.spotify.com/track/2qWTWy3lECQbh2YtOn8RQj) | [Đình Văn](https://open.spotify.com/artist/1gmlQgEQyq1beDMA8I4uNJ), [Mai Yen Chi](https://open.spotify.com/artist/6lpRi8Gi9xLSI9YpeMbe6V) | [Ba Khía Giao Duyên](https://open.spotify.com/album/34t52YJOVInSRYRLmDLfCb) | 3:10 | 2022-05-12 |  |
 | [Bang Long Di Em](https://open.spotify.com/track/537X1rYAOJdz06khkwzg5e) | [Quốc Đại](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Khuc Nhac Mung Xuan](https://open.spotify.com/album/7MC5EKc8315m203dFwEhOX) | 4:27 | 2022-05-12 |  |
 | [Bậu Về Nơi Đâu](https://open.spotify.com/track/6KOF37EGduM2G3QUJzpqNf) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Bậu Về Nơi Đâu](https://open.spotify.com/album/3p1MHBItPmL2RTOzw2NB1q) | 5:26 | 2022-05-12 | 2023-01-19 |
@@ -122,7 +123,8 @@
 | [Tình Quê Miền Tây](https://open.spotify.com/track/6NRYHavXmrMOATx1fD2R5L) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/2mlBrhzgZa2ZXExKfHdBae) | 4:35 | 2022-05-12 |  |
 | [Tình Thắm Duyên Quê \(feat\. Tuấn Hải\)](https://open.spotify.com/track/08rPtjcJX0PAqCkjaYnVtf) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Tuấn Hải](https://open.spotify.com/artist/4B7hhylN1PiEpEMQ00RsBp) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:33 | 2022-07-15 | 2024-04-19 |
 | [Tình Thắm Duyên Quê \(feat\. Tuấn Hải\)](https://open.spotify.com/track/6q1VeovKP37DbG2kexlv2k) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Tuấn Hải](https://open.spotify.com/artist/4B7hhylN1PiEpEMQ00RsBp) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/2mlBrhzgZa2ZXExKfHdBae) | 4:33 | 2022-05-12 |  |
-| [Tình Đẹp Hậu Giang \(feat\. Lưu Ánh Loan\)](https://open.spotify.com/track/6A7wX0El7vBggFvYVxac9u) | [Đoàn Minh](https://open.spotify.com/artist/0H8DQXB1lKU8QExRbpOndQ), [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tuyển Tập Bài Hát Hit Của Đoàn Minh](https://open.spotify.com/album/0byvX8eQnGICDmn4sLZhWD) | 6:22 | 2024-02-23 |  |
+| [Tình Đẹp Hậu Giang](https://open.spotify.com/track/1lykeqy7eLFANCAEO6fIZW) | [Saka Trương Tuyền](https://open.spotify.com/artist/06SicyiJaPtTdRWR015ZKw), [Lưu Chí Vỹ](https://open.spotify.com/artist/4Cshc48qUDcOC3r5D9n16f) | [Tình Đẹp Hậu Giang](https://open.spotify.com/album/3c26hTJOc14aaWnC0UYJcy) | 4:25 | 2024-06-06 |  |
+| [Tình Đẹp Hậu Giang \(feat\. Lưu Ánh Loan\)](https://open.spotify.com/track/6A7wX0El7vBggFvYVxac9u) | [Đoàn Minh](https://open.spotify.com/artist/0H8DQXB1lKU8QExRbpOndQ), [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tuyển Tập Bài Hát Hit Của Đoàn Minh](https://open.spotify.com/album/0byvX8eQnGICDmn4sLZhWD) | 6:22 | 2024-02-23 | 2024-06-07 |
 | [Tết Hết Ga](https://open.spotify.com/track/4pgAxk2aNyxT7Yun9z2Ipz) | [Hoàng Lan](https://open.spotify.com/artist/6gXYhFIsjEGdcXcw4cRRP9), [Hào JK](https://open.spotify.com/artist/1NHHWa4xi8t3LIoOFtyCQu), [SinKra](https://open.spotify.com/artist/2T5dRhMqYYZCEx7zwRd9yP) | [Tết Hết Ga](https://open.spotify.com/album/0itVyG6JYyo1G9ml5yOwk6) | 3:24 | 2024-01-23 | 2024-03-18 |
 | [Tết Về Miền Tây](https://open.spotify.com/track/07VnCAzjNOeKQZkWaC6UGE) | [Sona](https://open.spotify.com/artist/350AkrG58FEwakiQekOcZz) | [Tết Về Miền Tây](https://open.spotify.com/album/772mRepAs67iZ1rFgdpfBi) | 3:51 | 2023-01-18 |  |
 | [Về Miền Tây](https://open.spotify.com/track/5aGK4NYBqRQET6S0ZlGBKj) | [Nghệ sĩ Thụy Mười](https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ) | [Về Miền Tây](https://open.spotify.com/album/0zprVApNTxzbO8qipA7eZB) | 4:54 | 2024-01-25 |  |
@@ -151,6 +153,6 @@
 | [Đẹp mối duyên quê](https://open.spotify.com/track/2QmzslvPYjF7Ubas31niaZ) | [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8), [Le Sang](https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff) | [Tuyển Tập Song Ca \(Thương Mối Tình Đầu\)](https://open.spotify.com/album/6SQX1wP7rHofPZnAMUKPco) | 4:53 | 2022-07-15 | 2022-11-13 |
 | [Đẹp Mối Duyên Quê \(feat\. Ngọc Kiều Oanh\)](https://open.spotify.com/track/1aRoFrHr1Jv2fKrKC0mgld) | [Lê Sang](https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ), [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8) | [Tổng Hợp Bài Hát Của Lê Sang](https://open.spotify.com/album/5uMNk9HqwKVVzh3TuVLYkS) | 4:53 | 2022-07-15 | 2024-04-19 |
 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/0Y4zReHkU1uCxHuWr28X99) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/5XlqK2sXfMN501ULIprcY9) | 5:42 | 2023-07-18 |  |
-| [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 | 2022-05-12 |  |
+| [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 | 2022-05-12 | 2024-06-07 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

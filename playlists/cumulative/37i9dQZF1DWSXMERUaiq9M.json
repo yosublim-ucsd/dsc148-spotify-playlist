@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142103,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
+    },
+    {
+      "album": {
         "name": "Bananas",
         "url": "https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT"
       },
@@ -698,7 +716,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 116062,
       "name": "Can't Forget U",
       "url": "https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx"
@@ -3011,6 +3029,40 @@
     },
     {
       "album": {
+        "name": "Meet Her At The Love Parade",
+        "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Kiki Solvej",
+          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Meet Her At The Love Parade",
+      "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
+    },
+    {
+      "album": {
         "name": "Meet Me In The Club",
         "url": "https://open.spotify.com/album/3C5XkMBU4fGO9bT2E7ywSP"
       },
@@ -3062,7 +3114,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 155121,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/681iK2vB0RCr4m7TX5hcn6"

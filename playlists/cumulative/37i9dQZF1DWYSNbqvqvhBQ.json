@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Luister naar nieuwe songs en hits van dit moment! Cover: Imagine Dragons",
+  "description": "Luister naar nieuwe songs en hits van dit moment! Cover: Rag\u2019n\u2019Bone Man",
   "name": "Stay Tuned!",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 248454,
       "name": "A Symptom Of Being Human",
       "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
@@ -200,6 +200,24 @@
       "duration_ms": 123816,
       "name": "act your age",
       "url": "https://open.spotify.com/track/0zyojrljeU0HWxfpGtTWgC"
+    },
+    {
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189966,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "album": {
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 168622,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0"
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 185746,
       "name": "Fuck You Want",
       "url": "https://open.spotify.com/track/7ziRXgzWzuMMkHTuiGtWq2"
@@ -3051,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "How to Say I Love You",
+        "url": "https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "How to Say I Love You",
+      "url": "https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84"
+    },
+    {
+      "album": {
         "name": "Orange Skyline",
         "url": "https://open.spotify.com/album/4XDK4JBcsmGbWmNWL2TUW1"
       },
@@ -3540,6 +3576,24 @@
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+    },
+    {
+      "album": {
+        "name": "Lari",
+        "url": "https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ"
+      },
+      "artists": [
+        {
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209729,
+      "name": "Lari",
+      "url": "https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T"
     },
     {
       "album": {
@@ -4229,6 +4283,28 @@
     },
     {
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236012,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "album": {
         "name": "Nearness of You",
         "url": "https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X"
       },
@@ -4241,7 +4317,7 @@
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 252216,
+      "duration_ms": 252211,
       "name": "Nearness of You",
       "url": "https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1"
     },
@@ -4474,7 +4550,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 184396,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt"
@@ -5608,7 +5684,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 187832,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
@@ -6348,6 +6424,24 @@
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211245,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj"
     },
     {
       "album": {

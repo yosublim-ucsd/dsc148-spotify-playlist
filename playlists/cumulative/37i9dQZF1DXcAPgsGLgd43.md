@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-256 songs - 13 hr 53 min
+257 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Espantapájaros \- Captain Planet Remix](https://open.spotify.com/track/4m7PfIMZoBtdL4LZ0qtP8W) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Espantapájaros \(Captain Planet Remix\)](https://open.spotify.com/album/6hZ9Q3g6K6INboa4DFWglx) | 4:25 | 2024-03-29 | 2024-05-02 |
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 | 2024-03-21 |
 | [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 | 2024-04-19 | 2024-05-28 |
-| [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 |  |
+| [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 | 2024-06-07 |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-15 | 2024-03-27 |
 | [Falso Amor](https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn) | [Krexxton](https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir), [MARÍARROSA](https://open.spotify.com/artist/6kaJ3A4a3SjwyBSzPPuYEm) | [Falso Amor](https://open.spotify.com/album/58BgCwpp9EDYVOzQw9jODk) | 2:48 | 2024-04-19 |  |
 | [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 | 2024-02-23 |  |
@@ -132,6 +132,7 @@
 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 | 2023-11-10 | 2024-05-20 |
 | [La Fiesta](https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u) | 4:26 | 2021-10-08 | 2023-11-11 |
 | [La Fiesta](https://open.spotify.com/track/53xMyPShokgna72KTlwsXO) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy) | 4:26 | 2021-10-08 | 2023-02-26 |
+| [La Fiesta](https://open.spotify.com/track/437HzuCcsjDaj3hsvOOmZu) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [La Fiesta](https://open.spotify.com/album/2QqAgPddt9ZR57iUDQMByh) | 2:47 | 2024-05-31 |  |
 | [La Gente](https://open.spotify.com/track/0lZmmbkXLmfzGzk4eQOWkq) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/1yMQ7a4fay6bmaCKDS6Q7a) | 3:12 | 2023-11-10 | 2023-12-09 |
 | [La Gente](https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ) | 3:12 | 2023-12-01 | 2024-04-19 |
 | [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 | 2023-11-10 |  |

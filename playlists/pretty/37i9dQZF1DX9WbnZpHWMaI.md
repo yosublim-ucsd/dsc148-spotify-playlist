@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Elkka
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,949 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,954 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 22 | [Close To You](https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Close To You](https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ) | 2:52 |
 | 23 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 24 | [Mysterious World](https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Softest Chyl](https://open.spotify.com/artist/3UFeSCo9XJzKNt0Y2Yq1Hb) | [Mysterious World](https://open.spotify.com/album/2B5aEC063CNyJD2l2M2fhb) | 3:00 |
-| 25 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 |
+| 25 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 |
 | 26 | [It's Strange](https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [It’s Strange](https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG) | 3:32 |
 | 27 | [Catch The Beat](https://open.spotify.com/track/5xJ6K23ELhgOd6YHeFam9m) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Catch The Beat](https://open.spotify.com/album/0rstS3E9siJrxqATOMR2Wu) | 4:04 |
 | 28 | [Higher](https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Higher](https://open.spotify.com/album/0GEED4RZAQFAg79028tIMD) | 3:32 |

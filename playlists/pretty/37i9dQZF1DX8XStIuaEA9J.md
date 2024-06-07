@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 富岡愛
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 冨岡 愛
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,300 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,357 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [CONNECT](https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [CONNECT](https://open.spotify.com/album/0aBKpiRYV5X7VDIFKr3MlR) | 3:11 |
 | 60 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
 
-Snapshot ID: `Zl8r8AAAAACPOMnY1PH8ZBVUyh2E7KxC`
+Snapshot ID: `ZmF2DgAAAABqjiHuxeM7ofREoYk4eSjC`

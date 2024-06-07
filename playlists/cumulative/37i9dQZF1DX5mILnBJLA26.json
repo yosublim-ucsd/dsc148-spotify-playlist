@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=YUDOPkZ7RqqGI52emgJrQw\">Tyler ICU</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=_mlH0dbTSayC_q1KptXtSA\">DJ Maphorisa</a>",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g?si=_4ciKmIYS4K4ZRn3QivyYA\">TxC</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -6890,7 +6890,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 306909,
       "name": "Dubula (feat. DJ Latimmy) - Remake",
       "url": "https://open.spotify.com/track/1eOOCRtXcPwK8qG8VjtczJ"
@@ -8728,7 +8728,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 383577,
       "name": "Gabriella (feat. Officixl RSA)",
       "url": "https://open.spotify.com/track/3s2qeMcvlTLdhkXy5VIUBA"
@@ -14316,6 +14316,36 @@
       "duration_ms": 318320,
       "name": "Ke Star",
       "url": "https://open.spotify.com/track/0UiEH6ichQW5VmJJ1tQp1c"
+    },
+    {
+      "album": {
+        "name": "KELENKETLA",
+        "url": "https://open.spotify.com/album/4O7AGjGSb75mjMCvWsOzTQ"
+      },
+      "artists": [
+        {
+          "name": "The Lowkeys",
+          "url": "https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ"
+        },
+        {
+          "name": "Tshego Dee",
+          "url": "https://open.spotify.com/artist/1DHog2MrNZNGV2T7EfCZO1"
+        },
+        {
+          "name": "Ocean Biller",
+          "url": "https://open.spotify.com/artist/2os0iexM51EDevBsMrrBz9"
+        },
+        {
+          "name": "Tskay",
+          "url": "https://open.spotify.com/artist/1DSSY6nF8Y22sSmQW8lSIM"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492857,
+      "name": "KELENKETLA",
+      "url": "https://open.spotify.com/track/03NzyWJ2gaHbdu8fULtt9O"
     },
     {
       "album": {
@@ -20022,7 +20052,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 372976,
       "name": "Ngilimele",
       "url": "https://open.spotify.com/track/1cuL0U39TgY6KLZ8yHgexM"
@@ -29167,6 +29197,48 @@
     },
     {
       "album": {
+        "name": "uKhome Lotto (feat. Agzo, Optimist Music ZA, Seun1401 & El.Stephano)",
+        "url": "https://open.spotify.com/album/3WbajDEHoQKrv1Tr4trd2e"
+      },
+      "artists": [
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Tumza D'Kota",
+          "url": "https://open.spotify.com/artist/7DgDz3iVJsV7idqWIYHY8I"
+        },
+        {
+          "name": "Agzo",
+          "url": "https://open.spotify.com/artist/02Avi4NhHRYTWnZsX2Eb4v"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "Seun1401",
+          "url": "https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb"
+        },
+        {
+          "name": "El.Stephano",
+          "url": "https://open.spotify.com/artist/0tY7AbZffD5QWpNNRy2XT4"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475768,
+      "name": "uKhome Lotto (feat. Agzo, Optimist Music ZA, Seun1401 & El.Stephano)",
+      "url": "https://open.spotify.com/track/5obuTVRQLKjqUlfLj73Dny"
+    },
+    {
+      "album": {
         "name": "Ukukhula",
         "url": "https://open.spotify.com/album/2mxg3McFdC0Hg127ihcgR3"
       },
@@ -32423,6 +32495,40 @@
     },
     {
       "album": {
+        "name": "Turn Off The Lights",
+        "url": "https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263683,
+      "name": "Yebo",
+      "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
+    },
+    {
+      "album": {
         "name": "Yebo",
         "url": "https://open.spotify.com/album/47Tusmn8rHRbZ3p6m5OIxZ"
       },
@@ -32550,7 +32656,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 347148,
       "name": "Yini Ngathi (Insane)",
       "url": "https://open.spotify.com/track/7Gc7tNSocAypLct0MYYzmk"
@@ -33154,6 +33260,28 @@
       "duration_ms": 408000,
       "name": "Zuma",
       "url": "https://open.spotify.com/track/5RuDEpp78SOAjP9jNCgVOY"
+    },
+    {
+      "album": {
+        "name": "Zwihh Lords",
+        "url": "https://open.spotify.com/album/46RHwIFMkX6hJUxKsEvmPk"
+      },
+      "artists": [
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317148,
+      "name": "Zwihh",
+      "url": "https://open.spotify.com/track/7jsELonvgUM9tVrogBoWcD"
     },
     {
       "album": {

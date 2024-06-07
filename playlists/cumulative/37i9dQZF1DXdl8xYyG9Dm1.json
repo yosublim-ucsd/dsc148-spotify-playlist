@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=-ZumlwK-Q4qpEoZjcUfCVw\"> Sarkodie</a>",
+  "description": "The latest straight bars and Afro-Trap. Cover: Pretty boy D-O & Phyno ",
   "name": "Afro Bars ",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 181000,
       "name": "Ahol\u00e9",
       "url": "https://open.spotify.com/track/3L5zmSXtVNYF1nrRtbyaQy"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 152368,
       "name": "Crazy Crazy",
       "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
@@ -2806,6 +2806,10 @@
         {
           "name": "Flow Jones Jr.",
           "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Glody Kasongo",
+          "url": "https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i"
         }
       ],
       "date_added": "2024-05-24",
@@ -3284,7 +3288,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 164000,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/1ErW8aGbAd4QK8NSnFQf1c"
@@ -4564,6 +4568,28 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "album": {
+        "name": "Shame On You",
+        "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186796,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Dua Saleh & Serpentwithfeet
 
-1,188 songs - 2 day 14 hr 57 min
+1,189 songs - 2 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-06-10 | 2022-07-27 |
 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 | 2023-12-09 |
 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 | 2024-04-28 |
-| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 |  |
+| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 | 2024-06-07 |
 | [Confused](https://open.spotify.com/track/7ocp0iNDImb4PzHnjYTQi0) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Confused](https://open.spotify.com/album/5BRM2xQqW2bTL6qZR6qF7Q) | 2:06 | 2022-04-01 | 2022-04-05 |
 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-20 | 2023-02-11 |
 | [Conversations](https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Conversations](https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086) | 3:12 | 2024-01-26 | 2024-04-20 |
@@ -653,6 +653,7 @@
 | [Man Down](https://open.spotify.com/track/0Y4LVCIZVLEkho5g2SfgfX) | [Julián Dysart](https://open.spotify.com/artist/0DhHRZO4e0YBPeSXA9aVID) | [Man Down](https://open.spotify.com/album/3uEoo2ginP8FqunYyoml1S) | 2:24 | 2023-03-17 | 2024-02-24 |
 | [Maniac](https://open.spotify.com/track/7DtR0hvbNoAPujh1d4KIxZ) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Nessence](https://open.spotify.com/artist/7a47reWLeNLY75npFCqa8N) | [Maniac](https://open.spotify.com/album/6vfC3c9jbVRkCFHbkYzsbJ) | 2:03 | 2021-09-10 | 2022-06-14 |
 | [Many Times](https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Many Times](https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q) | 2:06 | 2021-09-17 | 2022-07-22 |
+| [Mariah](https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [Crying in the Club](https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN) | 3:05 | 2024-05-24 |  |
 | [Mary Ellen \(02\)](https://open.spotify.com/track/0unygkRAa4Qt4vSZVuBV7C) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 3:18 | 2023-02-10 | 2023-02-18 |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-10 | 2022-07-22 |
 | [Maybe Not \(with Mac Ayres\)](https://open.spotify.com/track/7fhFr1lYnxm3XyprL3Wnv8) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Maybe Not \(with Mac Ayres\)](https://open.spotify.com/album/5yhiL2xptyEASp6bHLjbT4) | 3:50 | 2021-03-19 | 2022-07-30 |

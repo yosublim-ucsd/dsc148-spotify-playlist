@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 405878,
       "name": "Hoa N\u1edf V\u1ec1 \u0110\u00eam",
       "url": "https://open.spotify.com/track/14VmqyYNTn1fGtS2JiUCV7"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 294106,
       "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
       "url": "https://open.spotify.com/track/5Hfl18W3tEIalf5Uh83BPA"
@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Hoa No Ve Dem",
+        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Dung",
+          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268022,
+      "name": "Nhung Dom Mat Hoa Chau",
+      "url": "https://open.spotify.com/track/5GBRcENiqamCztJOUE5xyK"
+    },
+    {
+      "album": {
         "name": "My Huyen Tuyet Pham",
         "url": "https://open.spotify.com/album/0sIKqKcFctVmv0gciYqCSS"
       },
@@ -3758,6 +3776,24 @@
       "duration_ms": 369684,
       "name": "Sao Ch\u01b0a Th\u1ea5y H\u1ed3i \u00c2m",
       "url": "https://open.spotify.com/track/3DCQIiZFDjaiAhv4BrjQzv"
+    },
+    {
+      "album": {
+        "name": "R\u1eebng L\u00e1 Thay Ch\u01b0a",
+        "url": "https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6"
+      },
+      "artists": [
+        {
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401560,
+      "name": "Sao Ch\u01b0a Th\u1ea5y H\u1ed3i \u00c2m",
+      "url": "https://open.spotify.com/track/2bOLPLmnHoC8qAdsjSvRL8"
     },
     {
       "album": {

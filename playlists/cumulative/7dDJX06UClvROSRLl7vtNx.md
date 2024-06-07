@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-381 songs - 16 hr 42 min
+382 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Hearts Collide](https://open.spotify.com/track/3EbeZtfFbp2zAYZyJv55Kg) | [leisse](https://open.spotify.com/artist/0uIEHVqB8Kkz3epLhyzjhs) | [Hearts Collide](https://open.spotify.com/album/2JvqQZD4tzk18z9xIwtj6O) | 1:58 | 2023-09-22 |  |
 | [Here Alone](https://open.spotify.com/track/6tLOoOROOk2bOBavroNsZr) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [sznl.](https://open.spotify.com/artist/6RS7KaHU2V9KdPWknkUBl6), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Here Alone](https://open.spotify.com/album/6vM1oqLYAnBFghBaBNoJMb) | 2:20 | 2023-11-12 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/3GBLdwpPImhb3CPGnHYSXc) | [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Here Comes The Sun](https://open.spotify.com/album/3KXCd6cW6NNwk9Udhoylwb) | 3:06 | 2023-09-22 |  |
+| [Here Comes The Sun](https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [Here Comes The Sun](https://open.spotify.com/album/1q3B6NIZAiJIk6bmBSYxif) | 2:10 | 2024-06-06 |  |
 | [Hideaway](https://open.spotify.com/track/4TOSWbWwVNeN4h4wRK7Ui5) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Hideaway](https://open.spotify.com/album/1e6TMkfMefQea5G8Y7LAbm) | 3:36 | 2023-10-13 | 2024-02-12 |
 | [Hold Me Close](https://open.spotify.com/track/7CcHekzCRzibYwCYn2WKgc) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Hold Me Close](https://open.spotify.com/album/1b1CiWm3Psfi4US4Ec5d4h) | 2:10 | 2023-12-30 | 2024-03-04 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2023-09-22 | 2024-06-01 |

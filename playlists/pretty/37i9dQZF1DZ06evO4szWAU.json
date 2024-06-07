@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 68716,
+  "num_followers": 68765,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAAAIyeCCDxj9YNDzd9Neh7xQ",
+  "snapshot_id": "Zl+qgAAAAABgDWFwv8sgD14dpVReblom",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legal Alien - Top Secrets",
+        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 353280,
+      "name": "Asia",
+      "url": "https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legal Alien - Top Secrets",
-        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 353280,
-      "name": "Asia",
-      "url": "https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF"
     },
     {
       "added_at": null,
@@ -931,22 +931,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "La Gran Fuga",
+        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 325080,
-      "name": "Siembra",
-      "url": "https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx"
+      "duration_ms": 354600,
+      "name": "Paname\u00f1a",
+      "url": "https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63"
     },
     {
       "added_at": null,
@@ -971,18 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Fuga",
-        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 354600,
-      "name": "Paname\u00f1a",
-      "url": "https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63"
+      "duration_ms": 325080,
+      "name": "Siembra",
+      "url": "https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx"
     },
     {
       "added_at": null,

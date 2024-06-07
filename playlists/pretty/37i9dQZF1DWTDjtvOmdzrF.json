@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554822,
+  "num_followers": 554835,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
-      },
-      "artists": [
-        {
-          "name": "Maudy Ayunda",
-          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Perahu Kertas",
-      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 243413,
       "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
       "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Perahu Kertas",
+      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o"
+      },
+      "artists": [
+        {
+          "name": "Iwan Fals",
+          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Ijinkan Aku Menyayangimu",
+      "url": "https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
         "name": "Tak Ingin Pisah Lagi",
         "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 265518,
       "name": "Tak Ingin Pisah Lagi",
       "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o"
-      },
-      "artists": [
-        {
-          "name": "Iwan Fals",
-          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Ijinkan Aku Menyayangimu",
-      "url": "https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF"
     },
     {
       "added_at": "2024-06-05 07:57:22",

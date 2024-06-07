@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Hegemonia",
+        "url": "https://open.spotify.com/album/0We0i9HuYUel9Z3hmFspQE"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Anjo mulher",
+      "url": "https://open.spotify.com/track/4xFzDY7kp01qba2SrUIPfU"
+    },
+    {
+      "album": {
         "name": "Ansiedade",
         "url": "https://open.spotify.com/album/61Mb2cWHMPmDQVIQj771R8"
       },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 158400,
       "name": "Don't You See",
       "url": "https://open.spotify.com/track/7Dk86YxunkaoHYzAcPg3fs"
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 199500,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
@@ -3036,6 +3054,28 @@
       "duration_ms": 229906,
       "name": "Keruh",
       "url": "https://open.spotify.com/track/6SMgtwBAsC1WreQJzsQ7EL"
+    },
+    {
+      "album": {
+        "name": "Ku Bo",
+        "url": "https://open.spotify.com/album/3509B3p7jecY07ceKKw6KI"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        },
+        {
+          "name": "KVN LOPES",
+          "url": "https://open.spotify.com/artist/1Hox4aVVAzu5JMgeYA0eNL"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Ku Bo",
+      "url": "https://open.spotify.com/track/5nw75kPDOQdmJ4o50MNgSh"
     },
     {
       "album": {
@@ -5896,7 +5936,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 239189,
       "name": "Sempre Sonhei (feat. Yasmine)",
       "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
@@ -5940,7 +5980,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
@@ -7200,6 +7240,44 @@
       "duration_ms": 195886,
       "name": "Vai Dormir",
       "url": "https://open.spotify.com/track/0e5J9DmLaOf4fyRnogxUga"
+    },
+    {
+      "album": {
+        "name": "Vai Por Mim",
+        "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
+      },
+      "artists": [
+        {
+          "name": "Dam\u00e1sio Brothers",
+          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
+        },
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Ney Chiqui",
+          "url": "https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        },
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Claudio F\u00eanix",
+          "url": "https://open.spotify.com/artist/6C4zLY4o7OvWCXq346DAjY"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224256,
+      "name": "Vai Por Mim",
+      "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
     },
     {
       "album": {

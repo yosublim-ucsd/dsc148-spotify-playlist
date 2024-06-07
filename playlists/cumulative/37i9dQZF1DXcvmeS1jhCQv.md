@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: Nell Mescal
+> New tunes from Ireland for your discovery\. Cover: Saibh Skelly
 
-162 songs - 9 hr 7 min
+165 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [FourFour](https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [FourFour](https://open.spotify.com/album/4e8yfABATTvhRx35Vq6nmX) | 2:00 | 2024-02-02 | 2024-04-19 |
 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 | 2024-02-02 | 2024-02-23 |
 | [GO WRONG](https://open.spotify.com/track/0XSUBDTVqnOjDxHcy7DkwI) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [GO WRONG](https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po) | 2:44 | 2024-05-16 |  |
+| [gone girl](https://open.spotify.com/track/6N4Oazanr0gxYcThWKviCl) | [Siobhán Franks](https://open.spotify.com/artist/1szKdIebZ0JuD8OOHL4Mj0) | [gone girl](https://open.spotify.com/album/5VTAnvrRkHBm1P9Ne9zrM8) | 2:26 | 2024-06-06 |  |
 | [Graveyard](https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Graveyard](https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31) | 3:04 | 2024-02-02 | 2024-03-08 |
 | [Heat](https://open.spotify.com/track/6vAznmmD372DjfKqP1kKEf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Heat](https://open.spotify.com/album/28KACgx2D6lUoDXBWr55CE) | 3:13 | 2024-02-02 | 2024-02-16 |
 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-02-02 | 2024-04-19 |
@@ -80,7 +81,7 @@
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 |  |
 | [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 |  |
 | [limerence](https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [limerence](https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo) | 3:07 | 2024-04-11 |  |
-| [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-02-02 |  |
+| [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-02-02 | 2024-06-07 |
 | [London.](https://open.spotify.com/track/7xhvE7y8DDcAwruz7TyiFN) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [London.](https://open.spotify.com/album/0hmqXVRrup7VUGdK8xFq7J) | 3:37 | 2024-02-02 | 2024-04-12 |
 | [Lonely Island](https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Lonely Island](https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8) | 3:58 | 2024-02-02 | 2024-02-16 |
 | [Lost and Found](https://open.spotify.com/track/5NwOMleiL1o2QFxoDx8Vib) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Lost and Found](https://open.spotify.com/album/4wr0lfbZEZunDHgP99Ev82) | 3:19 | 2024-02-23 | 2024-05-17 |
@@ -100,7 +101,7 @@
 | [Naive](https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Aphrodite](https://open.spotify.com/album/48s5QZAFQiv86wOCGDwjAz) | 4:17 | 2024-02-02 | 2024-05-03 |
 | [Naked and Swimming](https://open.spotify.com/track/7C1dpmbEhX8cYizMeq9stl) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc), [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [Naked and Swimming](https://open.spotify.com/album/7dieZIMr6DED0H3xzfBxJ2) | 2:59 | 2024-05-23 |  |
 | [Need to Know](https://open.spotify.com/track/5HGX1TpatpMpNH7X8Dnhjc) | [Tidah](https://open.spotify.com/artist/7Hc6MSUUX0xmLt3bn3hFDT) | [Need to Know](https://open.spotify.com/album/7arildWPenXFAMVd49yYJt) | 2:31 | 2024-04-18 |  |
-| [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-02-02 |  |
+| [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-02-02 | 2024-06-07 |
 | [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2024-02-02 | 2024-06-01 |
 | [Nobu](https://open.spotify.com/track/0t8lulg4WM4813ib0klR9S) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Nobu](https://open.spotify.com/album/3tF98Bm6QCkrYH4nhxz7nu) | 2:49 | 2024-05-16 |  |
 | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A) | 2:50 | 2024-02-02 | 2024-04-12 |
@@ -111,7 +112,7 @@
 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 | 2024-02-02 | 2024-02-23 |
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 |  |
 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 | 2024-04-25 |  |
-| [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 |  |
+| [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 | 2024-06-07 |
 | [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-05 | 2024-05-10 |
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-04-25 |  |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
@@ -146,9 +147,11 @@
 | [Taken Out By The Wind](https://open.spotify.com/track/0d4krr4O0gFMnBCncqKNbS) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Taken Out By The Wind](https://open.spotify.com/album/1HP8SGPqIvgcmOEqiwKFz2) | 2:51 | 2024-02-02 | 2024-03-22 |
 | [Teeth](https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Teeth](https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U) | 3:52 | 2024-02-02 | 2024-03-02 |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-02-16 |  |
+| [The Mirror's Favourite](https://open.spotify.com/track/5o6hqCqfg9XqI885xV0prp) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [The Mirror's Favourite](https://open.spotify.com/album/05eluKYY2Lr9Tt7mS31Lx2) | 2:18 | 2024-06-06 |  |
 | [The Moment](https://open.spotify.com/track/0Cm3GLhnwLN7C5p3gvoF0F) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [soft centre](https://open.spotify.com/artist/3Aq9mGuowzDwPP8Go1FHZy) | [The Moment](https://open.spotify.com/album/4H1qLDeGdpoQFdpZjiX5MR) | 2:46 | 2024-02-02 | 2024-02-23 |
 | [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-03-01 | 2024-04-05 |
 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 | 2024-03-01 |  |
+| [there's a light](https://open.spotify.com/track/3IYbfszzTtDN1aTvQreFsE) | [peace](https://open.spotify.com/artist/5o4nlnlzin0Cc1GIRovq1Q) | [there's a light](https://open.spotify.com/album/5fdEADXcrVOns6lSt4oeon) | 2:01 | 2024-06-06 |  |
 | [They Called Her Something](https://open.spotify.com/track/0MuNwv9HUPJVqy1vLUSMKt) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [Burning Flower](https://open.spotify.com/album/4meRsebzAu9jYAVhD5mWsQ) | 3:04 | 2024-03-01 |  |
 | [Travel Size](https://open.spotify.com/track/3Z3wrUVY4ct2PozNaPB5hv) | [Rachael Lavelle](https://open.spotify.com/artist/6fB2D85hn56JzRBTlCG0nw) | [Travel Size](https://open.spotify.com/album/2GU2ufSlyZx18xc6Ri3X5Y) | 3:30 | 2024-02-02 | 2024-02-23 |
 | [Tree Sap](https://open.spotify.com/track/1gE8YjNMyYbcuBpY6aIQrM) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [Tree Sap](https://open.spotify.com/album/3UEJYN35NOShY9pY7wyAvM) | 2:25 | 2024-02-02 | 2024-02-16 |

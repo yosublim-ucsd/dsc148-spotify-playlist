@@ -167,6 +167,50 @@
     },
     {
       "album": {
+        "name": "BASSA",
+        "url": "https://open.spotify.com/album/3jnBopniBSlzdEfL6Y5PhA"
+      },
+      "artists": [
+        {
+          "name": "theSylk",
+          "url": "https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX"
+        },
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        },
+        {
+          "name": "Jake Cromwell",
+          "url": "https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "BASSA",
+      "url": "https://open.spotify.com/track/1KTXudaZZUN1St7KGUBCIt"
+    },
+    {
+      "album": {
+        "name": "Big Up",
+        "url": "https://open.spotify.com/album/1AJ68QSKwUzVLBAgWzH8zb"
+      },
+      "artists": [
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175809,
+      "name": "Big Up",
+      "url": "https://open.spotify.com/track/342ZgYnj49eWk5CwOFrbhm"
+    },
+    {
+      "album": {
         "name": "Bigger & Better Than",
         "url": "https://open.spotify.com/album/4aKJWlQ7JUoqYlMkBYUZl6"
       },
@@ -354,6 +398,68 @@
       "duration_ms": 193847,
       "name": "Connection",
       "url": "https://open.spotify.com/track/6WyvDxBdfoB4wNao2xLzcB"
+    },
+    {
+      "album": {
+        "name": "Ride Along",
+        "url": "https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE"
+      },
+      "artists": [
+        {
+          "name": "Kojo Trip",
+          "url": "https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157124,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P"
+    },
+    {
+      "album": {
+        "name": "For Melanin Girlies",
+        "url": "https://open.spotify.com/album/2PrnZQQ9OyOCqFKaSnrTwA"
+      },
+      "artists": [
+        {
+          "name": "M\u0113l",
+          "url": "https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC"
+        },
+        {
+          "name": "Rie Osei",
+          "url": "https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv"
+        },
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128727,
+      "name": "Curbside",
+      "url": "https://open.spotify.com/track/21yQvM7joAjWuZhnT4KdoS"
+    },
+    {
+      "album": {
+        "name": "CURIOUS CAESAR",
+        "url": "https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "CURIOUS CAESAR",
+      "url": "https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M"
     },
     {
       "album": {
@@ -925,7 +1031,7 @@
     },
     {
       "album": {
-        "name": "PAIN DAIRIES",
+        "name": "PAIN DIARIES",
         "url": "https://open.spotify.com/album/4oYjflAodhMmzXXBCbxFU2"
       },
       "artists": [
@@ -946,7 +1052,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179777,
-      "name": "PAIN DAIRIES",
+      "name": "PAIN DIARIES",
       "url": "https://open.spotify.com/track/7xvfAfqdSPrTkz8zWGKvkR"
     },
     {

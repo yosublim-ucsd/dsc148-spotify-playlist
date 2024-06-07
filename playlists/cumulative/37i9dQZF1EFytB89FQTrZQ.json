@@ -8451,6 +8451,24 @@
     },
     {
       "album": {
+        "name": "Walk Like This (Strut Speed)",
+        "url": "https://open.spotify.com/album/1peo6Z7Rum9F9mlYkKDhzG"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197493,
+      "name": "Walk Like This",
+      "url": "https://open.spotify.com/track/60NGhmtLOMwLCK8bCsi2x7"
+    },
+    {
+      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/0mQLgyernjv3UfBBtsy9aG"
       },

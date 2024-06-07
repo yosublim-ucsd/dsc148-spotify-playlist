@@ -1,13 +1,29 @@
 {
   "description": "This is Gabriela Rocha. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 260274,
+  "num_followers": 260310,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAADe6F6syNq8lUpMU2mHR8Rc",
+  "snapshot_id": "Zl+qgAAAAAAn20JN2K0UGWsuzQANafVg",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
+    },
     {
       "added_at": null,
       "album": {

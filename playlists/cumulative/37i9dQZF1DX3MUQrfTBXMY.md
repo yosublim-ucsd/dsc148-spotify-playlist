@@ -2,9 +2,9 @@
 
 ### [Bangla Rock](https://open.spotify.com/playlist/37i9dQZF1DX3MUQrfTBXMY)
 
-> Headbangers of Bangladesh\. Cover \- Shironamhin
+> Headbangers of Bangladesh\. Cover \- Warfaze
 
-324 songs - 1 day 3 hr 47 min
+325 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Obak](https://open.spotify.com/track/5qZE8vsRIm5zeMGqcs4cp1) | [Invaders](https://open.spotify.com/artist/072YOPgJBQASwnyXY6tlP6) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:14 | 2022-06-16 | 2023-02-23 |
 | [Obak Bhalobasha](https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pothchola](https://open.spotify.com/album/00r7NhiTZHBe78IvgLdxyA) | 7:19 | 2023-04-28 | 2024-03-13 |
 | [Obak Bhalobasha \(Sob Aalo Nibe Ja\)](https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 7:21 | 2023-02-17 | 2023-07-06 |
+| [Obak Bhalobasha \| Coke Studio Bangla](https://open.spotify.com/track/1qG2wN8k7rY0vNpuTMjOlI) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Obak Bhalobasha \| Coke Studio Bangla](https://open.spotify.com/album/7LFcrh6k5bUvi9ls25LWuc) | 6:48 | 2024-06-06 |  |
 | [OBASTOB](https://open.spotify.com/track/4NZ5pXqT3DwIiTauyCV7Ht) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [OBASTOB](https://open.spotify.com/album/5e8yVvdmGuxrQBGUWWH9pw) | 3:30 | 2023-07-20 | 2023-09-07 |
 | [Obhiman](https://open.spotify.com/track/3DK8pt5Ky1Ii4QblF5iBsI) | [Black](https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 4:36 | 2023-02-17 | 2023-07-18 |
 | [Obhimaner Nokkhotro](https://open.spotify.com/track/0LmP1YYlOgQL5OHAseNf4Z) | [Noxious Traitor](https://open.spotify.com/artist/6Rlz8NF2OkYQFurkYs4OQY) | [Obhimaner Nokkhotro](https://open.spotify.com/album/1jjUZ6Dpbmds029jPnGFJS) | 6:13 | 2023-01-20 | 2023-04-04 |

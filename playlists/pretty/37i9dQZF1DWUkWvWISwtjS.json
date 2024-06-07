@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 442739,
+  "num_followers": 442729,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Ao Vivo E A Cores",
-        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Ao Vivo E A Cores",
-      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
         "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 174178,
       "name": "Para, Pensa e Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ao Vivo E A Cores",
+        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Ao Vivo E A Cores",
+      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Terra Sem Cep (Ao Vivo)",
         "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
@@ -475,38 +491,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Dona Maria",
-        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
       "artists": [
         {
-          "name": "Thiago Brava",
-          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 187998,
-      "name": "Dona Maria",
-      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+      "duration_ms": 189669,
+      "name": "Derreter a Alian\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LrxVF7fpZZdbB7zy6MnIg"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -527,18 +523,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+        "name": "Dona Maria",
+        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
         }
       ],
-      "duration_ms": 189669,
-      "name": "Derreter a Alian\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/5LrxVF7fpZZdbB7zy6MnIg"
+      "duration_ms": 187998,
+      "name": "Dona Maria",
+      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Um Novo Sonho - Deluxe",
-        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 200572,
-      "name": "Por Nossos Filhos",
-      "url": "https://open.spotify.com/track/2ejpjaqOYKYMxQWY30RAyK"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Pegada Que Desgrama",
         "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 167573,
       "name": "Volta Marcada",
       "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Um Novo Sonho - Deluxe",
+        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 200572,
+      "name": "Por Nossos Filhos",
+      "url": "https://open.spotify.com/track/2ejpjaqOYKYMxQWY30RAyK"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Made in Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
-      },
-      "artists": [
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 187595,
-      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 186816,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Made in Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
+      },
+      "artists": [
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "duration_ms": 187595,
+      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -779,6 +779,22 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Espelho Meu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Espelho Meu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Espelho Meu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Espelho Meu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Moleque",
         "url": "https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Estrelinha",
         "url": "https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 207317,
       "name": "Estrelinha",
       "url": "https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Jenifer",
-        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
+        "name": "C\u00ea Acredita",
+        "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
       },
       "artists": [
         {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 160640,
-      "name": "Jenifer",
-      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
+      "duration_ms": 170517,
+      "name": "C\u00ea Acredita",
+      "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1207,6 +1211,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Jenifer",
+      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Uma Hist\u00f3ria de Sucesso (Ao Vivo)",
         "url": "https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 324693,
       "name": "Nem Dormindo Consigo Te Esquecer - Ao Vivo",
       "url": "https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "C\u00ea Acredita",
-        "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 170517,
-      "name": "C\u00ea Acredita",
-      "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Siga a Seta (feat. Matheus & Kauan) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/7j3YXsHgy2GW48kSjzTlR7"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Siga a Seta (feat. Matheus & Kauan) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AQNVgt7BKHKRhrNFFgSPF"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto (Ao vivo)",
         "url": "https://open.spotify.com/album/6O0AwDKVK4lXQXr5vLGwzz"
       },
@@ -1367,22 +1387,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Siga a Seta (feat. Matheus & Kauan) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/7j3YXsHgy2GW48kSjzTlR7"
+        "name": "Surra de Cama",
+        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
       },
       "artists": [
         {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         },
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Siga a Seta (feat. Matheus & Kauan) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5AQNVgt7BKHKRhrNFFgSPF"
+      "duration_ms": 178216,
+      "name": "Surra de Cama",
+      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1403,26 +1423,6 @@
       "duration_ms": 225792,
       "name": "Cole\u00e7\u00e3o de Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/3W1L27vGEjo0yvhgOIJ8hO"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Surra de Cama",
-        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 178216,
-      "name": "Surra de Cama",
-      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+        "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
+        "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
       },
       "artists": [
         {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
+        },
+        {
+          "name": "Maraisa",
+          "url": "https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr"
         }
       ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
+      "duration_ms": 170517,
+      "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
+      "url": "https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
-        "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
       },
       "artists": [
         {
-          "name": "Jefferson Moraes",
-          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
-        },
-        {
-          "name": "Maraisa",
-          "url": "https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr"
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
         }
       ],
-      "duration_ms": 170517,
-      "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
-      "url": "https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a"
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2023-10-13 11:44:55",

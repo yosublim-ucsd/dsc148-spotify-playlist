@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,909 likes - 174 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,948 likes - 174 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 16 | [Inner Solitude](https://open.spotify.com/track/5bGSqWr24dmKqAz6LDQMeU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Inner Solitude](https://open.spotify.com/album/4FIWoW8MJEnVlY6zfLu4EN) | 2:30 |
 | 17 | [Thane](https://open.spotify.com/track/4vvYFMIJuoU9A0GtZQ3nuO) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Thane](https://open.spotify.com/album/03yLEgsQLMSonmBo6Y4q5j) | 2:37 |
 | 18 | [Anduin](https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi) | [Reve De Lune](https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI) | [Anduin](https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb) | 2:56 |
-| 19 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
+| 19 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/2co7WVDd5eQEiBZm3egDlJ) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
 | 20 | [Como antes](https://open.spotify.com/track/4qzw27x0zpsqtDNL5pfCc0) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Como antes](https://open.spotify.com/album/2embggsTkawDxjpbmUOp5y) | 3:15 |
 | 21 | [Endless Shores](https://open.spotify.com/track/6NEW6dkVxVq7ra9vX016Eb) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Endless Shores](https://open.spotify.com/album/19pCjw0tOBFbKcjjg0Yj53) | 2:59 |
 | 22 | [Star Sapphire](https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Star Sapphire](https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy) | 2:21 |

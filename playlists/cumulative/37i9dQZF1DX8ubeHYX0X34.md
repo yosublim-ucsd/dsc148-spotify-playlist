@@ -2,9 +2,9 @@
 
 ### [All Time Pakistani Hits](https://open.spotify.com/playlist/37i9dQZF1DX8ubeHYX0X34)
 
-> Timeless Pakistani hits, all in one place\. Cover \- Junoon
+> Timeless Pakistani hits, all in one place\. Cover \- Junaid Jamshed
 
-215 songs - 17 hr 26 min
+216 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Adhoora](https://open.spotify.com/track/6J3VpTaMblKPuDNKAudaUE) | [Rushk](https://open.spotify.com/artist/0M12q0sYgM4yYWBAf7rqME) | [Sawal](https://open.spotify.com/album/1maNCNkafMkUNxRVvt5iqW) | 5:32 | 2021-08-16 | 2022-07-27 |
 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 | 2021-08-16 |  |
 | [Aisi Taisi](https://open.spotify.com/track/0jVdnDCPd7A7WV0Sov8Bxi) | [Azal](https://open.spotify.com/artist/24qQxQIbBgr0QrCCrz3bwv) | [Road To Infinity](https://open.spotify.com/album/61Yt09pmZG2jjkffOKt7kk) | 5:07 | 2021-08-16 | 2022-07-27 |
+| [Aitebar](https://open.spotify.com/track/1qPQnqu0E87x36SNamVDRQ) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [The Definitive Collection, Vol\. 2](https://open.spotify.com/album/1wA9Te2dFw5dIcu0C4CEwU) | 4:12 | 2024-06-06 |  |
 | [Aitebar](https://open.spotify.com/track/3xDoL9bDd18aDRvAYe2Oup) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 6:20 | 2021-08-16 | 2022-07-28 |
 | [Ajnabi](https://open.spotify.com/track/6qE6zm1FJlgRwClkBa1Ucj) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:21 | 2021-08-16 | 2022-07-24 |
 | [Akhian](https://open.spotify.com/track/1LXn0kHwq5OOKt7DJaysMP) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 4:00 | 2021-08-16 |  |
@@ -67,7 +68,7 @@
 | [Dholna](https://open.spotify.com/track/5qypC0xwhJi8NhHgyA6hKr) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Dholna](https://open.spotify.com/album/3VS4uj8EcjbLvfGDQjLUHJ) | 4:10 | 2021-08-16 | 2022-07-29 |
 | [Dil Galti Kar Baitha Hai](https://open.spotify.com/track/1iIPI8CWallsW53fL9hwQh) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Dil Galti Kar Baitha Hai](https://open.spotify.com/album/7zFjoK3HLuXgS6eIQYhtcp) | 8:32 | 2021-08-16 | 2024-05-27 |
 | [Dil Haray Pukaray](https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:47 | 2021-08-16 |  |
-| [Dil Ki Qasam](https://open.spotify.com/track/7CxTQe8fYITgjkkvydsrvX) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 4:59 | 2021-08-16 |  |
+| [Dil Ki Qasam](https://open.spotify.com/track/7CxTQe8fYITgjkkvydsrvX) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 4:59 | 2021-08-16 | 2024-06-07 |
 | [Dil Na Lagay](https://open.spotify.com/track/5lW3Y0CMIuvCrxCqp8jCz6) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 4:31 | 2021-08-16 |  |
 | [Dil Ruba](https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:47 | 2021-08-16 |  |
 | [Din Mein Teri Yaad](https://open.spotify.com/track/78Ha0xY2HbHRUX7cXCoyXe) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Mantra](https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc) | 5:16 | 2021-08-16 | 2022-07-21 |
@@ -140,7 +141,7 @@
 | [Mona](https://open.spotify.com/track/4DDOtpRIvQcfsciohLVkXZ) | [Mauj](https://open.spotify.com/artist/7hF2h024edRGQQZ4XSfVLb) | [Now in Technicolor](https://open.spotify.com/album/3YKc6pe4R3oM2sY8UXWEIz) | 4:04 | 2021-08-16 | 2022-07-25 |
 | [Moray Saiyaan](https://open.spotify.com/track/3yGDIR4j6XejzxUoU8MXxs) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Gunkali \(Original Score\)](https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW) | 4:05 | 2021-08-16 | 2024-04-19 |
 | [Moray Sayyaan](https://open.spotify.com/track/0Ng8B5tNxF1rwucEehLgNu) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Gunkali](https://open.spotify.com/album/5joHir1GOCMuArukMLKVVJ) | 4:05 | 2021-08-16 | 2022-07-29 |
-| [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 | 2021-08-16 |  |
+| [Mukhra](https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4), [Rab Janey](https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l) | [Shehzad Roy](https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi) | 3:58 | 2021-08-16 | 2024-06-07 |
 | [My Happiness](https://open.spotify.com/track/1ONAyMHZtwlRjQyyEib6n7) | [Sajid & Zeeshan](https://open.spotify.com/artist/26qtMSJ05xUfcFdHALAXOu) | [Sajid & Zeeshan \- One Light Year At Snail Speed](https://open.spotify.com/album/15Osf9nbiP42sBEj1hzV0W) | 4:49 | 2021-08-16 | 2022-07-25 |
 | [Na Kaho](https://open.spotify.com/track/70LGFBNHjfkL6Lo1ZIBjsI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:13 | 2021-08-16 |  |
 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 | 2021-08-16 |  |
@@ -149,7 +150,7 @@
 | [Nahin Hah Yeh Pyaar](https://open.spotify.com/track/3q9LO3ZkXPVrodLDqqFxPo) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/2VCx3ekibEp0409xfWrzOK) | 3:38 | 2021-08-16 | 2022-07-29 |
 | [Nahin Hai Yeh Pyar](https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/6EaOP1xX92OLK2IzOmNPhC) | 3:38 | 2021-08-16 | 2023-10-10 |
 | [Najane Kyun](https://open.spotify.com/track/54i9EEnoUyvgTaKLeqYCU6) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 5:05 | 2021-08-16 |  |
-| [Neend Ayay Na](https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 4:22 | 2021-08-16 | 2022-07-29 |
+| [Neend Ayay Na](https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 4:22 | 2021-08-16 |  |
 | [Nishaan](https://open.spotify.com/track/1i3V8S5sIZWFe6xBcJoHDq) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/5ZCgLCP9jpoCxsYrqUPiCS) | 5:37 | 2021-08-16 | 2022-07-24 |
 | [Nishaan](https://open.spotify.com/track/5K4yREYdmwEfIreEF67YKL) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 3:40 | 2021-08-16 | 2022-07-29 |
 | [Ooncha](https://open.spotify.com/track/5gvwg5kSAipxmzu8BVbkyG) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 4:31 | 2021-08-16 | 2022-07-28 |

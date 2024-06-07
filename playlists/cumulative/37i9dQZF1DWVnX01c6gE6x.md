@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Escucha a estos creadores, seleccionados por nuestro equipo editorial de podcasts.
+> Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ?si=f4e302281419482f">Lclub Podcast</a>
 
 18 songs - 21 hr 19 min
 

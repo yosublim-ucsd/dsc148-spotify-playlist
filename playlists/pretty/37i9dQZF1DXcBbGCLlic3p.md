@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,834 likes - 188 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,855 likes - 188 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 6 | [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 |
 | 7 | [Celestial](https://open.spotify.com/track/0vypRNnJJFjiQ7FSa6EpHy) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Reverie](https://open.spotify.com/album/3bRrfUwvy5ePGJKyO6xeGD) | 2:55 |
 | 8 | [Anduin](https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi) | [Reve De Lune](https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI) | [Anduin](https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb) | 2:56 |
-| 9 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
+| 9 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/2co7WVDd5eQEiBZm3egDlJ) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
 | 10 | [Sublime Worlds](https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [Sublime Worlds](https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o) | 2:26 |
 | 11 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 |
 | 12 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,521 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,582 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 25 | [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 |
 | 26 | [Empty](https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Empty](https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi) | 3:26 |
 | 27 | [Deja Vu](https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [I'll Never Die](https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu) | 2:26 |
-| 28 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |
-| 29 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
+| 28 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
+| 29 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |
 | 30 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
 | 31 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 32 | [FOREVER](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [FOREVER](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 56 | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Toni\-Ann Singh](https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:56 |
 | 57 | [Smood Wid It](https://open.spotify.com/track/0PwkNE1fRJIsbHCQnSGCyp) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Jigsta](https://open.spotify.com/artist/5PrbR0obhZ9w3TzgNaiEZ4) | [Smood Wid It](https://open.spotify.com/album/20Vpcybdb2w2aDsIfXR9SA) | 2:18 |
 | 58 | [Bitcoin](https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [TroyBoss](https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr) | [Bitcoin](https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp) | 3:16 |
-| 59 | [SINTRAP \(Giftcard\)](https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [SIN TRAP \(Giftcard\)](https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV) | 2:57 |
-| 60 | [Corrupt, Pt\. 2](https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf) | [Chronic Law](https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL) | [Corrupt, Pt\. 2](https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r) | 2:36 |
+| 59 | [Corrupt, Pt\. 2](https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf) | [Chronic Law](https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL) | [Corrupt, Pt\. 2](https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r) | 2:36 |
+| 60 | [SINTRAP \(Giftcard\)](https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [SIN TRAP \(Giftcard\)](https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV) | 2:57 |
 | 61 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 |
 | 62 | [Crook](https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [Crook](https://open.spotify.com/album/42swaElolib5BwSAtaZYQl) | 4:05 |
 | 63 | [Stay Clean](https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Stay Clean](https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ) | 2:39 |

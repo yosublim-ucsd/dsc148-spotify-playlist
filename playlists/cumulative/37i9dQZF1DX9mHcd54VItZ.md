@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG">Vancoet</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=\-ew7kaC0Qb\-1Bg\-Jy81NUw">Spoegwolf</a>
 
-473 songs - 1 day 4 hr 13 min
+474 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 | 2023-06-01 | 2023-08-20 |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 | 2022-11-18 |
 | [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 | 2022-11-25 |
+| [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 | 2024-06-06 |  |
 | [Berlin](https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fuzz Machine EP](https://open.spotify.com/album/06IXnbdQxlYFYi7Ve7wB2F) | 3:20 | 2023-05-18 | 2023-07-29 |
 | [BEST DAYS](https://open.spotify.com/track/0h946n13uGeFs6PaKFvuCx) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [BEST DAYS](https://open.spotify.com/album/6uLmU29FmTprDpB9hSfhoH) | 3:14 | 2023-06-08 | 2023-07-07 |
 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 | 2024-03-22 |  |
@@ -210,7 +211,7 @@
 | [I Feel Fine](https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj) | [Billy Inglish](https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC) | [I Feel Fine](https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv) | 3:08 | 2022-02-25 | 2022-08-05 |
 | [I Hate Your Shirt](https://open.spotify.com/track/1o6pwsvHhE0siWoXUDkDiR) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Three of Swords](https://open.spotify.com/album/3kT07KBVwJev5xdhxg8Sl2) | 3:30 | 2023-03-23 | 2023-04-21 |
 | [I Never Listen When You Speak](https://open.spotify.com/track/2mTWLZCUEbeivHDf1ssVos) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [I Never Listen When You Speak](https://open.spotify.com/album/1h5If2qALyxObLZv9Wd7jN) | 2:35 | 2022-03-17 | 2022-07-22 |
-| [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 | 2024-01-18 |  |
+| [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 | 2024-01-18 | 2024-06-07 |
 | [Iemand Anders](https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Iemand Anders](https://open.spotify.com/album/3f6FXe5rpR9JISvkT7C7bl) | 4:04 | 2023-05-25 | 2023-06-16 |
 | [In Die Son](https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Braambos Radio](https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal) | 3:45 | 2023-01-26 | 2023-03-25 |
 | [In My Mind](https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [In My mind](https://open.spotify.com/album/6t2MjbEdLrdir2i4bIN0kL) | 3:03 | 2023-03-02 | 2023-04-21 |

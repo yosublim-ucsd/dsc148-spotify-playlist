@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BOWKYLION
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-494 songs - 1 day 5 hr 23 min
+496 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/track/5aMsKFD43XuYWH6rpzXV4C) | [GULFKANAWUT](https://open.spotify.com/artist/18rLnzDRgijQDrHurajXAS) | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/album/0iGonUyEYw1iEEvwsjAKeO) | 3:09 | 2024-02-15 | 2024-02-22 |
 | [Crush on Me!](https://open.spotify.com/track/67asd8I07UeZyeCpnfagFe) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [Crush on Me!](https://open.spotify.com/album/4wOHpwZntpunD9XKya6l6K) | 3:12 | 2024-05-10 | 2024-05-17 |
 | [Daily Magic](https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Daily Magic](https://open.spotify.com/album/5Rgqtmbcjo7yoK7a0s7TpR) | 4:12 | 2023-10-26 | 2023-12-08 |
+| [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-06 |  |
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 |  |
 | [DON'T FALL IN LOVE \(feat\. PUN\)](https://open.spotify.com/track/7JrgdbofUWR1UBHHC5n6u0) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DON'T FALL IN LOVE \(feat\. PUN\)](https://open.spotify.com/album/7qgt1dObqd1naGdDGX7sKH) | 2:37 | 2024-03-14 | 2024-03-29 |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-09-26 |
@@ -76,6 +77,7 @@
 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 | 2022-05-26 | 2022-08-26 |
 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 | 2023-05-04 |  |
 | [Light it up](https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Light it up](https://open.spotify.com/album/2QwevYKKWJkQVqJ024I7or) | 2:50 | 2024-04-11 | 2024-04-26 |
+| [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 |  |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 | 2024-05-02 |
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 | 2022-08-26 |
@@ -106,7 +108,7 @@
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
 | [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-02 |  |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
-| [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 | 2024-05-23 |  |
+| [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 | 2024-05-23 | 2024-06-07 |
 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 | 2024-04-25 |  |
 | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB) | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu) | 4:17 | 2022-06-09 | 2022-06-17 |
 | [SPARK!](https://open.spotify.com/track/4O2jdf604G0LxUb1HNLO8y) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [THE SECRETS OF THE UNIVERSE](https://open.spotify.com/album/1fkYltp0XYhWyE2FpYmbin) | 3:19 | 2023-11-16 | 2023-12-16 |
@@ -497,7 +499,7 @@
 | [ไม่ใกล้ไม่ไกล \(Always Beside You\)](https://open.spotify.com/track/6hNc1qNFdcmgJnrO06L3pF) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ไม่ใกล้ไม่ไกล \(Always Beside You\)](https://open.spotify.com/album/0FEFbFqpCnDtu0prt2myVX) | 4:06 | 2022-06-16 | 2022-06-24 |
 | [ไม่ใกล้ไม่ไกล \- Stay](https://open.spotify.com/track/0tij4kB0P1hkq8NRlgago7) | [Biw](https://open.spotify.com/artist/4Rin3DhoRqf9dJVYCEODxa) | [ไม่ใกล้ไม่ไกล \(Stay\)](https://open.spotify.com/album/5h7myinXE2LCWUSqE5YWdK) | 3:36 | 2022-07-23 | 2022-08-12 |
 | [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/track/4vO7gm9M9h1jUs2c8GsWqR) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/album/67x9lIhKQZfqs9ZNJ1jjIQ) | 2:58 | 2023-12-15 | 2023-12-21 |
-| [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2022-10-04 |  |
+| [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2022-10-04 | 2024-06-07 |
 | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\)](https://open.spotify.com/track/75PNvxakeoKFP7dxdGDWLb) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\) \- Single](https://open.spotify.com/album/0GCaqJpZqxcszozlequwGC) | 3:18 | 2023-11-09 | 2023-12-08 |
 | [ไวน์ลดา](https://open.spotify.com/track/1RVYucT3tc32YzRDsP30t3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [ไวน์ลดา](https://open.spotify.com/album/5SntqKVAPjrv7hmtsJKx4p) | 3:47 | 2022-05-26 | 2022-06-17 |
 | [ไหนวะ](https://open.spotify.com/track/59yg0a52VmCOWwEvRv191r) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [ไหนวะ](https://open.spotify.com/album/1v0FXYuDwVKLKexIiQcIrf) | 4:00 | 2022-08-11 | 2022-08-26 |

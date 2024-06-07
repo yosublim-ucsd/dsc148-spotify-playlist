@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Mitchy
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,463 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,545 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 97 | [Sedona](https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er) | [Riley Whittaker](https://open.spotify.com/artist/01M042tT419btz6wpqGoZE) | [Sedona](https://open.spotify.com/album/2BjXEWXaQHHmpzPJD6IQ74) | 3:24 |
 | 98 | [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 |
 | 99 | [laundry detergent](https://open.spotify.com/track/1pB8PSQShsmbOlsBGKwSnJ) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [laundry detergent](https://open.spotify.com/album/0gMy51MYjFPXUqkfHYrAFo) | 2:58 |
-| 100 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly](https://open.spotify.com/artist/6Ax1Au8Lj8zfgdb7hp6TUT) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
+| 100 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
 
 Snapshot ID: `Zl/iwAAAAAA00O8hLxbYsuxzy2D36RM4`

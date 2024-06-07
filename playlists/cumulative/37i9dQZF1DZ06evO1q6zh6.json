@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This Is Judas Priest. Los temas esenciales, todos en una lista.",
+  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
   "name": "This Is Judas Priest",
   "tracks": [
     {
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 310080,
       "name": "You've Got Another Thing Coming",
       "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"

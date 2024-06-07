@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Nous on sait\" de Pierre Garnier est le Grand Hit de la semaine.",
+  "description": "\"Facile \u00e0 danser\" de Soprano est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Le tour du monde",
+        "url": "https://open.spotify.com/album/6nWL5kBOrcd6T6PbqDiiim"
+      },
+      "artists": [
+        {
+          "name": "Margot Abate",
+          "url": "https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150579,
+      "name": "Le tour du monde",
+      "url": "https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd"
+    },
+    {
+      "album": {
         "name": "C'est dr\u00f4le la vie",
         "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
@@ -1922,10 +1940,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 207035,
       "name": "Les \u00e9toiles",
       "url": "https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3"
+    },
+    {
+      "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230351,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh"
     },
     {
       "album": {
@@ -1980,6 +2016,28 @@
       "duration_ms": 181388,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
+    },
+    {
+      "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189588,
+      "name": "Maintenant",
+      "url": "https://open.spotify.com/track/7B2lIJDAmk3H2jIMXs6cB6"
     },
     {
       "album": {
@@ -2182,7 +2240,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 176125,
       "name": "Parapluie",
       "url": "https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B"
@@ -2366,7 +2424,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 217586,
       "name": "Puis t'as dans\u00e9 avec moi",
       "url": "https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx"

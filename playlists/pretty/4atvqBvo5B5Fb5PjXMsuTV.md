@@ -1,37 +1,37 @@
 pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain](/playlists/plain/4atvqBvo5B5Fb5PjXMsuTV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4atvqBvo5B5Fb5PjXMsuTV)
 
-### [NEW SINGLES RELEASES \| UPDATED 06 JUN](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
+### [NEW SINGLES RELEASES \| UPDATED 07 JUN](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
 > Updated daily, with the latest popular singles!
 
-[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 78 likes - 25 songs - 1 hr 26 min
+[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 78 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Russian Roulette](https://open.spotify.com/track/7G7d7blGgIsV9EVXJNZHBn) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Russian Roulette](https://open.spotify.com/album/7AQUdi9nNpE4AAfRKxh11t) | 6:28 |
-| 2 | [Orange\-coloured day](https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Orange\-coloured day](https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj) | 2:48 |
-| 3 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 |
-| 4 | [Hide & Seek](https://open.spotify.com/track/0lEV7NyokaZjOShjtlnWnJ) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/7LxJlSAewNKR0rrXDQxwmD) | 3:04 |
-| 5 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 |
-| 6 | [Last Time](https://open.spotify.com/track/1M7tElrrOSiGFwUIp7ztr6) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Last Time](https://open.spotify.com/album/5aSf6hr6Ypdp8cmTCRkkir) | 3:35 |
-| 7 | [Mother](https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Mother](https://open.spotify.com/album/0UzkkyZr2P80OnYgsDGUU5) | 4:28 |
-| 8 | [We Were Never Alive](https://open.spotify.com/track/0oHuN77kxHehaK8nbudk0U) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [We Were Never Alive](https://open.spotify.com/album/7cvrS9wzzAg3xDDAtXyzeF) | 4:08 |
-| 9 | [way i luv](https://open.spotify.com/track/6cogRqqEIYrqDjcEIlLXGl) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [way i luv](https://open.spotify.com/album/1V13EjtcTrzHbi8fZwExJi) | 3:43 |
-| 10 | [Parklife \- Live at Wembley Stadium](https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Live at Wembley Stadium\)](https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY) | 3:50 |
-| 11 | [SHOW OFF](https://open.spotify.com/track/3LqokQxjMHl7U24DjGVaS4) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [SHOW OFF](https://open.spotify.com/album/7IkLPBnLaNKZEXVEq4RDfl) | 3:06 |
-| 12 | [Luchtballon](https://open.spotify.com/track/024pThriWXJRFgGQuixYs7) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luchtballon](https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT) | 2:16 |
-| 13 | [7 DAM](https://open.spotify.com/track/0u4LafmewDz5L2FNqqWGud) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [7 DAM](https://open.spotify.com/album/6Mu6pSBimQAd9i334j2nQw) | 2:14 |
-| 14 | [hey! hey!](https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [hey! hey!](https://open.spotify.com/album/6yGdGCWksLfDes9U81SRkP) | 3:12 |
-| 15 | [Stay](https://open.spotify.com/track/6doBJ81IW19M8Ns8So81zW) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [SCENE](https://open.spotify.com/album/1iUt7YsA13ZktuHnIF2zEr) | 3:11 |
-| 16 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 |
-| 17 | [Ain't Nobody](https://open.spotify.com/track/1WfDfbqh7WUIknOdZPO5XP) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI), [Hanna Tembo](https://open.spotify.com/artist/1P5OWAouHeNB4aEhFeCVzt) | [Ain't Nobody](https://open.spotify.com/album/2p8qKlTOB9Qv9Wrs9oRz0V) | 4:40 |
-| 18 | [COMBAT](https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [COMBAT](https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o) | 4:16 |
-| 19 | [Harder to Kill](https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Harder to Kill](https://open.spotify.com/album/5oX8qPG4FJm9lPhZtn7gBu) | 2:58 |
-| 20 | [Linoleum](https://open.spotify.com/track/2BicHItEEEhdtnJHzwVq6e) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Linoleum](https://open.spotify.com/album/2V4dXe8Mp3nVRgj34nWEmH) | 3:21 |
-| 21 | [Sorry For Saying the N\-Word](https://open.spotify.com/track/0mLrdeIc8RQuKBqNuiOqgB) | [Yung Oogway](https://open.spotify.com/artist/5A5NJ5KyZtwBOvpmSM6VjQ), [Master Oogway](https://open.spotify.com/artist/2opKsUNsav4ZAMYQt5KF3C) | [Sorry For Saying the N\-Word](https://open.spotify.com/album/4u7V4af7XKzpiDYQ9RidQg) | 2:05 |
-| 22 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 |
-| 23 | [Foul Void](https://open.spotify.com/track/67EvVbTQmdUzxLSA9EkUzt) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Foul Void](https://open.spotify.com/album/1E7lzQx8JPtHv6aa0tfrqL) | 4:07 |
-| 24 | [Soft Glow](https://open.spotify.com/track/2KZsN4rkEtuL35yGuRsfr5) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Soft Glow](https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF) | 3:43 |
-| 25 | [Immortal](https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Immortal](https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D) | 3:40 |
+| 1 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 |
+| 2 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 |
+| 3 | [Florenz](https://open.spotify.com/track/74vE9sxMnFuxzp4uDkrwKW) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Florenz](https://open.spotify.com/album/4QzKGQFEbtq1cSeluRu2or) | 2:32 |
+| 4 | [Step](https://open.spotify.com/track/5xewKfFWqzScyAexsi72SE) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Step](https://open.spotify.com/album/2ZgwNJaq7UwUnNlCjJ3wuu) | 4:01 |
+| 5 | [emotional time](https://open.spotify.com/track/1SqeqVKfcAI6oGZ6LmVr5e) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [emotional time](https://open.spotify.com/album/2LpP0nqMyt28bqaHvE9euc) | 2:39 |
+| 6 | [Saraiman](https://open.spotify.com/track/79O1Cgf7etB3qAB7Qde5rN) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Saraiman](https://open.spotify.com/album/07N3hzOAgBnFB9N8BEZqaW) | 4:12 |
+| 7 | [PAYMEAGRIP](https://open.spotify.com/track/4TZlGoL2MMOYl6dNapmxHB) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [PAYMEAGRIP](https://open.spotify.com/album/3ITzR5E5QYiUrvOS9vRCUZ) | 2:04 |
+| 8 | [Fatalist](https://open.spotify.com/track/3w1pnSv8B46NVsias65E1L) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Fatalist](https://open.spotify.com/album/4I2112nHeCLwTEb4xkUowx) | 3:03 |
+| 9 | [there's a light](https://open.spotify.com/track/3IYbfszzTtDN1aTvQreFsE) | [peace](https://open.spotify.com/artist/5o4nlnlzin0Cc1GIRovq1Q) | [there's a light](https://open.spotify.com/album/5fdEADXcrVOns6lSt4oeon) | 2:01 |
+| 10 | [STARBLAZE](https://open.spotify.com/track/296UE3AygQKdzequJhUdGz) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL) | [STARBLAZE](https://open.spotify.com/album/0WFn8xobTBPK5Zib09K6hc) | 3:06 |
+| 11 | [Anxiety](https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Anxiety](https://open.spotify.com/album/4CzCtsPM1jOgMW2grZHah6) | 3:28 |
+| 12 | [Plenty Guns](https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Plenty Guns](https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS) | 1:26 |
+| 13 | [MPH](https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [MPH](https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q) | 1:59 |
+| 14 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
+| 15 | [Super Hot](https://open.spotify.com/track/06WjECutJB2RmkCvKUoMQH) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [IC3MANIA](https://open.spotify.com/artist/54z6HGc0bumE5NMraoykmq) | [Super Hot](https://open.spotify.com/album/5MOXfTRaSGtYL0pB8GKOnJ) | 3:09 |
+| 16 | [CYAN](https://open.spotify.com/track/3HSxAkhvpn17foJLyN1fLH) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [CYAN](https://open.spotify.com/album/5gR1KCXF1uPCY8fjFEkN64) | 4:06 |
+| 17 | [RADA RADA](https://open.spotify.com/track/4Bui9oXVCWkCVnAGM6DPxg) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [RADA RADA](https://open.spotify.com/album/0hYp8ix2AqEl5lFl6Gruzm) | 1:44 |
+| 18 | [Take Me Higher](https://open.spotify.com/track/2BiqLx4Aibr5iElQ7DCq3J) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Take Me Higher](https://open.spotify.com/album/1YZLSIwKqC5Z7x5c3ThUEh) | 3:40 |
+| 19 | [Pulling Quotes](https://open.spotify.com/track/6iH3AXLQHlrbHfG6XGqjau) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pulling Quotes](https://open.spotify.com/album/31yJkBf5Kp70ecygDPPSsc) | 4:42 |
+| 20 | [Call Me Jeffy !](https://open.spotify.com/track/4gyGEOJ5CHligaGB7QBQno) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Call Me Jeffy !](https://open.spotify.com/album/75ZbaL9fo2EBIowtYKrgRe) | 2:31 |
+| 21 | [5!6!7!8!](https://open.spotify.com/track/2oOthLvJcPq9lGVve5cNgi) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [5!6!7!8!](https://open.spotify.com/album/6dzOjNpgbqkCAzaHkso3w0) | 3:21 |
+| 22 | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/track/2AKqdeBcqsBxn2mEoH9PId) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/album/5I4SjgDun5aNtwRu2YN4px) | 4:09 |
+| 23 | [Russian Roulette](https://open.spotify.com/track/7G7d7blGgIsV9EVXJNZHBn) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Russian Roulette](https://open.spotify.com/album/7AQUdi9nNpE4AAfRKxh11t) | 6:28 |
+| 24 | [Orange\-coloured day](https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Orange\-coloured day](https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj) | 2:48 |
+| 25 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 |
 
-Snapshot ID: `AAAIuwK2JLmKhEANOfN25sSWLwsKWYnV`
+Snapshot ID: `AAAIwKtx4FgqyKqTTZOkArTYia3xWHZr`

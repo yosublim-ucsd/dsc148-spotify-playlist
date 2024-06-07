@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 184077,
       "name": "All On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 108000,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/419o5hR6s53S0ic5iP984q"
@@ -2521,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "People Don't Stop",
+        "url": "https://open.spotify.com/album/5eM2Zt3wmwXcx8pFFM5OpH"
+      },
+      "artists": [
+        {
+          "name": "Wiyaala",
+          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262057,
+      "name": "People Don't Stop",
+      "url": "https://open.spotify.com/track/2RhGqawopVGPm7tsPekplT"
+    },
+    {
+      "album": {
         "name": "TWO II",
         "url": "https://open.spotify.com/album/0LxizsZ3vRcN4KwXuShA83"
       },
@@ -3562,6 +3580,32 @@
       "duration_ms": 232500,
       "name": "Umcebo",
       "url": "https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd"
+    },
+    {
+      "album": {
+        "name": "Under The Strikes",
+        "url": "https://open.spotify.com/album/3X2bhCGH9RNj9gErZuY0Qn"
+      },
+      "artists": [
+        {
+          "name": "Yannis & The Yaw",
+          "url": "https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270583,
+      "name": "Under The Strikes",
+      "url": "https://open.spotify.com/track/767IdfyG4k7BIczG9HQ3dQ"
     },
     {
       "album": {

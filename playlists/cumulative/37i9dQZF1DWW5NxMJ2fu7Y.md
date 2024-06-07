@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-72 songs - 4 hr 4 min
+73 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [7alabach](https://open.spotify.com/track/1zFpY7StGgMbDIoAgjzLEc) | [Liris](https://open.spotify.com/artist/63a2RJnKSa2po7VDshJFiA) | [CasaBlanche](https://open.spotify.com/album/3wqxLm5QrnDXwlHDAies2R) | 3:32 | 2024-02-29 |  |
 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 | 2024-02-29 |  |
 | [Ana W Rassi](https://open.spotify.com/track/0vyV3joyy1lWJoZ7QWJVew) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ana W Rassi](https://open.spotify.com/album/2W4as3s5ueGHrBjkqfjT4A) | 3:49 | 2024-02-29 |  |
-| [Ayala](https://open.spotify.com/track/4ja9Tx6iAMlMHCv7VXIGjC) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Ayala](https://open.spotify.com/album/71mpnHnlye8O62xMgL4vpn) | 3:03 | 2024-05-09 |  |
+| [Ayala](https://open.spotify.com/track/4ja9Tx6iAMlMHCv7VXIGjC) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Ayala](https://open.spotify.com/album/71mpnHnlye8O62xMgL4vpn) | 3:03 | 2024-05-09 | 2024-06-07 |
 | [Baghi Ntoub](https://open.spotify.com/track/4ZqfS1PEQlNmfKNUqPXmYr) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Baghi Ntoub](https://open.spotify.com/album/4Qy0HAqDOh20b7ss1YWbJI) | 2:42 | 2024-02-29 |  |
 | [BEAU\-COUP](https://open.spotify.com/track/7AuzxGwnsQAIOv8Fn8lisS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [BEAU\-COUP](https://open.spotify.com/album/4O5Tx7iZBj3PIzI7Vmm9Js) | 2:40 | 2024-02-29 |  |
 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 | 2024-02-29 |  |
@@ -79,6 +79,7 @@
 | [Yek Yek](https://open.spotify.com/track/617V6FOa1Qo3UIMn7y84fA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2pJTYN66za2S6VZ0ceOKZP) | 3:31 | 2024-02-29 |  |
 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 | 2024-02-29 | 2024-05-10 |
 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 | 2024-02-29 |  |
+| [ça ira mieux](https://open.spotify.com/track/0S6Aanrei1yPQ2cOadDg9E) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [ça ira mieux](https://open.spotify.com/album/3xKmJfhleJoPmardRq4bWq) | 2:04 | 2024-06-06 |  |
 | [درجة درجة](https://open.spotify.com/track/4NNRo1LtV9ndhNbCFohprQ) | [Fares LÜNN](https://open.spotify.com/artist/0LsY50DXw2einabxwLuMKe) | [درجة درجة](https://open.spotify.com/album/7igRk3HV35Tnx4HKg6Hkot) | 3:12 | 2024-02-29 |  |
 
 \*This playlist was first scraped on 2024-04-08. Prior content cannot be recovered.

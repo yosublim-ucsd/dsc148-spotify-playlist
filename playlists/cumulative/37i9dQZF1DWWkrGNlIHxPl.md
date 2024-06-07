@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Belly
+> Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-335 songs - 18 hr 29 min
+336 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alaoui \- live](https://open.spotify.com/track/1LyIdcBndNywjCzOAPKWaO) | [Orchestre National De Barbes](https://open.spotify.com/artist/5N3sPtDHs7cuLS1CUwc5Cw) | [en concert](https://open.spotify.com/album/3YE9FR1smbDWlubFqkHc49) | 7:02 | 2022-06-06 | 2022-06-24 |
 | [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:33 | 2023-12-06 |  |
 | [All Of Me](https://open.spotify.com/track/2RYCv0sOwldPBw3G4hrrU4) | [Alina K](https://open.spotify.com/artist/4cNCIzhz2bXKGk9aNPtxUq) | [All Of Me](https://open.spotify.com/album/53c2TfoYsS6pTGsaWaHJD1) | 2:29 | 2022-09-28 | 2022-12-08 |
+| [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 | 2024-06-06 |  |
 | [Allaoui](https://open.spotify.com/track/7AMdQRt35oIv44tXLMEH4l) | [Hanini](https://open.spotify.com/artist/3ZWO3AKohnk7e25w2kXTpn) | [Africains du Nord](https://open.spotify.com/album/0MyVuPEM6RaKtGXrPv8tC2) | 4:09 | 2022-06-06 | 2022-06-24 |
 | [Allaoui & N'hari \(Version 1\)](https://open.spotify.com/track/0sfRMPvT6MlYhWmpKMxi0G) | [Baghdad Mimouni & Troupe](https://open.spotify.com/artist/73M1PTYMuiJ047ImFliZS4) | [Allaoui & N'hari](https://open.spotify.com/album/6iPgIXJR9hD1zFpx7ebD4B) | 6:10 | 2022-06-06 | 2022-06-24 |
 | [Amazing](https://open.spotify.com/track/79jaXPnfIMOQj5Qj6j8D1p) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [IQ](https://open.spotify.com/artist/5TblKpRNNIvsQoYPAQDVoB) | [Amazing](https://open.spotify.com/album/1F7f8nnfVVFTcEZbV4XRYJ) | 3:17 | 2021-12-16 | 2022-10-09 |
@@ -70,7 +71,7 @@
 | [Deep End](https://open.spotify.com/track/1tBGCQUfN4d7iUJC7xMsJE) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Deep End](https://open.spotify.com/album/3sgMt6ZHu0nANSXV19zdsU) | 3:23 | 2021-12-16 | 2022-11-20 |
 | [deeper me](https://open.spotify.com/track/2GjnmIxiLh9wvIpigtek5C) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/70ST2gVUiX0N0wGEld6cxh) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [deeper me](https://open.spotify.com/track/5UbiMFkaDzjQeqDDOft4uD) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/5FyVNEJKiwCNiw9xuFIQWC) | 3:15 | 2021-12-16 | 2022-07-29 |
-| [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-02-27 |  |
+| [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-02-27 | 2024-06-07 |
 | [Dirt Bag](https://open.spotify.com/track/1dy0gIKOgX4iOsW30qodhq) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Dirt Bag](https://open.spotify.com/album/563WPjzM0AeyozwhFvSo6l) | 2:12 | 2023-03-14 | 2023-04-09 |
 | [DISCO COWBOY](https://open.spotify.com/track/4ShbZVBX250TtUHH4PN88P) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [DISCO COWBOY](https://open.spotify.com/album/45P82N0aw6NUaDH8OyCPUm) | 2:39 | 2023-07-31 |  |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-06-02 | 2023-08-01 |

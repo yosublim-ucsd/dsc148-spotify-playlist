@@ -1,12 +1,12 @@
 {
   "description": "Only the best rock in the world. Cover: M\u00e5neskin",
-  "num_followers": 178386,
+  "num_followers": 178445,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbmXAAAAADTmcJQK3VQszVSsjuT/jZ+",
+  "snapshot_id": "ZmHrEAAAAAAzPYDHZoCoDqxQrJrO9B60",
   "tracks": [
     {
       "added_at": "2024-05-17 05:08:44",
@@ -27,22 +27,6 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2024-05-17 05:08:44",
-      "album": {
-        "name": "Rise Above It All",
-        "url": "https://open.spotify.com/album/3Gil9wjr3AqUCwQb9WS73c"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Thunderbolts",
-          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
-        }
-      ],
-      "duration_ms": 202187,
-      "name": "Rise Above It All",
-      "url": "https://open.spotify.com/track/64RFA8JNrcHTRRizsXHVPv"
     },
     {
       "added_at": "2024-05-17 05:08:44",
@@ -207,6 +191,22 @@
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
+    },
+    {
+      "added_at": "2024-06-06 17:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 195099,
+      "name": "We Made It Look Easy",
+      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
     },
     {
       "added_at": "2024-05-17 05:08:44",
@@ -543,22 +543,6 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
-    },
-    {
-      "added_at": "2024-05-17 05:08:44",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 244233,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
     },
     {
       "added_at": "2024-05-17 05:08:44",

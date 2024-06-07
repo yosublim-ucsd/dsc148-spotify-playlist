@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Romy",
+  "description": "New music off the beaten track. Cover: Caribou",
   "name": "OFF POP",
   "tracks": [
     {
@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 123142,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k"
@@ -1040,6 +1040,24 @@
       "duration_ms": 253200,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w"
+    },
+    {
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298469,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
     },
     {
       "album": {
@@ -1628,6 +1646,24 @@
       "duration_ms": 200571,
       "name": "Bright Sunny Day",
       "url": "https://open.spotify.com/track/4SNVYQCW5yopk5uUluli3c"
+    },
+    {
+      "album": {
+        "name": "Broke My Heart",
+        "url": "https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
     },
     {
       "album": {
@@ -2878,6 +2914,24 @@
       "duration_ms": 417136,
       "name": "Deuteronomy - Original Mix",
       "url": "https://open.spotify.com/track/0OFg9XrBTDowg4VCffFJjm"
+    },
+    {
+      "album": {
+        "name": "Devil Mode",
+        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184434,
+      "name": "Devil Mode",
+      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
     },
     {
       "album": {
@@ -4231,6 +4285,36 @@
     },
     {
       "album": {
+        "name": "Feel The Rush (Honey Dijon Remix)",
+        "url": "https://open.spotify.com/album/1XT3rxm9mfegbd78WnfZKH"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409133,
+      "name": "Feel The Rush - Honey Dijon Remix",
+      "url": "https://open.spotify.com/track/17qcqOh2XjT3pYAzDipzNx"
+    },
+    {
+      "album": {
         "name": "Feel The Same",
         "url": "https://open.spotify.com/album/7BkQXxFdJJwaPB37QvrxQs"
       },
@@ -5032,7 +5116,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 228410,
       "name": "Ghosting You",
       "url": "https://open.spotify.com/track/2qoqzLWwrGmeZvukkQ2AKW"
@@ -5418,6 +5502,28 @@
       "duration_ms": 297303,
       "name": "hearts <3",
       "url": "https://open.spotify.com/track/2o0JbmIEBEJ20f7SXpr7XH"
+    },
+    {
+      "album": {
+        "name": "heatwave",
+        "url": "https://open.spotify.com/album/3UbQQcWpwFg6j5IiRDqjjz"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        },
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219648,
+      "name": "heatwave",
+      "url": "https://open.spotify.com/track/6wtbNTxsxH8CrZ9Whp8oBh"
     },
     {
       "album": {
@@ -5880,7 +5986,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 401100,
       "name": "Hollow - Joe Goddard Remix",
       "url": "https://open.spotify.com/track/4vo9RlUaL3jHapwpUMfFKZ"
@@ -6240,7 +6346,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 146301,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/2mihsBJgTTLGgQgj9uSLH9"
@@ -7103,6 +7209,28 @@
     },
     {
       "album": {
+        "name": "Just a Dance",
+        "url": "https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160932,
+      "name": "Just a Dance",
+      "url": "https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J"
+    },
+    {
+      "album": {
         "name": "Just The Once",
         "url": "https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5"
       },
@@ -7545,6 +7673,24 @@
     },
     {
       "album": {
+        "name": "Less of You",
+        "url": "https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Less of You",
+      "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
+    },
+    {
+      "album": {
         "name": "Let her go",
         "url": "https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg"
       },
@@ -7854,7 +8000,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 253760,
       "name": "Look In The Mirror",
       "url": "https://open.spotify.com/track/6rwRf8DFQsadNxevwfUcSX"
@@ -8642,7 +8788,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 218953,
       "name": "Midnight Serenade",
       "url": "https://open.spotify.com/track/4V2u9MWP2wgSCSkDSo4ZjZ"
@@ -10655,6 +10801,24 @@
     },
     {
       "album": {
+        "name": "Rain falls back into the sky.",
+        "url": "https://open.spotify.com/album/7mk4217XLY8Dmplphh9Xx2"
+      },
+      "artists": [
+        {
+          "name": "IXIK",
+          "url": "https://open.spotify.com/artist/2swveNUs1U58B8rbKsoMAW"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216853,
+      "name": "Rain falls back into the sky.",
+      "url": "https://open.spotify.com/track/7rERJnW1oWI0ahNnTO6deq"
+    },
+    {
+      "album": {
         "name": "The Reset",
         "url": "https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG"
       },
@@ -11298,7 +11462,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
@@ -11774,6 +11938,28 @@
       "duration_ms": 201640,
       "name": "Silly Walk",
       "url": "https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM"
+    },
+    {
+      "album": {
+        "name": "skin deep",
+        "url": "https://open.spotify.com/album/7xXBKyU4i2C1iX4AvzQqcK"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        },
+        {
+          "name": "Lucy Dye",
+          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "skin deep",
+      "url": "https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14"
     },
     {
       "album": {
@@ -13404,7 +13590,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 209761,
       "name": "Tides - Edit",
       "url": "https://open.spotify.com/track/0LrMnzCsLwwcr1G1cvKmjv"
@@ -13692,6 +13878,24 @@
       "duration_ms": 254902,
       "name": "Tratado",
       "url": "https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb"
+    },
+    {
+      "album": {
+        "name": "Treat Each Other Right",
+        "url": "https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240580,
+      "name": "Treat Each Other Right",
+      "url": "https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K"
     },
     {
       "album": {
@@ -14392,7 +14596,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
@@ -14754,7 +14958,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 220245,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"

@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-328 songs - 16 hr 42 min
+330 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Fears In The Fire](https://open.spotify.com/track/1EwYWqQsaBhm98CphY1tKs) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/4AI6ApB66OHFrpMgqiUG3g) | 2:37 | 2022-07-29 | 2023-04-29 |
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-29 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2023-08-10 |  |
+| [Filthy Rich](https://open.spotify.com/track/5ksui6de0U50Rc6PikEBu1) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Filthy Rich](https://open.spotify.com/album/6cFccsLrrlJreLTA23pVzc) | 2:27 | 2024-06-06 |  |
 | [Find A Way](https://open.spotify.com/track/7zM4RlICmXyA7TyEPigVZq) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Find A Way](https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1) | 3:08 | 2022-07-29 | 2023-09-02 |
 | [Flame](https://open.spotify.com/track/5K3dTaVxbZUOzJwFJhbj2A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Flame](https://open.spotify.com/album/7GJsQ9W5MqX0as7C8xgs4G) | 2:51 | 2022-07-29 | 2022-08-20 |
 | [Flight](https://open.spotify.com/track/67keGyFWWzCELxtVSBi1em) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Flight](https://open.spotify.com/album/1sLPzmdbfT9UvHuOvBe9yE) | 2:30 | 2023-08-24 |  |
@@ -197,6 +198,7 @@
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-06-02 |  |
 | [Monday \(Feat\. Philip Strand\)](https://open.spotify.com/track/1AvK4RTschGx3fDiYfSwbO) | [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Monday \(Feat\. Philip Strand\)](https://open.spotify.com/album/2lLZpQTUZcsOUhImIwkYR1) | 2:42 | 2023-03-24 | 2023-08-11 |
 | [Monster](https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Monster](https://open.spotify.com/album/1tInUyai2CNWOmuVFqdSRY) | 3:27 | 2022-07-29 | 2023-08-12 |
+| [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 | 2024-06-06 |  |
 | [Move It Like This](https://open.spotify.com/track/4RGpvnDzrLRUGQJSulpOT4) | [RevoideN](https://open.spotify.com/artist/5bw9Y5y2Q1GlJ4AzH5eVSA) | [Move It Like This](https://open.spotify.com/album/4a4Rz6VYOb3jQXRdan98Be) | 2:23 | 2023-08-10 | 2023-12-09 |
 | [Move Your Body](https://open.spotify.com/track/5uSHDVIZf0ejiFzroIheiu) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body \(Extended Mix\)](https://open.spotify.com/album/3sBhqTQUVLgkNeBIZcLUST) | 2:37 | 2023-08-10 | 2023-11-22 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2023-11-21 |  |

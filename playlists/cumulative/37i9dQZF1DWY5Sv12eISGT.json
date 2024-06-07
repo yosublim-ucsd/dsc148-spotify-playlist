@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136121,
+      "name": "Born in the Wild",
+      "url": "https://open.spotify.com/track/6EKlFOGHGwp9S0xBAxOBRV"
+    },
+    {
+      "album": {
         "name": "Contour (Acoustic)",
         "url": "https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 208056,
       "name": "Waweza - Acoustic",
       "url": "https://open.spotify.com/track/6AfPqQJSZVsNNsNXDBq0Fq"

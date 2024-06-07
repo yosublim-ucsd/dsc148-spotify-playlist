@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,874 songs - 4 day 2 hr 48 min
+1,875 songs - 4 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Big Brown Eyes](https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Big Brown Eyes](https://open.spotify.com/album/0rez0kptEcS4h9NMKlHsl0) | 3:38 | 2024-04-05 | 2024-06-05 |
 | [Big House](https://open.spotify.com/track/0JxgrqSA328tRUNWdTmRAL) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Big House](https://open.spotify.com/album/2tqpoS992y7iKD4M4C2Jmx) | 3:25 | 2023-04-07 | 2023-04-15 |
 | [Big Wheel](https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel](https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD) | 3:15 | 2020-10-16 | 2021-06-03 |
-| [Billabong Babe](https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS) | [Royce Fisherman](https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR) | [Billabong Babe](https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2) | 2:14 | 2024-04-12 |  |
+| [Billabong Babe](https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS) | [Royce Fisherman](https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR) | [Billabong Babe](https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2) | 2:14 | 2024-04-12 | 2024-06-07 |
 | [birth by sleep](https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [never knows best](https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY) | 2:42 | 2021-09-07 | 2021-09-08 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2022-04-02 |
 | [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-04 | 2022-04-21 |
@@ -1654,6 +1654,7 @@
 | [TEXAS BLUE](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 | 2024-05-26 |
 | [texas summer](https://open.spotify.com/track/1LgS7KOi9ks0aup9O8JGSR) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [jackson lee morgan](https://open.spotify.com/artist/7B0upFhefvU2PuUCJBXBCz) | [texas summer](https://open.spotify.com/album/2djUQUYroAXdOL4T99mNrL) | 2:50 | 2020-11-13 | 2021-01-15 |
 | [Thank U](https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Thank U](https://open.spotify.com/album/4xTL6WvU1XquiSZ1ibPHyB) | 4:02 | 2020-11-10 | 2021-05-25 |
+| [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 | 2024-05-24 |  |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-07-23 |
 | [The Bug](https://open.spotify.com/track/381x0Ox55JwTU6QTENUWkI) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [The Bug](https://open.spotify.com/album/2A1c0zO7rYkPtlSrEiZTGP) | 3:56 | 2024-04-26 | 2024-06-01 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-09 |

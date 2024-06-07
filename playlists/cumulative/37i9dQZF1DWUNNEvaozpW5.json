@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Bunbury con Arde Bogot\u00e1.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -4621,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Barato y Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/67YZLavU5Cbm6AiwvwalLb"
+      },
+      "artists": [
+        {
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174898,
+      "name": "Mal Acompa\u00f1ado",
+      "url": "https://open.spotify.com/track/1bTN3Da5Uf5qVgszKxclFV"
+    },
+    {
+      "album": {
         "name": "Patchanka",
         "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
@@ -5392,7 +5410,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 180650,
       "name": "No Me Gusta Conducir",
       "url": "https://open.spotify.com/track/2nEdNloA4GhrVBvh2oEXaq"

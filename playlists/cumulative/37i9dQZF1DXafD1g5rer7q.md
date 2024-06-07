@@ -4,14 +4,14 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-196 songs - 9 hr 26 min
+197 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999 \(I Wanna Go Back\)](https://open.spotify.com/track/4LXXrqp6zXLI7JyZpdY1wF) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [1999 \(I Wanna Go Back\)](https://open.spotify.com/album/6O8JEMmARS2zvMTkzl2v8K) | 2:36 | 2022-04-21 | 2022-07-29 |
 | [2 Die 4](https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:05 | 2023-12-11 | 2024-04-19 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-28 | 2023-12-11 |
-| [365](https://open.spotify.com/track/07nXqVabHMcScDmkMkU8on) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [365](https://open.spotify.com/album/0JrdpEVSn9aMA47220OsSW) | 2:24 | 2024-05-30 |  |
+| [365](https://open.spotify.com/track/07nXqVabHMcScDmkMkU8on) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [365](https://open.spotify.com/album/0JrdpEVSn9aMA47220OsSW) | 2:24 | 2024-05-30 | 2024-06-07 |
 | [Adrenaline Rush \(feat\. MORGAN\)](https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Adrenaline Rush \(feat\. MORGAN\)](https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c) | 3:04 | 2023-06-01 | 2024-02-26 |
 | [Air Balloon](https://open.spotify.com/track/0zFhZc3qHgMpV26V1GsL3K) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [ALPHACAST](https://open.spotify.com/artist/3UNkFmRjyF1KBDHUAVTrEl) | [Air Balloon](https://open.spotify.com/album/0FgZvChXeLV0dPLoAPXGvZ) | 2:38 | 2022-04-14 | 2022-07-29 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-06 |  |
@@ -111,6 +111,7 @@
 | [Lovers Say Goodbye](https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Lovers Say Goodbye](https://open.spotify.com/album/2SCHhLKJQTLI3OExmZYaTz) | 2:17 | 2022-04-14 | 2022-07-29 |
 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 | 2022-07-28 |  |
 | [Makes Me Feel This Way](https://open.spotify.com/track/0d3aYLE4tPWtCDdM3ibmRY) | [Nairobi](https://open.spotify.com/artist/6xvmQu4xazca5bQXSX9ibX), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Makes Me Feel This Way](https://open.spotify.com/album/1dxIHCmlJleytvgWtqpSUJ) | 3:00 | 2022-04-14 | 2022-07-28 |
+| [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 | 2024-06-06 |  |
 | [Mind Blown](https://open.spotify.com/track/7oahNRcO0CxOOQWlqpuH40) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Mind Blown](https://open.spotify.com/album/2NlXRqatqpKRFd7vhLjfZj) | 2:41 | 2022-05-16 | 2022-07-07 |
 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 | 2022-07-28 |  |
 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2022-07-28 |  |

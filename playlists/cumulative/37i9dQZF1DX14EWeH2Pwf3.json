@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Tedua",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 ANNA in cover con 30\u00b0C \ud83e\udd75",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 162500,
       "name": "BOULEVARD",
       "url": "https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1"
@@ -3564,6 +3564,10 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
         }
       ],
       "date_added": "2024-05-09",
@@ -5061,6 +5065,36 @@
     },
     {
       "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "IDEE CHIARE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/04fyqFKw0UeWRfFylNODYv"
+    },
+    {
+      "album": {
         "name": "IL BENE NEL MALE",
         "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
       },
@@ -5298,7 +5332,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 245292,
       "name": "In Italia 2024 (feat. Emma & Baby Gang)",
       "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
@@ -5386,6 +5420,28 @@
       "duration_ms": 161583,
       "name": "Intro La Divina Commedia",
       "url": "https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
     },
     {
       "album": {
@@ -7074,6 +7130,32 @@
       "duration_ms": 206054,
       "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
+    },
+    {
+      "album": {
+        "name": "Cultura Italiana Pt.1",
+        "url": "https://open.spotify.com/album/5uNUfyRRg7WrbviPwQVrge"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152783,
+      "name": "Mississippi Drive (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/0H3Y78oMfwkjyJe2hDGdB1"
     },
     {
       "album": {
@@ -8852,7 +8934,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 147426,
       "name": "PILLOLE (feat. Sfera Ebbasta & Geolier)",
       "url": "https://open.spotify.com/track/5wU2NUt1pSAeTIWfXnRRkQ"
@@ -10655,6 +10737,28 @@
     },
     {
       "album": {
+        "name": "SOS (feat. Don Pero)",
+        "url": "https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173653,
+      "name": "SOS (feat. Don Pero)",
+      "url": "https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5"
+    },
+    {
+      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -11402,7 +11506,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 200729,
       "name": "TUTTO FUORI CONTROLLO \u0d75 (con Franco 126, Kid Yugi, Izi)",
       "url": "https://open.spotify.com/track/7EpeEp1AB5Qs4Y8LXvn5xG"
@@ -11546,6 +11650,28 @@
       "duration_ms": 181714,
       "name": "Un milione di volte (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144133,
+      "name": "UNA COME TE",
+      "url": "https://open.spotify.com/track/6prylI8YOrVcvR2CKrM9w7"
     },
     {
       "album": {

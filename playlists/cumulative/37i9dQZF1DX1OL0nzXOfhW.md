@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: sanjay.
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:  Zelos Wong 黃凱逸
 
 199 songs - 11 hr 27 min
 

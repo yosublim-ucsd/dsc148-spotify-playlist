@@ -3783,6 +3783,50 @@
     },
     {
       "album": {
+        "name": "Mai fermi",
+        "url": "https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Mai fermi",
+      "url": "https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj"
+    },
+    {
+      "album": {
+        "name": "Maledetto",
+        "url": "https://open.spotify.com/album/4jIzNSS0vpiDPAqzY5oyA2"
+      },
+      "artists": [
+        {
+          "name": "Severino Panzetta",
+          "url": "https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m"
+        },
+        {
+          "name": "Giacomo Moras",
+          "url": "https://open.spotify.com/artist/6ot5EUnczyalQ76s6l2Ryv"
+        },
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247830,
+      "name": "Maledetto",
+      "url": "https://open.spotify.com/track/5mWE57Day9EWDPweZFX7Qq"
+    },
+    {
+      "album": {
         "name": "Next Big Thing",
         "url": "https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA"
       },
@@ -4466,6 +4510,24 @@
       "duration_ms": 170884,
       "name": "OSCENO",
       "url": "https://open.spotify.com/track/12W5ZS8wfY2Y6ujUgdqyGr"
+    },
+    {
+      "album": {
+        "name": "OSSA ROTTE",
+        "url": "https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173924,
+      "name": "OSSA ROTTE",
+      "url": "https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS"
     },
     {
       "album": {
@@ -6206,6 +6268,24 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "album": {
+        "name": "Ti perdono di tutto (a la playa)",
+        "url": "https://open.spotify.com/album/5wXlXpwoMuddCegQ5MPqpE"
+      },
+      "artists": [
+        {
+          "name": "KAPUT",
+          "url": "https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Ti perdono di tutto (a la playa)",
+      "url": "https://open.spotify.com/track/1rFJWfWeR3m6aOPM6ECFGC"
     },
     {
       "album": {

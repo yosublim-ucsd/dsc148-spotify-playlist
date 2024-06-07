@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z"
+    },
+    {
+      "album": {
         "name": "Adonai",
         "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 194690,
       "name": "Alagbara",
       "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
@@ -584,7 +602,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 157309,
       "name": "Cover me",
       "url": "https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP"
@@ -1061,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Give Me Chance",
+        "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255735,
+      "name": "Give Me Chance",
+      "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
+    },
+    {
+      "album": {
         "name": "God",
         "url": "https://open.spotify.com/album/0DNqPNVqAAcWjQmMrUMIu0"
       },
@@ -1218,7 +1258,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 253558,
       "name": "Holy (Most High)",
       "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
@@ -1814,6 +1854,24 @@
       "duration_ms": 169278,
       "name": "Like a Baby - Special Version",
       "url": "https://open.spotify.com/track/2q0RmOoOY6QYQoep7btEhC"
+    },
+    {
+      "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204328,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i"
     },
     {
       "album": {

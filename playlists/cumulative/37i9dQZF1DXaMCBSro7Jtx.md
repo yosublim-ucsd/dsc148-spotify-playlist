@@ -106,7 +106,7 @@
 | [USA](https://open.spotify.com/track/45lRxagIvLKWqFwcx0LXAC) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 2:24 | 2023-12-04 |  |
 | [Wannabe](https://open.spotify.com/track/17cXKZMwMhPnu3Oaf8j1Kh) | [Lipgloss Twins](https://open.spotify.com/artist/7y9CUgR1iq3nhSMRG2B6UF) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 2:21 | 2023-12-04 |  |
 | [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 2:58 | 2023-12-04 |  |
-| [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 | 2023-12-04 |  |
+| [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 | 2023-12-04 |  |
 | [☆ \(feat\. Oklou\)](https://open.spotify.com/track/2RKVFFH9h2vglxvqpN9Xre) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Unlimited Ammo](https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj) | 3:07 | 2023-12-04 |  |
 
 \*This playlist was first scraped on 2023-12-06. Prior content cannot be recovered.

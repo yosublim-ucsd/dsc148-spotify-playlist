@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Timeless Pakistani hits, all in one place. Cover - Junoon",
+  "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
   "name": "All Time Pakistani Hits",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 307565,
       "name": "Aisi Taisi",
       "url": "https://open.spotify.com/track/0jVdnDCPd7A7WV0Sov8Bxi"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/1wA9Te2dFw5dIcu0C4CEwU"
+      },
+      "artists": [
+        {
+          "name": "Vital Signs",
+          "url": "https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252960,
+      "name": "Aitebar",
+      "url": "https://open.spotify.com/track/1qPQnqu0E87x36SNamVDRQ"
     },
     {
       "album": {
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 299473,
       "name": "Dil Ki Qasam",
       "url": "https://open.spotify.com/track/7CxTQe8fYITgjkkvydsrvX"
@@ -2468,7 +2486,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 238427,
       "name": "Mukhra",
       "url": "https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c"
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262979,
       "name": "Neend Ayay Na",
       "url": "https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B"

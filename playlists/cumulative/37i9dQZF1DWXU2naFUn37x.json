@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Baby Gang",
+  "description": "Solo il meglio dello street rap italiano. Nabi in cover.",
   "name": "Street Culto",
   "tracks": [
     {
@@ -301,6 +301,32 @@
     },
     {
       "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "357 (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6PBr7VubD4T2TqqIj7FaWw"
+    },
+    {
+      "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
@@ -386,6 +412,24 @@
       "duration_ms": 144832,
       "name": "5 testimoni",
       "url": "https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh"
+    },
+    {
+      "album": {
+        "name": "5X5",
+        "url": "https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu"
+      },
+      "artists": [
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138962,
+      "name": "5X5",
+      "url": "https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf"
     },
     {
       "album": {
@@ -1714,7 +1758,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 157795,
       "name": "BISEX (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/5V5If9EDJrHSDpM5bkcALZ"
@@ -1887,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Bodyguard",
+        "url": "https://open.spotify.com/album/2J5YY1Zh6fPKT0kRo6gS83"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155925,
+      "name": "Bodyguard",
+      "url": "https://open.spotify.com/track/7CwL7roJA3Joy3vKfGgDmu"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
@@ -1920,7 +1982,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 162500,
       "name": "BOULEVARD",
       "url": "https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1"
@@ -3610,6 +3672,10 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
         }
       ],
       "date_added": "2024-05-09",
@@ -6316,7 +6382,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 163384,
       "name": "Lucky (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/42fhnsrTh9D2FU688NnQeP"
@@ -6576,7 +6642,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 146400,
       "name": "MARGIELA",
       "url": "https://open.spotify.com/track/5LiJi64Qx7bGZM8jG7Clgh"
@@ -8445,6 +8511,28 @@
     },
     {
       "album": {
+        "name": "PLD",
+        "url": "https://open.spotify.com/album/1BWG6HnhvJc70IC9z0ap5i"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "PLD",
+      "url": "https://open.spotify.com/track/6OT4dc0gYkf1I3uxUay82r"
+    },
+    {
+      "album": {
         "name": "Pochi Pochi",
         "url": "https://open.spotify.com/album/1TsFStYVqJM83KkGYGfZjc"
       },
@@ -8648,6 +8736,28 @@
       "duration_ms": 195662,
       "name": "Prefissi",
       "url": "https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "PRESIDENTE",
+      "url": "https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE"
     },
     {
       "album": {
@@ -10574,7 +10684,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 174461,
       "name": "TEKKEN (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U"
@@ -11714,7 +11824,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 156444,
       "name": "Walkie Talkie (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/1qlbKS6AW1AzuA0DV2UdwR"
@@ -12028,6 +12138,28 @@
       "duration_ms": 162935,
       "name": "Zig Zag",
       "url": "https://open.spotify.com/track/5UKIWHvuWHSVnNxZuNd2Qr"
+    },
+    {
+      "album": {
+        "name": "\u00c8 LA (LOVE)",
+        "url": "https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147199,
+      "name": "ZITELLA",
+      "url": "https://open.spotify.com/track/3cXaWGIX2oryZrOmBX7WB9"
     },
     {
       "album": {

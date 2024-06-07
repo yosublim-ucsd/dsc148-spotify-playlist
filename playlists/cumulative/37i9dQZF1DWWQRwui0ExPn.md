@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,810 songs - 10 day 18 hr 7 min
+6,811 songs - 10 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4122,6 +4122,7 @@
 | [Niwa](https://open.spotify.com/track/7IcXou6QIHdHAhWlPNUyXK) | [Tojié Cai](https://open.spotify.com/artist/2XWc2AArpkPgItbMIfHzu5), [JX\-3P](https://open.spotify.com/artist/3oZbLt8ugseOP7ZRotx4Jj) | [Niwa](https://open.spotify.com/album/17Vq4dVY2fcmq11neAjQcX) | 2:20 | 2024-05-24 | 2024-05-26 |
 | [No Doubt](https://open.spotify.com/track/4QiJ2JZgDeR6pEFMPy5jwL) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Notunderstand](https://open.spotify.com/album/6fIWwF6dIrqtZV70lg0i6g) | 1:34 | 2021-10-02 | 2022-04-15 |
 | [No Doubt](https://open.spotify.com/track/7adKJMpDsbobrcbePW32xU) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [No Doubt](https://open.spotify.com/album/5DqZkuNIo20etiyGSooDnb) | 1:34 | 2021-08-22 | 2021-11-11 |
+| [No Goodbyes](https://open.spotify.com/track/6OXEMJbqt8DYPg8lYmRxjZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [No Goodbyes](https://open.spotify.com/album/05lIfZJmiXCSMsFZK85m5Q) | 2:10 | 2024-05-31 |  |
 | [No Lies](https://open.spotify.com/track/6SZPAffx8bjZw8klFDnhnk) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb), [Andras Szilagyi](https://open.spotify.com/artist/6wRKp8e4bG2Zz7i8hD0l8R) | [Dreams from the Shore](https://open.spotify.com/album/7MgdBdKl1aUb0goNIokTn4) | 2:08 | 2019-11-20 | 2020-10-21 |
 | [No More](https://open.spotify.com/track/31iaXNSR7VxJhcUosMx5nl) | [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U), [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [No More](https://open.spotify.com/album/1cPEsgHar4JbWK6CHI3f34) | 2:12 | 2023-01-06 | 2023-04-28 |
 | [No Nemesis](https://open.spotify.com/track/6YWWfTi3j1K1979gB8EQrq) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [No Nemesis](https://open.spotify.com/album/3LYVu4BdRhEi6MrFICkVON) | 1:51 | 2022-06-24 | 2022-10-14 |
@@ -4495,7 +4496,7 @@
 | [Pearls](https://open.spotify.com/track/2Vjg5rtBcuzx99SyAOHJsD) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Pearls](https://open.spotify.com/album/0GPOmi6oHXZKIMxTLllznv) | 2:10 | 2020-01-12 | 2021-08-22 |
 | [peas out](https://open.spotify.com/track/0RDj9JVOc6MfNIeAgC8TJ7) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [peas out](https://open.spotify.com/album/1yjp45nlPkwdOlZaZb6AQI) | 2:04 | 2022-10-28 | 2024-02-09 |
 | [Pelekas](https://open.spotify.com/track/1GS4cVWVcE2mYUfT807H74) | [Portaledge](https://open.spotify.com/artist/703AVVIX6VeNMQbXJu4UVh) | [Pelekas](https://open.spotify.com/album/1h71qhhO9fZcfza8Fmu4MX) | 2:01 | 2021-01-11 | 2021-10-20 |
-| [pen & paper](https://open.spotify.com/track/6RkIex44IA8s7T8nyA0yqg) | [lil emilio](https://open.spotify.com/artist/1wjlcIh05ZHl7FMa078jHG) | [pen & paper](https://open.spotify.com/album/0BwuGAVpFn30BKOKnAJ2e5) | 1:51 | 2024-04-12 |  |
+| [pen & paper](https://open.spotify.com/track/6RkIex44IA8s7T8nyA0yqg) | [lil emilio](https://open.spotify.com/artist/1wjlcIh05ZHl7FMa078jHG) | [pen & paper](https://open.spotify.com/album/0BwuGAVpFn30BKOKnAJ2e5) | 1:51 | 2024-04-12 | 2024-06-07 |
 | [Pendulum](https://open.spotify.com/track/5XfGPtiNkoPkeK00QTEHCb) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Pendulum](https://open.spotify.com/album/0c6GZXLOQNRRfoJSCraLwc) | 2:13 | 2022-04-08 | 2022-08-27 |
 | [Penumbra](https://open.spotify.com/track/08Dq2x88JwX9fMyGXcRDR0) | [Pishku](https://open.spotify.com/artist/63DTPqrAsUQ4AWZ0MSEl9A) | [Penumbra](https://open.spotify.com/album/09X5QyDJKiuW2PGlSczBoL) | 2:05 | 2022-08-19 | 2022-11-21 |
 | [Penumbra](https://open.spotify.com/track/6OnFrM5gSTj56cgGlwNJzZ) | [Pishku](https://open.spotify.com/artist/63DTPqrAsUQ4AWZ0MSEl9A) | [Penumbra](https://open.spotify.com/album/1b0ssWnMJ1F35iWJZNPDqF) | 2:05 | 2022-11-18 | 2022-11-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop hits, version dancefloor !",
-  "num_followers": 98540,
+  "num_followers": 98529,
   "original_name": "Hip Hop Party",
   "owner": {
     "name": "Spotify",
@@ -350,6 +350,10 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
         }
       ],
       "duration_ms": 187881,

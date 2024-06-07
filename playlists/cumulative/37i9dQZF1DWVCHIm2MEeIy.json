@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "This is our playground! \ud83e\udea9\u200a",
+  "description": "This is our playground! \ud83e\udea9\u200a Cover: Keinemusik",
   "name": "Electronic Circus",
   "tracks": [
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -604,6 +604,28 @@
     {
       "album": {
         "name": "Away With Me (Fideles Remix)",
+        "url": "https://open.spotify.com/album/2mFxNvr1qpfWkKB2HZ3NXB"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243652,
+      "name": "Away With Me - Fideles Remix",
+      "url": "https://open.spotify.com/track/3eoIdSJXlrWZFd5kqLhsiF"
+    },
+    {
+      "album": {
+        "name": "Away With Me (Fideles Remix)",
         "url": "https://open.spotify.com/album/0fcvUjzFhdqL6A9BQrgfAF"
       },
       "artists": [
@@ -622,6 +644,28 @@
       "duration_ms": 243652,
       "name": "Away With Me - Fideles Remix",
       "url": "https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL"
+    },
+    {
+      "album": {
+        "name": "Ayana",
+        "url": "https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201707,
+      "name": "Ayana",
+      "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
     },
     {
       "album": {
@@ -1074,6 +1118,24 @@
     {
       "album": {
         "name": "Breathe",
+        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223248,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
+    },
+    {
+      "album": {
+        "name": "Breathe",
         "url": "https://open.spotify.com/album/02WgT1S15fhC88V1F6iBzJ"
       },
       "artists": [
@@ -1372,7 +1434,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
@@ -2658,7 +2720,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 348815,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
@@ -2872,7 +2934,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 426520,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB"
@@ -3036,6 +3098,24 @@
       "duration_ms": 329745,
       "name": "Hands On... Don't Waste My Time",
       "url": "https://open.spotify.com/track/7zPHYX5tpIZYszcKrwfOo0"
+    },
+    {
+      "album": {
+        "name": "Hare Ram",
+        "url": "https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199727,
+      "name": "Hare Ram",
+      "url": "https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O"
     },
     {
       "album": {
@@ -3666,7 +3746,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 347680,
       "name": "In A Blurry World",
       "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
@@ -3978,6 +4058,32 @@
       "duration_ms": 360242,
       "name": "Landa",
       "url": "https://open.spotify.com/track/72FN3KE2IoxGmyPGtQNcTV"
+    },
+    {
+      "album": {
+        "name": "Last Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256743,
+      "name": "Last Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
     },
     {
       "album": {
@@ -4816,6 +4922,40 @@
     {
       "album": {
         "name": "Move",
+        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
+        "name": "Move",
         "url": "https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc"
       },
       "artists": [
@@ -4906,6 +5046,28 @@
       "duration_ms": 187096,
       "name": "My City's On Fire",
       "url": "https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p"
+    },
+    {
+      "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "album": {
@@ -5032,7 +5194,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 476856,
       "name": "No Distance",
       "url": "https://open.spotify.com/track/7ugIm8ReiveXtrK9jpqOJ4"
@@ -5273,6 +5435,28 @@
     },
     {
       "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201569,
+      "name": "ORION",
+      "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
+    },
+    {
+      "album": {
         "name": "Ose (Gerd Janson Remix)",
         "url": "https://open.spotify.com/album/71KIWQCk4OyZK0HfX0qNO3"
       },
@@ -5446,7 +5630,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 244513,
       "name": "Paradise - \u00c2me Remix",
       "url": "https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs"
@@ -6426,7 +6610,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 424332,
       "name": "She Could!",
       "url": "https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d"
@@ -6444,7 +6628,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 404000,
       "name": "She Likes",
       "url": "https://open.spotify.com/track/6mfHJzb7C3EO1c8K3Jd6aC"
@@ -6492,6 +6676,32 @@
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
+    },
+    {
+      "album": {
+        "name": "Shiver (Cassian Remix)",
+        "url": "https://open.spotify.com/album/2TUxf9Z7J0Mxhm8jgpKAtv"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "Shiver - Cassian Remix",
+      "url": "https://open.spotify.com/track/3wPPekju1lN3XgdtYCWmOS"
     },
     {
       "album": {
@@ -6550,7 +6760,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 230564,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2QKv1gdooWYYvFo3YZaMcE"
@@ -6930,7 +7140,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 254274,
       "name": "Starchaser",
       "url": "https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM"
@@ -8004,7 +8214,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 173601,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
@@ -8124,6 +8334,32 @@
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
+    },
+    {
+      "album": {
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "album": {

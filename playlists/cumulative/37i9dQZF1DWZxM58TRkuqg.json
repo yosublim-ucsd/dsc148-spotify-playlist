@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:  Ziva Magnolya",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:   Judika, Lesti",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "Bukan Karena Tak Cinta",
+        "url": "https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258497,
+      "name": "Bukan Karena Tak Cinta",
+      "url": "https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT"
+    },
+    {
+      "album": {
         "name": "Bukan Sebuah Rindu",
         "url": "https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy"
       },
@@ -378,7 +400,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 231978,
       "name": "Bukan Sebuah Rindu",
       "url": "https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp"
@@ -951,6 +973,24 @@
     },
     {
       "album": {
+        "name": "isi kepalaku",
+        "url": "https://open.spotify.com/album/6IdxpEQODEmSVuzJo1CsA8"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215989,
+      "name": "isi kepalaku",
+      "url": "https://open.spotify.com/track/373ei1mlMWzYgS5QS6oXoZ"
+    },
+    {
+      "album": {
         "name": "Itu Aku - Spotify Singles",
         "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
       },
@@ -1016,7 +1056,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 270000,
       "name": "Jutaan Salah, Milyaran Maaf",
       "url": "https://open.spotify.com/track/2sKcTM22jfcWz5EoQxEcZU"
@@ -1168,10 +1208,28 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 233087,
       "name": "Kehilanganmu",
       "url": "https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x"
+    },
+    {
+      "album": {
+        "name": "Kekasih Seseorang (Kotakustik)",
+        "url": "https://open.spotify.com/album/4XpV2OESSXOnbaf3TWcCxi"
+      },
+      "artists": [
+        {
+          "name": "Kotak",
+          "url": "https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Kekasih Seseorang - Kotakustik",
+      "url": "https://open.spotify.com/track/5qGDptJdZN6YxQk4L9X0zH"
     },
     {
       "album": {
@@ -1486,7 +1544,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 256946,
       "name": "Little Time For Love",
       "url": "https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB"
@@ -1656,7 +1714,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 250716,
       "name": "Melepaskanmu",
       "url": "https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B"
@@ -1876,7 +1934,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 234177,
       "name": "Pandai Bicara",
       "url": "https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX"
@@ -2056,7 +2114,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 225633,
       "name": "Sejauh Dua Benua",
       "url": "https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY"
@@ -2100,6 +2158,32 @@
       "duration_ms": 235038,
       "name": "Selamanya",
       "url": "https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx"
+    },
+    {
+      "album": {
+        "name": "Selimut Hati",
+        "url": "https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        },
+        {
+          "name": "Virzha",
+          "url": "https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy"
+        },
+        {
+          "name": "Indonesian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5YynOyNW2qNfCMjnv8fDgT"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294398,
+      "name": "Selimut Hati",
+      "url": "https://open.spotify.com/track/40snO045rENfvlBFBqfONd"
     },
     {
       "album": {
@@ -2150,7 +2234,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 231187,
       "name": "Semua lagu cinta",
       "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
@@ -2616,7 +2700,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"

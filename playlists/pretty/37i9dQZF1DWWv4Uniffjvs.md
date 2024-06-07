@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,742 likes - 56 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,751 likes - 56 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 13 | [I Don't Think It's Better \- Original Mix](https://open.spotify.com/track/4aNpu1Z4mQkiqkdVnNJwGU) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Self Control](https://open.spotify.com/album/1oV0u7cMocMyk2Kdvfdlgr) | 6:04 |
 | 14 | [f@k€](https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [f@k€](https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4) | 1:47 |
 | 15 | [Lava Shake](https://open.spotify.com/track/5ZAivcYkclqR3MMQ2S8OTf) | [Marko East](https://open.spotify.com/artist/1NwfWMcgvBm7dhofhmwtzi) | [Lava Shake](https://open.spotify.com/album/0svKzPjGpnoZwtcrMuf8US) | 5:06 |
-| 16 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
+| 16 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
 | 17 | [Sabroso](https://open.spotify.com/track/0nSmG3OxOiQjhHorNeYtmU) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [Palastoni](https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC) | [MIDI E1NS](https://open.spotify.com/album/1IgBdG9TI9CgVuNeuFeZA5) | 3:45 |
 | 18 | [Hardship](https://open.spotify.com/track/7oZiZcfHxipkHpBA0X96dz) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU) | [Sektion 3](https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd) | 6:47 |
 | 19 | [The Groove Master](https://open.spotify.com/track/6WpsRXI8ZJ61PTHRGe6shp) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [The Groove Master](https://open.spotify.com/album/30TIAD9cAWK7G47HNcNyTr) | 3:37 |

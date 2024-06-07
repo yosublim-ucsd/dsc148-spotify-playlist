@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 496876,
+  "num_followers": 496925,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
-      },
-      "artists": [
-        {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Alligator Stew",
         "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 240066,
       "name": "Two Wheels",
       "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+      },
+      "artists": [
+        {
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Bishop Black",
-        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
-      },
-      "artists": [
-        {
-          "name": "Bishop Black",
-          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "Southern Hospitality",
-      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
         "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 293800,
       "name": "Georgia Rhythm",
       "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Bishop Black",
+        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
+      },
+      "artists": [
+        {
+          "name": "Bishop Black",
+          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "Southern Hospitality",
+      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
     },
     {
       "added_at": "2024-03-19 19:54:29",

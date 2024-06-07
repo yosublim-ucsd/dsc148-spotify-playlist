@@ -5369,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "When Ur Near",
+        "url": "https://open.spotify.com/album/3qd2PhcpBzHYbt2ijyrFMo"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239925,
+      "name": "When Ur Near",
+      "url": "https://open.spotify.com/track/7KfdAWFdfLnWH4szaObqQj"
+    },
+    {
+      "album": {
         "name": "Before I Die",
         "url": "https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ"
       },

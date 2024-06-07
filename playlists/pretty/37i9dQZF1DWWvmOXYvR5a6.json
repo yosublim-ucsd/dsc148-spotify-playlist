@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Huh(\ud5c8\uc131\ud604)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 215012,
+  "num_followers": 215007,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,42 @@
     {
       "added_at": "2024-05-30 06:21:12",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+        "name": "Show Me The Money 10 Episode 1",
+        "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Ahn byeong woong",
+          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
+        },
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
         }
       ],
-      "duration_ms": 145706,
-      "name": "Run away",
-      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
+      "duration_ms": 370533,
+      "name": "Wake Up (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
     },
     {
       "added_at": "2024-05-30 06:21:12",
@@ -783,46 +807,6 @@
     {
       "added_at": "2024-05-30 06:21:12",
       "album": {
-        "name": "Show Me The Money 10 Episode 1",
-        "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
-      },
-      "artists": [
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Ahn byeong woong",
-          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
-        },
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        },
-        {
-          "name": "Gwangil Jo",
-          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        }
-      ],
-      "duration_ms": 370533,
-      "name": "Wake Up (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
-    },
-    {
-      "added_at": "2024-05-30 06:21:12",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 168640,
       "name": "Shawty (feat. Coogie)",
       "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2024-05-30 06:21:12",
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
     },
     {
       "added_at": "2024-05-30 06:21:12",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-05-30 06:21:12",
       "album": {
-        "name": "Drive mE cRaZy",
-        "url": "https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Drive mE cRaZy",
-      "url": "https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6"
-    },
-    {
-      "added_at": "2024-05-30 06:21:12",
-      "album": {
         "name": "1st Single 'S.i.R'",
         "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 169800,
       "name": "Drowning (Feat. SOLE)",
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
+    },
+    {
+      "added_at": "2024-05-30 06:21:12",
+      "album": {
+        "name": "Drive mE cRaZy",
+        "url": "https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Drive mE cRaZy",
+      "url": "https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6"
     },
     {
       "added_at": "2024-05-30 06:21:12",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2024-05-30 06:21:12",
       "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2024-05-30 06:21:12",
+      "album": {
         "name": "TOTO",
         "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 173986,
       "name": "My Bad (Feat. ASH ISLAND, BIG Naughty)",
       "url": "https://open.spotify.com/track/0jnIjWe4JU19NT0tF4lTtx"
-    },
-    {
-      "added_at": "2024-05-30 06:21:12",
-      "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
     },
     {
       "added_at": "2024-05-30 06:21:12",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2024-05-30 06:21:12",
       "album": {
-        "name": "Beautiful (feat. B.I)",
-        "url": "https://open.spotify.com/album/2UaXHvolN0TrODffdIxHs5"
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
       "artists": [
         {
-          "name": "basecamp",
-          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
         }
       ],
-      "duration_ms": 163639,
-      "name": "Beautiful (feat. B.I)",
-      "url": "https://open.spotify.com/track/1ge1KSTMkRr6xLL3xjiLmx"
+      "duration_ms": 293754,
+      "name": "Thread(1.11)",
+      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
     },
     {
       "added_at": "2024-05-30 06:21:12",
@@ -1855,6 +1851,26 @@
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
+    },
+    {
+      "added_at": "2024-05-30 06:21:12",
+      "album": {
+        "name": "Beautiful (feat. B.I)",
+        "url": "https://open.spotify.com/album/2UaXHvolN0TrODffdIxHs5"
+      },
+      "artists": [
+        {
+          "name": "basecamp",
+          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 163639,
+      "name": "Beautiful (feat. B.I)",
+      "url": "https://open.spotify.com/track/1ge1KSTMkRr6xLL3xjiLmx"
     },
     {
       "added_at": "2024-05-30 06:21:12",
@@ -1879,22 +1895,6 @@
       "duration_ms": 135080,
       "name": "True Love (Feat. \uc815\uc120\ud61c of YOUNG POSSE)",
       "url": "https://open.spotify.com/track/7gewLHcVTy1TrlwqSpuTJF"
-    },
-    {
-      "added_at": "2024-05-30 06:21:12",
-      "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 293754,
-      "name": "Thread(1.11)",
-      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
     },
     {
       "added_at": "2024-05-30 06:21:12",

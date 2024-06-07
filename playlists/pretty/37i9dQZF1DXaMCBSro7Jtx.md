@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 
 > Celebrating 10 years of PC Music: The record label that changed pop music forever\. Cover art by <a href="https://www.instagram.com/tmthy.luke">Timothy Luke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,084 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,113 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 | 16 | [Secret Garden](https://open.spotify.com/track/172wkVKqT2Q5xYvI2ez5MI) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY) | [Hypernormality](https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5) | 5:06 |
 | 17 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 |
 | 18 | [Pussy Money Weed](https://open.spotify.com/track/0Y76R5qB6ekjLn4ZM547gf) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Pussy Money Weed](https://open.spotify.com/album/1FUHqOOmCfI1BVioZfWH4F) | 3:34 |
-| 19 | [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 |
+| 19 | [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 |
 | 20 | [Concrete Angel](https://open.spotify.com/track/33om1peLEWLBZimmmjpfxH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:58 |
 | 21 | [Honeybee](https://open.spotify.com/track/1MrqcpF9AaMHR6cdcnir21) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Honeybee](https://open.spotify.com/album/5qIuichXf5F2xWKtohQOPP) | 3:13 |
 | 22 | [MONEY ME](https://open.spotify.com/track/2TKoBzwWrdQOmbMGl9cjot) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:16 |

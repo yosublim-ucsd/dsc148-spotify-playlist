@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Btrem, Slipmami
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,206 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,248 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 9 | [Joias Caras](https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [Joias Caras](https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG) | 1:58 |
 | 10 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu) | 3:31 |
 | 11 | [Set da Menorzinha 1.0](https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO) | [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [MC Marcelly](https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set da Menorzinha 1.0](https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz) | 5:24 |
-| 12 | [Cigana Drill](https://open.spotify.com/track/7xekeh1GgxyMxmM0K7Q11n) | [Bell Puã](https://open.spotify.com/artist/6epqSiuqjXpK1cFKGDrm2n) | [Jogo de Cintura](https://open.spotify.com/album/2JtXykA4JWLnJmMWenZpag) | 3:20 |
+| 12 | [Cigana Drill](https://open.spotify.com/track/7xekeh1GgxyMxmM0K7Q11n) | [Bell Puã](https://open.spotify.com/artist/6epqSiuqjXpK1cFKGDrm2n), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH) | [Jogo de Cintura](https://open.spotify.com/album/2JtXykA4JWLnJmMWenZpag) | 3:20 |
 | 13 | [Obcecada](https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:08 |
 | 14 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 |
 | 15 | [Sinto Te Dizer](https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Sinto Te Dizer](https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V) | 3:22 |

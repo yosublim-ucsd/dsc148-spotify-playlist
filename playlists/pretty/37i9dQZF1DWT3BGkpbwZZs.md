@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 
 > Everyone hungers for something\. Listen to the music from and inspired by The Hunger Games and Ballad of Songbirds and Snakes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,709 likes - 64 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,807 likes - 64 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 | 33 | [Meltdown](https://open.spotify.com/track/2y7OQv0Pm4220sk2KXv5mz) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:02 |
 | 34 | [Devil May Cry \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/50YZQsqoTXoPHd1YmZyBID) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 5:23 |
 | 35 | [Scream My Name](https://open.spotify.com/track/0h5dlQuJLbRQkKn5RBl78e) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:34 |
-| 36 | [Kingdom](https://open.spotify.com/track/20sTgyO0ncdOBYIZ5v1eh2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:05 |
+| 36 | [Kingdom](https://open.spotify.com/track/20sTgyO0ncdOBYIZ5v1eh2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:05 |
 | 37 | [Lights \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0hqh8M4ttzlNsQYHlIeEhr) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:45 |
 | 38 | [The Ruler And The Killer](https://open.spotify.com/track/3ZWkh8WkXzp4HoMqhQaU7H) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:33 |
 | 39 | [The Leap](https://open.spotify.com/track/4flZkvdD7ivUmMq24nrDHQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:06 |

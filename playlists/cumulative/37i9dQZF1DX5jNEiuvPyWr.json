@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Elh Kmer",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 176193,
       "name": "boh\u00e8me.",
       "url": "https://open.spotify.com/track/4qgxoRgaWlHeFTKISGes2f"
@@ -2102,6 +2102,24 @@
       "duration_ms": 96026,
       "name": "DREAM",
       "url": "https://open.spotify.com/track/4WbTmfPKimbUHgLsCeEFdH"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/7GrqzxC26t0QWEfr2x3Mfq"
+      },
+      "artists": [
+        {
+          "name": "Take a Mic",
+          "url": "https://open.spotify.com/artist/1oabIvG8mrqtx1uaRrOyPd"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193691,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/6rJr0fbnsLAWK8Xe0gBYSR"
     },
     {
       "album": {
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 110786,
       "name": "L.A",
       "url": "https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y"
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 190506,
       "name": "Maintenant",
       "url": "https://open.spotify.com/track/6GWn6SRhsIURDEGlHkocs1"
@@ -5023,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "OKOCHA",
+        "url": "https://open.spotify.com/album/488uHoP3aFtNqQPi9jKeYM"
+      },
+      "artists": [
+        {
+          "name": "Elh Kmer",
+          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221950,
+      "name": "OKOCHA",
+      "url": "https://open.spotify.com/track/7caYhBo57VGdfk5K6NqZ4x"
+    },
+    {
+      "album": {
         "name": "Omahana",
         "url": "https://open.spotify.com/album/6MSK28lVAeW2qYvXpH4u35"
       },
@@ -5096,6 +5132,24 @@
       "duration_ms": 187666,
       "name": "Oubli\u00e9",
       "url": "https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e"
+    },
+    {
+      "album": {
+        "name": "Ourania",
+        "url": "https://open.spotify.com/album/14o8g32hVrEWoylbITiDTW"
+      },
+      "artists": [
+        {
+          "name": "Lil Purpx",
+          "url": "https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "Ourania",
+      "url": "https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3"
     },
     {
       "album": {

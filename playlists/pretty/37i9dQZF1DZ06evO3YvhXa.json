@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
-  "num_followers": 386498,
+  "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
+  "num_followers": 386565,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAAByNzS9pM5T0SSRpWWp60FL",
+  "snapshot_id": "Zl+qgAAAAADI33fJoZI/ADGIHPcRGPFB",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+      "duration_ms": 295400,
+      "name": "Little L",
+      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
     },
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -171,6 +187,22 @@
       "duration_ms": 213693,
       "name": "White Knuckle Ride",
       "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
     },
     {
       "added_at": null,
@@ -436,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+      "duration_ms": 331800,
+      "name": "Summer Girl",
+      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
     },
     {
       "added_at": null,
@@ -500,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Summer Girl",
-      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+      "duration_ms": 287960,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
     },
     {
       "added_at": null,
@@ -555,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
@@ -564,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 287960,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
+      "duration_ms": 278240,
+      "name": "Hot Tequila Brown",
+      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
     },
     {
       "added_at": null,
@@ -587,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
       "artists": [
         {
@@ -596,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 278240,
-      "name": "Hot Tequila Brown",
-      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
+      "duration_ms": 271986,
+      "name": "Hot Property",
+      "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
     },
     {
       "added_at": null,
@@ -619,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
@@ -628,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 271986,
-      "name": "Hot Property",
-      "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
+      "duration_ms": 295400,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
     },
     {
       "added_at": null,
@@ -651,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
       "artists": [
         {
@@ -660,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 295400,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
+      "duration_ms": 228026,
+      "name": "Superfresh",
+      "url": "https://open.spotify.com/track/6fZouanPj27mII5L4kwvDe"
     },
     {
       "added_at": null,
@@ -679,22 +711,6 @@
       "duration_ms": 268800,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Superfresh",
-      "url": "https://open.spotify.com/track/6fZouanPj27mII5L4kwvDe"
     },
     {
       "added_at": null,
@@ -724,25 +740,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 382000,
-      "name": "Manifest Destiny",
-      "url": "https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "King for a Day",
-      "url": "https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK"
+      "duration_ms": 383973,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
       "duration_ms": 349813,
       "name": "Didjital Vibrations - Remastered 2013",
       "url": "https://open.spotify.com/track/1a41Lzm8rtNJhQvOuS6RnN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "King for a Day",
+      "url": "https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK"
     },
     {
       "added_at": null,
@@ -788,25 +804,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 383973,
-      "name": "Morning Glory",
-      "url": "https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 321426,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
+      "duration_ms": 382000,
+      "name": "Manifest Destiny",
+      "url": "https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6"
     },
     {
       "added_at": null,

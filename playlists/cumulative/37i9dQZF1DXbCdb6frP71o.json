@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "My Ummah",
+        "url": "https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258413,
+      "name": "Hasbi Rabbi",
+      "url": "https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh"
+    },
+    {
+      "album": {
         "name": "Naghmat-E-Rasool - Naat Khawan: Fasih Uddin Soharwardi",
         "url": "https://open.spotify.com/album/3fPZX2PZXE52duQGJGtlZn"
       },
@@ -745,6 +763,28 @@
     },
     {
       "album": {
+        "name": "Kardo Karam",
+        "url": "https://open.spotify.com/album/0EquNfzNoWFua3v1fIy7od"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        },
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349615,
+      "name": "Kardo Karam",
+      "url": "https://open.spotify.com/track/5MznqLWNL6gkiC7Uql7FMc"
+    },
+    {
+      "album": {
         "name": "Khaliq e Kun",
         "url": "https://open.spotify.com/album/2gh2Ipu6jdX0W3Fo932NDU"
       },
@@ -798,6 +838,24 @@
       "duration_ms": 295826,
       "name": "Khusravi Achi Lagi Na Sarwari Achi Lagi",
       "url": "https://open.spotify.com/track/7u4ZqQbByReXpaB5qSzXVu"
+    },
+    {
+      "album": {
+        "name": "Kun Anta",
+        "url": "https://open.spotify.com/album/3XN3025f9BNl6nK9N5KgG5"
+      },
+      "artists": [
+        {
+          "name": "Humoodd",
+          "url": "https://open.spotify.com/artist/3EUKRx2IvFjwuY9M3hulRP"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294893,
+      "name": "Kun Anta",
+      "url": "https://open.spotify.com/track/2A5sw9eZP7dF608Y7uMB48"
     },
     {
       "album": {
@@ -1664,6 +1722,24 @@
       "duration_ms": 339940,
       "name": "Tere Sadqe Me Aaqa",
       "url": "https://open.spotify.com/track/5I6u0LL9y3cqvf7XN4Xx3F"
+    },
+    {
+      "album": {
+        "name": "Anasheeds, Vol. 3",
+        "url": "https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Al Muqit",
+          "url": "https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265346,
+      "name": "The Way of the Tears",
+      "url": "https://open.spotify.com/track/3AptfCpuLZ9shA1sAluj7w"
     },
     {
       "album": {

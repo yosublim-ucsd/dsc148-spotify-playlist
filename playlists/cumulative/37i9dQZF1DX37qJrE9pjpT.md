@@ -2,9 +2,9 @@
 
 ### [Bongo Bars](https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT)
 
-> The hottest rap anthems from Tanzania all in one playlist\. Cover: Fredrick Mulla
+> The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-159 songs - 9 hr 4 min
+160 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [HUJA BALEHE](https://open.spotify.com/track/0bhy8dg5uvuN3UpBqLfgpA) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [HUJA BALEHE](https://open.spotify.com/album/0viy408sbHRu92XTCfDquZ) | 3:26 | 2022-09-08 | 2023-11-11 |
 | [Hunijui Sikujui](https://open.spotify.com/track/0Gip2yqJKKsyRoBvS32QK6) | [Kuzza](https://open.spotify.com/artist/7tOxbymZOkLDENg5qGT3Qm) | [Hunijui Sikujui](https://open.spotify.com/album/7CRbdwo59LDjoNLoSY0b7q) | 3:19 | 2024-01-11 |  |
 | [I Don't Give A Damn](https://open.spotify.com/track/4CswUHkWXUFGUKPVchrAXV) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Parab Poet](https://open.spotify.com/artist/36jIqKFiAeX8FunGl8fn7D) | [I Don't Give A Damn](https://open.spotify.com/album/6oNhNQoA1vDnVmRhm211hp) | 3:56 | 2022-09-02 | 2023-07-14 |
-| [In Too Deep](https://open.spotify.com/track/1yUouKyKMhi35uipb9dS1C) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [In Too Deep](https://open.spotify.com/album/6MzrChd39GWAtvFe9kcFpH) | 3:27 | 2024-01-19 |  |
+| [In Too Deep](https://open.spotify.com/track/1yUouKyKMhi35uipb9dS1C) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [In Too Deep](https://open.spotify.com/album/6MzrChd39GWAtvFe9kcFpH) | 3:27 | 2024-01-19 | 2024-06-07 |
 | [Israel & Palestine Tears \- Freestyle](https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3), [Yogo Beats](https://open.spotify.com/artist/4kdhLH9zjxk50h38W4NhwP) | [Israel & Palestine Tears \(Freestyle\)](https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF) | 5:48 | 2023-11-16 |  |
 | [Juu](https://open.spotify.com/track/30xdZTHmeJdy96L6WdI5Sq) | [MansuLi](https://open.spotify.com/artist/6VOOF46Lijbw5bWBQqy8x5), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu), [Barbie Mia](https://open.spotify.com/artist/2F2GHfpKevoKxEC4jkXISU), [Moni Centrozone](https://open.spotify.com/artist/4GLSJqWjO11YaQXWJmWisl), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh) | [Juu](https://open.spotify.com/album/0DsM8PuiTltnwfV2LDh7dV) | 4:33 | 2022-04-28 | 2024-01-12 |
 | [Juu Chini](https://open.spotify.com/track/4lAhzqcMuu5ukpYzTa1VVQ) | [Kuzza](https://open.spotify.com/artist/7tOxbymZOkLDENg5qGT3Qm) | [Juu Chini](https://open.spotify.com/album/6kX26uPTfzWVE8aYQtq4gh) | 3:04 | 2023-09-15 | 2024-01-27 |
@@ -84,6 +84,7 @@
 | [Mama Omollo](https://open.spotify.com/track/6CLdAahXVBGgFVN0lnwN9b) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Mama Omollo](https://open.spotify.com/album/1k0k3zRH1JdnoUUrPTjtKo) | 3:06 | 2023-08-28 | 2024-05-17 |
 | [Maria](https://open.spotify.com/track/0vS8dzwAEV5ushczxoc1J1) | [Dully Sykes](https://open.spotify.com/artist/0gy6YVLQnEbSdWzxap1ue6), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Maria](https://open.spotify.com/album/5izjFJOMioHMQJQPDU6QWM) | 3:02 | 2023-12-08 |  |
 | [Masihara \- Remix](https://open.spotify.com/track/7fUBvdVv2VwG1OoSRaNgnJ) | [Motra the Future](https://open.spotify.com/artist/7kwDEyETjNtgnnqTS2aV6w), [Damian Soul](https://open.spotify.com/artist/0itKzONcc1U3zReelqqGVE), [Idris Sultan](https://open.spotify.com/artist/6A4QxuZPm2yadJm8DAEMBj) | [Masihara \(Remix\)](https://open.spotify.com/album/78B68CTt9neYQq7Hc7T2vI) | 3:13 | 2022-10-21 | 2023-09-22 |
+| [Mbwa mwitu](https://open.spotify.com/track/0whzBVScuvWruda4s07TSK) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Mbwa mwitu](https://open.spotify.com/album/6Nhl9QWImy46L0P4x3eIWY) | 3:50 | 2024-06-06 |  |
 | [Mdhambi](https://open.spotify.com/track/2KAaty1XUWrsELJHLDZKOg) | [Dicazzi](https://open.spotify.com/artist/4hWi07h5D1vykcvmWFUZCo) | [Mdhambi](https://open.spotify.com/album/5IsxHtDjpP0t6XEViVu2KE) | 2:45 | 2023-10-20 | 2024-03-08 |
 | [Metaphysics](https://open.spotify.com/track/1f5XEWL9QF3RGlnBQ2ZqwL) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Old Skool Local](https://open.spotify.com/artist/43y0iNSEYUKnAXh1XdV23X) | [Metaphysics](https://open.spotify.com/album/5X38tXa491DTPdAug4cC9S) | 2:19 | 2022-10-21 | 2023-08-29 |
 | [Mirror](https://open.spotify.com/track/144nZKc5hqgdY5f0BoLP4r) | [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb), [ACHARYA](https://open.spotify.com/artist/4Dx7ozJLYPppMxZBdIAsHa), [whoisksh](https://open.spotify.com/artist/5GMxtj6JgADJ0w6mlvK7lY) | [Mirror](https://open.spotify.com/album/2cJXPh9c0qV8Wej730ypmg) | 2:43 | 2024-03-29 |  |

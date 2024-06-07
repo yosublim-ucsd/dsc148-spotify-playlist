@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-275 songs - 1 day 0 hr 51 min
+276 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,13 +42,14 @@
 | [Clean \- Live](https://open.spotify.com/track/2jc4zuz6OZJTjaYjOjTXyM) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 2:28 | 2019-04-30 | 2023-04-14 |
 | [Coming Home](https://open.spotify.com/track/5NA1YR3OCgftzZPKqyHUfv) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [Coming Home](https://open.spotify.com/album/5RQXMBUL8DirQD8sWKO3xd) | 3:19 | 2023-06-16 | 2023-07-07 |
 | [Could've Been Worse](https://open.spotify.com/track/03BDnOYsdzivNPqIuBQMGh) | [Shae'\\dy](https://open.spotify.com/artist/1WnGHRAEWg1fJyMeH2wVds) | [Could've Been Worse](https://open.spotify.com/album/0C5tLT12nuIGtusVqIuIO0) | 2:40 | 2023-06-23 | 2023-11-03 |
-| [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 | 2023-08-04 |  |
+| [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 | 2023-08-04 | 2024-06-07 |
 | [Counting My Blessings](https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:29 | 2024-05-31 |  |
 | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mahazel](https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA) | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw) | 9:51 | 2023-12-22 | 2024-01-12 |
 | [Crazy Love \(feat\. JWLKRS Worship\)](https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh) | [Crazy Love \(feat\. JWLKRS Worship\)](https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22) | 5:58 | 2023-11-03 | 2024-01-19 |
 | [Dancing in the Rain](https://open.spotify.com/track/4NjKhRbDuH0bpQtumrFy8W) | [His Church Music](https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp) | [Higher](https://open.spotify.com/album/2hSQPS2MhV1IFwCjeVHvhN) | 3:52 | 2023-10-06 | 2023-11-10 |
 | [Days of Elijah \- Live](https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:51 | 2021-03-25 | 2023-11-03 |
 | [Deeper](https://open.spotify.com/track/3uX0W1YKOJHanqyZaNJ81D) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Living Again](https://open.spotify.com/album/09LjYLqfVpJaJhVM375rB2) | 4:17 | 2023-10-20 | 2023-11-10 |
+| [Difela Medley \- Live](https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Difela Medley \(Live\)](https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z) | 11:05 | 2024-06-07 |  |
 | [Dis net genade](https://open.spotify.com/track/42urV2zj1oB3PvUReuRs8g) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Dis net genade](https://open.spotify.com/album/2nol1nx1I6vJLA2FT9ADGs) | 3:49 | 2023-10-13 | 2023-11-03 |
 | [Dit Is Genade](https://open.spotify.com/track/0qrsmFLAFTzRf6Dt7IhESx) | [Charlie Dicks](https://open.spotify.com/artist/3ohWEhMUmqeRGBIpsXjU8C) | [Dit Is Genade](https://open.spotify.com/album/7e9gQ5eaOb9Y4fNXOH9THN) | 2:53 | 2023-05-26 | 2023-06-16 |
 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 | 2024-05-31 |  |

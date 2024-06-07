@@ -114,6 +114,24 @@
     {
       "album": {
         "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259536,
+      "name": "Despertador Solar",
+      "url": "https://open.spotify.com/track/0BiprIH3JRP2s6RtNxVB89"
+    },
+    {
+      "album": {
+        "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
       "artists": [
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 259536,
       "name": "Despertador Solar",
       "url": "https://open.spotify.com/track/0hMNf3RxYbtQ3qd4qEN2KI"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 263933,
       "name": "Fruto de la Tierra",
       "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
@@ -514,6 +532,24 @@
     {
       "album": {
         "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283315,
+      "name": "Llevarte All\u00ed",
+      "url": "https://open.spotify.com/track/1SNEzBEXudD7IOSFE5MpV6"
+    },
+    {
+      "album": {
+        "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
       "artists": [
@@ -524,7 +560,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 283315,
       "name": "Llevarte All\u00ed",
       "url": "https://open.spotify.com/track/1ZPtlRm6Judlzx1bw0mIhI"
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 834546,
       "name": "\u00bfQu\u00e9 Ser\u00e1? / Ritmo Que Pesa / Suelta los Amarres / Revoluci\u00f3n en Est\u00e9reo / Lo de M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,660 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,681 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 15 | [Burning Lobster](https://open.spotify.com/track/142FwsImZ1MZmUnKdY2Jll) | [Shimon \(Fr\)](https://open.spotify.com/artist/3rN9xqLR59j3NAn0VM9rGR), [PKM](https://open.spotify.com/artist/5xmOuNCskJkhnlSV3Qkx3v) | [Krypte EP](https://open.spotify.com/album/6yVPH1OeqeZdIUKN0P6Mc4) | 7:19 |
 | 16 | [The Greatest Against the World](https://open.spotify.com/track/1W7L98k9dWdlfknRtLwwHp) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [In Between Worlds](https://open.spotify.com/album/58u0GyrkGtVjF2Kgknn9ho) | 5:07 |
 | 17 | [Marmara \- Ulises Remix](https://open.spotify.com/track/1siz7XLfnO3tHaytpxoDYb) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe), [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 6:06 |
-| 18 | [Hi Charlie](https://open.spotify.com/track/0VUlHCJE9PuBcuXax53W2Z) | [Brigade](https://open.spotify.com/artist/01fvPLDc345ENWorJWLqV4) | [Stateless](https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm) | 5:29 |
+| 18 | [Hi Charlie](https://open.spotify.com/track/0VUlHCJE9PuBcuXax53W2Z) | [Brigade](https://open.spotify.com/artist/3aY6h4hAo4gfLDVla16JDN) | [Stateless](https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm) | 5:29 |
 | 19 | [Yet Another Day Thinking About You](https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\)](https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Nothing Can Compare](https://open.spotify.com/album/2onkqde1tTtuKW7bFWjt2z) | 5:49 |
 | 20 | [Psychedelic Woman \- Bonobo Remix](https://open.spotify.com/track/3xo3Pk9Prt92XW0rrGXnus) | [Honny & The Bees Band](https://open.spotify.com/artist/0YBnqkQh876CwPLtT9XX69) | [Bottletop Presents Sound Affects Malmaison](https://open.spotify.com/album/1fP8jjo19CieNqbO5W4aGz) | 4:26 |
 | 21 | [Akihi \- Surv Remix](https://open.spotify.com/track/7L43S5tAvwiFfAM10FqKGJ) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA), [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Akihi \( Surv Remix \)](https://open.spotify.com/album/5lRNzBB5ZwBYtsJcEK4r1a) | 5:09 |

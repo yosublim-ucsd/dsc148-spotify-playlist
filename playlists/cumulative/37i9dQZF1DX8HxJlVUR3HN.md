@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Rendez Vous
+> Les meilleures nouveautés de la scène rock française\. Photo : Yodelice
 
-222 songs - 13 hr 35 min
+224 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A THOUSAND DREAMS AWAY](https://open.spotify.com/track/03VkCrbicuL4AMuOaO3e9p) | [Greyborn](https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis) | [A THOUSAND DREAMS AWAY](https://open.spotify.com/album/79NfBx8hqAlC2ml2m5Rzg3) | 5:35 | 2024-02-08 | 2024-03-01 |
 | [Accidents](https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Accidents](https://open.spotify.com/album/5gij4p2FSt40MgqYfnPJyV) | 3:41 | 2023-10-12 | 2023-10-14 |
 | [Acting Real Nice](https://open.spotify.com/track/0OVxgI1b8dhbA0NK5m6DWv) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:53 | 2024-02-01 | 2024-03-08 |
-| [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 | 2024-04-18 |  |
+| [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 | 2024-04-18 | 2024-06-07 |
 | [Adversity](https://open.spotify.com/track/4XXfZ11foyE5yjShXnoyTI) | [Deep Merries](https://open.spotify.com/artist/42l0fKzMugV26K0EufdWIP), [Dimi](https://open.spotify.com/artist/4Y7fABCOFVQt0fxmXoASbN) | [Adversity](https://open.spotify.com/album/6MAXpzvmJtpnG3VvUHUBFU) | 3:16 | 2024-05-09 |  |
 | [Aha \(it's ok\)](https://open.spotify.com/track/25hjwH9ePERli6DDv8x7Kf) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Aha \(it's ok\)](https://open.spotify.com/album/17TOyoj109pxs3pjjgLUrH) | 3:16 | 2024-02-08 | 2024-03-29 |
 | [All Saints](https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [All Saints](https://open.spotify.com/album/6XHyKhBONAA6IH1KTZJHTw) | 4:04 | 2023-10-19 | 2024-03-22 |
@@ -47,7 +47,7 @@
 | [Cigarette](https://open.spotify.com/track/01jRRZ8ojker6VwHd75UZF) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Cigarette](https://open.spotify.com/album/3AAGdDB6Q458r3ZvawOjoL) | 5:05 | 2023-11-09 | 2023-11-17 |
 | [City Burns](https://open.spotify.com/track/5rRhmnN2n7HO6j2PFFzdT0) | [Parlor Snakes](https://open.spotify.com/artist/3DZM5nb1bQ95thMQmFaWhG) | [City Burns](https://open.spotify.com/album/1tmS3vbx54sknEy8b8Z1Lt) | 4:12 | 2024-02-29 | 2024-04-19 |
 | [Clean Shot](https://open.spotify.com/track/5KTvB4hl3g3BJQYJbG8tmD) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp) | 5:00 | 2024-05-02 |  |
-| [Cold Hands](https://open.spotify.com/track/37rLg6sA6pqehjeLdGIWb4) | [Parlor Snakes](https://open.spotify.com/artist/3DZM5nb1bQ95thMQmFaWhG) | [Cut Shadows](https://open.spotify.com/album/3w8EdAk3VSrUhcuRuT64Q3) | 4:33 | 2024-04-18 |  |
+| [Cold Hands](https://open.spotify.com/track/37rLg6sA6pqehjeLdGIWb4) | [Parlor Snakes](https://open.spotify.com/artist/3DZM5nb1bQ95thMQmFaWhG) | [Cut Shadows](https://open.spotify.com/album/3w8EdAk3VSrUhcuRuT64Q3) | 4:33 | 2024-04-18 | 2024-06-07 |
 | [Cold Touch](https://open.spotify.com/track/3g17Pbdm6DOy3LzX4graWq) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Cold Touch](https://open.spotify.com/album/6oHVSL3iyb9gpYKRh2lPHS) | 4:19 | 2023-11-16 | 2024-04-19 |
 | [Cold Water Swim](https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Cold Water Swim](https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb) | 2:51 | 2023-10-19 | 2024-01-19 |
 | [Coma Kids](https://open.spotify.com/track/6anegGcJvjryHbQ9vS0Ry5) | [Villa Scandal](https://open.spotify.com/artist/0L6WTtHcGGRPP8JKQHkAhW) | [Coma Kids](https://open.spotify.com/album/0rBgxxivQFKCkSN8oqi1N0) | 3:08 | 2023-09-28 | 2023-10-13 |
@@ -68,6 +68,7 @@
 | [Event Horizon \- Fuzz Edit](https://open.spotify.com/track/4z4xDLd0zqQ7cOmcQypJAI) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Event Horizon \(Fuzz Edit\)](https://open.spotify.com/album/0qWz6iMRYWxT7qLboAcklq) | 3:29 | 2023-11-23 | 2024-01-12 |
 | [Everybody Dies](https://open.spotify.com/track/7ca1yQEIH2MRkxy1QM0GiY) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Everybody Dies](https://open.spotify.com/album/7JVlIzxeoHtMy2LeSQMI9p) | 2:55 | 2024-05-23 |  |
 | [Eyes Don't Lie](https://open.spotify.com/track/2cbb8P8Hk9wcWCvI26GRAw) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [Blind](https://open.spotify.com/album/07zIyAVuxE0K6Kxc4b2DYe) | 4:58 | 2023-09-28 | 2023-12-08 |
+| [Fake Generation](https://open.spotify.com/track/7spNRbmZcrrfmQ8ou1KmP9) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Ravage Club](https://open.spotify.com/album/1uPzPtxZjx8ODJnuSSNjOP) | 2:59 | 2024-06-06 |  |
 | [Fantasize](https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Fantasize](https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor) | 2:42 | 2023-09-28 | 2023-11-25 |
 | [Far and Fast](https://open.spotify.com/track/3GmMda5bpuV1TVFTzpstdQ) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Far and Fast](https://open.spotify.com/album/5rwU8EHI6JedYqTxL6brZo) | 3:52 | 2023-11-02 | 2023-12-01 |
 | [Feel the Shine](https://open.spotify.com/track/0QBBOjiKJKavnRED86iGUY) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Feel the Shine](https://open.spotify.com/album/2Y8Jvg7hBj2hGcCMRVBrTd) | 3:01 | 2024-02-15 | 2024-04-26 |
@@ -84,6 +85,7 @@
 | [Green Eye](https://open.spotify.com/track/1P521PM4q6wIl25tAw4Ehq) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [2024 : Année du Dragon](https://open.spotify.com/album/356fhi2vFtb63eyu6AkxMK) | 2:49 | 2024-03-07 | 2024-04-26 |
 | [Guess Who's Back](https://open.spotify.com/track/4yXy1gffkPlOFDwmjqMVOi) | [The Big Idea](https://open.spotify.com/artist/3pXrb8c666Unh7CI7coovt) | [Guess Who's Back](https://open.spotify.com/album/67kQJAVLDFZqF2auxwolVv) | 3:19 | 2023-11-16 | 2024-03-01 |
 | [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 | 2024-02-01 | 2024-03-01 |
+| [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 | 2024-06-06 |  |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 | 2024-02-09 |
 | [Horns](https://open.spotify.com/track/0b3EiGpz4epW3iBRD7Q4hX) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Veil](https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz) | 3:26 | 2024-04-25 |  |
 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2023-11-02 | 2024-02-16 |
@@ -106,7 +108,7 @@
 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 | 2023-09-28 | 2023-10-06 |
 | [Kathleen](https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7), [Harlee Young](https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG) | [Kathleen](https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO) | 2:18 | 2024-03-21 | 2024-05-10 |
 | [Knife Edge](https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV) | [Doorshan](https://open.spotify.com/artist/4b0rw6riYNCnFzZ2vYFjTk) | [Knife Edge](https://open.spotify.com/album/4OhcI1lakywE8lytUxDVZ5) | 3:42 | 2023-09-28 | 2023-10-20 |
-| [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-14 | 2024-05-17 |
+| [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-14 |  |
 | [Koda](https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP) | 3:42 | 2024-03-28 |  |
 | [La vie est belle](https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [La vie est belle](https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh) | 2:58 | 2024-03-21 |  |
 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 | 2024-03-07 |  |
@@ -228,7 +230,7 @@
 | [What's Wrong With Me](https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc) | [Spin Twice](https://open.spotify.com/artist/4EIIaGs9qalNWfNNt1lo8d) | [Gravity](https://open.spotify.com/album/1uSQX0L4eOveqyskx0Sxf1) | 3:43 | 2023-09-28 | 2024-02-02 |
 | [Winter Sun](https://open.spotify.com/track/0Jt0kxSSMYQ6XPsPsAb4Ja) | [Avalon Bloom](https://open.spotify.com/artist/6WJSI8lBDgepZLAXIqHgdh) | [Avalon Bloom](https://open.spotify.com/album/20EfjGnr8Ku5qTMjDZxmuW) | 3:43 | 2024-01-04 | 2024-04-26 |
 | [Without Shepherd or Guiding Star \- Edit](https://open.spotify.com/track/0Mrj5rb5aa7ECXX8ATL9uD) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [Without Shepherd or Guiding Star \(Edit\)](https://open.spotify.com/album/6rIYyDZv0i2aawOFAFDqKV) | 3:20 | 2023-11-16 | 2023-12-15 |
-| [You Liar](https://open.spotify.com/track/7xivDpDSJ9dPuyqovxxkk7) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [ALMOST DEAD](https://open.spotify.com/album/3RP4jBXSBlctAls6IaEt3f) | 3:49 | 2024-03-14 |  |
+| [You Liar](https://open.spotify.com/track/7xivDpDSJ9dPuyqovxxkk7) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [ALMOST DEAD](https://open.spotify.com/album/3RP4jBXSBlctAls6IaEt3f) | 3:49 | 2024-03-14 | 2024-06-07 |
 | [Zebra](https://open.spotify.com/track/4IQo93gyRO7MjOtcRFXNKl) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Zebra](https://open.spotify.com/album/7JZphv3s2oDlaW6bl7PCdo) | 2:29 | 2024-05-02 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

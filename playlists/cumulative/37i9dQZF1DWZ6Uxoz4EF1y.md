@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-159 songs - 14 hr 30 min
+160 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2020-09-18 | 2024-04-19 |
 | [Cristo Te Amamos](https://open.spotify.com/track/73j54D0rwXFPoCW50ZWkEb) | [Majo Solís](https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS), [Danilo Ruiz](https://open.spotify.com/artist/2MxgPruXBZj9F3l8FM6unN) | [Colección Acústica I](https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS) | 7:11 | 2023-04-09 | 2024-04-19 |
 | [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 | 2023-04-09 |  |
-| [Cristo Yo Creo en Ti](https://open.spotify.com/track/0tu31j0ER11KL2tYUOyHea) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [ORO](https://open.spotify.com/album/17Kzq0v8VbcM07Gd1wc7Sy) | 5:20 | 2024-03-20 |  |
+| [Cristo Yo Creo en Ti](https://open.spotify.com/track/0tu31j0ER11KL2tYUOyHea) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [ORO](https://open.spotify.com/album/17Kzq0v8VbcM07Gd1wc7Sy) | 5:20 | 2024-03-20 | 2024-06-07 |
 | [Cristo Yo Creo en Ti](https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [ORO](https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx) | 5:20 | 2023-04-09 | 2024-04-19 |
 | [Digno](https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:24 | 2020-09-18 | 2024-04-19 |
 | [Digno](https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:24 | 2024-03-20 |  |
@@ -154,6 +154,7 @@
 | [Te Amo Jesús](https://open.spotify.com/track/1OjgBiVillUN6xXgrZLkyg) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/5wRPQ3vuSsJOd4qCcbszFy) | 3:33 | 2024-03-20 | 2024-06-03 |
 | [Te Dejo Ganar](https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P) | 3:21 | 2024-03-20 |  |
 | [Te Dejo Ganar](https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:21 | 2020-09-18 | 2024-04-19 |
+| [Te Deseo](https://open.spotify.com/track/0fKTsfo4878lqiCYHmvP9h) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Majo y Dan](https://open.spotify.com/album/0Y8mUmQqeF1QnQis9negrN) | 5:39 | 2024-03-20 |  |
 | [Te Deseo](https://open.spotify.com/track/6DialW5HyoOppXovC3CwCw) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Majo y Dan](https://open.spotify.com/album/5epHePkyLeQ9htZwIDJXjn) | 5:39 | 2020-09-18 | 2024-04-19 |
 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 | 2023-04-09 |  |
 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 | 2020-09-18 | 2024-04-19 |

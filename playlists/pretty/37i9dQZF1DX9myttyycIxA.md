@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: YULLOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,370 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,382 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 39 | [Wish Me Away](https://open.spotify.com/track/79PatmbsVvjeS4Q3p5zZ4F) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Wish Me Away](https://open.spotify.com/album/2YrX3Cnuai2IrRP5P4v5vI) | 3:58 |
 | 40 | [Carry Me to Bed](https://open.spotify.com/track/5EPE4kkkngiXtqHjGb31QP) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Read the Room](https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw) | 3:30 |
 | 41 | [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 |
-| 42 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly](https://open.spotify.com/artist/6Ax1Au8Lj8zfgdb7hp6TUT) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
+| 42 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
 | 43 | [See What I Mean](https://open.spotify.com/track/5riMigslpADtcS6Z0YS61m) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [See What I Mean](https://open.spotify.com/album/4Bcy55zIbbfIz5q5xPQAcl) | 3:00 |
 | 44 | [She Took You To Narnia](https://open.spotify.com/track/74o4kHeG83ZduHZ0jlrqT4) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [She Took You To Narnia](https://open.spotify.com/album/6xyhXu98hMeNrKziYkISsg) | 3:26 |
 | 45 | [On Fire](https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl) | [Idaho](https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY) | [On Fire](https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp) | 3:10 |

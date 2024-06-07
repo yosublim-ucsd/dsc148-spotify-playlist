@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Siobhán Winifred
+> Discover your new favourite artists from UK&IE\. Cover: Nia Chennai
 
-264 songs - 14 hr 12 min
+265 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Slow Kisses](https://open.spotify.com/track/501PUoceKvqu71KVl3c7z6) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Slow Kisses](https://open.spotify.com/album/57pT16oRHPnWXxKJJu7OLR) | 3:41 | 2022-02-18 |  |
 | [Slow Kisses](https://open.spotify.com/track/76O5euCWxUxbw7vOnE5Q26) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Alright Sunshine](https://open.spotify.com/album/7e22pjnv34qdJpc9J95kSX) | 3:41 | 2022-10-13 | 2024-04-19 |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-24 |  |
+| [So Pretty When You Cry](https://open.spotify.com/track/2B4o1SOeV4TbxoMc5fQuWk) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [So Pretty When You Cry](https://open.spotify.com/album/00HC56vNpd80TqSJageJOs) | 2:51 | 2024-06-06 |  |
 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 | 2023-10-19 | 2023-10-21 |
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-19 |  |
 | [Steamroller](https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt) | 2:55 | 2022-06-17 |  |

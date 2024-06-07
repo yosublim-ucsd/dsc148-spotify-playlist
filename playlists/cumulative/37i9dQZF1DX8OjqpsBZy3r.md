@@ -2,7 +2,7 @@
 
 ### [Viral Country](https://open.spotify.com/playlist/37i9dQZF1DX8OjqpsBZy3r)
 
-> The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
+> The trending country songs and viral hits you need to know\. Cover: Dasha
 
 190 songs - 10 hr 26 min
 

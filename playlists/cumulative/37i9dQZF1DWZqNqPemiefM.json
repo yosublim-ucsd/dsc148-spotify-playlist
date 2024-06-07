@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air.",
+  "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
   "name": "Sora",
   "tracks": [
     {
@@ -1070,6 +1070,28 @@
       "duration_ms": 145281,
       "name": "Belleville",
       "url": "https://open.spotify.com/track/2nGO2l8qt0OxuMLuV2uHeq"
+    },
+    {
+      "album": {
+        "name": "Bewitched (Rework)",
+        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262876,
+      "name": "Bewitched - Rework",
+      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
     },
     {
       "album": {
@@ -2597,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Echo Sax",
+        "url": "https://open.spotify.com/album/5X7wgoXCGlW7iy2rnHjj2u"
+      },
+      "artists": [
+        {
+          "name": "Caleb Arredondo",
+          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101034,
+      "name": "Echo Sax No.4",
+      "url": "https://open.spotify.com/track/6hIN2CWE4FrVqHBa0rrrOT"
+    },
+    {
+      "album": {
         "name": "Han-Nya-En: Music Of The Land Of The Rising Sun",
         "url": "https://open.spotify.com/album/1Z7dqtqirDTB9ZUzY1qh3r"
       },
@@ -2716,7 +2756,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 187719,
       "name": "Epigraph \u30a8\u30d4\u30b0\u30e9\u30d5",
       "url": "https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87"
@@ -3876,6 +3916,24 @@
       "duration_ms": 398600,
       "name": "hope",
       "url": "https://open.spotify.com/track/2c21wiDxJ1lZM5vgwAsSFQ"
+    },
+    {
+      "album": {
+        "name": "hope",
+        "url": "https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163612,
+      "name": "hope",
+      "url": "https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5"
     },
     {
       "album": {
@@ -5342,7 +5400,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 445733,
       "name": "Maha Rose North 102021, Breathwork",
       "url": "https://open.spotify.com/track/4V0XU8oWY7M1o5BGKcmml2"
@@ -5526,7 +5584,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 426346,
       "name": "MERCURIC DANCE/\u6c34\u9280~\u8e8d\u52d5\u306e\u8e0a\u308a",
       "url": "https://open.spotify.com/track/2fXZxWhqV6YqpKsEoqID6S"
@@ -6154,6 +6212,28 @@
       "duration_ms": 295238,
       "name": "Nocturne - New Recording",
       "url": "https://open.spotify.com/track/03IzGkHbZHnQxweVx1V6q8"
+    },
+    {
+      "album": {
+        "name": "Nomozaki",
+        "url": "https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK"
+      },
+      "artists": [
+        {
+          "name": "VIDEOTAPEMUSIC",
+          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
+        },
+        {
+          "name": "\u89d2\u9285\u771f\u5b9f",
+          "url": "https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Nomozaki",
+      "url": "https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp"
     },
     {
       "album": {
@@ -8901,6 +8981,24 @@
     },
     {
       "album": {
+        "name": "Revisit",
+        "url": "https://open.spotify.com/album/11RyKiGfteYgn10PWuePrX"
+      },
+      "artists": [
+        {
+          "name": "VIDEOTAPEMUSIC",
+          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345758,
+      "name": "Susaki (Flotsam)",
+      "url": "https://open.spotify.com/track/3QARboLjMyWbdrT52pGQMx"
+    },
+    {
+      "album": {
         "name": "In The Open",
         "url": "https://open.spotify.com/album/7oC9KGsnXo7BjrlJ1YBHIJ"
       },
@@ -9270,7 +9368,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 367645,
       "name": "The Very Ears Of Morning",
       "url": "https://open.spotify.com/track/1DNn8Dbb4MBwMfefvG5m7O"
@@ -9810,6 +9908,24 @@
       "duration_ms": 179591,
       "name": "Under The Crystal Lake",
       "url": "https://open.spotify.com/track/4hDxzGXGpm2mqcfQ3Gwmsa"
+    },
+    {
+      "album": {
+        "name": "The Mosaic of Transformation",
+        "url": "https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Understanding Body Messages",
+      "url": "https://open.spotify.com/track/2sN5abLA5FVFwgbqbR7vx5"
     },
     {
       "album": {
@@ -10398,7 +10514,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 254146,
       "name": "Zhan-ti-sui Temple",
       "url": "https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk"
@@ -11072,7 +11188,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 153666,
       "name": "\u8150\u6d77\u306b\u3066",
       "url": "https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35"

@@ -4149,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Heatwave Heaven",
+        "url": "https://open.spotify.com/album/0qBPaPTojSJw64XPyKaB4g"
+      },
+      "artists": [
+        {
+          "name": "Anna Mae",
+          "url": "https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/45sfagYVHLK1WO9oexwPHv"
+    },
+    {
+      "album": {
         "name": "Fiamme",
         "url": "https://open.spotify.com/album/6OlYreAidBgOvp5BYSwjel"
       },

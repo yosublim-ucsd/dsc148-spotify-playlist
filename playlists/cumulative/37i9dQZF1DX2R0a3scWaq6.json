@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "Los grandes hits y los sonidos emergentes de la m\u00fasica electr\u00f3nica latina est\u00e1n aqu\u00ed. Foto: Justice",
+  "description": "Los grandes hits y los sonidos emergentes de la m\u00fasica electr\u00f3nica latina est\u00e1n aqu\u00ed. Foto: Ela Minus",
   "name": "Electro Heat",
   "tracks": [
     {
@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "COMBAT",
+        "url": "https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256579,
+      "name": "COMBAT",
+      "url": "https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi"
+    },
+    {
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 147692,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
@@ -1599,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "UNO Remixes",
+        "url": "https://open.spotify.com/album/0fv3mGJAZuumLQxr1yUn5J"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437419,
+      "name": "KRAUT! - Folgar Remix",
+      "url": "https://open.spotify.com/track/4NTyqjbaKwcpE7pLud1feu"
+    },
+    {
+      "album": {
         "name": "MIEL",
         "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
       },
@@ -1746,7 +1786,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"

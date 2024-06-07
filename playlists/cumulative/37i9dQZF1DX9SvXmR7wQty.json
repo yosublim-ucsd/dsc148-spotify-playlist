@@ -32107,6 +32107,24 @@
     },
     {
       "album": {
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153006,
+      "name": "NO LACK",
+      "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
+    },
+    {
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -38586,7 +38604,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 219773,
       "name": "rentrer chez moi",
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
@@ -40824,6 +40842,24 @@
       "duration_ms": 176093,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/2X2h4pcHtGwCIsjzAngY7t"
+    },
+    {
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157643,
+      "name": "Sentiments",
+      "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
     },
     {
       "album": {
@@ -45440,7 +45476,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 178574,
       "name": "Trap House",
       "url": "https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9"

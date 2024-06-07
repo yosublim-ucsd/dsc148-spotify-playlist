@@ -533,6 +533,42 @@
     },
     {
       "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142103,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
+    },
+    {
+      "album": {
+        "name": "Balance Of Love",
+        "url": "https://open.spotify.com/album/0XRMv76EvmgFuMPoBDW1OY"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "Balance Of Love",
+      "url": "https://open.spotify.com/track/1DBtUEMgDSqQEUC1NlDYB3"
+    },
+    {
+      "album": {
         "name": "Bedroom Exile",
         "url": "https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ"
       },
@@ -746,7 +782,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 164071,
       "name": "Body Mind Hell",
       "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
@@ -912,7 +948,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 154514,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0wQ0yPIeyJAvSBCRu9PGon"
@@ -1110,7 +1146,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 204591,
       "name": "Cover Up My Face",
       "url": "https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG"
@@ -3251,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Mittelfinger",
+        "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129272,
+      "name": "Mittelfinger",
+      "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
+    },
+    {
+      "album": {
         "name": "Mom&Dad",
         "url": "https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn"
       },
@@ -3446,7 +3500,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 114000,
       "name": "New Me",
       "url": "https://open.spotify.com/track/0InImmvabu40OepmE6HFtC"
@@ -4444,7 +4498,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 222230,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t"
@@ -4974,6 +5028,24 @@
       "duration_ms": 182224,
       "name": "Tut mir nicht leid",
       "url": "https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ"
+    },
+    {
+      "album": {
+        "name": "und du suchst noch \u00fcberall, alles was mal von mir war",
+        "url": "https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181225,
+      "name": "und du suchst noch \u00fcberall, alles was mal von mir war",
+      "url": "https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM"
     },
     {
       "album": {

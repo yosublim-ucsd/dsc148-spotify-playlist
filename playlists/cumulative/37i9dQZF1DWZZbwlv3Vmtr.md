@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-920 songs - 1 day 11 hr 44 min
+921 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Cavern](https://open.spotify.com/track/3m4iAUrVsW0BFkyOmdeNrr) | [Lil Joke](https://open.spotify.com/artist/5OjXKVQtwCAwQ3EGw3ZzBQ) | [Cavern](https://open.spotify.com/album/2KQOOidJ1pYuui2rnhBio1) | 1:57 | 2022-04-22 | 2023-10-13 |
 | [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2022-09-30 | 2023-10-20 |
 | [Cayo](https://open.spotify.com/track/6p8cuVRnfBv4C6dhvYua5i) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cayo](https://open.spotify.com/album/0oY0cZTZBDrlPTM7chf4bE) | 2:16 | 2022-04-15 | 2022-07-08 |
+| [Chai](https://open.spotify.com/track/66Kny7gNhHrvLUnasMVSl7) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Chai](https://open.spotify.com/album/3pqrE6A2UA3uhU5SgrtKeh) | 2:24 | 2024-06-05 |  |
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2022-04-15 |  |
 | [charles b.](https://open.spotify.com/track/0PspRVTgQPycu9EH88kF4k) | [Rico Manzano](https://open.spotify.com/artist/1hVs4AUzu7CjnBobfDoLoZ) | [charles b.](https://open.spotify.com/album/1MXnC6qRilmNuoYPwenhr4) | 2:30 | 2022-04-15 | 2022-08-19 |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-15 | 2023-01-20 |
@@ -307,7 +308,7 @@
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
 | [Heat Sink](https://open.spotify.com/track/1LkKE6EKpkBXBqYnfaPHXE) | [Yeriho](https://open.spotify.com/artist/78i2cMCD9ZGsHitYgLbMhW), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Odyssey](https://open.spotify.com/album/0tt8x0BZjFBKRbPP5Z5tNq) | 2:00 | 2022-07-22 | 2022-12-10 |
-| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 |  |
+| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 | 2024-06-07 |
 | [Heavensent](https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Heavensent](https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y) | 3:04 | 2023-12-22 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/0EZBeSP6JhQ9tiZRkm45wE) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:16 | 2022-04-15 | 2022-06-10 |
 | [Hello, Hi](https://open.spotify.com/track/5W3FAOOcBGlhyS14THQvPC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Hello, Hi](https://open.spotify.com/album/33JTS1buALOUApqVP63eSL) | 2:10 | 2022-06-03 | 2022-09-03 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,545 likes - 195 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,650 likes - 195 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sobel Caviar](https://open.spotify.com/track/3rcwaxTUm3FoGPlRUqdC6A) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Sobel Caviar](https://open.spotify.com/album/3bnG37s0WUPx7WZC5rq8Va) | 2:42 |
-| 2 | [Orion](https://open.spotify.com/track/6UcE4k2auErKMMCutuTJoC) | [Milky Road](https://open.spotify.com/artist/1DdYZa4VAyk3lVL8zlmyhH) | [Orion](https://open.spotify.com/album/1LTSRgOvF9GazbVQMbP6RY) | 2:16 |
+| 2 | [Orion](https://open.spotify.com/track/6UcE4k2auErKMMCutuTJoC) | [Milky Road](https://open.spotify.com/artist/44s2EGhne0PJcJqpp5PnVS) | [Orion](https://open.spotify.com/album/1LTSRgOvF9GazbVQMbP6RY) | 2:16 |
 | 3 | [Rolling](https://open.spotify.com/track/6OMQhaJVeUuPm9OFbIjXAL) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Rolling](https://open.spotify.com/album/3lHEFKAG3FS8xAPyh7jWhE) | 2:46 |
 | 4 | [Too Many Stairs](https://open.spotify.com/track/3Bf8Vrmx3KHodCnsdfwg5x) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [Too Many Stairs](https://open.spotify.com/album/5R3r6LBb4PFIh4kyFjZI7f) | 2:39 |
 | 5 | [Submute](https://open.spotify.com/track/4bZsxqkkCcMZP0TT712ouR) | [Max Serenite](https://open.spotify.com/artist/3RDgyUBLfQ72SH5jp8e27o) | [Submute](https://open.spotify.com/album/4XPqqcbZTmUxuvZkGcweDH) | 2:38 |

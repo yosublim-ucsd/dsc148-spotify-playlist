@@ -1,12 +1,12 @@
 {
   "description": "This Is MYA. Los temas esenciales, todos en una lista.",
-  "num_followers": 38925,
+  "num_followers": 38937,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAACvfe7MHsEiTroJOpg281Yq",
+  "snapshot_id": "Zl+qgAAAAABxj2UBlDYgaW0ZIDGtKmqM",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Soltamos",
-        "url": "https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 198353,
-      "name": "Nunca Soltamos",
-      "url": "https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuiste M\u00eda",
         "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 224098,
       "name": "Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Soltamos",
+        "url": "https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 198353,
+      "name": "Nunca Soltamos",
+      "url": "https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HISTERIQUEO",
-        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 205809,
-      "name": "HISTERIQUEO",
-      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre La Tierra y El Cielo",
         "url": "https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 253496,
       "name": "Entre La Tierra y El Cielo",
       "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HISTERIQUEO",
+        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 205809,
+      "name": "HISTERIQUEO",
+      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
     },
     {
       "added_at": null,

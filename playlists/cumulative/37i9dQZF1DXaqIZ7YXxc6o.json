@@ -457,6 +457,28 @@
     },
     {
       "album": {
+        "name": "6 In the Morning (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "6 In the Morning (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
+    },
+    {
+      "album": {
         "name": "7 Minutes In Heaven (Tyron Hapi Remix)",
         "url": "https://open.spotify.com/album/6BeCmY9Y6oLy86uypv6Xdc"
       },
@@ -1252,6 +1274,24 @@
       "duration_ms": 182400,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2vPzcUXRb3J5nD58D8WdC8"
+    },
+    {
+      "album": {
+        "name": "All About Your Love",
+        "url": "https://open.spotify.com/album/1elA7GunM4Q2kkg7Si6Za3"
+      },
+      "artists": [
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168289,
+      "name": "All About Your Love",
+      "url": "https://open.spotify.com/track/7uQnKKClNPmQKf6vew86v7"
     },
     {
       "album": {
@@ -2985,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298469,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/5p4fIxTv21izsQk1OCoO7p"
       },
@@ -3080,7 +3138,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 158906,
       "name": "back2u",
       "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
@@ -4104,6 +4162,24 @@
       "duration_ms": 257640,
       "name": "Bet",
       "url": "https://open.spotify.com/track/59qDJj2HVo4XM7uQB6iaDM"
+    },
+    {
+      "album": {
+        "name": "BET YOU NEVER",
+        "url": "https://open.spotify.com/album/6F2LjjEaRvkAebD0dBFF5Y"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231195,
+      "name": "BET YOU NEVER",
+      "url": "https://open.spotify.com/track/7lDzrHSlvJQNT85GVlKogu"
     },
     {
       "album": {
@@ -8606,7 +8682,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 223957,
       "name": "Cotton & Silk",
       "url": "https://open.spotify.com/track/6oFA9zdx6geUC6uCqQKhJc"
@@ -10808,7 +10884,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 199696,
       "name": "DO YOU REMEMBER?",
       "url": "https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX"
@@ -11852,7 +11928,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 169505,
       "name": "Dust",
       "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
@@ -12834,7 +12910,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 195000,
       "name": "Everest (Stay)",
       "url": "https://open.spotify.com/track/4wD3DmMlIaAEffdLMyVIrq"
@@ -14851,6 +14927,28 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1jIshdCAl5H8RcM0qswf60"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190147,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0ysBN9XI9EDyFgUFIQC4PN"
+    },
+    {
+      "album": {
         "name": "Follow Ur <3",
         "url": "https://open.spotify.com/album/7DDik8K43EZ48B417aMO8h"
       },
@@ -16230,6 +16328,24 @@
       "duration_ms": 157241,
       "name": "Giratina Reborn",
       "url": "https://open.spotify.com/track/3yfw1DJYkwi60nXIJj7RXC"
+    },
+    {
+      "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "album": {
@@ -20091,6 +20207,24 @@
     },
     {
       "album": {
+        "name": "I CAN'T LOSE YOU",
+        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155343,
+      "name": "I CAN\u2019T LOSE YOU",
+      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
+    },
+    {
+      "album": {
         "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX"
       },
@@ -20150,7 +20284,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -20590,7 +20724,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 125650,
       "name": "I WOZ HOME",
       "url": "https://open.spotify.com/track/3CHUA6wInWJtRStWosd0am"
@@ -21396,6 +21530,28 @@
       "duration_ms": 192000,
       "name": "Insane",
       "url": "https://open.spotify.com/track/5pw7w1fYJHBJ8oB41929bg"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/4or3mIae4pphsjbwzkLhyn"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159433,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/6dnMgcSGyonR9LncwQTY6g"
     },
     {
       "album": {
@@ -24277,6 +24433,28 @@
     },
     {
       "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "album": {
         "name": "Liquor & Cigarettes (feat. ArrDee)",
         "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
       },
@@ -25788,7 +25966,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 158781,
       "name": "Make It",
       "url": "https://open.spotify.com/track/38u7PnESOyYWRMJw7GWw4t"
@@ -28375,6 +28553,24 @@
     },
     {
       "album": {
+        "name": "Never The Same",
+        "url": "https://open.spotify.com/album/77hASCoJcmmr7QxZ59046x"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216418,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/2F8PaVBDXoDDZKSuFWlQIa"
+    },
+    {
+      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -30606,7 +30802,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 205915,
       "name": "One Milkali (One Blood) [Tseba Remix]",
       "url": "https://open.spotify.com/track/2VOxhxg0hENNoQ4Oj6ITXS"
@@ -30668,7 +30864,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 189120,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0VPn0rLzjEXQFilpZuITL1"
@@ -30770,7 +30966,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 164580,
       "name": "One Taste",
       "url": "https://open.spotify.com/track/1L4U6FFDn1Vvr6CuQvF7Yc"
@@ -30894,6 +31090,28 @@
       "duration_ms": 204301,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3ov97oBZHDO72yWMidF6mn"
+    },
+    {
+      "album": {
+        "name": "Only Way Is Up (feat. Izzy Bizu)",
+        "url": "https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149816,
+      "name": "Only Way Is Up (feat. Izzy Bizu)",
+      "url": "https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV"
     },
     {
       "album": {
@@ -31702,6 +31920,28 @@
       "duration_ms": 162017,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/0dVWCpNNjFhf0OuRh4Liiz"
+    },
+    {
+      "album": {
+        "name": "Part of Us",
+        "url": "https://open.spotify.com/album/5MXrgr2kybbz2jIrQJR43l"
+      },
+      "artists": [
+        {
+          "name": "Cadence",
+          "url": "https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha"
+        },
+        {
+          "name": "Golding",
+          "url": "https://open.spotify.com/artist/1iSoM8O980yKFhpnEKwARJ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180077,
+      "name": "Part of Us",
+      "url": "https://open.spotify.com/track/2nITmoyGyGtpFuJVTNCJYe"
     },
     {
       "album": {
@@ -39618,7 +39858,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 156022,
       "name": "Stay Together (Baby Baby) [feat. Vula]",
       "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"
@@ -41524,7 +41764,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 208534,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6nJ5Me87gXfmxAvtsrKFcT"
@@ -44031,6 +44271,24 @@
     },
     {
       "album": {
+        "name": "Treat Each Other Right",
+        "url": "https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240580,
+      "name": "Treat Each Other Right",
+      "url": "https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K"
+    },
+    {
+      "album": {
         "name": "Infinite Autonomy",
         "url": "https://open.spotify.com/album/0OAwinaOuk161ygtyfIq9r"
       },
@@ -44386,7 +44644,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 262454,
       "name": "Turn The Page",
       "url": "https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil"
@@ -45006,7 +45264,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 168999,
       "name": "Unsure",
       "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
@@ -45710,6 +45968,28 @@
       "duration_ms": 227343,
       "name": "Walls Down",
       "url": "https://open.spotify.com/track/3M0GSDkUaj6qfeCPNeCAUR"
+    },
+    {
+      "album": {
+        "name": "Wanene",
+        "url": "https://open.spotify.com/album/03GZrn26w0yu7IptsN4esU"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213780,
+      "name": "Wanene",
+      "url": "https://open.spotify.com/track/7oBrpeglkaAJty20Bmd3RQ"
     },
     {
       "album": {
@@ -46984,6 +47264,32 @@
       "duration_ms": 138773,
       "name": "Where You Want",
       "url": "https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh"
+    },
+    {
+      "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207992,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
     },
     {
       "album": {

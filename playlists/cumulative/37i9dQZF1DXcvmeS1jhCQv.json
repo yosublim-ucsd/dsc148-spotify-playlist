@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Nell Mescal",
+  "description": "New tunes from Ireland for your discovery. Cover: Saibh Skelly",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "gone girl",
+        "url": "https://open.spotify.com/album/5VTAnvrRkHBm1P9Ne9zrM8"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n Franks",
+          "url": "https://open.spotify.com/artist/1szKdIebZ0JuD8OOHL4Mj0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "gone girl",
+      "url": "https://open.spotify.com/track/6N4Oazanr0gxYcThWKviCl"
+    },
+    {
+      "album": {
         "name": "Graveyard",
         "url": "https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 324447,
       "name": "Locked Up Never Fade",
       "url": "https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55"
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 189270,
       "name": "Never Ever Ever (feat. shiv)",
       "url": "https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 174339,
       "name": "Outside",
       "url": "https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB"
@@ -2545,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "The Mirror's Favourite",
+        "url": "https://open.spotify.com/album/05eluKYY2Lr9Tt7mS31Lx2"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138766,
+      "name": "The Mirror's Favourite",
+      "url": "https://open.spotify.com/track/5o6hqCqfg9XqI885xV0prp"
+    },
+    {
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/4H1qLDeGdpoQFdpZjiX5MR"
       },
@@ -2600,6 +2636,24 @@
       "duration_ms": 187764,
       "name": "The State",
       "url": "https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF"
+    },
+    {
+      "album": {
+        "name": "there's a light",
+        "url": "https://open.spotify.com/album/5fdEADXcrVOns6lSt4oeon"
+      },
+      "artists": [
+        {
+          "name": "peace",
+          "url": "https://open.spotify.com/artist/5o4nlnlzin0Cc1GIRovq1Q"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121845,
+      "name": "there's a light",
+      "url": "https://open.spotify.com/track/3IYbfszzTtDN1aTvQreFsE"
     },
     {
       "album": {

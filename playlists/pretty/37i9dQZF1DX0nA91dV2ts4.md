@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Yuvan \- Anirudh
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,635 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,668 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 | 47 | [Dandanakka \(From "Romeo Juliet"\)](https://open.spotify.com/track/72m5BKpkdE4tS7VojEVN3a) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dandanakka \(From "Romeo Juliet"\)](https://open.spotify.com/album/0YTG3syAgGTKzUHWcoWozt) | 4:20 |
 | 48 | [Mukkala Mukkabla](https://open.spotify.com/track/1qHQ6U2HSSddaH6LYs5M9t) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Kaadhalan](https://open.spotify.com/album/2FLFZYTdBl3PyrsMVm1fMR) | 5:23 |
 | 49 | [Rowdy Baby](https://open.spotify.com/track/5YtLIhAuPcNLkfHZto0MVV) | [Yuvan Shankar Raja,Dhanush,Dhee](https://open.spotify.com/artist/6fVqMOOw2ewl9TzT6aG7dL) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg) | 4:41 |
-| 50 | [Daddy Mummy](https://open.spotify.com/track/2HhUUQvHfYOxlSGGuuMLuR) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Villu](https://open.spotify.com/album/5Mlq5pDbBuErZqJVhdqx5V) | 4:20 |
-| 51 | [Single Pasanga](https://open.spotify.com/track/5IirRCYX0AuRAZDDeOY7RA) | [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7) | [Natpe Thunai](https://open.spotify.com/album/1HYfvglqbtALCXpldXYakO) | 3:44 |
+| 50 | [Single Pasanga](https://open.spotify.com/track/5IirRCYX0AuRAZDDeOY7RA) | [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7) | [Natpe Thunai](https://open.spotify.com/album/1HYfvglqbtALCXpldXYakO) | 3:44 |
+| 51 | [Daddy Mummy](https://open.spotify.com/track/2HhUUQvHfYOxlSGGuuMLuR) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Villu](https://open.spotify.com/album/5Mlq5pDbBuErZqJVhdqx5V) | 4:20 |
 | 52 | [Ammadi Aathadi](https://open.spotify.com/track/4I91lJWD0Fgbo1KQ0vHJlS) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR), [Mahathi](https://open.spotify.com/artist/5YeT9gYVH3yHYwKPmUdmJK) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4bEsZpWVEuO2rSq8mrt5HM) | 5:26 |
 | 53 | [Per Vachaalum Vaikkaama](https://open.spotify.com/track/21r0QnhYxsxYUsoov5o0IF) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Dikkiloona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/31MR3zKN2y1tEwPpI9i5j7) | 4:28 |
 | 54 | [Chalmaar](https://open.spotify.com/track/5dnUb7ZJX4JNNyFbGzqO6h) | [Sajid\-Wajid,Benny Dayal](https://open.spotify.com/artist/0T1FGnAEZ4wC0gsqLoHW02) | [Devi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Bevj1r3bLcCJkFKRyAodq) | 4:19 |

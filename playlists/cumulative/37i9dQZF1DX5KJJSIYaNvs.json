@@ -4913,6 +4913,32 @@
     },
     {
       "album": {
+        "name": "Panghatwa",
+        "url": "https://open.spotify.com/album/62dzlvkmsGQPJltaS7oU2H"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Haiyat Khan",
+          "url": "https://open.spotify.com/artist/2aUPCw9kqasEv9pPu0tuva"
+        },
+        {
+          "name": "Shivang Mathur",
+          "url": "https://open.spotify.com/artist/5JyaVc5k4jSY4YS25UCkix"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Panghatwa",
+      "url": "https://open.spotify.com/track/4PQD3P7gYXkUebtCyyJfOv"
+    },
+    {
+      "album": {
         "name": "Paon Ki Jutti",
         "url": "https://open.spotify.com/album/0kvLQHTVY3ocSh0K64f7I3"
       },
@@ -6806,7 +6832,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 208600,
       "name": "Tu Hain Toh - Neeti Mohan Version (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/7o9amiuyYz7o2fnL6YdfA6"

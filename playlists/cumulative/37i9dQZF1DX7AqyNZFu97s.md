@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Connie Campsie
 
-1,917 songs - 4 day 6 hr 18 min
+1,919 songs - 4 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Call me?](https://open.spotify.com/track/1foPquU59VBf6n7XBVKkYU) | [Ritho](https://open.spotify.com/artist/7vzVjHcRJej3H3HH4Jhc4N) | [Call me?](https://open.spotify.com/album/2SPWg0pRrifWZ2cL91beub) | 2:56 | 2022-09-28 | 2022-10-13 |
 | [Can't Breathe](https://open.spotify.com/track/6d7dzHTqixv66VXoJ7HVmP) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Can't Breathe](https://open.spotify.com/album/37klwJPoVXEQgkVvn3euoD) | 3:48 | 2023-04-05 | 2023-06-01 |
 | [Can't Get You](https://open.spotify.com/track/0gvJC8UqXC7caHcICC0u2m) | [Jellis](https://open.spotify.com/artist/1WQB3MUY8am8dxKhfQWM1p) | [Can't Get You](https://open.spotify.com/album/3bLaegJ4flguM7FxGePlqA) | 2:21 | 2024-04-23 | 2024-05-22 |
+| [Can't Help It](https://open.spotify.com/track/3LjpebbFeB9mddDZklnL6W) | [Siobhan](https://open.spotify.com/artist/2kYZxUrWyJ5ju6JkkD5wYY) | [I Need & Can't Help It](https://open.spotify.com/album/1rALI3UgvvWtYuV3Ev7tiA) | 3:16 | 2024-06-06 |  |
 | [Can't Help U](https://open.spotify.com/track/22GuWtliWwyvgRPGQ64nvH) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/7LVnO80Kp3ITtQJN1OOV6B) | 3:45 | 2022-11-30 | 2023-01-05 |
 | [Can't Help U](https://open.spotify.com/track/3LvN1PIpS2BUEVSBvXxQHp) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/6AGOWIKeILE1B7qEDM3yVz) | 3:45 | 2022-06-08 | 2022-10-13 |
 | [Can't Help U](https://open.spotify.com/track/79zAJa2VTxDkzAj1BrvVpn) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/3PaKSgJ1bnI6u53LbiPkES) | 3:45 | 2022-05-11 | 2022-06-01 |
@@ -331,7 +332,7 @@
 | [Coca\-cola](https://open.spotify.com/track/62cxDxb6w2bGzr4gYoZYEA) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Coca\-cola / Eastville Park](https://open.spotify.com/album/40frKesv0KflAN0pUgIPOM) | 2:39 | 2022-05-04 | 2022-06-09 |
 | [Cocktails](https://open.spotify.com/track/71AviP2M6o7GcX0ismn470) | [Jason Busteed](https://open.spotify.com/artist/2fcFMV8heBaj8mLwxrBRIo) | [Cocktails](https://open.spotify.com/album/4wBe8TmS5M9CMmKoWTPENW) | 5:21 | 2023-06-27 | 2023-08-02 |
 | [Codependent](https://open.spotify.com/track/23gO6UnjPlFsTPGlHrVf5k) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 2:57 | 2024-06-04 |  |
-| [Codependent](https://open.spotify.com/track/6ijy15bTZ759WV3tIijsgS) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Codependent](https://open.spotify.com/album/7DQnOR7XZBf5rNxlSzsipO) | 2:57 | 2024-06-04 |  |
+| [Codependent](https://open.spotify.com/track/6ijy15bTZ759WV3tIijsgS) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Codependent](https://open.spotify.com/album/7DQnOR7XZBf5rNxlSzsipO) | 2:57 | 2024-06-04 | 2024-06-07 |
 | [Coffee](https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK) | [Coffee](https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO) | 2:31 | 2023-09-05 | 2024-01-03 |
 | [Cold](https://open.spotify.com/track/4lVBd8J6mLr1hIv94wRcQh) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Cold](https://open.spotify.com/album/0pOFywX4DhOOAJ2828tUpc) | 2:46 | 2023-02-15 | 2024-01-03 |
 | [Cold](https://open.spotify.com/track/3z2YAeIQ5DZUtB33aWXRdq) | [Tom Gortler](https://open.spotify.com/artist/2BAJypvks27ENNB8vX1P2u) | [Cold](https://open.spotify.com/album/6VhH8FHPySyL2CS6nh6fK3) | 2:59 | 2022-10-26 | 2022-12-01 |
@@ -1430,6 +1431,7 @@
 | [Right Here](https://open.spotify.com/track/6NmbDvXLCvvdLH5dzozMhi) | [Ashaine White](https://open.spotify.com/artist/3nhn1Qpg3aXPWN2IzaLj05) | [Right Here](https://open.spotify.com/album/6WTvHm16sx3USvD8IaZ7Ab) | 3:21 | 2023-07-04 | 2023-08-02 |
 | [Right Now](https://open.spotify.com/track/10Gzxk0HjA95Wd6XY0tDmn) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Right Now](https://open.spotify.com/album/60AMwv8QSorDMqhQrXBeDD) | 1:17 | 2024-04-23 | 2024-05-29 |
 | [RIGHT TRACK](https://open.spotify.com/track/4BmwSagn5zfDfhBviFMFIw) | [LANDEL](https://open.spotify.com/artist/6tvOxTM1eMfN1Cbpunm5Yp) | [RIGHT TRACK](https://open.spotify.com/album/0lrVBOBS6NLyDay7xOZnEZ) | 2:07 | 2024-02-21 | 2024-03-27 |
+| [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-06 |  |
 | [Rise & Grind](https://open.spotify.com/track/1REWgNecD9QbYYUQmU8kFL) | [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Rise & Grind](https://open.spotify.com/album/37ID9GIZhCOLGEj8RAA1ZG) | 1:39 | 2024-05-21 |  |
 | [River Song](https://open.spotify.com/track/3hOX1sq5nYcZgr3Cqpwm7k) | [Grayling](https://open.spotify.com/artist/4FsofiqfJyB7NgqyGfUgGS) | [River Song](https://open.spotify.com/album/3oQaSrHZcoee8nAHICJDbA) | 3:05 | 2022-06-29 | 2022-09-09 |
 | [roam](https://open.spotify.com/track/4cb97tOvfAbYPFpPJp2sTn) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [roam](https://open.spotify.com/album/33GzmKFIIdqWHhiMapcccj) | 3:08 | 2024-03-12 | 2024-04-17 |

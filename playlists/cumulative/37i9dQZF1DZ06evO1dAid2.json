@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
+  "description": "This is Chuck Berry. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Chuck Berry",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 141960,
       "name": "Almost Grown",
       "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 152200,
       "name": "Beautiful Delilah - Alternate Takes 15/16",
       "url": "https://open.spotify.com/track/4RdZsxHKdBVjRj1PgcCe4h"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 203400,
       "name": "Blues For Hawaiians",
       "url": "https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 122533,
       "name": "Bye Bye Johnny",
       "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 109466,
       "name": "Dear Dad - Single Version",
       "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 169173,
       "name": "Downbound Train",
       "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 151706,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 127880,
       "name": "Gun - Instrumental - Fast",
       "url": "https://open.spotify.com/track/2VfqSzJTiokxWLhTQE2icH"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 186706,
       "name": "Havana Moon",
       "url": "https://open.spotify.com/track/1dwg7tCqzs616yYWj6NJ2i"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 117066,
       "name": "Hey Pedro",
       "url": "https://open.spotify.com/track/0VUc41McjQW8ILujFWlP5t"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 147866,
       "name": "House Of Blue Lights",
       "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 108653,
       "name": "Jaguar And Thunderbird - Single Version",
       "url": "https://open.spotify.com/track/15GFTL6NH2ZbT4EsX0gYKS"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 161560,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 163800,
       "name": "Little Queenie",
       "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 143240,
       "name": "Maybellene",
       "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 169000,
       "name": "Nadine - Stereo Remix",
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 163000,
       "name": "No Particular Place To Go",
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 195186,
       "name": "Reelin' And Rockin'",
       "url": "https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 151773,
       "name": "Rock And Roll Music",
       "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 169960,
       "name": "Roly Poly",
       "url": "https://open.spotify.com/track/0zgnTeuGutjU1aFbd7cyC7"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 160693,
       "name": "School Day (Ring Ring Goes The Bell)",
       "url": "https://open.spotify.com/track/3RYwxAkUbHCzCmX8M0C0Zd"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 142760,
       "name": "Sweet Little Rock 'N' Roller",
       "url": "https://open.spotify.com/track/5a38im3bvcPzWWIuMegbTe"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 161200,
       "name": "The Things I Used To Do",
       "url": "https://open.spotify.com/track/1SN4rhqg4U3mlS6oxSP1jZ"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 162626,
       "name": "You Can't Catch Me",
       "url": "https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj"

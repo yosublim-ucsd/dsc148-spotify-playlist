@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kima",
+  "description": "Les hits dancehall du moment. Photo : Shenseea",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 154455,
       "name": "Basshall Session #3",
       "url": "https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 140893,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft"
@@ -5689,6 +5689,28 @@
     },
     {
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/3ER9n0Pq3mhv2q60sLwKNc"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178923,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8"
+    },
+    {
+      "album": {
         "name": "Phenomenal",
         "url": "https://open.spotify.com/album/0iY8NS7xBLMf4ckWCJdnyf"
       },
@@ -8106,6 +8128,28 @@
       "duration_ms": 173266,
       "name": "Vibes Weekend",
       "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "album": {
+        "name": "Vieux cl\u00e9bard",
+        "url": "https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8"
+      },
+      "artists": [
+        {
+          "name": "TKD",
+          "url": "https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187670,
+      "name": "Vieux cl\u00e9bard",
+      "url": "https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6"
     },
     {
       "album": {

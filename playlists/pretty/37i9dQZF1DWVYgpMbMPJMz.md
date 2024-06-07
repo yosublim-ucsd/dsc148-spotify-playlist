@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0289SkqAn0iOohwm0pIHv3">Pat Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,130 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,223 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 5 | [Our God Will Go Before Us \- Live](https://open.spotify.com/track/5bDsETW4IEzLsfBcMus0Ez) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [Our God Will Go Before Us \- The Hymns Of Matt Boswell And Matt Papa Vol\. 3 \(Live\)](https://open.spotify.com/album/200Hd3HTaC3sS2I0zS8uyU) | 4:31 |
 | 6 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jonathan Clarke](https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
 | 7 | [AMEN!](https://open.spotify.com/track/4glp5ZNO3T1fOw8sq2tDfd) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [AMEN!](https://open.spotify.com/album/6t0ix3A1T5t9tZVE9ySRPq) | 4:20 |
-| 8 | [Highest One \- Live](https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Highest One](https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV) | 7:21 |
+| 8 | [Highest One \- Live](https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Highest One \(Live\)](https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV) | 7:21 |
 | 9 | [I Believe \- Live](https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Rejoice \(Live\)](https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE) | 6:02 |
 | 10 | [WHAT YOU'RE WORTHY OF](https://open.spotify.com/track/1opOqU6Vph4HcZW1xiloe5) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [WHAT YOU'RE WORTHY OF](https://open.spotify.com/album/5lI5bQFhbTu0sY1Zl7EX3N) | 4:26 |
 | 11 | [Better Is One Day / Facedown \- Live](https://open.spotify.com/track/7bulJSqaL4Rbyzrk6bjJqq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Better Is One Day / Facedown \(Live\)](https://open.spotify.com/album/45OF5kJi8PUdrv4zE1MmBC) | 7:09 |

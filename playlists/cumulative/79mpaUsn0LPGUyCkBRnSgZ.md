@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-677 songs - 1 day 20 hr 13 min
+679 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Re\-Make/Re\-Model](https://open.spotify.com/track/6pUfi8uawZnCK2T0hatNwR) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music](https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3) | 5:14 | 2024-03-04 |  |
 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 | 2023-05-06 | 2023-05-11 |
 | [Ready Lets Go](https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:59 | 2022-05-28 | 2024-01-10 |
+| [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 | 2024-06-06 |  |
 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 | 2024-03-22 |  |
 | [recognized](https://open.spotify.com/track/4sriGuSuKyc8mmcoWaNO2b) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 1:02 | 2023-04-19 | 2024-01-02 |
 | [Red Rain \- 2012 Remaster](https://open.spotify.com/track/3ixUQ3Wt5B6iIkY6zWhRMY) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:40 | 2024-01-08 |  |
@@ -513,6 +514,7 @@
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2024-02-23 |  |
 | [Shame On You](https://open.spotify.com/track/1FluLlYLGRBXRgLcv1Utlq) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Shaming Of The Sun](https://open.spotify.com/album/3oD7PqxjEBSzc7qE2xJteU) | 4:00 | 2023-10-01 |  |
 | [Shepherd’s Welcome](https://open.spotify.com/track/5imF1gGEUJ4Ub8FrDKDW3Y) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 2:22 | 2024-01-19 |  |
+| [She’s Expecting You \(feat\. Phylicia Rashad\)](https://open.spotify.com/track/7Epbvcmjoh3CCOP5RtSVI3) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Phylicia Rashad](https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 1:08 | 2024-06-06 |  |
 | [Showrooms](https://open.spotify.com/track/0k2y3MveQl3daR9d21R3qO) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Sam Prekop](https://open.spotify.com/album/5clbSCoEBQwvwnByDJ2Z8D) | 4:21 | 2022-07-31 |  |
 | [Side A \[Old\]](https://open.spotify.com/track/4YN0Su0hKKxxfzzv431n4Y) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 2:23 | 2023-11-17 | 2024-03-16 |
 | [Sign O' The Times \- 2020 Remaster](https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 4:56 | 2021-12-30 |  |

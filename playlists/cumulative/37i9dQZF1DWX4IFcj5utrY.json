@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX?si=Oz5Qj_hrQQynmCH8c7sGrQ\">Shimza</a>, <a href=\"https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP?si=xVUBPoEhR1a74PeQTVed_A\">Rachel Chinouriri</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp?si=ktsc9KKtS_OwNWoCAdBWRA\">M\u00d6RDA</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298469,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
+    },
+    {
+      "album": {
         "name": "ZEBRA",
         "url": "https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ"
       },
@@ -4396,7 +4414,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 216400,
       "name": "Costa",
       "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
@@ -4684,6 +4702,40 @@
       "duration_ms": 458780,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/0Hlzlg3TB4AS8sGJM5JqW6"
+    },
+    {
+      "album": {
+        "name": "Hamba Nathi",
+        "url": "https://open.spotify.com/album/10kJBZaNNKrl8G8W5vVq6V"
+      },
+      "artists": [
+        {
+          "name": "JL SA",
+          "url": "https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL"
+        },
+        {
+          "name": "KAYMOR",
+          "url": "https://open.spotify.com/artist/2Z5moPWhn0kEREWxFMFkkZ"
+        },
+        {
+          "name": "Aymor SA",
+          "url": "https://open.spotify.com/artist/2sNNTm7gKUshESpxjxAHZd"
+        },
+        {
+          "name": "Magistics SA",
+          "url": "https://open.spotify.com/artist/39SJY7Bb3WhTFX0H1FbGMO"
+        },
+        {
+          "name": "Msongi",
+          "url": "https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462857,
+      "name": "Darli (feat. KAYMOR, Aymor SA, Magistics SA & Msongi)",
+      "url": "https://open.spotify.com/track/4NXKijcaXy3NmvQNOAwmyZ"
     },
     {
       "album": {
@@ -6071,6 +6123,32 @@
     },
     {
       "album": {
+        "name": "CR4ZY!!..",
+        "url": "https://open.spotify.com/album/2PpDtJy9LWxdeP9s3jiAAP"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Kwamzy",
+          "url": "https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333352,
+      "name": "F33L1NG G\u00d6OD",
+      "url": "https://open.spotify.com/track/4BqQz2hmIC9sxHC1I9iDYk"
+    },
+    {
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/2FLKGWnx2m0T0MUDUfZDku"
       },
@@ -6526,6 +6604,28 @@
       "duration_ms": 188891,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
+    },
+    {
+      "album": {
+        "name": "Finally Here",
+        "url": "https://open.spotify.com/album/3STsbNcmWfVlvsBFDRhj3h"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211062,
+      "name": "Finally Here",
+      "url": "https://open.spotify.com/track/6ANENgseDtE4Nb6Yvg1MmD"
     },
     {
       "album": {
@@ -7596,7 +7696,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 322000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1SIJCvshI9ZRrj1mgLooHM"
@@ -7648,7 +7748,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 222769,
       "name": "Hey Hey - Da Capo & Kitty Amor Remix",
       "url": "https://open.spotify.com/track/6vQAEYaF1CTSPMlhZsyWCe"
@@ -8010,7 +8110,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 336657,
       "name": "Horns In The Sun - Thakzin Remix",
       "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
@@ -9876,6 +9976,32 @@
       "duration_ms": 450437,
       "name": "iVolovolo",
       "url": "https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM"
+    },
+    {
+      "album": {
+        "name": "Iza Ngamandla",
+        "url": "https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/0tksdg0RgrQNB31VfF8m1T"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359218,
+      "name": "Iza Ngamandla",
+      "url": "https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom"
     },
     {
       "album": {
@@ -12334,6 +12460,48 @@
       "duration_ms": 383225,
       "name": "Mangalam",
       "url": "https://open.spotify.com/track/4y2o3XahngmyJ3clWCxLAB"
+    },
+    {
+      "album": {
+        "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo) [Edit]",
+        "url": "https://open.spotify.com/album/2cdf1yQGKMbpgOcKmRIIaI"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Silas Africa",
+          "url": "https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208152,
+      "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo) - Edit",
+      "url": "https://open.spotify.com/track/1eLmNFlt2oupiPivtzZyd7"
     },
     {
       "album": {
@@ -20459,6 +20627,28 @@
     },
     {
       "album": {
+        "name": "Ukuphila",
+        "url": "https://open.spotify.com/album/4zmTPUF2YY0HU9o2aWyRJZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403204,
+      "name": "Ukuphila",
+      "url": "https://open.spotify.com/track/0ChwRPTttJg4CIrYPwyk4J"
+    },
+    {
+      "album": {
         "name": "Respect The Drumboss (3 Step Edition)",
         "url": "https://open.spotify.com/album/1gYcrQzMkSsXhmJpo7Z8eX"
       },
@@ -20648,7 +20838,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 272005,
       "name": "Umoya - Radio Edit",
       "url": "https://open.spotify.com/track/6UMJCyLYHXy1JjDNgqtTB0"
@@ -22564,7 +22754,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 420229,
       "name": "Yes God - M\u00f6rda, Thakzin, Mhaw Keys Remix",
       "url": "https://open.spotify.com/track/0WPY91ucbS7OnJpo1x4smF"

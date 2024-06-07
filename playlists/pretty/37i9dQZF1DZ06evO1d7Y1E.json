@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 111415,
+  "description": "This is Mc Poze do Rodo. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 111431,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAADVPaWXYwUMilw3P+pcf6rI",
+  "snapshot_id": "Zl+qgAAAAAComK4bD4FQT4ml3NXjYoIk",
   "tracks": [
     {
       "added_at": null,
@@ -1083,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cria do Rio",
-        "url": "https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 106784,
-      "name": "Cria do Rio",
-      "url": "https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
         "url": "https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 122070,
       "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
       "url": "https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cria do Rio",
+        "url": "https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 106784,
+      "name": "Cria do Rio",
+      "url": "https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV"
     },
     {
       "added_at": null,

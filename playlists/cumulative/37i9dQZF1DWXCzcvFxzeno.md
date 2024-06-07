@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈 Cover: Sara Landry
 
-116 songs - 9 hr 39 min
+117 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 |  |
 | [Bounce Back](https://open.spotify.com/track/3H470QOFLgh6CuUj7CuhAL) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back](https://open.spotify.com/album/4XAscsjKLpfUBzzTWXAe9o) | 5:24 | 2024-04-09 |  |
 | [Break 42 \- Original Mix](https://open.spotify.com/track/4J0937OJLtaj7atAcOEMZy) | [URI](https://open.spotify.com/artist/7gGrcuMxnavGamcBRvhEXM) | [COLOR VA02](https://open.spotify.com/album/5hprpC8cms818kVtMFFZJv) | 5:58 | 2024-04-09 | 2024-05-26 |
-| [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 | 2024-04-09 |  |
+| [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 | 2024-04-09 | 2024-06-07 |
 | [Bring That Beat \- Alex Farell Remix](https://open.spotify.com/track/4oTZOE3rVPsRYQJqSva4e9) | [VENTUR](https://open.spotify.com/artist/0Qo40DtODOjvhsRwwsbtHt), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Set in Motion](https://open.spotify.com/album/2lzahzr7uYUFGP54JAFvP8) | 5:27 | 2024-04-09 |  |
 | [Bunker Buster](https://open.spotify.com/track/4lJBjtEABOhrdv7NzBD0KW) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Bunker Buster](https://open.spotify.com/album/6Oqnh7JGRs89dUzdPBE1nY) | 5:43 | 2024-04-09 |  |
 | [Burn](https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [R005](https://open.spotify.com/album/7AeBk55EN88Zujns38BDTO) | 4:42 | 2024-04-09 |  |
@@ -66,8 +66,9 @@
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-14 |
 | [Les kassos](https://open.spotify.com/track/58JZ6rp2DWa5HbKwhneAs3) | [Darktek](https://open.spotify.com/artist/6KjX86OwTOcAlbcVNVcjsh) | [Fuck Off](https://open.spotify.com/album/2X2NdphQiFadhokXq1VqdK) | 4:07 | 2024-04-09 | 2024-05-03 |
+| [Limbo](https://open.spotify.com/track/1X1FUGCW2OWcjFRwfL9G56) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Limbo](https://open.spotify.com/album/438pm70Wvf2G88ZnI9C7Zl) | 4:52 | 2024-06-06 |  |
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 |  |
-| [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 |  |
+| [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-07 |
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 |  |
 | [Maxillary](https://open.spotify.com/track/5AmuUxZMohX4OID3qErMhM) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Maxillary Marble](https://open.spotify.com/album/3Hn6c5CEHBiaWbeGQ75xuX) | 4:08 | 2024-04-09 |  |
 | [Meet Her At The Love Parade \- Mixed Cut](https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [OneSeventy: The Annual II](https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev) | 2:44 | 2024-04-09 |  |
@@ -121,7 +122,7 @@
 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 | 2024-04-09 |  |
 | [Welcome Back Devil](https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Welcome Back Devil](https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz) | 5:20 | 2024-04-09 |  |
 | [Welcome To London](https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Welcome To London](https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9) | 6:55 | 2024-04-09 |  |
-| [XTC](https://open.spotify.com/track/5EwP2h6i4N5durNel1b5Qw) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [GLØCK](https://open.spotify.com/artist/5ogsJfXsVSStkB58OGqXPG) | [Dier van de Nacht](https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG) | 3:12 | 2024-05-22 | 2024-06-01 |
+| [XTC](https://open.spotify.com/track/5EwP2h6i4N5durNel1b5Qw) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [GLØCK](https://open.spotify.com/artist/5ogsJfXsVSStkB58OGqXPG) | [Dier van de Nacht](https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG) | 3:12 | 2024-05-22 |  |
 | [XTC Love](https://open.spotify.com/track/46oG3q3ZvNvEWQOPJcs8Oh) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [JSTN](https://open.spotify.com/artist/6eGp2AIQ3TjdRZ7uxdbaY2) | [For your mind](https://open.spotify.com/album/3BwnFfvOQKkIVvRw0BlwsG) | 4:48 | 2024-04-09 |  |
 | [You Make Me Horny](https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv) | 4:54 | 2024-04-09 |  |
 

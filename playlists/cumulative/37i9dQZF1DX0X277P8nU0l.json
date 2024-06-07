@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/0P7cErslcEg7iVE9JAuIN6"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153460,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/6kF1F75VCOHGQoJV7j5pAf"
+    },
+    {
+      "album": {
         "name": "Bones Shake",
         "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
@@ -1135,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0HDUQhPXnunzwvqAmDpznE"
+    },
+    {
+      "album": {
         "name": "Close to Your Heart",
         "url": "https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp"
       },
@@ -1324,7 +1368,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 170356,
       "name": "Fire Escapes",
       "url": "https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS"
@@ -1827,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "Home - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144413,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI"
+    },
+    {
+      "album": {
         "name": "Honey Pot",
         "url": "https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z"
       },
@@ -1958,7 +2024,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 214088,
       "name": "Imaan",
       "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
@@ -2504,7 +2570,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 205746,
       "name": "Lost Child",
       "url": "https://open.spotify.com/track/7m3udQwhLzQWQBX0EazrRY"
@@ -2806,7 +2872,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 172080,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/1eTaEGlZoe2N4B7nfsYbHW"
@@ -3168,6 +3234,28 @@
       "duration_ms": 224302,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD"
+    },
+    {
+      "album": {
+        "name": "Reminds Me of Us",
+        "url": "https://open.spotify.com/album/5Gjdbi4VdIb3IcctyUAPPD"
+      },
+      "artists": [
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        },
+        {
+          "name": "Davis Naish",
+          "url": "https://open.spotify.com/artist/1rcqpe7jZB4NdUpyRq8im9"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260217,
+      "name": "Reminds Me of Us",
+      "url": "https://open.spotify.com/track/6CsCSKTczSZPLvryoKpoLT"
     },
     {
       "album": {

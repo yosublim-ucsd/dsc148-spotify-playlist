@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-351 songs - 22 hr 56 min
+352 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Fester](https://open.spotify.com/track/5zJ2umLMvMqKhtxDqCwMxY) | [Gravedweller](https://open.spotify.com/artist/3TB2BAG8xnarUNFNGLG4RX) | [Gravedweller](https://open.spotify.com/album/4jKTbEe9CxBrWU38GZEinZ) | 3:05 | 2022-10-23 | 2022-11-01 |
 | [Fire Coming out of the Monkey's Head](https://open.spotify.com/track/1S9tfxdFr4TqoqA14gnKj3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:19 | 2023-10-30 | 2023-11-04 |
 | [Fire Leap](https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ), [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Fire Leap](https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr) | 2:51 | 2023-09-29 | 2024-06-02 |
+| [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-01 |  |
 | [flashlight](https://open.spotify.com/track/7IDRXVRJDWg2Y1gUz11VS6) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [flashlight](https://open.spotify.com/album/0d0sW4cetIRnwF4yACl9mu) | 3:05 | 2021-11-01 | 2022-09-15 |
 | [Flood](https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 2:57 | 2021-11-01 | 2023-04-29 |
 | [Flood](https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:57 | 2023-03-22 | 2024-04-19 |
@@ -173,7 +174,7 @@
 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2023-10-30 | 2023-11-04 |
 | [Mastermind Specialism](https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 4:41 | 2024-06-01 |  |
 | [May I Comply](https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [May I Comply](https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c) | 4:00 | 2024-06-01 |  |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-25 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-25 | 2024-06-07 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-03 | 2024-04-19 |
 | [Messing](https://open.spotify.com/track/2wloteObIm2R5HC1zgijBI) | [Hussy](https://open.spotify.com/artist/6GlHnc09wnTmBC43d5NtL8) | [Hussy](https://open.spotify.com/album/19oTVM7p7W8JA53RL6p8gL) | 3:29 | 2021-11-01 | 2022-09-15 |
 | [Milky](https://open.spotify.com/track/6SSApQjEIaX0xy8fF9nzjf) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/5wQpv9txTYej5QleKS8ImH) | 4:01 | 2022-11-01 | 2023-10-30 |

@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Holly
 
-124 songs - 7 hr 3 min
+125 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Going Out To The Ravers \(feat\. Everyone You Know\)](https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 3:09 | 2024-01-26 |  |
 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 | 2023-12-01 |  |
 | [Heard It Like This](https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Heard It Like This](https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9) | 3:40 | 2023-12-01 |  |
+| [Heavyweight](https://open.spotify.com/track/3v5zBPtf296IiVc1uiv5No) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Heavyweight](https://open.spotify.com/album/54iIrG2X8bkCYPyl9n1vCM) | 2:28 | 2024-06-06 |  |
 | [HI\-TECH](https://open.spotify.com/track/1HCR9P0ZqA91ylnfJiT4c2) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [HI\-TECH](https://open.spotify.com/album/2cwfGnDOTg6CjVCkwOHGkH) | 2:48 | 2023-12-01 |  |
 | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO) | 2:53 | 2023-12-01 | 2024-02-17 |
 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 | 2023-12-01 | 2024-02-27 |

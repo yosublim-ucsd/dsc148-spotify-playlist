@@ -499,6 +499,44 @@
     },
     {
       "album": {
+        "name": "Chot Dil Pe Lagi (From \"Ishq Vishk Rebound\")",
+        "url": "https://open.spotify.com/album/7lC5lI4cWHBcF5cNQkLoAT"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285641,
+      "name": "Chot Dil Pe Lagi (From \"Ishq Vishk Rebound\")",
+      "url": "https://open.spotify.com/track/0DbhhWqPrxtNKTV7ALB17s"
+    },
+    {
+      "album": {
         "name": "Chura Ke Dil Mera (From \"Hungama 2\")",
         "url": "https://open.spotify.com/album/3XaG6643y3npUx6Dp7WGtY"
       },
@@ -2170,7 +2208,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 322442,
       "name": "Mirchi Lagi Toh (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/46HqZTCD7Wqd0Q95iuuHmt"
@@ -2516,7 +2554,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 199824,
       "name": "Pari Hoon Main (From \"Thank You For Coming\")",
       "url": "https://open.spotify.com/track/6ENW5H0OaRbNDESsXljuOb"

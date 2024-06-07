@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1165789,
+  "num_followers": 1165756,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -411,30 +411,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb",
-          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
-        },
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 266894,
       "name": "Highway Blood",
       "url": "https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Chaney",
-          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Joy Alchemy",
         "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Northern Winds (Live at the Elmwood Hall)",
-        "url": "https://open.spotify.com/album/62xX4MkPWcOc0bNTtutJLZ"
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
       },
       "artists": [
         {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+          "name": "Olivia Chaney",
+          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Northern Winds - Live at the Elmwood Hall",
-      "url": "https://open.spotify.com/track/0Prb5h6luP4VKhudkrMPFy"
+      "duration_ms": 243026,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 195880,
       "name": "Note to Self",
       "url": "https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Northern Winds (Live at the Elmwood Hall)",
+        "url": "https://open.spotify.com/album/62xX4MkPWcOc0bNTtutJLZ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Northern Winds - Live at the Elmwood Hall",
+      "url": "https://open.spotify.com/track/0Prb5h6luP4VKhudkrMPFy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "All the Things That I Did and All the Things That I Didn't Do",
-        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Mourning in America",
-      "url": "https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 158306,
       "name": "Jealous Sun",
       "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "All the Things That I Did and All the Things That I Didn't Do",
+        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Mourning in America",
+      "url": "https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN"
     },
     {
       "added_at": "2023-10-27 04:00:00",

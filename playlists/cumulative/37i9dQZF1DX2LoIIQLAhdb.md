@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Dadju x Tayc
+> Le R&B français, nouvelle ère\. Photo : JEY BROWNIE
 
-305 songs - 14 hr 38 min
+308 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bunker 09](https://open.spotify.com/track/4t7KDvE1AO02Jr0uDIJYY6) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl) | [Bunker 09](https://open.spotify.com/album/12PLqI9BiLCPlLihhoEExV) | 3:12 | 2023-08-24 | 2023-09-15 |
 | [C'EST MORT](https://open.spotify.com/track/0hkpgumskhGjYvdQ21jS9b) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [CATTLEYA](https://open.spotify.com/album/3yPzQIfc6dj1NQWNYLYHGn) | 3:11 | 2024-04-18 |  |
 | [C'est toi \- Bonus](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi \(Bonus\)](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 | 2023-07-20 | 2023-11-17 |
-| [Canada Goose](https://open.spotify.com/track/47YYZxJqZsXptKLkrSETBN) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Canada Goose](https://open.spotify.com/album/562Ms3NgGRawf5rRcxrwAv) | 3:12 | 2024-05-02 |  |
+| [Canada Goose](https://open.spotify.com/track/47YYZxJqZsXptKLkrSETBN) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Canada Goose](https://open.spotify.com/album/562Ms3NgGRawf5rRcxrwAv) | 3:12 | 2024-05-02 | 2024-06-07 |
 | [Candy](https://open.spotify.com/track/0U8PAXrNktnPR0aQEmfV5P) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Candy](https://open.spotify.com/album/75Q2UhYj53Mjqc7DXeGEY3) | 2:32 | 2024-02-08 | 2024-05-10 |
 | [Cardio](https://open.spotify.com/track/31L0exaoUdAnzx9emY9zYU) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [Cardio](https://open.spotify.com/album/4oVJWi6TrzezKEUJC32gBM) | 2:34 | 2023-11-09 | 2023-12-01 |
 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 | 2023-01-12 | 2024-01-12 |
@@ -118,6 +118,7 @@
 | [Hennessy](https://open.spotify.com/track/1y0U1pZhkayeBRViBcf5zu) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Hennessy](https://open.spotify.com/album/08LXWKg1nMXfio7jtcK0jD) | 2:22 | 2023-04-13 | 2023-06-09 |
 | [Henny](https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Henny](https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R) | 2:29 | 2023-06-29 | 2023-09-01 |
 | [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-10-26 | 2023-12-01 |
+| [Hypnotic](https://open.spotify.com/track/7fye5mKD8gNSaM3G1IM0Kj) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Mélodie céleste](https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c) | 3:19 | 2024-06-06 |  |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 | 2023-12-08 | 2024-05-10 |
 | [Imagine](https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J) | [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [Imagine](https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN) | 2:03 | 2022-12-15 | 2023-01-27 |
 | [Insomnie](https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Plus Comme Avant \(Réedition\)](https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy) | 3:04 | 2023-12-08 | 2024-04-05 |
@@ -184,7 +185,7 @@
 | [Manipuler](https://open.spotify.com/track/0cyOhlRd9F8PHyqHEKeiTg) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Manipuler](https://open.spotify.com/album/56QZ4sVP7l63GykMdGp9wh) | 2:36 | 2023-12-15 | 2024-01-26 |
 | [Mauvais garçon](https://open.spotify.com/track/46N4tFPQSCIjEohElQWrJC) | [Wensly](https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV) | [Mauvais garçon](https://open.spotify.com/album/1ZA1hPGaEm7bbUVt6oDOYQ) | 2:01 | 2023-11-30 | 2023-12-15 |
 | [Maux de tête](https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y) | 2:50 | 2022-11-24 | 2022-12-16 |
-| [Mayday](https://open.spotify.com/track/50SWP0R1mLdWfCwPaZP8JB) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:51 | 2024-05-02 |  |
+| [Mayday](https://open.spotify.com/track/50SWP0R1mLdWfCwPaZP8JB) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:51 | 2024-05-02 | 2024-06-07 |
 | [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 | 2024-04-11 | 2024-05-24 |
 | [Mi amor](https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [PERLE NOIRE](https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h) | 2:33 | 2022-11-24 | 2023-01-20 |
 | [Million](https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama](https://open.spotify.com/album/34UNcJ8FrAvdViz1AzSvyE) | 2:50 | 2022-11-24 | 2022-12-16 |
@@ -233,7 +234,7 @@
 | [Plan séquence](https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Plan séquence](https://open.spotify.com/album/7I8s09xLqtaNMjN3RGTX8q) | 2:49 | 2022-11-24 | 2023-01-27 |
 | [Plus fort](https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl), [Joé Dwèt Filé](https://open.spotify.com/artist/5ndUyzzVSnOtUYoBsI1m5v) | [Plus fort](https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk) | 2:56 | 2023-09-14 | 2023-12-15 |
 | [Plus jamais](https://open.spotify.com/track/0ppnuARg9o6Alh2QLXHZse) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Plus jamais](https://open.spotify.com/album/1ThA5Ig20ituoUdDKjsi7v) | 2:40 | 2023-10-26 | 2023-12-30 |
-| [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-02-29 |  |
+| [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-02-29 | 2024-06-07 |
 | [Pour nous](https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Pour nous](https://open.spotify.com/album/51rumLSZOQswEty93fSey3) | 2:47 | 2023-07-20 | 2023-10-27 |
 | [Pourquoi](https://open.spotify.com/track/1ivRvCyLMNSWuVZ25a9rf6) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP) | [Pourquoi](https://open.spotify.com/album/2OPzyKmOwQErxw9sxWXbLd) | 2:41 | 2023-10-26 | 2023-12-15 |
 | [Pourquoi pas](https://open.spotify.com/track/1X0N8oqu5d6K7gTxdPwIBO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 3:21 | 2022-11-24 | 2023-05-26 |
@@ -264,11 +265,13 @@
 | [SEULE \(AGAIN\)](https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 2:58 | 2024-03-14 | 2024-04-26 |
 | [Seum](https://open.spotify.com/track/0MeCUpsImEB7mLBL8hk0eX) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Seum](https://open.spotify.com/album/2orVxRM5tcGJq1SrcAcM6c) | 2:37 | 2023-03-23 | 2023-04-07 |
 | [Sexy Chuchu](https://open.spotify.com/track/1kEAnO1Mqg1uw8XajyMAO8) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn) | [Sexy Chuchu](https://open.spotify.com/album/6E0qbXofLb9FPZB8h4LxZx) | 2:15 | 2023-04-13 | 2023-05-12 |
+| [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 | 2024-06-06 |  |
 | [si j'avais pu](https://open.spotify.com/track/6XLdsbYjkONIN6TAt8s7yS) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [si j'avais pu](https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P) | 2:26 | 2024-01-18 | 2024-03-01 |
 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 | 2024-01-25 |  |
 | [Sincère](https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Sincère](https://open.spotify.com/album/26pCaPdLzIo7Sa02oGA7tQ) | 2:21 | 2024-02-15 |  |
 | [Soeurcière](https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7) | [Djena Della](https://open.spotify.com/artist/3NwVTaECP58CZdzeXMPYVc) | [Soeurcière](https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b) | 2:33 | 2023-03-30 | 2023-04-28 |
 | [SOLD OUT !](https://open.spotify.com/track/5xxfiqrm3wj6h8GYS3Hwkb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:03 | 2024-02-15 |  |
+| [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 | 2024-06-06 |  |
 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 | 2022-11-24 | 2023-05-26 |
 | [SOS](https://open.spotify.com/track/51rmQPxpkfDxyhz44KtCvY) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [SOS](https://open.spotify.com/album/52xFZbg2Fsvn1s6AjpJIjb) | 2:52 | 2024-03-07 | 2024-04-12 |
 | [Souvenirs](https://open.spotify.com/track/39S74tThedRDddGIRPKtfC) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 3:10 | 2023-02-23 | 2023-04-28 |

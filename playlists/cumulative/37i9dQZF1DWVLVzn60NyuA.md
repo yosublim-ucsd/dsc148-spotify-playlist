@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-473 songs - 1 day 1 hr 3 min
+474 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [I.L.Y](https://open.spotify.com/track/37Sw3UuUzxK5iqbDfao6Df) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [I.L.Y](https://open.spotify.com/album/6n6czlJGJOEXP4BC2CRPXh) | 4:05 | 2022-02-03 | 2022-04-21 |
 | [If](https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:57 | 2021-12-16 | 2022-06-10 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2023-02-28 |  |
-| [Imaranma](https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Imaranma](https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq) | 3:22 | 2024-04-04 |  |
+| [Imaranma](https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Imaranma](https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq) | 3:22 | 2024-04-04 | 2024-06-07 |
 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 | 2021-12-16 |  |
 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m) | 3:50 | 2022-12-14 | 2024-03-26 |
 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/5gCImzpv57IJp9oEFrCKQf) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/33poJ8nmV0JbkmgmzTL6sC) | 3:50 | 2021-12-16 | 2022-12-02 |
@@ -233,7 +233,7 @@
 | [Le temps](https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \(Donum Novae\)](https://open.spotify.com/album/1wfBteislDojq5pAYJufME) | 3:17 | 2021-12-16 |  |
 | [Le temps](https://open.spotify.com/track/7cWMBl60RTYwRq0qbK5QU2) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 3:17 | 2023-03-23 | 2023-03-29 |
 | [Leader](https://open.spotify.com/track/7sxlE9aBtkKW5jQeu6gM84) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [Leader \- Single](https://open.spotify.com/album/1ukTj05773QcCG0pGuCzKl) | 3:16 | 2021-12-16 | 2022-04-15 |
-| [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2023-03-02 |  |
+| [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2023-03-02 | 2024-06-07 |
 | [Leg Over](https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life Is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ) | 3:17 | 2021-12-16 | 2022-05-12 |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 |  |
 | [Life Is Better Now](https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 | 2023-09-07 |  |
@@ -377,6 +377,7 @@
 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-03 | 2023-01-01 |
 | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 | 2024-03-07 | 2024-04-19 |
 | [Slim Daddy](https://open.spotify.com/track/3AYiqkfWxAPkyan6XDZ6jL) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Slim Daddy](https://open.spotify.com/album/2y2i63YeYWUNbDx1cn1Y4z) | 2:35 | 2021-12-16 | 2022-10-14 |
+| [Slow Walk](https://open.spotify.com/track/6NJtWMRI65lSmHy9xC7nnj) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Slow Walk](https://open.spotify.com/album/7tos8i0MrSY7MyQCZExduc) | 2:41 | 2024-06-06 |  |
 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 | 2022-12-14 |  |
 | [So Distant \(feat\. Tayc\)](https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [So Distant \(feat\. Tayc\)](https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA) | 2:54 | 2022-08-25 |  |
 | [So Nice](https://open.spotify.com/track/1lCc5XcnnKHsSaCKDngvM4) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [So Nice](https://open.spotify.com/album/0qs22OFmWqKIwhmicG4uNc) | 2:36 | 2022-05-19 | 2023-04-07 |

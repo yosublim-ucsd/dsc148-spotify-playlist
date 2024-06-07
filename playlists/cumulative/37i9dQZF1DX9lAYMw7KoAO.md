@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz?si=hZ0DOQA0Qh2kWiUSwFo\-hA">Team Eternity Ghana</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=J8DX32QbTSKCItu4mV40xQ">Sinmidele</a>
 
 424 songs - 1 day 12 hr 52 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. waterparks",
+  "description": "it's a generation \u26d3 ft. royal & the serpent ",
   "name": "The Locker",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 166522,
       "name": "2 of us",
       "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 188895,
       "name": "AI (Save Yourself)",
       "url": "https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 163519,
       "name": "Airhead",
       "url": "https://open.spotify.com/track/5inDa524Pc1x4NJmyrZ5pp"
@@ -638,6 +638,28 @@
       "duration_ms": 195686,
       "name": "ALEXITHYMIA",
       "url": "https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7HQ2OnX7zfSVSSVPKLYA9N"
+      },
+      "artists": [
+        {
+          "name": "CORRO",
+          "url": "https://open.spotify.com/artist/17iFm03VvnYngLygkIuZwy"
+        },
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170823,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0mxI2Q9O6Dm1nHo8E8F7fk"
     },
     {
       "album": {
@@ -786,6 +808,24 @@
       "duration_ms": 140693,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG"
+    },
+    {
+      "album": {
+        "name": "RAT TRAP 5: the beginning",
+        "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178260,
+      "name": "American Spirit",
+      "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
     },
     {
       "album": {
@@ -970,6 +1010,24 @@
       "duration_ms": 151000,
       "name": "ATOM BOMB",
       "url": "https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz"
+    },
+    {
+      "album": {
+        "name": "B.I.L.L.S.",
+        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134920,
+      "name": "B.I.L.L.S.",
+      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
     },
     {
       "album": {
@@ -1714,6 +1772,24 @@
       "duration_ms": 167613,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs"
+    },
+    {
+      "album": {
+        "name": "Boyfeel",
+        "url": "https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149483,
+      "name": "Boyfeel",
+      "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
     },
     {
       "album": {
@@ -2628,6 +2704,24 @@
       "duration_ms": 132371,
       "name": "congratulations",
       "url": "https://open.spotify.com/track/2ad0hTq75JpcB4JzmZPCbC"
+    },
+    {
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/1iSgUsRxUSl9JTBw6kFS8g"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/61c8JdniIlDW7tJZGoZoMe"
     },
     {
       "album": {
@@ -3722,7 +3816,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 121533,
       "name": "Drain Me!",
       "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
@@ -5902,7 +5996,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 194039,
       "name": "Holy Smokes",
       "url": "https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd"
@@ -6282,6 +6376,24 @@
       "duration_ms": 164533,
       "name": "hurricane",
       "url": "https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec"
+    },
+    {
+      "album": {
+        "name": "HURRICANE",
+        "url": "https://open.spotify.com/album/2RQvJEIegkkUFtkCyapMwT"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159969,
+      "name": "HURRICANE",
+      "url": "https://open.spotify.com/track/49GAjso5aSfuMXltW7rEBI"
     },
     {
       "album": {
@@ -9200,7 +9312,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
@@ -9478,6 +9590,28 @@
       "duration_ms": 204800,
       "name": "Only This Could Happen To Me",
       "url": "https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU"
+    },
+    {
+      "album": {
+        "name": "Other Side (feat. Charlotte Sands)",
+        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Other Side (feat. Charlotte Sands)",
+      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
     },
     {
       "album": {
@@ -10498,7 +10632,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 186910,
       "name": "SCUMBAG",
       "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
@@ -13436,7 +13570,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 167386,
       "name": "umakemenotwannadie",
       "url": "https://open.spotify.com/track/5RlJOw0OQ3papYLfMeJFF0"
@@ -13858,7 +13992,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 228600,
       "name": "We Need More Bricks",
       "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
@@ -14108,6 +14242,24 @@
       "duration_ms": 166829,
       "name": "Wires Crossed",
       "url": "https://open.spotify.com/track/09ptkV4dUhzP9mAZP0QjvI"
+    },
+    {
+      "album": {
+        "name": "falling for robots & wishing i was one",
+        "url": "https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177691,
+      "name": "wish i was a robot",
+      "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
     },
     {
       "album": {

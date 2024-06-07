@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk?si=vG13OAToSjS0uck-599WaA\">Yanga Chief</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz?si=LL8Ok8uCS9SMSeTMKBleBA\">Espiquet</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 225226,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/4ijh3sciORErcse7mAkCYT"
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 93333,
       "name": "FALLEN ANGEL",
       "url": "https://open.spotify.com/track/3jmtqx0RMsxr2dctDPXeQH"
@@ -4570,7 +4570,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 187593,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/0S9oITZcpAPcBnaqCvqIWj"
@@ -4668,6 +4668,28 @@
       "duration_ms": 130957,
       "name": "FIND ME",
       "url": "https://open.spotify.com/track/2jqV4ATkjFNyLN2L5WtmUJ"
+    },
+    {
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
+      },
+      "artists": [
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        },
+        {
+          "name": "Young OG CPT",
+          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186263,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
     },
     {
       "album": {
@@ -5957,6 +5979,32 @@
     },
     {
       "album": {
+        "name": "HARDER",
+        "url": "https://open.spotify.com/album/6J1NN1s0f1qHMGw8BMcj6H"
+      },
+      "artists": [
+        {
+          "name": "Espiquet",
+          "url": "https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz"
+        },
+        {
+          "name": "Benlay",
+          "url": "https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4"
+        },
+        {
+          "name": "HYPE1108",
+          "url": "https://open.spotify.com/artist/5immINU629aU0BHwmiRnnV"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "HARDER",
+      "url": "https://open.spotify.com/track/5uS1m3Jn78w6l6eQZq6ZSx"
+    },
+    {
+      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/6KygVKYSbcIx9gwhz2e1DF"
       },
@@ -6052,7 +6100,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 108225,
       "name": "HERMOSA",
       "url": "https://open.spotify.com/track/2rngTjD3TltOi0Yoz9ZcEI"
@@ -7321,6 +7369,28 @@
     },
     {
       "album": {
+        "name": "Khumbula",
+        "url": "https://open.spotify.com/album/33klCEzOos3iL4aqMxv4sV"
+      },
+      "artists": [
+        {
+          "name": "Slim Ego",
+          "url": "https://open.spotify.com/artist/0rlp1RP8eTEd74FVmndZ47"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158020,
+      "name": "Khumbula",
+      "url": "https://open.spotify.com/track/2KHFOGvOICQylrjPHxqeGJ"
+    },
+    {
+      "album": {
         "name": "Khuphuka",
         "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
       },
@@ -7358,6 +7428,10 @@
         {
           "name": "Flow Jones Jr.",
           "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Glody Kasongo",
+          "url": "https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i"
         }
       ],
       "date_added": "2024-05-23",
@@ -7702,7 +7776,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 227996,
       "name": "Lahl Umlenze",
       "url": "https://open.spotify.com/track/6cEnft9iGNvKFakziTud1x"
@@ -8038,6 +8112,28 @@
       "duration_ms": 252435,
       "name": "Lick Back (Uh Huh Uh Huh) [feat. Wordz, Flow Jones Jr., 25K, Maglera Doe Boy]",
       "url": "https://open.spotify.com/track/3HxVTegEK7POrN3sFzSYX5"
+    },
+    {
+      "album": {
+        "name": "Life Isn't Fair",
+        "url": "https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1"
+      },
+      "artists": [
+        {
+          "name": "PatricKxxLee",
+          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
+        },
+        {
+          "name": "uSimamane",
+          "url": "https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Life Isn't Fair",
+      "url": "https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7"
     },
     {
       "album": {
@@ -8832,7 +8928,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 302200,
       "name": "Mbali Yam",
       "url": "https://open.spotify.com/track/5fWiKYLQw6EOC6TufyBNkU"
@@ -10192,7 +10288,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 212571,
       "name": "Ntwana Whateva",
       "url": "https://open.spotify.com/track/61VUTkpTNINznrTYbOGKZO"
@@ -11092,7 +11188,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 158117,
       "name": "Pride",
       "url": "https://open.spotify.com/track/00uAA4zq3d6sr4aC8AodXK"
@@ -12030,6 +12126,24 @@
       "duration_ms": 172678,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/6ioy9pHT4ZgmVTTtWgiXVS"
+    },
+    {
+      "album": {
+        "name": "Seams",
+        "url": "https://open.spotify.com/album/6whHGIqwgx1EAaIW46klh3"
+      },
+      "artists": [
+        {
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152105,
+      "name": "Seams",
+      "url": "https://open.spotify.com/track/4FbeVPzrurs677Tx1L3Rd2"
     },
     {
       "album": {
@@ -13957,6 +14071,24 @@
     },
     {
       "album": {
+        "name": "Tell - A - Friend",
+        "url": "https://open.spotify.com/album/1VWs9zCwd2bc5Wjxmkwddi"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tell - A - Friend",
+      "url": "https://open.spotify.com/track/27zfVARnin6yqIicq7C2cA"
+    },
+    {
+      "album": {
         "name": "The Age of Horus",
         "url": "https://open.spotify.com/album/35Gu8cxd5gD5NfHJnDwflt"
       },
@@ -14970,7 +15102,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 240000,
       "name": "TRUE STORY (feat. BELO SALO, VegasXCesar & SCUMIE)",
       "url": "https://open.spotify.com/track/3QRoINPUFJAa90tp4ba0JY"
@@ -15572,7 +15704,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 197333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6oNAJPsHAmMClZHwN74DrA"

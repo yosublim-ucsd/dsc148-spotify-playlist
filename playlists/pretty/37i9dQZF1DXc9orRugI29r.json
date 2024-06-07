@@ -1,67 +1,31 @@
 {
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 422163,
-  "original_name": "HOT NOW - Tokischa",
+  "num_followers": 422188,
+  "original_name": "HOT NOW - Christian Nodal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkTAAAAAADbRRTB6slq/EXVwjyfkFm+",
+  "snapshot_id": "ZmJNgAAAAADEAJ+F2Td65u510ROGd5wR",
   "tracks": [
     {
-      "added_at": "2024-05-31 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS"
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 171789,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z"
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
-      "album": {
-        "name": "Ride Or Die (with Villano Antillano)",
-        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "Ride Or Die (with Villano Antillano)",
-      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
-    },
-    {
-      "added_at": "2024-05-31 00:00:00",
-      "album": {
-        "name": "SI NO ES CONTIGO",
-        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SI NO ES CONTIGO",
-      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
-    },
-    {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "1 1 1",
         "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
@@ -81,7 +45,43 @@
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
+      "album": {
+        "name": "Ride Or Die (with Villano Antillano)",
+        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "Ride Or Die (with Villano Antillano)",
+      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
+    },
+    {
+      "added_at": "2024-06-07 00:00:00",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z"
+    },
+    {
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -101,7 +101,43 @@
       "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
     },
     {
-      "added_at": "2024-05-24 06:00:00",
+      "added_at": "2024-06-07 00:00:00",
+      "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "added_at": "2024-06-07 00:00:00",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
+    },
+    {
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "G Low Kitty (Remix)",
         "url": "https://open.spotify.com/album/5HdE72l91YCqPtlMx7YPHD"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Buenota",
         "url": "https://open.spotify.com/album/2W0eJfDSJg8zyNdahv6fvA"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/70cz2qgJTe1vKJwPHvEBAR"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Brinca - Spotify Singles",
         "url": "https://open.spotify.com/album/0yyEToTNjg7jnvLo10paCC"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
     },
     {
-      "added_at": "2024-05-31 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Touching The Sky",
         "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
@@ -193,7 +229,7 @@
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "pa quererte",
         "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
         "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
@@ -277,7 +313,7 @@
       "url": "https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Por las Noches (Remix)",
         "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
@@ -313,7 +349,7 @@
       "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "EVOLUXION",
         "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "fantasmas",
         "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
@@ -365,7 +401,7 @@
       "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -381,7 +417,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
@@ -401,7 +437,7 @@
       "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "curita",
         "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
@@ -437,7 +473,7 @@
       "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "\u00c9NFASIS",
         "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
@@ -457,7 +493,7 @@
       "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Endiamantado / Entre las de 20",
         "url": "https://open.spotify.com/album/7kzmadmAbWRPtLbpQveynY"
@@ -477,7 +513,7 @@
       "url": "https://open.spotify.com/track/73jUrU4QX6Xt2xQgyqttb4"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
@@ -497,7 +533,7 @@
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
     },
     {
-      "added_at": "2024-05-24 06:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -513,7 +549,7 @@
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "DISPARA ***",
         "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
@@ -533,23 +569,7 @@
       "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
-      "album": {
-        "name": "Mi Viejo (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
-        "url": "https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 303022,
-      "name": "Mi Viejo",
-      "url": "https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9"
-    },
-    {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "J\u00e1lale alv",
         "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Julietota",
         "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "EXCESO",
         "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
     },
     {
-      "added_at": "2024-05-31 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Memorias <3",
         "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Bad Boy! (feat. Kenia OS)",
         "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
     },
     {
-      "added_at": "2024-05-24 06:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Lismar: Bzrp Music Sessions, Vol. 60",
         "url": "https://open.spotify.com/album/2F27wEZD9UkLCllAk1Duh8"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/3lXq1YajbXv1UI1MoXW8JB"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "PUTAS Y MOET",
         "url": "https://open.spotify.com/album/5nozsQXTrTrKfRSVQYZBvZ"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/1y8Zz3ES0jCL0F6jOSUSoW"
     },
     {
-      "added_at": "2024-05-24 06:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "U R SUCH A LAME! (RMX)",
         "url": "https://open.spotify.com/album/0AzBQzdTwYYk9aHSqyffWT"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/5UWWDzGBAQgN3BIxh6ZFmX"
     },
     {
-      "added_at": "2024-05-24 06:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -941,23 +961,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-05-16 00:00:00",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 295870,
-      "name": "Training Season - Extended",
-      "url": "https://open.spotify.com/track/2FZwnQYXFyg6b5sCRHQ0fD"
-    },
-    {
-      "added_at": "2024-05-16 00:00:00",
+      "added_at": "2024-06-07 00:00:00",
       "album": {
         "name": "Teka (with Peso Pluma)",
         "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
@@ -977,6 +981,6 @@
       "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
     }
   ],
-  "unique_name": "HOT NOW - Tokischa",
+  "unique_name": "HOT NOW - Christian Nodal",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

@@ -852,7 +852,7 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
@@ -4760,7 +4760,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 178721,
       "name": "Lightning To Strike (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/7l0LomcCS4l0VIn34sBhdD"
@@ -8444,7 +8444,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 226875,
       "name": "Waste of Time",
       "url": "https://open.spotify.com/track/4lq3wubv9kXqwAOiO7jNON"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Giovanni Ti Amo in cover.",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. FASK in cover.",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 172967,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/0z5ccE3F37i4UuY3HFGkGy"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Bosco",
+        "url": "https://open.spotify.com/album/22RPcxDx6yZ46J0ehjXdVc"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Bosco",
+      "url": "https://open.spotify.com/track/4cm3I11ru6zfDGU1COPpq7"
+    },
+    {
+      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/2QMiSFZX3pqwkZkqy2Y5QT"
       },
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 256000,
       "name": "Bucaneve",
       "url": "https://open.spotify.com/track/5lFiVbg5X5k8wDMf6ts49g"
@@ -2048,6 +2066,24 @@
       "duration_ms": 200146,
       "name": "Buio",
       "url": "https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg"
+    },
+    {
+      "album": {
+        "name": "buio/luce",
+        "url": "https://open.spotify.com/album/21gbCfIeS5qpxTIa6vpbTn"
+      },
+      "artists": [
+        {
+          "name": "Martina",
+          "url": "https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "buio/luce",
+      "url": "https://open.spotify.com/track/5Igi6TYXJt8hrEenbqZtMT"
     },
     {
       "album": {
@@ -3039,6 +3075,24 @@
     },
     {
       "album": {
+        "name": "Chinaglia",
+        "url": "https://open.spotify.com/album/3q2fjUB20WvfjBSOOLwLtM"
+      },
+      "artists": [
+        {
+          "name": "Kinder Garden",
+          "url": "https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Chinaglia",
+      "url": "https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K"
+    },
+    {
+      "album": {
         "name": "Church Superdelay",
         "url": "https://open.spotify.com/album/6c0eppNsqdEk7pKEuoatuQ"
       },
@@ -3382,6 +3436,24 @@
       "duration_ms": 182930,
       "name": "Come mi vuoi",
       "url": "https://open.spotify.com/track/50Q4NLN9n0p5XF3VObLq9T"
+    },
+    {
+      "album": {
+        "name": "Come no",
+        "url": "https://open.spotify.com/album/2PjLX5cv86MOlpx7pI56gX"
+      },
+      "artists": [
+        {
+          "name": "Fast Animals and Slow Kids",
+          "url": "https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153730,
+      "name": "Come no",
+      "url": "https://open.spotify.com/track/10H2O7Rg5GdMjDXVcuxHXP"
     },
     {
       "album": {
@@ -3772,7 +3844,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 208358,
       "name": "Crispy",
       "url": "https://open.spotify.com/track/5qThAUaX5m9rxiCrYckogG"
@@ -4562,6 +4634,24 @@
       "duration_ms": 168946,
       "name": "Dune",
       "url": "https://open.spotify.com/track/6bOlLe6NO07yr6wZrLj0WJ"
+    },
+    {
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/4BW0fpc2h5ubUYFmDVHO6z"
+      },
+      "artists": [
+        {
+          "name": "MONT BAUD",
+          "url": "https://open.spotify.com/artist/4bYWdkHQupbHLOHyRNcBNC"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195629,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/7CkkEleKvPWD1pLHlBBZgM"
     },
     {
       "album": {
@@ -5895,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "BOOM!",
+        "url": "https://open.spotify.com/album/0Ne4vQ3lRUpF1KESNe52sh"
+      },
+      "artists": [
+        {
+          "name": "Zack",
+          "url": "https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154591,
+      "name": "FRATM",
+      "url": "https://open.spotify.com/track/5AkwdXb5L3A0gcSSCVHtnt"
+    },
+    {
+      "album": {
         "name": "Freakin'late",
         "url": "https://open.spotify.com/album/68X36QU0b3MRguamrJR5I3"
       },
@@ -6404,7 +6512,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 217757,
       "name": "God Don't Leave Me Alone",
       "url": "https://open.spotify.com/track/4hY0zYNaCIYvCm6f3QB6xQ"
@@ -6552,7 +6660,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 200640,
       "name": "Guarda questo sasso",
       "url": "https://open.spotify.com/track/76DDq16ZXis1X114sV44qY"
@@ -7393,6 +7501,24 @@
     },
     {
       "album": {
+        "name": "Societ\u00e0 Mentale",
+        "url": "https://open.spotify.com/album/7n3ppwZCqTQwa8nc2ZTfhd"
+      },
+      "artists": [
+        {
+          "name": "Festa del Perdono",
+          "url": "https://open.spotify.com/artist/15AGJcAFEtTvIp73fsbTzD"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142356,
+      "name": "Il Primo Freddo",
+      "url": "https://open.spotify.com/track/3KSYARLWXQUO6UcEtnOaFp"
+    },
+    {
+      "album": {
         "name": "Lunganotte",
         "url": "https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc"
       },
@@ -7812,7 +7938,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 175764,
       "name": "Janet",
       "url": "https://open.spotify.com/track/00GcrVTwAfARqdtRkK7tIH"
@@ -8431,6 +8557,24 @@
     },
     {
       "album": {
+        "name": "La forma mutevole della perfezione",
+        "url": "https://open.spotify.com/album/3ia1ux1iRA3LPjfUKNMScf"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6",
+          "url": "https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182399,
+      "name": "La forma mutevole della perfezione",
+      "url": "https://open.spotify.com/track/2A66Vkewxh46W3uCCN9XF9"
+    },
+    {
+      "album": {
         "name": "La musica \u00e8 finita",
         "url": "https://open.spotify.com/album/79iordJotLmxKPRHQTUU88"
       },
@@ -8662,7 +8806,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 233722,
       "name": "LATTE E MENTA",
       "url": "https://open.spotify.com/track/5jZJdjeCviovAgzJuJC5vc"
@@ -9055,6 +9199,24 @@
     },
     {
       "album": {
+        "name": "Lost in the Middle",
+        "url": "https://open.spotify.com/album/4kuQDddJTy6WpTrfAUH1jJ"
+      },
+      "artists": [
+        {
+          "name": "The Peawees",
+          "url": "https://open.spotify.com/artist/4VBH5wOuG96Gx97VGJh16p"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166306,
+      "name": "Lost In The Middle",
+      "url": "https://open.spotify.com/track/03KbVqtDoKQa42MOaJ86FU"
+    },
+    {
+      "album": {
         "name": "Lost In Translation",
         "url": "https://open.spotify.com/album/2nKEOPy3lV9DpUbSPytjt5"
       },
@@ -9386,6 +9548,24 @@
       "duration_ms": 252413,
       "name": "MAI FATTO 31",
       "url": "https://open.spotify.com/track/76iQhtyetBmpoRlCUDEmpH"
+    },
+    {
+      "album": {
+        "name": "Mai fermi",
+        "url": "https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Mai fermi",
+      "url": "https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj"
     },
     {
       "album": {
@@ -11588,7 +11768,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 188800,
       "name": "panfilo",
       "url": "https://open.spotify.com/track/7mblNJ7YP0qY9qRvcJX4ql"
@@ -13778,7 +13958,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 180250,
       "name": "Scemi e Contenti (feat. Vipra)",
       "url": "https://open.spotify.com/track/5dcPv75HyHNckrd7FWDNet"
@@ -13980,7 +14160,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 176000,
       "name": "sei mare",
       "url": "https://open.spotify.com/track/6k9kIVoWSqvX1fbRxC9u6O"
@@ -14900,6 +15080,24 @@
       "duration_ms": 184813,
       "name": "Stefano",
       "url": "https://open.spotify.com/track/4x2ujpyYo1aKwZY2VdY3i2"
+    },
+    {
+      "album": {
+        "name": "Stile Migliore",
+        "url": "https://open.spotify.com/album/5YvJAPYLx5piUvoxPc2DWf"
+      },
+      "artists": [
+        {
+          "name": "Pop V\u00e9ronique",
+          "url": "https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195740,
+      "name": "Stile Migliore",
+      "url": "https://open.spotify.com/track/29LfSdq1yEeQsl6183htYS"
     },
     {
       "album": {
@@ -17674,7 +17872,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 269042,
       "name": "Zoe's Seeds",
       "url": "https://open.spotify.com/track/6KEniNbXwhi54DmtJa8lwy"

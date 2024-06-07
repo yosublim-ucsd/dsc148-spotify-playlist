@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,713 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,728 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 50 | [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 |
 | 51 | [Poder Aquisitivo](https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB) | [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AnjO 005](https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3), [JIRAYA](https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ) | [Poder Aquisitivo](https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2) | 3:30 |
 
-Snapshot ID: `Zl5ZAAAAAABclWTiUYZTIsxEBYDf7zSq`
+Snapshot ID: `Zl+qgAAAAADjM4wYNzL0ONBwwUk9RKyZ`

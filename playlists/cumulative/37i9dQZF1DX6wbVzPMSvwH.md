@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-148 songs - 9 hr 14 min
+149 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Pesona \- Remastered](https://open.spotify.com/track/5iUrGfRTWwjm3eoNeblllJ) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Pesona \(Remastered 2022\)](https://open.spotify.com/album/56jtzPwaP66jzVleH9uGaP) | 3:37 | 2022-12-13 | 2023-11-16 |
 | [Pilihanku](https://open.spotify.com/track/3puYuuZ7lmlTjIgXBOT01k) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Mata Hati Telinga](https://open.spotify.com/album/1DynZXJq0QLlWT4LYLBDxC) | 3:26 | 2023-08-08 |  |
 | [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-12-13 | 2023-02-24 |
+| [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-06-06 |  |
 | [Ragu?](https://open.spotify.com/track/6oW5w1IAVnBrLA8uDes0Gl) | [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA) | [Ragu?](https://open.spotify.com/album/0U7CnDEqU7eVjqnAdq9gE0) | 3:19 | 2023-03-23 |  |
 | [Ragu?](https://open.spotify.com/track/68LuQlKVtKkILNcDJwqMPr) | [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA) | [Menjelang Tiga Puluh](https://open.spotify.com/album/1zIjdhnEbN0iI2unekxAPV) | 3:19 | 2023-10-19 | 2024-04-19 |
 | [Remaja](https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:38 | 2024-02-01 |  |

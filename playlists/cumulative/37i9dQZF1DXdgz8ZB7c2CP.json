@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/0hHEWnFgIpx0gov4RCIXjt"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180408,
+      "name": "3",
+      "url": "https://open.spotify.com/track/14Sx9jobXCdDXBlFYERMe3"
+    },
+    {
+      "album": {
         "name": "A Place Where Mountains Hide",
         "url": "https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS"
       },
@@ -300,6 +318,24 @@
       "duration_ms": 125016,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0xKcqGdFWwO9flQUL0s594"
+    },
+    {
+      "album": {
+        "name": "afterparty",
+        "url": "https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "afterparty",
+      "url": "https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven"
     },
     {
       "album": {
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 184919,
       "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
       "url": "https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr"
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 181384,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
@@ -1770,6 +1806,24 @@
       "duration_ms": 168545,
       "name": "BRING BACK THE COLOR (feat. AURORA)",
       "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
+    },
+    {
+      "album": {
+        "name": "Broke My Heart",
+        "url": "https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
     },
     {
       "album": {
@@ -2763,6 +2817,28 @@
     },
     {
       "album": {
+        "name": "CONTEXT",
+        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "CONTEXT",
+      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "album": {
         "name": "Context",
         "url": "https://open.spotify.com/album/4xQ4aw8SmHshUSTLYDsa9B"
       },
@@ -3203,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Del Oro",
+        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374122,
+      "name": "Del Oro",
+      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
       },
@@ -3458,6 +3552,24 @@
       "duration_ms": 210240,
       "name": "Don't Look Down (feat. BANKS) [Mild Minds Remix]",
       "url": "https://open.spotify.com/track/3U1ByFp5eJe0totLcFQvDi"
+    },
+    {
+      "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Don't Risk It",
+      "url": "https://open.spotify.com/track/2eO5PBPjJLW28WELR8JSbo"
     },
     {
       "album": {
@@ -4356,6 +4468,24 @@
       "duration_ms": 174926,
       "name": "Eyes Closed - Overmono Remix",
       "url": "https://open.spotify.com/track/0xlJ00P5pwPbzDYxsIGKZ4"
+    },
+    {
+      "album": {
+        "name": "Fake Like That",
+        "url": "https://open.spotify.com/album/4wWsCpPkGtcTCHsLL9VQmN"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163738,
+      "name": "Fake Like That",
+      "url": "https://open.spotify.com/track/0Zi7ROKAFzV5BMZvq0LmVd"
     },
     {
       "album": {
@@ -7139,6 +7269,28 @@
     },
     {
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe"
+    },
+    {
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/79Auh3T0by9E3ipmynBO2a"
       },
@@ -8160,7 +8312,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 117428,
       "name": "lonely again..",
       "url": "https://open.spotify.com/track/5l7cQdP4gwBdwIoW0VOg0B"
@@ -9364,7 +9516,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 206222,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5"
@@ -11568,7 +11720,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 219653,
       "name": "Set The Roof (Flux Pavilion Remix)",
       "url": "https://open.spotify.com/track/7AqsAzxoevATD63LEoeDoB"
@@ -12716,7 +12868,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 260470,
       "name": "Stop Thinking (feat. Lights) - MitiS Remix",
       "url": "https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q"
@@ -12872,7 +13024,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 195490,
       "name": "SUNBURN",
       "url": "https://open.spotify.com/track/0GfN2oP2ufeOHslw7wc4PD"
@@ -13058,6 +13210,36 @@
       "duration_ms": 123259,
       "name": "T0NITE",
       "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
+    },
+    {
+      "album": {
+        "name": "TAKA (Taiki Nulight Remix)",
+        "url": "https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "TAKA - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
     },
     {
       "album": {
@@ -13951,6 +14133,36 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/397SNGDnP4bMYwf9mB7k5f"
+      },
+      "artists": [
+        {
+          "name": "koicha",
+          "url": "https://open.spotify.com/artist/4sj3wGbQhfkdj6MGarRdtw"
+        },
+        {
+          "name": "Young Earth Sauce",
+          "url": "https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf"
+        },
+        {
+          "name": "Gud Griff",
+          "url": "https://open.spotify.com/artist/1m5xUB9MDUAy4hJlNSmy2W"
+        },
+        {
+          "name": "Daniella Binyamin",
+          "url": "https://open.spotify.com/artist/0j7DhjdXfuDhB8ciUTh1hK"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4dgnbpgmmjW2AearPq7SQG"
+    },
+    {
+      "album": {
         "name": "TRUST",
         "url": "https://open.spotify.com/album/589r4sFNm8R3cETh4lXRRS"
       },
@@ -14024,7 +14236,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 156444,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"
@@ -14072,7 +14284,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 201565,
       "name": "Under My Breath - Stresshead Remix",
       "url": "https://open.spotify.com/track/6rwgIFzzIaVKSUGZzdoHmk"
@@ -14583,6 +14795,28 @@
     },
     {
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/6NvId2X3Mtuys45MCANrGq"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0VPAbpvSM0jDx1OIKYHaX9"
+    },
+    {
+      "album": {
         "name": "waves",
         "url": "https://open.spotify.com/album/7ko2pVfTdGboSqs5EtktDS"
       },
@@ -14652,7 +14886,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 240000,
       "name": "We Got This",
       "url": "https://open.spotify.com/track/3t0ZToA8zfqVD2vDIbmiKm"
@@ -15018,7 +15252,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 122000,
       "name": "wishing well",
       "url": "https://open.spotify.com/track/7Fwp8SLqJ3NU6L8ZitD6AY"

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 140869,
       "name": "23",
       "url": "https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C"
@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Dehka Sefra",
+        "url": "https://open.spotify.com/album/4ZVGTHPMMIc4zakPmIugvS"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Dehka Sefra",
+      "url": "https://open.spotify.com/track/7oE850hviq7oJIPoZRBtyi"
+    },
+    {
+      "album": {
         "name": "DELLALI (feat. Hamza)",
         "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
       },
@@ -1782,6 +1800,24 @@
       "duration_ms": 215000,
       "name": "Dounya",
       "url": "https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG"
+    },
+    {
+      "album": {
+        "name": "Douwi Douwi",
+        "url": "https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Douwi Douwi",
+      "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
     },
     {
       "album": {
@@ -3196,7 +3232,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 152590,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
@@ -5185,6 +5221,28 @@
     },
     {
       "album": {
+        "name": "Oh qu'elle est belle",
+        "url": "https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Oh qu'elle est belle",
+      "url": "https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr"
+    },
+    {
+      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -5630,7 +5688,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 147435,
       "name": "Salam",
       "url": "https://open.spotify.com/track/0gR65ex17IbBdAvVMg74LS"

@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\(한로로\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: cott\(콧\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-724 songs - 1 day 20 hr 18 min
+725 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [BABEL](https://open.spotify.com/track/5uzR8Dr8tGWWasQbHKBOoC) | [Ahn Dayoung](https://open.spotify.com/artist/3YaTzrZaXXljeI8vpvzyBX) | [BABEL](https://open.spotify.com/album/3CApRJRL9vFGado5MZCExF) | 4:48 | 2022-12-30 | 2023-01-05 |
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-03-31 |  |
 | [Bad Person](https://open.spotify.com/track/3IAHKvtU56oGcp2dagV3pS) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:16 | 2024-03-20 | 2024-05-10 |
+| [Bad Thinkin'](https://open.spotify.com/track/6LaJ5XmWySED10xKG3edR7) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [Bad Thinkin'](https://open.spotify.com/album/7xKsX3msABCAOOpcl7j6HQ) | 2:44 | 2024-06-06 |  |
 | [Balance](https://open.spotify.com/track/03uTYVaTJWVvxYcnysHrtr) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Balance](https://open.spotify.com/album/1jh1crUoD4vl5c0KangkX4) | 3:03 | 2022-03-31 | 2022-04-21 |
 | [BAPPI](https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [BAPPI](https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG) | 2:54 | 2024-04-04 |  |
 | [BBI\-YO](https://open.spotify.com/track/0BiompCTb9kPFJBHvnbIBH) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [BBI\-YO](https://open.spotify.com/album/2D44Gpm4wCcwR1YLDSDxtR) | 3:37 | 2022-06-09 | 2022-06-19 |
@@ -537,7 +538,7 @@
 | [Sitting on a chair](https://open.spotify.com/track/2WCTjz29wiRtxAprTetQx4) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sitting on a chair](https://open.spotify.com/album/2rwrsaxb4wXANnbgnBNZgl) | 3:41 | 2024-05-08 | 2024-05-10 |
 | [Skate Girl](https://open.spotify.com/track/1ie8aZcGw9YozNv4PBSkiM) | [Charari Danchu](https://open.spotify.com/artist/7pdcbWfteo7RlRRE26KbDB) | [Skate Girl](https://open.spotify.com/album/49xelmp433pcjvXkLvX0GM) | 2:46 | 2024-04-30 | 2024-05-10 |
 | [Sketch](https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt) | [ADYNE](https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4) | [Sketch](https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142) | 3:58 | 2023-03-28 | 2023-04-05 |
-| [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-12-12 |  |
+| [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-12-12 | 2024-06-07 |
 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 | 2022-03-31 | 2022-04-16 |
 | [Smile!](https://open.spotify.com/track/6Khapx3MSeJU3CAICxVeSv) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You're On Camera](https://open.spotify.com/album/5XbzCJBgVE0CUWnoXrFKSm) | 3:35 | 2024-04-30 | 2024-05-10 |
 | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/track/0fDi32kFdHYXkdTgnPXS9U) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/album/2us6DVgvvpbxwvw3jBxBzk) | 2:37 | 2022-03-31 | 2022-05-26 |

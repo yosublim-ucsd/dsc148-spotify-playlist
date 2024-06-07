@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Anytime Anyday",
+        "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206723,
+      "name": "Anytime Anyday",
+      "url": "https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r"
+    },
+    {
+      "album": {
         "name": "April Celebrants Special (Live)",
         "url": "https://open.spotify.com/album/1o1kgdW1Y4M1j64P4ZyvMu"
       },
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 157309,
       "name": "Cover me",
       "url": "https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 211343,
       "name": "Echoes Of Love",
       "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
@@ -2113,6 +2131,28 @@
     },
     {
       "album": {
+        "name": "Give Me Chance",
+        "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255735,
+      "name": "Give Me Chance",
+      "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
+    },
+    {
+      "album": {
         "name": "Give Me Oil",
         "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
       },
@@ -2673,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Human Like Me",
+        "url": "https://open.spotify.com/album/1BiuLtFDlAGpjfAClQtTqp"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180106,
+      "name": "Human Like Me",
+      "url": "https://open.spotify.com/track/0sHRLPcOLOY60qtJKu1Sna"
+    },
+    {
+      "album": {
         "name": "I AM",
         "url": "https://open.spotify.com/album/1TFzauoARG4LvbAjjvIB7B"
       },
@@ -3058,7 +3116,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 262352,
       "name": "Idimma (Eze Ndi Eze)",
       "url": "https://open.spotify.com/track/0GoPyFOYLSYJxq8gNUBeRa"
@@ -5425,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/1brnCFqF8lOK2AiUcHtmf4"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199195,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/4XM2KilXlDb2siMTkCGBPI"
+    },
+    {
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -6272,7 +6348,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 300000,
       "name": "There For Me",
       "url": "https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw"
@@ -6476,7 +6552,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 190000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW"

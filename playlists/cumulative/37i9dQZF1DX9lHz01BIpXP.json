@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 216036,
       "name": "3 Eye",
       "url": "https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 88737,
       "name": "4EvR",
       "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
@@ -846,6 +846,28 @@
       "duration_ms": 197020,
       "name": "FFF",
       "url": "https://open.spotify.com/track/4ELBY7XVZYESi10omwgAok"
+    },
+    {
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
+      },
+      "artists": [
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        },
+        {
+          "name": "Young OG CPT",
+          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186263,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
     },
     {
       "album": {
@@ -2262,7 +2284,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "So Laatie Dou",
       "url": "https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y"

@@ -312,8 +312,20 @@
       },
       "artists": [
         {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
           "name": "The City of Prague Philharmonic Orchestra",
           "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Nicholas Charles Raine",
+          "url": "https://open.spotify.com/artist/7kI8U1CudATOXdTN1MxyWK"
+        },
+        {
+          "name": "Nic Raine",
+          "url": "https://open.spotify.com/artist/02O1TOTMkLrMCAE2fRNkKJ"
         }
       ],
       "date_added": "2024-01-02",

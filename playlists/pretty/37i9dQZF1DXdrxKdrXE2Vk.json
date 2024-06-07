@@ -1,6 +1,6 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 895865,
+  "num_followers": 895982,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Psalms, Hymns, and Spiritual Songs (Live)",
         "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 239857,
       "name": "All Creatures (Sing the Harmony) - Live",
       "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Blessing (Live)",
-        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 599001,
-      "name": "Your Nature - Live",
-      "url": "https://open.spotify.com/track/6DCtHdNZJ1y4vmHBAKsAF3"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 599001,
+      "name": "Your Nature - Live",
+      "url": "https://open.spotify.com/track/6DCtHdNZJ1y4vmHBAKsAF3"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Moments: 010 (Live)",
         "url": "https://open.spotify.com/album/0rvYyeQ716LDAsj5GU2grl"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 455294,
       "name": "Tend - Live",
       "url": "https://open.spotify.com/track/6OilLftko3AbJBzedstJOA"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Strike The Ground",
-        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "Simple Matter",
-      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -831,6 +811,26 @@
       "duration_ms": 325053,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/103FnJqSB4INEN6kKntVtQ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Strike The Ground",
+        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "Simple Matter",
+      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Miracle in Me (Live)",
+        "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 308864,
+      "name": "Miracle in Me - Live",
+      "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Gratitude (Live)",
         "url": "https://open.spotify.com/album/1XYyOfq5HZn39IgNYmv9yP"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 339615,
       "name": "Gratitude - Live",
       "url": "https://open.spotify.com/track/4462xbcu0evh26vPuOEKaa"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Miracle in Me (Live)",
-        "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 308864,
-      "name": "Miracle in Me - Live",
-      "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Behold Our God (Live at WorshipGod)",
+        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 340533,
+      "name": "Behold Our God - Live at WorshipGod",
+      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/0W0NCHeJfCkst8buyacLxG"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 234874,
       "name": "Age To Age",
       "url": "https://open.spotify.com/track/4hz9JIeosKjU79sR9M8Xsh"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Behold Our God (Live at WorshipGod)",
-        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 340533,
-      "name": "Behold Our God - Live at WorshipGod",
-      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1511,34 +1511,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Heavenly Party (Live)",
-        "url": "https://open.spotify.com/album/3VdTs3fkdDMQQyviAwNffZ"
-      },
-      "artists": [
-        {
-          "name": "P&W",
-          "url": "https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU"
-        },
-        {
-          "name": "Kate Gurren",
-          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        },
-        {
-          "name": "Kieran De La Harpe",
-          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
-        }
-      ],
-      "duration_ms": 364759,
-      "name": "Heavenly Party - Live",
-      "url": "https://open.spotify.com/track/0ZC7Lnq622CEYqE2F6C0I0"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Pour Over Me (Live)",
         "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
       },
@@ -1583,18 +1555,50 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Here For It",
-        "url": "https://open.spotify.com/album/09RjBOAUSdKzernJEEqxGy"
+        "name": "Heavenly Party (Live)",
+        "url": "https://open.spotify.com/album/3VdTs3fkdDMQQyviAwNffZ"
       },
       "artists": [
         {
-          "name": "VIVE Worship",
-          "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
+          "name": "P&W",
+          "url": "https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU"
+        },
+        {
+          "name": "Kate Gurren",
+          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        },
+        {
+          "name": "Kieran De La Harpe",
+          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
         }
       ],
-      "duration_ms": 510057,
-      "name": "Wind and Waves - Live",
-      "url": "https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5"
+      "duration_ms": 364759,
+      "name": "Heavenly Party - Live",
+      "url": "https://open.spotify.com/track/0ZC7Lnq622CEYqE2F6C0I0"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "As The Deer / Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/1tldcRrDJAaBSTtHQyY1Rx"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "duration_ms": 391407,
+      "name": "As The Deer / Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/0txOPgvIVpVZf8YosrjEx2"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "As The Deer / Nothing But The Blood (Live)",
-        "url": "https://open.spotify.com/album/1tldcRrDJAaBSTtHQyY1Rx"
+        "name": "Here For It",
+        "url": "https://open.spotify.com/album/09RjBOAUSdKzernJEEqxGy"
       },
       "artists": [
         {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Chardon Lewis",
-          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+          "name": "VIVE Worship",
+          "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
         }
       ],
-      "duration_ms": 391407,
-      "name": "As The Deer / Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/0txOPgvIVpVZf8YosrjEx2"
+      "duration_ms": 510057,
+      "name": "Wind and Waves - Live",
+      "url": "https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Every Time (Live)",
+        "url": "https://open.spotify.com/album/2l64p1PXLCa9e52kdovW6H"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 457952,
+      "name": "Every Time - Live",
+      "url": "https://open.spotify.com/track/5a6ISwzMRWzCx3lrl0BpZD"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "This Is How We Know What Love Is",
         "url": "https://open.spotify.com/album/0Oy6Fd3YTLFPmWrvfPr9GG"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 227080,
       "name": "This Is How We Know What Love Is",
       "url": "https://open.spotify.com/track/7Ang7ZFjMao4Xkiyl2M73v"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Every Time (Live)",
-        "url": "https://open.spotify.com/album/2l64p1PXLCa9e52kdovW6H"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 457952,
-      "name": "Every Time - Live",
-      "url": "https://open.spotify.com/track/5a6ISwzMRWzCx3lrl0BpZD"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "All I Have is Christ (Live at WorshipGod)",
+        "url": "https://open.spotify.com/album/0MWJBYfY1Vp7G2b96vsCKj"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 286027,
+      "name": "All I Have is Christ - Live at WorshipGod",
+      "url": "https://open.spotify.com/track/5oA5yi2SX3CmZEYGITvqz5"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Jesus, My Brother + Like Jesus (Live)",
         "url": "https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 350400,
       "name": "Jesus, My Brother - Live",
       "url": "https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "All I Have is Christ (Live at WorshipGod)",
-        "url": "https://open.spotify.com/album/0MWJBYfY1Vp7G2b96vsCKj"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 286027,
-      "name": "All I Have is Christ - Live at WorshipGod",
-      "url": "https://open.spotify.com/track/5oA5yi2SX3CmZEYGITvqz5"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1879,6 +1879,58 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "On The Rise",
+        "url": "https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 302093,
+      "name": "On The Rise",
+      "url": "https://open.spotify.com/track/13t1LQJSZhd2hbKMxRCLMI"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "A King Like No Other (Live)",
+        "url": "https://open.spotify.com/album/7p7bRCJkZUAOPaRfhp52Fi"
+      },
+      "artists": [
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        },
+        {
+          "name": "Lucas & Evelyn Cortazio",
+          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        }
+      ],
+      "duration_ms": 482355,
+      "name": "Come And Behold - Live",
+      "url": "https://open.spotify.com/track/5k5jMmyP88T81vwcg1OOGJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "open heaven type stuff: live from camp",
+        "url": "https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 420886,
+      "name": "Cross My Heart - Live",
+      "url": "https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Here Is Our Hallelujah (Live)",
         "url": "https://open.spotify.com/album/6jtQa95XthgzYaVCOTHSKS"
       },
@@ -1903,58 +1955,6 @@
       "duration_ms": 300138,
       "name": "Here Is Our Hallelujah - Live",
       "url": "https://open.spotify.com/track/6oSxwAZN0ce6iDYI891eL7"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "On The Rise",
-        "url": "https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 302093,
-      "name": "On The Rise",
-      "url": "https://open.spotify.com/track/13t1LQJSZhd2hbKMxRCLMI"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "open heaven type stuff: live from camp",
-        "url": "https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 420886,
-      "name": "Cross My Heart - Live",
-      "url": "https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "A King Like No Other (Live)",
-        "url": "https://open.spotify.com/album/7p7bRCJkZUAOPaRfhp52Fi"
-      },
-      "artists": [
-        {
-          "name": "Community Music",
-          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
-        },
-        {
-          "name": "Lucas & Evelyn Cortazio",
-          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
-        }
-      ],
-      "duration_ms": 482355,
-      "name": "Come And Behold - Live",
-      "url": "https://open.spotify.com/track/5k5jMmyP88T81vwcg1OOGJ"
     }
   ],
   "unique_name": "Best of Live Worship",

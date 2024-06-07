@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Trio Mio
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,477 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,484 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 9 | [DANCEHALLING](https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [DANCEHALLING](https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc) | 2:24 |
 | 10 | [Weather for Two](https://open.spotify.com/track/5C5tBOd9KzSRXNQmZjDkwi) | [Fidel Rayd](https://open.spotify.com/artist/5gjuJ3cbWR2QWDOJy1av6x), [Clamer](https://open.spotify.com/artist/6uGf6kNDho47oA0FvRe9Ts), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [Weather for Two](https://open.spotify.com/album/7giEL4Layeuo8DSErwuV1u) | 2:34 |
 | 11 | [BUBBLY BUBBLY \(na niki\)](https://open.spotify.com/track/1gc249pSRCtXKb3vezJwG8) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [BUBBLY BUBBLY \(na niki\)](https://open.spotify.com/album/2AQedaeVARNPXPRJ6fNDLh) | 2:46 |
-| 12 | [Cocoa Butter](https://open.spotify.com/track/0RorhnHkgmBKkam8tMkc2M) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Danski](https://open.spotify.com/artist/6prQPe9bjw5E7CeJshNfDS) | [Maisha Ya Stunna](https://open.spotify.com/album/4eqe1F9Zy61KrOEZBQTszi) | 2:15 |
+| 12 | [Cocoa Butter](https://open.spotify.com/track/0RorhnHkgmBKkam8tMkc2M) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Danski](https://open.spotify.com/artist/71sK1E0gnpAKqHR58gxMaT) | [Maisha Ya Stunna](https://open.spotify.com/album/4eqe1F9Zy61KrOEZBQTszi) | 2:15 |
 | 13 | [Hio Imeenda](https://open.spotify.com/track/5wUWp6lEj893y1nJSP6mLY) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Addi Chokoch](https://open.spotify.com/artist/1dAM5bKDDnFOOyyWtYwyaK) | [Hio Imeenda](https://open.spotify.com/album/1YaOntGGmVf6ddvjjDsFHN) | 2:49 |
 | 14 | [Dance Mpyai](https://open.spotify.com/track/3HuwUpN46jbDoiQirZexKC) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Zendiambo](https://open.spotify.com/artist/66lsHhoCuJeZ0wf3Uq8Sqh) | [Dance Mpyai](https://open.spotify.com/album/0o748wq7XA9mmxXnGXlJae) | 3:25 |
 | 15 | [Kudonjo Kudunda](https://open.spotify.com/track/4aJyHRdr4OyjVlkIalyG2T) | [Gadafee](https://open.spotify.com/artist/6zkAPf3HxH08uGsPYXJNhA), [Zzero Sufuri](https://open.spotify.com/artist/0uSb41cfaaEXtKDd9ZR4uO), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Kushman](https://open.spotify.com/artist/6Lx5bYAVSVhCdwnCEgdadB) | [Kudonjo Kudunda](https://open.spotify.com/album/37hIKRBLIM3k4PIHPXrSZ9) | 3:20 |

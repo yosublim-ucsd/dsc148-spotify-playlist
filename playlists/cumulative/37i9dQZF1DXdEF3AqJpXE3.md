@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: BILLIE EILISH
+> The best tracks from the world of music\. Cover: Hozier
 
 165 songs - 8 hr 57 min
 

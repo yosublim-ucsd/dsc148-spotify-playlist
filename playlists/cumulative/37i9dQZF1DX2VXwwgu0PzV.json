@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:   <a href=https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM?si=Y0029Mr2TJasZrOYr-N60g>Nolly</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:   <a href=https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2?si=3-AhgJc0RfS7kJuSNQOZXQ>Tim Godfrey</a> and  <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=RDfM3zozQmO-Z1fBdrUa-g>EJ Newton</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -860,6 +860,24 @@
       "duration_ms": 223820,
       "name": "Answer Call",
       "url": "https://open.spotify.com/track/2MKb3pVcUzhijnrBjIWbYH"
+    },
+    {
+      "album": {
+        "name": "Anytime Anyday",
+        "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206723,
+      "name": "Anytime Anyday",
+      "url": "https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r"
     },
     {
       "album": {
@@ -4351,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Father's Hands",
+        "url": "https://open.spotify.com/album/1BjbrQF7U5F7A6x5Qsv4OE"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160945,
+      "name": "Father's Hands",
+      "url": "https://open.spotify.com/track/2SeSqnyrdeBG4J3DDKdxSo"
+    },
+    {
+      "album": {
         "name": "Favorite Baby",
         "url": "https://open.spotify.com/album/2DFy42ys1jXfYmUlwTxIA2"
       },
@@ -4958,6 +4994,32 @@
       "duration_ms": 226000,
       "name": "Free, Pt. 2",
       "url": "https://open.spotify.com/track/5FY9J29KgfImVtacAJor1F"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        },
+        {
+          "name": "Oneskript",
+          "url": "https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
     },
     {
       "album": {
@@ -8611,6 +8673,24 @@
     },
     {
       "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204328,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i"
+    },
+    {
+      "album": {
         "name": "MAJO",
         "url": "https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec"
       },
@@ -9479,6 +9559,32 @@
     },
     {
       "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/2Th9AdlxHPVC5huKjjSrz9"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "678NATH",
+          "url": "https://open.spotify.com/artist/6GbJj21JT9bkzYnu5FGscf"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "MOVEMENT",
+      "url": "https://open.spotify.com/track/6NglFmvUC1ho123QUvQtRl"
+    },
+    {
+      "album": {
         "name": "Mowanbe (Mo wa\u2019nbe)",
         "url": "https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T"
       },
@@ -10056,6 +10162,32 @@
       "duration_ms": 189918,
       "name": "No Be Small Thing (NBST)",
       "url": "https://open.spotify.com/track/2BUTKXCwPMKgnA750CEsbK"
+    },
+    {
+      "album": {
+        "name": "No Be Your Mate",
+        "url": "https://open.spotify.com/album/6fszLTs3Hu9WCXaGPXqqev"
+      },
+      "artists": [
+        {
+          "name": "De-Ola",
+          "url": "https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy"
+        },
+        {
+          "name": "Agent Snypa",
+          "url": "https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "No Be Your Mate",
+      "url": "https://open.spotify.com/track/5uTwH5K8MDtCWrWyZe0Jfm"
     },
     {
       "album": {
@@ -11538,6 +11670,24 @@
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/1brnCFqF8lOK2AiUcHtmf4"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199195,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/4XM2KilXlDb2siMTkCGBPI"
     },
     {
       "album": {
@@ -13301,6 +13451,24 @@
     },
     {
       "album": {
+        "name": "Tell Everybody",
+        "url": "https://open.spotify.com/album/5Q1x5WcTuIwKDI7COLCtTJ"
+      },
+      "artists": [
+        {
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208829,
+      "name": "Tell Everybody",
+      "url": "https://open.spotify.com/track/0p6l116QaggFfe5fedjBu3"
+    },
+    {
+      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/5AdjxSTcgCQffFltZmKlMM"
       },
@@ -13664,6 +13832,28 @@
       "duration_ms": 182788,
       "name": "Today",
       "url": "https://open.spotify.com/track/2lYo77nYrYHxK1dfbXOUWr"
+    },
+    {
+      "album": {
+        "name": "Togun Togun",
+        "url": "https://open.spotify.com/album/5Y5Mt7AKxI5SsoWShWu5eN"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "GospelOnDeBeatz",
+          "url": "https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157296,
+      "name": "Togun Togun",
+      "url": "https://open.spotify.com/track/29HPpQMwx5JasnlUJokhBH"
     },
     {
       "album": {
@@ -14764,6 +14954,24 @@
       "duration_ms": 302042,
       "name": "Yet",
       "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
+    },
+    {
+      "album": {
+        "name": "Yewo",
+        "url": "https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Yewo",
+      "url": "https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE"
     },
     {
       "album": {

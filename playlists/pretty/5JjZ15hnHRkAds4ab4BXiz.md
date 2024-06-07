@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 266 songs - 16 hr 39 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 293 songs - 18 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,5 +274,32 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 264 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
 | 265 | [Tos Pačios Naujienos](https://open.spotify.com/track/4m8g1jrmzmQpJXesinGLm3) | [Andrius Mamontovas](https://open.spotify.com/artist/28Ay5v0M2uegKIswk4dUWQ) | [Geltona\. Žalia\. Raudona.](https://open.spotify.com/album/0RlE4rIDnQTQDJY8jRp5W5) | 2:14 |
 | 266 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 267 | [California Kids](https://open.spotify.com/track/5CsQwb89zUbizwvDKoj0xo) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:25 |
+| 268 | [Wind in Our Sail](https://open.spotify.com/track/4LAbkI0MNJnyhDcwA5gtsP) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 2:53 |
+| 269 | [\(Girl We Got A\) Good Thing](https://open.spotify.com/track/3L01B9S9TUTAfJxfcXHZe0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:25 |
+| 270 | [Do You Wanna Get High?](https://open.spotify.com/track/6JwesoWbzk5pjBi3gaMWjb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:27 |
+| 271 | [King of the World](https://open.spotify.com/track/08j7RqqYbgEWeALO8UlKAi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:24 |
+| 272 | [Summer Elaine and Drunk Dori](https://open.spotify.com/track/2m1seZyMbGZbeUKmXyFsoA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:25 |
+| 273 | [Fake Smiles and Nervous Laughter](https://open.spotify.com/track/4LurEgiRgAnFiLAClIQZcF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:26 |
+| 274 | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/6rMuHJjLnEQpBuc0TSkeFv) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/album/3YcIVKVDqiVvPobsotuhgx) | 3:59 |
+| 275 | [The Eternal Tao 2.0](https://open.spotify.com/track/6V3YD8Ozx3IvHSbIc4wypA) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [The Eternal Tao 2.0](https://open.spotify.com/album/5gIhwo6t1k4Sahp1k9lvWc) | 5:26 |
+| 276 | [Alien Crime Lord](https://open.spotify.com/track/4S5T3NPeWSPqgb3ElxL8MN) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Alien Crime Lord](https://open.spotify.com/album/5qIsoDussf4NrGw5WC9rXM) | 4:25 |
+| 277 | [Did My Best](https://open.spotify.com/track/0YdSIXOY8QWbRtWaBlnlNo) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Did My Best](https://open.spotify.com/album/5Osm6Z5sBGots1YGx9pBt6) | 4:56 |
+| 278 | [Coul as a Ghoul](https://open.spotify.com/track/27mtEHKWjpvCWYz1XUXge5) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Coul as a Ghoul](https://open.spotify.com/album/2pClahL34Nr5l1QJbOTfeu) | 2:41 |
+| 279 | [Leave It In My Dreams](https://open.spotify.com/track/31u6rUeIEXGrYVoh10U7eu) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:59 |
+| 280 | [QYURRYUS](https://open.spotify.com/track/6pMRk6Tr05wmZSSINOqzE3) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:52 |
+| 281 | [Pyramid of Bones](https://open.spotify.com/track/0tfvDUmADEEEqrPcRJNT29) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:28 |
+| 282 | [Permanent High School](https://open.spotify.com/track/4Ee6ZsyVepVsvObgYwzgH1) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:13 |
+| 283 | [ALieNNatioN](https://open.spotify.com/track/7zpHInsypgrnY9zTeCXtI4) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:39 |
+| 284 | [One of the Ones](https://open.spotify.com/track/4nVOB6SE1RxldJIzIEEsk0) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:38 |
+| 285 | [All Wordz Are Made Up](https://open.spotify.com/track/2Q7QUy1t3wHhoUWA7v9aYH) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:19 |
+| 286 | [Think Before You Drink](https://open.spotify.com/track/7gwuLmdWVfHi35OU07U60N) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:46 |
+| 287 | [Wink](https://open.spotify.com/track/6VFaZ3zgXaRbc79GRqhbBz) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:00 |
+| 288 | [My Friend The Walls](https://open.spotify.com/track/62JrUht3IRKy4OovuZXfNS) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:02 |
+| 289 | [Pink Ocean](https://open.spotify.com/track/4WFcerMZkAIcIizZYXNNrb) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 5:26 |
+| 290 | [Black Hole](https://open.spotify.com/track/05ABdiQ8D9XLD5w431Hu4y) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:15 |
+| 291 | [Lazy Boy](https://open.spotify.com/track/5xXkyBtG1sNIhkpCIxF0Il) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:31 |
+| 292 | [We're Where We Were](https://open.spotify.com/track/709TS0mvoyISKvljXUBcnD) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:46 |
+| 293 | [Pointlessness](https://open.spotify.com/track/1OMyVgjCj8fHdwNZMt28eN) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 5:15 |
 
-Snapshot ID: `AAABbC7J288EAaErNqCTLLtZqMW2JIwN`
+Snapshot ID: `AAABiib2EbUsQpy0ydlrUZudThwkz8nJ`

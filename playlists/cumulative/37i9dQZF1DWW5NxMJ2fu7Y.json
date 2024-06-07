@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 183829,
       "name": "Ayala",
       "url": "https://open.spotify.com/track/4ja9Tx6iAMlMHCv7VXIGjC"
@@ -1352,6 +1352,24 @@
       "duration_ms": 170671,
       "name": "\u00c7a d\u00e9pend",
       "url": "https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu"
+    },
+    {
+      "album": {
+        "name": "\u00e7a ira mieux",
+        "url": "https://open.spotify.com/album/3xKmJfhleJoPmardRq4bWq"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124843,
+      "name": "\u00e7a ira mieux",
+      "url": "https://open.spotify.com/track/0S6Aanrei1yPQ2cOadDg9E"
     },
     {
       "album": {

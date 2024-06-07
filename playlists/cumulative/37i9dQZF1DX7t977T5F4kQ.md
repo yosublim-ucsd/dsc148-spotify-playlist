@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: AD DJ & D Jay
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: DopeNation
 
-370 songs - 19 hr 25 min
+372 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Baby](https://open.spotify.com/track/457g4ZlmoUmZWeA8ysRZ8p) | [Ayesem](https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Baby](https://open.spotify.com/album/3LjAal9dJ9uYSwZWFxyaah) | 3:33 | 2023-11-17 | 2023-11-24 |
 | [Back To Sender \(Taamiawu\)](https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca) | [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Back To Sender \(Taamiawu\)](https://open.spotify.com/album/1m1j17DRfl9ESfDXELGjmi) | 3:43 | 2024-05-03 | 2024-05-17 |
 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 | 2023-07-14 |  |
-| [Bad People Do Good](https://open.spotify.com/track/3iVoZUSWgCPHvCKT3u3vck) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Bad People Do Good](https://open.spotify.com/album/0kSIpqgG1STLxXLI8ylOYs) | 3:03 | 2024-04-12 |  |
+| [Bad People Do Good](https://open.spotify.com/track/3iVoZUSWgCPHvCKT3u3vck) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Bad People Do Good](https://open.spotify.com/album/0kSIpqgG1STLxXLI8ylOYs) | 3:03 | 2024-04-12 | 2024-06-07 |
 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-11-04 | 2023-06-27 |
 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-11-04 | 2023-09-09 |
 | [Bambalika](https://open.spotify.com/track/3ixi11YHKflKrz1MQQhwiQ) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Bambalika](https://open.spotify.com/album/0xNmeqa5YXd78kcozpPteD) | 3:01 | 2023-09-29 | 2023-12-08 |
@@ -216,6 +216,7 @@
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-11-04 | 2024-03-15 |
 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-11-08 |  |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-11-04 | 2024-02-09 |
+| [More Money](https://open.spotify.com/track/2hF2Rv9c4tZXtTy1J1proB) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [More Money](https://open.spotify.com/album/79L4DbQvEt6P5m36ei2eJc) | 3:03 | 2024-06-07 |  |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2024-04-04 |
 | [Morning Stress](https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Morning Stress](https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc) | 3:28 | 2023-01-27 | 2023-11-24 |
 | [Most Beautiful](https://open.spotify.com/track/5MYilFRKvwzBQpFqU0RQpI) | [KJay](https://open.spotify.com/artist/6UrxdDrXYtHJjPrtc9nHAQ), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Most Beautiful](https://open.spotify.com/album/5F31A1LLBcyQYcU84VgdAX) | 3:03 | 2023-06-09 | 2023-06-17 |
@@ -264,7 +265,7 @@
 | [Over](https://open.spotify.com/track/1537dWgnx4cqNxMYQbVa6C) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Over](https://open.spotify.com/album/0qpAELxRfWAsE1InseqU1e) | 3:53 | 2023-09-14 | 2023-11-03 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2022-11-04 | 2023-05-13 |
 | [Over](https://open.spotify.com/track/4AqSMNtn3vFqE0OScxvEps) | [Thirtn](https://open.spotify.com/artist/2DJRjIwHAj1DdOo6pBcM6v) | [Over](https://open.spotify.com/album/0SvEJsifHLZ7VGMZaan2pc) | 3:02 | 2023-03-10 | 2023-03-18 |
-| [Overload](https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH) | [Wutah Kobby](https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [Overload](https://open.spotify.com/album/760ibMaRsLqLNWGMaCujFa) | 2:19 | 2024-03-08 |  |
+| [Overload](https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH) | [Wutah Kobby](https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [Overload](https://open.spotify.com/album/760ibMaRsLqLNWGMaCujFa) | 2:19 | 2024-03-08 | 2024-06-07 |
 | [Pain](https://open.spotify.com/track/2Q6xk5PrIexH45CotIAXeF) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Pain](https://open.spotify.com/album/7CHgtK1UCDpTLrRAe2mf0H) | 3:21 | 2023-12-08 | 2023-12-22 |
 | [Papabi](https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Papabi](https://open.spotify.com/album/09kaeUGlamtNLY21BAoREx) | 3:45 | 2023-02-23 | 2023-03-03 |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
@@ -378,5 +379,6 @@
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-10 |  |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 | 2023-03-18 |
 | [Zero 2 Hero](https://open.spotify.com/track/0q7STqnfVgqOLZAxUiY18l) | [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW), [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Zero 2 Hero](https://open.spotify.com/album/3xsbqb7t5LxchPsDS5cejq) | 2:57 | 2023-12-22 | 2024-02-03 |
+| [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-06-07 |  |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

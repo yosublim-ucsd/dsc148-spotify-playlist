@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,555 songs - 3 day 9 hr 55 min
+1,556 songs - 3 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1253,6 +1253,7 @@
 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 | 2022-04-18 | 2023-01-07 |
 | [Stars](https://open.spotify.com/track/5IZzLqc5BxGFxh6ZgVjCbn) | [David White](https://open.spotify.com/artist/4sQ7XS59ZQebv14J404ZSn), [LennyMendy](https://open.spotify.com/artist/5AH8sDoAuqf0vp9hSex10V) | [Stars](https://open.spotify.com/album/6kIBI26xVNIjV3a1qU7nP7) | 2:25 | 2021-10-15 | 2023-06-11 |
 | [Stars](https://open.spotify.com/track/2PauC7c2jbp4TMOXZnZbsH) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP) | [Stars](https://open.spotify.com/album/6W4JKgEudjzCU3vciuwkPw) | 2:40 | 2021-12-18 | 2022-05-11 |
+| [Start Again](https://open.spotify.com/track/1LPMktEFTcExqYm2x4D0Rf) | [Ocean Roses](https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4), [L.A](https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2), [XiVi](https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv) | [Start Again](https://open.spotify.com/album/33faDdsC76mgbWQGBTAw7Z) | 2:37 | 2024-06-07 |  |
 | [Start Over](https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3) | [Allergic](https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX) | [Start Over](https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex) | 2:42 | 2021-05-13 | 2022-12-20 |
 | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe) | 2:52 | 2022-03-15 | 2022-03-23 |
 | [Stay](https://open.spotify.com/track/4SrW1FDKAAvBHRv1y072HB) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Stay](https://open.spotify.com/album/5YDa2wu5sUuzRegnwZrKHI) | 3:07 | 2023-03-28 | 2023-06-13 |
@@ -1453,7 +1454,7 @@
 | [Wasted On You](https://open.spotify.com/track/0WDz1X0zEV2HRwVk8icMtW) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP) | [Wasted On You](https://open.spotify.com/album/57Y0gE7olEuWCMoQvYsfyP) | 2:57 | 2023-04-21 | 2023-12-14 |
 | [Wasted On You](https://open.spotify.com/track/1m9sUreR9sobjuzfRkQwZl) | [Repow](https://open.spotify.com/artist/2o5HEaDbSZee4AcoksPIO2), [JakkCity](https://open.spotify.com/artist/2fBSaojdT2JI2hyLEtawp0) | [Wasted On You](https://open.spotify.com/album/0s5M8G4HIOtmHniVgQkuvB) | 3:01 | 2020-05-26 | 2020-05-27 |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-05-25 | 2023-03-03 |
-| [Waterfall](https://open.spotify.com/track/5URUwwIzuK3yNX3j652Cza) | [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5), [Ynnox](https://open.spotify.com/artist/12Br190pgwwhEjMY1ResUN) | [Waterfall](https://open.spotify.com/album/69Cqh3p96QhZrduwSuiQdT) | 2:45 | 2023-12-08 |  |
+| [Waterfall](https://open.spotify.com/track/5URUwwIzuK3yNX3j652Cza) | [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5), [Ynnox](https://open.spotify.com/artist/12Br190pgwwhEjMY1ResUN) | [Waterfall](https://open.spotify.com/album/69Cqh3p96QhZrduwSuiQdT) | 2:45 | 2023-12-08 | 2024-06-07 |
 | [Way Back Home](https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Way Back Home](https://open.spotify.com/album/0uzdr4Q8ftYWdrAeej6M5F) | 2:55 | 2021-09-11 | 2022-03-23 |
 | [We Are Young](https://open.spotify.com/track/6KhSk0XaifZje1L3n2zUUq) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [We Are Young](https://open.spotify.com/album/4g8m4xIQvijdtlwpqCH0oo) | 2:12 | 2021-04-26 | 2021-05-13 |
 | [We Can't Hide](https://open.spotify.com/track/6sHGgBGWiZNT1hYyZc7aCW) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [Rachel Philipp](https://open.spotify.com/artist/60WHjR0n6Taxp26VQMOtZm) | [We Can't Hide](https://open.spotify.com/album/28earv36mUiH6n3k51ZRPH) | 2:21 | 2021-04-20 | 2021-10-09 |

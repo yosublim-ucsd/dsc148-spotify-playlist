@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 241998,
       "name": "BAG TALK",
       "url": "https://open.spotify.com/track/6WZM8vefpk2AY19IThs7DH"
@@ -15781,6 +15781,24 @@
     },
     {
       "album": {
+        "name": "Holl\u00e4nder",
+        "url": "https://open.spotify.com/album/3MZy6cTpjLRb6jJhk58iOn"
+      },
+      "artists": [
+        {
+          "name": "Eurothug",
+          "url": "https://open.spotify.com/artist/6UvY2hMTnFIYo7M3rVCul0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141305,
+      "name": "Holl\u00e4nder",
+      "url": "https://open.spotify.com/track/3idHHYJ2bV2zde2JA2rafS"
+    },
+    {
+      "album": {
         "name": "Epoch",
         "url": "https://open.spotify.com/album/67YcHEVrJqNTbCVzNMUugy"
       },
@@ -24850,7 +24868,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 90779,
       "name": "No No",
       "url": "https://open.spotify.com/track/5YcJJSdIA02S9R6qPiCXLY"
@@ -25028,7 +25046,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 197000,
       "name": "Nocturnal Glow",
       "url": "https://open.spotify.com/track/20PGfI6hGaWMxhQ4UlPkjE"
@@ -31398,7 +31416,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -34216,7 +34234,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"

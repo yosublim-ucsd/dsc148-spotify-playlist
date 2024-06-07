@@ -1,6 +1,6 @@
 {
   "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Repion en portada.",
-  "num_followers": 46957,
+  "num_followers": 46977,
   "original_name": "Novedades Rock",
   "owner": {
     "name": "Spotify",
@@ -364,8 +364,12 @@
       },
       "artists": [
         {
-          "name": "Cordillera",
-          "url": "https://open.spotify.com/artist/0iSm5MQZZD0zPfDUyPIL8w"
+          "name": "Angelo Pierattini",
+          "url": "https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf"
+        },
+        {
+          "name": "Carlos Cabezas",
+          "url": "https://open.spotify.com/artist/64qyErWq0ieALSFbxDpScT"
         }
       ],
       "duration_ms": 310241,

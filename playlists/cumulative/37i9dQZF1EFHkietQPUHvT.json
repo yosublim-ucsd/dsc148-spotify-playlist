@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A Hometown Odyssey",
+        "url": "https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "Architect",
+      "url": "https://open.spotify.com/track/7rEoxvquS9aZYSe6wM4REi"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/2hkbvDGl0ac4XjXTebdRoR"
       },

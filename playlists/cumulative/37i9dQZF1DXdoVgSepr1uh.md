@@ -4,7 +4,7 @@
 
 > Perreo hecho en Argentina\. Foto: TAICHU.
 
-241 songs - 11 hr 31 min
+242 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [MotaMoto](https://open.spotify.com/track/4IuJPZXhwuEVP4F0Xz261V) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [MotaMoto](https://open.spotify.com/album/5yXc9YYgTGVOiUVGJtN6Fl) | 2:28 | 2023-09-29 |  |
 | [Móntate](https://open.spotify.com/track/19vWrX2vCODKV5cPK8DpAN) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Hazze](https://open.spotify.com/artist/6I4wcPs18A8lyviDCZsVH6) | [Móntate](https://open.spotify.com/album/3kwz5RqbMhHNqgAnl5avUV) | 2:58 | 2022-05-24 | 2023-02-18 |
 | [NAMORE](https://open.spotify.com/track/64SYEHUUlSpAxQtRuMlmDy) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [NAMORE](https://open.spotify.com/album/2JNOFTWXIFcEm5q0onRTGt) | 2:39 | 2024-02-23 |  |
+| [No Fue Culpa Mia](https://open.spotify.com/track/5R8UcwccsUN90aEYDFTNnW) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 3:10 | 2024-06-07 |  |
 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 | 2022-05-24 | 2023-05-13 |
 | [No Me Quieren](https://open.spotify.com/track/4rcYqqMOw48muBddStyu2A) | [7Darytra](https://open.spotify.com/artist/0RFfwOPf7zMXv0UqZNXjsp), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [No Me Quieren](https://open.spotify.com/album/4BU0pbp5BjbXqUzfUtMg7a) | 2:33 | 2024-02-16 |  |
 | [No Somos](https://open.spotify.com/track/3Vef314Yps41CxqiHF13sK) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [SARAVIA WESTCOAST](https://open.spotify.com/artist/53hJNfIhVlw4ePTyefMbqV) | [No Somos](https://open.spotify.com/album/15kVL1lRyOxNWCsFuMZ0TI) | 3:08 | 2023-03-31 | 2024-04-19 |

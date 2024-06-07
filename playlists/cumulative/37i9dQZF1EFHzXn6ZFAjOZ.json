@@ -76,7 +76,7 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
@@ -904,7 +904,7 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
@@ -1006,6 +1006,24 @@
       "duration_ms": 150117,
       "name": "Feel Right Now (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/1qX6EzEftYFq7MWL0ry3An"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30866,
+      "name": "Fin.",
+      "url": "https://open.spotify.com/track/7j7MArN6cotJVlbn5HOQ1t"
     },
     {
       "album": {

@@ -6476,7 +6476,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 325546,
       "name": "Keepin' It Kool",
       "url": "https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg"
@@ -12338,6 +12338,32 @@
       "duration_ms": 136813,
       "name": "The One",
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
+    },
+    {
+      "album": {
+        "name": "The Way You Are",
+        "url": "https://open.spotify.com/album/0TbmxVK6pALyCJB75NhLwt"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "The Way You Are",
+      "url": "https://open.spotify.com/track/0y63PuqT04J1EsUioyiQWp"
     },
     {
       "album": {

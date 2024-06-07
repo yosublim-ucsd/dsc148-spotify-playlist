@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Kid Lost in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 234000,
       "name": "Campioni In Italia (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd"
@@ -1170,6 +1170,40 @@
       "duration_ms": 160000,
       "name": "CLOUDY DAY",
       "url": "https://open.spotify.com/track/0RL7dKCBkD67XWhEwnSTmZ"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247626,
+      "name": "CLS (feat. Yung Snapp, MV Killa, Lele Blade)",
+      "url": "https://open.spotify.com/track/5EbuKgB6acYhza2WOztvXQ"
     },
     {
       "album": {
@@ -1630,6 +1664,10 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
         }
       ],
       "date_added": "2024-05-09",
@@ -1900,7 +1938,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 113454,
       "name": "Gangsta Freestyle",
       "url": "https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k"
@@ -2054,6 +2092,32 @@
       "duration_ms": 142527,
       "name": "GESCAL RMX",
       "url": "https://open.spotify.com/track/1azqLZpUeY64qv0DuU72Ve"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "GI\u00c0 LO SAI (feat. Luch\u00e8)",
+      "url": "https://open.spotify.com/track/0SxncNbbzm0Sq8SBy5N0Np"
     },
     {
       "album": {
@@ -2372,7 +2436,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 167339,
       "name": "IL MALE CHE MI FAI (feat. Marracash)",
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
@@ -4037,6 +4101,28 @@
     },
     {
       "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134306,
+      "name": "NU PARL, NU SENT, NU VEC",
+      "url": "https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q"
+    },
+    {
+      "album": {
         "name": "NUN M FID E NISCIUN (Con O'Tsunami)",
         "url": "https://open.spotify.com/album/6exDruFXOU3vcx82yUAj7m"
       },
@@ -4223,6 +4309,28 @@
     },
     {
       "album": {
+        "name": "O'Sistem",
+        "url": "https://open.spotify.com/album/4jz6bKLP1EPbzA0qZsYMa9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "DJ Princex",
+          "url": "https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118032,
+      "name": "O'Sistem",
+      "url": "https://open.spotify.com/track/786qEDqFcpcxzDzRf7K944"
+    },
+    {
+      "album": {
         "name": "OMBRELLO",
         "url": "https://open.spotify.com/album/4lsRAH0c7Bi7mFSRReZQMk"
       },
@@ -4278,7 +4386,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 139047,
       "name": "Ossimoro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/7J9YW7pJ50Z2ow1VvDMTrf"
@@ -4834,7 +4942,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 150987,
       "name": "POLO (feat. Geolier)",
       "url": "https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ"
@@ -4904,6 +5012,28 @@
       "duration_ms": 172789,
       "name": "Preghiera",
       "url": "https://open.spotify.com/track/1sA6XW1Ijn9GWOvGkmpwqt"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "PRESIDENTE",
+      "url": "https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE"
     },
     {
       "album": {

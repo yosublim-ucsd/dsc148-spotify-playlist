@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Shaboozey
+> We've had some help putting together the lineup for Spotify House at CMA Fest! June 6\-8 from 10am \- 2am at Ole Red.
 
 775 songs - 1 day 17 hr 49 min
 

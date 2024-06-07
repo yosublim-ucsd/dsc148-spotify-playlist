@@ -2,9 +2,9 @@
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This Is P\-Lo\. Los temas esenciales, todos en una lista.
+> This is P\-Lo\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 38 min
+58 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 | 2024-01-29 |  |
 | [Good \(feat\. Larry June\)](https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:00 | 2024-01-29 |  |
 | [HELE](https://open.spotify.com/track/0mPOWNkYxl2eA5CwjGl9sq) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [OMGKENNY](https://open.spotify.com/artist/5T34n8lqqgWAoZUcCgnynj), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [HELE](https://open.spotify.com/album/55GX3rem3cG6AvragfUwTK) | 2:36 | 2024-04-14 |  |
+| [Hoodrat](https://open.spotify.com/track/5ppULvSRsW1NyLc6rbAX9X) | [ShaqO](https://open.spotify.com/artist/5JKI6b6ZEZpy5oNKzL1hbs), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Hoodrat](https://open.spotify.com/album/1rzuy9Ds0R0bAWPJaGiKbs) | 2:25 | 2024-06-07 |  |
 | [Hotel Lobby](https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF) | [Dezzy Hollow](https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Caught In The Funk](https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8) | 2:00 | 2024-01-29 |  |
 | [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 | 2024-01-29 |  |
 | [How I Feel \(feat\. P\-Lo & ShooterGang Kony\)](https://open.spotify.com/track/43NkAm070i8T29zIBfzGKa) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [TY4FWM](https://open.spotify.com/album/603ExhUHwUaGi4tgJSBxyx) | 2:56 | 2024-02-23 | 2024-05-11 |
-| [In That](https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 3:21 | 2024-01-29 |  |
+| [In That](https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 3:21 | 2024-01-29 | 2024-06-07 |
 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 | 2024-01-29 |  |
 | [Just Gang](https://open.spotify.com/track/5KhphLWMvY7f4OZRI8tL10) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:01 | 2024-01-29 |  |
 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 | 2024-01-29 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Queen. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 4849769,
+  "description": "This Is Queen. Los temas esenciales, todos en una lista.",
+  "num_followers": 4850056,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAABj/QZk1vUF4KdutqinuvJB",
+  "snapshot_id": "Zl+qgAAAAACzSyJl+BhbfMajjiRGska6",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Works (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "I Want To Break Free - Single Remix",
-      "url": "https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Works (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 258013,
+      "name": "I Want To Break Free - Single Remix",
+      "url": "https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+        "name": "Innuendo (2011 Remaster)",
+        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Stone Cold Crazy - Remastered 2011",
-      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
+      "duration_ms": 393026,
+      "name": "Innuendo - Remastered 2011",
+      "url": "https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innuendo (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 393026,
-      "name": "Innuendo - Remastered 2011",
-      "url": "https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi"
+      "duration_ms": 133813,
+      "name": "Stone Cold Crazy - Remastered 2011",
+      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
       "duration_ms": 232120,
       "name": "Don't Try Suicide - Remastered 2011",
       "url": "https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innuendo (2011 Remaster)",
+        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "Headlong - Remastered 2011",
+      "url": "https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innuendo (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Headlong - Remastered 2011",
-      "url": "https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 311026,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi"
     },
     {
       "added_at": null,
@@ -815,26 +831,6 @@
       "duration_ms": 213826,
       "name": "Princes Of The Universe - Remastered 2011",
       "url": "https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits III",
-        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 307360,
-      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
-      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
     }
   ],
   "unique_name": "This Is Queen",

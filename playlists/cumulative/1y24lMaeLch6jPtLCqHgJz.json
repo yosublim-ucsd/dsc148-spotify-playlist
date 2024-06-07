@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Filthy Rich",
+        "url": "https://open.spotify.com/album/6cFccsLrrlJreLTA23pVzc"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147755,
+      "name": "Filthy Rich",
+      "url": "https://open.spotify.com/track/5ksui6de0U50Rc6PikEBu1"
+    },
+    {
+      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1"
       },
@@ -4248,6 +4266,28 @@
       "duration_ms": 207187,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
     },
     {
       "album": {

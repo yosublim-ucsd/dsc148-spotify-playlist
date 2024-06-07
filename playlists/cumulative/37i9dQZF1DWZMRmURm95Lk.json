@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "100km/h",
+        "url": "https://open.spotify.com/album/6V7IfGgWWRPoACpMULrNyc"
+      },
+      "artists": [
+        {
+          "name": "Ugo Crepa",
+          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "100km/h",
+      "url": "https://open.spotify.com/track/5tEXvHxGK7itvpKvqtVLqq"
+    },
+    {
+      "album": {
         "name": "17:00",
         "url": "https://open.spotify.com/album/1SvPB5ALy58JpI8PpAdoSC"
       },
@@ -4610,7 +4632,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 204000,
       "name": "Le radici e le ali",
       "url": "https://open.spotify.com/track/5eWfkxUvjZ2ckqlN5gu6vo"
@@ -5121,6 +5143,52 @@
     },
     {
       "album": {
+        "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
+        "url": "https://open.spotify.com/album/2Ym6KhFJz7TwRqppa3fHMy"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Ugo Borghetti",
+          "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
+        },
+        {
+          "name": "Chiky Realeza",
+          "url": "https://open.spotify.com/artist/7oy0pingNJByahqhT0epVx"
+        },
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        },
+        {
+          "name": "Zinghero",
+          "url": "https://open.spotify.com/artist/2YjJSwI8YUk44D9ZdceX6D"
+        },
+        {
+          "name": "Barrabravas",
+          "url": "https://open.spotify.com/artist/41zZmUOaeKXQNcMxfDaObJ"
+        },
+        {
+          "name": "Luciano Lamanna",
+          "url": "https://open.spotify.com/artist/2bGfoG3BXmcZ0hgDjPcFZf"
+        },
+        {
+          "name": "Funkyman",
+          "url": "https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296264,
+      "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
+      "url": "https://open.spotify.com/track/7sVCJaINF95KpCraI7sgRE"
+    },
+    {
+      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -5462,7 +5530,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 160879,
       "name": "MILANO, linea quattro",
       "url": "https://open.spotify.com/track/3M0zVFuPllXyzBvk1nARj7"
@@ -7096,10 +7164,6 @@
         {
           "name": "Nerone",
           "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "3rindv",
-          "url": "https://open.spotify.com/artist/4E9BhLe0haqNBmklrW4H2R"
         },
         {
           "name": "Dj Ghost aka Steeni",

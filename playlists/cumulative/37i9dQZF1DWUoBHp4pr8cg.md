@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from  Ricky Tyler \(pictured\), Gunna, Kendrick Lamar, and more...
 
-285 songs - 15 hr 32 min
+287 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/1bl7mvR2BaoqA7ak6xJ3yj) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/73H0tpFPJup6pjsqXYyXWU) | 3:53 | 2024-05-09 |  |
 | [Letter to Takeoff](https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Letter to Takeoff](https://open.spotify.com/album/4yrzsGF0xjnXP5oWNvMNqX) | 3:37 | 2022-11-17 | 2023-03-07 |
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-06 | 2022-11-15 |
+| [Life Isn't Fair](https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [uSimamane](https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih) | [Life Isn't Fair](https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1) | 3:12 | 2024-06-06 |  |
 | [Life Worth Living](https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Life Worth Living](https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag) | 3:01 | 2022-09-29 | 2022-11-04 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-04 |  |
 | [Little Miss](https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Little Miss](https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy) | 3:10 | 2022-09-01 | 2022-10-14 |
@@ -223,6 +224,7 @@
 | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR) | [Immaculate Taste](https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR) | 3:29 | 2023-05-05 | 2023-09-23 |
 | [Say It To Yourself](https://open.spotify.com/track/5XJYqaSOlo3kkIBcuVdzNo) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [Say It To Yourself](https://open.spotify.com/album/3p4IiDJBZ8Trs09m0kMJXC) | 4:11 | 2024-04-08 |  |
 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 | 2023-10-12 |  |
+| [Seams](https://open.spotify.com/track/4FbeVPzrurs677Tx1L3Rd2) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU) | [Seams](https://open.spotify.com/album/6whHGIqwgx1EAaIW46klh3) | 2:32 | 2024-06-06 |  |
 | [Search & Rescue](https://open.spotify.com/track/7INo35yvWnVY5PcEUlg1d4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/2lFkZFJ1ibZfwqembA7Nof) | 4:32 | 2023-04-07 | 2024-02-09 |
 | [Separate the Rams](https://open.spotify.com/track/5yBmeokqzmbawwhpgdWmBG) | [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY) | [Separate the Rams](https://open.spotify.com/album/7drCT7zg78Bajn6GjMvVUd) | 2:35 | 2024-04-04 |  |
 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 | 2022-08-18 | 2023-09-30 |

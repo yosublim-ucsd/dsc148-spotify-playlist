@@ -513,6 +513,28 @@
     },
     {
       "album": {
+        "name": "Eyi Yato, Pt. 1",
+        "url": "https://open.spotify.com/album/53b2xLpyijiMLpriDFPE7z"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358531,
+      "name": "Eyi Yato - Mad Professor Dub",
+      "url": "https://open.spotify.com/track/2UMIwBOisk209CjTz3ueTU"
+    },
+    {
+      "album": {
         "name": "Evergreen Songs Origina 16",
         "url": "https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6"
       },
@@ -1652,7 +1674,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 1011320,
       "name": "Precious Gift (Ebun Pataki)",
       "url": "https://open.spotify.com/track/2HSPcU5afdfX3oDsMgr60E"

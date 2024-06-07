@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest Pakistani discoveries\. Cover \- Nirmala Maghani
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,215 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,261 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 17 | [Sheesha](https://open.spotify.com/track/3ENvxpQf78f8fK7YvWzSco) | [Muheet Khan](https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9), [Illuminhadi](https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf) | [Sheesha](https://open.spotify.com/album/0K65XKaIUZSYbBqAPIyhlK) | 2:51 |
 | 18 | [LOST IN LOVE](https://open.spotify.com/track/1QLUa5rxahOZg8xgBj21tz) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD) | [YOU, ME AND MOON](https://open.spotify.com/album/3Er3piCS9jM9EvpGk212rB) | 2:58 |
 | 19 | [Nadiya Kinare](https://open.spotify.com/track/4sWeZcLHgfyNctiIfjvk2u) | [Sibte Hassan](https://open.spotify.com/artist/2ceNVQBIYl2KTQEriQdqTY) | [Nadiya Kinare](https://open.spotify.com/album/0IbTF1efupEODJqZ3uqGbr) | 2:38 |
-| 20 | [Sukh \(From "Acoustic Station"\)](https://open.spotify.com/track/1nA7jQuvzWKGVtRFH2co86) | [Kashan Admani](https://open.spotify.com/artist/0aKq6HAL3u6OgjYjMcy7qL), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92), [Shallum Xavier](https://open.spotify.com/artist/53VyWi6j6NCicjDhiv3OMl) | [Sukh \(From "Acoustic Station"\)](https://open.spotify.com/album/4wjIGoTJtWawYCqf4x0Eoa) | 4:15 |
+| 20 | [Sukh \(From "Acoustic Station"\)](https://open.spotify.com/track/1nA7jQuvzWKGVtRFH2co86) | [Kashan Admani](https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92), [Shallum Xavier](https://open.spotify.com/artist/53VyWi6j6NCicjDhiv3OMl) | [Sukh \(From "Acoustic Station"\)](https://open.spotify.com/album/4wjIGoTJtWawYCqf4x0Eoa) | 4:15 |
 | 21 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
 | 22 | [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 |
 | 23 | [2AM](https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [2AM](https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq) | 5:02 |

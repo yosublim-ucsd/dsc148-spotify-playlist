@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Tho\u00e9",
+  "description": "Il meglio dell'R&B italiano. Joshua e Shablo in cover.",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1641,6 +1641,28 @@
     },
     {
       "album": {
+        "name": "Chianu chiano (feat. Federico Di Napoli)",
+        "url": "https://open.spotify.com/album/6XrwIDS3YLDNWIx6Amkc97"
+      },
+      "artists": [
+        {
+          "name": "Brugnano",
+          "url": "https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ"
+        },
+        {
+          "name": "Federico Di Napoli",
+          "url": "https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191515,
+      "name": "Chianu chiano (feat. Federico Di Napoli)",
+      "url": "https://open.spotify.com/track/5g1miSRl5JjLXBHqUUKejy"
+    },
+    {
+      "album": {
         "name": "Molto di pi\u00f9",
         "url": "https://open.spotify.com/album/3v3EYI7xTS8yO9DgEpQaCM"
       },
@@ -1808,6 +1830,28 @@
       "duration_ms": 177107,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/4sCu7KuollkAt9xFFC7upq"
+    },
+    {
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/3VNViiWGXdYoD27WEsOWi4"
+      },
+      "artists": [
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89238,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/68Hw42cJIFcUnF364etWtX"
     },
     {
       "album": {
@@ -5661,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "Linea Di Confine",
+        "url": "https://open.spotify.com/album/0qg4LEl3ZZ46kGNrw3eiQT"
+      },
+      "artists": [
+        {
+          "name": "Corinna",
+          "url": "https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194443,
+      "name": "Linea Di Confine",
+      "url": "https://open.spotify.com/track/6GOevvSsRfxM2i8yF5m9nR"
+    },
+    {
+      "album": {
         "name": "Lo Sguardo Degli Angeli",
         "url": "https://open.spotify.com/album/2sPXbn73Q5fK4DN8sCqj5C"
       },
@@ -6865,6 +6927,32 @@
     },
     {
       "album": {
+        "name": "NIRVANA (feat. Evra & Ernvss)",
+        "url": "https://open.spotify.com/album/3gpFFqGGAPba2wQLjR6TC3"
+      },
+      "artists": [
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        },
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        },
+        {
+          "name": "ernvss",
+          "url": "https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "NIRVANA (feat. Evra & Ernvss)",
+      "url": "https://open.spotify.com/track/3vzHw9uFJNbJDxI1i4XjjI"
+    },
+    {
+      "album": {
         "name": "Nisciuna Colpa",
         "url": "https://open.spotify.com/album/1kHwMXm8o05yxZOke39LFk"
       },
@@ -7036,6 +7124,28 @@
       "duration_ms": 186434,
       "name": "Non Esisto",
       "url": "https://open.spotify.com/track/6rQPAiHbOHdsAfTl9VSpfA"
+    },
+    {
+      "album": {
+        "name": "Non Fa Pi\u00f9 Male",
+        "url": "https://open.spotify.com/album/2rPQsT07naOIFUVuU2SySF"
+      },
+      "artists": [
+        {
+          "name": "Artu10000000",
+          "url": "https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h"
+        },
+        {
+          "name": "XEUDA",
+          "url": "https://open.spotify.com/artist/7DeekH4ank1JhgMbOmO5Mu"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Non Fa + Male",
+      "url": "https://open.spotify.com/track/1BQD1WB3r9korPCevvFBrz"
     },
     {
       "album": {
@@ -7230,6 +7340,24 @@
       "duration_ms": 181463,
       "name": "Non ti sento pi\u00f9",
       "url": "https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR"
+    },
+    {
+      "album": {
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL"
+      },
+      "artists": [
+        {
+          "name": "Laila Al Habash",
+          "url": "https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178016,
+      "name": "Non ti voglio pi\u00f9",
+      "url": "https://open.spotify.com/track/4K6PHaCXQF3hFxFVnc4dAc"
     },
     {
       "album": {

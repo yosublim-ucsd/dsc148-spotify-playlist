@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-709 songs - 2 day 19 hr 58 min
+710 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 | 2023-02-17 | 2023-08-19 |
 | [Gravity](https://open.spotify.com/track/6nmNeFAVqtAgnqqh1SFqh9) | [Thomas Hoffknecht](https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf) | [Gravity Mutations](https://open.spotify.com/album/63qvDEFV5snCcAWn0hkUwV) | 6:04 | 2020-05-24 | 2020-07-19 |
 | [Greater Purpose](https://open.spotify.com/track/0AebWDXqgiFwqczWRKt2kP) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [IZREAL](https://open.spotify.com/artist/2CEWXoABoT26HwBxv9Rfgl) | [Greater Purpose](https://open.spotify.com/album/01zbGemPEWafx6eQFV2i0S) | 6:34 | 2023-10-20 |  |
+| [Greetings from the Future](https://open.spotify.com/track/4uqeuU3z22RwxXVtewiy3S) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Greetings from the Future](https://open.spotify.com/album/3Q3ShTSDB1503jtvZGQHid) | 5:28 | 2024-06-06 |  |
 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 | 2022-12-12 | 2023-01-28 |
 | [Hallucinate \- Joey Beltram Remix](https://open.spotify.com/track/7JxxXeqpKQzIDdC6HHhLTN) | [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3), [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [TRONIC 500](https://open.spotify.com/album/6x8ViVDfA99MvX6v1b1bdF) | 6:02 | 2024-05-23 |  |
 | [Hallucinations](https://open.spotify.com/track/3yDju1wZmu083M7RHATo3g) | [DESNA](https://open.spotify.com/artist/6mjU0EJu6TLflogUHAVNeg) | [Hallucinations](https://open.spotify.com/album/0V9ZwJNkNSZB68CuJDWVxK) | 6:12 | 2023-03-24 | 2023-06-17 |
@@ -567,7 +568,7 @@
 | [Speed of Light](https://open.spotify.com/track/1oS2KLeNQcz2AUr6ZqdV7K) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Speed of Light](https://open.spotify.com/album/5WV3j5PoBLPfVu1RTIrFpX) | 6:25 | 2020-05-24 | 2021-01-25 |
 | [Spule](https://open.spotify.com/track/21t50P2lLUDKXFnlekKBEX) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Spule EP](https://open.spotify.com/album/12pnv9scBrK2Gus9zqmfw9) | 7:16 | 2021-06-05 | 2021-12-04 |
 | [Stabbing](https://open.spotify.com/track/11HNHTJMORdbZM5JimuXoz) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Stabbing](https://open.spotify.com/album/3KP5JK9Riqrclze7nHMm3p) | 4:49 | 2024-02-05 |  |
-| [Stand](https://open.spotify.com/track/2DYGES8871Aqe2mbfGfkcn) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Stand](https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz) | 6:22 | 2024-02-22 |  |
+| [Stand](https://open.spotify.com/track/2DYGES8871Aqe2mbfGfkcn) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Stand](https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz) | 6:22 | 2024-02-22 | 2024-06-07 |
 | [Starlight](https://open.spotify.com/track/41b4lcycluHxxhQJ1Xtb1o) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Starlight](https://open.spotify.com/album/03JNwrvPugGzitEhJk9lyx) | 5:41 | 2024-02-22 | 2024-03-23 |
 | [Steam Room](https://open.spotify.com/track/49vBCqsbEYutjf4klDISVT) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [FOLUAL](https://open.spotify.com/artist/50xEou9cTjanfYp46mLhBw) | [Steam Room](https://open.spotify.com/album/2XXBZ5juCP3vLdWC1Jn5vj) | 6:13 | 2023-09-15 | 2023-12-02 |
 | [Step Back](https://open.spotify.com/track/72GgF4n7XFNMFgdoKFCsM2) | [OFF / GRID](https://open.spotify.com/artist/7xzpjoFYLRyu6TxSBLYmTj) | [Sonic Spectrum](https://open.spotify.com/album/2prtPSkFOLP2SUjJxPpbyz) | 4:57 | 2024-03-07 | 2024-04-06 |

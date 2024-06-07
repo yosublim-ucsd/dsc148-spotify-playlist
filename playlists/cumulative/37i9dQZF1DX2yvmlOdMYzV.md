@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-722 songs - 1 day 15 hr 26 min
+723 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 | 2023-09-18 |
 | [Just Friends](https://open.spotify.com/track/4fECQCAJRoonwoGXi898an) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Mayila](https://open.spotify.com/artist/0hgXW6IxEjc5qbrvZbiD2O) | [Just Friends](https://open.spotify.com/album/14thQ7BVtbG7elqv2OrumA) | 2:57 | 2024-02-17 | 2024-04-07 |
 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
-| [Keepin' It Kool](https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Kendra Dias](https://open.spotify.com/artist/4ntiWr0UeyP1duNqALGosf) | [Keepin' It Kool](https://open.spotify.com/album/0Q0b78qSFigP7oulHLChl6) | 5:25 | 2024-03-29 |  |
+| [Keepin' It Kool](https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Kendra Dias](https://open.spotify.com/artist/4ntiWr0UeyP1duNqALGosf) | [Keepin' It Kool](https://open.spotify.com/album/0Q0b78qSFigP7oulHLChl6) | 5:25 | 2024-03-29 | 2024-06-07 |
 | [Kendrick \- Too Hot Outside Edit](https://open.spotify.com/track/3agOGtAAYH5dH0h8AoZXn3) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Kendrick](https://open.spotify.com/album/1Cj7R7Gp0rO6q5bSuAiFEe) | 3:38 | 2021-12-15 | 2022-04-19 |
 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 | 2021-12-15 | 2023-03-11 |
 | [Kimmi](https://open.spotify.com/track/4PICq5Ndi0cEWsyRAEWED6) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [I'll Miss You](https://open.spotify.com/album/1Rmb0T7FGzLK9fOrZHmwyz) | 4:34 | 2021-12-15 | 2022-07-29 |
@@ -634,6 +634,7 @@
 | [The Healer](https://open.spotify.com/track/7otmKWoMlpWkrMnnIQHXEg) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 3:59 | 2021-12-15 | 2022-04-08 |
 | [The Man Who Has Everything](https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu) | 3:38 | 2021-12-15 | 2022-09-30 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2023-01-27 | 2023-04-15 |
+| [The Way You Are](https://open.spotify.com/track/0y63PuqT04J1EsUioyiQWp) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [The Way You Are](https://open.spotify.com/album/0TbmxVK6pALyCJB75NhLwt) | 2:34 | 2023-08-25 |  |
 | [These Days](https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh) | 3:59 | 2022-06-30 | 2023-03-11 |
 | [These Days](https://open.spotify.com/track/4UW4I0a056lfIaghMSvaf4) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/132ikw1dw0R8ZiRcn2Zkgs) | 3:59 | 2021-12-15 | 2022-07-20 |
 | [Think of You](https://open.spotify.com/track/2dYL469cuGqLCRxsbz1q7G) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Think of You](https://open.spotify.com/album/6JKWVVw9NKQIBUBhkBE5J4) | 2:35 | 2024-03-29 |  |

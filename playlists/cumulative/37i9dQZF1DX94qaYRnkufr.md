@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch DJ and producer <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a>
 
-121 songs - 7 hr 17 min
+122 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt) | 3:37 | 2021-12-09 |  |
 | [We Did It](https://open.spotify.com/track/6RH49kOurGNl02pT2iKOOp) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [We Did It](https://open.spotify.com/album/5oXgAqltubDLrYd1DYGMa6) | 2:59 | 2021-12-09 |  |
 | [Welcome](https://open.spotify.com/track/5L1tWSzpILo1JRhMeR5UZ6) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:05 | 2021-12-09 |  |
+| [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-06 |  |
 | [WIEE \(feat\. Mesto\)](https://open.spotify.com/track/0Y2QWrhPh6ATyaWYT0QLIR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:23 | 2021-12-09 |  |
 | [Wizard](https://open.spotify.com/track/4hfYGVqQ0ElgeibMocRUvi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:41 | 2021-12-09 |  |
 | [Won’t Let You Go](https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won’t Let You Go](https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h) | 3:37 | 2021-12-09 |  |

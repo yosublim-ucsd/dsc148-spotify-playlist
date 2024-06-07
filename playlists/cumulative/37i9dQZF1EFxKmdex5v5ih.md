@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-426 songs - 23 hr 30 min
+427 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 | 2023-06-22 |  |
 | [Hold You 'Til We’re Old](https://open.spotify.com/track/6BqHfjVBwIUU3ySrVhOCpg) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/2i1G52eL7dri8FAU7YT8nE) | 3:18 | 2023-12-14 | 2024-02-01 |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2021-12-27 |  |
+| [Honeymind](https://open.spotify.com/track/6YaCwYtJIDlchaC4bJ9N1g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:19 | 2024-06-06 |  |
 | [Hopeful](https://open.spotify.com/track/5NYoDiS8tn1pJgZ7z6r6vE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:18 | 2021-12-27 |  |
 | [Human](https://open.spotify.com/track/1nfCWpYLco3yv4EUHuSaXn) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Danv](https://open.spotify.com/artist/7g3nFushI3Aef0Jqw54nXG) | [Human](https://open.spotify.com/album/7HKc8fGVgOBcKVT1KmMe7w) | 3:27 | 2023-12-13 | 2024-03-27 |
 | [Human \(Remix\)](https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Manimal](https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9) | [Human \(Remix\)](https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo) | 3:31 | 2023-06-22 | 2023-12-14 |
@@ -271,7 +272,7 @@
 | [My Own Hero](https://open.spotify.com/track/29MRQQvWDsPEBPMItijfPY) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naïve](https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R) | 3:29 | 2024-02-26 |  |
 | [My Own Hero](https://open.spotify.com/track/7dLe6pF7CHdXCjv2CA3ND3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/4pMctqBaropej7qhaX4Sar) | 3:29 | 2023-12-13 | 2024-02-27 |
 | [My Religion](https://open.spotify.com/track/7BK6xn13rJRZ4OCbvAszUk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:05 | 2021-12-27 |  |
-| [Need You Now \(Originally Performed by Armin van Buuren & Jake Reese\) \[Instrumental Version\]](https://open.spotify.com/track/2tjidqayLnhGjFZNKq7ZXt) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 24](https://open.spotify.com/album/2S8LNqG6yLCjLbXTbuKIFN) | 2:58 | 2023-12-13 |  |
+| [Need You Now \(Originally Performed by Armin van Buuren & Jake Reese\) \[Instrumental Version\]](https://open.spotify.com/track/2tjidqayLnhGjFZNKq7ZXt) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 24](https://open.spotify.com/album/2S8LNqG6yLCjLbXTbuKIFN) | 2:58 | 2023-12-13 | 2024-06-07 |
 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 | 2022-09-11 |  |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-04-04 |  |
 | [Never Be Mine](https://open.spotify.com/track/54fDv21WMG1aProaN093Ro) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine \(Official Video\)](https://open.spotify.com/album/3ZlNYd5T83Kt4kN0NTjmwP) | 3:42 | 2023-12-13 | 2024-01-31 |

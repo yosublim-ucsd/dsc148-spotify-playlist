@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y regresaron las guitarras! Jos\u00e9 Madero en portada.",
-  "num_followers": 29709,
+  "num_followers": 29722,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-05-31 23:14:52",
       "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2024-05-31 23:14:52",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2024-05-31 23:14:52",
-      "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2024-05-31 23:14:52",
@@ -1303,22 +1303,30 @@
     {
       "added_at": "2024-05-31 23:14:52",
       "album": {
-        "name": "Polvo De Estrellas",
-        "url": "https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR"
+        "name": "cada que...",
+        "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
       },
       "artists": [
         {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
         },
         {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+          "name": "Santa Madero",
+          "url": "https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN"
+        },
+        {
+          "name": "Poder Fantasma",
+          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
+        },
+        {
+          "name": "Mariana Taylor",
+          "url": "https://open.spotify.com/artist/3CCt5sS8zDpFbP9EKPH5Yt"
         }
       ],
-      "duration_ms": 239533,
-      "name": "Polvo De Estrellas",
-      "url": "https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX"
+      "duration_ms": 216721,
+      "name": "cada que...",
+      "url": "https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h"
     }
   ],
   "unique_name": "Pop Rock Latino",

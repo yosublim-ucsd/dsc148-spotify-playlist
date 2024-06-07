@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > o abc da farra pra t deixar forte no \#MeuSpotify com Pe dro Sam pa io
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,244 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,152 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POCPOC](https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [POCPOC](https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX) | 2:07 |
-| 2 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
+| 2 | [Tempos Modernos \- Atemporal Remix](https://open.spotify.com/track/3kNJYo5YMwHse3sgwu6PWb) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Atemporal](https://open.spotify.com/album/1GFoN93OySnfHh823IiY7G) | 2:35 |
 | 3 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 |
 | 4 | [Amiga da Minha Mulher](https://open.spotify.com/track/6TVmNRrCRzU3NlyuubLIzZ) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 1](https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg) | 4:08 |
 | 5 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 9 | [Tenho que Me Decidir](https://open.spotify.com/track/6BWWgcNJWXQ4qRuzY5LzBP) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Tenho que Me Decidir](https://open.spotify.com/album/4fZFrnlxfL8N5DMWqyFY9K) | 3:03 |
 | 10 | [SEQUÊNCIA REVOLUCIONÁRIA](https://open.spotify.com/track/7tq8yLNkxc1eHlvLnQee6P) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui) | [SEQUÊNCIA COLOCADÃO](https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq) | 2:45 |
 | 11 | [Barulho do Prazer](https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Barulho do Prazer](https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6) | 2:30 |
-| 12 | [CAVALINHO](https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Gasparzinho](https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG) | [CAVALINHO](https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4) | 2:18 |
+| 12 | [CAVALINHO](https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Gasparzinho](https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [CAVALINHO](https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4) | 2:18 |
 | 13 | [Baby Eu Tava na Rua da Água](https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Mc Menor RV](https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Baby Eu Tava na Rua da Água](https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD) | 1:55 |
 | 14 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 15 | [SEQUÊNCIA REVOLUCIONÁRIA](https://open.spotify.com/track/5L5iGJlfO3FgICMMop7vJw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui) | [SEQUÊNCIA REVOLUCIONÁRIA](https://open.spotify.com/album/2xSh7dgbEdwBYV3qKs53SN) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Dança do Créu](https://open.spotify.com/track/3rSE4kfxP3Z0W3jDCK9Uy1) | [Mc Creu](https://open.spotify.com/artist/7gXLT7X0z4mE87tvo4V4l9) | [Dança do Créu](https://open.spotify.com/album/0VNoAKdYvTrjgB0xysOyaE) | 4:19 |
 | 50 | [Anna Júlia](https://open.spotify.com/track/0aASUtDb1N96NJDwmWj5Gf) | [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6) | [Los Hermanos](https://open.spotify.com/album/5cZ2ehOhB8ZQ0yCHJZyhlh) | 3:32 |
 
-Snapshot ID: `ZmDfCgAAAAAF7+DHULMET6iFWQkL7eCU`
+Snapshot ID: `ZmG4PwAAAADD4mG3XpWmp2mcK39NJlGz`

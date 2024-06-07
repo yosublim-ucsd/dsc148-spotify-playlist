@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Ggoldie
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Harmonize
 
-226 songs - 15 hr 45 min
+227 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Addicted](https://open.spotify.com/track/6mfSOiU5L5XrTafYETSYZv) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Colours and Sounds](https://open.spotify.com/album/3EBwkrtolowpPRnMwMcOJf) | 4:02 | 2022-05-23 | 2022-10-16 |
 | [AK47](https://open.spotify.com/track/1kHFCXvlQxPraGQZSJjiu6) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr) | [AK47](https://open.spotify.com/album/1wTgLKtxcYjrUmp8PqOpgT) | 6:17 | 2024-02-15 |  |
 | [Akulaleki](https://open.spotify.com/track/6IVjF6tfGdFBZr4wXhMRtC) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Akulaleki](https://open.spotify.com/album/0qaAJovAE75Ag87oioC3ie) | 6:21 | 2022-05-23 | 2022-09-16 |
+| [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 | 2024-06-06 |  |
 | [All of This \- Major League Djz x Dlala Mlungu Remix](https://open.spotify.com/track/6WPLujVPQnO6KKiKeM55JD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Dlala Mlungu](https://open.spotify.com/artist/0Z8ueK7EmNvhb6UQpET43Q) | [All of This Remixes, Vol\. 1](https://open.spotify.com/album/2C7i3ULo1L5InPW5uKGyF5) | 5:33 | 2022-05-23 | 2022-11-11 |
 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 | 2022-05-23 | 2022-11-01 |
 | [Amawele](https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:57 | 2022-12-12 | 2023-10-13 |
@@ -33,7 +34,7 @@
 | [Ayazizela \- Amapiano Edit](https://open.spotify.com/track/4mJc2XDSBXCjutWBGlbgkJ) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Ntsika](https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M) | [Ayazizela \(Amapiano Edit\)](https://open.spotify.com/album/1jT5DICvxIKFMF3DFJI5X6) | 6:50 | 2022-05-23 | 2022-08-05 |
 | [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 | 2022-08-11 | 2022-12-13 |
 | [Banky Banky](https://open.spotify.com/track/7BJbJvnGkTHFtf72Ijc80J) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Keep Hope Alive](https://open.spotify.com/album/3ESaEubk0R9boWw4gj7a33) | 4:31 | 2022-05-23 | 2022-08-12 |
-| [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-06-15 |  |
+| [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-06-15 | 2024-06-07 |
 | [Bassam, 12PM](https://open.spotify.com/track/4nIvqi1dzOw3k7bIkCFxpm) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [LONÏE](https://open.spotify.com/artist/26HGTzqKW72SATYQ4YmBcl), [Tino Sax](https://open.spotify.com/artist/1stC5QrkV3FfTh1cS7MAwE), [Jahelle Bonee](https://open.spotify.com/artist/5airoIwqvtssUHBcSXkYYT) | [VIBES GOT NO BORDERS Vol\. 1](https://open.spotify.com/album/1cIQ09uYElQ8c3z8Bbstky) | 6:01 | 2023-11-23 | 2024-05-11 |
 | [Bathini \(feat\. Young Stunna & Artwork Sounds\)](https://open.spotify.com/track/1rdeLjtCukMRFVW5GgZgHu) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR) | [Bathini \(feat\. Young Stunna & Artwork Sounds\)](https://open.spotify.com/album/0io0I1tNzck5wHgmBMPcUU) | 7:57 | 2022-06-16 | 2023-03-03 |
 | [Be](https://open.spotify.com/track/6JzDmKsKyPmkKixEnk1Iwg) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Hexagon](https://open.spotify.com/album/3I3j5cgln5bast344XgvUA) | 2:43 | 2024-05-31 |  |

@@ -4,7 +4,7 @@
 
 > you give me shiverssss
 
-77 songs - 3 hr 54 min
+78 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,13 +70,14 @@
 | [Shady](https://open.spotify.com/track/0N0avWHBgmoKLqmyMlEHvZ) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Shady](https://open.spotify.com/album/6295ZTH8yEMfO8CRvBeJoo) | 3:32 | 2024-05-17 |  |
 | [Stuck Inside](https://open.spotify.com/track/5l0YvtHzzyNPJ4rAiw9tYT) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z), [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Home Buddies](https://open.spotify.com/album/5HVCOmfEypAFVDbUatTywe) | 1:55 | 2024-02-09 | 2024-03-01 |
 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 | 2024-02-09 |  |
-| [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2024-02-09 |  |
+| [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2024-02-09 | 2024-06-07 |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2024-02-09 |  |
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-31 |  |
 | [Tempted](https://open.spotify.com/track/4V9v5ehAQpFyZ3GQQhCGT7) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Tempted](https://open.spotify.com/album/5KefTVJlpmOtVTp9xnp1Yi) | 2:43 | 2024-02-09 | 2024-03-01 |
 | [THE PLEASURE PRINCIPLE](https://open.spotify.com/track/2Mi6xZwRYDe9RLVpeFtpgX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 4:08 | 2024-02-09 |  |
 | [Tides](https://open.spotify.com/track/6GWbylTtbLetG7vfl4tlkI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Trouble In Paradise](https://open.spotify.com/album/1ltjerRedPrqqpM0Nb1MXl) | 3:58 | 2024-02-09 | 2024-03-08 |
 | [Toxic Trends](https://open.spotify.com/track/1pPquaWmcvzLtO0nffSsLV) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Toxic Trends](https://open.spotify.com/album/0V3g6AqzVtFF7OFQSdqRrL) | 3:32 | 2024-05-31 |  |
+| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 |  |
 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 | 2024-05-31 |  |
 | [Vowel Sounds](https://open.spotify.com/track/3wuWe3quRaU1rzd1lLQnN4) | [Legendary Suni](https://open.spotify.com/artist/0P8DZ3ltbouoBdElVotTtf) | [Hybrid](https://open.spotify.com/album/0J107ivNTNANPUakaqaYi4) | 3:00 | 2024-02-09 |  |
 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 | 2024-05-17 |  |

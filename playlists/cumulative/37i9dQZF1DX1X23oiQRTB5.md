@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> SCH au top de la première playlist de rap français.
+> Green Montana au top de la première playlist de rap français.
 
-254 songs - 13 hr 3 min
+255 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [3 MAI 2025](https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 MAI 2025](https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG) | 2:46 | 2024-02-08 | 2024-06-01 |
 | [3 singes](https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 singes](https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO) | 3:02 | 2023-02-16 | 2023-04-14 |
 | [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 | 2022-12-09 |
-| [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-07 |  |
+| [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-07 | 2024-06-07 |
 | [6G](https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [6G](https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt) | 2:52 | 2024-02-08 | 2024-04-05 |
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 | 2022-07-29 |
 | [A la base](https://open.spotify.com/track/0VJwgZkDmZZLZygKnPj2s6) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 4:26 | 2022-07-28 | 2022-08-26 |
@@ -115,6 +115,7 @@
 | [Guapman](https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Guapman](https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De) | 2:09 | 2022-08-11 | 2023-03-25 |
 | [Gâchette](https://open.spotify.com/track/0rjKTXFvdFgAZ4dEG4AryJ) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Gâchette](https://open.spotify.com/album/0qpgphzMRmKDgi9UGCLc2w) | 2:38 | 2022-06-09 | 2022-07-22 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2022-01-06 | 2022-06-10 |
+| [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-06 |  |
 | [HRTBRK \#6](https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#6](https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP) | 2:51 | 2023-01-26 | 2023-05-19 |
 | [HRTBRK \#7](https://open.spotify.com/track/3opEx8XXOQ9nv1tLdKhLdc) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#7](https://open.spotify.com/album/13de85MorIzPbSp7cE2642) | 3:04 | 2023-11-30 | 2024-04-19 |
 | [Immonde](https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Immonde](https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3) | 2:42 | 2023-09-14 | 2024-05-24 |
@@ -128,7 +129,7 @@
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2022-01-06 | 2022-02-18 |
 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 | 2023-01-12 | 2023-10-20 |
 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Gaule, Vol.1](https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP) | 2:39 | 2023-02-02 | 2024-02-09 |
-| [Jour de plus](https://open.spotify.com/track/0sazgd7qckzMWxJ6IHcRFv) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:29 | 2023-09-28 |  |
+| [Jour de plus](https://open.spotify.com/track/0sazgd7qckzMWxJ6IHcRFv) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:29 | 2023-09-28 | 2024-06-07 |
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2022-02-03 | 2022-06-10 |
 | [KOA](https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KOA](https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1) | 3:07 | 2022-10-20 | 2023-01-13 |
 | [Kongolais mauvais \(feat\. Ninho\)](https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 3:49 | 2022-04-07 | 2022-07-01 |
@@ -238,7 +239,7 @@
 | [Sport Billy](https://open.spotify.com/track/04NLVvskT61Zh6SODtr6ZP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Sport Billy](https://open.spotify.com/album/0ETFEUoh6Ii8Lhr8TJdjjV) | 2:09 | 2023-11-30 | 2023-12-22 |
 | [Spéciale](https://open.spotify.com/track/6OxnhCRysP2WZwBBwaTttj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 2:57 | 2022-11-10 | 2023-02-10 |
 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 | 2022-07-28 | 2022-11-25 |
-| [SURVIE](https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SURVIE](https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr) | 2:54 | 2024-05-30 |  |
+| [SURVIE](https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SURVIE](https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr) | 2:54 | 2024-05-30 | 2024-06-07 |
 | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/2Tm9ujeEWuBBsg6OPlRqvg) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:33 | 2024-01-18 |  |
 | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX) | 2:33 | 2023-12-21 | 2024-01-19 |
 | [Talent](https://open.spotify.com/track/3H3TloF0bCS7SHy3ovObeo) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Talent](https://open.spotify.com/album/0gcdxiAStFBexluiXVfsgI) | 3:01 | 2022-11-10 | 2023-01-27 |

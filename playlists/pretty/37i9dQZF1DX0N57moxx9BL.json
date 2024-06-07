@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 150675,
+  "num_followers": 150704,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Cave",
-        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "I Won't Look Back",
         "url": "https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 200453,
       "name": "I Won't Look Back",
       "url": "https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Cave",
+        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
       "artists": [
         {
-          "name": "Danger Scene",
-          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
         }
       ],
-      "duration_ms": 246286,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
       },
       "artists": [
         {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
+          "name": "Danger Scene",
+          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
         }
       ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
+      "duration_ms": 246286,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Into the Sea",
         "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 245080,
       "name": "Coming Clean",
       "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
-      },
-      "artists": [
-        {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
-        }
-      ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+      },
+      "artists": [
+        {
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+        }
+      ],
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 225840,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Death Stare",
-        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
-      },
-      "artists": [
-        {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
-        }
-      ],
-      "duration_ms": 248972,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Death Stare",
+        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
+      },
+      "artists": [
+        {
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+        }
+      ],
+      "duration_ms": 248972,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
-      },
-      "artists": [
-        {
-          "name": "Futur",
-          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
-        }
-      ],
-      "duration_ms": 199252,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Melancholy Machines",
         "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 255980,
       "name": "Pls Snd Hlp",
       "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
+      },
+      "artists": [
+        {
+          "name": "Futur",
+          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
+        }
+      ],
+      "duration_ms": 199252,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Antihero",
-        "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 248392,
-      "name": "The Antihero",
-      "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Strong Enough to Live",
         "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Antihero",
+        "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 248392,
+      "name": "The Antihero",
+      "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Anger",
-        "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 376119,
-      "name": "Anger",
-      "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Last Day Rising",
         "url": "https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 242506,
       "name": "Ready to Roll",
       "url": "https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 376119,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "We Never Die",
         "url": "https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 215986,
       "name": "We Never Die",
       "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/3GXG3VarQFE1fn0RwBGapZ"
-      },
-      "artists": [
-        {
-          "name": "Zona 7",
-          "url": "https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI"
-        }
-      ],
-      "duration_ms": 234342,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/5bzYivepxtHfBzE7tBvUPs"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5"
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/3GXG3VarQFE1fn0RwBGapZ"
       },
       "artists": [
         {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+          "name": "Zona 7",
+          "url": "https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI"
         }
       ],
-      "duration_ms": 275555,
-      "name": "Narrow Road",
-      "url": "https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is"
+      "duration_ms": 234342,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/5bzYivepxtHfBzE7tBvUPs"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Think of Me",
+        "url": "https://open.spotify.com/album/46NMUaEPuQdNjX3dJPexqt"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        },
+        {
+          "name": "4th Point",
+          "url": "https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL"
+        }
+      ],
+      "duration_ms": 223623,
+      "name": "Think of Me",
+      "url": "https://open.spotify.com/track/2n8PXB9sQMIuo91MQ6KACy"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Eulogies (Live Sessions)",
         "url": "https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 239450,
       "name": "Black Honey",
       "url": "https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Think of Me",
-        "url": "https://open.spotify.com/album/46NMUaEPuQdNjX3dJPexqt"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        },
-        {
-          "name": "4th Point",
-          "url": "https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL"
-        }
-      ],
-      "duration_ms": 223623,
-      "name": "Think of Me",
-      "url": "https://open.spotify.com/track/2n8PXB9sQMIuo91MQ6KACy"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Finish Line (feat. Adam Gontier)",
-        "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5SQnp6ujMnSkSCOQg2g0PV"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+          "name": "The Letter Black",
+          "url": "https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG"
         }
       ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
+      "duration_ms": 225490,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH"
     }
   ],
   "unique_name": "Top Christian Rock",

@@ -23017,6 +23017,28 @@
     },
     {
       "album": {
+        "name": "El 04",
+        "url": "https://open.spotify.com/album/12EJqgxGqKODs5mkDKouH8"
+      },
+      "artists": [
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        },
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198681,
+      "name": "El 04",
+      "url": "https://open.spotify.com/track/5ggDIDpmh326uZwhAWnZWB"
+    },
+    {
+      "album": {
         "name": "El 08",
         "url": "https://open.spotify.com/album/1C2oX8XsbuZSr5ovOURbtG"
       },

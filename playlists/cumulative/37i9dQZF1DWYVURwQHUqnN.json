@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Hamza x Kore",
+  "description": "Photo : Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 132676,
       "name": "Doggy",
       "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "HASTA LA VISTA",
+        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "HASTA LA VISTA",
+      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "album": {
         "name": "H\u00c9LICOPT\u00c8RE || 808CLUB",
         "url": "https://open.spotify.com/album/2qTrrqK1RgB2oV86TxJSwJ"
       },
@@ -819,6 +837,24 @@
     },
     {
       "album": {
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182984,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL"
+    },
+    {
+      "album": {
         "name": "J'fais que danser",
         "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
       },
@@ -830,7 +866,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 173586,
       "name": "J'fais que danser",
       "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
@@ -1334,7 +1370,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 202186,
       "name": "No love",
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 161696,
       "name": "Tentation",
       "url": "https://open.spotify.com/track/1nhBQ2Xm5HylZoQBekgL9P"
@@ -2250,6 +2286,24 @@
       "duration_ms": 165353,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
+    },
+    {
+      "album": {
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Ti\u00e9 fou",
+      "url": "https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW"
     },
     {
       "album": {

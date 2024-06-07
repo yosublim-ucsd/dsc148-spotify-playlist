@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 233174,
       "name": "Aragorn",
       "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
@@ -3212,6 +3212,24 @@
       "duration_ms": 147857,
       "name": "Vibrations",
       "url": "https://open.spotify.com/track/1Dzbs1yub3kkAzlxwGuXQC"
+    },
+    {
+      "album": {
+        "name": "Vortex Trance",
+        "url": "https://open.spotify.com/album/70sKQPPEhenDxhxPmC6QGJ"
+      },
+      "artists": [
+        {
+          "name": "Just Fillin' Time",
+          "url": "https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Vortex Trance",
+      "url": "https://open.spotify.com/track/6bl76Eco7CEr7JJdhmdqoF"
     },
     {
       "album": {

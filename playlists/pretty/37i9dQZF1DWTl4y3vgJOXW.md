@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Kyrie Irving
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,286,448 likes - 92 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,287,595 likes - 92 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

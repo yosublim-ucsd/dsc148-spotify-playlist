@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tems
 
-623 songs - 1 day 6 hr 53 min
+624 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-21 | 2022-11-04 |
 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 | 2022-05-27 |
 | [In Love](https://open.spotify.com/track/4WM7I8zRXJ6qjl4kuHeHrF) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Trafic Inter](https://open.spotify.com/album/4gPe7bl2PI7Jv1acB0J3gw) | 3:01 | 2022-11-10 | 2023-04-28 |
-| [In My Feelings](https://open.spotify.com/track/09TzHCTLSIx4UvQloqw5lS) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [In My Feelings](https://open.spotify.com/album/2jnWt8ZFbEw0IKXvMzJuDG) | 3:22 | 2024-02-22 |  |
+| [In My Feelings](https://open.spotify.com/track/09TzHCTLSIx4UvQloqw5lS) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [In My Feelings](https://open.spotify.com/album/2jnWt8ZFbEw0IKXvMzJuDG) | 3:22 | 2024-02-22 | 2024-06-07 |
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-09-22 | 2022-11-25 |
 | [Intentionally \- Remix](https://open.spotify.com/track/1uEgtxDYgAkGMwTxc4dOAA) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Smyley](https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx) | [Intentionally \(Remix\)](https://open.spotify.com/album/6TyDoGRE4MPi5pAoQV8U5F) | 3:25 | 2022-02-03 | 2022-03-11 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-13 | 2023-12-01 |
@@ -580,6 +580,7 @@
 | [Tout couper](https://open.spotify.com/track/5qeK6PMxjJAqgx3wPuVlJ2) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Tout couper](https://open.spotify.com/album/0kb26UaIxaF0gG38bP6Cbw) | 2:55 | 2023-11-23 | 2023-12-15 |
 | [TOUT DOUCEMENT](https://open.spotify.com/track/3l55QcQXIw3kq0bcgUP9oq) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TOUT DOUCEMENT](https://open.spotify.com/album/0Z9GnEkoYAmFs3tFUoaSU8) | 2:59 | 2022-07-21 | 2022-07-29 |
 | [Tout doucement](https://open.spotify.com/track/5ltwsSaEsdsUVaiqLx0CKV) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Tout doucement](https://open.spotify.com/album/4B5Pls0WHD10EodLtIbutg) | 2:59 | 2022-07-28 | 2022-11-11 |
+| [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-06-06 |  |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-05-19 | 2022-09-16 |
 | [Toxic Love](https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Toxic Love](https://open.spotify.com/album/401ZkPLClE3UGAn7DepicP) | 3:27 | 2021-12-27 | 2022-02-11 |
 | [Trop intense](https://open.spotify.com/track/16AMJ7tU9TXfiSKepxpCJR) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [Trop intense](https://open.spotify.com/album/5pK1UjbKezgFzawUAFACEI) | 2:10 | 2023-06-08 | 2023-06-13 |

@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-277 songs - 16 hr 28 min
+279 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Arriba](https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ) | [Chini and The Technicians](https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR) | [Arriba Es Abajo](https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My) | 4:07 | 2022-07-15 | 2024-04-19 |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-06-16 |  |
 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 | 2022-01-20 |  |
-| [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 | 2022-01-20 |  |
+| [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 | 2022-01-20 | 2024-06-07 |
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-03 | 2024-04-19 |
 | [Avion Aterrizando](https://open.spotify.com/track/4dPvcT1zazU3ohYldotSpc) | [Diana Nylon](https://open.spotify.com/artist/7yTjWvb65d481CWZKveRU0), [Fabi Cantilo](https://open.spotify.com/artist/3sjefht4ptSmCcrK30r4gO) | [El Ciudadano](https://open.spotify.com/album/1NoQ5A2fF1EX4bkmze6n73) | 2:21 | 2022-01-20 | 2022-06-30 |
 | [Azul Casi Morado](https://open.spotify.com/track/53WX4UMylwqJgD2gBEfzpV) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [Rock en Español \- Lo Mejor de Santa Sabina](https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH) | 4:16 | 2022-01-20 |  |
@@ -74,6 +74,7 @@
 | [Dibujo un Corazón](https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn) | 3:59 | 2022-07-15 | 2024-04-19 |
 | [Difícil](https://open.spotify.com/track/7vSk4iRkEZlhAo8cHTv43h) | [Manena Duel](https://open.spotify.com/artist/0xTjgMdSazGzYwhu6WCQft) | [Difícil](https://open.spotify.com/album/6wSCmwzqdAbD3PQ0uIqAjy) | 3:22 | 2022-01-20 | 2022-07-29 |
 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 | 2023-11-24 | 2024-05-18 |
+| [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 | 2024-06-06 |  |
 | [Directa](https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Gracias por Cuidar el Equipo](https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY) | 3:47 | 2022-01-20 |  |
 | [Donde Van Mis Pies](https://open.spotify.com/track/2i9ocfwryqSKDxJVOCjsWg) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Puertos](https://open.spotify.com/album/3DAwdIJ9cQC0K4its1cbyV) | 2:54 | 2022-01-20 | 2022-07-27 |
 | [Dormis?](https://open.spotify.com/track/5QmbF5VO4HmSRuTrBQTloW) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Dormis?](https://open.spotify.com/album/5QxZ0o2KsC2zCmSZI1W1kd) | 3:09 | 2022-01-20 | 2022-07-29 |
@@ -99,6 +100,7 @@
 | [Esquizofrenia](https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Esquizofrenia](https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD) | 3:08 | 2022-01-20 |  |
 | [Esto Que Me Pasa](https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras](https://open.spotify.com/album/7oCLObV17HUtRMsCLL0nXV) | 4:22 | 2022-01-20 |  |
 | [Estoy Tocando Fondo](https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9) | 2:16 | 2022-01-20 |  |
+| [Estás Borracho](https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8) | [Venus](https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh) | [El Ataque de Zorrita](https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ) | 2:38 | 2024-06-06 |  |
 | [Excursiones](https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:14 | 2022-01-20 |  |
 | [Fantasma](https://open.spotify.com/track/6u7epwlHgiaZYm0cZTwHIW) | [Vosotras Veréis](https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu) | [Fantasma](https://open.spotify.com/album/0eFethvxBBEroeAICMe9JY) | 3:24 | 2022-01-20 | 2022-07-29 |
 | [Fantasía](https://open.spotify.com/track/5pwjdeZNeYDmLYX2NtLhBO) | [Sol Marianela](https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD) | [Fantasía](https://open.spotify.com/album/470v1dAErj4vs7FFwqswMS) | 2:24 | 2024-01-18 | 2024-03-06 |
@@ -225,7 +227,7 @@
 | [Preguntame](https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx) | 3:24 | 2022-07-15 | 2024-04-19 |
 | [Preguntame](https://open.spotify.com/track/7BdzqCXydkS6l1wwMvCxS5) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/3pk0T946c4iXSPjaFTaVGD) | 3:24 | 2022-01-20 | 2022-07-25 |
 | [Proclama](https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7) | [Marea Negra](https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC) | 4:03 | 2022-01-20 | 2022-09-02 |
-| [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 | 2024-03-07 |  |
+| [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 | 2024-03-07 | 2024-06-07 |
 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 | 2023-03-25 |  |
 | [Puta Ama](https://open.spotify.com/track/6yhM1IkrC75xyP30DZpwZ4) | [Mel Cruz](https://open.spotify.com/artist/1Z2RUF4NkTpb17orx30aBq) | [Puta Ama](https://open.spotify.com/album/6Dn5mzJT0z0KyHdObvB2yR) | 2:38 | 2022-01-20 | 2023-10-03 |
 | [Quedate](https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:13 | 2022-01-20 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Headbangers of Bangladesh. Cover - Shironamhin",
+  "description": "Headbangers of Bangladesh. Cover - Warfaze",
   "name": "Bangla Rock",
   "tracks": [
     {
@@ -3712,6 +3712,24 @@
       "duration_ms": 441783,
       "name": "Obak Bhalobasha (Sob Aalo Nibe Ja)",
       "url": "https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ"
+    },
+    {
+      "album": {
+        "name": "Obak Bhalobasha | Coke Studio Bangla",
+        "url": "https://open.spotify.com/album/7LFcrh6k5bUvi9ls25LWuc"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408500,
+      "name": "Obak Bhalobasha | Coke Studio Bangla",
+      "url": "https://open.spotify.com/track/1qG2wN8k7rY0vNpuTMjOlI"
     },
     {
       "album": {

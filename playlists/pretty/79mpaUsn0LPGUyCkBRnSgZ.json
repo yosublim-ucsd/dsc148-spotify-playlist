@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGCBvAiDtNINdPLpN3XBYZXDVonYEe",
+  "snapshot_id": "AAAGCoP+5BKwhti4gx5mB4iwyWlXPHAf",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8303,6 +8303,42 @@
       "duration_ms": 214586,
       "name": "Every Now and Then",
       "url": "https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp"
+    },
+    {
+      "added_at": "2024-06-06 13:11:57",
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Phylicia Rashad",
+          "url": "https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM"
+        }
+      ],
+      "duration_ms": 68828,
+      "name": "She\u2019s Expecting You (feat. Phylicia Rashad)",
+      "url": "https://open.spotify.com/track/7Epbvcmjoh3CCOP5RtSVI3"
+    },
+    {
+      "added_at": "2024-06-06 18:22:26",
+      "album": {
+        "name": "A Crow Looked at Me",
+        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 147533,
+      "name": "Real Death",
+      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
     }
   ],
   "unique_name": "Zacklog",

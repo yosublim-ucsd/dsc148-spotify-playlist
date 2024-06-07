@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Lisa Pariente
+> La pop française annonce la couleur\. Photo : RORI
 
-189 songs - 9 hr 22 min
+190 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [CHAVIRE](https://open.spotify.com/track/7Dz7FQgW6Wkr5hfxMKneFa) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [CHAVIRE](https://open.spotify.com/album/01iCU2e0KQI7b1FUhCbqWa) | 2:47 | 2023-09-14 | 2023-11-25 |
 | [Comme ceux qui s'aiment](https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis) | [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Comme ceux qui s'aiment](https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC) | 3:05 | 2024-01-25 |  |
 | [Comme je suis belle](https://open.spotify.com/track/7yM1d0OtroPcDI7tRxIExK) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [J'vais bien](https://open.spotify.com/album/1zOhEkxGnRvaESmUxpcucl) | 2:42 | 2023-07-27 | 2023-10-06 |
+| [Comme Will](https://open.spotify.com/track/2HNDyfBNhMrX6BU1gC2zLP) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Comme Will](https://open.spotify.com/album/2rmd0gLPanM23MgOrhoPAh) | 3:22 | 2024-06-06 |  |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-21 | 2023-12-01 |
 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 | 2023-10-12 | 2024-03-01 |
 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 | 2024-01-18 |  |
@@ -83,7 +84,7 @@
 | [Ilavu](https://open.spotify.com/track/6nKlrxZZsN20urXWvQOqHf) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Ilavu](https://open.spotify.com/album/5yeN5bot9aY9o3PFamGNrv) | 2:58 | 2024-02-08 | 2024-03-22 |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-07-27 | 2023-10-06 |
 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 | 2023-12-21 | 2024-03-08 |
-| [J'entends battre ton cœur](https://open.spotify.com/track/7Jhv1m9tqa3bkRhMXXjvIx) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [J'entends battre ton cœur](https://open.spotify.com/album/5LrJdOM0v6xxdOwosmKqZz) | 3:31 | 2024-05-16 |  |
+| [J'entends battre ton cœur](https://open.spotify.com/track/7Jhv1m9tqa3bkRhMXXjvIx) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [J'entends battre ton cœur](https://open.spotify.com/album/5LrJdOM0v6xxdOwosmKqZz) | 3:31 | 2024-05-16 | 2024-06-07 |
 | [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 | 2023-09-28 | 2024-03-08 |
 | [J'suis pas désolée](https://open.spotify.com/track/0lXOvhcpVYjLvxUhVY3MuY) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [J'suis pas désolée](https://open.spotify.com/album/3Orqw5q7jQXwqstseEYNF2) | 2:12 | 2024-02-01 | 2024-04-26 |
 | [J'vais passer l'âge](https://open.spotify.com/track/2lXsHUjQV9sZN83sivu9JE) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [J'vais passer l'âge](https://open.spotify.com/album/37vSJJne6tHF4nDhnRDybJ) | 3:02 | 2023-10-12 | 2023-11-10 |

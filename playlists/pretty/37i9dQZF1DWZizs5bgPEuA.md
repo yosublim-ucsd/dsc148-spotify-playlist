@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,099 likes - 29 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 29 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,015 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,040 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 66 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 | 67 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 |
 | 68 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
-| 69 | [Da Girls \- Dance Mix](https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Da Girls \(Dance Mix\)](https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz) | 2:26 |
-| 70 | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL) | [Chris Mula](https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt) | 1:48 |
+| 69 | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL) | [Chris Mula](https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt) | 1:48 |
+| 70 | [Da Girls \- Dance Mix](https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Da Girls \(Dance Mix\)](https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz) | 2:26 |
 | 71 | [HATE ME](https://open.spotify.com/track/0trJmHGtsrgcey9CQ3YxrJ) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [HATE ME](https://open.spotify.com/album/3iWKVzI8YtUmESnwlwAnV9) | 2:02 |
 | 72 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
 | 73 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |

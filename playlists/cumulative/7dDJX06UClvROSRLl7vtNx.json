@@ -2911,6 +2911,32 @@
     },
     {
       "album": {
+        "name": "Here Comes The Sun",
+        "url": "https://open.spotify.com/album/1q3B6NIZAiJIk6bmBSYxif"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        },
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/1e6TMkfMefQea5G8Y7LAbm"
       },

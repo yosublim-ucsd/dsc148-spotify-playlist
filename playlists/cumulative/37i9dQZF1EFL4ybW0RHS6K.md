@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-77 songs - 3 hr 35 min
+78 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Grote Beurt](https://open.spotify.com/track/22IsWgcSkQahpBsAAqAV6r) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Grote Beurt](https://open.spotify.com/album/0g9It2xph0256veS65oe8H) | 2:22 | 2024-01-29 |  |
 | [Gwoaning](https://open.spotify.com/track/6iE8AzhOvnQ5zhdvXUHRs2) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gwoaning](https://open.spotify.com/album/1o9Izzo7LSJZKbKYb7vOAJ) | 1:57 | 2024-01-29 |  |
 | [Hier Voor Jou](https://open.spotify.com/track/7LXLHvHbzP8wHlXRsV6BYj) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Hier Voor Jou](https://open.spotify.com/album/4cxUBYQYzZ3DvFFP6Ej8Ya) | 3:38 | 2024-01-29 |  |
+| [Highway](https://open.spotify.com/track/5FUcKAYzSPlMuGhQX2qGXf) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Highway](https://open.spotify.com/album/5ClLCXGBlTH4YJeaGg9H1w) | 2:37 | 2024-06-06 |  |
 | [HOCKEYTAS \(feat\. Caza, Makkie & Levy\)](https://open.spotify.com/track/0mrccrNBshJdcBQmDQn872) | [Kid de Blits](https://open.spotify.com/artist/5geBneZf2rfQaLDUVkQBFn), [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Makkie](https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo), [Levy](https://open.spotify.com/artist/7rKGfexDBEW4Ph0m7OkaWx) | [DSL](https://open.spotify.com/album/0eWVUKsMqv1fFsehw51Xh3) | 3:12 | 2024-01-29 |  |
 | [HOTBOX \(feat\. Caza & ROLLÀN\)](https://open.spotify.com/track/0nZzPrwotUUnnduMYzoiSG) | [Kid de Blits](https://open.spotify.com/artist/5geBneZf2rfQaLDUVkQBFn), [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [ROLLÀN](https://open.spotify.com/artist/3sQYZrIBmLAuNc7tsLtkka) | [DSL](https://open.spotify.com/album/0eWVUKsMqv1fFsehw51Xh3) | 2:48 | 2024-01-29 |  |
 | [HOUD ME VAST](https://open.spotify.com/track/1TqCfH7JX282aVNvjRUUmH) | [Nienke Plas](https://open.spotify.com/artist/5rAvD7H6mxJut208JT5KI4) | [HOUD ME VAST](https://open.spotify.com/album/4ZFp2KgE1QN5nFEISt6otd) | 3:48 | 2024-01-29 |  |

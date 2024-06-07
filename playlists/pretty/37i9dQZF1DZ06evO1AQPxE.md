@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 ### [This Is Jack Harlow](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AQPxE)
 
-> This is Jack Harlow\. The essential tracks, all in one playlist.
+> This is Jack Harlow\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,796 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,816 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [Time](https://open.spotify.com/track/2u1reDAcQvETi2bder48nX) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [The Balancing Act](https://open.spotify.com/album/7q3ff38RxgNN0HbG5WNDWF) | 2:32 |
 | 50 | [Ball Is Life \(feat\. Jack Harlow\)](https://open.spotify.com/track/5KWwD9LzZa6ruNYGNqAqoN) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Madden NFL 22 Soundtrack](https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB) | 5:23 |
 
-Snapshot ID: `Zl5ZAAAAAAAHLxreXK1gob0Rn4N+Xige`
+Snapshot ID: `Zl+qgAAAAACWCbsyfIJiwLMXBkK0IjTb`

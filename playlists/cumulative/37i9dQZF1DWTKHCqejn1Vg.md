@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+](https://open.spotify.com/track/5FZNczPCUh5scxptzYLBTO) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:42 | 2022-05-03 | 2022-07-12 |
-| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2022-05-03 |  |
+| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [Sinae](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2022-05-03 |  |
 | [21](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:27 | 2022-05-03 |  |
 | [24K \(feat\. Kvsh, DUT2\)](https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU) | [blienty](https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [RESONANCE](https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6) | 2:43 | 2023-06-02 | 2023-07-02 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-08 |  |

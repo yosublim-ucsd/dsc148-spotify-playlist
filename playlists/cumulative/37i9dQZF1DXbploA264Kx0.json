@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Layton Wu",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: I Mean Us",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Face Down (Hands Up)",
+        "url": "https://open.spotify.com/album/7uOjUD3alf1a7nMuJdWmhC"
+      },
+      "artists": [
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161694,
+      "name": "Face Down (Hands Up)",
+      "url": "https://open.spotify.com/track/1yt4lFQALSV3rqKM9x9nIv"
+    },
+    {
+      "album": {
         "name": "TOKYO ACOUSTIC SESSION",
         "url": "https://open.spotify.com/album/3wLZWpTgaMF0qbRMtNGbui"
       },
@@ -1152,6 +1174,28 @@
       "duration_ms": 284758,
       "name": "Just Touch Me - Live Session",
       "url": "https://open.spotify.com/track/67X9AeY2c91iYQChCJi7zh"
+    },
+    {
+      "album": {
+        "name": "Kaede Kimura",
+        "url": "https://open.spotify.com/album/2dJaZ2kGpFTJ0cXxBO4lBV"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        },
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187585,
+      "name": "Kaede Kimura",
+      "url": "https://open.spotify.com/track/2Y2jsX6Uzpe4CFsy4vrOYL"
     },
     {
       "album": {
@@ -2576,7 +2620,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 212078,
       "name": "\u526f\u90fd\u5fc3",
       "url": "https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n"
@@ -2912,7 +2956,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 207000,
       "name": "\u795e\u69d8",
       "url": "https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU"

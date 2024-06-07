@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 173586,
       "name": "J'fais que danser",
       "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 220013,
       "name": "Oh qu'elle est belle",
       "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "So7ba",
+        "url": "https://open.spotify.com/album/3bFQ38gXLJgtxR6SGraJSX"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "So7ba",
+      "url": "https://open.spotify.com/track/72Hxn5mWGhp1CDh6ZFT6zd"
+    },
+    {
+      "album": {
         "name": "Sokkar",
         "url": "https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np"
       },
@@ -1386,6 +1404,24 @@
       "duration_ms": 165353,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
+    },
+    {
+      "album": {
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Ti\u00e9 fou",
+      "url": "https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW"
     },
     {
       "album": {

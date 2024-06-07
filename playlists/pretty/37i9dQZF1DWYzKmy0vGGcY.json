@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 424490,
+  "num_followers": 424595,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
@@ -715,6 +699,22 @@
       "duration_ms": 181666,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 178466,
       "name": "Trust In Me",
       "url": "https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "13 Smash Hits",
@@ -987,6 +971,22 @@
       "duration_ms": 257440,
       "name": "(It Looks Like) I'll Never Fall In Love Again",
       "url": "https://open.spotify.com/track/70wRitifPn1bC1FGjOrFwN"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Definitive Soul: Sam & Dave",
-        "url": "https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 194866,
       "name": "Harbor Lights",
       "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Definitive Soul: Sam & Dave",
+        "url": "https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1917,22 +1917,6 @@
       "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/56dVr48fkRjXXHKE2dG6ya"
-      },
-      "artists": [
-        {
-          "name": "David Ruffin",
-          "url": "https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Put A Little Love In Your Heart",
-      "url": "https://open.spotify.com/track/4BaAOHT6nF3F8oV7n8OvD1"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Ketty Lester Presenting Love Letters",
@@ -1947,6 +1931,22 @@
       "duration_ms": 162840,
       "name": "Love Letters (Alternate Take)",
       "url": "https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/56dVr48fkRjXXHKE2dG6ya"
+      },
+      "artists": [
+        {
+          "name": "David Ruffin",
+          "url": "https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Put A Little Love In Your Heart",
+      "url": "https://open.spotify.com/track/4BaAOHT6nF3F8oV7n8OvD1"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2029,22 +2029,6 @@
       "url": "https://open.spotify.com/track/3wU4Rm4aNBXTTOTZNOEyEz"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "You Can Have Him: Ketty Lester Sings Love Letters and Other Greats",
-        "url": "https://open.spotify.com/album/4T9K5QKfouurfYzJ9mbAAR"
-      },
-      "artists": [
-        {
-          "name": "Ketty Lester",
-          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/770bUE65sXIhYuLNGm4CIL"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Chess Pieces: The Very Best Of Chess Records",
@@ -2059,6 +2043,22 @@
       "duration_ms": 195960,
       "name": "Sitting In The Park - Single Version",
       "url": "https://open.spotify.com/track/2DW26fhI4XCVUmR0ong4Nn"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "You Can Have Him: Ketty Lester Sings Love Letters and Other Greats",
+        "url": "https://open.spotify.com/album/4T9K5QKfouurfYzJ9mbAAR"
+      },
+      "artists": [
+        {
+          "name": "Ketty Lester",
+          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/770bUE65sXIhYuLNGm4CIL"
     },
     {
       "added_at": "2022-05-30 13:00:37",

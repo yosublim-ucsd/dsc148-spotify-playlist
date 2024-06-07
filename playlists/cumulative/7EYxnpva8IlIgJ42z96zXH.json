@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 203612,
       "name": "Angels Brought Me Here, Again",
       "url": "https://open.spotify.com/track/7b9X7LH0OTTFUDSAd4FIwY"
@@ -4606,7 +4606,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 192658,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4aq3SYTYUlDF1CKBcSnRUq"
@@ -6292,6 +6292,24 @@
       "duration_ms": 181935,
       "name": "GIRL LIKE ME - twocolors remix",
       "url": "https://open.spotify.com/track/19tO5sNxHHJcX7CUPMVykl"
+    },
+    {
+      "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "album": {
@@ -11870,7 +11888,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 138559,
       "name": "Out of Love",
       "url": "https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3"
@@ -16131,6 +16149,28 @@
     },
     {
       "album": {
+        "name": "Think of You (Ninajirachi Remix)",
+        "url": "https://open.spotify.com/album/52DsSOVonnD1ZrGhoUjCnZ"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204449,
+      "name": "Think of You - Ninajirachi Remix",
+      "url": "https://open.spotify.com/track/3lEzt8kae6iWq3LWfDJbR9"
+    },
+    {
+      "album": {
         "name": "Bklava - EP",
         "url": "https://open.spotify.com/album/5vj3Ca8rK10V6Dy01hip5E"
       },
@@ -17898,6 +17938,28 @@
       "duration_ms": 250946,
       "name": "Wish We Could",
       "url": "https://open.spotify.com/track/5pvwGyGIPsW0DNChaUZIYE"
+    },
+    {
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Witchy (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
     },
     {
       "album": {

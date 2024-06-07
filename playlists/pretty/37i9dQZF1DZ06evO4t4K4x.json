@@ -1,37 +1,13 @@
 {
-  "description": "This is Delia Derbyshire. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
   "num_followers": 2007,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAACdekRFhe7TOvbnBEQXSrIJ",
+  "snapshot_id": "Zl+qgAAAAAAaO+G7bPx1+UHyF1zUfNsi",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: Electrosonic",
-        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
-      },
-      "artists": [
-        {
-          "name": "Brian Hodgson",
-          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
-        },
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Don Harper",
-          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "No Man's Land",
-      "url": "https://open.spotify.com/track/0wfTZNLjGyWy6ugu1StZgB"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +35,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/0wfTZNLjGyWy6ugu1StZgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
       },
@@ -75,6 +75,22 @@
       "duration_ms": 39240,
       "name": "Doctor Who - Opening Theme",
       "url": "https://open.spotify.com/track/1fh0GIHW5ClsCe1D1zYVk3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 46466,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP"
     },
     {
       "added_at": null,
@@ -119,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 46466,
-      "name": "Doctor Who Opening Title Theme",
-      "url": "https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 80053,
       "name": "Doctor Who - Closing Theme",
       "url": "https://open.spotify.com/track/0E6vubyhXDzrjFkYu1wNP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 55546,
+      "name": "Doctor Who Closing Title Theme - 53\" Version",
+      "url": "https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ"
     },
     {
       "added_at": null,
@@ -195,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 55546,
-      "name": "Doctor Who Closing Title Theme - 53\" Version",
-      "url": "https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moogies Bloogies",
         "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
       },
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 74573,
       "name": "Computermatic",
       "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 73293,
-      "name": "Time on Our Hands",
-      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
     },
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moogies Bloogies",
+        "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Anthony Newley",
+          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
+        }
+      ],
+      "duration_ms": 94378,
+      "name": "I Decoded You (Moogies Bloogies, Pt. 2)",
+      "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
       },
@@ -355,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moogies Bloogies",
-        "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Anthony Newley",
-          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
-        }
-      ],
-      "duration_ms": 94378,
-      "name": "I Decoded You (Moogies Bloogies, Pt. 2)",
-      "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
@@ -391,18 +391,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
-        "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
-      "duration_ms": 526068,
-      "name": "Falling, From the Dreams - Radio Version 1964",
-      "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
+      "duration_ms": 66080,
+      "name": "Hannett and Delia synth exchanges track 20",
+      "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
+        }
+      ],
+      "duration_ms": 80200,
+      "name": "Delia's Theme",
+      "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
     },
     {
       "added_at": null,
@@ -431,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
       },
@@ -444,15 +484,15 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
-      "duration_ms": 66080,
-      "name": "Hannett and Delia synth exchanges track 20",
-      "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
+      "duration_ms": 89813,
+      "name": "Hannett and Delia synth exchanges track 18",
+      "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
     },
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+        "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
+        "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
       },
       "artists": [
         {
@@ -460,9 +500,25 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 31760,
-      "name": "Environmental Studies",
-      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
+      "duration_ms": 526068,
+      "name": "Falling, From the Dreams - Radio Version 1964",
+      "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 108480,
+      "name": "The Afterlife, Pt. 1",
+      "url": "https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC"
     },
     {
       "added_at": null,
@@ -480,25 +536,9 @@
           "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
         }
       ],
-      "duration_ms": 80200,
-      "name": "Delia's Theme",
-      "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Afterlife",
-        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 108480,
-      "name": "The Afterlife, Pt. 1",
-      "url": "https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC"
+      "duration_ms": 96112,
+      "name": "Planetarium",
+      "url": "https://open.spotify.com/track/0Wa15c9B3MbHekgmlbj5KD"
     },
     {
       "added_at": null,
@@ -539,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
-        }
-      ],
-      "duration_ms": 96112,
-      "name": "Planetarium",
-      "url": "https://open.spotify.com/track/0Wa15c9B3MbHekgmlbj5KD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Afterlife",
         "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
       },
@@ -571,6 +591,22 @@
       "duration_ms": 352197,
       "name": "The Afterlife, Pt. 2",
       "url": "https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 150039,
+      "name": "Lure of the Space Goddess (Full Broadcast Version)",
+      "url": "https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr"
     },
     {
       "added_at": null,
@@ -611,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workshop",
-        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 150039,
-      "name": "Lure of the Space Goddess (Full Broadcast Version)",
-      "url": "https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electronic",
         "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
@@ -647,46 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 89813,
-      "name": "Hannett and Delia synth exchanges track 18",
-      "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Circle of Light (Original Electronic Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Elsa Stansfield",
-          "url": "https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO"
-        }
-      ],
-      "duration_ms": 625911,
-      "name": "Circle of Light, Pt. 2",
-      "url": "https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Afterlife",
         "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
       },
@@ -699,26 +679,6 @@
       "duration_ms": 2113024,
       "name": "The Afterlife, Pt. 3",
       "url": "https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
-        }
-      ],
-      "duration_ms": 40160,
-      "name": "Delia's Dream",
-      "url": "https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn"
     },
     {
       "added_at": null,
@@ -759,6 +719,46 @@
       "duration_ms": 1274745,
       "name": "Circle of Light, Pt. 1",
       "url": "https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
+        }
+      ],
+      "duration_ms": 40160,
+      "name": "Delia's Dream",
+      "url": "https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circle of Light (Original Electronic Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Elsa Stansfield",
+          "url": "https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO"
+        }
+      ],
+      "duration_ms": 625911,
+      "name": "Circle of Light, Pt. 2",
+      "url": "https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa"
     },
     {
       "added_at": null,

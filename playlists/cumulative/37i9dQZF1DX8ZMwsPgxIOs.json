@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw"
+      },
+      "artists": [
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0"
+    },
+    {
+      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE"
       },
@@ -1511,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Digeridoo (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445314,
+      "name": "Digeridoo - Cr7E Version",
+      "url": "https://open.spotify.com/track/2Ujum3PkQL0x3QMnGoJGPf"
+    },
+    {
+      "album": {
         "name": "Digital Dream",
         "url": "https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr"
       },
@@ -1997,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Eyez On Me",
+        "url": "https://open.spotify.com/album/2f80speXMXiwiNQ5gP4Y16"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177633,
+      "name": "Eyez On Me",
+      "url": "https://open.spotify.com/track/0pAioPhdpDmPMURRKzVlcT"
+    },
+    {
+      "album": {
         "name": "Fade Out (with MKLA)",
         "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
@@ -2376,6 +2430,24 @@
       "duration_ms": 241824,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod"
+    },
+    {
+      "album": {
+        "name": "Ghost Kiss",
+        "url": "https://open.spotify.com/album/5hkkowvZvsjSG6KAEgDeiW"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233430,
+      "name": "Ghost Kiss",
+      "url": "https://open.spotify.com/track/25czN86DWwXmhOS0BmkwRR"
     },
     {
       "album": {
@@ -2783,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "I Need It More",
+        "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "I Need It More",
+      "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
+    },
+    {
+      "album": {
         "name": "I Talk To Water",
         "url": "https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi"
       },
@@ -3096,6 +3186,32 @@
       "duration_ms": 249756,
       "name": "Kettle's Up (feat. Botan)",
       "url": "https://open.spotify.com/track/7JKuWO9JtGIX5dpUWSJgVj"
+    },
+    {
+      "album": {
+        "name": "Kill The Vibe",
+        "url": "https://open.spotify.com/album/3RajPAonNivFPajGSnsh42"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166917,
+      "name": "Kill The Vibe",
+      "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
     },
     {
       "album": {
@@ -4761,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "Pleasure on My Mind",
+        "url": "https://open.spotify.com/album/61kjqrcmAEAuNlIdBigDys"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213830,
+      "name": "Pleasure On My Mind - Edit",
+      "url": "https://open.spotify.com/track/7hjGu0gXza29dqs1EcDbyp"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/3cR3M7CUTCx9YYkE1d9qn5"
       },
@@ -5925,6 +6059,24 @@
     },
     {
       "album": {
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/65BcHR18LfEWQXUTwmsPIP"
+      },
+      "artists": [
+        {
+          "name": "HUMAN404",
+          "url": "https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223372,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/7FCDbs2FteSElQELSiQemi"
+    },
+    {
+      "album": {
         "name": "Sweat Sonic",
         "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
       },
@@ -6326,6 +6478,24 @@
       "duration_ms": 159555,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
+    },
+    {
+      "album": {
+        "name": "Ticprei / Llull",
+        "url": "https://open.spotify.com/album/42U2eMQTpA0k1DzFcljHqj"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397226,
+      "name": "Ticprei",
+      "url": "https://open.spotify.com/track/5vQjK93x2P02ED8X5lBUTm"
     },
     {
       "album": {
@@ -6842,6 +7012,24 @@
       "duration_ms": 396190,
       "name": "We Search The Light",
       "url": "https://open.spotify.com/track/2JgGVygm5ZQaLU8qmtJwEe"
+    },
+    {
+      "album": {
+        "name": "Welcome to Mind Control",
+        "url": "https://open.spotify.com/album/4C1jy1dQpMvGlSsDJJpoWX"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142910,
+      "name": "Welcome to the Future",
+      "url": "https://open.spotify.com/track/3DmqVLNUyu1WVwmn26Ddav"
     },
     {
       "album": {

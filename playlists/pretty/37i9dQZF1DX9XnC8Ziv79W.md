@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XnC8Ziv79W.md) - [plain]
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,933 likes - 53 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,937 likes - 53 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XnC8Ziv79W.md) - [plain]
 | 3 | [Stove Mela Kadai](https://open.spotify.com/track/0AHacDckN5t7mjpMBUcV03) | [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3) | [Stove Mela Kadai](https://open.spotify.com/album/0UjGjoszjltH9fCeJrl2Dw) | 3:19 |
 | 4 | [Rowdy Song](https://open.spotify.com/track/67mXTSPXUefNMuhbLS3Y1u) | [Gana Kuyil Bala Murugan](https://open.spotify.com/artist/6TYSnILrtFP1Q4GLC0lxt1) | [Rowdy](https://open.spotify.com/album/4cCJUSdfxMcX3pDlo9htsI) | 5:22 |
 | 5 | [Gokka](https://open.spotify.com/track/5KHx84WI0JADsWtqrMnnjM) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Gokka](https://open.spotify.com/album/4zCMrP2sqExAiWOOYl3Pvj) | 1:50 |
-| 6 | [Roja Poo Mala](https://open.spotify.com/track/7jPBS4dd6Xma0a8GTf2JkA) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [Roja Poo Mala](https://open.spotify.com/album/5i62N7TBuOwbdjVPltBWAh) | 3:36 |
+| 6 | [Roja Poo Mala](https://open.spotify.com/track/7jPBS4dd6Xma0a8GTf2JkA) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [Roja Poo Mala](https://open.spotify.com/album/5i62N7TBuOwbdjVPltBWAh) | 3:45 |
 | 7 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 |
 | 8 | [Annachi](https://open.spotify.com/track/3GR331BaOFe9weSYkx6D0Z) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [Annachi](https://open.spotify.com/album/0DVJvSmAigV1bEquebcNnk) | 2:50 |
 | 9 | [Kooptunu Vangada Unga Seemana](https://open.spotify.com/track/4DRT5KKXz8v88cMya6R9BT) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69) | [Kooptunu Vangada Unga Seemana](https://open.spotify.com/album/7vLWDi4pkvpgIfb6vyyA11) | 4:15 |

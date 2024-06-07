@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-577 songs - 1 day 11 hr 53 min
+578 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-25 | 2023-02-17 |
 | [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-08-25 | 2022-09-16 |
 | [Phantom Of The Opera](https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantom Of The Opera](https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb) | 7:23 | 2023-05-18 | 2023-07-21 |
-| [Pieces](https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Pieces](https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM) | 4:04 | 2024-03-21 |  |
+| [Pieces](https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Pieces](https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM) | 4:04 | 2024-03-21 | 2024-06-07 |
 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 | 2023-07-13 | 2023-07-28 |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-02-23 | 2023-09-15 |
 | [Precious Declaration \- Salvation Mix](https://open.spotify.com/track/565Trt2Aqcbwvd1c2PDZoo) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Precious Declaration \(Salvation Mix\)](https://open.spotify.com/album/04zdkwyFQ0vwOcJEOUCv9x) | 3:40 | 2022-05-06 | 2022-06-10 |
@@ -402,7 +402,7 @@
 | [Right Place Right Time](https://open.spotify.com/track/2OoSs80S3GBQIVBBh6K8eT) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Right Place Right Time](https://open.spotify.com/album/7pgDnFeMtOStG20dSHRz3s) | 4:42 | 2022-05-06 | 2022-07-29 |
 | [Right Place Right Time](https://open.spotify.com/track/4sP5cMsdxRfJWcwUX0xG3r) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Oochya!](https://open.spotify.com/album/4LbVuFXMXZaBOdqVnByOVi) | 4:42 | 2022-07-07 | 2022-09-09 |
 | [RISE](https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/6SA6Ml0cEluSLl5NdqU0Bp) | 4:35 | 2023-03-03 | 2023-03-25 |
-| [Rise Above It All](https://open.spotify.com/track/64RFA8JNrcHTRRizsXHVPv) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Rise Above It All](https://open.spotify.com/album/3Gil9wjr3AqUCwQb9WS73c) | 3:22 | 2024-03-01 |  |
+| [Rise Above It All](https://open.spotify.com/track/64RFA8JNrcHTRRizsXHVPv) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Rise Above It All](https://open.spotify.com/album/3Gil9wjr3AqUCwQb9WS73c) | 3:22 | 2024-03-01 | 2024-06-07 |
 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 | 2023-12-22 | 2024-03-08 |
 | [Rock n Roll is Back](https://open.spotify.com/track/7CaTBKF53EAMjKfw5DpiOt) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Rock n Roll is Back](https://open.spotify.com/album/1W7YnTDk4JfR1R6UTEsFRK) | 2:56 | 2022-06-01 | 2022-06-24 |
 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 | 2023-06-29 | 2023-07-14 |
@@ -550,6 +550,7 @@
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-06-16 | 2022-09-23 |
 | [Was It All Worth It \- Original Take](https://open.spotify.com/track/0Yjv0kWNGUgfyRTjcmou6w) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 5:02 | 2022-11-24 | 2023-07-21 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-02 | 2023-08-18 |
+| [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-06 |  |
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-09 | 2022-12-03 |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-25 | 2023-07-28 |
 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 | 2023-06-30 | 2023-07-28 |

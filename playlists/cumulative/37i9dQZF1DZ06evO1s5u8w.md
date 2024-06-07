@@ -2,7 +2,7 @@
 
 ### [This Is Talking Heads](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s5u8w)
 
-> This is Talking Heads\. The essential tracks, all in one playlist.
+> This is Talking Heads\. Todos os maiores hits em uma só playlist.
 
 54 songs - 3 hr 52 min
 

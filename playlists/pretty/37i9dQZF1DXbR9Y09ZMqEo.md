@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,885 likes - 53 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,891 likes - 53 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [10 Things I Hate About You](https://open.spotify.com/track/6lo0mUw0JbYs2L4STNq9x8) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/3kZdrOt2V1vbXYuKxlc5b3) | 2:37 |
-| 2 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
+| 2 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 3 | [Under Your Spell](https://open.spotify.com/track/4VdCaAfgNe8Z1m4DDIk1HP) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Under Your Spell](https://open.spotify.com/album/4snFxjLgbS8rQzkVMb3Vzr) | 4:56 |
 | 4 | [Rock and Roll, Hoochie Koo](https://open.spotify.com/track/4VDHlRakaVHzHE8PUdcU49) | [Rick Derringer](https://open.spotify.com/artist/1FX4aA0cUcWndv39j1YoTm) | [All American Boy \(Expanded Edition\)](https://open.spotify.com/album/2qUO0zPeu06VHisaFdmqpZ) | 3:45 |
 | 5 | [Stupid Love](https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:13 |

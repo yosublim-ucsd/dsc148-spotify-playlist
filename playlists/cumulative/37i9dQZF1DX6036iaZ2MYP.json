@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Kizz Daniel",
+  "description": "Tracks popping off in the Afro scene. Cover: Ruger",
   "name": "Afro Station",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 173157,
       "name": "App\u00e9tit",
       "url": "https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 180530,
       "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 182250,
       "name": "CALENDAR (with Moliy)",
       "url": "https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD"
@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/6xz4L3q20Rk2ICfn7v2pU2"
+      },
+      "artists": [
+        {
+          "name": "RSG",
+          "url": "https://open.spotify.com/artist/0CkpQO9oREMoxNzioUIKj8"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167756,
+      "name": "Cheri Ya Motema",
+      "url": "https://open.spotify.com/track/30To0a1sj1igWsyeZbLqBB"
+    },
+    {
+      "album": {
         "name": "Chinese Love",
         "url": "https://open.spotify.com/album/0jciYguZcoz3V0B6NlOCSA"
       },
@@ -1426,6 +1444,24 @@
       "duration_ms": 185808,
       "name": "Chinese Love",
       "url": "https://open.spotify.com/track/2sZscIjAuI5lHij4rZtAXw"
+    },
+    {
+      "album": {
+        "name": "Chouchou des nanas",
+        "url": "https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "Chouchou des nanas",
+      "url": "https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS"
     },
     {
       "album": {
@@ -2960,7 +2996,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 261428,
       "name": "Fondili",
       "url": "https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b"
@@ -3034,7 +3070,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 159026,
       "name": "Fuegopiano 1 : Pas ton b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/04EszC96H42YXOP9Y38YJy"
@@ -3524,7 +3560,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 136719,
       "name": "If I Be You",
       "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
@@ -4061,6 +4097,32 @@
     },
     {
       "album": {
+        "name": "Komasava (Comment \u00c7a Va)",
+        "url": "https://open.spotify.com/album/5YRLBQNbjDXky1IwaUDHgk"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276106,
+      "name": "Komasava (Comment \u00c7a Va)",
+      "url": "https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb"
+    },
+    {
+      "album": {
         "name": "Kristy",
         "url": "https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1"
       },
@@ -4218,6 +4280,24 @@
       "duration_ms": 166430,
       "name": "Left Right - Remix",
       "url": "https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lodie c\u00e9leste",
+        "url": "https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Les rues de Kiname",
+      "url": "https://open.spotify.com/track/0qKrs0lAa1vyuRbJ2ZA1PC"
     },
     {
       "album": {
@@ -4492,7 +4572,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 175200,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/5SDPAYcZY5jWJT9VrXhPqm"
@@ -4593,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "album": {
         "name": "Luvin It",
         "url": "https://open.spotify.com/album/6rwUOTTLX9wClHix5VYWtw"
       },
@@ -4644,6 +4742,28 @@
       "duration_ms": 172941,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
+    },
+    {
+      "album": {
+        "name": "Ma Cherie (Remix)",
+        "url": "https://open.spotify.com/album/27kBORRwppfjBcXrfE1Suc"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Ma Cherie (Remix)",
+      "url": "https://open.spotify.com/track/4Rv6zpv0GZvlwynha2iLTN"
     },
     {
       "album": {
@@ -5088,7 +5208,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 131636,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/7mQ3PEZ9weMxCu0X5RwB1R"
@@ -6459,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "ELOWI",
+        "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172706,
+      "name": "Qu\u00eate",
+      "url": "https://open.spotify.com/track/0UvG1kG6vH8LBRbDpBfi7O"
+    },
+    {
+      "album": {
         "name": "RDV",
         "url": "https://open.spotify.com/album/1jUNyRcjiJt5QazplahPr6"
       },
@@ -7403,6 +7541,28 @@
     },
     {
       "album": {
+        "name": "SUPA FUEGO",
+        "url": "https://open.spotify.com/album/4rmXuUfr3WlltxjcypdeYP"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184102,
+      "name": "SUPA FUEGO",
+      "url": "https://open.spotify.com/track/59alFLlJEYKqVnYBTAjD7L"
+    },
+    {
+      "album": {
         "name": "Take Ova",
         "url": "https://open.spotify.com/album/1kAZ6bI1GTGG55kuho3HDD"
       },
@@ -7474,6 +7634,28 @@
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
+    },
+    {
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "album": {
@@ -7806,7 +7988,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 165436,
       "name": "Tricheur",
       "url": "https://open.spotify.com/track/55a59qzeDDTDB022hW0TXB"
@@ -7854,7 +8036,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E) - Remix",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
@@ -8368,6 +8550,28 @@
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
+    },
+    {
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162912,
+      "name": "Work Me Out (with Wizkid)",
+      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
     },
     {
       "album": {

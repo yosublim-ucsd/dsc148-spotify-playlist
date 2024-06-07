@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Zaho de Sagazan",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MDNS",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "DANS SES YEUX",
+        "url": "https://open.spotify.com/album/4lakbu7ear8AfSjl9VZf3w"
+      },
+      "artists": [
+        {
+          "name": "Moy\u00e0",
+          "url": "https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129875,
+      "name": "DANS SES YEUX",
+      "url": "https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8"
+    },
+    {
+      "album": {
         "name": "Dans\u00e9",
         "url": "https://open.spotify.com/album/44DuXaXwALoylbk0vUgC8o"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 201346,
       "name": "Idiot du quartier de lune",
       "url": "https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0"
@@ -1731,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Lune",
+        "url": "https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225625,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy"
+    },
+    {
+      "album": {
         "name": "Lunettes du style",
         "url": "https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN"
       },
@@ -1980,7 +2016,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 101452,
       "name": "NON!",
       "url": "https://open.spotify.com/track/0Exg9zdCIzf5oxraD55Hvx"
@@ -2038,6 +2074,24 @@
       "duration_ms": 124840,
       "name": "Opening",
       "url": "https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz"
+    },
+    {
+      "album": {
+        "name": "DiRTYPOP!",
+        "url": "https://open.spotify.com/album/3TgAVNiAN1Me3iWV8fGEor"
+      },
+      "artists": [
+        {
+          "name": "igee",
+          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147304,
+      "name": "Pala",
+      "url": "https://open.spotify.com/track/6X66gz7OKx3jcKBbkDWm4Y"
     },
     {
       "album": {
@@ -2560,7 +2614,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 205855,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"

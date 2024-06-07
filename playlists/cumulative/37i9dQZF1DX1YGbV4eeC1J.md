@@ -4,7 +4,7 @@
 
 > Exceptionally vivid Swahili love stories for you and yours\.  Cover: Platform & Abigail Chams
 
-200 songs - 11 hr 27 min
+202 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 | 2023-12-22 | 2024-04-19 |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 |  |
 | [Amepotea](https://open.spotify.com/track/1KfN3qcfWz6pgs4Zt5pobn) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Amepotea](https://open.spotify.com/album/1eXFjINMwEDj9gRUJcKThw) | 2:59 | 2024-03-14 | 2024-03-22 |
-| [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 |  |
+| [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 | 2024-06-07 |
 | [Ananipenda](https://open.spotify.com/track/3iHEGOxlt1QlkobUQXtAqk) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/423Wp7YqGn32sGjcZnkGY0) | 3:35 | 2024-03-14 | 2024-03-22 |
 | [Ananipenda](https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl) | 3:35 | 2023-04-13 | 2024-03-21 |
 | [Ananipenda \(feat\. Soge Culebra, Marioo\) \- Remix](https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Ananipenda \(feat\. Soge Culebra, Marioo\) \[Remix\]](https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0) | 4:49 | 2024-02-22 | 2024-05-17 |
@@ -142,6 +142,7 @@
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Nimepona](https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nimepona](https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ) | 3:23 | 2023-03-02 | 2023-09-22 |
+| [Nini Mapenzi](https://open.spotify.com/track/6DZbkBCNOJCrdeelhTt11E) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Nini Mapenzi](https://open.spotify.com/album/5s6OQh8EnErELs3qq0YMoY) | 3:24 | 2024-06-07 |  |
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 | 2023-07-14 |
 | [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 | 2022-09-24 |
 | [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 | 2023-06-03 |
@@ -180,7 +181,7 @@
 | [Sunset](https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Cuffed in Love](https://open.spotify.com/album/2VTrwsi53HGL2yYsEYTMgH) | 3:23 | 2024-02-22 | 2024-05-10 |
 | [Super Woman](https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Super Woman](https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p) | 3:09 | 2022-09-23 | 2023-03-31 |
 | [Sweet](https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Sweet](https://open.spotify.com/album/1GosMCPkYYZnd4m4cN54RS) | 3:07 | 2023-05-04 | 2023-08-18 |
-| [Taabani](https://open.spotify.com/track/4hi1oM7sf47cnLsCXchphD) | [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Taabani](https://open.spotify.com/album/6qtWXNeeJaQkkVkbVcf0To) | 2:50 | 2024-05-16 |  |
+| [Taabani](https://open.spotify.com/track/4hi1oM7sf47cnLsCXchphD) | [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Taabani](https://open.spotify.com/album/6qtWXNeeJaQkkVkbVcf0To) | 2:50 | 2024-05-16 | 2024-06-07 |
 | [Tajiri](https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Tajiri](https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd) | 2:55 | 2024-03-14 | 2024-03-22 |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2022-05-26 | 2023-06-16 |
 | [This Love](https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [This Love](https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2) | 3:09 | 2023-12-22 |  |
@@ -206,6 +207,7 @@
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-05-26 |  |
 | [Wimbo Wetu](https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Wimbo Wetu](https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr) | 4:26 | 2023-07-06 | 2024-01-26 |
 | [You \(feat\. Yammi\)](https://open.spotify.com/track/4XTcVh6TLERIw3BcA4sX2D) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [You \(feat\. Yammi\)](https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x) | 3:30 | 2024-03-14 | 2024-03-22 |
+| [Yule \- Remix](https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yule \(Remix\)](https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e) | 3:11 | 2024-06-07 |  |
 | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 |  |
 | [Zoba](https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Zoba](https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh) | 3:36 | 2024-05-30 |  |
 

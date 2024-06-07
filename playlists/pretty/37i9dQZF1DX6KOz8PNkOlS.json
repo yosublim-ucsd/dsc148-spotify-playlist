@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 458392,
+  "num_followers": 458537,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -57,6 +57,26 @@
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
       "added_at": "2024-04-23 00:34:59",
       "album": {
         "name": "wherever u r (feat. V of BTS and NATURE)",
@@ -79,26 +99,6 @@
       "duration_ms": 186896,
       "name": "wherever u r (feat. V of BTS and NATURE)",
       "url": "https://open.spotify.com/track/06DNeAJi8GYZn9TpCF8r2X"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
-      "added_at": "2024-04-18 18:10:45",
-      "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "Colores Del Mar",
-      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
-    },
-    {
       "added_at": "2023-04-05 03:20:02",
       "album": {
         "name": "For Granted",
@@ -611,6 +595,22 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2024-04-18 18:10:45",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "Colores Del Mar",
+      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "Saint Sinner",
+          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+        }
+      ],
+      "duration_ms": 198842,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Feel The Pain / Fast Car",
         "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
       },
@@ -1153,40 +1173,20 @@
       "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-11-23 03:41:20",
       "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
+        "name": "say your way",
+        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "Saint Sinner",
-          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+          "name": "Mohsin Zaman",
+          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
         }
       ],
-      "duration_ms": 198842,
-      "name": "Japan",
-      "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+      "duration_ms": 170500,
+      "name": "say your way",
+      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
     },
     {
       "added_at": "2023-12-20 03:28:07",
@@ -1203,6 +1203,22 @@
       "duration_ms": 161229,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1235,22 +1251,6 @@
       "duration_ms": 213956,
       "name": "So Pacific",
       "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
-    },
-    {
-      "added_at": "2023-11-23 03:41:20",
-      "album": {
-        "name": "say your way",
-        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
-      },
-      "artists": [
-        {
-          "name": "Mohsin Zaman",
-          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "say your way",
-      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
     },
     {
       "added_at": "2023-08-31 18:57:48",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "A-Game",
@@ -1335,6 +1319,22 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
     },
     {
-      "added_at": "2022-09-15 12:32:00",
-      "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
-      },
-      "artists": [
-        {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
-        }
-      ],
-      "duration_ms": 183494,
-      "name": "how",
-      "url": "https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "We Had A Good Time",
@@ -1403,6 +1387,22 @@
       "duration_ms": 190084,
       "name": "We Had A Good Time",
       "url": "https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J"
+    },
+    {
+      "added_at": "2022-09-15 12:32:00",
+      "album": {
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
+      },
+      "artists": [
+        {
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
+        }
+      ],
+      "duration_ms": 183494,
+      "name": "how",
+      "url": "https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7"
     },
     {
       "added_at": "2022-01-13 02:46:07",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/5d4kZu2NTyeW7qzHUYrhid"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 178778,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/5ua26DyJQQjTT5nDdFJGCu"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Home Cooking",
         "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 207201,
       "name": "Thornton Heath",
       "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Wonderful",
-        "url": "https://open.spotify.com/album/5d4kZu2NTyeW7qzHUYrhid"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 178778,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/5ua26DyJQQjTT5nDdFJGCu"
     },
     {
       "added_at": "2021-10-15 03:01:31",

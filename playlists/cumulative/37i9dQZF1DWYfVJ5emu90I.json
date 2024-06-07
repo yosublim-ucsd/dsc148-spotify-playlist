@@ -1088,6 +1088,24 @@
     {
       "album": {
         "name": "GO DJ -Hey Daddy-",
+        "url": "https://open.spotify.com/album/2ARgvASgYGWkj8DxjwhafO"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104430,
+      "name": "GO DJ -Hey Daddy-",
+      "url": "https://open.spotify.com/track/21xKPhAaZmBqsPuYnHXH6P"
+    },
+    {
+      "album": {
+        "name": "GO DJ -Hey Daddy-",
         "url": "https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ"
       },
       "artists": [
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 148973,
       "name": "MIYAKO",
       "url": "https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
+  "description": "This Is Banda Carnaval. Los temas esenciales, todos en una lista.",
   "name": "This Is Banda Carnaval",
   "tracks": [
     {
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 232333,
       "name": "La Historia De Mis Manos",
       "url": "https://open.spotify.com/track/1lAfPGUKAQ0tW1TZeRBLkp"
@@ -1174,6 +1174,28 @@
       "duration_ms": 230440,
       "name": "Olvidarte, \u00bfC\u00f3mo?",
       "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+    },
+    {
+      "album": {
+        "name": "Desde La Yeguada El Cincuenta Volumen II (En Vivo)",
+        "url": "https://open.spotify.com/album/0xgfe9ltFKsEHxUMg7dLzk"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Palomas Que Andan Volando - En Vivo",
+      "url": "https://open.spotify.com/track/5mQlyULT3Kufkjzu78rlUO"
     },
     {
       "album": {

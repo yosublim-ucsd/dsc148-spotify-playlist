@@ -2,7 +2,7 @@
 
 ### [This Is Matt Maher](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F9kBy)
 
-> This Is Matt Maher\. Los temas esenciales, todos en una lista.
+> This is Matt Maher\. The essential tracks, all in one playlist.
 
 82 songs - 6 hr 0 min
 

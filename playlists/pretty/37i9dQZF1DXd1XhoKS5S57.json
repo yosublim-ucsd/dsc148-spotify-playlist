@@ -1,6 +1,6 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12834,
+  "num_followers": 12835,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 202013,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 226053,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR"
     },
     {
       "added_at": "2020-10-27 12:12:52",

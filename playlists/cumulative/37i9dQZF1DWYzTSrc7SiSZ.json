@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "IRENE ALEJANDRA",
+        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "cAnAimA",
+      "url": "https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L"
+    },
+    {
+      "album": {
         "name": "Cardenal Cisneros",
         "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
       },
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 196909,
       "name": "Hace Mucho",
       "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"

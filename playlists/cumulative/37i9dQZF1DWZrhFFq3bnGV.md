@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira
 
-185 songs - 13 hr 21 min
+187 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2024-04-18 |  |
 | [I Wish You Love](https://open.spotify.com/track/7DbOM57AYYHUSZhWzMfnrB) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Hansen Arief](https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA), [Joshua Alexander](https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [I Wish You Love](https://open.spotify.com/album/7cyumjFwa8anLNX5w0gUn9) | 4:39 | 2023-06-08 |  |
 | [I'm Not the Only One](https://open.spotify.com/track/4AKbie1DHQL98d3kRi5P00) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [I'm Not the Only One](https://open.spotify.com/album/14nkRY04tLRasVaYcmFzRN) | 3:46 | 2022-09-02 | 2023-03-04 |
+| [I'm Old Fashioned](https://open.spotify.com/track/4mC42wzxxH9BlU3xwe3XOR) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [I'm Old Fashioned](https://open.spotify.com/album/6fjZYH9jfnOWfeZaT0kK6N) | 3:15 | 2024-06-06 |  |
 | [In the Night](https://open.spotify.com/track/1rdH5fBweoMY9TxYjlGh3c) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [In the Night](https://open.spotify.com/album/3PBzXw12O4fygvwg6Ly68b) | 4:05 | 2023-03-03 | 2023-08-18 |
 | [In the Sweet By and By](https://open.spotify.com/track/7l5lcDKn5kWmnKIIZ5uK7q) | [Harif Santoso](https://open.spotify.com/artist/7E6DDaLrcTuOodp5meW12r), [Joe Fendero](https://open.spotify.com/artist/2OIij3yiXoAjxvAWpqy1jl) | [In the Sweet By and By](https://open.spotify.com/album/5LzNq8SXfYHla2FyozYzf0) | 3:09 | 2023-05-25 |  |
 | [Into the Woods \- Live](https://open.spotify.com/track/4OHjxmq9BCgrGi5TCIGLpB) | [Alvin Ghazalie](https://open.spotify.com/artist/06vdUac9o9nAMwjhnmL3wH), [Jazzinvaders](https://open.spotify.com/artist/5dZyxcY1gTgWbZlD1z2GbC) | [FreedomsJazz Festival 2016 \- Day 8 \- Alvin Ghazalie & Jazzinvaders \(Live\)](https://open.spotify.com/album/4lukVJ9oCadAFmLxntK5UO) | 10:50 | 2023-03-03 | 2023-08-18 |
@@ -145,6 +146,7 @@
 | [Perjalanan](https://open.spotify.com/track/2Xzzv1HLYnxLkeGwMeQyC3) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Perjalanan](https://open.spotify.com/album/12e9PBz29sAkDK3SuBCX3j) | 4:56 | 2023-03-03 | 2023-08-25 |
 | [Perjumpaan Kita](https://open.spotify.com/track/0XrhqWIImjM7MlImOZUXZX) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Dian Sastrowardoyo](https://open.spotify.com/artist/2z03bPWIFofruoPDCNj7GG) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 4:45 | 2022-09-02 | 2023-07-14 |
 | [Piccadilly](https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Two of a Kind](https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm) | 4:36 | 2022-09-02 |  |
+| [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-06-06 |  |
 | [Promesa](https://open.spotify.com/track/1smsqbB2XigojjpaWhbrZA) | [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ) | [Baciare / To Kiss](https://open.spotify.com/album/1I6kZIPX729gCglmRUG78h) | 3:52 | 2023-03-03 | 2023-08-18 |
 | [Propulsion](https://open.spotify.com/track/3DL4O5muk2DjIxnMAEtYq3) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Propulsion](https://open.spotify.com/album/51ZCUc5WzCZWOU9XG2fbEk) | 4:30 | 2022-09-02 | 2023-08-25 |
 | [Rejuvenate](https://open.spotify.com/track/59YX01UzJXaYN3okY600M2) | [Mahesa Santoso](https://open.spotify.com/artist/4kuMeakqKQQlso0M0Tsz6R), [Rafi Daeng](https://open.spotify.com/artist/2D20G0Ku2Leq6sT0Ym8IKd) | [Rejuvenate](https://open.spotify.com/album/0v495TJ9vUqmPoWVGTTK1o) | 4:26 | 2022-09-02 | 2023-02-04 |

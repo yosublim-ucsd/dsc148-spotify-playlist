@@ -1,12 +1,12 @@
 {
   "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Holly",
-  "num_followers": 487,
+  "num_followers": 488,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADth1iQlSHgPlshGD5LsYp76id7N3g",
+  "snapshot_id": "AAADvO9UEK/7aLF8N0ItIiaDGjKxJV34",
   "tracks": [
     {
       "added_at": "2024-05-31 13:31:12",
@@ -23,6 +23,30 @@
       "duration_ms": 161760,
       "name": "IF YOU JUST A PUNK",
       "url": "https://open.spotify.com/track/3nNLXUWa47wFoICvbDC1jb"
+    },
+    {
+      "added_at": "2024-06-06 18:26:52",
+      "album": {
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/54iIrG2X8bkCYPyl9n1vCM"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/3v5zBPtf296IiVc1uiv5No"
     },
     {
       "added_at": "2024-05-22 18:15:19",
@@ -115,6 +139,26 @@
     {
       "added_at": "2024-05-12 05:01:22",
       "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 260001,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
+    },
+    {
+      "added_at": "2024-05-12 05:01:22",
+      "album": {
         "name": "Mind Of Madness",
         "url": "https://open.spotify.com/album/1NaeFQSi1Fv66jdscJbzIJ"
       },
@@ -191,6 +235,26 @@
     {
       "added_at": "2024-05-12 05:01:22",
       "album": {
+        "name": "Counting Remixes",
+        "url": "https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 214925,
+      "name": "Counting - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv"
+    },
+    {
+      "added_at": "2024-05-12 05:01:22",
+      "album": {
         "name": "Big Bang (with Crankdat)",
         "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
       },
@@ -243,26 +307,6 @@
       "duration_ms": 219427,
       "name": "Rude Boy - EAZYBAKED Remix",
       "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
-    },
-    {
-      "added_at": "2024-05-12 05:01:22",
-      "album": {
-        "name": "Counting Remixes",
-        "url": "https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 214925,
-      "name": "Counting - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv"
     },
     {
       "added_at": "2024-05-12 05:01:22",
@@ -463,26 +507,6 @@
       "duration_ms": 189342,
       "name": "Going Out To The Ravers (feat. Everyone You Know)",
       "url": "https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm"
-    },
-    {
-      "added_at": "2024-05-12 05:01:22",
-      "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 260001,
-      "name": "Black Ice",
-      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
     },
     {
       "added_at": "2024-05-12 05:01:22",

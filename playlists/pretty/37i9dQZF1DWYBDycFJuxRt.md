@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 水曜日のカンパネラ \*👉 <a href="https://spice.eplus.jp/articles/329104?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,372 likes - 79 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,416 likes - 79 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 6 | [焦動](https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [焦動](https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo) | 4:05 |
 | 7 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |
 | 8 | [LOST](https://open.spotify.com/track/5MrrNvVq60nBJnviC9jwm9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [LOST](https://open.spotify.com/album/6F9jIN1BNGmOq1VCgYSpCK) | 3:18 |
-| 9 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 |
+| 9 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [北村蕗](https://open.spotify.com/artist/2GLN8MIwNNkhgq2nNl2X0H) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 |
 | 10 | [あたりまえ](https://open.spotify.com/track/6PdWlcoQN6FHxvCa0H6c2l) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [ザ・ビュッフェ](https://open.spotify.com/album/4wLS4xt5rbHMW9U5j580ZJ) | 4:46 |
 | 11 | [End of All](https://open.spotify.com/track/7cKsYrxKACCqAlefoECZcM) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か / 800 / End of All / Ref:rain \-3 nuits ver.\-](https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy) | 3:39 |
 | 12 | [にゃんこの哲学](https://open.spotify.com/track/50yrMsTgy0Ws7K3IDhM1ZM) | [Alliance de chat noir](https://open.spotify.com/artist/3liE7A8jYYC6ZS3Cg6InNe) | [にゃんこの哲学](https://open.spotify.com/album/3qeQALj9tnUOu2G3TM9px3) | 2:22 |

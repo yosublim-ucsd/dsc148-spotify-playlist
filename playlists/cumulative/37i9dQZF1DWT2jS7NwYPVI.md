@@ -2,7 +2,7 @@
 
 ### [New Noise](https://open.spotify.com/playlist/37i9dQZF1DWT2jS7NwYPVI)
 
-> your cheat sheet for all that's on the rise in rock/alt \| Cover: Siickbrain
+> your cheat sheet for all that's on the rise in rock/alt \| Cover: Siiickbrain
 
 2,433 songs - 5 day 8 hr 32 min
 

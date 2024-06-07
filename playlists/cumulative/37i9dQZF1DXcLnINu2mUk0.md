@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Instinto 26
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão
 
-612 songs - 1 day 8 hr 37 min
+614 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 | 2023-08-17 | 2023-09-08 |
 | [Bem Flam](https://open.spotify.com/track/11n5HTMsLZwrlXbq5R8PRX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Bem Flam](https://open.spotify.com/album/3beKsW0TQ0AtbRGLlAuxdk) | 4:04 | 2023-12-15 | 2024-01-05 |
 | [Bem Li](https://open.spotify.com/track/2DidJYeb38gHwFIT3B0UXy) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Bem Li](https://open.spotify.com/album/0O6l4KIuMLNziHEqrTplRf) | 3:35 | 2023-11-10 | 2023-12-09 |
+| [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 | 2024-06-06 |  |
 | [Bijuteria](https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Nunca Mais](https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx) | 3:54 | 2023-03-01 | 2023-03-25 |
 | [Black Butterfly](https://open.spotify.com/track/2SPL4QXXmzq1MiGIeLVXrH) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Black Butterfly](https://open.spotify.com/album/6PZfnYoDuxnnelZP58y3Js) | 3:03 | 2024-01-19 | 2024-02-09 |
 | [Black Rose](https://open.spotify.com/track/7ENmhCZ25LCZD5we01hlBy) | [Franeselak](https://open.spotify.com/artist/1zA8OHFEUWY3Kk9DdbGW00), [Augusto Madeira](https://open.spotify.com/artist/5lHK1JEJ4EZsrswfM4fNQ5) | [Black Rose](https://open.spotify.com/album/5DJX7aQdtgLf2XJkCfnW5C) | 3:32 | 2023-10-05 | 2023-12-09 |
@@ -146,7 +147,7 @@
 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 | 2023-01-21 |
 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 | 2022-07-07 | 2022-08-19 |
 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 | 2022-12-23 | 2023-01-21 |
-| [D4](https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [DB.](https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2) | [D4](https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ) | 2:54 | 2024-04-11 |  |
+| [D4](https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [DB.](https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2) | [D4](https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ) | 2:54 | 2024-04-11 | 2024-06-07 |
 | [Dado](https://open.spotify.com/track/7bpK1Ml005N0Dc9FlLReBA) | [Sali](https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb) | [Dado](https://open.spotify.com/album/5jCyzG4vOc1y19Hn5YSZjG) | 2:21 | 2024-04-18 | 2024-05-09 |
 | [Dalilah \(with Djodje\)](https://open.spotify.com/track/6WxzQjN4k9WyWdMVKTaBjj) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Dalilah \(with Djodje\)](https://open.spotify.com/album/3nBsJCmvJo0r5bv3Ld6X2o) | 3:09 | 2023-11-10 | 2023-12-09 |
 | [Dalí](https://open.spotify.com/track/6FHQSoXHPYOebrrZBAPB7N) | [No Money](https://open.spotify.com/artist/2XtUEgkLN083xZ6Biwn8dq) | [Dalí](https://open.spotify.com/album/15xdd7nz5qG1RO9devhKFF) | 3:09 | 2023-02-17 | 2023-03-11 |
@@ -440,6 +441,7 @@
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-07 |  |
 | [Por Ti](https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU) | [Máry M](https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns) | [Por Ti](https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi) | 2:41 | 2023-03-03 | 2023-03-31 |
 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-01-27 | 2024-04-05 |
+| [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 | 2024-06-06 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-07 | 2023-11-11 |
 | [PRADA](https://open.spotify.com/track/2NlZ0iCKnLrZLxN6nTqxiI) | [Lonny B](https://open.spotify.com/artist/3xlBiTJH6m8cHyOl8gpE4m) | [PRADA](https://open.spotify.com/album/2HH3mTK5tiXuHlmwg9qtUx) | 3:29 | 2024-03-08 | 2024-03-29 |
 | [Preciso de alguém](https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Preciso de alguém](https://open.spotify.com/album/5j326RJto69tuJk04jned4) | 2:30 | 2023-04-13 | 2023-05-12 |
@@ -616,7 +618,7 @@
 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 | 2023-06-01 | 2023-07-21 |
 | [Água](https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl) | [Mariana Norton](https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV) | [Água](https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc) | 3:27 | 2023-05-18 | 2023-06-09 |
 | [Água e Sal](https://open.spotify.com/track/1cFG1haTcSOeqnUE05NtCz) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Água e Sal](https://open.spotify.com/album/1QJWwv9rm3mcBDJBuKO0uS) | 2:33 | 2024-05-30 |  |
-| [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 | 2024-04-18 |  |
+| [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 | 2024-04-18 | 2024-06-07 |
 | [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 | 2024-05-02 |  |
 | [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 | 2023-03-31 |
 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 | 2022-09-29 | 2022-11-18 |

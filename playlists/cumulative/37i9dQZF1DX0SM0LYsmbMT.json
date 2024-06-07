@@ -13313,6 +13313,28 @@
     },
     {
       "album": {
+        "name": "clockwork dreams",
+        "url": "https://open.spotify.com/album/1Wz6UtFbeMYnytnND2tM1P"
+      },
+      "artists": [
+        {
+          "name": "Tonion",
+          "url": "https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171895,
+      "name": "clockwork dreams",
+      "url": "https://open.spotify.com/track/4yc2GdYpTszeaA1Dhqltwd"
+    },
+    {
+      "album": {
         "name": "Close to You",
         "url": "https://open.spotify.com/album/18vH6qJ4myaRQxAXqIdjve"
       },
@@ -27052,7 +27074,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 146374,
       "name": "Go Time",
       "url": "https://open.spotify.com/track/5JMpTtLvOURWPEQiWngaPF"
@@ -34690,7 +34712,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 158131,
       "name": "Jamata",
       "url": "https://open.spotify.com/track/3ziDRmHz1sbnWZ8uBJYoai"
@@ -36016,7 +36038,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 151520,
       "name": "Jumping Saxx",
       "url": "https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK"
@@ -43116,7 +43138,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 150329,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/0WZVKvzrIHoQhmY2Nhl7GQ"
@@ -48898,7 +48920,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -51914,7 +51936,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 115764,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0m6bPc8Csmtox6hHepZD0v"
@@ -54886,7 +54908,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Perpetual Reverie",
       "url": "https://open.spotify.com/track/015iuoU86aC7WUYCH6rZTD"
@@ -63162,7 +63184,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 91602,
       "name": "Silk Road",
       "url": "https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf"
@@ -66674,7 +66696,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 150646,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr"
@@ -71684,7 +71706,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 185432,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/0iqgSFAOQAFLfvHHri8ZO5"
@@ -77226,7 +77248,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 158617,
       "name": "Vampire in the Sun",
       "url": "https://open.spotify.com/track/5MTEaL89Lokzgf45kTFNox"

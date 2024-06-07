@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35324,
+  "num_followers": 35328,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAAD9JywQFE16CmfGzzALKODs",
+  "snapshot_id": "Zl+qgAAAAAC99No+4IevofcN6eC1eqKk",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 331373,
-      "name": "Mbulali Wami",
-      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
+      "duration_ms": 294746,
+      "name": "Monate",
+      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 294746,
-      "name": "Monate",
-      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
+      "duration_ms": 331373,
+      "name": "Mbulali Wami",
+      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
+      "duration_ms": 321960,
+      "name": "Ag Shame Lovey",
+      "url": "https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Zola Budd",
-      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
+      "duration_ms": 208706,
+      "name": "Ama-Gents",
+      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 321960,
-      "name": "Ag Shame Lovey",
-      "url": "https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg"
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 208706,
-      "name": "Ama-Gents",
-      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
+      "duration_ms": 240640,
+      "name": "Zola Budd",
+      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 230946,
-      "name": "Tendercare",
-      "url": "https://open.spotify.com/track/6ukIZrNRs0LlBTV1Ewo1gd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Late For Mama",
         "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 331497,
       "name": "Good Black Woman",
       "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 230946,
+      "name": "Tendercare",
+      "url": "https://open.spotify.com/track/6ukIZrNRs0LlBTV1Ewo1gd"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Bad Girl",
-        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 314426,
-      "name": "Ngiyakusaba",
-      "url": "https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Late For Mama",
         "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 277896,
       "name": "Don't Follow Me I'm Married",
       "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Bad Girl",
+        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 314426,
+      "name": "Ngiyakusaba",
+      "url": "https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4"
     },
     {
       "added_at": null,

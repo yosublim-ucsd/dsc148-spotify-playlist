@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > El futuro está acá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,551 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,560 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 2 | [Iguales](https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Iguales](https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw) | 2:19 |
 | 3 | [Adiós](https://open.spotify.com/track/0Jtn2mapkkdmNJy8NTGZNe) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Adiós](https://open.spotify.com/album/1j6TxzD6vU4bvHZ37pJwe7) | 3:12 |
 | 4 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
-| 5 | [Teléfono](https://open.spotify.com/track/0TLcJzMSrDwOlGFzx6sgCP) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Teléfono](https://open.spotify.com/album/2JNMOZnl8uXLora1UHkK3q) | 2:53 |
+| 5 | [Teléfono](https://open.spotify.com/track/0TLcJzMSrDwOlGFzx6sgCP) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Teléfono](https://open.spotify.com/album/2JNMOZnl8uXLora1UHkK3q) | 2:53 |
 | 6 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
 | 7 | [HOY](https://open.spotify.com/track/7D7CiwAGCkGi9sQYyCLhxh) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [HOY](https://open.spotify.com/album/4SGFF2gxXah8wjZNrJiZJK) | 2:57 |
 | 8 | [Corte Caco](https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Corte Caco](https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb) | 2:00 |

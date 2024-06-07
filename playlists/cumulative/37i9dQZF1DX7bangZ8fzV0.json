@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=LDocmcOaSjmwHGY1vCdePQ\">Demi Lee Moore</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=bJ9JgOxdQniW4dkK8XyyVw\">Kurt Darren</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 228874,
       "name": "Dans Kwagga",
       "url": "https://open.spotify.com/track/5rqe4RmTztq10pipi4b0DA"
@@ -3244,6 +3244,24 @@
       "duration_ms": 215217,
       "name": "Soen Soos Wat Jy Dans",
       "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
+    },
+    {
+      "album": {
+        "name": "Sokkie Tot Die Einde",
+        "url": "https://open.spotify.com/album/28FmLzjwY5uqI69rq5HJkP"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228566,
+      "name": "Sokkie Tot Die Einde",
+      "url": "https://open.spotify.com/track/42zwwodmjObOkLONUDkjRv"
     },
     {
       "album": {

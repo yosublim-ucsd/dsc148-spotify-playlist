@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "afterparty",
+        "url": "https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "afterparty",
+      "url": "https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven"
+    },
+    {
+      "album": {
         "name": "ALIVE",
         "url": "https://open.spotify.com/album/1ZP90zyxvU4zTy6qSYLq2m"
       },
@@ -242,7 +260,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 216247,
       "name": "Alive - Edit",
       "url": "https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 213782,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW"
@@ -1499,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "The Learning of Urgency",
+        "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "PEARL",
+          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197910,
+      "name": "Carry Your Name",
+      "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
+    },
+    {
+      "album": {
         "name": "clarity",
         "url": "https://open.spotify.com/album/7iw7nazAhQmeN2tMIP3Ubw"
       },
@@ -1583,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/0IHC3YcUDA504Cy4s5KFLr"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180166,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv"
+    },
+    {
+      "album": {
         "name": "Cloud Surf",
         "url": "https://open.spotify.com/album/1aXEnX1VBrPzxXUmG0KbcO"
       },
@@ -1642,6 +1700,32 @@
       "duration_ms": 166137,
       "name": "Coexistence",
       "url": "https://open.spotify.com/track/5tD5TkJ6LxyIqqI9TGUvCc"
+    },
+    {
+      "album": {
+        "name": "Comedown",
+        "url": "https://open.spotify.com/album/2TTwBbmPUodJEiDVEU9OLG"
+      },
+      "artists": [
+        {
+          "name": "Lonelysoul.",
+          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
+        },
+        {
+          "name": "NALYRO",
+          "url": "https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf"
+        },
+        {
+          "name": "Matt You",
+          "url": "https://open.spotify.com/artist/54p0AZwrKT6Ua6W5P60IwG"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/5iDn05wrs0yVWihC5YFlZU"
     },
     {
       "album": {
@@ -2512,6 +2596,24 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "album": {
+        "name": "multihued",
+        "url": "https://open.spotify.com/album/6YuFYRmVEVJaPwJkVyNXAK"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "fake romance",
+      "url": "https://open.spotify.com/track/1DZwZMrXogoAh8HNTWDT4c"
     },
     {
       "album": {
@@ -3486,6 +3588,28 @@
       "duration_ms": 117052,
       "name": "Helium",
       "url": "https://open.spotify.com/track/0mPl4QxONecqNfG7XJEsZX"
+    },
+    {
+      "album": {
+        "name": "Hello (Super Edit)",
+        "url": "https://open.spotify.com/album/6k9XWJIuzEdRogiwn31ruB"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159008,
+      "name": "Hello - Super Edit",
+      "url": "https://open.spotify.com/track/5njyNzmpj3PmiQNllomp6C"
     },
     {
       "album": {
@@ -8015,6 +8139,28 @@
     },
     {
       "album": {
+        "name": "Say No More (Angrybaby Remix)",
+        "url": "https://open.spotify.com/album/0AwvNaHyL3wXCXoNt1jG6g"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180426,
+      "name": "Say No More - Angrybaby Remix",
+      "url": "https://open.spotify.com/track/437MxuoMqqH5g2nXKPGa92"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4JSwVhJw8ssKvNRw45vhb2"
       },
@@ -10394,6 +10540,24 @@
       "duration_ms": 206637,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5lBKGuWoDoNXd0r4sICyK2"
+    },
+    {
+      "album": {
+        "name": "The Learning of Urgency",
+        "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "V\u00e5rs\u00e5ng",
+      "url": "https://open.spotify.com/track/2rQXc2wcbx7p0QeShvwFhq"
     },
     {
       "album": {

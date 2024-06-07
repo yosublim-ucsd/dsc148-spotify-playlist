@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=OPoUvooSQkKTySf_8i1TdQ\">Zwide</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K?si=cZzZ5C5oRK-TJOQnp6eNUQ\">Umafikizolo</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Imali ye-Carvela",
+        "url": "https://open.spotify.com/album/0BQ0BbhmXwAI00TkjXqf3o"
+      },
+      "artists": [
+        {
+          "name": "Dizastar",
+          "url": "https://open.spotify.com/artist/1aAr0RO0oYsn6Aukjeytiz"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290690,
+      "name": "Imali ye-Carvela",
+      "url": "https://open.spotify.com/track/5OEeyPHat8WHykSrBDtp8p"
+    },
+    {
+      "album": {
         "name": "Imali Yesoso",
         "url": "https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 296796,
       "name": "Isithembu Simnandi",
       "url": "https://open.spotify.com/track/5VRvB38xJm4N1MZbpxqLAn"
@@ -1915,6 +1933,32 @@
     },
     {
       "album": {
+        "name": "Kuyenzeka",
+        "url": "https://open.spotify.com/album/15MzAdluCqSUBXasfKDTIH"
+      },
+      "artists": [
+        {
+          "name": "Navigator Gcwensa",
+          "url": "https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC"
+        },
+        {
+          "name": "Ashantiey",
+          "url": "https://open.spotify.com/artist/5Y27ZPdDBCA7vofb3xXKpk"
+        },
+        {
+          "name": "LIMIT NALA",
+          "url": "https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302680,
+      "name": "Kuyenzeka",
+      "url": "https://open.spotify.com/track/6NGfCx1dUHeBEyLjiGcb6Q"
+    },
+    {
+      "album": {
         "name": "Sipho",
         "url": "https://open.spotify.com/album/16QKAhgay0amx5AgBIwFo0"
       },
@@ -2173,6 +2217,28 @@
     },
     {
       "album": {
+        "name": "Ngathi Nguye",
+        "url": "https://open.spotify.com/album/3cZik7oHU3G5MuEiXtnS6k"
+      },
+      "artists": [
+        {
+          "name": "Umafikizolo",
+          "url": "https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K"
+        },
+        {
+          "name": "Umashotana",
+          "url": "https://open.spotify.com/artist/0bQK92L70k52lgVCQX0mNp"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383425,
+      "name": "Ngathi Nguye",
+      "url": "https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7"
+    },
+    {
+      "album": {
         "name": "Ngeke Ungiphathe",
         "url": "https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM"
       },
@@ -2366,7 +2432,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 281240,
       "name": "Ngiyeza",
       "url": "https://open.spotify.com/track/7ATU7xI4ffZgPGm3QCKX4K"
@@ -3270,7 +3336,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 351157,
       "name": "Umfazi Womuntu Enqunu",
       "url": "https://open.spotify.com/track/4vDPSGw1tPXwu0cCsLg3Lg"
@@ -3655,6 +3721,32 @@
     },
     {
       "album": {
+        "name": "Wawungekho EP",
+        "url": "https://open.spotify.com/album/0Zjplas4HjDHnrkCrvuHDe"
+      },
+      "artists": [
+        {
+          "name": "MENZI MUSIC",
+          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
+        },
+        {
+          "name": "Inkos' Yamagcokama",
+          "url": "https://open.spotify.com/artist/426EsL2s4GgDdGIeuVnzM6"
+        },
+        {
+          "name": "Somcimbi",
+          "url": "https://open.spotify.com/artist/6TyGHN4KowIxUILULvXXi3"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297351,
+      "name": "Wawungekho",
+      "url": "https://open.spotify.com/track/1QSPqvHIeDBNGKfrIpCeKt"
+    },
+    {
+      "album": {
         "name": "Uboya Enkomeni",
         "url": "https://open.spotify.com/album/46xQgx20LCQ7CVDQuGdxE6"
       },
@@ -3776,7 +3868,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 249108,
       "name": "Yimi Isiqhwaga",
       "url": "https://open.spotify.com/track/22EGSr4xGc8zDs3TSjgBXV"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Rendez Vous",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Yodelice",
   "name": "Volume France",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 244223,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 273628,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/37rLg6sA6pqehjeLdGIWb4"
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Ravage Club",
+        "url": "https://open.spotify.com/album/1uPzPtxZjx8ODJnuSSNjOP"
+      },
+      "artists": [
+        {
+          "name": "Ravage Club",
+          "url": "https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179982,
+      "name": "Fake Generation",
+      "url": "https://open.spotify.com/track/7spNRbmZcrrfmQ8ou1KmP9"
+    },
+    {
+      "album": {
         "name": "Fantasize",
         "url": "https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor"
       },
@@ -1382,6 +1400,24 @@
       "duration_ms": 256096,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn"
+    },
+    {
+      "album": {
+        "name": "Seas Of Static",
+        "url": "https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233698,
+      "name": "Here Comes The Lord",
+      "url": "https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR"
     },
     {
       "album": {
@@ -1796,7 +1832,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 233965,
       "name": "Know",
       "url": "https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY"
@@ -4004,7 +4040,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 229600,
       "name": "You Liar",
       "url": "https://open.spotify.com/track/7xivDpDSJ9dPuyqovxxkk7"

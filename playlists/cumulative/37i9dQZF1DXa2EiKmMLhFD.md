@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Tiara Andini, Billie Eilish serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Dudy Oris, Tiara Andini serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 208 songs - 12 hr 57 min
 

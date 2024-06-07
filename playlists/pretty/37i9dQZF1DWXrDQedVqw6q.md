@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,732 likes - 150 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,811 likes - 150 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 7 | [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 |
 | 8 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 |
 | 9 | [Nurtured Lilies](https://open.spotify.com/track/71UEqEJQLXPkGf9KkFgbPG) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Nurtured Lilies](https://open.spotify.com/album/2gTWtjQqnA5OP6jfbXAHuM) | 3:18 |
-| 10 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
+| 10 | [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/2co7WVDd5eQEiBZm3egDlJ) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 |
 | 11 | [if not now](https://open.spotify.com/track/0xPgRZz6u1b5pIxIpsM3Kb) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [if not now](https://open.spotify.com/album/3pA9hhiF7K9N9XGDYtJEoM) | 2:54 |
 | 12 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
 | 13 | [Velvet Stills](https://open.spotify.com/track/1gUN01HfuzSG2OZpbuQ4be) | [Ana Costa](https://open.spotify.com/artist/3PXd3y6WyVDbpmIUHtrTbu) | [Velvet Stills](https://open.spotify.com/album/0HgmMD6baTPinbd8pwifBC) | 2:26 |

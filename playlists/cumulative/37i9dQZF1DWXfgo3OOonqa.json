@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "",
+  "description": "H\u00e5ll det 100.",
   "name": "100",
   "tracks": [
     {
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 196923,
       "name": "AKTIV",
       "url": "https://open.spotify.com/track/11asg9CR2vxjzIlVu83C4j"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 116000,
       "name": "Amira",
       "url": "https://open.spotify.com/track/1HZymY4eaImW0sEBOyqsgM"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 150062,
       "name": "Au revoir (Gitti)",
       "url": "https://open.spotify.com/track/6ysWbrg59NtycRL77eWr4b"
@@ -5566,7 +5566,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 144516,
       "name": "Choco Chanel",
       "url": "https://open.spotify.com/track/3aqRCncElwO0AJlOiqbZOl"
@@ -7298,7 +7298,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 193384,
       "name": "DOPAMIN",
       "url": "https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w"
@@ -7914,6 +7914,24 @@
       "duration_ms": 146157,
       "name": "Dyrbar tid",
       "url": "https://open.spotify.com/track/7ymV4ydTlFx6YQiBDJQyuu"
+    },
+    {
+      "album": {
+        "name": "D\u00c5RHUS",
+        "url": "https://open.spotify.com/album/4GjsAzIrjlchNOlZPeavue"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163692,
+      "name": "D\u00c5RHUS",
+      "url": "https://open.spotify.com/track/1SKJEblmOgIvPR6hzoEXeb"
     },
     {
       "album": {
@@ -9333,6 +9351,28 @@
     },
     {
       "album": {
+        "name": "Foreign Car",
+        "url": "https://open.spotify.com/album/0c5iL8tUeY1S1JQV4n75uw"
+      },
+      "artists": [
+        {
+          "name": "ALAN MAX",
+          "url": "https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY"
+        },
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "Foreign Car",
+      "url": "https://open.spotify.com/track/0NoQ7FsKRWSIDcRqeIQXTn"
+    },
+    {
+      "album": {
         "name": "INLOGGAD 2",
         "url": "https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy"
       },
@@ -9708,7 +9748,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 157105,
       "name": "F\u00f6r m\u00e5nga chanser",
       "url": "https://open.spotify.com/track/1KRMVGqqi01mVxGfhy3Apb"
@@ -10886,7 +10926,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 166956,
       "name": "Growth",
       "url": "https://open.spotify.com/track/6HpbfGgTW5XM02eoaCxu0T"
@@ -11998,7 +12038,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 158918,
       "name": "Hj\u00e4rta",
       "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
@@ -12868,7 +12908,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 140176,
       "name": "IKV (Du g\u00f6r mig)",
       "url": "https://open.spotify.com/track/65j6bTTnD3cC7Zgydl49wD"
@@ -14150,7 +14190,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 135944,
       "name": "Kan Inte Sova",
       "url": "https://open.spotify.com/track/31F50K70eQ1k65IUUM0QrF"
@@ -16179,6 +16219,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5xApD4TzMYMfBzizq9cQ9E"
+      },
+      "artists": [
+        {
+          "name": "Saliboy",
+          "url": "https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/59CK5mB7eBiUOSBdX0V3Ah"
+    },
+    {
+      "album": {
         "name": "Long Time No See",
         "url": "https://open.spotify.com/album/6xtBhrTL8wXjt9SNcQLjme"
       },
@@ -17126,6 +17184,28 @@
       "duration_ms": 134526,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3irxSh2ZXZCje8VrlizdBo"
+    },
+    {
+      "album": {
+        "name": "VITA L\u00d6GNER & SVARTA F\u00c5R",
+        "url": "https://open.spotify.com/album/40TEqSA15na0dmt0srlLvZ"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "Ceasar DD",
+          "url": "https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124511,
+      "name": "MAJMOON",
+      "url": "https://open.spotify.com/track/5xQpRSKQinxyZWhVvOjP4o"
     },
     {
       "album": {
@@ -18590,7 +18670,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 134400,
       "name": "Mina tankar",
       "url": "https://open.spotify.com/track/40DLhI3HsyDkbwJl4uvyCj"
@@ -18758,6 +18838,28 @@
       "duration_ms": 149073,
       "name": "Mitt i prick",
       "url": "https://open.spotify.com/track/1fOAy8tUHchc6OulnLBzlE"
+    },
+    {
+      "album": {
+        "name": "VITA L\u00d6GNER & SVARTA F\u00c5R",
+        "url": "https://open.spotify.com/album/40TEqSA15na0dmt0srlLvZ"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "Ceasar DD",
+          "url": "https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170797,
+      "name": "MITT LIV (HABIBA)",
+      "url": "https://open.spotify.com/track/7LOPRyw7hNIsu8eXT2QM2t"
     },
     {
       "album": {
@@ -19599,6 +19701,32 @@
     },
     {
       "album": {
+        "name": "No love",
+        "url": "https://open.spotify.com/album/1DI9ozTykFpQphrYK0T4oj"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/1Gtx7uxcwFWqBHt9OeESgj"
+        },
+        {
+          "name": "O\u2019Melly",
+          "url": "https://open.spotify.com/artist/4DkJGLzJj2E2FACgUyHdbl"
+        },
+        {
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4EEKEVCRTl6s4fbXbDZelG"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160428,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/4V9I90ynbfXgqkcWy387xH"
+    },
+    {
+      "album": {
         "name": "NO NAMES",
         "url": "https://open.spotify.com/album/5iEGH5wFfbpWxdWSUWaL3R"
       },
@@ -20022,6 +20150,28 @@
       "duration_ms": 159493,
       "name": "Ofiltrerad",
       "url": "https://open.spotify.com/track/3u6Op3wLEhJDgnt7IwO4kP"
+    },
+    {
+      "album": {
+        "name": "Oh oh",
+        "url": "https://open.spotify.com/album/2Ls77VQROOd48xJvHvmVeW"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        },
+        {
+          "name": "T.G Boogie",
+          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170872,
+      "name": "Oh oh",
+      "url": "https://open.spotify.com/track/6DngtRlaqwA8diV0p4EysM"
     },
     {
       "album": {
@@ -23200,7 +23350,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 117500,
       "name": "Shuno som mig",
       "url": "https://open.spotify.com/track/3oz4rW0SuA7H93Sw9iQhdq"
@@ -24289,6 +24439,24 @@
     },
     {
       "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/3tSLIxU4vPfVAMGWyHMdqH"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130393,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/76oHXlhd8RvQ0MiCO3iWk1"
+    },
+    {
+      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/2iGuipOsaJphxtNTWdwHJv"
       },
@@ -25131,6 +25299,28 @@
     },
     {
       "album": {
+        "name": "Sv\u00e5ra",
+        "url": "https://open.spotify.com/album/0qZSfCmCFKb84senBDo8jE"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        },
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167413,
+      "name": "Sv\u00e5ra",
+      "url": "https://open.spotify.com/track/0f3GXUjYR7D2dQ7QJTdQzi"
+    },
+    {
+      "album": {
         "name": "SV\u00c5RT F\u00d6R DIG",
         "url": "https://open.spotify.com/album/6FIDJNuBlWcdLBjagI73qb"
       },
@@ -25164,7 +25354,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 219844,
       "name": "Sv\u00e5rt F\u00f6r Mej",
       "url": "https://open.spotify.com/track/3EbMKIDr1MPNkP0eCVGyly"
@@ -25324,6 +25514,28 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
+    },
+    {
+      "album": {
+        "name": "S\u00e4g mig",
+        "url": "https://open.spotify.com/album/27vct3nvNm5JaoUMrbasgq"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Xpensive",
+          "url": "https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126762,
+      "name": "S\u00e4g mig",
+      "url": "https://open.spotify.com/track/2mxYgtqahQOW5uEuI1QP05"
     },
     {
       "album": {
@@ -26188,7 +26400,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 132932,
       "name": "TIGHT",
       "url": "https://open.spotify.com/track/1IN5IPcqQUg7cFklNZ0Q41"
@@ -26425,6 +26637,24 @@
     },
     {
       "album": {
+        "name": "TOO LATE",
+        "url": "https://open.spotify.com/album/0YB7IJQKsREoYK66xMnwV5"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142319,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/4ZTKCWNNyz6z4FYWwsoWrs"
+    },
+    {
+      "album": {
         "name": "Top Boy (Brottsben\u00e4gen)",
         "url": "https://open.spotify.com/album/0ouLrFHDbq4OhWFwcYWmmO"
       },
@@ -26502,6 +26732,32 @@
       "duration_ms": 146010,
       "name": "TOPP IDAG",
       "url": "https://open.spotify.com/track/3srWz7HzXOyZvfFSpkERLC"
+    },
+    {
+      "album": {
+        "name": "Toppisar i n\u00e4ven",
+        "url": "https://open.spotify.com/album/7bKNMQqjtigotHwyVvX9xk"
+      },
+      "artists": [
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        },
+        {
+          "name": "ODZ",
+          "url": "https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "Toppisar i n\u00e4ven",
+      "url": "https://open.spotify.com/track/5pfdTD19cacU3LuE3tYUWq"
     },
     {
       "album": {

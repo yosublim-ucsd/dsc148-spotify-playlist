@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Layton Wu
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: I Mean Us
 
-152 songs - 9 hr 3 min
+154 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Everything I'll Ever Need](https://open.spotify.com/track/1LNuTFBRjXPh9HqS6Nevv5) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [Everything I'll Ever Need \- 雷亞遊戲《DEEMO II》片尾曲](https://open.spotify.com/album/47T4Pwammcbuh7RJrIOujK) | 3:16 | 2024-01-25 | 2024-02-02 |
 | [Everytime](https://open.spotify.com/track/43l6cr0F3VdjBLDOWq081Q) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g), [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Everytime](https://open.spotify.com/album/5QYcLdudlnlpQPJ7IzQg9t) | 3:30 | 2024-01-25 | 2024-03-29 |
 | [Expired 〜期限切れの愛〜 \(OT：我還繞著你在旋轉\)](https://open.spotify.com/track/4PFWjoTHEFAfhonI5TUgAs) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [Expired 〜期限切れの愛〜](https://open.spotify.com/album/2ixCuTOpX8vP1iCai1Tecz) | 5:24 | 2024-01-25 |  |
+| [Face Down \(Hands Up\)](https://open.spotify.com/track/1yt4lFQALSV3rqKM9x9nIv) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Face Down \(Hands Up\)](https://open.spotify.com/album/7uOjUD3alf1a7nMuJdWmhC) | 2:41 | 2024-06-06 |  |
 | [Feather \(Live\)](https://open.spotify.com/track/4ikymzMUcAficaye4PprT0) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [TOKYO ACOUSTIC SESSION](https://open.spotify.com/album/3wLZWpTgaMF0qbRMtNGbui) | 3:53 | 2024-01-25 | 2024-03-01 |
 | [Feel It](https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feel It](https://open.spotify.com/album/5kGOAASVomzriytdsAT08e) | 2:53 | 2024-02-08 | 2024-03-29 |
 | [Felt](https://open.spotify.com/track/4xMdEsDUYLBbrVR7cfRc7S) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Felt](https://open.spotify.com/album/1BylzdJuG9vR6TLTeRYxg8) | 2:24 | 2024-02-22 | 2024-03-01 |
@@ -67,6 +68,7 @@
 | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/track/16xxMRn4v1fKbPvA9wVm1H) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/album/4N3jtleWnWAv6O9i259aTi) | 3:25 | 2024-01-25 |  |
 | [Innocent](https://open.spotify.com/track/7jIH2PZdZwPN09sPZ8Zxj6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Innocent](https://open.spotify.com/album/0jZAVTNzifPAeyEIrnhGcj) | 3:28 | 2024-01-25 |  |
 | [Just Touch Me \- Live Session](https://open.spotify.com/track/67X9AeY2c91iYQChCJi7zh) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf), [DJ SON666](https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2), [Sujong Park](https://open.spotify.com/artist/7lxC2YvOYoePgIkaFMlaBb), [Your Friend Sunny](https://open.spotify.com/artist/7nmpeOQuGNu30b9EyX7xKZ), [OC](https://open.spotify.com/artist/7mzNio1YNo7PAZhEZkDyEI), [賴瓦旦](https://open.spotify.com/artist/6EaKa9EZ66hbW7n6um8C5b) | [粉內宇宙 Fi\-Né Universe\_ Vol.1](https://open.spotify.com/album/1IeDRLl8IFC65wbnCKVPkQ) | 4:44 | 2024-04-25 |  |
+| [Kaede Kimura](https://open.spotify.com/track/2Y2jsX6Uzpe4CFsy4vrOYL) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Kaede Kimura](https://open.spotify.com/album/2dJaZ2kGpFTJ0cXxBO4lBV) | 3:07 | 2024-06-06 |  |
 | [LAST GOODBYE](https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [LAST GOODBYE](https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq) | 2:28 | 2024-01-25 |  |
 | [Looonely](https://open.spotify.com/track/1lBxGvrnW7wUVfPNurc9Wj) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T), [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [OOG](https://open.spotify.com/artist/5UG5vVkxLw3HdVJrrxgFqD) | [越洋電話, Vol\. 1](https://open.spotify.com/album/4PsbzDRyyoTbZ9TfN68l97) | 3:55 | 2024-03-28 |  |
 | [Lover](https://open.spotify.com/track/5RjRlnM5doKCqBv0ureyJe) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Lover](https://open.spotify.com/album/5NJGsSkcBtzm8qRG4DB7nP) | 3:00 | 2024-02-22 | 2024-03-29 |
@@ -134,7 +136,7 @@
 | [中途 Midway](https://open.spotify.com/track/2Bt3eNSRuYmbrLETXSdnrQ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [工作 Work](https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB) | 3:59 | 2024-02-29 | 2024-03-15 |
 | [人間條件](https://open.spotify.com/track/68C5YDFHwHRpZ9Y3Ig3gRl) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [家和萬事興](https://open.spotify.com/album/1tZ4awYGvCSGXEUskU7tPY) | 3:48 | 2024-03-15 | 2024-05-17 |
 | [兄弟](https://open.spotify.com/track/09d6pxcb14XzvyqYf8OaHd) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [人](https://open.spotify.com/album/27El5Wlkw4N59jrxVTlWFh) | 3:25 | 2024-02-29 | 2024-03-15 |
-| [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 | 2024-03-28 |  |
+| [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 | 2024-03-28 | 2024-06-07 |
 | [台灣Song](https://open.spotify.com/track/24nBHb4jbudivAMxu8LlW4) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [舌粲蓮花](https://open.spotify.com/album/1BgPXTf5C80O2BFWnfLR5x) | 4:22 | 2024-02-29 | 2024-03-15 |
 | [安泰](https://open.spotify.com/track/3rBrPImkLWh19VHnYztPMC) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰](https://open.spotify.com/album/3HA5af27JDxCKKncQpdNLY) | 2:33 | 2024-02-29 | 2024-03-15 |
 | [寿司 Sushi ft\. Gummy Bear Man](https://open.spotify.com/track/2bhBZr4ge9L826CcYTXP4y) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [Gummy Bear Man](https://open.spotify.com/artist/2hxbulk4zdH9gZGCzZK4fK) | [BADA88](https://open.spotify.com/album/74Px0LUajMaYGW3FAKPJkr) | 2:33 | 2024-01-25 | 2024-02-02 |
@@ -152,7 +154,7 @@
 | [海浪](https://open.spotify.com/track/5EpLeWSwqOG0mZW0R4WdKQ) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [Go Slow](https://open.spotify.com/album/3dsjH0D0Co0X7oii3a7FO8) | 5:22 | 2024-02-29 | 2024-03-15 |
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-02-29 | 2024-03-15 |
 | [石橋](https://open.spotify.com/track/1GSaEKLXJMbgS25vLiC1or) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰](https://open.spotify.com/album/3HA5af27JDxCKKncQpdNLY) | 3:40 | 2024-02-29 | 2024-03-15 |
-| [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-05-16 |  |
+| [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-05-16 | 2024-06-07 |
 | [美好的事可不可以發生在我身上](https://open.spotify.com/track/1viPIivqn5vmMsFUk5CJnw) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [更迭](https://open.spotify.com/album/1ErSP0hX5hokAbaQ1wFa4d) | 6:02 | 2024-02-29 | 2024-03-15 |
 | [自信勇敢咱的名](https://open.spotify.com/track/62ih8yFo1urUe2RsZV8uvq) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [自信勇敢咱的名](https://open.spotify.com/album/2tJl19l0xjVGMPgvDTvVd7) | 4:12 | 2024-02-29 | 2024-03-15 |
 | [葉柏 PY](https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl) | [CHIU PI](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [至繁 LE MONDE](https://open.spotify.com/album/7uUz5hxP7b8oLNLfHu8ODs) | 4:40 | 2024-01-25 |  |

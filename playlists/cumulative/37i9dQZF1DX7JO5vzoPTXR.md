@@ -4,7 +4,7 @@
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK?si=z\-L2he2hTlih1L4oq3QYqQ">Yimeeka</a>
 
-797 songs - 1 day 19 hr 47 min
+798 songs - 1 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [familiar emotions](https://open.spotify.com/track/3hXBPCcG0L2GrZSxc3QdOS) | [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz), [k8ie](https://open.spotify.com/artist/25yNr18DXkdeWmy6NKDQwo) | [Candid](https://open.spotify.com/album/12zKlJMUgJIXYD0b4yIH1Z) | 4:01 | 2023-04-05 | 2023-05-04 |
 | [Fantasy](https://open.spotify.com/track/4JSOtJJkeR7A33cAG85CyV) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Fantasy](https://open.spotify.com/album/40gEvsYXDuib5nCnbSphbe) | 3:14 | 2021-12-08 | 2023-06-08 |
 | [Feels Like Home](https://open.spotify.com/track/7HSu0QjsrsnsjFInHP9cwv) | [Only Little Clouds](https://open.spotify.com/artist/609oUDC1ffDczoYZPdmnRl) | [Feels Like Home](https://open.spotify.com/album/4yIw3nMPBNQvZzLuMy9eMq) | 3:11 | 2023-01-04 | 2023-02-02 |
+| [Fever Dream](https://open.spotify.com/track/45sfagYVHLK1WO9oexwPHv) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [Heatwave Heaven](https://open.spotify.com/album/0qBPaPTojSJw64XPyKaB4g) | 2:47 | 2024-06-04 |  |
 | [Fiamme](https://open.spotify.com/track/2lAcIougDejveyLgAGHXoP) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [Fiamme](https://open.spotify.com/album/6OlYreAidBgOvp5BYSwjel) | 3:58 | 2022-03-08 | 2022-05-05 |
 | [Fields of Glee](https://open.spotify.com/track/1aGwJWObmyk1agZ599ebBS) | [Moggli](https://open.spotify.com/artist/6rSumQEw4qDixhkgND4JCv) | [100% HER](https://open.spotify.com/album/4c8qCznUZNz4H5xoYrdA0B) | 4:38 | 2022-02-02 | 2022-03-09 |
 | [Figure of 8](https://open.spotify.com/track/5y6BzS7flAK8m8c9sM23LG) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Figure of 8](https://open.spotify.com/album/4bZARxXUqwelwoJqfRZRvI) | 3:11 | 2023-12-06 | 2024-05-13 |

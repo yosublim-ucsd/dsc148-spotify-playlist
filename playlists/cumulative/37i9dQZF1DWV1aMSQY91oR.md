@@ -4,7 +4,7 @@
 
 > The newest hip\-hop, refreshed weekly\. Cover: Big Hit, Hit\-Boy, The Alchemist
 
-2,314 songs - 4 day 16 hr 2 min
+2,315 songs - 4 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,6 +941,7 @@
 | [I SCREAM](https://open.spotify.com/track/3AccdL73dItIK8flPFVF0x) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW) | [I SCREAM](https://open.spotify.com/album/0cVGVCp5DmQ9MRjqGPkFzE) | 1:46 | 2023-12-15 | 2023-12-23 |
 | [I Sell](https://open.spotify.com/track/0UBGT7DgAI1F4k1jMUMf0H) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [I Sell](https://open.spotify.com/album/2kcmTK3wZEyAKore4X5lXC) | 2:47 | 2023-08-18 | 2023-08-26 |
 | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/album/1VKYrgULdVHSutxuU2SXgJ) | 2:27 | 2023-10-20 | 2023-10-28 |
+| [I Still Know Better](https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [I Still Know Better](https://open.spotify.com/album/2iFBx2KH4xuCnNUtVJ2cx0) | 3:22 | 2024-05-31 |  |
 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 | 2023-09-01 | 2023-09-09 |
 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 | 2023-08-18 | 2023-08-26 |
 | [I Want To Be Free \(Letter from Tax To Cas\)](https://open.spotify.com/track/4P9ERdcxH0V00cAkGVnmLg) | [Troy Ave](https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW) | [Dear Hater You Lost](https://open.spotify.com/album/7IrhsnoYZoLGStOm1ldqfu) | 3:19 | 2023-07-07 | 2023-07-15 |

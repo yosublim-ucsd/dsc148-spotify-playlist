@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
+  "description": "This Is The Beach Boys. Los temas esenciales, todos en una lista.",
   "name": "This Is The Beach Boys",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 153240,
       "name": "'Til I Die - Remastered 2009",
       "url": "https://open.spotify.com/track/2Uup75DRkJ03P91XyITXGC"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 133893,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 160360,
       "name": "California Girls - Remix/Remastered 2001",
       "url": "https://open.spotify.com/track/6bJuuCtXYiwOcKT9s8uRh8"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 134133,
       "name": "In My Room - Remastered",
       "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 100933,
       "name": "Little Deuce Coupe - Remastered 2001",
       "url": "https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
@@ -2074,6 +2074,24 @@
       "duration_ms": 125413,
       "name": "When I Grow Up (To Be a Man)",
       "url": "https://open.spotify.com/track/2ulPFs59dOCrd6JLkvNIJR"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
+        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125819,
+      "name": "When I Grow Up (To Be A Man) - Remastered",
+      "url": "https://open.spotify.com/track/3aaz4mjJSUbupLQiYm1X03"
     },
     {
       "album": {

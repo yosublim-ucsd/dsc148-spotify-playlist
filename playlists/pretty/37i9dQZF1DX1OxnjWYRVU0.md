@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,560 likes - 368 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,618 likes - 368 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,7 +270,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 260 | [What's Up?](https://open.spotify.com/track/0QK4cKWv02vVr4RystlKqh) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [waybackwhen](https://open.spotify.com/artist/0i2sQGppNt0uHHqgTia7kv) | [What's Up?](https://open.spotify.com/album/6kxF377xLn2jOxqhvUeEA1) | 2:48 |
 | 261 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 |
 | 262 | [Hotel California](https://open.spotify.com/track/56FOP0LLQzpsNmtoCAA1z8) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Hotel California](https://open.spotify.com/album/5JPCvzDf80cAPSvHkPBRdM) | 2:14 |
-| 263 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
+| 263 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
 | 264 | [Heathens](https://open.spotify.com/track/4il7cillEo8yKHdlBOP0Qy) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Mert Can](https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Heathens](https://open.spotify.com/album/4hBQw4a5SKxUV7Dv3vA4F2) | 2:08 |
 | 265 | [About You Now](https://open.spotify.com/track/7oPu5emh05XNuW8veD3Fe8) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J), [LIM3](https://open.spotify.com/artist/7jDWVPTMByGv5kIksAmLF7) | [About You Now](https://open.spotify.com/album/17SFCpHBQekxDBAESoWsda) | 2:28 |
 | 266 | [Superstar](https://open.spotify.com/track/4ZvYIMF8M3TJS2oC1UP9Oe) | [Calmani & Grey](https://open.spotify.com/artist/1mhqV3TKErQZb0mZDaR0Xo), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Superstar](https://open.spotify.com/album/6PJl2nT0iEoBR0kMjCejWn) | 2:58 |

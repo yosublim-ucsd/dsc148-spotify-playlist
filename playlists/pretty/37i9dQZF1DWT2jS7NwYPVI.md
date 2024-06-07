@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 ### [New Noise](https://open.spotify.com/playlist/37i9dQZF1DWT2jS7NwYPVI)
 
-> your cheat sheet for all that's on the rise in rock/alt \| Cover: Siickbrain
+> your cheat sheet for all that's on the rise in rock/alt \| Cover: Siiickbrain
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,637 likes - 126 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,682 likes - 126 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [Low](https://open.spotify.com/track/3foGam4O1YsGX4vppR572g) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [A Different Life](https://open.spotify.com/album/4ngGXR7o8nJ6QqoVa12Bbg) | 4:07 |
 | 126 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 |
 
-Snapshot ID: `ZmCtLAAAAAD2pUi9EAxQK0DuXe+gPjTC`
+Snapshot ID: `ZmHOzAAAAABrzdTT+ln7zqq5e8D4yFuh`

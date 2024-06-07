@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0cc8YMQWsSzODyTpdVB6mI.md) - cumulative - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Best Of Kitsuné Musique](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Kitsuné Musique Essential](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
 > Have a listen to our Kitsuné's essential tracks and meet all generations of artists from 20 years ago to these past few  months\. 🎧
 

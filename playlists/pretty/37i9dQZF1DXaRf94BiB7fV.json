@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels in India. Cover: Gursheet Khanuja, Artwork: Isu Kim",
-  "num_followers": 51863,
+  "num_followers": 51888,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
@@ -150,6 +150,10 @@
         {
           "name": "Jayant Sharma",
           "url": "https://open.spotify.com/artist/3OSrXBm2VBqMLPrFtTjlfX"
+        },
+        {
+          "name": "Pradhumn Rajput",
+          "url": "https://open.spotify.com/artist/2INevekE5kePA1zEWUXuih"
         }
       ],
       "duration_ms": 143074,

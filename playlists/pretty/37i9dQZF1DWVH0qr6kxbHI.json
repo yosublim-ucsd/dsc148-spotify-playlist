@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 79954,
+  "num_followers": 80006,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Seguir viviendo",
+        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Se me olvid\u00f3 otra vez",
+      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Cristalitos Machacaos",
         "url": "https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 195080,
       "name": "Sevillanas de los Bloques",
       "url": "https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Seguir viviendo",
-        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Se me olvid\u00f3 otra vez",
-      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Baladilla De Los Tres R\u00edos",
-        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
-      },
-      "artists": [
-        {
-          "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
-        }
-      ],
-      "duration_ms": 192627,
-      "name": "Baladilla De Los Tres R\u00edos",
-      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Carmen Sevilla : Sus Grandes Exitos",
         "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 184693,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Baladilla De Los Tres R\u00edos",
+        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
+      },
+      "artists": [
+        {
+          "name": "Pasi\u00f3n Vega",
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+        }
+      ],
+      "duration_ms": 192627,
+      "name": "Baladilla De Los Tres R\u00edos",
+      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
     },
     {
       "added_at": "2024-05-02 22:01:00",

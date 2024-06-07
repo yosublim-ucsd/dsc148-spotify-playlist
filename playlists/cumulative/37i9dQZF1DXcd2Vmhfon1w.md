@@ -2,7 +2,7 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. III Pekeño, Ergo Pro
+> Lo mejor del hip hop español\. Feat\. Ayax y Prok
 
 359 songs - 19 hr 21 min
 

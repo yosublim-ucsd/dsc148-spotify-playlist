@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 499 songs - 1 day 8 hr 45 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 501 songs - 1 day 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -507,5 +507,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 497 | [Harness](https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf) | [Wilma Vritra](https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT), [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [VRITRA](https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7) | [Burd](https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05) | 4:12 |
 | 498 | [Ride](https://open.spotify.com/track/3zJakbnIw0ufiVnIFkLfA1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 1:21 |
 | 499 | [Every Now and Then](https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Descendants of Cain](https://open.spotify.com/album/0yhyMBfxKhjy1f7TsXXssl) | 3:34 |
+| 500 | [She’s Expecting You \(feat\. Phylicia Rashad\)](https://open.spotify.com/track/7Epbvcmjoh3CCOP5RtSVI3) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Phylicia Rashad](https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 1:08 |
+| 501 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
 
-Snapshot ID: `AAAGCBvAiDtNINdPLpN3XBYZXDVonYEe`
+Snapshot ID: `AAAGCoP+5BKwhti4gx5mB4iwyWlXPHAf`

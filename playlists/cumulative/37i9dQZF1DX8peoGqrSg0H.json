@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BOWKYLION",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -616,6 +616,24 @@
       "duration_ms": 252709,
       "name": "Daily Magic",
       "url": "https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g"
+    },
+    {
+      "album": {
+        "name": "DAY ONE",
+        "url": "https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272700,
+      "name": "DAY ONE",
+      "url": "https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC"
     },
     {
       "album": {
@@ -1293,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "LIKELY",
+        "url": "https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv"
+      },
+      "artists": [
+        {
+          "name": "THI-O",
+          "url": "https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166181,
+      "name": "LIKELY",
+      "url": "https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d"
+    },
+    {
+      "album": {
         "name": "Long Run",
         "url": "https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179"
       },
@@ -1868,7 +1904,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 224000,
       "name": "so good so bad",
       "url": "https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff"
@@ -9210,7 +9246,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 168857,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"

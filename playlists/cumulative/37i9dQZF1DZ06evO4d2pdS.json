@@ -572,10 +572,28 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 153721,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/5N5d0rCeSPKPG8FLlGeR6Q"
+    },
+    {
+      "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/7E7OFnZu69rHd9X0MqP565"
     },
     {
       "album": {
@@ -668,7 +686,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 122266,
       "name": "Mind Yo Business (Feat. Latto)",
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"

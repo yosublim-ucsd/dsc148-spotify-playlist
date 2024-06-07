@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Holden",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Angelina Mango",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 151598,
       "name": "ALL\u2019OLD (feat. I Desideri)",
       "url": "https://open.spotify.com/track/6EFHIGfNnmIgefswKrMfVV"
@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Bonjour Adieu",
+        "url": "https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7"
+      },
+      "artists": [
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202403,
+      "name": "Bonjour Adieu",
+      "url": "https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef"
+    },
+    {
+      "album": {
         "name": "BOULEVARD",
         "url": "https://open.spotify.com/album/216MCmKzpLIcu8rMpCHWUZ"
       },
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 170000,
       "name": "BRUCEREI (DIE4U)",
       "url": "https://open.spotify.com/track/0QCkIqllcQZt2dC2dIKfUL"
@@ -1212,6 +1230,42 @@
       "duration_ms": 142500,
       "name": "caramelle",
       "url": "https://open.spotify.com/track/0dMl7ZeyKbUh5sPkwBFAWN"
+    },
+    {
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/69mE22jAkoKBpCZYoHvkz6"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197183,
+      "name": "CARAVAN",
+      "url": "https://open.spotify.com/track/6UBK3OxYTC1JB5XzKT8EVG"
+    },
+    {
+      "album": {
+        "name": "CARNALE . bagnarci",
+        "url": "https://open.spotify.com/album/54y3vA8M4g3BAfOrYj32Ir"
+      },
+      "artists": [
+        {
+          "name": "MAL\u00ccA",
+          "url": "https://open.spotify.com/artist/577NsAk4QOefh7AWViTOU9"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "CARNALE . bagnarci",
+      "url": "https://open.spotify.com/track/2AWwCbomNO6apoZuvZlYLz"
     },
     {
       "album": {
@@ -1570,6 +1624,24 @@
       "duration_ms": 183642,
       "name": "Ci\u00f2 che amo scompare",
       "url": "https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574"
+    },
+    {
+      "album": {
+        "name": "YACHT CLUB",
+        "url": "https://open.spotify.com/album/7bpzUkc1uU93zlxRcloH41"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "CLUB CATCH",
+      "url": "https://open.spotify.com/track/4R7de0NTj6fBw1gp0yJKuZ"
     },
     {
       "album": {
@@ -2539,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "FERMARE L'ET\u00c0 (feat. Enrico Nigiotti)",
+        "url": "https://open.spotify.com/album/0nG3UwE8qNTeJxpXBRRu3K"
+      },
+      "artists": [
+        {
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
+        },
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177786,
+      "name": "FERMARE L'ET\u00c0 (feat. Enrico Nigiotti)",
+      "url": "https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk"
+    },
+    {
+      "album": {
         "name": "Fermarmi",
         "url": "https://open.spotify.com/album/3pt3ZOOOEkkIl711tXiYwQ"
       },
@@ -3214,7 +3308,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 219729,
       "name": "i ragazzi perduti",
       "url": "https://open.spotify.com/track/36iRSpKuwRLq4A9mTbE3eu"
@@ -4380,6 +4474,24 @@
       "duration_ms": 174879,
       "name": "MERCOLED\u00cc MAI",
       "url": "https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs"
+    },
+    {
+      "album": {
+        "name": "Mi ami solo d\u2019estate",
+        "url": "https://open.spotify.com/album/1MJSYQ2ZUHDt5Pz7SbOoQC"
+      },
+      "artists": [
+        {
+          "name": "NIVEO",
+          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158434,
+      "name": "Mi ami solo d\u2019estate",
+      "url": "https://open.spotify.com/track/6jlf3VpgGLuAGzoUtHFuso"
     },
     {
       "album": {
@@ -7494,6 +7606,32 @@
       "duration_ms": 171112,
       "name": "Tutta Roma a piedi",
       "url": "https://open.spotify.com/track/4pcbLkCCVMRkZEo3rMd4SD"
+    },
+    {
+      "album": {
+        "name": "TUTTA ROSA",
+        "url": "https://open.spotify.com/album/62bhoMTFJHeHqUT0dlxahp"
+      },
+      "artists": [
+        {
+          "name": "Luk3",
+          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
+        },
+        {
+          "name": "Ascanio",
+          "url": "https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI"
+        },
+        {
+          "name": "JARO",
+          "url": "https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "TUTTA ROSA",
+      "url": "https://open.spotify.com/track/1bcOhOnjx5qfQsT96wjDZt"
     },
     {
       "album": {

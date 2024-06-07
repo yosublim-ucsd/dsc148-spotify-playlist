@@ -2869,6 +2869,28 @@
     },
     {
       "album": {
+        "name": "Life Isn't Fair",
+        "url": "https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1"
+      },
+      "artists": [
+        {
+          "name": "PatricKxxLee",
+          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
+        },
+        {
+          "name": "uSimamane",
+          "url": "https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Life Isn't Fair",
+      "url": "https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7"
+    },
+    {
+      "album": {
         "name": "Life Worth Living",
         "url": "https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag"
       },
@@ -4552,6 +4574,24 @@
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "album": {
+        "name": "Seams",
+        "url": "https://open.spotify.com/album/6whHGIqwgx1EAaIW46klh3"
+      },
+      "artists": [
+        {
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152105,
+      "name": "Seams",
+      "url": "https://open.spotify.com/track/4FbeVPzrurs677Tx1L3Rd2"
     },
     {
       "album": {

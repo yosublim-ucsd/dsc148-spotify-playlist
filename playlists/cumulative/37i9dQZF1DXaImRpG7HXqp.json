@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Albatroz",
+        "url": "https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161689,
+      "name": "Albatroz",
+      "url": "https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA"
+    },
+    {
+      "album": {
         "name": "Alcoba\u00e7a",
         "url": "https://open.spotify.com/album/6N91CVoXi22j22OtHFfYwk"
       },
@@ -596,7 +614,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 207923,
       "name": "Andorinhas",
       "url": "https://open.spotify.com/track/5nGQgcKYgvLPYw147hbRKU"
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 171131,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/2dmBK2WqOlTk39HAs9ghBS"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 143700,
       "name": "Caminata Noctorna",
       "url": "https://open.spotify.com/track/7BrVO5fvmo0QC698cUj0fP"
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 139625,
       "name": "Deep Waters",
       "url": "https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL"
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 283662,
       "name": "Favor from the Wind",
       "url": "https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT"
@@ -5556,6 +5574,24 @@
       "duration_ms": 134919,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/1RKWZJKvFfuPDroaYPnaNA"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/07LsSl1xgS3kDwfhTsVRJ3"
+      },
+      "artists": [
+        {
+          "name": "Auguste Braun",
+          "url": "https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145194,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/0Psbnswd3NpdjuP0rZOJXq"
     },
     {
       "album": {
@@ -8944,7 +8980,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 161230,
       "name": "Poulenc\u2019s Dream",
       "url": "https://open.spotify.com/track/0wXXgNfz4Dp6qu6UsxYTHf"
@@ -9628,7 +9664,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 126148,
       "name": "Savage Silhouettes",
       "url": "https://open.spotify.com/track/3Xg0edgHJLSNyfjwtHHcCh"
@@ -9988,7 +10024,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 139348,
       "name": "Silent Senses",
       "url": "https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB"
@@ -10096,7 +10132,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 180543,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
@@ -11266,7 +11302,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 201429,
       "name": "Tears but Not of Pain",
       "url": "https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT"
@@ -11525,6 +11561,24 @@
     },
     {
       "album": {
+        "name": "The Mural",
+        "url": "https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128461,
+      "name": "The Mural",
+      "url": "https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI"
+    },
+    {
+      "album": {
         "name": "The Pine Scent",
         "url": "https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU"
       },
@@ -11590,7 +11644,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 135652,
       "name": "The small things in life",
       "url": "https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv"
@@ -12256,7 +12310,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 139679,
       "name": "Vigo",
       "url": "https://open.spotify.com/track/3y2a6TQ1cVmjiWu2ux8CBg"

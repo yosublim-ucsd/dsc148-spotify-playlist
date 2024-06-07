@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 121387,
+  "num_followers": 121411,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
+        "name": "A Casa \u00c9 Sua (Remix)",
+        "url": "https://open.spotify.com/album/4XJSpMo1GQ3l6efE63lyfc"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        }
+      ],
+      "duration_ms": 161718,
+      "name": "A Casa \u00c9 Sua - Remix",
+      "url": "https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
-        "name": "A Casa \u00c9 Sua (Remix)",
-        "url": "https://open.spotify.com/album/4XJSpMo1GQ3l6efE63lyfc"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "AM\u00c9M",
-          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
-        }
-      ],
-      "duration_ms": 161718,
-      "name": "A Casa \u00c9 Sua - Remix",
-      "url": "https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
+        "name": "Furioso Oceano (Remix)",
+        "url": "https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 142553,
+      "name": "Furioso Oceano (Remix)",
+      "url": "https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
         "name": "Loucura (Remix)",
         "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 225519,
       "name": "Loucura - Remix",
       "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
-        "name": "Rei da Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Fabio Martin",
-          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
-        }
-      ],
-      "duration_ms": 266797,
-      "name": "Rei da Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -443,22 +443,22 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
-        "name": "Furioso Oceano (Remix)",
-        "url": "https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0"
+        "name": "Rei da Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
       },
       "artists": [
         {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
         },
         {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+          "name": "Fabio Martin",
+          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
         }
       ],
-      "duration_ms": 142553,
-      "name": "Furioso Oceano (Remix)",
-      "url": "https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put"
+      "duration_ms": 266797,
+      "name": "Rei da Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -595,26 +595,22 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
         },
         {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
+      "duration_ms": 151945,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -639,26 +635,6 @@
       "duration_ms": 135000,
       "name": "Festa de Crente",
       "url": "https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 151945,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -703,6 +679,30 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+        }
+      ],
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
         "name": "Tomado",
         "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
       },
@@ -719,26 +719,22 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+        "name": "Eu Te Vejo Em Tudo (Remix)",
+        "url": "https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
         },
         {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "Helena Albernaz",
+          "url": "https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7"
         }
       ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
+      "duration_ms": 166716,
+      "name": "Eu Te Vejo Em Tudo (Remix)",
+      "url": "https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -767,6 +763,26 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+        }
+      ],
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
         "name": "Tropa de Jesus (2024)",
         "url": "https://open.spotify.com/album/3cMB70XA0t8qOHs2V6tMnL"
       },
@@ -787,26 +803,6 @@
       "duration_ms": 106285,
       "name": "Tropa de Jesus (2024)",
       "url": "https://open.spotify.com/track/1SUGoH6UafL9VHhon8DMmh"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
-        }
-      ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -879,26 +875,6 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
-        "name": "Eu Te Vejo Em Tudo (Remix)",
-        "url": "https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Helena Albernaz",
-          "url": "https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7"
-        }
-      ],
-      "duration_ms": 166716,
-      "name": "Eu Te Vejo Em Tudo (Remix)",
-      "url": "https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
     },
     {
       "added_at": "2024-04-26 03:46:05",

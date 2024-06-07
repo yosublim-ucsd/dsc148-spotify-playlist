@@ -1,6 +1,6 @@
 {
   "description": "canzoni felici italiane e internazionali per un'estate presa bene",
-  "num_followers": 51306,
+  "num_followers": 51307,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Dear Wormwood",
         "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 165673,
       "name": "Soldier, Poet, King",
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -900,7 +900,7 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Memory Lane & Winter Song",
-        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
+        "name": "Lungolinea.",
+        "url": "https://open.spotify.com/album/7LnHiIlbFFtkaKdv1DTEYh"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        },
+        {
+          "name": "Giorgio Poi",
+          "url": "https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
+      "duration_ms": 195349,
+      "name": "Missili",
+      "url": "https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Lungolinea.",
-        "url": "https://open.spotify.com/album/7LnHiIlbFFtkaKdv1DTEYh"
+        "name": "Memory Lane & Winter Song",
+        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
       },
       "artists": [
         {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        },
-        {
-          "name": "Giorgio Poi",
-          "url": "https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 195349,
-      "name": "Missili",
-      "url": "https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t"
+      "duration_ms": 192133,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Regardez moi",
+        "url": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd"
+      },
+      "artists": [
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Si, ah",
+      "url": "https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 164986,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Regardez moi",
-        "url": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd"
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
       "artists": [
         {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 172850,
-      "name": "Si, ah",
-      "url": "https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw"
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Electric Soul",
-        "url": "https://open.spotify.com/album/3qwSJHTzdeESSXjKnrBjGb"
-      },
-      "artists": [
-        {
-          "name": "Marlon Roudette",
-          "url": "https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "When The Beat Drops Out",
-      "url": "https://open.spotify.com/track/5aJhuze13LOoLthmiG8YIA"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Electric Soul",
+        "url": "https://open.spotify.com/album/3qwSJHTzdeESSXjKnrBjGb"
+      },
+      "artists": [
+        {
+          "name": "Marlon Roudette",
+          "url": "https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "When The Beat Drops Out",
+      "url": "https://open.spotify.com/track/5aJhuze13LOoLthmiG8YIA"
     },
     {
       "added_at": "2024-05-22 11:01:00",

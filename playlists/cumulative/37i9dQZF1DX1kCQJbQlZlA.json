@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "T\u00e2m S\u1ef1 V\u1edbi Em",
+        "url": "https://open.spotify.com/album/32UlNLpuEyZoeqi53lurja"
+      },
+      "artists": [
+        {
+          "name": "Kh\u01b0u Huy V\u0169",
+          "url": "https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP"
+        },
+        {
+          "name": "Ng\u1ecdc H\u00e2n",
+          "url": "https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305301,
+      "name": "Anh S\u00e1u v\u1ec1 qu\u00ea",
+      "url": "https://open.spotify.com/track/3zS3OfAs1Qm1c65jcbSax3"
+    },
+    {
+      "album": {
         "name": "Ba Kh\u00eda Giao Duy\u00ean",
         "url": "https://open.spotify.com/album/34t52YJOVInSRYRLmDLfCb"
       },
@@ -2253,6 +2275,28 @@
     },
     {
       "album": {
+        "name": "T\u00ecnh \u0110\u1eb9p H\u1eadu Giang",
+        "url": "https://open.spotify.com/album/3c26hTJOc14aaWnC0UYJcy"
+      },
+      "artists": [
+        {
+          "name": "Saka Tr\u01b0\u01a1ng Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/06SicyiJaPtTdRWR015ZKw"
+        },
+        {
+          "name": "L\u01b0u Ch\u00ed V\u1ef9",
+          "url": "https://open.spotify.com/artist/4Cshc48qUDcOC3r5D9n16f"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265011,
+      "name": "T\u00ecnh \u0110\u1eb9p H\u1eadu Giang",
+      "url": "https://open.spotify.com/track/1lykeqy7eLFANCAEO6fIZW"
+    },
+    {
+      "album": {
         "name": "Tuy\u1ec3n T\u1eadp B\u00e0i H\u00e1t Hit C\u1ee7a \u0110o\u00e0n Minh",
         "url": "https://open.spotify.com/album/0byvX8eQnGICDmn4sLZhWD"
       },
@@ -2268,7 +2312,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 382857,
       "name": "T\u00ecnh \u0110\u1eb9p H\u1eadu Giang (feat. L\u01b0u \u00c1nh Loan)",
       "url": "https://open.spotify.com/track/6A7wX0El7vBggFvYVxac9u"
@@ -2850,7 +2894,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 342259,
       "name": "\u1ed0c \u0110\u1eafng Bu\u1ed3n Ai",
       "url": "https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9"

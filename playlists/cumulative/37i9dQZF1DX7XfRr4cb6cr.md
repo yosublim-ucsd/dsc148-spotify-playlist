@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-275 songs - 22 hr 40 min
+276 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Beyond Entropia](https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea) | [Shunkan Idou](https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs) | [Beyond Entropia](https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr) | 7:37 | 2022-01-28 |  |
 | [bipolar](https://open.spotify.com/track/1uvn7eP1I7mIKGvpsqDcoW) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [bipolar](https://open.spotify.com/album/5MOmkgxIJLtmoapI60uK6A) | 2:12 | 2023-10-06 |  |
 | [black box \- alt version](https://open.spotify.com/track/1aEqFOVkJRPBxQME5U06DS) | [Father2006](https://open.spotify.com/artist/27yhOwnmWiOJf474zGblS4) | [black box](https://open.spotify.com/album/6nJbapZnyYjqx1Sxka9fQx) | 3:41 | 2023-10-23 |  |
-| [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 |  |
+| [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 | 2024-06-07 |
 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 | 2022-01-21 |  |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2022-01-21 |  |
 | [Bright Pause](https://open.spotify.com/track/2zomjqJKeSHAFkpYD9P6N0) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Bright Pause](https://open.spotify.com/album/5YhFat5DRsfF9oNfVX5vDZ) | 3:18 | 2023-12-01 | 2024-06-06 |
@@ -95,7 +95,7 @@
 | [Guide](https://open.spotify.com/track/2CTG1DKBy6RkWtgW0uPzBt) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Guide](https://open.spotify.com/album/0zcGMU5feKA3euuyHVoBwH) | 5:14 | 2022-03-25 | 2022-07-27 |
 | [Headflush](https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8) | [Leila Bordreuil](https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35) | [Headflush](https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj) | 4:51 | 2022-01-21 |  |
 | [Himmelskib](https://open.spotify.com/track/0xYPApZy4jkoLahwQVAyyy) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Himmelskib](https://open.spotify.com/album/5Uqh5meF5vlmBuKpsQ7dnG) | 3:55 | 2023-12-01 |  |
-| [Hljóð](https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs) | [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B) | [Vast](https://open.spotify.com/album/0JXyLUDcW8E6ZDhCWq2aqr) | 7:59 | 2022-01-21 |  |
+| [Hljóð](https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs) | [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B) | [Vast](https://open.spotify.com/album/0JXyLUDcW8E6ZDhCWq2aqr) | 7:59 | 2022-01-21 | 2024-06-07 |
 | [hoffnungslos](https://open.spotify.com/track/5MhMBqo6XXhgEqPaj4lg7G) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [hoffnungslos](https://open.spotify.com/album/4VXvX0ustBlGvyZ9wpp1Jj) | 2:56 | 2023-08-25 |  |
 | [Homa](https://open.spotify.com/track/1hCyLVZYTG3GjBTXEFdawT) | [Bahrambient](https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja) | [Homa](https://open.spotify.com/album/6u9jVwEsvyq612WbntzIwV) | 3:16 | 2023-03-10 |  |
 | [Honest Labour \(feat\. HforSpirit\)](https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [HforSpirit](https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:51 | 2022-02-04 | 2022-08-18 |
@@ -207,8 +207,9 @@
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 |  |
 | [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 |  |
-| [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 | 2022-07-28 |
+| [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 |  |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
+| [Snow Path](https://open.spotify.com/track/2LbQFXXIL6JRJodBGTJcXZ) | [Kylie Karlsson](https://open.spotify.com/artist/0YlpsaWcW0FShzeBUFIJQI) | [Snow Path](https://open.spotify.com/album/4t7m8bS6vq9OMXJz2iLQw0) | 5:44 | 2024-05-28 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 10:53 | 2023-12-01 | 2024-04-19 |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 | 2024-05-14 |
 | [Sternkarten](https://open.spotify.com/track/2zw1H7VhobTzxZebNfepSU) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/4JZlNx49SehfobUKwt2izd) | 3:56 | 2022-11-11 | 2024-04-19 |

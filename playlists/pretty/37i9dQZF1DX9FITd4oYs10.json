@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17931,
+  "num_followers": 17930,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -767,30 +767,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Sensa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        }
-      ],
-      "duration_ms": 272004,
-      "name": "Sensa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
         "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 368024,
       "name": "Aquela F\u00e9",
       "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Sensa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "duration_ms": 272004,
+      "name": "Sensa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "The Cypher Deffect 2",
         "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 232191,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Flora Matos Vs. Stereodubs",
         "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 201226,
       "name": "Esperar o Sol",
       "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Malvad\u00e3o",
         "url": "https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq"
       },
@@ -1179,38 +1195,6 @@
       "duration_ms": 149956,
       "name": "Malvad\u00e3o",
       "url": "https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1247,22 +1231,18 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "A M\u00fasica da M\u00e3e",
-        "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
       },
       "artists": [
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
         }
       ],
-      "duration_ms": 218250,
-      "name": "A M\u00fasica da M\u00e3e",
-      "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1283,6 +1263,26 @@
       "duration_ms": 184697,
       "name": "Rela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0LkUf43tCGdwUVBuAssdVD"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "A M\u00fasica da M\u00e3e",
+        "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "A M\u00fasica da M\u00e3e",
+      "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
     },
     {
       "added_at": "2024-02-23 18:00:29",

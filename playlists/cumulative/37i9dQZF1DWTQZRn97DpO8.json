@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Eva x Damso",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Myra",
   "name": "le miel",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 147360,
       "name": "Bunker",
       "url": "https://open.spotify.com/track/2qmSxS5IBfXlNw9vIwJXKB"
@@ -952,6 +952,24 @@
       "duration_ms": 202720,
       "name": "GOLDEN WAY!",
       "url": "https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1I7192RC8V5mffCjC7tVWb"
+      },
+      "artists": [
+        {
+          "name": "AFFA",
+          "url": "https://open.spotify.com/artist/0owJTnrvYgiIYSXsvnsSQv"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "Good Or Bad",
+      "url": "https://open.spotify.com/track/6f1tGjfNsHofPU7aZQdeXc"
     },
     {
       "album": {
@@ -1760,6 +1778,24 @@
       "duration_ms": 164102,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1dDe7WuXUZfZGtdezs1zvm"
+    },
+    {
+      "album": {
+        "name": "Message pour son ex",
+        "url": "https://open.spotify.com/album/0XSQjM0ilEjDeO5MJ2DVir"
+      },
+      "artists": [
+        {
+          "name": "A2h",
+          "url": "https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Message pour son ex",
+      "url": "https://open.spotify.com/track/4IvQd50r5HC3iG7ogwHHvf"
     },
     {
       "album": {
@@ -2670,7 +2706,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 195630,
       "name": "SIAMAJ",
       "url": "https://open.spotify.com/track/5Qwqgw6FcQKzxkljmS10qT"

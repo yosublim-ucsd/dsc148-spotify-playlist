@@ -2,7 +2,7 @@
 
 ### [This Is Five Finger Death Punch](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dwoSs)
 
-> This is Five Finger Death Punch\. Todos os maiores hits em uma só playlist.
+> This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
 121 songs - 7 hr 34 min
 

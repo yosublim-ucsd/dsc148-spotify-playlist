@@ -2,7 +2,7 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 富岡愛
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 冨岡 愛
 
 478 songs - 1 day 3 hr 47 min
 

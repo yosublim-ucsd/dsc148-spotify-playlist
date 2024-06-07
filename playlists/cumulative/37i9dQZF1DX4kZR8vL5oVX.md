@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Lyna Mahyem \(du titre \#1 au \#15\).
 
-1,254 songs - 2 day 17 hr 5 min
+1,255 songs - 2 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Baby Boy](https://open.spotify.com/track/6YZ1wM5gDnj0ocRvr5rJcc) | [Shaeena](https://open.spotify.com/artist/2aV6ZxtgORLSSvTyvAc3IZ) | [Baby Boy](https://open.spotify.com/album/5DSW71brZ5hx1xjq6Q23kx) | 3:28 | 2023-08-01 | 2023-09-06 |
 | [Baby Love](https://open.spotify.com/track/6N9Ut7goNThhDJFEyX8AZ7) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Baby Love](https://open.spotify.com/album/7a8cOjdx3oL8gQ5NGuw8Ty) | 3:00 | 2024-01-09 | 2024-03-06 |
 | [Baby Vampire](https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Baby Vampire](https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP) | 2:51 | 2024-04-02 | 2024-05-01 |
+| [BABY VOICE](https://open.spotify.com/track/0gelwjtIDhGKhk9osLMz5j) | [Zinée](https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3) | [OSMIN](https://open.spotify.com/album/1OoYk7talO3HwAozYp6I86) | 2:46 | 2024-06-06 |  |
 | [Bad Boys](https://open.spotify.com/track/5nNzbZxyZjoCobr2fRCX6S) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Bad Boys](https://open.spotify.com/album/52L0k2IvGhwt7bW1ledEoF) | 3:05 | 2023-07-04 | 2023-08-02 |
 | [bad days](https://open.spotify.com/track/6Zasn2U1p72BVpgkPo1rz3) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [bad days](https://open.spotify.com/album/6WN2yMHZBjcmepRcKcVSkC) | 2:41 | 2023-09-05 | 2023-10-04 |
 | [Bad Picking](https://open.spotify.com/track/0arxEggemV91FWN4c2bkGA) | [Siloh](https://open.spotify.com/artist/2a1fEAgfQm8HkLzUSxHosS) | [Bad Picking](https://open.spotify.com/album/3xLLO5ni2Fb4NZh9WZqSnK) | 2:37 | 2022-02-01 | 2022-03-08 |
@@ -904,7 +905,7 @@
 | [Pleine Lune](https://open.spotify.com/track/60RHfwL5e8P00ayxuZudbd) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Pleine Lune](https://open.spotify.com/album/30hnVckTGUxSXAxujoickw) | 2:30 | 2023-11-29 | 2024-01-10 |
 | [Plume](https://open.spotify.com/track/3LyOh7PbTDKrTZB2iy2AmG) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Nombreuse](https://open.spotify.com/album/00q9SheCKU9mAviKiM9xph) | 2:35 | 2022-04-05 | 2022-05-04 |
 | [Plus Baby](https://open.spotify.com/track/1DjzGlWUA4AduQzk9nvIQk) | [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [Plus Baby](https://open.spotify.com/album/4iqtEhV66DkiVqis7WTTZN) | 1:39 | 2022-03-07 | 2022-04-06 |
-| [Plus de place pour ta peine](https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj) | 2:32 | 2023-11-07 |  |
+| [Plus de place pour ta peine](https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj) | 2:32 | 2023-11-07 | 2024-06-07 |
 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 | 2023-10-03 | 2023-11-08 |
 | [Plus fort](https://open.spotify.com/track/2ySeKpS4gYXOEVCsIJC42V) | [Ogee](https://open.spotify.com/artist/6dKleaGxvv38r5qC8RiTwn) | [Spectre](https://open.spotify.com/album/7CDkvwRxDC039tjymX53xS) | 2:55 | 2022-01-05 | 2022-02-02 |
 | [PLUS FORT QUE MOI](https://open.spotify.com/track/2OneNlmFLmiVqPykHRvh3j) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [PLUS FORT QUE MOI](https://open.spotify.com/album/4boFcnuYpeU7OrKB2XfqbV) | 2:48 | 2022-04-05 | 2022-05-04 |

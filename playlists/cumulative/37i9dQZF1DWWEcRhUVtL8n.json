@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 134500,
       "name": "Billabong Babe",
       "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
@@ -30554,6 +30554,28 @@
       "duration_ms": 242773,
       "name": "Thank U",
       "url": "https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts"
+    },
+    {
+      "album": {
+        "name": "Thank You for Leaving",
+        "url": "https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197985,
+      "name": "Thank You for Leaving",
+      "url": "https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6"
     },
     {
       "album": {

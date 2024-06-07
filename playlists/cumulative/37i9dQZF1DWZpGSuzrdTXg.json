@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
@@ -1600,6 +1600,24 @@
       "duration_ms": 210681,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6"
+    },
+    {
+      "album": {
+        "name": "Like Only Lovers Could",
+        "url": "https://open.spotify.com/album/5kSgk6Un756YJn9Di2dy09"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Like Only Lovers Could",
+      "url": "https://open.spotify.com/track/1wJrcD6zkaIjtIBGhdUTHf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,552 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,560 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 40 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 |
 | 41 | [Corriendo](https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Corriendo](https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb) | 2:39 |
 | 42 | [Humo y Menta](https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [Humo y Menta](https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ) | 3:03 |
-| 43 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 |
-| 44 | [Los Halcones](https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Los Halcones](https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz) | 5:26 |
+| 43 | [Los Halcones](https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Los Halcones](https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz) | 5:26 |
+| 44 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 |
 | 45 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 |
 | 46 | [Frutillas con Crema](https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Frutillas con Crema](https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1) | 2:42 |
-| 47 | [Todo de mi \(Todo de vos\)](https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY) | [Mauro Conforti & La Vida Marciana](https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr) | [Todo de mi \(Todo de vos\)](https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG) | 2:53 |
+| 47 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 |
 | 48 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
-| 49 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 |
+| 49 | [Todo de mi \(Todo de vos\)](https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY) | [Mauro Conforti & La Vida Marciana](https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr) | [Todo de mi \(Todo de vos\)](https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG) | 2:53 |
 | 50 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
 | 51 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 |
 | 52 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 |

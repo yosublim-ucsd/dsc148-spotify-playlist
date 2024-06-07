@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Speed",
+  "description": "The best new music from the wide world of punk. Cover: The Offspring",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
+    },
+    {
+      "album": {
         "name": "something4now",
         "url": "https://open.spotify.com/album/5gJWaMnvdKsuDYUWPEDpgj"
       },
@@ -2336,6 +2354,24 @@
       "duration_ms": 189583,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
+    },
+    {
+      "album": {
+        "name": "B.I.Y.L.C",
+        "url": "https://open.spotify.com/album/3EJE4xPtidCgKjrJmVwIwO"
+      },
+      "artists": [
+        {
+          "name": "Punkband",
+          "url": "https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96674,
+      "name": "B.I.Y.L.C",
+      "url": "https://open.spotify.com/track/6xGIQ8VQfH0la3Y3Vq4IBM"
     },
     {
       "album": {
@@ -3975,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Boyfeel",
+        "url": "https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149483,
+      "name": "Boyfeel",
+      "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
+    },
+    {
+      "album": {
         "name": "Boys In Blue / H.A.N.G",
         "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
       },
@@ -4202,7 +4256,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 199412,
       "name": "Breaking Up With",
       "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
@@ -5689,6 +5743,28 @@
     },
     {
       "album": {
+        "name": "Churro",
+        "url": "https://open.spotify.com/album/3LoEELocgdXod9VQvLHxai"
+      },
+      "artists": [
+        {
+          "name": "N8NOFACE",
+          "url": "https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi"
+        },
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154561,
+      "name": "Churro",
+      "url": "https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl"
+    },
+    {
+      "album": {
         "name": "Cigarette Smell",
         "url": "https://open.spotify.com/album/5Ox5z0pesi1GayCajvzjoR"
       },
@@ -6960,7 +7036,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 144773,
       "name": "daddy of mine",
       "url": "https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE"
@@ -8234,7 +8310,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 105556,
       "name": "Disturb The Peace",
       "url": "https://open.spotify.com/track/3E4a4lwG05VJCgB8A3m1hI"
@@ -8556,7 +8632,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 186831,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
@@ -9231,6 +9307,24 @@
     },
     {
       "album": {
+        "name": "All Hard Feelings",
+        "url": "https://open.spotify.com/album/4x47S1lb2Sn0nojMHfBNGb"
+      },
+      "artists": [
+        {
+          "name": "Cross Dog",
+          "url": "https://open.spotify.com/artist/29CtkLlkoug4SJzFHWBySr"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/4W2XfmZoLQFAJULUzYQ26f"
+    },
+    {
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/0O9aKBmu7LlWmlknQgI1Pz"
       },
@@ -9380,6 +9474,24 @@
       "duration_ms": 240000,
       "name": "Everyone's to Blame",
       "url": "https://open.spotify.com/track/1Wm1YEAOUaVAzequO7Sycq"
+    },
+    {
+      "album": {
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237878,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
     },
     {
       "album": {
@@ -9841,6 +9953,28 @@
     },
     {
       "album": {
+        "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
+        "url": "https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        },
+        {
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207154,
+      "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
+      "url": "https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb"
+    },
+    {
+      "album": {
         "name": "Siiick Days",
         "url": "https://open.spotify.com/album/1X44oHV9hIf1yOqjUccwJx"
       },
@@ -10112,6 +10246,24 @@
       "duration_ms": 165042,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/6lXcJtceP3Zhiw1X5c4PAO"
+    },
+    {
+      "album": {
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/0uG568JEwPF9ka223nxL66"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191593,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/0r8pHxNmHzxaRj7WS8p4I4"
     },
     {
       "album": {
@@ -11179,6 +11331,24 @@
     },
     {
       "album": {
+        "name": "GET RICH QUICK!",
+        "url": "https://open.spotify.com/album/7FWOFGMDO8MH3PSw1KRJ98"
+      },
+      "artists": [
+        {
+          "name": "vincent's last summer",
+          "url": "https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171759,
+      "name": "GET RICH!",
+      "url": "https://open.spotify.com/track/5aEslmHT85KBPS7CQY2UsD"
+    },
+    {
+      "album": {
         "name": "GET THRU THE NIGHT",
         "url": "https://open.spotify.com/album/3yQ43VSSc32qXV6xFJlwXl"
       },
@@ -12100,7 +12270,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 262800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
@@ -13504,7 +13674,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 146600,
       "name": "Hopefully Pitchfork Doesn't Hear This",
       "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
@@ -14186,7 +14356,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 211750,
       "name": "I Might Even",
       "url": "https://open.spotify.com/track/0o6gUdTu6YA4vHH7HWFTVd"
@@ -15982,7 +16152,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 165961,
       "name": "Kill My Vibe",
       "url": "https://open.spotify.com/track/7rEna9icPrPPFf9sde2wK4"
@@ -16578,7 +16748,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 212647,
       "name": "Left Off",
       "url": "https://open.spotify.com/track/0bdyWwmNeQMIaN7G8R7ZLU"
@@ -16758,7 +16928,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 193560,
       "name": "Letters",
       "url": "https://open.spotify.com/track/1WpML49J52wtI6B7cEfoRP"
@@ -18085,6 +18255,24 @@
     },
     {
       "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
       },
@@ -19266,6 +19454,24 @@
     {
       "album": {
         "name": "Mother",
+        "url": "https://open.spotify.com/album/0UzkkyZr2P80OnYgsDGUU5"
+      },
+      "artists": [
+        {
+          "name": "DEADLETTER",
+          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268146,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM"
+    },
+    {
+      "album": {
+        "name": "Mother",
         "url": "https://open.spotify.com/album/24y1XFeOlxc3O2AEkoeYt8"
       },
       "artists": [
@@ -19854,6 +20060,24 @@
       "duration_ms": 218200,
       "name": "New England",
       "url": "https://open.spotify.com/track/6Xc7LinCrQ5qwqVihDXrtr"
+    },
+    {
+      "album": {
+        "name": "Lower Feeling",
+        "url": "https://open.spotify.com/album/35QyWZYT93Nh3JXUjLXaF3"
+      },
+      "artists": [
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "New Paint",
+      "url": "https://open.spotify.com/track/5Ex8Ze050rnPRmYhjEMZQT"
     },
     {
       "album": {
@@ -21670,6 +21894,24 @@
       "duration_ms": 154552,
       "name": "Partisan",
       "url": "https://open.spotify.com/track/3jo4czo2MjCHbyBFNFVzou"
+    },
+    {
+      "album": {
+        "name": "Pastoral Existence",
+        "url": "https://open.spotify.com/album/6pNJJKyCfVUzaCkoqXPhGt"
+      },
+      "artists": [
+        {
+          "name": "Other Half",
+          "url": "https://open.spotify.com/artist/32ho80wRRKWv0oeaW2eyLX"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181497,
+      "name": "Pastoral Existence",
+      "url": "https://open.spotify.com/track/2nawZkQC1IZklqBor0oCx6"
     },
     {
       "album": {
@@ -24082,7 +24324,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 202331,
       "name": "Ruiner",
       "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
@@ -24450,7 +24692,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 181173,
       "name": "Say So Long",
       "url": "https://open.spotify.com/track/45COGBQ3UpoYp7Sru6TCIz"
@@ -25670,7 +25912,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 166949,
       "name": "Silence",
       "url": "https://open.spotify.com/track/3F25vTmoR5PnK8N0nZi91b"
@@ -26652,7 +26894,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 214741,
       "name": "Spitting In The Wind",
       "url": "https://open.spotify.com/track/3Lu7oymnqlIGUxcHgNShsK"
@@ -27020,7 +27262,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 184031,
       "name": "Stimulation",
       "url": "https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX"
@@ -28026,7 +28268,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 278826,
       "name": "Talking Radiance",
       "url": "https://open.spotify.com/track/6xAz6yFeOS2EdWVcfXX0lF"
@@ -28528,6 +28770,24 @@
       "duration_ms": 232614,
       "name": "Terrible Slave",
       "url": "https://open.spotify.com/track/2YctHLLdOvW5cxaZGEugKE"
+    },
+    {
+      "album": {
+        "name": "It's Inside You",
+        "url": "https://open.spotify.com/album/2cbSeFRm0k6iRGDqZRAGfs"
+      },
+      "artists": [
+        {
+          "name": "CANDY",
+          "url": "https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89440,
+      "name": "Terror Management",
+      "url": "https://open.spotify.com/track/47QGjHof4k8RTxUWhB48cN"
     },
     {
       "album": {
@@ -33196,6 +33456,24 @@
       "duration_ms": 155300,
       "name": "Yellow Green",
       "url": "https://open.spotify.com/track/5JJcKhUALMKWz9VDUInNld"
+    },
+    {
+      "album": {
+        "name": "Yo Homo",
+        "url": "https://open.spotify.com/album/6BFEkqiI3CAxHLMWxyR0W0"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222172,
+      "name": "Yo Homo",
+      "url": "https://open.spotify.com/track/0VsjCGFUsf5EydQvlIg0k4"
     },
     {
       "album": {

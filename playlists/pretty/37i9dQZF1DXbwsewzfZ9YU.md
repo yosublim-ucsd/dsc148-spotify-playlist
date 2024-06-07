@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Speed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,561 likes - 90 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,650 likes - 90 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

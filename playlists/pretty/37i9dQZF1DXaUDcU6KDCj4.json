@@ -1,13 +1,241 @@
 {
   "description": "Hear what's new in folk, roots & indie singer-songwriter. Leif Vollebekk",
-  "num_followers": 793284,
+  "num_followers": 793375,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAACeeS/95ETNqPP6mc35pobB",
+  "snapshot_id": "ZmHvmAAAAABa4tuseGcAic45ae3EytHD",
   "tracks": [
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Chaos Angel",
+        "url": "https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Big Idea",
+      "url": "https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Wildewoman (The New Recordings)",
+        "url": "https://open.spotify.com/album/1P7unPTFBGp4th1t6FmWoq"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275626,
+      "name": "Two of Us on the Run (The New Recording)",
+      "url": "https://open.spotify.com/track/5q6MO3EA35GwqGkwqDqfw5"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/4ZPuR9nQMulQtF16QmcBt3"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 310598,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/0BWX1QFQbBB8njoOGPY8eC"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/0dzHqgsq1WFniGId7IthE1"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 221730,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/4mp4bgP8QfXFNzWJ8BgMtg"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Through The Book",
+        "url": "https://open.spotify.com/album/6dXc6pXyRF3ziyy2DsNHzm"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        },
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "duration_ms": 194452,
+      "name": "Through The Book",
+      "url": "https://open.spotify.com/track/3WIzPQTdUWCq5XmbTpj7Ch"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Go Loud",
+        "url": "https://open.spotify.com/album/4u4Z2qTlZUsRuP0746sitX"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Go Loud",
+      "url": "https://open.spotify.com/track/3a1OvOqAQ1vFA9obqcgkfY"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2878AXAVVxRpftI4g2Kjh2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 138123,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/37Gqg6D070Ahztf2RaDXBb"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Night Reign",
+        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 345765,
+      "name": "Aey Nehin",
+      "url": "https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "All These Kinds of Light",
+        "url": "https://open.spotify.com/album/7ruh7XUbK7vCFMypsykOv5"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 200217,
+      "name": "All These Kinds of Light",
+      "url": "https://open.spotify.com/track/2SBsgy6qhRIAmmgwE9DlvL"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "Co-Star",
+        "url": "https://open.spotify.com/album/4NXCZ1HxzTZk7vRPp5ONZC"
+      },
+      "artists": [
+        {
+          "name": "Hailaker",
+          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Co-Star",
+      "url": "https://open.spotify.com/track/3FnOJEWjZCcEg53eWFHfiz"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "ily ily ily",
+        "url": "https://open.spotify.com/album/3RcLS9hWdaMhXdAFzLm0iU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "duration_ms": 231836,
+      "name": "ily ily ily",
+      "url": "https://open.spotify.com/track/49170ue1C6fN7EZL5S4oGx"
+    },
+    {
+      "added_at": "2024-06-06 17:19:20",
+      "album": {
+        "name": "gut health",
+        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243469,
+      "name": "gut health",
+      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I
 
-247 songs - 16 hr 26 min
+249 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Corazón](https://open.spotify.com/track/1zjbYt5OsR2WpvrigMrpid) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC) | [Anatomía de la Canción](https://open.spotify.com/album/2j1O5CQHvH067iWtWU3yZg) | 4:16 | 2022-05-06 | 2022-07-10 |
 | [Cowabunga](https://open.spotify.com/track/2f9nPIbfe3VLzOY2yAZyul) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Cowabunga](https://open.spotify.com/album/1VvgRcf9Wylmx8iLWpbTdc) | 4:07 | 2023-08-03 | 2023-08-19 |
 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 | 2022-05-06 | 2023-10-06 |
-| [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 | 2022-05-06 |  |
+| [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 | 2022-05-06 | 2024-06-07 |
 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 | 2022-05-06 |  |
 | [De la Espuma del Mar](https://open.spotify.com/track/52YZVnRmwtq6DclRMALTRZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [De la Espuma del Mar](https://open.spotify.com/album/5oSqppOEP0pVnemOoVqh2C) | 2:59 | 2022-05-06 | 2022-06-25 |
 | [De la Tierra Crece](https://open.spotify.com/track/2um53B5wdoATS9GbrWf5Vo) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/3vI408stCBdZIR7K9LrAMU) | 3:09 | 2022-05-06 | 2022-07-28 |
@@ -72,6 +72,7 @@
 | [El Pescador](https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Rey Mago de las Nubes](https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78) | 3:05 | 2022-05-06 |  |
 | [El Poder](https://open.spotify.com/track/7fVqTkbZBkLsgJJ5srFbAy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Poder](https://open.spotify.com/album/5PKSiSTU30fvmR40S2bFdc) | 4:28 | 2022-07-01 | 2022-08-19 |
 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 | 2022-05-06 |  |
+| [El Reguero](https://open.spotify.com/track/35VWHt3SgBDDp2eRdirS2T) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [El Reguero](https://open.spotify.com/album/2lMd3a7dhIZoaDCX0tPMhA) | 4:11 | 2024-06-06 |  |
 | [El Silencio](https://open.spotify.com/track/490zFllTSVutzmCeB12226) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 3:43 | 2022-05-06 | 2022-07-29 |
 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 | 2022-10-02 |  |
 | [En el Aire](https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH) | 4:17 | 2022-07-01 | 2024-04-19 |
@@ -153,10 +154,11 @@
 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 | 2023-07-21 |  |
 | [Más Libre](https://open.spotify.com/track/20HhIBf0Gd4U7KhOr2dcC4) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0) | [Más Libre](https://open.spotify.com/album/2THc86woJAYYpM1yTlD9yK) | 3:22 | 2022-05-06 | 2022-07-25 |
 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 | 2022-07-01 | 2024-04-09 |
-| [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 | 2022-05-06 |  |
+| [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 | 2022-05-06 | 2024-06-07 |
 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 | 2022-12-23 |  |
 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 | 2022-05-06 |  |
 | [Nena](https://open.spotify.com/track/5NSEK3BVC2yhk7M4TsXNgw) | [Seraqueda!](https://open.spotify.com/artist/1BIsnjnNAlNgB8geDbo6He) | [Nena](https://open.spotify.com/album/4pXGaS8iHjleykeUIbbkgy) | 2:57 | 2022-07-01 | 2022-07-06 |
+| [Nicotina](https://open.spotify.com/track/2yXTm2m9h6LK1d7a0dq9b2) | [Los Bolitas](https://open.spotify.com/artist/25A9fsEfQXPj2CXyhRaa0u) | [Nicotina](https://open.spotify.com/album/6ppn5xVaPP1gsMuLqWqxEl) | 2:53 | 2024-06-06 |  |
 | [No al Remate de Ceramica Neuquen](https://open.spotify.com/track/6lkf0F3opf4dYQx1Czxaka) | [Sinsemina](https://open.spotify.com/artist/2YM0PO35h2YylHTLFGwBj0), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [No al Remate de Ceramica Neuquen](https://open.spotify.com/album/2kZYuhKSB61cMUwW6tpbRQ) | 3:31 | 2022-05-06 | 2022-06-29 |
 | [No Insistas](https://open.spotify.com/track/4PvvhS8ntwMJEzXMlzGqcA) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [No Insistas](https://open.spotify.com/album/5QElG8KePpyHtSvjzo2hpq) | 3:26 | 2022-12-16 | 2023-03-03 |
 | [No Insistas](https://open.spotify.com/track/4SdoaFB9giKlapsCBwja6c) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [No Insistas](https://open.spotify.com/album/6cStDaBPLOF6xgcGemDM7E) | 3:26 | 2022-05-06 | 2022-07-29 |

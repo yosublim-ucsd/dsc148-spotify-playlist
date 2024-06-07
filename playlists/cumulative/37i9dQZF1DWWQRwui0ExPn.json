@@ -80225,6 +80225,24 @@
     },
     {
       "album": {
+        "name": "No Goodbyes",
+        "url": "https://open.spotify.com/album/05lIfZJmiXCSMsFZK85m5Q"
+      },
+      "artists": [
+        {
+          "name": "ENRA",
+          "url": "https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130251,
+      "name": "No Goodbyes",
+      "url": "https://open.spotify.com/track/6OXEMJbqt8DYPg8lYmRxjZ"
+    },
+    {
+      "album": {
         "name": "Dreams from the Shore",
         "url": "https://open.spotify.com/album/7MgdBdKl1aUb0goNIokTn4"
       },
@@ -87550,7 +87568,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 111333,
       "name": "pen & paper",
       "url": "https://open.spotify.com/track/6RkIex44IA8s7T8nyA0yqg"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: AD DJ & D Jay",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: DopeNation",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 183817,
       "name": "Bad People Do Good",
       "url": "https://open.spotify.com/track/3iVoZUSWgCPHvCKT3u3vck"
@@ -4197,6 +4197,28 @@
     },
     {
       "album": {
+        "name": "More Money",
+        "url": "https://open.spotify.com/album/79L4DbQvEt6P5m36ei2eJc"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183260,
+      "name": "More Money",
+      "url": "https://open.spotify.com/track/2hF2Rv9c4tZXtTy1J1proB"
+    },
+    {
+      "album": {
         "name": "More Of You",
         "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
       },
@@ -5248,7 +5270,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 139200,
       "name": "Overload",
       "url": "https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH"
@@ -7654,6 +7676,24 @@
       "duration_ms": 177391,
       "name": "Zero 2 Hero",
       "url": "https://open.spotify.com/track/0q7STqnfVgqOLZAxUiY18l"
+    },
+    {
+      "album": {
+        "name": "Zormizor (Asabone)",
+        "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Zormizor (Asabone)",
+      "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ"

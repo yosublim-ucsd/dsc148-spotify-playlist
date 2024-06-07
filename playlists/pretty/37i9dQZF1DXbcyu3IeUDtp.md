@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,491 likes - 107 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,505 likes - 107 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 30 | [Muta 5](https://open.spotify.com/track/7bXFszvj6nAnBociWI834u) | [Leo Anibaldi](https://open.spotify.com/artist/4PW6mMgKisDCZysXwMut05) | [Classics](https://open.spotify.com/album/7DHiZimMd5qPAgbfrUUdb4) | 5:20 |
 | 31 | [Jordan](https://open.spotify.com/track/1AMO7frX2nQIYd76dnkhko) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Bolts](https://open.spotify.com/album/0TvYLlYXXa8aMZvM0rKWYO) | 4:05 |
 | 32 | [Abril Lluvias Mil](https://open.spotify.com/track/78hDkXsJQWstlrlzPlMBA5) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [♡](https://open.spotify.com/album/2VyYH4z9IR5IBSc3To5cQ0) | 5:01 |
-| 33 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
+| 33 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 | 34 | [Q](https://open.spotify.com/track/6HlcVT8PmqqXuKR6oQ4cSa) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2) | 2:02 |
 | 35 | [I Love Like Your Men](https://open.spotify.com/track/3j0UYNtZ3iXO5cDGqoHgZx) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Swallow Me](https://open.spotify.com/album/6jLS18y1cCwi7TTy8ljUBU) | 8:06 |
 | 36 | [Believe](https://open.spotify.com/track/7LU69DVvvm8SXa3f4R7qzH) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/317uI12DItPAj28IxEA8qz) | 3:22 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 47 | [jajaja](https://open.spotify.com/track/0Vb8DP06QjuXUGa3uFuDQ7) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Escándaloo](https://open.spotify.com/album/5y6Vap8YFjMmbm1bI0h1kz) | 5:28 |
 | 48 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
 | 49 | [Cuando Estemos Viejo](https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Esta Noche...Billo](https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA) | 2:27 |
-| 50 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
+| 50 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 51 | [THESE SEAS](https://open.spotify.com/track/6TTf3scWkvqTh5ALPRieF1) | [Andrew Broder](https://open.spotify.com/artist/44GbwEtjdUMxpvcBoPEOgH), [KAZU](https://open.spotify.com/artist/0prgQn2c68gb0HZvimE9bo), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [THESE SEAS](https://open.spotify.com/album/5HflIvhx8HgXqVcRdDTja3) | 3:19 |
 | 52 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 |
 | 53 | [skunk boy.](https://open.spotify.com/track/1DSfmX6bauLOPQH83X6mGC) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [skunk boy.](https://open.spotify.com/album/3Mtd2XzGrZJvblmwVpVJ8s) | 1:18 |

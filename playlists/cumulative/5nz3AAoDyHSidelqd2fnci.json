@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 300472,
       "name": "A Cut in a Place",
       "url": "https://open.spotify.com/track/1YVHHllbkA4t7i8tVSgQvj"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 285066,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 231800,
       "name": "All Along The Watchtower (Jimi Hendrix cover)",
       "url": "https://open.spotify.com/track/7DTT3yzroCA7SOGW1wysMR"
@@ -2779,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Incomparable (Mystery Version)",
+        "url": "https://open.spotify.com/album/4Cz6FGyZUjsHHWn19HxD9X"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/5hKPv68Xf6xXRZeHiVpW3V"
+    },
+    {
+      "album": {
         "name": "CALMA",
         "url": "https://open.spotify.com/album/2Qo5wqgAGGIRMRxPMHTxD3"
       },
@@ -2848,6 +2866,24 @@
       "duration_ms": 256360,
       "name": "Can't Get Enough - 2015 Remaster",
       "url": "https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI"
+    },
+    {
+      "album": {
+        "name": "Lead Sails Paper Anchor",
+        "url": "https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244159,
+      "name": "Can't Happen Here",
+      "url": "https://open.spotify.com/track/4ARMIaO2jnOtALltVvzOc8"
     },
     {
       "album": {
@@ -3580,7 +3616,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 182052,
       "name": "Como Olvidarte",
       "url": "https://open.spotify.com/track/4pKZHwUmU3THOsJAPwbmaM"
@@ -4690,7 +4726,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 298480,
       "name": "Don't Go (feat. Lights)",
       "url": "https://open.spotify.com/track/7wOInrhCRiWaXdzvQ7oUvN"
@@ -5422,7 +5458,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 233800,
       "name": "End Of All Hope",
       "url": "https://open.spotify.com/track/3vm2YWzVKrIaWXZcmEIFdP"
@@ -6010,6 +6046,28 @@
       "duration_ms": 207866,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4XyuemNAggx7OvmpJYddcS"
+    },
+    {
+      "album": {
+        "name": "FASHO",
+        "url": "https://open.spotify.com/album/3czDNbQY3T12tazXEzn5JQ"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165407,
+      "name": "FASHO",
+      "url": "https://open.spotify.com/track/3nRF4GMXhR76qgxNNdVMbB"
     },
     {
       "album": {
@@ -6875,6 +6933,24 @@
     },
     {
       "album": {
+        "name": "Digital Renegade",
+        "url": "https://open.spotify.com/album/4XQc2duwIJDSRrfbqXnUlg"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209120,
+      "name": "Gnars Attacks",
+      "url": "https://open.spotify.com/track/54uCoDsCpk3GTAcGYJhNv2"
+    },
+    {
+      "album": {
         "name": "Digital Renegade [Instrumental Version]",
         "url": "https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M"
       },
@@ -6886,7 +6962,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 209500,
       "name": "Gnars Attacks - Instrumental Version",
       "url": "https://open.spotify.com/track/3gkfftVtnaEMTSUzpAepZv"
@@ -8284,7 +8360,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 221186,
       "name": "I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
       "url": "https://open.spotify.com/track/5yPvK5HzwTrJNYJUNscZWC"
@@ -9409,6 +9485,24 @@
     },
     {
       "album": {
+        "name": "Wildlife",
+        "url": "https://open.spotify.com/album/1zAMnOQUqSq3xCMgeBS6i2"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414925,
+      "name": "King Park",
+      "url": "https://open.spotify.com/track/7MeUFHaHTgcLqz56vSyvIh"
+    },
+    {
+      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -9796,6 +9890,24 @@
       "duration_ms": 255413,
       "name": "Lemuria",
       "url": "https://open.spotify.com/track/4pjh4Dk29lwxAlIehtdZbr"
+    },
+    {
+      "album": {
+        "name": "Eric Clapton (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1NfO7mb6Lv2xmdkeqsyKJt"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302493,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/0hMNAUx9fFBdYQRO5FoQvL"
     },
     {
       "album": {
@@ -10617,6 +10729,24 @@
     },
     {
       "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n Winifred",
+          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220165,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
+    },
+    {
+      "album": {
         "name": "Greatest Hits [International Version (Explicit)]",
         "url": "https://open.spotify.com/album/0SvLzQZVwLWoY7p7zUcvxs"
       },
@@ -10808,7 +10938,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 184173,
       "name": "Manic Monday",
       "url": "https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0"
@@ -13203,6 +13333,24 @@
     },
     {
       "album": {
+        "name": "Obras Cumbres (Parte 2)",
+        "url": "https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343560,
+      "name": "Persiana Americana (Live)",
+      "url": "https://open.spotify.com/track/6TayCWN0rKIm0rFdIiUIIA"
+    },
+    {
+      "album": {
         "name": "Iron Maiden (1998 Remastered Edition)",
         "url": "https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw"
       },
@@ -13398,7 +13546,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
@@ -15738,7 +15886,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 260000,
       "name": "Somos Tontos No Pesados",
       "url": "https://open.spotify.com/track/7wd91IeMp8six7kNcb362x"
@@ -15912,6 +16060,28 @@
       "duration_ms": 177230,
       "name": "Stadium",
       "url": "https://open.spotify.com/track/16BDlU9TTUv7wmEBw3vYtd"
+    },
+    {
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404106,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
     },
     {
       "album": {
@@ -17908,7 +18078,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
@@ -18692,7 +18862,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 168191,
       "name": "Tuk Tuk",
       "url": "https://open.spotify.com/track/0nhVVN2PUImbII3dY3F7tz"
@@ -19598,7 +19768,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 267301,
       "name": "Walking in a Vacuum",
       "url": "https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t"
@@ -20650,6 +20820,24 @@
       "duration_ms": 238053,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/2b5TUQi5gJEAfIi2bIB3WM"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192557,
+      "name": "You're the Mocking Jay",
+      "url": "https://open.spotify.com/track/7jzuDdxCinstdbSS6S6ptt"
     },
     {
       "album": {

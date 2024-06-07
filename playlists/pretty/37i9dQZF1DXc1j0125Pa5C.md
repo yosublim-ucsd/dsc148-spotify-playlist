@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Belo
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,872 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,049 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 3 | [Fala / Fulminante / Dependente \- Ao Vivo](https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Remédio Amargo / Fala / Fulminante / Dependente \- DVD Fases \(Ao Vivo\)](https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO) | 5:36 |
 | 4 | [Você Me Vira A Cabeça \(Me Tira Do Sério\) / Depois Do Prazer \- Ao Vivo](https://open.spotify.com/track/053FHzzKyvldCcvE3aaQwN) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha De Verão \(Ao Vivo\)](https://open.spotify.com/album/7L2kB8r4a0eExXVRwaYsJB) | 5:00 |
 | 5 | [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 |
-| 6 | [Engano / Diz Que Quer Ficar / Amar Você](https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 7:16 |
+| 6 | [Engano / Diz Que Quer Ficar / Amar Você \- Ao Vivo](https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 7:16 |
 | 7 | [Ponto Fraco / Dividido / Sonhos e Planos \- Sou Eu \- Ao Vivo](https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/7gleHQ8dWibosCKaBWYIJ3) | 5:01 |
 | 8 | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 |
 | 9 | [Luz na Escuridão / Adivinha / Fatalmente \- Ao Vivo](https://open.spotify.com/track/2cicREalc7LMXuXlGLeKVw) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:51 |

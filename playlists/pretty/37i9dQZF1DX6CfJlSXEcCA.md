@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,665 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,671 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 37 | [ROCKMAN2/Dr\. WILY STAGE 1 \- OMEGAMAN MIX](https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G) | 3:53 |
 | 38 | [墓場](https://open.spotify.com/track/4JaYyVgt7FuTtYanPrWeOn) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
 | 39 | [Staff & Credits](https://open.spotify.com/track/1lmLc4iLgLIZ4MwQBTwXJq) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 5:45 |
-| 40 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 |
-| 41 | [Dr.WILY STAGE](https://open.spotify.com/track/0hvEw3f1irouB9Kb12bWU1) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [ロックマン11 運命の歯車!! オリジナルサウンドトラック](https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u) | 3:03 |
+| 40 | [Dr.WILY STAGE](https://open.spotify.com/track/0hvEw3f1irouB9Kb12bWU1) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [ロックマン11 運命の歯車!! オリジナルサウンドトラック](https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u) | 3:03 |
+| 41 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 |
 | 42 | [Ripples in the Calm](https://open.spotify.com/track/3EN6ImHKQSUdJUC3KVLjuM) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 2:22 |
 | 43 | [Crimson Cloud](https://open.spotify.com/track/6WVbHvEVWVnAYNwZs650NN) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ) | [Devil May Cry 5 Special Edition Vergil\`s Rebirth Sound Selection](https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk) | 4:49 |
 | 44 | [Shinsekai](https://open.spotify.com/track/3qtJwRxouqm1kQD9UWsNvS) | [Chikara Aoshima](https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx) | [深世海 Into the Depths Hidden Tracks](https://open.spotify.com/album/59rgd3dLtg9YLDBBjGDO3F) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > We can't wait to see someone as <b>beautiful as you</b> at Spotify House at Ole Red! June 6\-8 from 10am \- 2am.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,938 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,053 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

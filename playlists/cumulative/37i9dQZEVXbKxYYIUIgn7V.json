@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "BBL Drizzy",
+        "url": "https://open.spotify.com/album/5O9KPMViFXsubjxMDjr0HR"
+      },
+      "artists": [
+        {
+          "name": "overthxnk",
+          "url": "https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204888,
+      "name": "BBL Drizzy",
+      "url": "https://open.spotify.com/track/4fGOAW4CRRYboLmNKpTTDO"
+    },
+    {
+      "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
       },
@@ -1732,6 +1750,28 @@
       "duration_ms": 126389,
       "name": "Carnival x Fein",
       "url": "https://open.spotify.com/track/3E1YgNCLJn3GQ5tySGphHi"
+    },
+    {
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/1o4kqU3cmDFXl9OFMEfpIq"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        },
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149884,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/36fl6dbYQOF5OUPlKG8Tbj"
     },
     {
       "album": {
@@ -2650,7 +2690,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -2686,7 +2726,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -2780,7 +2820,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 213768,
       "name": "Famax - Edit",
       "url": "https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9"
@@ -4476,10 +4516,32 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 126494,
       "name": "Islands (kompa pasi\u00f3n)",
       "url": "https://open.spotify.com/track/5gxxUWHUFX9r24V23GJhzI"
+    },
+    {
+      "album": {
+        "name": "Islands (kompa pasi\u00f3n)",
+        "url": "https://open.spotify.com/album/4ZPSYxKeYGWBwnswkAnH3n"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/5VPtDTD7IRhJ4N322GNFJj"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126494,
+      "name": "Islands (kompa pasi\u00f3n)",
+      "url": "https://open.spotify.com/track/759dcxbhX9thQaqvHKfZOW"
     },
     {
       "album": {
@@ -4857,6 +4919,32 @@
     },
     {
       "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "album": {
         "name": "DUNKLSCHWARZ",
         "url": "https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW"
       },
@@ -5126,7 +5214,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 212600,
       "name": "lauf",
       "url": "https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok"
@@ -5964,6 +6052,24 @@
     {
       "album": {
         "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
       "artists": [
@@ -5974,7 +6080,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -6336,7 +6442,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 166200,
       "name": "Nicht Verdient",
       "url": "https://open.spotify.com/track/1Sq6SRDMIL6cwFRRM1Bibb"
@@ -6358,7 +6464,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 166200,
       "name": "Nicht Verdient",
       "url": "https://open.spotify.com/track/5m4roY1knNmLgdQm2hASbV"
@@ -7224,7 +7330,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 193000,
       "name": "Princess Cuts My Wrist",
       "url": "https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b"

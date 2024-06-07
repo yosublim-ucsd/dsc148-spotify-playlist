@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6?si=5ZXbCjEyRKaAWPchCk5bNw">Groovy Jo</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=RAxZFoJvS2CkSG4OXsdL1Q">Nyashinski</a>
 
-232 songs - 11 hr 58 min
+233 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Diss na Drill \- Remix](https://open.spotify.com/track/5zFeiSIUrGsEYvh0CEg5rS) | [Kalasinga](https://open.spotify.com/artist/15ooQtC6xqMBWCjbzVVuj2), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Diss na Drill \(Remix\)](https://open.spotify.com/album/3F1VhFsXu7unkg6Mm1FGbe) | 3:14 | 2024-04-25 |  |
 | [Doing It Major](https://open.spotify.com/track/02gLLzsm3zUbungGVvfM2l) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/3Gno0czuLunqcqV4RDFIif) | 3:11 | 2023-10-19 | 2024-04-19 |
 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 | 2022-07-07 |  |
+| [Dopamine](https://open.spotify.com/track/3aSOJiHOcx5zsyUcr1Bg6J) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Dopamine](https://open.spotify.com/album/0JVTNNL0MEpmriiOGcySqk) | 3:33 | 2024-06-06 |  |
 | [Dracula](https://open.spotify.com/track/0zv6iIwVr3J9SftqWPQpJn) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Dracula](https://open.spotify.com/album/6xy2Lzt38yRXKgmbYR1ykk) | 3:27 | 2023-11-10 |  |
 | [Dream](https://open.spotify.com/track/467ctHllRGbSRoAGrVVxtN) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [BigMan](https://open.spotify.com/artist/0RUZcsYqLfJvpy8OPVrkJp), [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB) | [MZIZA KWA DIMANGA](https://open.spotify.com/album/5CsOKEM6jMlGIlLcfz2iBh) | 2:55 | 2024-04-11 |  |
 | [EASTSIDE GVNNA](https://open.spotify.com/track/7jPCujGKU8RWRyDh60Iull) | [Na$EER](https://open.spotify.com/artist/1zLpeIIskZiOUjHUtUi13r) | [THIS YEAR NEXT YEAR](https://open.spotify.com/album/4yDcMSzMAHd5H5hXDAaCnM) | 2:35 | 2023-11-10 | 2024-01-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Organize x Astral",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jeff Redd",
   "name": "NKVT",
   "tracks": [
     {
@@ -1344,6 +1344,32 @@
       "duration_ms": 179069,
       "name": "CimCimem",
       "url": "https://open.spotify.com/track/0QPJqRMBqaJrOUPVT8FfJc"
+    },
+    {
+      "album": {
+        "name": "CISTAK",
+        "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        },
+        {
+          "name": "Narco",
+          "url": "https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "CISTAK",
+      "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
     },
     {
       "album": {
@@ -3898,7 +3924,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 160414,
       "name": "Kumpas",
       "url": "https://open.spotify.com/track/5vGy2oGrp5YxfI5WVAbfe1"
@@ -4048,7 +4074,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 235799,
       "name": "LACIVERT",
       "url": "https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO"
@@ -4320,7 +4346,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 201611,
       "name": "Margiela",
       "url": "https://open.spotify.com/track/0Tzw3ueRxXUzdFUm1yMACX"
@@ -4396,7 +4422,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 140437,
       "name": "MASERATI",
       "url": "https://open.spotify.com/track/59jL6CYHEMoP0OmjFctLDB"
@@ -5675,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "SEV\u0130MS\u0130Z",
+        "url": "https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109134,
+      "name": "RONDO",
+      "url": "https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL"
+    },
+    {
+      "album": {
         "name": "ROTTERDAM FREESTYLE",
         "url": "https://open.spotify.com/album/5UVILVc0nsFsOKLULAPWq3"
       },
@@ -5772,7 +5816,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 173333,
       "name": "R\u00dcN",
       "url": "https://open.spotify.com/track/2fBjU39A8TYO9WBCD9lsJ8"
@@ -5852,6 +5896,24 @@
       "duration_ms": 162813,
       "name": "SANA NE",
       "url": "https://open.spotify.com/track/44wJznydk7liXuhYExo19u"
+    },
+    {
+      "album": {
+        "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
+        "url": "https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
+      "url": "https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p"
     },
     {
       "album": {
@@ -6173,6 +6235,24 @@
     },
     {
       "album": {
+        "name": "Shoote Shoote",
+        "url": "https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "Shoote Shoote",
+      "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
+    },
+    {
+      "album": {
         "name": "SHOT",
         "url": "https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn"
       },
@@ -6272,6 +6352,28 @@
       "duration_ms": 155500,
       "name": "Sokakta Stres",
       "url": "https://open.spotify.com/track/5UNtKrrLFnvX1rCfdjaZGb"
+    },
+    {
+      "album": {
+        "name": "Soluksuz",
+        "url": "https://open.spotify.com/album/0kmkwpeqJP0qnBlPYnLiSQ"
+      },
+      "artists": [
+        {
+          "name": "Rota",
+          "url": "https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB"
+        },
+        {
+          "name": "Burak King",
+          "url": "https://open.spotify.com/artist/18hpynG63scJYxOSDYHUVN"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205928,
+      "name": "Soluksuz",
+      "url": "https://open.spotify.com/track/5FQq3nM4JY8M97PLs8OqSE"
     },
     {
       "album": {
@@ -6432,6 +6534,28 @@
       "duration_ms": 192000,
       "name": "Switch",
       "url": "https://open.spotify.com/track/5Y84RGVc1QVrAh6CKbV6uE"
+    },
+    {
+      "album": {
+        "name": "S\u00f6n\u00fck Kald\u0131n",
+        "url": "https://open.spotify.com/album/0FzybsrMkrplViiOHqNFvL"
+      },
+      "artists": [
+        {
+          "name": "Xentix",
+          "url": "https://open.spotify.com/artist/1RltulqsGXX8jN82sxZHpp"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "S\u00f6n\u00fck Kald\u0131n",
+      "url": "https://open.spotify.com/track/1HtT0CVW7SbMiECVEPOiO5"
     },
     {
       "album": {
@@ -7296,7 +7420,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 171641,
       "name": "ZOR",
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"

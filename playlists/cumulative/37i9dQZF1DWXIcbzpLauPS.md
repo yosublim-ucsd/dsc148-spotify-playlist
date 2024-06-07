@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Knocked Loose
 
-927 songs - 2 day 9 hr 43 min
+928 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 | 2023-02-18 |
 | [Fail Me](https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Fail Me](https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl) | 2:59 | 2021-12-17 | 2022-01-22 |
 | [Fake](https://open.spotify.com/track/3mRzGcJEALdNzIAtB6zNGC) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Fake](https://open.spotify.com/album/1ZpQ90fibmw05I0xYADvAL) | 3:35 | 2022-07-13 | 2022-07-23 |
-| [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-28 |  |
+| [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-28 | 2024-06-07 |
 | [Falling Out](https://open.spotify.com/track/2TUYYkcaeJnvrMhuPCChPd) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Falling Out](https://open.spotify.com/album/223iUCGmxUNpQK2F8gK4qt) | 3:53 | 2022-04-15 | 2022-06-11 |
 | [False Divinity](https://open.spotify.com/track/6zNWFYMJdYHEdImfNorvEr) | [Texas In July](https://open.spotify.com/artist/3J5OtMrtDAw0IcanJR28Ya) | [False Divinity](https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0) | 3:48 | 2023-06-30 |  |
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-18 | 2022-07-23 |
@@ -727,6 +727,7 @@
 | [Skin Crawl \(feat\. Brian “Head” Welch of Korn, Dan Weyandt of Zao, Bruce Fitzhugh of Living Sacrifice\)](https://open.spotify.com/track/05ExgiMCSDdT15nwhMf8ow) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Zao](https://open.spotify.com/artist/2vqfIznyoJDjhrbNAueQ6s), [Living Sacrifice](https://open.spotify.com/artist/0nxo4nAEYNbNpA8wwNvqXY) | [It’s Not Easy Being Human](https://open.spotify.com/album/1PQNS7uitlx8MAfVmHImtz) | 4:10 | 2022-04-01 | 2022-06-18 |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 | 2022-07-23 |
 | [Slaughterhouse 2 \(feat\. Chris Motionless\)](https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 3:03 | 2024-05-10 |  |
+| [Sleepless](https://open.spotify.com/track/3lSaNqdv9RsJpmI0V4afRQ) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Sleepless](https://open.spotify.com/album/7zc8anigDU6aPd6bAOSppC) | 4:32 | 2024-06-04 |  |
 | [Sleepless Deathbed](https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Sleepless Deathbed](https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ) | 3:58 | 2024-01-22 |  |
 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/53KHVi05aNn8zlum8Ep0hm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [SLIT WRIST SAVIOR \(Graveside Edition\)](https://open.spotify.com/album/2zH0pCrottkYrK6hIBgzI6) | 4:21 | 2022-07-13 | 2022-07-21 |
 | [Slow Sour Bleed](https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CURE](https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5) | 4:07 | 2024-05-10 |  |

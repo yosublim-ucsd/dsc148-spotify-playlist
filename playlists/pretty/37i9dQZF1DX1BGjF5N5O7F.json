@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 553151,
+  "num_followers": 553130,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Devil's Backbone",
-      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
-    },
-    {
-      "added_at": "2024-05-23 16:54:13",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 358601,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji"
+    },
+    {
+      "added_at": "2024-05-23 16:54:13",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Devil's Backbone",
+      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
     },
     {
       "added_at": "2024-05-23 16:54:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "Sometimes Why",
-        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
-      },
-      "artists": [
-        {
-          "name": "Sometymes Why",
-          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
-        }
-      ],
-      "duration_ms": 357773,
-      "name": "Too Repressed - Explicit",
-      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
-    },
-    {
-      "added_at": "2024-05-23 16:54:13",
-      "album": {
         "name": "Til It Breaks",
         "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 201520,
       "name": "Til It Breaks",
       "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
+    },
+    {
+      "added_at": "2024-05-23 16:54:13",
+      "album": {
+        "name": "Sometimes Why",
+        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
+      },
+      "artists": [
+        {
+          "name": "Sometymes Why",
+          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
+        }
+      ],
+      "duration_ms": 357773,
+      "name": "Too Repressed - Explicit",
+      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
     }
   ],
   "unique_name": "intertwined",

@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-133 songs - 7 hr 32 min
+134 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [LOS HOMBRES NO LLORAN](https://open.spotify.com/track/4zBe0FyeYWAHZwBCUzefuF) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [LOS HOMBRES NO LLORAN](https://open.spotify.com/album/5SGJO4DtxBUTbwMxP3VRxV) | 2:12 | 2023-06-23 |  |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-03-06 |  |
 | [Mal Hombre](https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Mal Hombre](https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt) | 2:42 | 2023-10-27 |  |
+| [Maquillaje \- Remix](https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje \(feat\. Yexel\) \[Remix\]](https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ) | 4:46 | 2024-06-06 |  |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2022-02-14 | 2022-03-21 |
 | [Marvins Room](https://open.spotify.com/track/2z3htsNRuhDN923ITatc56) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 5:47 | 2022-06-03 | 2022-06-09 |
 | [Me Llora](https://open.spotify.com/track/1Ol7FO6dLtlTEzeZaRd1FO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:07 | 2023-06-30 | 2024-04-19 |

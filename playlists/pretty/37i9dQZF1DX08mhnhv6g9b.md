@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Welcome to the BTS's universe\. A.R.M.Y is unbeatable 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,800,008 likes - 260 songs - 15 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,800,741 likes - 260 songs - 15 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 131 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 | 132 | [All Night \(BTS World Original Soundtrack\) \[Pt\. 3\]](https://open.spotify.com/track/2r4XO0I2KmvO16HGSKdf54) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [BTS WORLD \(Original Soundtrack\)](https://open.spotify.com/album/3LgNJmZ4QPkSvdt9JB8Tb8) | 3:36 |
 | 133 | [Moving On](https://open.spotify.com/track/7j8YcE2SKZoLkeLL0qMvkH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 4:52 |
-| 134 | [Dream Glow \(BTS World Original Soundtrack\) \[Pt\. 1\]](https://open.spotify.com/track/6xtmK2QQfRd7xCwyejl2oV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BTS WORLD \(Original Soundtrack\)](https://open.spotify.com/album/3LgNJmZ4QPkSvdt9JB8Tb8) | 3:07 |
+| 134 | [Dream Glow \(BTS World Original Soundtrack\) \[Pt\. 1\]](https://open.spotify.com/track/6xtmK2QQfRd7xCwyejl2oV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BTS WORLD \(Original Soundtrack\)](https://open.spotify.com/album/3LgNJmZ4QPkSvdt9JB8Tb8) | 3:07 |
 | 135 | [Tomorrow](https://open.spotify.com/track/1LdpcTZm0Of4Nq0FsbREKO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair \(Special Addition\)](https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347) | 4:21 |
 | 136 | [Epiphany](https://open.spotify.com/track/6L88EH68XwlaXwvChlTS41) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:00 |
 | 137 | [Answer : Love Myself](https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:11 |

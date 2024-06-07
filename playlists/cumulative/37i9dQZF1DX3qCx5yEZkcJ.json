@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM"
+    },
+    {
+      "album": {
         "name": "Berlin Rain / At Dusk",
         "url": "https://open.spotify.com/album/1BzHg6Un80v0yApbtlyt90"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 101650,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
@@ -8176,7 +8194,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 126076,
       "name": "Smiling World",
       "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
@@ -10178,7 +10196,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Win the Lottery",
       "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > MTG QUEM NÃO QUER SOU EU e os funks mais 🔑 do Brasil\. Foto: DJ TOPO, Seu Jorge, Mc Leozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,291,493 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,292,564 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

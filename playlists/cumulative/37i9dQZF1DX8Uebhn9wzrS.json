@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 105950,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3MfEbk1mY9pbKQwYZ8X768"
@@ -12655,6 +12655,24 @@
     },
     {
       "album": {
+        "name": "Glamping",
+        "url": "https://open.spotify.com/album/5l2zmmit5qkdeOZFHStBzl"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135416,
+      "name": "Glamping",
+      "url": "https://open.spotify.com/track/3rO1WUrPm16U5GvAD61S0T"
+    },
+    {
+      "album": {
         "name": "Glass Walls",
         "url": "https://open.spotify.com/album/1PIImq3VEynt2xVPOUETkW"
       },
@@ -18136,7 +18154,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 151754,
       "name": "Lonely Astronaut",
       "url": "https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP"
@@ -20840,7 +20858,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 104062,
       "name": "Morning Journey",
       "url": "https://open.spotify.com/track/1191leNva7cN89gJQahJxz"
@@ -26572,7 +26590,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 100540,
       "name": "ridges",
       "url": "https://open.spotify.com/track/7lwYPqf2Ks5Ydzo8GXC82b"
@@ -31718,7 +31736,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Takeabreakalready",
       "url": "https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc"
@@ -32114,6 +32132,28 @@
       "duration_ms": 152763,
       "name": "That's My Jam",
       "url": "https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg"
+    },
+    {
+      "album": {
+        "name": "The Awakening Traveler",
+        "url": "https://open.spotify.com/album/1CqJRILHswWMU9Mmf5nuEd"
+      },
+      "artists": [
+        {
+          "name": "Zekkei",
+          "url": "https://open.spotify.com/artist/2LRPIJNAsV2CebQhwKgZO6"
+        },
+        {
+          "name": "Neo Era",
+          "url": "https://open.spotify.com/artist/1Lczbyf24WccxMnd8Hj3qv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115416,
+      "name": "The Awakening Traveler",
+      "url": "https://open.spotify.com/track/3HoWTz1Y5kG1g4s3MBb2bn"
     },
     {
       "album": {
@@ -35698,7 +35738,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 162750,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv"

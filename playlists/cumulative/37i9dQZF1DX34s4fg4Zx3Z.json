@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: (\u0111\u1ed1 bi\u1ebft b\u00e9 n\u00e0o)",
+  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: b\u00e9 52hz",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 216075,
       "name": "B\u01af\u1edaC NGO\u1eb6T",
       "url": "https://open.spotify.com/track/2iFXDr3QEvHE2Br16az3TF"
@@ -4028,6 +4028,24 @@
       "duration_ms": 189333,
       "name": "B\u1ec1 N\u1ed5i",
       "url": "https://open.spotify.com/track/3K91ZqCfDUwiYr4ZvGDBY7"
+    },
+    {
+      "album": {
+        "name": "b\u1ecb \u0111\u00e1nh \u0111\u00f2n",
+        "url": "https://open.spotify.com/album/42NzPyGhXUsMUOdOoZh7H3"
+      },
+      "artists": [
+        {
+          "name": "Quang Huy",
+          "url": "https://open.spotify.com/artist/5QIhpiFVMtAGsnNiiMRGOw"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177642,
+      "name": "b\u1ecb \u0111\u00e1nh \u0111\u00f2n",
+      "url": "https://open.spotify.com/track/7xrx2oEFEnMO98biu7HDG7"
     },
     {
       "album": {
@@ -5276,6 +5294,24 @@
       "duration_ms": 154716,
       "name": "Ch\u01a1i V\u01a1i",
       "url": "https://open.spotify.com/track/5zAwaOFcbpAi1wHb1tiBt3"
+    },
+    {
+      "album": {
+        "name": "Ch\u01b0a Ch\u1eafc",
+        "url": "https://open.spotify.com/album/2VHHW8O4zzlB7EcETpHyQF"
+      },
+      "artists": [
+        {
+          "name": "Quinn",
+          "url": "https://open.spotify.com/artist/7uvbLxisWAtpLAdlQuskgy"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209292,
+      "name": "Ch\u01b0a Ch\u1eafc",
+      "url": "https://open.spotify.com/track/6iuzM2O1IY0GTao5tXx5Zc"
     },
     {
       "album": {
@@ -11370,7 +11406,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 190597,
       "name": "Gi\u1eef l\u1ea5y",
       "url": "https://open.spotify.com/track/7ifAw0OiXs0KtVOFzn6PCv"
@@ -12823,6 +12859,24 @@
     },
     {
       "album": {
+        "name": "H\u1ea1nh Ph\u00fac Xa R\u1eddi Em",
+        "url": "https://open.spotify.com/album/3GBi30kZabThamvkE81a8q"
+      },
+      "artists": [
+        {
+          "name": "Ng\u00e2n Ng\u00e2n",
+          "url": "https://open.spotify.com/artist/2ukex9mJuIbR6msM02Flwf"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292883,
+      "name": "H\u1ea1nh Ph\u00fac Xa R\u1eddi Em",
+      "url": "https://open.spotify.com/track/5pzo8dYxbW1HttMXAQqrID"
+    },
+    {
+      "album": {
         "name": "H\u1eadu Ph\u01b0\u01a1ng (C\u00e2n C\u1ea3 Th\u1ebf Gi\u1edbi Ballad Version)",
         "url": "https://open.spotify.com/album/4L4aqj0qMvUTsjDZVq1bbc"
       },
@@ -13506,7 +13560,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 180792,
       "name": "khi m\u00f4 v\u1ec1 ?",
       "url": "https://open.spotify.com/track/0f1oOnlplaTkPVUwnW3b3p"
@@ -17694,7 +17748,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 195333,
       "name": "m\u00e3i m\u00e3i l\u00e0 bao xa?",
       "url": "https://open.spotify.com/track/5JxNmOKocH6ahGqWaAD3xP"
@@ -17832,6 +17886,24 @@
       "duration_ms": 146100,
       "name": "M\u01a1 say",
       "url": "https://open.spotify.com/track/1b99WX2iIViQk6YWG2bmrx"
+    },
+    {
+      "album": {
+        "name": "Mong Manh",
+        "url": "https://open.spotify.com/album/7MVEU7y4Fpa00Ulf8B93dd"
+      },
+      "artists": [
+        {
+          "name": "m\u1ed1i",
+          "url": "https://open.spotify.com/artist/2rDOa0khaLnzba0zxlwjIX"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205711,
+      "name": "M\u01b0a",
+      "url": "https://open.spotify.com/track/5wFXrcgIRwSnbXzSIetpZw"
     },
     {
       "album": {
@@ -18380,7 +18452,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 173333,
       "name": "M\u1ed9t N\u1eafm \u0110\u00f4 La",
       "url": "https://open.spotify.com/track/2GaxnixJNVQyjXJsMVAWpi"
@@ -20166,6 +20238,28 @@
       "duration_ms": 204000,
       "name": "Nh\u1ecd v\u00e0 Lem",
       "url": "https://open.spotify.com/track/5yxBS7QqWSSbPJhs4UEkND"
+    },
+    {
+      "album": {
+        "name": "Nh\u1edb \u0110i\u00ean",
+        "url": "https://open.spotify.com/album/20StvtX91O1jAk9bmYWPoa"
+      },
+      "artists": [
+        {
+          "name": "kis",
+          "url": "https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9"
+        },
+        {
+          "name": "MPacific",
+          "url": "https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270391,
+      "name": "Nh\u1edb \u0110i\u00ean",
+      "url": "https://open.spotify.com/track/1JYm1Uo1wlSf3A7BfHWkss"
     },
     {
       "album": {
@@ -22382,7 +22476,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 174808,
       "name": "Qu\u00e1 Tr\u00ecnh",
       "url": "https://open.spotify.com/track/2U38wluii7qUwmAroL461K"
@@ -23857,6 +23951,24 @@
     },
     {
       "album": {
+        "name": "slowlybaby",
+        "url": "https://open.spotify.com/album/65CH10NUZ8gkjB0heeWGgD"
+      },
+      "artists": [
+        {
+          "name": "C\u00f4ngg",
+          "url": "https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216005,
+      "name": "slowlybaby",
+      "url": "https://open.spotify.com/track/5pGT2vWsc6BCNJ5yvtjh3b"
+    },
+    {
+      "album": {
         "name": "MORE THAN PEACE",
         "url": "https://open.spotify.com/album/07py1gri6tibrAzEhoiHoJ"
       },
@@ -24823,6 +24935,32 @@
     },
     {
       "album": {
+        "name": "Ta G\u1eb7p Nhau",
+        "url": "https://open.spotify.com/album/6tHk3EVqRPUvmR14tUDwbZ"
+      },
+      "artists": [
+        {
+          "name": "BS16",
+          "url": "https://open.spotify.com/artist/7uBhfmxMbJrBfrlVsQkNHK"
+        },
+        {
+          "name": "Y Lux",
+          "url": "https://open.spotify.com/artist/0HnjwTNyT3bjAoiv8mxarp"
+        },
+        {
+          "name": "Th\u00e2n",
+          "url": "https://open.spotify.com/artist/1AzpChyxWEksq3payAgWON"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246206,
+      "name": "Ta G\u1eb7p Nhau",
+      "url": "https://open.spotify.com/track/6kbRJsK4pi91g6O0A2aGvd"
+    },
+    {
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/3ggUbiKB1hfZ3FE0KrlNHO"
       },
@@ -25200,7 +25338,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 182161,
       "name": "TELL ME",
       "url": "https://open.spotify.com/track/460An2bcXMCKAaX6GzpHEH"
@@ -26210,6 +26348,24 @@
       "duration_ms": 186208,
       "name": "Th\u1ebf Gi\u1edbi Kh\u00e1c",
       "url": "https://open.spotify.com/track/1POWHxrSN9FLHHgCHQG3qG"
+    },
+    {
+      "album": {
+        "name": "Th\u1ebf gi\u1edbi m\u00e0u lam h\u1ed3ng",
+        "url": "https://open.spotify.com/album/2FY8FJ0MopS0p2L9rzvPQ9"
+      },
+      "artists": [
+        {
+          "name": "Dr. ND",
+          "url": "https://open.spotify.com/artist/13893x4VfbHoXXNfEpN6Zw"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Th\u1ebf gi\u1edbi m\u00e0u lam h\u1ed3ng",
+      "url": "https://open.spotify.com/track/7omHUqaxjk8T5trj5xszwi"
     },
     {
       "album": {
@@ -27388,7 +27544,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 205714,
       "name": "tr\u1ed1n t\u00ecm",
       "url": "https://open.spotify.com/track/6f8SBjXXsa5qBT4hCIg7XO"

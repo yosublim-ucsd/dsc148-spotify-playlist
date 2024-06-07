@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Casey Barnes",
+  "description": "The cream of today's Country crop. Cover: Megan Moroney",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 182950,
       "name": "Call It A Day",
       "url": "https://open.spotify.com/track/4qLUfteMobl6D5b9psoyrV"
@@ -2318,6 +2318,24 @@
       "duration_ms": 173626,
       "name": "Couple Goals",
       "url": "https://open.spotify.com/track/6ETlC79s5egaDeUdKibjJi"
+    },
+    {
+      "album": {
+        "name": "COWBOY",
+        "url": "https://open.spotify.com/album/0s8I5MkECEW33GLYkowPZj"
+      },
+      "artists": [
+        {
+          "name": "Bella Mackenzie",
+          "url": "https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "COWBOY",
+      "url": "https://open.spotify.com/track/7lmBY8HSNxtdjto0BBwPXX"
     },
     {
       "album": {
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 171426,
       "name": "Fear and Friday's",
       "url": "https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ"
@@ -3873,6 +3891,42 @@
     },
     {
       "album": {
+        "name": "Gone Country",
+        "url": "https://open.spotify.com/album/0bVotZRd4VCfh6sKdZKG1P"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163422,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/3SRihFqg2uOqEtNdcH3d3t"
+    },
+    {
+      "album": {
+        "name": "Gone Fishin'",
+        "url": "https://open.spotify.com/album/2lG03uBAzEfZaQ1Ms8MAS2"
+      },
+      "artists": [
+        {
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179876,
+      "name": "Gone Fishin'",
+      "url": "https://open.spotify.com/track/4H3baiaCkV30cIJ1aG4dA3"
+    },
+    {
+      "album": {
         "name": "Gone Gone Gone",
         "url": "https://open.spotify.com/album/0ZF1G8jsIxqhvl6IMlAQgH"
       },
@@ -4230,7 +4284,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 194680,
       "name": "Happy Hurts",
       "url": "https://open.spotify.com/track/79odnhnVWU9uEE3XAQhTo3"
@@ -4374,7 +4428,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 213880,
       "name": "Heartbreak King",
       "url": "https://open.spotify.com/track/4f7mzXeDSFtgQHDBjrSKYe"
@@ -4646,6 +4700,28 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "album": {
+        "name": "High Road (feat. Jessie Murph)",
+        "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "High Road (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
     },
     {
       "album": {
@@ -6449,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "Man on the Moon",
+        "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187017,
+      "name": "Man on the Moon",
+      "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
+    },
+    {
+      "album": {
         "name": "Matching Tattoos",
         "url": "https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC"
       },
@@ -6568,7 +6662,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 196400,
       "name": "Messed Up As Me",
       "url": "https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx"
@@ -7282,7 +7376,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 180906,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/7BCgeCVekVf3Y7Ezhmzd3y"
@@ -7304,6 +7398,24 @@
       "duration_ms": 241339,
       "name": "Off The Drugs",
       "url": "https://open.spotify.com/track/2M47S4VTFtAavs7YD1lWGS"
+    },
+    {
+      "album": {
+        "name": "Volume 04: Oil Onto The Fire",
+        "url": "https://open.spotify.com/album/74WYoEv6Lyb8CyTkKvnR9Y"
+      },
+      "artists": [
+        {
+          "name": "Bud Rokesky",
+          "url": "https://open.spotify.com/artist/1UJ1coJeMJWb3tEgAXKv67"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239897,
+      "name": "Oil Onto The Fire",
+      "url": "https://open.spotify.com/track/7hjNxgswttmf9K9foxP91T"
     },
     {
       "album": {
@@ -7498,7 +7610,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 187733,
       "name": "Orion's Belt",
       "url": "https://open.spotify.com/track/2k6rccSqgz95TpE7gaZuVj"
@@ -8066,6 +8178,24 @@
       "duration_ms": 166823,
       "name": "Redneck Be Like",
       "url": "https://open.spotify.com/track/00R3xLkJsIxENOc3qA4CDA"
+    },
+    {
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
     },
     {
       "album": {
@@ -9045,6 +9175,24 @@
     },
     {
       "album": {
+        "name": "Born Lonely",
+        "url": "https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR"
+    },
+    {
+      "album": {
         "name": "Some Days",
         "url": "https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7"
       },
@@ -9534,7 +9682,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 209417,
       "name": "Stay in Your Lane",
       "url": "https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid"
@@ -10098,7 +10246,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
@@ -10286,6 +10434,24 @@
       "duration_ms": 177657,
       "name": "THE LITTLE THINGS",
       "url": "https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf"
+    },
+    {
+      "album": {
+        "name": "The Man He Sees in Me",
+        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165058,
+      "name": "The Man He Sees in Me",
+      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
     },
     {
       "album": {
@@ -10860,6 +11026,24 @@
       "duration_ms": 167534,
       "name": "TRUCK BED",
       "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
+    },
+    {
+      "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188039,
+      "name": "truck on fire",
+      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
     },
     {
       "album": {
@@ -11468,7 +11652,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 239533,
       "name": "Where the Wild Things Are",
       "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"

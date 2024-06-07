@@ -4,7 +4,7 @@
 
 > It's just one of those days...
 
-169 songs - 10 hr 14 min
+170 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 | 2022-11-01 |  |
 | [Brackish](https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:09 | 2023-05-16 | 2024-04-19 |
 | [Brackish](https://open.spotify.com/track/6lqwRfIHYRiJ7M9xfLqcRx) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 3:09 | 2022-11-03 | 2023-12-24 |
-| [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 | 2021-09-06 |  |
+| [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 | 2021-09-06 | 2024-06-07 |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-06-18 | 2024-04-19 |
 | [Bring Me To Life](https://open.spotify.com/track/646J2jOtUe4Jflrmh6JFjN) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 3:55 | 2022-04-17 | 2022-04-21 |
 | [Build Your Cages](https://open.spotify.com/track/1qVxslK1epoLJCfZFhu24L) | [Pulse Ultra](https://open.spotify.com/artist/0mfFGjshEFbLqZEkPBkblG) | [Headspace](https://open.spotify.com/album/0sXelo7ZacAWnxYs41vixi) | 3:54 | 2022-04-17 | 2022-07-26 |
@@ -46,6 +46,7 @@
 | [Click Click Boom](https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 4:12 | 2022-06-18 | 2024-04-19 |
 | [Click Click Boom](https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx) | 4:12 | 2021-09-06 | 2022-07-29 |
 | [Coma America \- Single Version](https://open.spotify.com/track/5DFZHiqVGD4fVVJGEnSmMX) | [Amen](https://open.spotify.com/artist/63hRFbpgDsgmLcsFIMy8bY) | [Amen](https://open.spotify.com/album/7K9tkpYESmxTBoUZpgWJeq) | 2:18 | 2022-04-17 | 2022-04-21 |
+| [Counterfeit](https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:08 | 2024-05-23 |  |
 | [Crawling In The Dark](https://open.spotify.com/track/1eK4KsyjAzr2xJ86Tj5SWa) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank](https://open.spotify.com/album/31WICFGGJBKetL5NZG5nbg) | 2:55 | 2021-09-06 | 2022-07-29 |
 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 | 2022-06-18 | 2024-04-19 |
 | [Crawling In The Dark](https://open.spotify.com/track/5C0pnRftHVScglm5Yq2aCV) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Break Stuff](https://open.spotify.com/album/5jEBpbz4KEOTTJy90tsuNC) | 2:58 | 2022-11-03 | 2022-11-13 |

@@ -4,10 +4,11 @@
 
 > Early Noise 2019選出アーティスト「ずとまよ」こと、ずっと真夜中でいいのに。のオールタイム・ベスト！
 
-54 songs - 3 hr 40 min
+55 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Blues in the Closet](https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Blues in the Closet](https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK) | 3:37 | 2024-06-06 |  |
 | [Dear Mr「F」](https://open.spotify.com/track/5AQRhpC5hM1usCnJFNM3EW) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 5:26 | 2023-06-06 |  |
 | [Ham](https://open.spotify.com/track/3evD3QNXduuMAg1SLhfNtg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [朗らかな皮膚とて不服](https://open.spotify.com/album/68Le8TUyoltYlglVrURia1) | 3:40 | 2023-06-06 |  |
 | [JK BOMBER](https://open.spotify.com/track/4lPNK6nBUsRqXyIMeRWZ11) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [朗らかな皮膚とて不服](https://open.spotify.com/album/68Le8TUyoltYlglVrURia1) | 3:55 | 2023-06-06 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Beatles. Los temas esenciales, todos en una lista.",
-  "num_followers": 3327362,
+  "description": "This is The Beatles. The essential tracks, all in one playlist.",
+  "num_followers": 3327676,
   "original_name": "This Is The Beatles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAAAOa9HVwJUOL6e/6w5ZAsJF",
+  "snapshot_id": "Zl+qgAAAAAB7QDysAy5ZxLS9V/QJZwnn",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 141693,
+      "name": "Love Me Do - Remastered 2009",
+      "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Can't Buy Me Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rubber Soul (Remastered)",
         "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
       },
@@ -359,6 +391,22 @@
       "duration_ms": 108853,
       "name": "I'll Follow The Sun - Remastered 2009",
       "url": "https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": null,
@@ -651,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "With The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 133506,
-      "name": "Till There Was You - Remastered 2009",
-      "url": "https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -731,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
       "artists": [
         {
@@ -740,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 117013,
-      "name": "Do You Want To Know A Secret - Remastered 2009",
-      "url": "https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq"
+      "duration_ms": 125040,
+      "name": "I've Just Seen A Face - Remastered 2009",
+      "url": "https://open.spotify.com/track/788U1Sqej9M6c4iikuDGxO"
     },
     {
       "added_at": null,
@@ -779,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I've Just Seen A Face - Remastered 2009",
-      "url": "https://open.spotify.com/track/788U1Sqej9M6c4iikuDGxO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beatles 1962 - 1966 (Remastered)",
         "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 140400,
       "name": "I Feel Fine - Remastered 2009",
       "url": "https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Strawberry Fields Forever - Remastered 2009",
-      "url": "https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ"
     }
   ],
   "unique_name": "This Is The Beatles",

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 50586,
+  "num_followers": 50628,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
       "artists": [
         {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
         }
       ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Am Meer",
-        "url": "https://open.spotify.com/album/6qFoQeonsobbIMXLQTyBW2"
-      },
-      "artists": [
-        {
-          "name": "Rantanplan",
-          "url": "https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM"
-        }
-      ],
-      "duration_ms": 207930,
-      "name": "Am Meer",
-      "url": "https://open.spotify.com/track/2cbQrOhlBY2HrYIwbRqpNw"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Aizkolari",
         "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 235986,
       "name": "El Ultimo Ska",
       "url": "https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Am Meer",
+        "url": "https://open.spotify.com/album/6qFoQeonsobbIMXLQTyBW2"
+      },
+      "artists": [
+        {
+          "name": "Rantanplan",
+          "url": "https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM"
+        }
+      ],
+      "duration_ms": 207930,
+      "name": "Am Meer",
+      "url": "https://open.spotify.com/track/2cbQrOhlBY2HrYIwbRqpNw"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1267,22 +1267,6 @@
       "duration_ms": 269400,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Que te vaya bien.",
-        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
-      },
-      "artists": [
-        {
-          "name": "Las Mambas Mx",
-          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Que te vaya bien.",
-      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "St. Pauli - Einhundert",
-        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
+        "name": "Que te vaya bien.",
+        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
       },
       "artists": [
         {
-          "name": "Dubtari",
-          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
+          "name": "Las Mambas Mx",
+          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
         }
       ],
-      "duration_ms": 225880,
-      "name": "Forza St. Pauli",
-      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
+      "duration_ms": 279213,
+      "name": "Que te vaya bien.",
+      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 151013,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "St. Pauli - Einhundert",
+        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
+      },
+      "artists": [
+        {
+          "name": "Dubtari",
+          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Forza St. Pauli",
+      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "The Last Ninja",
-        "url": "https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "The Last Ninja",
-      "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "The Last Ninja",
+        "url": "https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "The Last Ninja",
+      "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "Where Did All My Friends Go?",
+        "url": "https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 230014,
+      "name": "Where Did All My Friends Go?",
+      "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "Blessed with a Melody",
         "url": "https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 188800,
       "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30c3\u30bf\u30e9",
       "url": "https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Where Did All My Friends Go?",
-        "url": "https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 230014,
-      "name": "Where Did All My Friends Go?",
-      "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
     },
     {
       "added_at": "2024-05-31 06:00:00",

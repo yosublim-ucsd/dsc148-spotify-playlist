@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 87278,
+  "num_followers": 87338,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -219,8 +219,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+        "name": "The Blonde & Pink Albums",
+        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Shadow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
+      "duration_ms": 156696,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Sweet and Sour",
-        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
-      },
-      "artists": [
-        {
-          "name": "Lemon",
-          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Sweet and Sour",
-      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "A Prueba De Todo",
         "url": "https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8"
       },
@@ -319,8 +303,24 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "The Blonde & Pink Albums",
-        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
+        "name": "Sweet and Sour",
+        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
+      },
+      "artists": [
+        {
+          "name": "Lemon",
+          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Sweet and Sour",
+      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
         }
       ],
-      "duration_ms": 156696,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
+      "duration_ms": 206000,
+      "name": "Shadow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "It's Chocolate",
         "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 159718,
       "name": "It's Chocolate",
       "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Much Betta",
+        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
+      },
+      "artists": [
+        {
+          "name": "Baga chipz",
+          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Much Betta",
+      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Part 2: The Antidote",
         "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 169731,
       "name": "I Specialise In Love",
       "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Much Betta",
-        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
-      },
-      "artists": [
-        {
-          "name": "Baga chipz",
-          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Much Betta",
-      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Part 1: The Damage",
         "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 173473,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2024-05-31 17:55:47",

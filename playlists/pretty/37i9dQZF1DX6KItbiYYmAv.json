@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731946,
+  "num_followers": 731957,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Storm EP",
-        "url": "https://open.spotify.com/album/4QT9zbx20p53tHAP8fRvy9"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/6aSBwHHB2w4TJsgiZluyEU"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 199653,
       "name": "Back to Autumn",
       "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Storm EP",
+        "url": "https://open.spotify.com/album/4QT9zbx20p53tHAP8fRvy9"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/6aSBwHHB2w4TJsgiZluyEU"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Alone, Together",
         "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Best Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 309590,
       "name": "Howling",
       "url": "https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Best Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 135105,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "What If We Never Forget",
         "url": "https://open.spotify.com/album/6u7QPxWQ9UUm8DRZWAIRUP"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 135105,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 193756,
       "name": "First Time",
       "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
-      },
-      "artists": [
-        {
-          "name": "Rod Ladgrove",
-          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
-        }
-      ],
-      "duration_ms": 189912,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1591,6 +1575,22 @@
       "duration_ms": 292760,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/2wVrDSnhFnwy9SQLgP9Yiq"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
+      },
+      "artists": [
+        {
+          "name": "Rod Ladgrove",
+          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+        }
+      ],
+      "duration_ms": 189912,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "On the Train Ride Home",
-      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 203673,
       "name": "Still",
       "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "On the Train Ride Home",
+      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
       "artists": [
         {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Ain't No Reason",
-      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
         }
       ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+      "duration_ms": 217693,
+      "name": "Ain't No Reason",
+      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "London City, Boy, It's Killing Me (The Town)",
-        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
-      },
-      "artists": [
-        {
-          "name": "Nick & June",
-          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "London City, Boy, It's Killing Me - The Town",
-      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Home Is Just a State of Mind",
         "url": "https://open.spotify.com/album/3IxzdY5PQlHmxb4oZjEOhG"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 250403,
       "name": "Home Is Just a State of Mind",
       "url": "https://open.spotify.com/track/2DSAJF477Cf5OdKucIiCYG"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "London City, Boy, It's Killing Me (The Town)",
+        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
+      },
+      "artists": [
+        {
+          "name": "Nick & June",
+          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "London City, Boy, It's Killing Me - The Town",
+      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Vagrant",
-        "url": "https://open.spotify.com/album/0mmyG4fcLY3jwMyTxc2R54"
-      },
-      "artists": [
-        {
-          "name": "RILEY MOORE",
-          "url": "https://open.spotify.com/artist/4Cj5zXNiBErBVIOFFtWz86"
-        }
-      ],
-      "duration_ms": 245824,
-      "name": "Pancakes and M&M's",
-      "url": "https://open.spotify.com/track/0yHhh772JCw4tIZHyfwYj2"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Faces in the Rocks",
         "url": "https://open.spotify.com/album/4uTqDWrJqOHYp1DCtkun16"
       },
@@ -1995,18 +1979,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Husky Voice",
-        "url": "https://open.spotify.com/album/7mDOkSTNjln0QDZGOUcBeO"
+        "name": "Vagrant",
+        "url": "https://open.spotify.com/album/0mmyG4fcLY3jwMyTxc2R54"
       },
       "artists": [
         {
-          "name": "HuskyMe",
-          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
+          "name": "RILEY MOORE",
+          "url": "https://open.spotify.com/artist/4Cj5zXNiBErBVIOFFtWz86"
         }
       ],
-      "duration_ms": 215832,
-      "name": "Husky Voice",
-      "url": "https://open.spotify.com/track/6sMvtfKcvWB2e7QBRWJXcF"
+      "duration_ms": 245824,
+      "name": "Pancakes and M&M's",
+      "url": "https://open.spotify.com/track/0yHhh772JCw4tIZHyfwYj2"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Lampedusa (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2dpyKPNUrzHvdoz3XArHUf"
+        "name": "Husky Voice",
+        "url": "https://open.spotify.com/album/7mDOkSTNjln0QDZGOUcBeO"
       },
       "artists": [
         {
-          "name": "Malky",
-          "url": "https://open.spotify.com/artist/4htGKONCRJubvyLu7q6HqG"
+          "name": "HuskyMe",
+          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
         }
       ],
-      "duration_ms": 211240,
-      "name": "Lampedusa - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ypTNbCdGEv55Kjz5TfY8P"
+      "duration_ms": 215832,
+      "name": "Husky Voice",
+      "url": "https://open.spotify.com/track/6sMvtfKcvWB2e7QBRWJXcF"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2055,6 +2039,22 @@
       "duration_ms": 262873,
       "name": "Drives Me Crazy",
       "url": "https://open.spotify.com/track/64b6Q49Fmm57T2cir1XorQ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Lampedusa (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2dpyKPNUrzHvdoz3XArHUf"
+      },
+      "artists": [
+        {
+          "name": "Malky",
+          "url": "https://open.spotify.com/artist/4htGKONCRJubvyLu7q6HqG"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Lampedusa - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ypTNbCdGEv55Kjz5TfY8P"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Reason Is You",
-        "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
-      },
-      "artists": [
-        {
-          "name": "Angela Aux",
-          "url": "https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV"
-        }
-      ],
-      "duration_ms": 260809,
-      "name": "The Reason Is You",
-      "url": "https://open.spotify.com/track/1kbBZy4O9zMs7l7w8sDjol"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Keep The Times",
         "url": "https://open.spotify.com/album/0iMzWAkVMzrJ68cr10I0CL"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 222240,
       "name": "Weak bones",
       "url": "https://open.spotify.com/track/7gvT6FSYDIwlD9V33zw5Sy"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Reason Is You",
+        "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
+      },
+      "artists": [
+        {
+          "name": "Angela Aux",
+          "url": "https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV"
+        }
+      ],
+      "duration_ms": 260809,
+      "name": "The Reason Is You",
+      "url": "https://open.spotify.com/track/1kbBZy4O9zMs7l7w8sDjol"
     },
     {
       "added_at": "2024-04-24 06:24:42",

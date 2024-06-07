@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-98 songs - 17 hr 16 min
+99 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Eto Igbeyawo Medley \(Part 2\)](https://open.spotify.com/track/0SFGLsLGJPGHWYYkcj1uV9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [What God Has joined Together](https://open.spotify.com/album/5UjlIAVqMMzxlirjeDU5Wg) | 17:58 | 2023-12-21 |  |
 | [Eye To Ba Fara Wegun](https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 19:49 | 2021-12-28 | 2024-01-22 |
 | [Eyi Yato](https://open.spotify.com/track/4rA4sGmKw1B3jLfF71QUO6) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 31](https://open.spotify.com/album/1FRuvCuE2w3g62pdK23o56) | 17:36 | 2021-12-28 | 2022-02-04 |
+| [Eyi Yato \- Mad Professor Dub](https://open.spotify.com/track/2UMIwBOisk209CjTz3ueTU) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Eyi Yato, Pt\. 1](https://open.spotify.com/album/53b2xLpyijiMLpriDFPE7z) | 5:58 | 2024-06-07 |  |
 | [Fimi Lokan Bale](https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 20:02 | 2022-04-12 |  |
 | [Gbe Bemi Oluwa](https://open.spotify.com/track/1cvpTxtzz7QXNk6ptyfUNX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 | 2021-12-28 | 2024-06-01 |
 | [Gbebe Mi Oluwa](https://open.spotify.com/track/44q65hPu06DppPoqHmBfb3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 3:00 | 2024-06-01 |  |
@@ -98,7 +99,7 @@
 | [Paulina](https://open.spotify.com/track/0hWU5u4RnVCso4EjW9KGmY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:50 | 2024-06-02 | 2024-06-06 |
 | [Pegan Pegan](https://open.spotify.com/track/1VyVHhCCkzroAkK0rPreWP) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 2:55 | 2024-05-26 | 2024-05-27 |
 | [Pegan Pegan](https://open.spotify.com/track/6dh3gfKqz5QIbJlotxIXVY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 3](https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR) | 2:58 | 2021-12-28 | 2024-02-05 |
-| [Precious Gift \(Ebun Pataki\)](https://open.spotify.com/track/2HSPcU5afdfX3oDsMgr60E) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ore Oluwa Akari](https://open.spotify.com/album/28qC6iw0bcZqvsUMFAV5AW) | 16:51 | 2024-03-06 |  |
+| [Precious Gift \(Ebun Pataki\)](https://open.spotify.com/track/2HSPcU5afdfX3oDsMgr60E) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ore Oluwa Akari](https://open.spotify.com/album/28qC6iw0bcZqvsUMFAV5AW) | 16:51 | 2024-03-06 | 2024-06-07 |
 | [Sanu Olu](https://open.spotify.com/track/76dQXmWk18oZ5bc8lu8YZe) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:51 | 2022-03-22 | 2022-04-26 |
 | [Singing For The People Medley \(Part 2\)](https://open.spotify.com/track/4Vfh5r4XDiIEWcMbj59u5i) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Singing For The People](https://open.spotify.com/album/0DZnqgEzcAuvf16fFeNeaG) | 18:00 | 2024-03-29 | 2024-04-01 |
 | [Tajudeen Onigbanjo](https://open.spotify.com/track/1JOyGXpmFTu9FGhKhOO1Wp) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 4:28 | 2021-12-28 | 2023-12-24 |

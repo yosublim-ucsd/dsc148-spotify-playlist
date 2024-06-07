@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=Wzpokxo0T5KL4lgiOLxYTA>Xenia Manasseh</a>
+> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=YPYyRAe6S7ylntcdmbc48g>Tems</a>
 
-261 songs - 13 hr 50 min
+262 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-10-12 | 2023-11-10 |
 | [Burn 4 U](https://open.spotify.com/track/07azphHzbTXLjgE0h4HHP4) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 4:38 | 2024-02-14 | 2024-02-23 |
 | [Burn 4 U Remix \(feat\. Langa Mavuso\)](https://open.spotify.com/track/7h93lz8qZ17NwXs7cwj2tx) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [The Other Side \(Deluxe\)](https://open.spotify.com/album/14OOdWpb5n0hieJVjYvkOK) | 4:40 | 2024-03-15 |  |
+| [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 |  |
 | [Butterflies](https://open.spotify.com/track/4BIYpulTUkEj3gb0WWb9OV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 2:42 | 2024-02-14 | 2024-02-23 |
 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 | 2024-05-09 |  |
 | [CALL ME](https://open.spotify.com/track/53F1jPpysEPoqL4KZ1PYmX) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [CALL ME](https://open.spotify.com/album/5kALhYaoCF5JjWVGkBgJFU) | 3:31 | 2024-02-08 |  |

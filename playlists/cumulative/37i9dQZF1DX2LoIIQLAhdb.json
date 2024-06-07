@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju x Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : JEY BROWNIE",
   "name": "R&Bae",
   "tracks": [
     {
@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 192836,
       "name": "Canada Goose",
       "url": "https://open.spotify.com/track/47YYZxJqZsXptKLkrSETBN"
@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9lodie c\u00e9leste",
+        "url": "https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/7fye5mKD8gNSaM3G1IM0Kj"
+    },
+    {
+      "album": {
         "name": "I love you",
         "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
       },
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 171266,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/50SWP0R1mLdWfCwPaZP8JB"
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 141226,
       "name": "Position",
       "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
@@ -4905,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf"
+    },
+    {
+      "album": {
         "name": "si j'avais pu",
         "url": "https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P"
       },
@@ -4996,6 +5032,24 @@
       "duration_ms": 243026,
       "name": "SOLD OUT !",
       "url": "https://open.spotify.com/track/5xxfiqrm3wj6h8GYS3Hwkb"
+    },
+    {
+      "album": {
+        "name": "Solide",
+        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135593,
+      "name": "Solide",
+      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
     },
     {
       "album": {

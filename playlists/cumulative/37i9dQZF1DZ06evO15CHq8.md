@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO15CHq8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO15CHq8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO15CHq8)
 
-### [This Is $uicideboy$](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15CHq8)
+### [$uicideboy$ 音乐全纪录](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15CHq8)
 
-> This is $uicideboy$\. The essential tracks, all in one playlist.
+> $uicideboy$ 音乐全纪录。歌单收集了所有必听曲目。
 
 54 songs - 2 hr 12 min
 

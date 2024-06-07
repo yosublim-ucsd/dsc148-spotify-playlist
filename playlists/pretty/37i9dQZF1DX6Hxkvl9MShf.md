@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,274 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,371 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 78 | [Horizon](https://open.spotify.com/track/5XS5y3JmxNyp39AM1G5LKc) | [Grand Soleil](https://open.spotify.com/artist/7dhbDPq0PhEbcf3PB1f4R8) | [Horizon](https://open.spotify.com/album/0UvAiiyVwwmZ0z0YowDcxK) | 4:25 |
 | 79 | [Mindreader](https://open.spotify.com/track/5lLM1tCGpCZpsbwnrq6KAv) | [Reztart](https://open.spotify.com/artist/1gq1rlSbriC4aTu64v0rdd) | [Mindreader](https://open.spotify.com/album/4izOvhyyQRvwxxJeqxiJjL) | 3:47 |
 | 80 | [\#3](https://open.spotify.com/track/5ojaBHOzGKOTLGU5RRnRKy) | [Under Bron](https://open.spotify.com/artist/6E6l7i7nW6QGe4MSayneXH) | [\#3](https://open.spotify.com/album/2LdwaG2qD2UmDXuDY6TwZS) | 3:35 |
-| 81 | [Redo](https://open.spotify.com/track/3gizIvFngufBoa5KWCSh6b) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Redo](https://open.spotify.com/album/6XwqnKNgyYm16VylDGgbnO) | 3:14 |
+| 81 | [Redo](https://open.spotify.com/track/3gizIvFngufBoa5KWCSh6b) | [ABSTRCT](https://open.spotify.com/artist/72XZynqAgAS9w2ZCdvrNYz) | [Redo](https://open.spotify.com/album/6XwqnKNgyYm16VylDGgbnO) | 3:14 |
 | 82 | [Amore](https://open.spotify.com/track/1oywkrRA68NHkUs2BmIrQ4) | [DonVayei](https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb) | [Amore](https://open.spotify.com/album/67pEOmyjepVfRSGpTTDBHl) | 2:28 |
 | 83 | [Stronger Than Before](https://open.spotify.com/track/175RWMRzd4jFxFlH7iKKAh) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm) | [Stronger Than Before](https://open.spotify.com/album/3fuBWE2AFeXEUhL2G0aM1M) | 6:53 |
 | 84 | [Indie Boy](https://open.spotify.com/track/4WfTlXQwAs31iOuZ8y66hr) | [Ed Lopes](https://open.spotify.com/artist/5PIvaw3MSXYdSuqYaWW1GW) | [Indie Boy](https://open.spotify.com/album/5JL14JdaU8p229aVXZXVWi) | 6:15 |

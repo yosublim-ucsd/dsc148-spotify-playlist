@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-156 songs - 7 hr 35 min
+157 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 | 2022-11-19 |  |
 | [Go](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 | 2023-05-23 |  |
 | [Go](https://open.spotify.com/track/1bdbr1uDAQMVxY9HXts4uW) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/3h5PA716UNNgWEl2HW1nSJ) | 3:25 | 2022-11-19 | 2024-04-19 |
+| [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/21xKPhAaZmBqsPuYnHXH6P) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/2ARgvASgYGWkj8DxjwhafO) | 1:44 | 2024-05-28 |  |
 | [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/4z0KvxFBl2TJA9bBZtXJem) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ) | 1:44 | 2023-06-21 | 2023-07-05 |
 | [Gotta go](https://open.spotify.com/track/0nnFFROaJSapPjoDzzVHUM) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go](https://open.spotify.com/album/2oOaikSaRa7PQjPKt35hHv) | 2:37 | 2022-11-19 | 2023-12-14 |
 | [Gotta go](https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go](https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ) | 2:37 | 2024-02-27 |  |
@@ -83,7 +84,7 @@
 | [MAKE IT BOUNCE](https://open.spotify.com/track/3dUucLsbm0JLXMZHkKGE2Z) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/1N0WDMlRlTF1CtGcDmQJYa) | 3:33 | 2023-05-23 | 2023-10-07 |
 | [MAKE IT BOUNCE](https://open.spotify.com/track/3rsReqvpwIyP9P8p8vHwPz) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit vol.2](https://open.spotify.com/album/59UZbS9Ux4SiENv7foGH5w) | 3:33 | 2023-08-21 | 2024-04-19 |
 | [Marika Drift](https://open.spotify.com/track/5D1saLccH0XtSxnMuCAUdQ) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO) | [O.B.S vol.8](https://open.spotify.com/album/10rURjpwESeXN9Ztp7e3aC) | 2:00 | 2022-12-22 | 2023-05-24 |
-| [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 | 2022-11-19 |  |
+| [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 | 2022-11-19 | 2024-06-07 |
 | [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 | 2022-11-19 | 2024-02-28 |
 | [Move Up](https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/0dHzWk3b5wtTpoHJWBxQxO) | 3:07 | 2024-02-06 | 2024-04-19 |
 | [Move Up](https://open.spotify.com/track/3LNZ1bU1WdBkoLzbBVb2Ps) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/2dFozDdhNAGV8pjll0ztay) | 3:07 | 2024-02-27 |  |

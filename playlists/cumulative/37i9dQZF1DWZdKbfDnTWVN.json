@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6?si=5ZXbCjEyRKaAWPchCk5bNw\">Groovy Jo</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=RAxZFoJvS2CkSG4OXsdL1Q\">Nyashinski</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -1036,6 +1036,24 @@
       "duration_ms": 191830,
       "name": "Doing It Major",
       "url": "https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/0JVTNNL0MEpmriiOGcySqk"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213394,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/3aSOJiHOcx5zsyUcr1Bg6J"
     },
     {
       "album": {

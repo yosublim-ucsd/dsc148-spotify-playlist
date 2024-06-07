@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Anand Mahal",
+        "url": "https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ"
+      },
+      "artists": [
+        {
+          "name": "Rafiki (IN)",
+          "url": "https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357400,
+      "name": "Lofi Dreams",
+      "url": "https://open.spotify.com/track/3cfqBbYc8b0KTceqeiB3Xa"
+    },
+    {
+      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/44y80LKSLF3D9F3UDlKoVY"
       },
@@ -1500,6 +1518,24 @@
       "duration_ms": 184761,
       "name": "Sayonee - Sartek Remix",
       "url": "https://open.spotify.com/track/4H9XYpaxiCOOmDLS2zBW2G"
+    },
+    {
+      "album": {
+        "name": "Anand Mahal",
+        "url": "https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ"
+      },
+      "artists": [
+        {
+          "name": "Rafiki (IN)",
+          "url": "https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304429,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/5ENfn7MfW9ms4zmfEyoXRF"
     },
     {
       "album": {

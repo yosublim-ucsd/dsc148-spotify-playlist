@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 178000,
       "name": "El Amar",
       "url": "https://open.spotify.com/track/3OX2n994SozF2qMriERWGA"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 156925,
       "name": "Otra Vez (Prod Ruben Chi)",
       "url": "https://open.spotify.com/track/4xUfaHjJg3N9xQbUjVadwA"
@@ -2086,6 +2086,24 @@
       "duration_ms": 154000,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/0MlRfim8Rt55CvDyZ7Cdou"
+    },
+    {
+      "album": {
+        "name": "Querido Frank",
+        "url": "https://open.spotify.com/album/1wsbwoBGhOC9rvqiMumxLG"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164659,
+      "name": "Querido Frank",
+      "url": "https://open.spotify.com/track/6jPdkC03Y7tZpG5D9QEnTz"
     },
     {
       "album": {
@@ -2700,6 +2718,28 @@
       "duration_ms": 223437,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/007UTWXFgD65IDRcoVvQx9"
+    },
+    {
+      "album": {
+        "name": "Un Pelito y Un Tamal",
+        "url": "https://open.spotify.com/album/69d8lxsfANufzR41UZThPM"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "dj spizike",
+          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126383,
+      "name": "Un Pelito y Un Tamal",
+      "url": "https://open.spotify.com/track/3EPHagMulVWYwuefchltK6"
     },
     {
       "album": {

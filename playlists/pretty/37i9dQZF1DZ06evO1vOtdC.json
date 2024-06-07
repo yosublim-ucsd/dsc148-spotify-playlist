@@ -1,12 +1,12 @@
 {
-  "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 465437,
+  "description": "This Is Jennifer Lopez. Los temas esenciales, todos en una lista.",
+  "num_followers": 465460,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl5ZAAAAAABD6rQyrEZNlen0h5SkLvHu",
+  "snapshot_id": "Zl+qgAAAAACe2b7x6rAPWTUSvkYTlu0U",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,30 @@
       "duration_ms": 198019,
       "name": "Waiting For Tonight",
       "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 222520,
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
     },
     {
       "added_at": null,
@@ -163,46 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
       },
       "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 222520,
-      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
-      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pasi\u00f3n (Edici\u00f3n Especial En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/6msIJjglECleSJOmpYsHiJ"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 198213,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/6ykkal4MnCob5AQxckVqj2"
+      "duration_ms": 238226,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
     },
     {
       "added_at": null,
@@ -227,6 +223,26 @@
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pasi\u00f3n (Edici\u00f3n Especial En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6msIJjglECleSJOmpYsHiJ"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/6ykkal4MnCob5AQxckVqj2"
     },
     {
       "added_at": null,
@@ -343,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "I'm Real (feat. Ja Rule) - Murder Remix",
+      "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
       },
@@ -375,26 +411,6 @@
       "duration_ms": 200133,
       "name": "I'm Into You",
       "url": "https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno Agosto",
-        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "El Mismo Sol",
-      "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
     },
     {
       "added_at": null,
@@ -923,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me...Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Rebound (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor, Amor, Amor (feat. Wisin)",
         "url": "https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y"
       },
@@ -959,6 +955,26 @@
       "duration_ms": 198586,
       "name": "Amor, Amor, Amor (feat. Wisin)",
       "url": "https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me...Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Rebound (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV"
     },
     {
       "added_at": null,
@@ -1051,22 +1067,6 @@
       "duration_ms": 174708,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry Me (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 176867,
-      "name": "Nobody's Watching (Marry Me)",
-      "url": "https://open.spotify.com/track/5hQ9Pn43MLtBzlBQSPVhEG"
     }
   ],
   "unique_name": "This Is Jennifer Lopez",

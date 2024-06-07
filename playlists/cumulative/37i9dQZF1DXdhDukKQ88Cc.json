@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "<a href=\"spotify:artist:1YwMnnHvnG64fJxYSVwmN6\">Branco</a> takker af med kronen p\u00e5 v\u00e6rket \ud83c\udfc6 <a href=\"spotify:album:16y1M4Dnrqiodnk8KvRhLf\">BABA BUISNESS 3</a> \ud83c\udfc6 kig med i story \ud83d\udc40",
+  "description": "hello <a href=\"spotify:track:0L8mArFgQMunWP6qip3U7k\">KITTY</a>, lets get it.. <a href=\"spotify:artist:4g53FCcxQZEj8SSr1rHmiH\">DIBSET</a> & <a href=\"spotify:album:16y1M4Dnrqiodnk8KvRhLf\">Tessa</a> \ud83d\udd25",
   "name": "100 DK",
   "tracks": [
     {
@@ -505,6 +505,28 @@
     },
     {
       "album": {
+        "name": "Coconut Dreams",
+        "url": "https://open.spotify.com/album/3RmzF1NpJTdGoBcHHg9WYF"
+      },
+      "artists": [
+        {
+          "name": "Fouli",
+          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+        },
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174263,
+      "name": "Coconut Dreams",
+      "url": "https://open.spotify.com/track/6s5fTvO1t80qZ61xjeCv9m"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0wiQ5yItDLDmfKBxPlBFhR"
       },
@@ -1006,6 +1028,28 @@
       "duration_ms": 139140,
       "name": "ELEVATOR (feat. Stepz)",
       "url": "https://open.spotify.com/track/5KZqhvLLmjOXaFOP6jjaZa"
+    },
+    {
+      "album": {
+        "name": "Eneste (feat. KESI)",
+        "url": "https://open.spotify.com/album/3x52rk2qRrPRlgJsbysqNB"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134884,
+      "name": "Eneste (feat. KESI)",
+      "url": "https://open.spotify.com/track/5ehIhNQBMskl6sPE9Jf4TH"
     },
     {
       "album": {
@@ -1893,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "KITTY (feat. Tessa)",
+        "url": "https://open.spotify.com/album/2o4OKDnYbLOXp9md43Nqnt"
+      },
+      "artists": [
+        {
+          "name": "DIBSET",
+          "url": "https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH"
+        },
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136442,
+      "name": "KITTY (feat. Tessa)",
+      "url": "https://open.spotify.com/track/0L8mArFgQMunWP6qip3U7k"
+    },
+    {
+      "album": {
         "name": "KOM HERHEN",
         "url": "https://open.spotify.com/album/2GpJnXX38497OokE7BBxkS"
       },
@@ -2044,6 +2110,28 @@
       "duration_ms": 182164,
       "name": "Lidt L\u00e6ngere (feat. Emil Kruse)",
       "url": "https://open.spotify.com/track/1i4vUaRYZn43PjXSzwDFJY"
+    },
+    {
+      "album": {
+        "name": "LIGE HER (feat. Merro8)",
+        "url": "https://open.spotify.com/album/3gf6BCBVuV6u14xoG6xGIJ"
+      },
+      "artists": [
+        {
+          "name": "OLIVVER",
+          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
+        },
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133591,
+      "name": "LIGE HER (feat. Merro8)",
+      "url": "https://open.spotify.com/track/2XxScNmAUrcOcl2BSwmI8U"
     },
     {
       "album": {
@@ -2600,6 +2688,24 @@
       "duration_ms": 147804,
       "name": "Roll With It",
       "url": "https://open.spotify.com/track/3LrSFkh0r57DlAzj9MCerw"
+    },
+    {
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/67k5Zv2U62mSFwsonVlyOU"
+      },
+      "artists": [
+        {
+          "name": "Larry",
+          "url": "https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112053,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/5e9U7xJdDxmlBgvmBufHxr"
     },
     {
       "album": {
@@ -3340,6 +3446,24 @@
       "duration_ms": 181549,
       "name": "Varm",
       "url": "https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2"
+    },
+    {
+      "album": {
+        "name": "VEND OM",
+        "url": "https://open.spotify.com/album/27ztKpAJgGgqF7db7syLIs"
+      },
+      "artists": [
+        {
+          "name": "AMAL",
+          "url": "https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210753,
+      "name": "VEND OM",
+      "url": "https://open.spotify.com/track/3v18HYLfMVttHbUEfOwbMb"
     },
     {
       "album": {

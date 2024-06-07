@@ -1,13 +1,29 @@
 {
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: lilbubblegum",
-  "num_followers": 138165,
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Day1",
+  "num_followers": 138179,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZliGYAAAAAD9dym0mkj+E7vUBxQ14yCi",
+  "snapshot_id": "ZmHA4AAAAAA8k+DPjzxosGaPgYOJhzZi",
   "tracks": [
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "FIND THAT OUT",
+        "url": "https://open.spotify.com/album/5JDlQqaZI47GNU3S0fVTQX"
+      },
+      "artists": [
+        {
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+        }
+      ],
+      "duration_ms": 131503,
+      "name": "FIND THAT OUT",
+      "url": "https://open.spotify.com/track/4sJeq1ugqcvV37y8Jr7v02"
+    },
     {
       "added_at": "2024-05-23 14:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 173475,
       "name": "NATURAL HABITAT",
       "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
-    },
-    {
-      "added_at": "2024-05-30 14:00:00",
-      "album": {
-        "name": "PROTAGONIST",
-        "url": "https://open.spotify.com/album/5dWbDOgW9By7XptXhMWg9b"
-      },
-      "artists": [
-        {
-          "name": "lilbubblegum",
-          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
-        }
-      ],
-      "duration_ms": 173911,
-      "name": "PROTAGONIST",
-      "url": "https://open.spotify.com/track/7xZ4s1sCBzptTgB3yHXCuE"
     },
     {
       "added_at": "2024-05-23 14:00:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
     },
     {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "When I",
+        "url": "https://open.spotify.com/album/6DQc77aqIKxso8JJzkowta"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "When I",
+      "url": "https://open.spotify.com/track/5hqBRdjLsiIELegHNyMhaG"
+    },
+    {
       "added_at": "2024-05-30 14:00:00",
       "album": {
         "name": "Like We Wrote",
@@ -71,6 +87,70 @@
       "duration_ms": 118709,
       "name": "Like We Wrote",
       "url": "https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu"
+    },
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/38XzXG7GP7GiWszfZkXLK1"
+      },
+      "artists": [
+        {
+          "name": "Ribby247",
+          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
+        }
+      ],
+      "duration_ms": 96338,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/2yxDuTpEvdWGWZdiloA6XL"
+    },
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/0XzaAUuAtI6R9cmxRg9dC2"
+      },
+      "artists": [
+        {
+          "name": "JessB",
+          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
+        }
+      ],
+      "duration_ms": 136528,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/3YgySDHOUDfhTB1roFjci0"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "PROTAGONIST",
+        "url": "https://open.spotify.com/album/5dWbDOgW9By7XptXhMWg9b"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "duration_ms": 173911,
+      "name": "PROTAGONIST",
+      "url": "https://open.spotify.com/track/7xZ4s1sCBzptTgB3yHXCuE"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "VETTE",
+        "url": "https://open.spotify.com/album/7MZ0BBJ890IUHj8plcuCzO"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "VETTE",
+      "url": "https://open.spotify.com/track/50QXEoYbeJqWCH7oypB1h3"
     },
     {
       "added_at": "2024-05-23 14:00:00",
@@ -97,20 +177,24 @@
       "url": "https://open.spotify.com/track/23fWUAcz6j3UyZIIntNfec"
     },
     {
-      "added_at": "2024-05-30 14:00:00",
+      "added_at": "2024-06-06 14:00:00",
       "album": {
-        "name": "VETTE",
-        "url": "https://open.spotify.com/album/7MZ0BBJ890IUHj8plcuCzO"
+        "name": "DrippedOut",
+        "url": "https://open.spotify.com/album/6L2HRhcm3MdQ6jFKl7FuSz"
       },
       "artists": [
         {
-          "name": "Letoa",
-          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+          "name": "SkuX",
+          "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
+        },
+        {
+          "name": "KBS CHOPPA",
+          "url": "https://open.spotify.com/artist/2VDVNyUROVdnRBBTMangf6"
         }
       ],
-      "duration_ms": 113142,
-      "name": "VETTE",
-      "url": "https://open.spotify.com/track/50QXEoYbeJqWCH7oypB1h3"
+      "duration_ms": 144276,
+      "name": "DrippedOut",
+      "url": "https://open.spotify.com/track/3qCSzMjiqfD4w7GFOcqc8o"
     },
     {
       "added_at": "2024-05-23 14:00:00",
@@ -147,6 +231,22 @@
       "duration_ms": 135986,
       "name": "MONEY BAGS",
       "url": "https://open.spotify.com/track/5amnSdjfyVcGGNYoPPZlUC"
+    },
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "BIGGsTAPE 4: BLACKBIRD",
+        "url": "https://open.spotify.com/album/430pa6faJiFK7biqO5nM39"
+      },
+      "artists": [
+        {
+          "name": "BIGGs 685",
+          "url": "https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "BE QUIET",
+      "url": "https://open.spotify.com/track/57MfQoWuRcjgNWUcUnQRTL"
     },
     {
       "added_at": "2024-05-16 14:00:00",
@@ -203,6 +303,22 @@
       "duration_ms": 209651,
       "name": "Son Of A Queen",
       "url": "https://open.spotify.com/track/46vSfP1p4lVYicfmcmSbm8"
+    },
+    {
+      "added_at": "2024-05-23 14:00:00",
+      "album": {
+        "name": "GET RIGHT",
+        "url": "https://open.spotify.com/album/7p6FsD8xPnh8X2UrYA27zn"
+      },
+      "artists": [
+        {
+          "name": "0800",
+          "url": "https://open.spotify.com/artist/6IERXYoMmyee181MMzQzrk"
+        }
+      ],
+      "duration_ms": 217570,
+      "name": "WHO RUN IT",
+      "url": "https://open.spotify.com/track/7hV7R4pQZtsaxuvy7U6yMn"
     },
     {
       "added_at": "2024-05-16 14:00:00",
@@ -265,6 +381,22 @@
       "url": "https://open.spotify.com/track/5wrPxSTVv81FU5k1BIoZNS"
     },
     {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "nobody move",
+        "url": "https://open.spotify.com/album/13ZzwSR57WyasnO2or2ujJ"
+      },
+      "artists": [
+        {
+          "name": "Brandn Shiraz",
+          "url": "https://open.spotify.com/artist/3HSTbxvwvHgaNpGBmV1pMP"
+        }
+      ],
+      "duration_ms": 148924,
+      "name": "nobody move",
+      "url": "https://open.spotify.com/track/0bdO3E1MkNNrXB6acMloZG"
+    },
+    {
       "added_at": "2024-05-30 14:00:00",
       "album": {
         "name": "vacation",
@@ -317,6 +449,26 @@
       "url": "https://open.spotify.com/track/0t5jX5yYQ4HklmDak76c39"
     },
     {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "Crown Me Now",
+        "url": "https://open.spotify.com/album/1nhdaOMAtsveGGO1B0TVF9"
+      },
+      "artists": [
+        {
+          "name": "Kei Leeza",
+          "url": "https://open.spotify.com/artist/5JRhaOlZVpXZfB6yx6YOe0"
+        },
+        {
+          "name": "Billz 90",
+          "url": "https://open.spotify.com/artist/2GAkIQ6pAg0O22r0KlVOh7"
+        }
+      ],
+      "duration_ms": 180404,
+      "name": "Crown Me Now",
+      "url": "https://open.spotify.com/track/0Tafl1VJH2XgrPOWLq696f"
+    },
+    {
       "added_at": "2024-05-30 14:00:00",
       "album": {
         "name": "No Warning",
@@ -335,22 +487,6 @@
       "duration_ms": 147225,
       "name": "No Warning",
       "url": "https://open.spotify.com/track/0oATlBhZMhWKp7AOIbCvUU"
-    },
-    {
-      "added_at": "2024-05-23 14:00:00",
-      "album": {
-        "name": "GET RIGHT",
-        "url": "https://open.spotify.com/album/7p6FsD8xPnh8X2UrYA27zn"
-      },
-      "artists": [
-        {
-          "name": "0800",
-          "url": "https://open.spotify.com/artist/6IERXYoMmyee181MMzQzrk"
-        }
-      ],
-      "duration_ms": 217570,
-      "name": "WHO RUN IT",
-      "url": "https://open.spotify.com/track/7hV7R4pQZtsaxuvy7U6yMn"
     },
     {
       "added_at": "2024-05-23 14:00:00",
@@ -1143,6 +1279,26 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/1eped84p95mvcJwZ8RPDRO"
+      },
+      "artists": [
+        {
+          "name": "J Nui",
+          "url": "https://open.spotify.com/artist/7xmP7tgego8Sl1C0K5yWmU"
+        },
+        {
+          "name": "Emanuel Brown",
+          "url": "https://open.spotify.com/artist/1Kywxpr8keQxuQq1wGBYRu"
+        }
+      ],
+      "duration_ms": 165470,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/6nYRoHLcYiOgbfUjxysetd"
+    },
+    {
+      "added_at": "2024-05-09 21:14:59",
+      "album": {
         "name": "Third Eye Freestyle",
         "url": "https://open.spotify.com/album/4gR63oI4bg1dTUoAmMiJVm"
       },
@@ -1223,26 +1379,6 @@
       "duration_ms": 183750,
       "name": "Bless Beats",
       "url": "https://open.spotify.com/track/4Kcigr8f5OApchrXBLU6i0"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "Next Up Australia - S1-E9",
-        "url": "https://open.spotify.com/album/3p7jtRW9XQ2CieEay3YYHx"
-      },
-      "artists": [
-        {
-          "name": "Tbi$h",
-          "url": "https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 109655,
-      "name": "Next Up Australia - S1-E9 - Pt.2",
-      "url": "https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -1351,26 +1487,6 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/1eped84p95mvcJwZ8RPDRO"
-      },
-      "artists": [
-        {
-          "name": "J Nui",
-          "url": "https://open.spotify.com/artist/7xmP7tgego8Sl1C0K5yWmU"
-        },
-        {
-          "name": "Emanuel Brown",
-          "url": "https://open.spotify.com/artist/1Kywxpr8keQxuQq1wGBYRu"
-        }
-      ],
-      "duration_ms": 165470,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/6nYRoHLcYiOgbfUjxysetd"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
         "name": "BY THE SLICE",
         "url": "https://open.spotify.com/album/5WmA9XkYxDLON3MXq7Gu9v"
       },
@@ -1395,26 +1511,6 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
-        "name": "The Golden Lotus",
-        "url": "https://open.spotify.com/album/7dLQRlhxO89ErJeBFx4T6R"
-      },
-      "artists": [
-        {
-          "name": "Lil Spacely",
-          "url": "https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n"
-        },
-        {
-          "name": "Manu Crooks",
-          "url": "https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh"
-        }
-      ],
-      "duration_ms": 140218,
-      "name": "Flip",
-      "url": "https://open.spotify.com/track/3Q490nhbYkqCYZZsWGU1AV"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
         "name": "STARZ",
         "url": "https://open.spotify.com/album/3TXRE2cXcgKG8J9FL4pcaZ"
       },
@@ -1427,26 +1523,6 @@
       "duration_ms": 149447,
       "name": "STARZ",
       "url": "https://open.spotify.com/track/1CqoOUplAH5sRdTNfPhFLz"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "CANADA (w/ jnhygs)",
-        "url": "https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th"
-      },
-      "artists": [
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 110054,
-      "name": "CANADA (w/ jnhygs)",
-      "url": "https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -1675,26 +1751,6 @@
       "duration_ms": 168602,
       "name": "WYM",
       "url": "https://open.spotify.com/track/6UJKTLScivUkehvSVcmPtm"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "More To Believe",
-        "url": "https://open.spotify.com/album/1wh1F4cNZ33zhX6zyU54aE"
-      },
-      "artists": [
-        {
-          "name": "Eliezer",
-          "url": "https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y"
-        },
-        {
-          "name": "Caco",
-          "url": "https://open.spotify.com/artist/4ewt9MFulQx64ZPNFUNhu9"
-        }
-      ],
-      "duration_ms": 189016,
-      "name": "More To Believe",
-      "url": "https://open.spotify.com/track/6qZ4LqkZEZKVvJzWo3Fz7R"
     }
   ],
   "unique_name": "Local Hype",

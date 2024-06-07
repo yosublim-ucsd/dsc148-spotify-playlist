@@ -2,13 +2,14 @@
 
 ### [悲傷釋放](https://open.spotify.com/playlist/37i9dQZF1DWV3IJ2kse1M3)
 
-> 在音樂的懷抱裡，你想哭就哭。我們一起努力了那麼久，最後卻還是敗給不適合。
+> 在音樂的懷抱裡，你想哭就哭。我能感覺我們兩個世界 愛變得不再熟練 就連擁抱都不再熱烈 像冷空氣降溫的瞬間
 
-162 songs - 12 hr 12 min
+163 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2QVgTr1m0cOoPftywjlWVc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2tfxmmPQvYM9X3lwhIelV4) | 0:00 | 2022-06-01 | 2022-07-29 |
+| [2:10](https://open.spotify.com/track/2MP4oGxesMBDjDRxzFtXLU) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [2:10](https://open.spotify.com/album/0yWa2hga0p1oo1ZhuAJqtl) | 3:30 | 2024-06-06 |  |
 | [Cliff](https://open.spotify.com/track/68jBtLn1za9zfDq7kRNy6d) | [Chyi Chin](https://open.spotify.com/artist/4VhiuMC32Qj7pVW3e6Nlms) | [Night of Sorrow](https://open.spotify.com/album/5MddSNemZ2Y9yFTQXR12LK) | 4:53 | 2023-03-31 | 2023-12-07 |
 | [Complete](https://open.spotify.com/track/64M3PN41vi6HgitUJvSzrx) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Complete](https://open.spotify.com/album/6Wo1NcIVH1i6Is4yjgQU5E) | 4:16 | 2022-06-01 | 2022-07-16 |
 | [Hao Jiu Bu Jian](https://open.spotify.com/track/1nILhdgfPIaFUlvTNUtn9P) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [THE 1ST ELEVEN YEARS 然後呢?](https://open.spotify.com/album/530QqxnkY2e7HUo2XIDamA) | 4:10 | 2022-06-01 | 2022-07-29 |
@@ -33,7 +34,7 @@
 | [仰望](https://open.spotify.com/track/3Khvly1hpdpbK1YHtqIRMO) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [仰望](https://open.spotify.com/album/2MZ6k2CnZOEHdTnqUxUN4a) | 4:34 | 2022-06-01 | 2022-06-22 |
 | [你一定要幸福](https://open.spotify.com/track/5bxDmeaOyJQP8ZJmumcGeL) | [开开 \(赵锴羿\)](https://open.spotify.com/artist/4RUDuKj4LvtERCyhE57rSl) | [你一定要幸福](https://open.spotify.com/album/5Wtl4bzZ8Vseo6sAANr1S4) | 4:50 | 2022-06-01 | 2022-07-11 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2022-06-01 |  |
-| [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 | 2022-10-04 |  |
+| [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 | 2022-10-04 | 2024-06-07 |
 | [你还要我怎样](https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [意外](https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5) | 5:10 | 2022-06-01 |  |
 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2022-06-01 |  |
 | [來不及的告白 \- 東森電視自製戲劇《額外旅程》片頭曲](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白 \(東森電視自製戲劇《額外旅程》片頭曲\)](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 | 2022-06-01 | 2022-07-29 |

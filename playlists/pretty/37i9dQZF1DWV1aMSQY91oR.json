@@ -1,6 +1,6 @@
 {
   "description": "The newest hip-hop, refreshed weekly. Cover: Big Hit, Hit-Boy, The Alchemist",
-  "num_followers": 8671,
+  "num_followers": 8680,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
       "duration_ms": 269763,
       "name": "Bury My Problems",
       "url": "https://open.spotify.com/track/7xfMa6XgzGDPE6CAUG2Ta6"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "I Still Know Better",
+        "url": "https://open.spotify.com/album/2iFBx2KH4xuCnNUtVJ2cx0"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 202744,
+      "name": "I Still Know Better",
+      "url": "https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3"
     },
     {
       "added_at": "2024-05-31 04:00:00",

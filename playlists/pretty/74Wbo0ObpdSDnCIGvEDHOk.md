@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/74Wbo0ObpdSDnCIGvEDHOk.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Krigar precis som du](https://open.spotify.com/track/38pxm1bCKlnQJw5yiN9no3) | [Alina Devecerski](https://open.spotify.com/artist/4HpFXZsVoerMLtLudMJJkb) | [Maraton](https://open.spotify.com/album/1rh1B8iLdXA1qFgXD7Tlhk) | 3:07 |
-| 2 | [You \- Ha Ha Ha](https://open.spotify.com/track/0rmGeXHRPFO050ddZqwlDq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [You \(Ha Ha Ha\)](https://open.spotify.com/album/5ptQwgezoSBcNsX4EwRUzY) | 3:06 |
+| 2 | [You \- Ha Ha Ha](https://open.spotify.com/track/0rmGeXHRPFO050ddZqwlDq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [You \(Ha Ha Ha\)](https://open.spotify.com/album/5ptQwgezoSBcNsX4EwRUzY) | 3:06 |
 | 3 | [Lost](https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:54 |
 | 4 | [Chum](https://open.spotify.com/track/5VgTzt1u4AUp0MTeCybVHE) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Chum](https://open.spotify.com/album/6ofPcUZIVj8YVg82qmMHwz) | 4:07 |
 | 5 | [Awake](https://open.spotify.com/track/7mhDG9QgNYVArjDurXuib1) | [Trash Talk](https://open.spotify.com/artist/4pVWSc4qEC6U3yIjQleh90) | [Awake](https://open.spotify.com/album/3KPaMPkJdmwzx1niiW6X6S) | 1:40 |

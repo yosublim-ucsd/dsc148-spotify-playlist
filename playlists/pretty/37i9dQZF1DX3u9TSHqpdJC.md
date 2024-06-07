@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Peyton McMahon Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,908 likes - 110 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,946 likes - 110 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

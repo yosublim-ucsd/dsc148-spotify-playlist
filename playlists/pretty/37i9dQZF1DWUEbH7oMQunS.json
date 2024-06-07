@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 61058,
+  "num_followers": 61063,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Instrumental Worship Music, Vol. 1",
+        "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Biel",
+          "url": "https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Walk with You",
         "url": "https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 374546,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Instrumental Worship Music, Vol. 1",
-        "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
-      },
-      "artists": [
-        {
-          "name": "Jordan Biel",
-          "url": "https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hope Where There Was None",
-        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
       "artists": [
         {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Weeping Mary",
-      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+        "name": "Hope Where There Was None",
+        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
       },
       "artists": [
         {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
         }
       ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+      "duration_ms": 196040,
+      "name": "Weeping Mary",
+      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Worship Initiative, Vol. 28 (Live)",
-        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 391413,
-      "name": "Abba - Live",
-      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 418995,
       "name": "Without Shelter",
       "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Worship Initiative, Vol. 28 (Live)",
+        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 391413,
+      "name": "Abba - Live",
+      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "What You Paid For",
-        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "What You Paid For",
-      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Caves (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
       },
@@ -1167,6 +1147,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Higher Ways",
+        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
+      },
+      "artists": [
+        {
+          "name": "Olu Meduoye",
+          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "Higher Ways",
+      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "out of my grave (undone)",
         "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
       },
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Higher Ways",
-        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
+        "name": "What You Paid For",
+        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
       "artists": [
         {
-          "name": "Olu Meduoye",
-          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
         }
       ],
-      "duration_ms": 333750,
-      "name": "Higher Ways",
-      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
+      "duration_ms": 249608,
+      "name": "What You Paid For",
+      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/6X3dptuKSAda4W5zhUJutg"
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
       },
       "artists": [
         {
           "name": "The War Within",
           "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        },
-        {
-          "name": "Taylor Goertzen",
-          "url": "https://open.spotify.com/artist/3qsSL0u4vEMCMgKKHNRmt9"
         }
       ],
-      "duration_ms": 188586,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/37DdH0CAgdoNPYAKExmgfc"
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1395,18 +1391,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "There is a King (Live Rehearsal Demo)",
-        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/6X3dptuKSAda4W5zhUJutg"
       },
       "artists": [
         {
           "name": "The War Within",
           "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        },
+        {
+          "name": "Taylor Goertzen",
+          "url": "https://open.spotify.com/artist/3qsSL0u4vEMCMgKKHNRmt9"
         }
       ],
-      "duration_ms": 222421,
-      "name": "There is a King - Live Rehearsal Demo",
-      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
+      "duration_ms": 188586,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/37DdH0CAgdoNPYAKExmgfc"
     },
     {
       "added_at": "2023-07-28 04:02:00",

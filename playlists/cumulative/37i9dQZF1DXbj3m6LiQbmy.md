@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Gianna Nannini in cover! ✨
 
-353 songs - 20 hr 48 min
+357 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,8 @@
 | [macchina argento](https://open.spotify.com/track/18zK0tK6kSn6ovG8UkSGu9) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [macchina argento](https://open.spotify.com/album/0Awz1WP6nXunFkr4Tm6WNd) | 2:34 | 2023-06-01 | 2024-01-09 |
 | [Magari Vivi](https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK) | 2:49 | 2021-11-19 | 2023-02-25 |
 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 | 2023-02-28 | 2023-06-09 |
+| [Mai fermi](https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Mai fermi](https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9) | 3:55 | 2024-06-06 |  |
+| [Maledetto](https://open.spotify.com/track/5mWE57Day9EWDPweZFX7Qq) | [Severino Panzetta](https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m), [Giacomo Moras](https://open.spotify.com/artist/6ot5EUnczyalQ76s6l2Ryv), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Maledetto](https://open.spotify.com/album/4jIzNSS0vpiDPAqzY5oyA2) | 4:07 | 2024-06-06 |  |
 | [Mami Daddy](https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:30 | 2022-04-21 | 2023-06-09 |
 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 | 2023-02-23 | 2023-09-23 |
 | [MARGHERITE \(feat\. Ethan & Marianne Mirage\)](https://open.spotify.com/track/0g5dcbFaOxjzACP1oWzPkF) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 3:12 | 2022-06-26 | 2022-07-29 |
@@ -232,6 +234,7 @@
 | [Oops!](https://open.spotify.com/track/6XwH8uEwqJxf9eCt5mMWbv) | [Enorma Jean](https://open.spotify.com/artist/2XABDTYiXyMQwEn2knbFrG), [mrg](https://open.spotify.com/artist/79Vs6xocxPKC3Sm6zsQrAz) | [Oops!](https://open.spotify.com/album/4NePNTYBs0eoGIq3PEGBWh) | 2:31 | 2022-06-26 | 2022-07-28 |
 | [Oro](https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:30 | 2022-06-26 | 2023-01-25 |
 | [OSCENO](https://open.spotify.com/track/12W5ZS8wfY2Y6ujUgdqyGr) | [Lilly Meraviglia](https://open.spotify.com/artist/3BVrBQOg6F6UtsnsF5E1A7) | [OSCENO](https://open.spotify.com/album/1Oojbbxjob29dwZGHGUezC) | 2:50 | 2022-06-12 | 2022-06-27 |
+| [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-06-06 |  |
 | [Painted Eyes](https://open.spotify.com/track/0YKFG6iCL1Nn5y7aLLy7qA) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/1DBdOP00GcAqZO67GUZDV9) | 6:01 | 2022-06-26 | 2022-07-19 |
 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 | 2022-07-21 | 2023-01-25 |
 | [paranormale che](https://open.spotify.com/track/1RdllQCAMgg8MFC7nB6XtR) | [chesma](https://open.spotify.com/artist/14qfpqRSUFUcZOK424qddH) | [paranormale che](https://open.spotify.com/album/4Dv3N0tGiSGPGwx1O3ubPZ) | 2:36 | 2023-11-16 |  |
@@ -320,6 +323,7 @@
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2022-06-12 | 2022-06-27 |
 | [The Point Of Living](https://open.spotify.com/track/6x2csnE4Cr1cuJSHmwBdJi) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [The Point Of Living](https://open.spotify.com/album/2G0rmcFmdmnb9oevoSWFgp) | 3:16 | 2024-02-12 | 2024-03-12 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2022-06-12 | 2022-06-27 |
+| [Ti perdono di tutto \(a la playa\)](https://open.spotify.com/track/1rFJWfWeR3m6aOPM6ECFGC) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt) | [Ti perdono di tutto \(a la playa\)](https://open.spotify.com/album/5wXlXpwoMuddCegQ5MPqpE) | 3:01 | 2024-06-06 |  |
 | [Ti Sento](https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Melanchólia](https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE) | 4:15 | 2022-06-26 | 2023-01-26 |
 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 | 2022-05-25 | 2023-06-09 |
 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 | 2022-06-26 | 2023-02-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1297421,
+  "num_followers": 1297608,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "I Like To Party",
-        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "DJ Junior (TW)",
-          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "I Like To Party",
-      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "I Like To Party",
+        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "I Like To Party",
+      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "GO STUPID",
+        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "GO STUPID",
+      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 161589,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "GO STUPID",
-        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "GO STUPID",
-      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Never Go To Sleep",
-        "url": "https://open.spotify.com/album/00VujTlzhoi39Bijteh2LD"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Never Go To Sleep",
-      "url": "https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Harder State Of Mind",
         "url": "https://open.spotify.com/album/1YdgxbHjJ6A7UmYOEqlHJ2"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 236800,
       "name": "Harder State Of Mind",
       "url": "https://open.spotify.com/track/3QeEf7TMugwZkmn0hPmXio"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Never Go To Sleep",
+        "url": "https://open.spotify.com/album/00VujTlzhoi39Bijteh2LD"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Never Go To Sleep",
+      "url": "https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Hardcore Life",
-        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "Hardcore Life",
-      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/1SruYWLrRC5VdxOD23HJsr"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 204300,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/5NOklCq1LWSmY87eon2Rvp"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Hardcore Life",
+        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Hardcore Life",
+      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Ode To My Body",
-        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Ode To My Body",
-      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Bitter Sweet Symphony (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 180002,
       "name": "Bitter Sweet Symphony (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Ode To My Body",
+        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Ode To My Body",
+      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2019,30 +2019,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "No Surrender",
-        "url": "https://open.spotify.com/album/2aI3NdkCfpIDWfjaA2dFV5"
-      },
-      "artists": [
-        {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
-        },
-        {
-          "name": "Bass X Machina",
-          "url": "https://open.spotify.com/artist/30qDNUnj7UYaiI59KnYbh0"
-        },
-        {
-          "name": "Alpha",
-          "url": "https://open.spotify.com/artist/21OmTx39RbTeTYzeCR0O0F"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "No Surrender",
-      "url": "https://open.spotify.com/track/5NA3gs8Y5SED7dApNNBkQT"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Chase The Sun (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
       },
@@ -2075,6 +2051,30 @@
       "duration_ms": 165660,
       "name": "BEUK D\u2019R IN",
       "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "No Surrender",
+        "url": "https://open.spotify.com/album/2aI3NdkCfpIDWfjaA2dFV5"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        },
+        {
+          "name": "Bass X Machina",
+          "url": "https://open.spotify.com/artist/30qDNUnj7UYaiI59KnYbh0"
+        },
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/21OmTx39RbTeTYzeCR0O0F"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/5NA3gs8Y5SED7dApNNBkQT"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2167,26 +2167,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Rave From The Grave",
-        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
-        }
-      ],
-      "duration_ms": 177016,
-      "name": "Rave From The Grave",
-      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2223,6 +2203,26 @@
       "duration_ms": 215780,
       "name": "Million Miles - Da Tweekaz Remix",
       "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2287,6 +2287,26 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "DYSYLM",
         "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
       },
@@ -2323,26 +2343,6 @@
       "duration_ms": 183993,
       "name": "Jupiter - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/6JRzMGFKTgf5c76qV6uT9F"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "HEAR THE NOISE",
-        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "HEAR THE NOISE",
-      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
-        "name": "Speed Of Light (feat. Noubya)",
-        "url": "https://open.spotify.com/album/6axtLeXNtG3CzReNkPp4kI"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        },
-        {
-          "name": "Noubya",
-          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
-        }
-      ],
-      "duration_ms": 274064,
-      "name": "Speed Of Light",
-      "url": "https://open.spotify.com/track/5NaBBKxdsS6SvpcqFxWWdW"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
         "name": "Superstring (Aftershock Remix)",
         "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
       },
@@ -2643,6 +2623,26 @@
       "duration_ms": 240000,
       "name": "Demons - Restrained Remix",
       "url": "https://open.spotify.com/track/4cN1uno0iSzRsOOSE4NvF9"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
+        "name": "Speed Of Light (feat. Noubya)",
+        "url": "https://open.spotify.com/album/6axtLeXNtG3CzReNkPp4kI"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Noubya",
+          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
+        }
+      ],
+      "duration_ms": 274064,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/5NaBBKxdsS6SvpcqFxWWdW"
     },
     {
       "added_at": "2024-05-31 13:07:33",
@@ -2903,6 +2903,30 @@
     {
       "added_at": "2024-05-31 13:07:33",
       "album": {
+        "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
+        "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Cathrine Lassen",
+          "url": "https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp"
+        }
+      ],
+      "duration_ms": 197927,
+      "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
+      "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
+    },
+    {
+      "added_at": "2024-05-31 13:07:33",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
       },
@@ -2939,30 +2963,6 @@
       "duration_ms": 182903,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
-    },
-    {
-      "added_at": "2024-05-31 13:07:33",
-      "album": {
-        "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
-        "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Cathrine Lassen",
-          "url": "https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp"
-        }
-      ],
-      "duration_ms": 197927,
-      "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
-      "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
     },
     {
       "added_at": "2024-05-31 13:07:33",

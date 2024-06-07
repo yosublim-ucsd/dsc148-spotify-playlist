@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:   <a href="spotify:artist:5D3h9ZoobhetjXw3dKhcaq">Jon Foreman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,635 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,682 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 20 | [Who the Cross Is For](https://open.spotify.com/track/7tmJcijyirkPOEf2CJuL8d) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Rubble and Wreckage](https://open.spotify.com/album/7q34xPdQNVoNa6dUR6RioR) | 3:10 |
 | 21 | [Daily Bread](https://open.spotify.com/track/01XPEwK0kYQOHQEENQ94wZ) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Daily Bread](https://open.spotify.com/album/62eGFqSWE09BYp6lyI2XxG) | 6:25 |
 | 22 | [Wind of Love \(feat\. Maryanne J\. George\)](https://open.spotify.com/track/4W2WJEEzNzM5ELYRh0ek5l) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Wind of Love \(feat\. Maryanne J\. George\)](https://open.spotify.com/album/2EKty7oqwWZCLHRrJ1Ei5J) | 7:52 |
-| 23 | [Highest One \- Live](https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Highest One](https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV) | 7:21 |
+| 23 | [Highest One \- Live](https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Highest One \(Live\)](https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV) | 7:21 |
 | 24 | [Adoration Song](https://open.spotify.com/track/4g4PYXN1KQVE4NMFuZuPZa) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Adoration Song](https://open.spotify.com/album/3rC9iYD4evszbXpzFoC0si) | 4:35 |
 | 25 | [Highlands \(Song of Ascent\)](https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Songs I've Needed](https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO) | 6:31 |
 | 26 | [He Holds Us](https://open.spotify.com/track/3Mmpvfd6Lg9KStonR46UdC) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [He Holds Us](https://open.spotify.com/album/2cf5kfWItUF5zToAMG29Wn) | 4:08 |

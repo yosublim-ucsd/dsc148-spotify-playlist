@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With By The Coast, LAVE, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,773 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,774 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Day by Day](https://open.spotify.com/track/5WDHgJilJuL7PZHvE2MgKD) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:11 |
 | 50 | [I'm In Love With Everybody](https://open.spotify.com/track/3iA5hu0pwUx8vP97zLUMoy) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:28 |
 
-Snapshot ID: `ZmEfuAAAAAAiCRFrNPYoiD5qFkHYRd7V`
+Snapshot ID: `ZmJ48wAAAACSCj7TxEKse/H3PoKeSUqt`

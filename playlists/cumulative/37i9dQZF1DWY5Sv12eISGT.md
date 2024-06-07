@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-54 songs - 2 hr 51 min
+55 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 | 2024-02-16 | 2024-04-19 |
 | [Be Honest \- Acoustic](https://open.spotify.com/track/7bDCBn5W4rLCQAJiUAymCk) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lost & Found](https://open.spotify.com/album/6rr0eXdvaplCmUWqT1t1Dp) | 3:11 | 2024-02-16 |  |
 | [Born Again \- Acoustic](https://open.spotify.com/track/1fQhMICbWZaN2yAwY4rPWE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest \(TBH\) \(Acoustic\)](https://open.spotify.com/album/0gKuo74azjIiPGFgyNSRaR) | 2:26 | 2024-02-16 |  |
+| [Born in the Wild](https://open.spotify.com/track/6EKlFOGHGwp9S0xBAxOBRV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:16 | 2024-06-06 |  |
 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 | 2024-02-16 |  |
 | [Deserve \- Acoustic](https://open.spotify.com/track/3TAXKzopgG2RjZTshSDqLT) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Deserve \(Acoustic\)](https://open.spotify.com/album/5jy6d1Ird3zZGs5lgx48W5) | 2:57 | 2024-02-16 |  |
 | [Don't Keep Me Waiting Part II](https://open.spotify.com/track/2jT0uc1gDHcRHgSrQDCney) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape, Sorry 4 the Wait](https://open.spotify.com/album/4srQvUx3R9gvntOmXldBUI) | 3:13 | 2024-02-16 |  |
@@ -57,7 +58,7 @@
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/4dI7ki0nTidETF4FMik1r4) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:18 | 2024-02-16 |  |
 | [Time \(Acoustic Version\)](https://open.spotify.com/track/5D2vpzfDrxF2GXcnp0DQDL) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Time \(Acoustic Version\)](https://open.spotify.com/album/7CqpmpIw35kBWl2yU50txC) | 2:56 | 2024-02-16 |  |
 | [Tuwe Pamoja](https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:12 | 2024-05-16 |  |
-| [Waweza \- Acoustic](https://open.spotify.com/track/6AfPqQJSZVsNNsNXDBq0Fq) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:28 | 2024-02-16 |  |
+| [Waweza \- Acoustic](https://open.spotify.com/track/6AfPqQJSZVsNNsNXDBq0Fq) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:28 | 2024-02-16 | 2024-06-07 |
 | [Why \- Acoustic](https://open.spotify.com/track/0kucibR8w2hmkQQrebXYoI) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/1JR49izONyolUbhNKuEWxv) | 4:25 | 2024-02-16 |  |
 | [You \- Acoustic](https://open.spotify.com/track/3slo8zKU8F9mh8hOoKb4RR) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [You \(Acoustic\)](https://open.spotify.com/album/7n8AkKWLDDIcYeQcA3J2jD) | 3:18 | 2024-02-16 |  |
 | [Your Body \- Acoustic](https://open.spotify.com/track/3oFeYtCozau0mRTzDV92H7) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Acoustic\)](https://open.spotify.com/album/3XZ6nx117dwC2emyIfacwU) | 3:26 | 2024-02-16 |  |

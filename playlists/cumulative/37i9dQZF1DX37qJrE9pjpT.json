@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Fredrick Mulla",
+  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Young Lunya",
   "name": "Bongo Bars",
   "tracks": [
     {
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 207531,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1yUouKyKMhi35uipb9dS1C"
@@ -1618,6 +1618,24 @@
       "duration_ms": 193536,
       "name": "Masihara - Remix",
       "url": "https://open.spotify.com/track/7fUBvdVv2VwG1OoSRaNgnJ"
+    },
+    {
+      "album": {
+        "name": "Mbwa mwitu",
+        "url": "https://open.spotify.com/album/6Nhl9QWImy46L0P4x3eIWY"
+      },
+      "artists": [
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230103,
+      "name": "Mbwa mwitu",
+      "url": "https://open.spotify.com/track/0whzBVScuvWruda4s07TSK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > LUCKI, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,715 likes - 100 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,706 likes - 100 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 17 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 |
 | 18 | [Oi \(Beat Da Koto Nai\)](https://open.spotify.com/track/0Awdz56YtMdTCJc5vfyp2F) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13) | [Deep End](https://open.spotify.com/album/5OlXjyMcCgbyvxUME1PhmG) | 2:22 |
 | 19 | [Back It up and Dump It \(Dump Truck\)](https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7) | [GC Eternal](https://open.spotify.com/artist/0ZOCqmN2WKW2Pd4X5soZ02), [Kinfolk Thugs](https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS), [Tyme Bomb](https://open.spotify.com/artist/0mDzqk1BoBvyKUYfcg6Zbd), [Tre'v](https://open.spotify.com/artist/3G4S7c0YyMbTNf09kdVybp) | [Back It Up and Dump It \(Dump Truck\)](https://open.spotify.com/album/71hlcT83y4lzW8a2nn0PyM) | 3:27 |
-| 20 | [NO REASON](https://open.spotify.com/track/18ozMl22W8EC2ZoxIiTwLx) | [Lil Snvrk](https://open.spotify.com/artist/6Cu1tn4J5gXoXfz9eSE8Fr), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [NO REASON](https://open.spotify.com/album/1VMN7QIuavSVp0ld63KOmj) | 2:08 |
+| 20 | [NO REASON](https://open.spotify.com/track/18ozMl22W8EC2ZoxIiTwLx) | [Lil Snvrk](https://open.spotify.com/artist/6Cu1tn4J5gXoXfz9eSE8Fr), [ian](https://open.spotify.com/artist/2INxMX1UW4zQwgQcJMdliu) | [NO REASON](https://open.spotify.com/album/1VMN7QIuavSVp0ld63KOmj) | 2:08 |
 | 21 | [NO IDEA \#jerseyclub \- Ziahfyah & Indo2x Remix](https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [NO IDEA \#jerseyclub \(Ziahfyah & Indo2x Remix\)](https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF) | 2:36 |
 | 22 | [Seppuku](https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V), [Baldie Balboa](https://open.spotify.com/artist/0ZlhTnEkFNumpRzXOuRz3F) | [NSFW 2: I Like Girls](https://open.spotify.com/album/1pBI9gyxvVwMRlhUWjVtNw) | 3:25 |
 | 23 | [douji feva](https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [douji feva](https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5) | 1:45 |

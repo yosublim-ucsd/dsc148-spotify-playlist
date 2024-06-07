@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 ### [RADAR Podcasters México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Escucha a estos creadores, seleccionados por nuestro equipo editorial de podcasts.
+> Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ?si=f4e302281419482f">Lclub Podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 795 likes - 12 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 12 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 11 | [Feliz Día del Niño, Niña y Niñe \| El Lado Oscuro de los Niños Estrellas](https://open.spotify.com/episode/6odbgvQ8qBwFHz6zGt3Hcd) | [Se Regalan Sustos](https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb) | [Se Regalan Sustos](https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb) | 1:46:47 |
 | 12 | [ENAMORÁNDOME DESDE MIS TRAUMAS](https://open.spotify.com/episode/0qxX9Sc2YY2Rur91ckKauh) | [LAS BOTARGAS PODCAST](https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t) | [LAS BOTARGAS PODCAST](https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t) | 56:54 |
 
-Snapshot ID: `ZmCizAAAAACbLwYqot3GmAOTGxiaEHEM`
+Snapshot ID: `ZmHuswAAAAArycArhx9vvmQozcsguaaB`

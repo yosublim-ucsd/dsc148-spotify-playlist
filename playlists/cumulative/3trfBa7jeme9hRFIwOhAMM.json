@@ -1687,6 +1687,32 @@
     },
     {
       "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "CRCLE",
+          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/2tLsgjfImd6E7QT2r3ub0z"
       },
@@ -2622,7 +2648,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 196408,
       "name": "No Stoppin'",
       "url": "https://open.spotify.com/track/57FmT0iCeLWU4NrRlIl6ci"
@@ -3208,7 +3234,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 205045,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF"
@@ -3234,7 +3260,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 165710,
       "name": "RIOT - Curbi Remix",
       "url": "https://open.spotify.com/track/141Wmp3tD5OEqY3PrfryWj"
@@ -3916,6 +3942,28 @@
       "duration_ms": 179287,
       "name": "This Is Your Brain",
       "url": "https://open.spotify.com/track/323YswWCcHWPEqQ8B5fw8l"
+    },
+    {
+      "album": {
+        "name": "Thousand Sides",
+        "url": "https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Thousand Sides",
+      "url": "https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp"
     },
     {
       "album": {

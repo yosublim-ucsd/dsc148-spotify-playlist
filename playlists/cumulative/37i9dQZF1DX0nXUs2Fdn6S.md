@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-82 songs - 4 hr 23 min
+84 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Laung Gawacha](https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J) | 3:33 | 2024-02-05 |  |
 | [Leja](https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem \(Deluxe\)](https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX) | 3:18 | 2024-02-05 | 2024-04-19 |
 | [Leja](https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem](https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2) | 3:18 | 2023-10-20 |  |
+| [Lofi Dreams](https://open.spotify.com/track/3cfqBbYc8b0KTceqeiB3Xa) | [Rafiki \(IN\)](https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik) | [Anand Mahal](https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ) | 5:57 | 2024-06-06 |  |
 | [Lost Without You](https://open.spotify.com/track/57cRnwOnlIVsBKHOzrF7oZ) | [Mridul Kala](https://open.spotify.com/artist/1jhHH5kwbkL3Cr8GxWNTdY) | [Lost Without You](https://open.spotify.com/album/44y80LKSLF3D9F3UDlKoVY) | 2:20 | 2023-10-20 |  |
 | [Love For A Lifetime](https://open.spotify.com/track/4RoK4OX2L4HXqKXh1xa0LB) | [Progressive Brothers](https://open.spotify.com/artist/49ATHR1LB0svG40PcjjHPP) | [Love For A Lifetime](https://open.spotify.com/album/3KLFtWLDjwXvmoXWpuO5nr) | 3:44 | 2023-10-20 |  |
 | [Love Forever](https://open.spotify.com/track/4VCdLSfRMx5nX2TsarZxUs) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Chaitxnya](https://open.spotify.com/artist/1gcR7Ufcrolsr7zRn1bv1A) | [Love Forever](https://open.spotify.com/album/7bzpFypf96SjUDRKMok6gR) | 3:23 | 2023-10-20 |  |
@@ -75,6 +76,7 @@
 | [Sathi](https://open.spotify.com/track/2XBSkMQueeB4p24omMj7m7) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Sathi](https://open.spotify.com/album/5SVJr4rIkhquC1Wqv0olmM) | 3:36 | 2024-02-05 |  |
 | [Sathi](https://open.spotify.com/track/3QCL4FJOSqLrFDJmcdNSbA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:36 | 2023-10-20 | 2024-04-19 |
 | [Sayonee \- Sartek Remix](https://open.spotify.com/track/4H9XYpaxiCOOmDLS2zBW2G) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc) | [Sayonee \(Sartek Remix\)](https://open.spotify.com/album/0BvLTzENzNKdkqurIMVIX0) | 3:04 | 2023-10-20 |  |
+| [Smoke & Mirrors](https://open.spotify.com/track/5ENfn7MfW9ms4zmfEyoXRF) | [Rafiki \(IN\)](https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik) | [Anand Mahal](https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ) | 5:04 | 2024-06-06 |  |
 | [Somedays I Know](https://open.spotify.com/track/5KyMwqeqAVcsGQPICW3LkX) | [Whoshafee](https://open.spotify.com/artist/6PMkmGQLEWSCCml7Z0KKkx) | [Somedays I Know](https://open.spotify.com/album/2OwqlF3OJ0NQWynICBthiO) | 3:49 | 2023-10-20 |  |
 | [Summer Tune](https://open.spotify.com/track/3LyOG6zAbh8zfMRQ5QGxgl) | [Shranay Shahane](https://open.spotify.com/artist/65Jmv6ckflB3P1XWBtyuF2), [Oskar T.T](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY) | [Summer Tune](https://open.spotify.com/album/4kMR4J5qGcm62sWEC0Qb2S) | 2:41 | 2023-10-20 |  |
 | [Survived](https://open.spotify.com/track/4vgM82J1Uo424bJVzTDWvn) | [Kian Parikh](https://open.spotify.com/artist/211K7A9MTHN86gfHvy4Rfi) | [Survived](https://open.spotify.com/album/71bBM2D5yNrsDVi7rdgcvR) | 3:06 | 2023-10-20 |  |

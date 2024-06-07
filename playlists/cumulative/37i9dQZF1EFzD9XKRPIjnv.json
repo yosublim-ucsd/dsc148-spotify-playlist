@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/1P4Yoz37ycyn9CFWBY1SBC"
+      },
+      "artists": [
+        {
+          "name": "HANPPYEOMPIANO",
+          "url": "https://open.spotify.com/artist/5Bq1Nx8Dk3QzskbXYEKcBt"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212095,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/6sb6IH3uOAIk1zetN1Jzn5"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv"
       },

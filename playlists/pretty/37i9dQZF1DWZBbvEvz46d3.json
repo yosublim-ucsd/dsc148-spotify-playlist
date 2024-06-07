@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 66449,
+  "num_followers": 66468,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Zacznij od Bacha (The Best)",
-        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
       },
       "artists": [
         {
-          "name": "Zbigniew Wodecki",
-          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+          "name": "Perfect",
+          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
         }
       ],
-      "duration_ms": 262293,
-      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
-      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
+      "duration_ms": 342000,
+      "name": "Nie P\u0142acz Ewka",
+      "url": "https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
-      },
-      "artists": [
-        {
-          "name": "Perfect",
-          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nie P\u0142acz Ewka",
-      "url": "https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Obrazki",
         "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 193973,
       "name": "Na zawsze i na wieczno\u015b\u0107",
       "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Zacznij od Bacha (The Best)",
+        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
+      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
       "artists": [
         {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
+      "duration_ms": 229666,
+      "name": "Najnowszy Klip",
+      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
       },
       "artists": [
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Najnowszy Klip",
-      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Zakryj (Deluxe)",
-        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u0119skno Mi",
-      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
         "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
       },
@@ -611,34 +595,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Komponuj\u0105c siebie",
-        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
+        "name": "Zakryj (Deluxe)",
+        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
       },
       "artists": [
         {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
         }
       ],
-      "duration_ms": 184514,
-      "name": "Ksi\u0119\u017cniczka",
-      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Nic dwa razy (W. Szymborska)",
-        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nic dwa razy (W. Szymborska)",
-      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+      "duration_ms": 215266,
+      "name": "T\u0119skno Mi",
+      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -663,18 +631,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Milosc",
-        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
+        "name": "Nic dwa razy (W. Szymborska)",
+        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
       },
       "artists": [
         {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 195040,
-      "name": "Peron",
-      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
+      "duration_ms": 189000,
+      "name": "Nic dwa razy (W. Szymborska)",
+      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -691,6 +659,38 @@
       "duration_ms": 195666,
       "name": "Nie K\u0142ami",
       "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Komponuj\u0105c siebie",
+        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 184514,
+      "name": "Ksi\u0119\u017cniczka",
+      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Milosc",
+        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
-      },
-      "artists": [
-        {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
-        }
-      ],
-      "duration_ms": 157837,
-      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Tamta dziewczyna",
         "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
+      },
+      "artists": [
+        {
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+        }
+      ],
+      "duration_ms": 157837,
+      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Prawda o nas",
-        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Prawda o nas",
-      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Revolving Door",
         "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
       },
@@ -1303,6 +1287,26 @@
       "duration_ms": 216706,
       "name": "Safari",
       "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "1976: A Space Odyssey",
+        "url": "https://open.spotify.com/album/1b31QujyuXOOLxasCvfTvn"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+        },
+        {
+          "name": "Mitch & Mitch",
+          "url": "https://open.spotify.com/artist/2PQkXVCcXu0Nwf226rzGXq"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "Rzu\u0107 Wszystko Co Z\u0142e",
+      "url": "https://open.spotify.com/track/11iQIrOyUNjzH6jJtC3NIb"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

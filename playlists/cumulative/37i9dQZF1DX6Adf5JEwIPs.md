@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Michelle Maciel
 
-5,145 songs - 11 day 3 hr 35 min
+5,146 songs - 11 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1178,6 +1178,7 @@
 | [Efecto Mayiza](https://open.spotify.com/track/2qYHV61tehcresLu1y9NJy) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Efecto Mayiza](https://open.spotify.com/album/6PzDuYmeAGb7nQFTIvJsfn) | 2:14 | 2023-02-17 | 2023-02-25 |
 | [Efrain Gonzalez](https://open.spotify.com/track/1ymUGRONMimgkAHChI3Yja) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Las Favoritas De Los Viejos Vol\. 2](https://open.spotify.com/album/7mFWvgfAJnTIUIXPfQPVFW) | 3:38 | 2022-07-08 | 2022-07-16 |
 | [El 01](https://open.spotify.com/track/08ukQx2KTpm1OL0rxwBKBj) | [Ernesto Cota](https://open.spotify.com/artist/43TBniliwDn600EiuvJGuw), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El 01](https://open.spotify.com/album/2Y97juydngcQIL8Kz0x3yO) | 3:40 | 2022-11-04 | 2022-11-12 |
+| [El 04](https://open.spotify.com/track/5ggDIDpmh326uZwhAWnZWB) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El 04](https://open.spotify.com/album/12EJqgxGqKODs5mkDKouH8) | 3:18 | 2024-05-31 |  |
 | [El 08](https://open.spotify.com/track/70zzFjzX32eqHbpkd6qknb) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [El 08](https://open.spotify.com/album/1C2oX8XsbuZSr5ovOURbtG) | 3:03 | 2024-03-22 | 2024-03-30 |
 | [El 10 de Mayo \(En Vivo\)](https://open.spotify.com/track/3WEHES0IGtpjcVnC60V24X) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm) | [El Mes de Mayo \(En Vivo\)](https://open.spotify.com/album/2ljSb2GM16NRwiUGc2MKFj) | 2:33 | 2024-05-24 | 2024-06-01 |
 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 | 2024-05-24 | 2024-06-01 |

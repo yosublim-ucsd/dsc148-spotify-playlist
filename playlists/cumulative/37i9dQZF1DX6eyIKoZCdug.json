@@ -746,7 +746,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 224864,
       "name": "Dede",
       "url": "https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 351124,
       "name": "Thonga Lami - Gaudi Remix",
       "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
@@ -3922,6 +3922,28 @@
       "duration_ms": 322429,
       "name": "Udokotela",
       "url": "https://open.spotify.com/track/2hF8zj1pgjlzENfzqztU4b"
+    },
+    {
+      "album": {
+        "name": "Ukuphila",
+        "url": "https://open.spotify.com/album/4zmTPUF2YY0HU9o2aWyRJZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403204,
+      "name": "Ukuphila",
+      "url": "https://open.spotify.com/track/0ChwRPTttJg4CIrYPwyk4J"
     },
     {
       "album": {
@@ -4384,6 +4406,24 @@
       "duration_ms": 281364,
       "name": "Which is Which",
       "url": "https://open.spotify.com/track/7K91DUq99r3KisZTWfwP97"
+    },
+    {
+      "album": {
+        "name": "Who Is Who EP",
+        "url": "https://open.spotify.com/album/2TkCeXytmwUokT2B36W647"
+      },
+      "artists": [
+        {
+          "name": "Scrooge KmoA",
+          "url": "https://open.spotify.com/artist/0sdcx269gOfXjsb72XsV2B"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364441,
+      "name": "Who Is Who",
+      "url": "https://open.spotify.com/track/3NA3eYz195TPqIkrHZlzqU"
     },
     {
       "album": {

@@ -1,55 +1,15 @@
 {
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk?si=vG13OAToSjS0uck-599WaA\">Yanga Chief</a>",
-  "num_followers": 81740,
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz?si=LL8Ok8uCS9SMSeTMKBleBA\">Espiquet</a>",
+  "num_followers": 81807,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkpOQAAAAA6zfG/7+A6oUGsF7huL1TF",
+  "snapshot_id": "ZmI/cAAAAADlXiw0uAQprpWVY6pE+KQa",
   "tracks": [
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "Imvelaphi",
-        "url": "https://open.spotify.com/album/6Ey7WJyXa1YlzPw4DOV8lo"
-      },
-      "artists": [
-        {
-          "name": "Yanga Chief",
-          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
-        },
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Guluva (feat. Kwesta)",
-      "url": "https://open.spotify.com/track/0DXtoLvvPkIQu9CirJN4UE"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "BABY JACKSON",
-        "url": "https://open.spotify.com/album/4Hc4dP1qHW62OMcekMkPAp"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        }
-      ],
-      "duration_ms": 126942,
-      "name": "BABY JACKSON",
-      "url": "https://open.spotify.com/track/6Y7t0IzxHdPAIbEVssTW6V"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Kiki",
         "url": "https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9"
@@ -70,6 +30,10 @@
         {
           "name": "Flow Jones Jr.",
           "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Glody Kasongo",
+          "url": "https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i"
         }
       ],
       "duration_ms": 174731,
@@ -77,7 +41,51 @@
       "url": "https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "HARDER",
+        "url": "https://open.spotify.com/album/6J1NN1s0f1qHMGw8BMcj6H"
+      },
+      "artists": [
+        {
+          "name": "Espiquet",
+          "url": "https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz"
+        },
+        {
+          "name": "Benlay",
+          "url": "https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4"
+        },
+        {
+          "name": "HYPE1108",
+          "url": "https://open.spotify.com/artist/5immINU629aU0BHwmiRnnV"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "HARDER",
+      "url": "https://open.spotify.com/track/5uS1m3Jn78w6l6eQZq6ZSx"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Imvelaphi",
+        "url": "https://open.spotify.com/album/6Ey7WJyXa1YlzPw4DOV8lo"
+      },
+      "artists": [
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Guluva (feat. Kwesta)",
+      "url": "https://open.spotify.com/track/0DXtoLvvPkIQu9CirJN4UE"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "THANK GOD FOR THE SUN",
         "url": "https://open.spotify.com/album/2bsEx0B5XsrmBrQCx0DEue"
@@ -101,7 +109,7 @@
       "url": "https://open.spotify.com/track/0NMYAGETitlHa3Jo0LLJRu"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Cheque",
         "url": "https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr"
@@ -117,7 +125,43 @@
       "url": "https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Tell - A - Friend",
+        "url": "https://open.spotify.com/album/1VWs9zCwd2bc5Wjxmkwddi"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tell - A - Friend",
+      "url": "https://open.spotify.com/track/27zfVARnin6yqIicq7C2cA"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "BABY JACKSON",
+        "url": "https://open.spotify.com/album/4Hc4dP1qHW62OMcekMkPAp"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "duration_ms": 126942,
+      "name": "BABY JACKSON",
+      "url": "https://open.spotify.com/track/6Y7t0IzxHdPAIbEVssTW6V"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "What's The Qoh! (feat. Okmalumkoolkat)",
         "url": "https://open.spotify.com/album/6rDPbjzJpxOlFufLrgdSLL"
@@ -141,7 +185,27 @@
       "url": "https://open.spotify.com/track/2HG4fG4OyRLVnNMMvw4X9e"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Khumbula",
+        "url": "https://open.spotify.com/album/33klCEzOos3iL4aqMxv4sV"
+      },
+      "artists": [
+        {
+          "name": "Slim Ego",
+          "url": "https://open.spotify.com/artist/0rlp1RP8eTEd74FVmndZ47"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        }
+      ],
+      "duration_ms": 158020,
+      "name": "Khumbula",
+      "url": "https://open.spotify.com/track/2KHFOGvOICQylrjPHxqeGJ"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Isibuko (Deluxe)",
         "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
@@ -165,7 +229,27 @@
       "url": "https://open.spotify.com/track/4XuI5vJYWazWdUe6dec2Zf"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Life Isn't Fair",
+        "url": "https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1"
+      },
+      "artists": [
+        {
+          "name": "PatricKxxLee",
+          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
+        },
+        {
+          "name": "uSimamane",
+          "url": "https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Life Isn't Fair",
+      "url": "https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "VATELA",
         "url": "https://open.spotify.com/album/0IkItZca2QJEMgX2FAXxoe"
@@ -197,23 +281,23 @@
       "url": "https://open.spotify.com/track/7wUN20FK96Fu3nbvbUPVKl"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Burlesque",
-        "url": "https://open.spotify.com/album/52c22cwdGOfJhN0VsWfpzA"
+        "name": "Seams",
+        "url": "https://open.spotify.com/album/6whHGIqwgx1EAaIW46klh3"
       },
       "artists": [
         {
-          "name": "Ason",
-          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
         }
       ],
-      "duration_ms": 182005,
-      "name": "Burlesque",
-      "url": "https://open.spotify.com/track/1XjXdjZMUZkhMxV2YohsfW"
+      "duration_ms": 152105,
+      "name": "Seams",
+      "url": "https://open.spotify.com/track/4FbeVPzrurs677Tx1L3Rd2"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Di Tlo Ja Fats'e",
         "url": "https://open.spotify.com/album/6AMRcjLQu0BILn8nJjAiGC"
@@ -229,7 +313,7 @@
       "url": "https://open.spotify.com/track/1mai3wFhoIyLKHOEE18Hkg"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/2e05DnXVskws7fdHKL8Rzk"
@@ -245,7 +329,7 @@
       "url": "https://open.spotify.com/track/46hGl4NbQr1ZhLBSrOcmQx"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Car Crash (feat. Sizwe Alakine)",
         "url": "https://open.spotify.com/album/5nKKNdHNWSOwCT2nZ2nSyy"
@@ -265,7 +349,7 @@
       "url": "https://open.spotify.com/track/5rQBQ9ja4aFdOdgqM9m7gc"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Itching",
         "url": "https://open.spotify.com/album/5gNi9SlYTOt15MWLT4QjFM"
@@ -285,7 +369,7 @@
       "url": "https://open.spotify.com/track/3weI0fLWMRDb6coy9HflBS"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/3BMqo5cBcQ49eJh1b7zWoA"
@@ -305,7 +389,7 @@
       "url": "https://open.spotify.com/track/74tEosyCxNM64SenyBN06f"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Mo Strateng",
         "url": "https://open.spotify.com/album/5q82Ie1Ry6ZHv1nm8A0uw0"
@@ -325,7 +409,23 @@
       "url": "https://open.spotify.com/track/5wTPz2HImRPCSMCCepK0gB"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Burlesque",
+        "url": "https://open.spotify.com/album/52c22cwdGOfJhN0VsWfpzA"
+      },
+      "artists": [
+        {
+          "name": "Ason",
+          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
+        }
+      ],
+      "duration_ms": 182005,
+      "name": "Burlesque",
+      "url": "https://open.spotify.com/track/1XjXdjZMUZkhMxV2YohsfW"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "CELESTIAL BLUES 2",
         "url": "https://open.spotify.com/album/2QvH0gR4Mczx0kw6pZsGic"
@@ -345,7 +445,7 @@
       "url": "https://open.spotify.com/track/7GtnJtpBoOfbRw1AwBMx05"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "No More Discos",
         "url": "https://open.spotify.com/album/29CCIglajfMrsmv25zu8ZN"
@@ -365,7 +465,7 @@
       "url": "https://open.spotify.com/track/1CEOhntVCcqmouZq4vmeZ3"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Life Or Death",
         "url": "https://open.spotify.com/album/3QBossFHQwPxFj5SLbBypw"
@@ -381,7 +481,7 @@
       "url": "https://open.spotify.com/track/3S4xRlMwColjoVELvY172S"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "CHOM",
         "url": "https://open.spotify.com/album/6TTEGaxtetVzBfaPkh1UbW"
@@ -401,7 +501,7 @@
       "url": "https://open.spotify.com/track/6AhbstjFqrgTO196pZdElf"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Amalanga (feat. Anzo)",
         "url": "https://open.spotify.com/album/46TKYZNKng1jLSBarvKPm4"
@@ -421,7 +521,7 @@
       "url": "https://open.spotify.com/track/7tnq2E3TfEwXY2QegHfV2I"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/7oQNzhhHowIoFPcCerMzid"
@@ -437,7 +537,7 @@
       "url": "https://open.spotify.com/track/7Mcha392HDMej65tfaoSVM"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Ntja'ka",
         "url": "https://open.spotify.com/album/5dOXzra9baPyj14cP7JNwB"
@@ -461,7 +561,7 @@
       "url": "https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Separate the Rams",
         "url": "https://open.spotify.com/album/7drCT7zg78Bajn6GjMvVUd"
@@ -477,7 +577,7 @@
       "url": "https://open.spotify.com/track/5yBmeokqzmbawwhpgdWmBG"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "RED FLAG",
         "url": "https://open.spotify.com/album/6rVgedMkzPm7e8oCtgKYNJ"
@@ -493,7 +593,7 @@
       "url": "https://open.spotify.com/track/71Wnaxqwazv4KuSSY4tFxY"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "FTL CYPHER",
         "url": "https://open.spotify.com/album/3x3ZIfmQEVTxtdbdH4RgHd"
@@ -537,7 +637,7 @@
       "url": "https://open.spotify.com/track/4YMcQJEYTY7tNjH3DcKEs1"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/1c9u4ITfbSIWjOm5IXOQWw"
@@ -553,7 +653,7 @@
       "url": "https://open.spotify.com/track/2HSvi9twSuIEAOCIVMI88W"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Xa Ukhona (feat. Zuko SA)",
         "url": "https://open.spotify.com/album/6lYwDEZdYoHjLAGtR6r0QT"
@@ -573,35 +673,7 @@
       "url": "https://open.spotify.com/track/6GWTvyv2y4yRIkgSEvSWet"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "TRUE STORY (feat. BELO SALO, VegasXCesar & SCUMIE)",
-        "url": "https://open.spotify.com/album/1IvzeFUKIm6JROfJE1yFrV"
-      },
-      "artists": [
-        {
-          "name": "NOTBENJAMIN",
-          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
-        },
-        {
-          "name": "BELO SALO",
-          "url": "https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu"
-        },
-        {
-          "name": "VegasXCesar",
-          "url": "https://open.spotify.com/artist/2WWAFBZmTE2YEyVe7lpek4"
-        },
-        {
-          "name": "SCUMIE",
-          "url": "https://open.spotify.com/artist/1JK2kMThliIzpkGiFdDiX0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "TRUE STORY (feat. BELO SALO, VegasXCesar & SCUMIE)",
-      "url": "https://open.spotify.com/track/3QRoINPUFJAa90tp4ba0JY"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "CLUTCH BALANTSI (TIME IT)",
         "url": "https://open.spotify.com/album/1siqX0QA6eKffTmQyEFogH"
@@ -617,7 +689,7 @@
       "url": "https://open.spotify.com/track/7ET8R6aYPGU49Rvknyc3vT"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Majabajaba",
         "url": "https://open.spotify.com/album/2QHGsGrmwcwQMpvfWlvRdo"
@@ -637,35 +709,7 @@
       "url": "https://open.spotify.com/track/1JAK0Db556nfNnElO85yvo"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/04IMl4OvRndYKMee52DFFp"
-      },
-      "artists": [
-        {
-          "name": "SiphoMjita",
-          "url": "https://open.spotify.com/artist/1ayQ3pCAsxGc9TzRGMn3YL"
-        },
-        {
-          "name": "Blue Pappi",
-          "url": "https://open.spotify.com/artist/0j2GLFoYprLmIPZ1SZkJZt"
-        },
-        {
-          "name": "MhlonishwaNuz",
-          "url": "https://open.spotify.com/artist/7IiF3J7RgpYa2cIGRlb60j"
-        },
-        {
-          "name": "Master M",
-          "url": "https://open.spotify.com/artist/3Qd0YhX2npI1UFtTUKUlTC"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/0S9oITZcpAPcBnaqCvqIWj"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Capsule",
         "url": "https://open.spotify.com/album/04hJii6BcftBYaKhprbuwZ"
@@ -697,7 +741,27 @@
       "url": "https://open.spotify.com/track/3l2vDnl3SaPWOYHTHwVRmZ"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
+      },
+      "artists": [
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        },
+        {
+          "name": "Young OG CPT",
+          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "all faxx",
         "url": "https://open.spotify.com/album/1WFEItK2dxMAUTKpNaoEBW"
@@ -713,7 +777,7 @@
       "url": "https://open.spotify.com/track/432OxDuiDIxa0zPMxLAhrY"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "THE HEIST",
         "url": "https://open.spotify.com/album/4WX5zJBwQAvWqNFjjpkgh0"
@@ -733,27 +797,7 @@
       "url": "https://open.spotify.com/track/7pTBMsn72jgNhvpOCsJfST"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "Lahl Umlenze",
-        "url": "https://open.spotify.com/album/17z5c0VT5AYIWwCPzRmdRa"
-      },
-      "artists": [
-        {
-          "name": "Lolli Native",
-          "url": "https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0"
-        },
-        {
-          "name": "Huge Da Oracle",
-          "url": "https://open.spotify.com/artist/1Jgq6TY3wlkQq20BMNnpHd"
-        }
-      ],
-      "duration_ms": 227996,
-      "name": "Lahl Umlenze",
-      "url": "https://open.spotify.com/track/6cEnft9iGNvKFakziTud1x"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "worth it + stoners",
         "url": "https://open.spotify.com/album/3rTmgPoF2CqroawhmSIZDR"
@@ -773,23 +817,7 @@
       "url": "https://open.spotify.com/track/0YehiB9Jg7a4J2GH7BEtRy"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "H3LL, Pt. 5",
-        "url": "https://open.spotify.com/album/0ZpOwBo1PqSkVVQckb2Ex1"
-      },
-      "artists": [
-        {
-          "name": "Demxn",
-          "url": "https://open.spotify.com/artist/6keNtoOUkPsKYxkPLX1sIV"
-        }
-      ],
-      "duration_ms": 93333,
-      "name": "FALLEN ANGEL",
-      "url": "https://open.spotify.com/track/3jmtqx0RMsxr2dctDPXeQH"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Fresh Prince of Rustenburg 2",
         "url": "https://open.spotify.com/album/2CC9cHv0sDGX9aRpCWHLjd"
@@ -813,7 +841,7 @@
       "url": "https://open.spotify.com/track/3Vr7tXmO2Ql8tejMyONEkf"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Free Agent",
         "url": "https://open.spotify.com/album/601Rdc8jYoYstf8pYg0AtD"
@@ -829,7 +857,7 @@
       "url": "https://open.spotify.com/track/3swfZe0IBq5O3xACN5aK6q"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "A Good Day In January",
         "url": "https://open.spotify.com/album/6cSp9n4YNfEjQqI16BY0JC"
@@ -849,7 +877,7 @@
       "url": "https://open.spotify.com/track/1xfNaYLaPfZcq9HXp5Phsu"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Another Day Another Dollar (Tholi Mali)",
         "url": "https://open.spotify.com/album/02nZwLlvvn6RvuSlvbcW5W"
@@ -865,39 +893,7 @@
       "url": "https://open.spotify.com/track/3gfSLbTXJENmq8uRlr64Fu"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "Altar Call",
-        "url": "https://open.spotify.com/album/4UJr6pOM8RrUVqsnWXyNL0"
-      },
-      "artists": [
-        {
-          "name": "S'BO Gyre",
-          "url": "https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM"
-        },
-        {
-          "name": "Cheryl Zondi",
-          "url": "https://open.spotify.com/artist/44JQqdjRejG0jwEFDmH0U3"
-        },
-        {
-          "name": "Tim Welsh",
-          "url": "https://open.spotify.com/artist/2khMi8gAvVqCwoV6yqYKqB"
-        },
-        {
-          "name": "Auddio Addicts",
-          "url": "https://open.spotify.com/artist/4VM2XvD65t8YM5mJ2Wa8Zy"
-        },
-        {
-          "name": "LTO",
-          "url": "https://open.spotify.com/artist/3qYBtbmNfQZGjqtty0WvZ1"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/6oNAJPsHAmMClZHwN74DrA"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "SHEIN CART",
         "url": "https://open.spotify.com/album/0cn3g9n6qHTBOIaHhtqSZP"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/5R6MkBRdft42dviKDaOatn"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Lick Back (Uh Huh Uh Huh)",
         "url": "https://open.spotify.com/album/7CfuEGvBY9Hgpiz1xhrInO"
@@ -945,7 +941,7 @@
       "url": "https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "THAT'S WASSUP (feat. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.)",
         "url": "https://open.spotify.com/album/2UbdeleCG2ygETKWANvkOH"
@@ -977,27 +973,7 @@
       "url": "https://open.spotify.com/track/320Y857NSRG3QtS9ggTG8E"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "All The Way / Bizarre",
-        "url": "https://open.spotify.com/album/2hhP1KXUIcu5zt6wEDSi9R"
-      },
-      "artists": [
-        {
-          "name": "GiddyGang",
-          "url": "https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q"
-        },
-        {
-          "name": "Vuyo",
-          "url": "https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/4ijh3sciORErcse7mAkCYT"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "SIKE",
         "url": "https://open.spotify.com/album/2WzSAfkDKxsrwd57ywBtj4"
@@ -1017,7 +993,7 @@
       "url": "https://open.spotify.com/track/1MaUv4mvshAe1euJs31TFh"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "PEOPLE FORGET TO BE PEOPLE (Deluxe)",
         "url": "https://open.spotify.com/album/4ThKlVCBUqAFU2ojb5VdH0"
@@ -1037,23 +1013,7 @@
       "url": "https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/3TUlvIylVs6ZIVAiB1nvSe"
-      },
-      "artists": [
-        {
-          "name": "Hanna",
-          "url": "https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/00uAA4zq3d6sr4aC8AodXK"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/1a1UUMwJ6IafQNQo9I7qDB"
@@ -1069,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Say It To Yourself",
         "url": "https://open.spotify.com/album/3p4IiDJBZ8Trs09m0kMJXC"
@@ -1085,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5XJYqaSOlo3kkIBcuVdzNo"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "JOL",
         "url": "https://open.spotify.com/album/1kZuCSGraucivkhq4ysS3I"
@@ -1105,39 +1065,7 @@
       "url": "https://open.spotify.com/track/7od6sLFwR6UAF0KT2innnS"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "HERMOSA",
-        "url": "https://open.spotify.com/album/0CXl1YrSnutN5vGvBf6Vrw"
-      },
-      "artists": [
-        {
-          "name": "Ason",
-          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
-        }
-      ],
-      "duration_ms": 108225,
-      "name": "HERMOSA",
-      "url": "https://open.spotify.com/track/2rngTjD3TltOi0Yoz9ZcEI"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "Mbali Yam",
-        "url": "https://open.spotify.com/album/3bJ5X2vg7ndaYTHtEI0HBE"
-      },
-      "artists": [
-        {
-          "name": "Yanga Chief",
-          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
-        }
-      ],
-      "duration_ms": 302200,
-      "name": "Mbali Yam",
-      "url": "https://open.spotify.com/track/5fWiKYLQw6EOC6TufyBNkU"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "HONNE",
         "url": "https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX"
@@ -1165,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "iFilimu",
         "url": "https://open.spotify.com/album/4ov7gMLaWaQP9iw5qHnFPU"
@@ -1185,27 +1113,7 @@
       "url": "https://open.spotify.com/track/2XJJe5RxR3Fq1gNjTXfPzI"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
-      "album": {
-        "name": "Ntwana Whateva",
-        "url": "https://open.spotify.com/album/1hXFN5HvtQEU1eP1InBBiN"
-      },
-      "artists": [
-        {
-          "name": "Breeze Zulu Bass King",
-          "url": "https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q"
-        },
-        {
-          "name": "808RSA",
-          "url": "https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Ntwana Whateva",
-      "url": "https://open.spotify.com/track/61VUTkpTNINznrTYbOGKZO"
-    },
-    {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "No Sense",
         "url": "https://open.spotify.com/album/3zFIVUvye9UkNY7KCq4tNM"
@@ -1225,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3rjJiFBIlhh19FbfrQ0Vf6"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "FUBU",
         "url": "https://open.spotify.com/album/3uA2FoSILtFJwkGd7hmeE0"
@@ -1249,7 +1157,7 @@
       "url": "https://open.spotify.com/track/6UzxZPM9qn5w1ImDRtTAlJ"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "YOU KNOW THE DRILL",
         "url": "https://open.spotify.com/album/0Sy4e6u2MN8w06xF0U80sh"
@@ -1269,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Funa Nton (feat. Tony Dayimane, uSimamane)",
         "url": "https://open.spotify.com/album/3a48QnAkt7xv2NBx3UZoD8"
@@ -1293,7 +1201,7 @@
       "url": "https://open.spotify.com/track/61KlbFAMXYyKhNFfl3Y4ch"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/3OvhnK2dfQHxgxUfBtQq0j"
@@ -1309,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5vvQUP25ZGBryDTA1Xl8Ul"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "MIDST",
         "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
@@ -1325,7 +1233,7 @@
       "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD"
@@ -1345,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9"
     },
     {
-      "added_at": "2024-05-31 01:34:49",
+      "added_at": "2024-06-06 23:00:00",
       "album": {
         "name": "Back Into It",
         "url": "https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT"

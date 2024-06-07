@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Selfi Yamma
 
-175 songs - 13 hr 38 min
+176 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Menggapai Cinta](https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO) | [Putri Isnari](https://open.spotify.com/artist/0OnSSg1BbWcHmKtDfBpjE1) | [Menggapai Cinta](https://open.spotify.com/album/18rTICWmL8FhSeB8XMKHXa) | 5:30 | 2023-12-14 |  |
 | [Menyerah](https://open.spotify.com/track/17QG2cIIyiUk3938GRLRTq) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB), [Mom Uung](https://open.spotify.com/artist/5w0tU4gg00N5ODpshCHz6c), [Rizky Billar](https://open.spotify.com/artist/1QHSgB3sQ7xd1Cbs3yPU16) | [Menyerah](https://open.spotify.com/album/0zA93D842xuF7GCUitx0i6) | 4:28 | 2023-12-21 |  |
 | [Meraih Impian](https://open.spotify.com/track/0Cg4RdstxbC0l265xzKRLU) | [Warda](https://open.spotify.com/artist/13VpyoFwcfTMN0wLMMshRw) | [Meraih Impian](https://open.spotify.com/album/2CkCEt6jf0yPavwwFH5aAY) | 4:13 | 2024-03-28 |  |
+| [Merayu \- Live](https://open.spotify.com/track/50fiMmuMbK6NacXfcxQ1yB) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Merayu \(Live\)](https://open.spotify.com/album/7CDKnC3gJuKaiiMYL5v1du) | 4:36 | 2024-06-06 |  |
 | [Midua Cinta 2](https://open.spotify.com/track/0KdIzVC1n2MWuPDeKO18Wy) | [Sule](https://open.spotify.com/artist/2RidxHO6bjbB1wwZRrXAmI) | [Midua Cinta 2](https://open.spotify.com/album/0XBrWExffE5qF8PM66ATkn) | 3:39 | 2023-06-15 |  |
 | [Milik Orang](https://open.spotify.com/track/0dWWC789aUr6pP3wjcKrn7) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Milik Orang](https://open.spotify.com/album/5AWojPeB0TaNQxevK7qAZE) | 4:34 | 2021-08-23 | 2022-11-13 |
 | [Milik Orang](https://open.spotify.com/track/3ZYBj5Dt4gfDA5BdjJep2R) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [DANGDUT TERBAIK HAPPY ASMARA](https://open.spotify.com/album/1Jo6c8Zuw6FUvuHyREYTFG) | 4:34 | 2022-10-13 | 2024-02-16 |

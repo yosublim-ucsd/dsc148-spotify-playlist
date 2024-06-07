@@ -1,6 +1,6 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9 cover: Sabrina Carpenter",
-  "num_followers": 839523,
+  "num_followers": 839535,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
-        "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
-        "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
-      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
-    },
-    {
-      "added_at": "2024-04-14 20:52:51",
-      "album": {
         "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
         "url": "https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 154599,
       "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
       "url": "https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1"
+    },
+    {
+      "added_at": "2024-04-14 20:52:51",
+      "album": {
+        "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
+        "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
+      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
     },
     {
       "added_at": "2024-04-14 20:52:51",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
-        "name": "glow worms",
-        "url": "https://open.spotify.com/album/73WH6rOigOwshc88l9Hm83"
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
       "artists": [
         {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        },
-        {
-          "name": "Naveih",
-          "url": "https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 115215,
-      "name": "glow worms",
-      "url": "https://open.spotify.com/track/3JG9JpvaYjmq0i17qnu8y4"
+      "duration_ms": 174680,
+      "name": "Comfort Crowd",
+      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
     },
     {
       "added_at": "2024-04-14 20:52:51",
@@ -1251,18 +1247,22 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+        "name": "glow worms",
+        "url": "https://open.spotify.com/album/73WH6rOigOwshc88l9Hm83"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        },
+        {
+          "name": "Naveih",
+          "url": "https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Comfort Crowd",
-      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
+      "duration_ms": 115215,
+      "name": "glow worms",
+      "url": "https://open.spotify.com/track/3JG9JpvaYjmq0i17qnu8y4"
     }
   ],
   "unique_name": "aesthetic",

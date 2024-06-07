@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: QUIQUE",
+  "description": "De nieuwste Nederlandse pop! Cover: Jasha Rudge",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Duizenden Liedjes",
+        "url": "https://open.spotify.com/album/1bSK2iRbbItUOeUAXpxx92"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186197,
+      "name": "Duizenden Liedjes",
+      "url": "https://open.spotify.com/track/5LswOlrraI1zmCIposmytK"
+    },
+    {
+      "album": {
         "name": "Echt Verliefd Zijn",
         "url": "https://open.spotify.com/album/1TC2yKrKlrhmNV0BOguMfH"
       },
@@ -3616,6 +3634,24 @@
       "duration_ms": 182500,
       "name": "Geen Afscheid",
       "url": "https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr"
+    },
+    {
+      "album": {
+        "name": "Geen Manieren",
+        "url": "https://open.spotify.com/album/5tKWwsmBHRwyd4BsOmRUry"
+      },
+      "artists": [
+        {
+          "name": "Faske",
+          "url": "https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191956,
+      "name": "Geen Manieren",
+      "url": "https://open.spotify.com/track/2ja2I9NnS2ujZ4woWMgJI1"
     },
     {
       "album": {
@@ -5814,7 +5850,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 207202,
       "name": "Laat Me Nooit Meer Los (Never Let Me Go)",
       "url": "https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake"
@@ -6626,6 +6662,28 @@
       "duration_ms": 167684,
       "name": "Meteoriet",
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
+    },
+    {
+      "album": {
+        "name": "Metronoom",
+        "url": "https://open.spotify.com/album/2e0CEHEOyn9wcYw8xkSOQ3"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "Metronoom",
+      "url": "https://open.spotify.com/track/3W5Oaik0KYTd4xc2VLxSO7"
     },
     {
       "album": {
@@ -8164,6 +8222,24 @@
       "duration_ms": 196000,
       "name": "Rommel",
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
+    },
+    {
+      "album": {
+        "name": "Rondje Van De Zaak",
+        "url": "https://open.spotify.com/album/4dOEZOMOfq4IRYynXgqjgp"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "Rondje Van De Zaak",
+      "url": "https://open.spotify.com/track/2PzhvCnYQGu4a70yeDSepT"
     },
     {
       "album": {
@@ -10357,6 +10433,24 @@
     },
     {
       "album": {
+        "name": "Waar ben je?",
+        "url": "https://open.spotify.com/album/2ao9SVV6eo4fdgjNJfNj6t"
+      },
+      "artists": [
+        {
+          "name": "Sem van Dijk",
+          "url": "https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Waar ben je?",
+      "url": "https://open.spotify.com/track/0wZ25uWXbeZGicz6Wf77Jf"
+    },
+    {
+      "album": {
         "name": "Tegendraads",
         "url": "https://open.spotify.com/album/7k2fnz81WU5IPPNqkqNORj"
       },
@@ -10568,6 +10662,24 @@
       "duration_ms": 156320,
       "name": "Wat Doe Je Nou",
       "url": "https://open.spotify.com/track/2U1cBksfUvDB5YoVj0gdms"
+    },
+    {
+      "album": {
+        "name": "Wat Er Ook Gebeurt",
+        "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188614,
+      "name": "Wat Er Ook Gebeurt",
+      "url": "https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF"
     },
     {
       "album": {

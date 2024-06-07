@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Mik L x Nesly",
+  "description": "Les hits zouk du moment. Photo : Aya Nakamura",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 180000,
       "name": "ANTANANARIVO",
       "url": "https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm"
@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "POISON",
+        "url": "https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG"
+      },
+      "artists": [
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189391,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/22nGLFY5Ak7DYjCoIAYl2V"
+    },
+    {
+      "album": {
         "name": "LOUD",
         "url": "https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 192989,
       "name": "Madame",
       "url": "https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47"
@@ -1586,6 +1604,28 @@
       "duration_ms": 227368,
       "name": "Pa Nowmal",
       "url": "https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu"
+    },
+    {
+      "album": {
+        "name": "Padon\u00e9\u00b4m",
+        "url": "https://open.spotify.com/album/6VumwiygGh99yBroZW1C6R"
+      },
+      "artists": [
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        },
+        {
+          "name": "DJ ZOXY",
+          "url": "https://open.spotify.com/artist/5b6w6ijGuL3InHAhilZ87E"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Padon\u00e9\u00b4m",
+      "url": "https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ"
     },
     {
       "album": {
@@ -2166,7 +2206,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 213600,
       "name": "Tout \u00e7a",
       "url": "https://open.spotify.com/track/3FpcnvaYqXB9QgvvoY76Ib"
@@ -2356,6 +2396,28 @@
       "duration_ms": 201393,
       "name": "Vini",
       "url": "https://open.spotify.com/track/2lTGtcexmJIqIFlhzTg4Pv"
+    },
+    {
+      "album": {
+        "name": "BBW (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX"
+      },
+      "artists": [
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        },
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "VIR\u00c9 FEY",
+      "url": "https://open.spotify.com/track/3HntoALO84z82ZIF3vJwHl"
     },
     {
       "album": {

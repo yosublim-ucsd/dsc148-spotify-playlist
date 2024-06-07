@@ -774,7 +774,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 202204,
       "name": "Be with You - Radio Edit",
       "url": "https://open.spotify.com/track/0DqwFLo68dQ8HsjFFrdPiF"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 145250,
       "name": "Get Me High",
       "url": "https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6"
@@ -3078,6 +3078,28 @@
       "duration_ms": 265231,
       "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
+    },
+    {
+      "album": {
+        "name": "Heartache",
+        "url": "https://open.spotify.com/album/6OUzAeknJC5vcHQ6A6aZfM"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/2P5If5ohWf4NC1nhRNwOdP"
     },
     {
       "album": {
@@ -6930,6 +6952,24 @@
       "duration_ms": 204375,
       "name": "Shed My Skin - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/0wUF06v3UukgpxMQxti6cA"
+    },
+    {
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "album": {

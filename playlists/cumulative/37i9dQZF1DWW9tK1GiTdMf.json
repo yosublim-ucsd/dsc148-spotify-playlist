@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Musica da gridare. Sxrrxwland in cover con il nuovo album anima macchina.",
-  "name": "sanguegiovane",
+  "description": "Musica da gridare \ud83d\udda4 NASKA in cover.",
+  "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 126193,
       "name": "(Bi)sogno",
       "url": "https://open.spotify.com/track/38imCWBw4ljDG5zLRSuJQY"
@@ -452,6 +452,24 @@
       "duration_ms": 154682,
       "name": "5 Weekend",
       "url": "https://open.spotify.com/track/708WzykUcMyN06gEP4TngG"
+    },
+    {
+      "album": {
+        "name": "SILEGGEACCASO",
+        "url": "https://open.spotify.com/album/0tFGtywloAwhxhE4QVirWX"
+      },
+      "artists": [
+        {
+          "name": "hso",
+          "url": "https://open.spotify.com/artist/2Jqn0PKbcKi3q8TSsvyeKc"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140254,
+      "name": "6 1 STRONZO",
+      "url": "https://open.spotify.com/track/3PbRv6bBuHSCsk972hcHQv"
     },
     {
       "album": {
@@ -1359,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Anche gli angeli vengono",
+        "url": "https://open.spotify.com/album/2yi47FO9hRkX4X2zYvX3cM"
+      },
+      "artists": [
+        {
+          "name": "Camilla PNK",
+          "url": "https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153543,
+      "name": "Anche gli angeli vengono",
+      "url": "https://open.spotify.com/track/4VW7eQLWddxXkVc0AJaaek"
+    },
+    {
+      "album": {
         "name": "Anche se fa male",
         "url": "https://open.spotify.com/album/7ffTACBFs9ZZtAdi9e3umU"
       },
@@ -2001,6 +2037,28 @@
     },
     {
       "album": {
+        "name": "BAD MOOD",
+        "url": "https://open.spotify.com/album/2IRdvbkfv7mYJcVYuK6Zgm"
+      },
+      "artists": [
+        {
+          "name": "Frasca",
+          "url": "https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ"
+        },
+        {
+          "name": "gothskyler",
+          "url": "https://open.spotify.com/artist/5Icn4IrF6ZRh3SOshHAsJx"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "BAD MOOD",
+      "url": "https://open.spotify.com/track/5ush1W9PbAhCaW9TZIjzun"
+    },
+    {
+      "album": {
         "name": "Baggen",
         "url": "https://open.spotify.com/album/72eKrH7WXEhT2sQeNdYE1W"
       },
@@ -2552,7 +2610,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 138293,
       "name": "BREAK!",
       "url": "https://open.spotify.com/track/4lhx8FXIMjolXxw5ujqSd6"
@@ -3860,7 +3918,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 192000,
       "name": "CONTROMANO",
       "url": "https://open.spotify.com/track/7HJJTFPgHyai0jmwHEayMI"
@@ -4056,6 +4114,24 @@
       "duration_ms": 170909,
       "name": "Cose mie",
       "url": "https://open.spotify.com/track/2F7ztT5LyCYKKtPmrSPAV1"
+    },
+    {
+      "album": {
+        "name": "COS\u00cc NON VA (soppalco)",
+        "url": "https://open.spotify.com/album/2H7gfyChEP0dFmqgEtF6Cc"
+      },
+      "artists": [
+        {
+          "name": "COLLETTIVO",
+          "url": "https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164368,
+      "name": "COS\u00cc NON VA (soppalco)",
+      "url": "https://open.spotify.com/track/01XXlIzKyljHcsIatmA0J4"
     },
     {
       "album": {
@@ -4682,7 +4758,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 169642,
       "name": "Decisioni Sbagliate",
       "url": "https://open.spotify.com/track/2WnSK9tpVfiGhkQtAl8I4f"
@@ -4990,6 +5066,36 @@
       "duration_ms": 179818,
       "name": "dimora perfetta",
       "url": "https://open.spotify.com/track/1OemJTmnCkmIU3t8SRM81V"
+    },
+    {
+      "album": {
+        "name": "Direzione",
+        "url": "https://open.spotify.com/album/2jkwXKCLY6ZayH2a1oefMJ"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        },
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Direzione",
+      "url": "https://open.spotify.com/track/2yY2f96pbWZRctIVtHFaMl"
     },
     {
       "album": {
@@ -6512,7 +6618,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -10577,6 +10683,24 @@
     },
     {
       "album": {
+        "name": "MALISSIMO",
+        "url": "https://open.spotify.com/album/5xijJma40ybRKwzhCxROqn"
+      },
+      "artists": [
+        {
+          "name": "Wenzo",
+          "url": "https://open.spotify.com/artist/3nZjHRpNZSd3UoqJ7ELysU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "MALISSIMO",
+      "url": "https://open.spotify.com/track/5ynZC9Df6ThIdxQ3JULcqO"
+    },
+    {
+      "album": {
         "name": "Mani sul viso",
         "url": "https://open.spotify.com/album/1oV1JSsAIkhGSfJkTPcoBa"
       },
@@ -10844,7 +10968,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 156807,
       "name": "MEMORIA (Feat. bnkr44)",
       "url": "https://open.spotify.com/track/2Ey2SncqdHRkpVmoStBqj9"
@@ -11120,6 +11244,24 @@
       "duration_ms": 134543,
       "name": "Mondo Cane",
       "url": "https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK"
+    },
+    {
+      "album": {
+        "name": "MONDO CONVENIENZA",
+        "url": "https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159767,
+      "name": "MONDO CONVENIENZA",
+      "url": "https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq"
     },
     {
       "album": {
@@ -16654,7 +16796,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 139157,
       "name": "strappami la pelle a morsi",
       "url": "https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9"
@@ -17825,6 +17967,24 @@
     },
     {
       "album": {
+        "name": "tt ok",
+        "url": "https://open.spotify.com/album/0QKkoDaj88IerPtWlAbsoF"
+      },
+      "artists": [
+        {
+          "name": "Saphe",
+          "url": "https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "tt ok",
+      "url": "https://open.spotify.com/track/1ntCSSTtth70lJMh37pRw3"
+    },
+    {
+      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/4EEAV92EzAKWduyIKWyVMb"
       },
@@ -18934,10 +19094,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 164814,
       "name": "VOGLIO PIANGERE PER SEMPRE",
       "url": "https://open.spotify.com/track/45Blml5XLbGlBcaR2ToFiP"
+    },
+    {
+      "album": {
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/37geiJafmkoFNcNfldwtl9"
+      },
+      "artists": [
+        {
+          "name": "Marco444",
+          "url": "https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165105,
+      "name": "Voragine",
+      "url": "https://open.spotify.com/track/77TJsvTfclMUmqZ6b2uNJO"
     },
     {
       "album": {
@@ -19094,7 +19272,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 177200,
       "name": "Wandervogel",
       "url": "https://open.spotify.com/track/3eMGmtjbJhJR3Fy1zMpuge"
@@ -19290,7 +19468,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 166466,
       "name": "WOW (feat. Troyamaki & Bedini)",
       "url": "https://open.spotify.com/track/4CaQm9FxPolY4eJGKpp1s3"

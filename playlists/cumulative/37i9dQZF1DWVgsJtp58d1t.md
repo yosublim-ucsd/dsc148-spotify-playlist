@@ -4,7 +4,7 @@
 
 > New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:4ClziihVpBeFXNyDH83Lde">Umi<br/></a>, Shot By: <a href="https://www.instagram.com/cloudnai/">Nailah Howze <br/></a>
 
-3,298 songs - 6 day 21 hr 50 min
+3,299 songs - 6 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1410,6 +1410,7 @@
 | [i remember you my ex](https://open.spotify.com/track/4dGH4YFWf1qq4LcwG37yRH) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [i remember you my ex](https://open.spotify.com/album/2uDubx9Dj7Pp2Y7Exa7qDa) | 3:01 | 2023-03-03 | 2023-03-25 |
 | [I See Walking Caskets](https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [I See Walking Caskets](https://open.spotify.com/album/1vvaWC0ov1lC4jwNTJJm99) | 2:01 | 2023-03-10 | 2023-03-25 |
 | [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 | 2023-04-14 | 2023-04-29 |
+| [I Still Know Better](https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [I Still Know Better](https://open.spotify.com/album/2iFBx2KH4xuCnNUtVJ2cx0) | 3:22 | 2024-06-05 |  |
 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 | 2022-11-04 | 2022-11-26 |
 | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/album/1llYHboVMsUMORLIq5CssO) | 2:22 | 2022-08-05 | 2022-08-27 |
 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-26 | 2022-09-17 |

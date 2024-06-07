@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 172458,
       "name": "Be around",
       "url": "https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 208461,
       "name": "favourite jeans",
       "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 199964,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo"
@@ -612,6 +612,32 @@
       "duration_ms": 170819,
       "name": "i hate u owe me $$",
       "url": "https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU"
+    },
+    {
+      "album": {
+        "name": "Human Heart",
+        "url": "https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij"
+      },
+      "artists": [
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        },
+        {
+          "name": "Kymza",
+          "url": "https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB"
+        },
+        {
+          "name": "nardey",
+          "url": "https://open.spotify.com/artist/7tHQPahicLUO5EdLyo5V28"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145410,
+      "name": "I kinda feel like going home",
+      "url": "https://open.spotify.com/track/1WA1STD9PGm3lOq6SwKVa4"
     },
     {
       "album": {
@@ -1022,7 +1048,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 175009,
       "name": "Not too close",
       "url": "https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR"
@@ -1312,7 +1338,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 201920,
       "name": "Strawberry Icecream",
       "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
@@ -2271,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "\u5343\u5e74\u5982\u4e00\u65e5 (\u96fb\u8996\u5287\u300c\u53e0\u5f71\u72d9\u64ca\u300d\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5NyuMTWEGkPBMz4xyEw2xu"
+      },
+      "artists": [
+        {
+          "name": "Feanna Wong",
+          "url": "https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220581,
+      "name": "\u5343\u5e74\u5982\u4e00\u65e5 (\u96fb\u8996\u5287\u300c\u53e0\u5f71\u72d9\u64ca\u300d\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/5RBFwJdHdlQ11F9bxdvjxF"
+    },
+    {
+      "album": {
         "name": "\u5370\u8c61",
         "url": "https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm"
       },
@@ -2336,7 +2380,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 267349,
       "name": "\u53ef\u60dc\u4f60\u662f\u500b\u4eba",
       "url": "https://open.spotify.com/track/4Bfgdsd4wlypz9B12zuNay"
@@ -2412,6 +2456,24 @@
       "duration_ms": 297237,
       "name": "\u544a\u5225\u5f0f",
       "url": "https://open.spotify.com/track/4fxdfsuH7iUDixsF3IO8PA"
+    },
+    {
+      "album": {
+        "name": "\u544a\u5225\u7164\u6c23\u71c8",
+        "url": "https://open.spotify.com/album/5Y5fvA5iggOCDrietR4FAP"
+      },
+      "artists": [
+        {
+          "name": "Gin Lee",
+          "url": "https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208383,
+      "name": "\u544a\u5225\u7164\u6c23\u71c8",
+      "url": "https://open.spotify.com/track/7xKi5V6OhMwBz5KsBZZ3Tg"
     },
     {
       "album": {
@@ -2865,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "\u5df2\u522a\u9664\u7684\u6642\u9593\u7dda (\u96fb\u8996\u5287\u300c\u5bb6\u65cf\u69ae\u8000\u4e4b\u7e7c\u627f\u8005\u300d\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/6IUuElV1sctU8hirdTyieP"
+      },
+      "artists": [
+        {
+          "name": "Feanna Wong",
+          "url": "https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "\u5df2\u522a\u9664\u7684\u6642\u9593\u7dda (\u96fb\u8996\u5287\u300c\u5bb6\u65cf\u69ae\u8000\u4e4b\u7e7c\u627f\u8005\u300d\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/5ZqIDd1adGJHhILcPXeE6Y"
+    },
+    {
+      "album": {
         "name": "\u5e7b\u611b",
         "url": "https://open.spotify.com/album/7KEkWyboM6KB8E1Amq5CX1"
       },
@@ -2894,7 +2974,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 220216,
       "name": "\u5f8c\u4eba\u985e\u7684\u7f8e\u9e97\u8207\u54c0\u6101",
       "url": "https://open.spotify.com/track/0xBCMoVEaOfrCqM0bHwPek"
@@ -3639,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "\u6709\u4e9b\u8a71\u8981\u7528\u82f1\u6587\u8aaa",
+        "url": "https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190264,
+      "name": "\u6709\u4e9b\u8a71\u8981\u7528\u82f1\u6587\u8aaa",
+      "url": "https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4"
+    },
+    {
+      "album": {
         "name": "\u6709\u6548\u627f\u8afe",
         "url": "https://open.spotify.com/album/61VT2iErazRvdepgOuM3B3"
       },
@@ -3866,7 +3964,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 214524,
       "name": "\u6b67\u7fa9\u7a2e\u5b50",
       "url": "https://open.spotify.com/track/6v6LW9PslX7RiXoaBfAduq"
@@ -4485,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232839,
+      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
+    },
+    {
+      "album": {
         "name": "\u834a\u68d8\u6d77(\u4e09\u751f\u77f3\u7248)",
         "url": "https://open.spotify.com/album/3f6891HPS0e44ouJGTyaoA"
       },
@@ -4611,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "\u8a0e\u597d\u5f0f\u6200\u611b",
+        "url": "https://open.spotify.com/album/12YLTrOgEHGysZIYb5bpvl"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "\u8a0e\u597d\u5f0f\u6200\u611b",
+      "url": "https://open.spotify.com/track/5bqnlcRLN5IudbbFbYfIWz"
+    },
+    {
+      "album": {
         "name": "\u8ab0\u7684\u9752\u6625\u4e0d\u8ff7\u60d8",
         "url": "https://open.spotify.com/album/0QhSdns2Vy3iX6LWtUdNLD"
       },
@@ -4662,6 +4796,24 @@
       "duration_ms": 226428,
       "name": "\u8c93\u4e4b\u5831\u6069",
       "url": "https://open.spotify.com/track/2lpWeRLGEIX0wpuNoByT0F"
+    },
+    {
+      "album": {
+        "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+        "url": "https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235251,
+      "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+      "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
     },
     {
       "album": {

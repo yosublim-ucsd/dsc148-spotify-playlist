@@ -11087,6 +11087,24 @@
     },
     {
       "album": {
+        "name": "Muchie",
+        "url": "https://open.spotify.com/album/7hLXA66dogEQjDk8vh2HbH"
+      },
+      "artists": [
+        {
+          "name": "Dennis Sheperd",
+          "url": "https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Muchie",
+      "url": "https://open.spotify.com/track/2tR8Y2fuzjLYmWWjKAgS6W"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr"
       },
@@ -13167,6 +13185,24 @@
     },
     {
       "album": {
+        "name": "Rabagast",
+        "url": "https://open.spotify.com/album/1bpL5DxTcSoi6ZWVsd5x1N"
+      },
+      "artists": [
+        {
+          "name": "The Blizzard",
+          "url": "https://open.spotify.com/artist/40lHcSYwAqhkmBPoViitWP"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197057,
+      "name": "Rabagast",
+      "url": "https://open.spotify.com/track/4TtvwtNYXacy89l5p41NKK"
+    },
+    {
+      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41"
       },
@@ -13464,7 +13500,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 200597,
       "name": "Reflected",
       "url": "https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ"
@@ -16112,7 +16148,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 205821,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2WJGWrVwAbpXCF5ba4fIfD"

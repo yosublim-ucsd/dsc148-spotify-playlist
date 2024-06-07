@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Gursheet Khanuja, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,863 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,888 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 5 | [Tu Aaram Hai](https://open.spotify.com/track/7b35mI8DSE2AFlANWLsuvU) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Tu Aaram Hai](https://open.spotify.com/album/1UzpGeHnJyo7QsQ9zf2sPN) | 3:43 |
 | 6 | [Kahin Dur](https://open.spotify.com/track/1SwadHyQuJDSFC7lzXMRgQ) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Paras Khanna](https://open.spotify.com/artist/1SKQs2x7XWosJF1rKIlopK), [Elijah Peter](https://open.spotify.com/artist/65HvFCMJKvfBtnIPGh3VrN) | [Kahin Dur](https://open.spotify.com/album/5ajZ4bJUAnOnQTtuFO5RAn) | 3:48 |
 | 7 | [Ishq](https://open.spotify.com/track/0xsTJO7pAHMasq7sALhpws) | [Surojit Kotian](https://open.spotify.com/artist/0hQ7xZRPyJURwx9IWsHNY7) | [Ishq](https://open.spotify.com/album/6lg1kbNsYxqNph9KWAr5At) | 1:37 |
-| 8 | [Tu Rehti Hai Kahan](https://open.spotify.com/track/2egNrqlSfVqZWAqbCt041t) | [Jayant Sharma](https://open.spotify.com/artist/3OSrXBm2VBqMLPrFtTjlfX) | [Tu Rehti Hai Kahan](https://open.spotify.com/album/0BH2MabqjEYNkT1vNXeldm) | 2:23 |
+| 8 | [Tu Rehti Hai Kahan](https://open.spotify.com/track/2egNrqlSfVqZWAqbCt041t) | [Jayant Sharma](https://open.spotify.com/artist/3OSrXBm2VBqMLPrFtTjlfX), [Pradhumn Rajput](https://open.spotify.com/artist/2INevekE5kePA1zEWUXuih) | [Tu Rehti Hai Kahan](https://open.spotify.com/album/0BH2MabqjEYNkT1vNXeldm) | 2:23 |
 | 9 | [Ghir Ghir Aayi](https://open.spotify.com/track/1kmabZtXNXA7YjcYnQlSTO) | [Sanghamitra Sarkar](https://open.spotify.com/artist/1z0k0hbPwz1UCBfaksTRVK), [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j) | [Ghir Ghir Aayi](https://open.spotify.com/album/0VanDD41bdmpbVQ45Q9c3L) | 3:16 |
 | 10 | [Dil Ki Baat](https://open.spotify.com/track/4y9zpfPPxxdYewg6nem0lE) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Dil Ki Baat](https://open.spotify.com/album/72Gqg2UNf8ebPoqMGtuOUW) | 1:37 |
 | 11 | [isaidimfine.](https://open.spotify.com/track/08Afk2VmTs5QgLm2YS3Q0k) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [isaidimfine.](https://open.spotify.com/album/1DgtdTn8MXaVgENRJPsb3R) | 3:56 |

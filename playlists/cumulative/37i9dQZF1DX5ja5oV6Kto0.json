@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 171272,
       "name": "42",
       "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 168774,
       "name": "911",
       "url": "https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 90358,
       "name": "Coat",
       "url": "https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 170666,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/0rYXUF6ZVuRfOSNdyjNLq7"
@@ -3375,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "CURIOUS CAESAR",
+        "url": "https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "CURIOUS CAESAR",
+      "url": "https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M"
+    },
+    {
+      "album": {
         "name": "Curtains",
         "url": "https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI"
       },
@@ -3758,7 +3776,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 142104,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/0yiBLJp8JFeJU8DcJeuwjU"
@@ -4375,6 +4393,28 @@
     },
     {
       "album": {
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "4TUNAT",
+          "url": "https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183916,
+      "name": "FIGURE IT OUT",
+      "url": "https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/3ViUMVEFujLAufASaNcuDM"
       },
@@ -4592,6 +4632,24 @@
       "duration_ms": 214588,
       "name": "For You",
       "url": "https://open.spotify.com/track/4WwUs56upUKcrhTaFpN6x7"
+    },
+    {
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
     },
     {
       "album": {
@@ -6238,7 +6296,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 127868,
       "name": "It's A No From Me",
       "url": "https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4"
@@ -7051,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "Hate It Here",
+        "url": "https://open.spotify.com/album/29MTZbaYdLzR29gL1pKjst"
+      },
+      "artists": [
+        {
+          "name": "Clayrocksu",
+          "url": "https://open.spotify.com/artist/4y3cAqb2AntF9Fa0EyEj2Y"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175234,
+      "name": "Lele",
+      "url": "https://open.spotify.com/track/5KEySaLmNVT2DjB7qgKsHX"
+    },
+    {
+      "album": {
         "name": "less is more",
         "url": "https://open.spotify.com/album/2YRR2wZ8cz6nDHeUUfW5BI"
       },
@@ -7386,7 +7462,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 137291,
       "name": "Lizard People (ft. DETO BLACK & Mowalola)",
       "url": "https://open.spotify.com/track/2BZ8tyDSZnijWaaIC0xtpc"
@@ -7862,7 +7938,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 184166,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
@@ -8890,7 +8966,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 125659,
       "name": "NOSTALGIA",
       "url": "https://open.spotify.com/track/7aIYf40dMcEKIz4cDMJ1io"
@@ -9462,7 +9538,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 122374,
       "name": "Panic Island",
       "url": "https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t"
@@ -9923,6 +9999,28 @@
     },
     {
       "album": {
+        "name": "Que Sera",
+        "url": "https://open.spotify.com/album/09vJd4nTEvLwwhgpOKnbAl"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        },
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "Que Sera",
+      "url": "https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK"
+    },
+    {
+      "album": {
         "name": "Quick Fix",
         "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
       },
@@ -10234,7 +10332,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 174033,
       "name": "Red Potion",
       "url": "https://open.spotify.com/track/6THzboswz9kc4gfkmTTePN"
@@ -10758,7 +10856,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 226440,
       "name": "Scrambled Eggs",
       "url": "https://open.spotify.com/track/3smwc80xoQVOLTD8obotk9"
@@ -10882,7 +10980,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 151984,
       "name": "Sexy Sexy",
       "url": "https://open.spotify.com/track/0w3lb3eE9EMDcymMUW6UZE"
@@ -10986,7 +11084,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 230500,
       "name": "SHE WAAN",
       "url": "https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8"
@@ -11644,7 +11742,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 229541,
       "name": "Space Roof",
       "url": "https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X"
@@ -13311,6 +13409,24 @@
     },
     {
       "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
+    },
+    {
+      "album": {
         "name": "Vita",
         "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
       },
@@ -13792,7 +13908,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-07",
       "duration_ms": 240261,
       "name": "Why Evils",
       "url": "https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r"
